@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183120,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
+    },
+    {
+      "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
       },
@@ -4710,7 +4728,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 133904,
       "name": "MotoSpeed 24",
       "url": "https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97"
@@ -6820,7 +6838,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 186240,
       "name": "Tap Tap",
       "url": "https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI"
@@ -7280,6 +7298,24 @@
       "duration_ms": 167507,
       "name": "TRIGGER",
       "url": "https://open.spotify.com/track/2VhmgfllXg5YGG9blUJ3YZ"
+    },
+    {
+      "album": {
+        "name": "A Dream Of ILY:1",
+        "url": "https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG"
+      },
+      "artists": [
+        {
+          "name": "ILY:1",
+          "url": "https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Twinkle, Twinkle",
+      "url": "https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8"
     },
     {
       "album": {
@@ -8186,7 +8222,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 162240,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3KOM7GQcX4KytvirhfdlCW"
@@ -8446,7 +8482,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 200986,
       "name": "\u541b\u306e\u58f0 (Your voice)",
       "url": "https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV"

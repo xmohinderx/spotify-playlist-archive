@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-164 songs - 10 hr 35 min
+165 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [I Believe It Now](https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [I Believe It Now](https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk) | 3:48 | 2022-02-27 |  |
 | [I Don't Wanna Live Like This](https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [The Consequence Of Being Alive](https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7) | 2:57 | 2022-11-11 | 2022-12-17 |
 | [i love You](https://open.spotify.com/track/3SV5If35apkALd51Z5ChYu) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [i love You](https://open.spotify.com/album/3B5lVoHjcviiME7o1qgmHj) | 4:30 | 2022-02-27 | 2022-07-18 |
-| [I Might Not Be Breathing](https://open.spotify.com/track/4YJcjLWnuUtIdBDvpnN6Df) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Outatime!](https://open.spotify.com/artist/4v8xBaNwna8BMYcvjwXmlN) | [I Might Not Be Breathing](https://open.spotify.com/album/5FF3iZ2Yxr3nF2UqYmfqRg) | 2:58 | 2022-02-27 |  |
+| [I Might Not Be Breathing](https://open.spotify.com/track/4YJcjLWnuUtIdBDvpnN6Df) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Outatime!](https://open.spotify.com/artist/4v8xBaNwna8BMYcvjwXmlN) | [I Might Not Be Breathing](https://open.spotify.com/album/5FF3iZ2Yxr3nF2UqYmfqRg) | 2:58 | 2022-02-27 | 2023-01-10 |
 | [I Need You](https://open.spotify.com/track/4iMdwbHXjURvXplh7Vg4fA) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [If I'm Being Honest...](https://open.spotify.com/album/6tqmBqthBvbXdhWT5qCcaw) | 4:04 | 2022-02-27 | 2022-07-18 |
 | [i need you \(to be wrong\)](https://open.spotify.com/track/6eJqKWCZOl2bEWp9nZHpcj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [I need you \(to be wrong\)](https://open.spotify.com/album/5tTKoNao7iso4Xz33oB1sY) | 3:33 | 2022-02-27 | 2022-03-12 |
 | [i need you \(to be wrong\) \- lovelytheband remix](https://open.spotify.com/track/3COH4Ecm10uKkFp1hHD8Lw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [i need you \(to be wrong\) \[lovelytheband remix\]](https://open.spotify.com/album/1TcidDGk2dzELKzIGM8Kel) | 3:05 | 2022-07-17 | 2022-12-17 |
@@ -124,6 +124,7 @@
 | [Old Dreams \- Live from Kansas City](https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [HOPE OR NOSTALGIA LIVE](https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0) | 3:09 | 2022-02-27 |  |
 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 | 2022-07-17 |  |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-04-01 | 2022-12-17 |
+| [Only One](https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Only One](https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6) | 4:08 | 2023-01-10 |  |
 | [Peter](https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Move of Heaven](https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD) | 5:39 | 2022-12-17 |  |
 | [Pilot](https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sammie Lee](https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2) | [Pilot](https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY) | 1:40 | 2022-03-11 |  |
 | [Power in the Name](https://open.spotify.com/track/45JAWhKAhmn24BBRxMrdSQ) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Power in the Name](https://open.spotify.com/album/38B4VQuH9L7ehUBjooYFdN) | 4:34 | 2022-02-27 | 2022-07-18 |

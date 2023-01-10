@@ -2363,6 +2363,32 @@
     },
     {
       "album": {
+        "name": "Greenlight",
+        "url": "https://open.spotify.com/album/68wWX5kWx8LfF0pdFQpQxS"
+      },
+      "artists": [
+        {
+          "name": "Kay-M",
+          "url": "https://open.spotify.com/artist/4E6NjZtPhoaV7n4SQ3FP58"
+        },
+        {
+          "name": "Hoodllandsz",
+          "url": "https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ"
+        },
+        {
+          "name": "Kizza",
+          "url": "https://open.spotify.com/artist/6nKaovPLk97FgrsrYMtxtG"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161793,
+      "name": "Greenlight",
+      "url": "https://open.spotify.com/track/39TuodfVE3fwcjbBL6JeDu"
+    },
+    {
+      "album": {
         "name": "Grime",
         "url": "https://open.spotify.com/album/0ENPqLod3mLWDwOAUVll6S"
       },

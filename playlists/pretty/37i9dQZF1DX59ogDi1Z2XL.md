@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Connor Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,001 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,093 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Buddy](https://open.spotify.com/track/5GZp8q9eZ9qn0TSwAayT1o) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Buddy](https://open.spotify.com/album/6FKcmAZd12976GvGnPIyMS) | 1:57 |
-| 2 | [Can't Stop](https://open.spotify.com/track/35ZhlhMWsp9l6PGsJ6mFVR) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode Vol\. 2](https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH) | 2:45 |
+| 2 | [Can't Stop](https://open.spotify.com/track/2GTckWN6BfclWRoPuebv0Y) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode, Vol\. 2](https://open.spotify.com/album/4A8f0Z1JyDl02Okgp2niSH) | 2:45 |
 | 3 | [KILLY KILLY](https://open.spotify.com/track/6wQKRXROfrY55AJobw6mmO) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Crazy Life of Sin](https://open.spotify.com/album/2nESlXExv01jc8uPwBhaeV) | 3:24 |
 | 4 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |
 | 5 | [Bora Bora](https://open.spotify.com/track/586guBKCSzccyYZVZduraw) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw) | [Big Screen](https://open.spotify.com/album/3fbMX5wfEMgo9jsGvxArf3) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Who!? What!?](https://open.spotify.com/track/1YTzKEfWyUaptahtWr7jmQ) | [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Who!? What!?](https://open.spotify.com/album/7mdrOcnyTtp8jr1DL6U4ja) | 2:46 |
 | 100 | [Warm Up \(The Game Diss\)](https://open.spotify.com/track/03mkWOuw7D5Izj47a286lW) | [Pat Stay](https://open.spotify.com/artist/1S7w6rd49oFjflpe2pf2ly), [Kaleb Simmonds](https://open.spotify.com/artist/1L8PuQm4LBoJaxP6Rr9K6m) | [Warm Up \(The Game Diss\)](https://open.spotify.com/album/1A7gKomTGd4jgIRcs22mcQ) | 3:13 |
 
-Snapshot ID: `MTY3Mjk4MTI2MCwwMDAwMDAwMGRhMzdjZGM0OGQ3OGMzN2Q4MWE3ZDQ0ZDg0ZWQwYjZh`
+Snapshot ID: `MTY3Mjk4MTI2MCwwMDAwMDAwMDNhYTIxZTA5NDEyMmU5OTdjY2FjM2Q2ZWI2NjEyMTMz`

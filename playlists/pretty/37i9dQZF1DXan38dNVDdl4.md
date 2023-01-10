@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,134 likes - 68 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,214 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 18 | [Promise](https://open.spotify.com/track/42IAZoTfXbQXeMWDBkra8N) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/4Oe28W0jCoC1g7GdyQbe7y) | 3:39 |
 | 19 | [TAPE MEASURE](https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated](https://open.spotify.com/album/7ce1HCzYF5AMlYsM639YlN) | 2:50 |
 | 20 | [CIRCLE](https://open.spotify.com/track/0hhqESgp2xsMfvypocWzHl) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [CIRCLE](https://open.spotify.com/album/6RMgO1zXuxZ1Cu2YswENrL) | 2:42 |
-| 21 | [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
+| 21 | [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [1stClass](https://open.spotify.com/artist/2Ij4d78H8hZnKFSqX1gAwp) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
 | 22 | [King](https://open.spotify.com/track/6UgkzIOa5TBl6azcnLlgoK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:11 |
 | 23 | [So Me Stay](https://open.spotify.com/track/0S8VgLfuZwWJMGXUBJXlEy) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [So Me Stay](https://open.spotify.com/album/4F7todLkxPeG4KjupkQSMQ) | 2:38 |
 | 24 | [Chosen](https://open.spotify.com/track/0n81yw2IFUG6imbKQbd1hT) | [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [Chosen](https://open.spotify.com/album/3m0ma3GvTHyf5Ia1g69awi) | 4:33 |

@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Katy Perry and Thomas Rhett",
-  "num_followers": 108791,
+  "num_followers": 108875,
   "original_name": "PopCo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGJmN2RkODQ4OGZjNTA1ZGE1OGNhYTI2MjQ2NTkxMzIy",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDg0OTcxNTNkZTE1YWU2Nzk3MWY2MmUwODM2ZGUwZTc4",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "One Man Band",
-      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 197293,
       "name": "The Bones",
       "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+      "duration_ms": 186240,
+      "name": "One Man Band",
+      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Take My Name",
-      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
         }
       ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+      "duration_ms": 157906,
+      "name": "Take My Name",
+      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
       },
@@ -499,18 +515,54 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dancin' In The Country",
-        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+        "name": "Glad You Exist",
+        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 179645,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+      "duration_ms": 144533,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "One Too Many",
+        "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "One Too Many",
+      "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -535,38 +587,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Glad You Exist",
-        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+        "name": "She Likes It (feat. Jake Scott)",
+        "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+      "duration_ms": 163311,
+      "name": "She Likes It (feat. Jake Scott)",
+      "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
     },
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "One Too Many",
-        "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
+        "name": "Remember Her Name",
+        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 203893,
-      "name": "One Too Many",
-      "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+      "duration_ms": 189720,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -607,58 +659,6 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Remember Her Name",
-        "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "She Likes It (feat. Jake Scott)",
-        "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        },
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 163311,
-      "name": "She Likes It (feat. Jake Scott)",
-      "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -707,6 +707,22 @@
       "duration_ms": 213066,
       "name": "Me Myself and Why",
       "url": "https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -763,26 +779,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 189495,
-      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "No Bad Days (featuring Jimmie Allen)",
         "url": "https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr"
       },
@@ -799,6 +795,26 @@
       "duration_ms": 145499,
       "name": "No Bad Days (featuring Jimmie Allen)",
       "url": "https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 189495,
+      "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -823,22 +839,6 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -907,22 +907,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "When You Know",
-        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
+        "name": "Baby I Am",
+        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
         }
       ],
-      "duration_ms": 178994,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
+      "duration_ms": 176573,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -947,18 +943,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Baby I Am",
-        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
+        "name": "When You Know",
+        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
       },
       "artists": [
         {
-          "name": "Dalton Dover",
-          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 176573,
-      "name": "Baby I Am",
-      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
+      "duration_ms": 178994,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Born Here Live Here Die Here (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
+        "name": "Fancy Like (feat. Kesha)",
+        "url": "https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
+      "duration_ms": 161853,
+      "name": "Fancy Like (feat. Kesha)",
+      "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Fancy Like (feat. Kesha)",
-        "url": "https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA"
+        "name": "Born Here Live Here Die Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
       },
       "artists": [
         {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 161853,
-      "name": "Fancy Like (feat. Kesha)",
-      "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
+      "duration_ms": 228440,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "justified",
-      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 147693,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "justified",
+      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Russell Dickerson",
-        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Mercury Lane",
         "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172280,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Russell Dickerson",
+        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Anything She Says",
         "url": "https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Home Sweet",
+        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Home Sweet",
+      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Life Rolls On",
         "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
       },
@@ -1383,42 +1399,6 @@
       "duration_ms": 176413,
       "name": "Coulda Loved You Longer",
       "url": "https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1455,6 +1435,26 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Better On Me",
-        "url": "https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 149332,
-      "name": "Better On Me",
-      "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Woman You Got",
         "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 177951,
       "name": "Woman You Got",
       "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Better On Me",
+        "url": "https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 149332,
+      "name": "Better On Me",
+      "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "INTERTWINED",
-        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
-      },
-      "artists": [
-        {
-          "name": "CHASE WRIGHT",
-          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
-        }
-      ],
-      "duration_ms": 214270,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2zqHx2d8a0NfhoE7wVJqqK"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Sunday Drive",
         "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 205626,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "INTERTWINED",
+        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        }
+      ],
+      "duration_ms": 214270,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2zqHx2d8a0NfhoE7wVJqqK"
     },
     {
       "added_at": "2023-01-06 05:00:00",

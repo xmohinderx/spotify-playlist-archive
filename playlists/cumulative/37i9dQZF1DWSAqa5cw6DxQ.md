@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-119 songs - 5 hr 57 min
+121 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,10 @@
 | [Kepler's Law](https://open.spotify.com/track/6KI4H8nNADQYHQXrcWgJ4k) | [Aislinn Delarosa](https://open.spotify.com/artist/3uwheBIstOkeaW8Mx2hEv9) | [Greet The Day](https://open.spotify.com/album/7x4emLYlGslRZDwlffehF9) | 3:05 | 2022-02-28 |  |
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-02-28 | 2022-11-23 |
 | [Lake Como](https://open.spotify.com/track/4WstvhelZEHggLOZ4SyOqm) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Lake Como](https://open.spotify.com/album/5oSXlTvivXtQfW0YypVrRi) | 3:03 | 2022-09-30 |  |
+| [Light Within](https://open.spotify.com/track/7rNnrVwbsVBp9ft4i35ARA) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Light Within](https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad) | 2:33 | 2023-01-09 |  |
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-02-28 |  |
 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 | 2022-02-28 |  |
+| [Magic Worlds](https://open.spotify.com/track/3fZsYSmV0wVcYiMxadz8zB) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Magic Worlds](https://open.spotify.com/album/61rBosjZ6hfSCqJcQAfyeh) | 2:52 | 2023-01-09 |  |
 | [Magnificent](https://open.spotify.com/track/1stfXob94ikJI62rgUmv0Q) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Magnificent](https://open.spotify.com/album/3angJVLNrpywiTZZfU9pis) | 2:36 | 2022-02-28 |  |
 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 | 2022-02-28 |  |
 | [Matilda](https://open.spotify.com/track/7IPGf2SV48wzUx3KcD8T8h) | [Nikolaj Gaideur](https://open.spotify.com/artist/7BeOUN76z2LvYSqRpcXqvY) | [Matilda](https://open.spotify.com/album/74W4n7jXX8tuHl66qzA0Ws) | 2:06 | 2022-02-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 533169,
+  "num_followers": 533223,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk0NTIyOSwwMDAwMDAwMGVkNzFjNWVlMjQzZTFhOGU0M2RjYzE3OTEzYTIzYjgz",
+  "snapshot_id": "MTY3Mjk0NTIyOSwwMDAwMDAwMDliNWVjNmQxZmUyNmJmNTdjMGRlYjQxMjYxYTg0MTc5",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -179,26 +179,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "LA FAMA",
-      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -295,6 +295,30 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Si Te Preguntan...",
+        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 223073,
+      "name": "Si Te Preguntan...",
+      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -335,26 +359,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Si Te Preguntan...",
-        "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 223073,
-      "name": "Si Te Preguntan...",
-      "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -391,26 +411,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "OPUS",
         "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
       },
@@ -423,6 +423,38 @@
       "duration_ms": 268440,
       "name": "Parecen Viernes",
       "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 222043,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -447,18 +479,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 222043,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
+      "duration_ms": 191209,
+      "name": "Carita de Inocente",
+      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -503,18 +535,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 191209,
-      "name": "Carita de Inocente",
-      "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -567,18 +599,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
       "artists": [
         {
           "name": "Romeo Santos",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+      "duration_ms": 225386,
+      "name": "Canalla",
+      "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -595,22 +631,6 @@
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -639,6 +659,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Lao' a Lao'",
+        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 184341,
+      "name": "Lao' a Lao'",
+      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
       },
@@ -655,22 +691,6 @@
       "duration_ms": 170106,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Lao' a Lao'",
-        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 184341,
-      "name": "Lao' a Lao'",
-      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -695,22 +715,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Mi Mundo Entero",
         "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 158067,
       "name": "Mi Mundo Entero",
       "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -743,26 +763,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "Canalla",
-      "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252100,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -863,6 +847,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252100,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 194453,
       "name": "La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Lado A Lado B",
+        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 276726,
+      "name": "Decid\u00ed Tener Pantalones",
+      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "T\u00fa 1ero",
         "url": "https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL"
       },
@@ -1367,6 +1347,26 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Vallenato Apretao",
         "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
       },
@@ -1379,38 +1379,6 @@
       "duration_ms": 158120,
       "name": "Vallenato Apretao",
       "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Vuela Muy Alto",
-      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "L\u00e1mpara Pa' Mis Pies",
-      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1431,6 +1399,38 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "L\u00e1mpara Pa' Mis Pies",
+      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Vuela Muy Alto",
+      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Todav\u00eda Te Espero",
         "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
       },
@@ -1443,26 +1443,6 @@
       "duration_ms": 192063,
       "name": "Todav\u00eda Te Espero",
       "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Boogaloo Supreme",
-        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 208152,
-      "name": "Boogaloo Supreme",
-      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1551,6 +1531,26 @@
       "duration_ms": 161906,
       "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Boogaloo Supreme",
+        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 208152,
+      "name": "Boogaloo Supreme",
+      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1663,30 +1663,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 184089,
-      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "De Camino A Palomino, Vol. 1",
         "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
@@ -1731,6 +1707,30 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 184089,
+      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Traici\u00f3nalo Conmigo",
         "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
       },
@@ -1795,62 +1779,6 @@
       "duration_ms": 225000,
       "name": "Traici\u00f3nalo Conmigo",
       "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Y Le Dije No",
-        "url": "https://open.spotify.com/album/3LRxWGnjdFcxjRjO01s7sG"
-      },
-      "artists": [
-        {
-          "name": "Yahaira Plasencia",
-          "url": "https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Y Le Dije No - Salsa",
-      "url": "https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "SALSWING!",
-        "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Roberto Delgado & Orquesta",
-          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
-        }
-      ],
-      "duration_ms": 336947,
-      "name": "Paula C.",
-      "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 200589,
-      "name": "Fiesta Contigo",
-      "url": "https://open.spotify.com/track/1Q2ddhGYcclf6gUvPNKXei"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1875,18 +1803,74 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "En Cuarentena",
-        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 259586,
-      "name": "El Combo del Mundo",
-      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Y Le Dije No",
+        "url": "https://open.spotify.com/album/3LRxWGnjdFcxjRjO01s7sG"
+      },
+      "artists": [
+        {
+          "name": "Yahaira Plasencia",
+          "url": "https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Y Le Dije No - Salsa",
+      "url": "https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 200589,
+      "name": "Fiesta Contigo",
+      "url": "https://open.spotify.com/track/1Q2ddhGYcclf6gUvPNKXei"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "SALSWING!",
+        "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
+        }
+      ],
+      "duration_ms": 336947,
+      "name": "Paula C.",
+      "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "En Cuarentena",
+        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "El Combo del Mundo",
+      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Tierra de Mis Amores",
         "url": "https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR"
       },
@@ -1919,22 +1919,6 @@
       "duration_ms": 241880,
       "name": "El Coco",
       "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1975,6 +1959,38 @@
       "duration_ms": 229000,
       "name": "Quiero Decirte - DJ C Remix",
       "url": "https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "De Trulla Con el Combo",
+        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 259433,
+      "name": "No Hay",
+      "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2055,38 +2071,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "De Trulla Con el Combo",
-        "url": "https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 259433,
-      "name": "No Hay",
-      "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Rupelto Mena",
-        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "Rupelto Mena",
-      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Pa'mi",
         "url": "https://open.spotify.com/album/72FTTLV9T0i47Gix0xHbx1"
       },
@@ -2107,22 +2091,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Hazme Olvidarla",
-        "url": "https://open.spotify.com/album/3dwjqJ9XxOR0hqRj0O21Dm"
+        "name": "Rupelto Mena",
+        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
       },
       "artists": [
         {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 200032,
-      "name": "Hazme Olvidarla",
-      "url": "https://open.spotify.com/track/3AqapIXtK0zzgTm7H2lpFn"
+      "duration_ms": 289573,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2143,6 +2123,26 @@
       "duration_ms": 264906,
       "name": "Uno de los Dos",
       "url": "https://open.spotify.com/track/0GuebVpkNITyobZ52oLTqf"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Hazme Olvidarla",
+        "url": "https://open.spotify.com/album/3dwjqJ9XxOR0hqRj0O21Dm"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "duration_ms": 200032,
+      "name": "Hazme Olvidarla",
+      "url": "https://open.spotify.com/track/3AqapIXtK0zzgTm7H2lpFn"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2183,30 +2183,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Imaginarme Sin Ti (Remix)",
-        "url": "https://open.spotify.com/album/4oqq94m8FpC6bTokPljUxD"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 238701,
-      "name": "Imaginarme Sin Ti - Remix",
-      "url": "https://open.spotify.com/track/6b5hDov3xiT6uALZn78GUu"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Si Fuera M\u00eda",
         "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
       },
@@ -2239,6 +2215,30 @@
       "duration_ms": 248173,
       "name": "Tranquila Bebe",
       "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Imaginarme Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/4oqq94m8FpC6bTokPljUxD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 238701,
+      "name": "Imaginarme Sin Ti - Remix",
+      "url": "https://open.spotify.com/track/6b5hDov3xiT6uALZn78GUu"
     }
   ],
   "unique_name": "Tropical Hits",

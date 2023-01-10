@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 225135,
+  "num_followers": 225232,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NzE4NSwwMDAwMDAwMDE5YzdiMDBiZjAwMzUzNWUwZDZlNzA0ZDllODJiMjEz",
+  "snapshot_id": "MTY3Mjc1NzE4NSwwMDAwMDAwMDUzN2MwODJmOWZhNWFiNzFkYzVmNzk3NzFmOWNhNDYw",
   "tracks": [
     {
       "added_at": "2022-11-25 14:39:00",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
-      "added_at": "2023-01-09 01:29:01",
+      "added_at": "2023-01-10 01:26:30",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-11-25 14:39:00",
       "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "added_at": "2022-11-25 14:39:00",
+      "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 201122,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2022-11-25 14:39:00",
-      "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
     },
     {
       "added_at": "2022-11-25 14:39:00",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
-      "added_at": "2023-01-09 01:29:01",
+      "added_at": "2023-01-10 01:26:30",
       "album": {
         "name": "Without Fear",
         "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
@@ -835,6 +835,26 @@
     {
       "added_at": "2022-11-25 14:39:00",
       "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Solo (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h"
+    },
+    {
+      "added_at": "2022-11-25 14:39:00",
+      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 368783,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
-    },
-    {
-      "added_at": "2022-11-25 14:39:00",
-      "album": {
-        "name": "Bittersweet Symphony",
-        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
-      },
-      "artists": [
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        },
-        {
-          "name": "Emily Roberts",
-          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
-        }
-      ],
-      "duration_ms": 194618,
-      "name": "Bittersweet Symphony",
-      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
     }
   ],
   "unique_name": "Morning Run ",

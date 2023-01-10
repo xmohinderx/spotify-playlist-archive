@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
-  "num_followers": 839828,
+  "num_followers": 839853,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNDgyNywwMDAwMDAwMDdmZjA2MWYwNTNlMTcyN2RlMzA3ZjYxZDJkNmVlMDQw",
+  "snapshot_id": "MTY3MzAyNDgyNywwMDAwMDAwMGNhNGI3YzczMDE2MDZhNWU2NTMxODBjMGZmMTBhYThj",
   "tracks": [
     {
       "added_at": "2022-12-14 15:18:49",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Keep It Tucked",
-        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
       },
       "artists": [
         {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 173576,
-      "name": "Keep It Tucked",
-      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -191,6 +191,22 @@
       "duration_ms": 218640,
       "name": "the dealer",
       "url": "https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Keep It Tucked",
+        "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 173576,
+      "name": "Keep It Tucked",
+      "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
     },
     {
       "added_at": "2022-12-14 15:21:35",
@@ -223,22 +239,6 @@
       "duration_ms": 195289,
       "name": "Billie Toppy",
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Skinny Ape",
-        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 281258,
-      "name": "Skinny Ape",
-      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-12-14 15:21:35",
       "album": {
-        "name": "From 2 to 3",
-        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Give Up Baby Go",
-      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
-    },
-    {
-      "added_at": "2022-12-14 15:21:35",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
+    },
+    {
+      "added_at": "2022-12-14 15:21:35",
+      "album": {
+        "name": "From 2 to 3",
+        "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 257006,
+      "name": "Give Up Baby Go",
+      "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "All Comes Crashing",
-      "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 165445,
       "name": "Belinda Says",
       "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "All Comes Crashing",
+      "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
     },
     {
       "added_at": "2022-12-14 15:18:49",

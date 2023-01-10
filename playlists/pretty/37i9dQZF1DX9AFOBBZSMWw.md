@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,448 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,546 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 4 | [Vossi Bop](https://open.spotify.com/track/5DXKtoZLm31msT7tNGNHLG) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:16 |
 | 5 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
 | 6 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
-| 7 | [Give It To The Water](https://open.spotify.com/track/2jqHecEIGTgFcfOEYBpq8X) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 4:12 |
+| 7 | [Give It To The Water](https://open.spotify.com/track/2jqHecEIGTgFcfOEYBpq8X) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 4:12 |
 | 8 | [Big For Your Boots](https://open.spotify.com/track/3uMB82o0qa7erhiZBW9KQC) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:58 |
 | 9 | [Wiley Flow](https://open.spotify.com/track/5Rbj8akony3l0NNM5TjH1F) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:27 |
 | 10 | [My Presidents Are Black](https://open.spotify.com/track/0qmrfZSMmwDIygen2CiiEh) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 4:21 |

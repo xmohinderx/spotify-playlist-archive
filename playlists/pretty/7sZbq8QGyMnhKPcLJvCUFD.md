@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 746,372 likes - 169 songs - 8 hr 43 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 746,398 likes - 169 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 |
-| 2 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
-| 3 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 |
-| 4 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 |
-| 5 | [No More Levitation](https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [No More Levitation](https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9) | 4:08 |
+| 2 | [No More Levitation](https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [No More Levitation](https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9) | 4:08 |
+| 3 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
+| 4 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 |
+| 5 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 |
 | 6 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 |
 | 7 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 |
 | 8 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 168 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 |
 | 169 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 |
 
-Snapshot ID: `NDgzOSw4ZDhjOWNjNDI3MjcxZmI3NTEzMTg0ZTc2YThlNWMzODk0Y2QwNjMz`
+Snapshot ID: `NDg0MCw3YzI3MGFhYzkzNWFhNTEwMDQ4YzEzZWZmZmM4ZGQ5NjZmZGM2Nzgw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,370 likes - 51 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,521 likes - 51 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 11 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 |
 | 12 | [The Wind Cries Mary](https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:20 |
 | 13 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 |
-| 14 | [Gypsy Eyes](https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:43 |
+| 14 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:10 |
 | 15 | [Bold as Love](https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 4:11 |
 | 16 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 |
 | 17 | [Freedom](https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:26 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 35 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
 | 36 | [Like A Rolling Stone \- Live At Monterey](https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 7:06 |
 | 37 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 6:04 |
-| 38 | [Valleys of Neptune](https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Valleys Of Neptune](https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg) | 4:02 |
-| 39 | [In From the Storm \- Live In Maui, 1970](https://open.spotify.com/track/4T63pVTfnB0yqYCxBeNes0) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live In Maui](https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy) | 4:25 |
+| 38 | [In From the Storm \- Live In Maui, 1970](https://open.spotify.com/track/4T63pVTfnB0yqYCxBeNes0) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live In Maui](https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy) | 4:25 |
+| 39 | [Valleys of Neptune](https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Valleys Of Neptune](https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg) | 4:02 |
 | 40 | [Machine Gun \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 8:53 |
 | 41 | [Hey Gypsy Boy](https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:39 |
 | 42 | [Killing Floor \- Live At Monterey](https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 3:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 50 | [Tax Free \- Live at the Los Angeles Forum, Inglewood, CA \- April 26, 1969](https://open.spotify.com/track/6aafnoN8DyLju1SVjN3YVH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Los Angeles Forum \- April 26, 1969 \(Live\)](https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT) | 15:34 |
 | 51 | [Dolly Dagger](https://open.spotify.com/track/417qXCSHPqUYQHyPbRTpM2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 4:45 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDBlYWEyZDI3YmI0ZDI2MmQwZmUwZjdiMjhjOTIwM2VhYw==`
+Snapshot ID: `Mjc4ODc5MzAsMDAwMDAwMDBmODcyZmYzMTRkMDYyZDkzZGYyZWI5ZGY2NjY5NTQ1OA==`

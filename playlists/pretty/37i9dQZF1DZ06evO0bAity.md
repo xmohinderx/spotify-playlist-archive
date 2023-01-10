@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937 likes - 43 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 936 likes - 43 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 13 | [Hot Potato](https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:15 |
 | 14 | [Still No Change](https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:32 |
 | 15 | [Front Row Hustle](https://open.spotify.com/track/0JNmthvbaoZlUaHfhpBo4V) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Briggs](https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu), [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl), [trials](https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai) | [Front Row Hustle](https://open.spotify.com/album/09TdDGWBeDqdEx4TjZkDPk) | 3:43 |
-| 16 | [Run To Paradise](https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Run To Paradise](https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT) | 3:14 |
-| 17 | [Fear The Anchor](https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 1:54 |
+| 16 | [Fear The Anchor](https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 1:54 |
+| 17 | [Run To Paradise](https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Run To Paradise](https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT) | 3:14 |
 | 18 | [Blood On My Leather](https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh) | 2:33 |
 | 19 | [Reflective Skull](https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 |
 | 20 | [Afterglow](https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:30 |
-| 21 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 |
+| 21 | [Riff City](https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 1:06 |
 | 22 | [Make Yourself Mad](https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Make Yourself Mad](https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe) | 2:40 |
 | 23 | [Keep Myself on Edge](https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:34 |
 | 24 | [Bad Influence](https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 1:10 |
-| 25 | [Riff City](https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 1:06 |
+| 25 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 |
 | 26 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 |
 | 27 | [Ocean Exploder](https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 4:04 |
 | 28 | [Guillotine](https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 2:11 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 42 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
 | 43 | [Play Dead Until You're Dead](https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:02 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDAxZTNlNGU0ODJmNGRmYmQwNzc2YWE2OTFkOGM1ODljMA==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA3MmJmYjZkMjdiNzllYzc1N2RiOTY1MDJmM2Y4OGIxMw==`

@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-373 songs - 19 hr 34 min
+375 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2022-05-26 |  |
 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2022-05-26 |  |
 | [Slumbers](https://open.spotify.com/track/3BSKxVvda7WjfYIm3rhOgY) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Ring Revolutions](https://open.spotify.com/album/23B8w3QuiaMhX0r5OFWeIu) | 3:31 | 2022-05-26 |  |
+| [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-09 |  |
 | [Solar Eclipse](https://open.spotify.com/track/4pcp7p5lioqQ6996nyjdd5) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Eclipse](https://open.spotify.com/album/7BrTQS2tjIaezPAYB9Gmp6) | 4:01 | 2022-05-26 |  |
 | [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 | 2022-05-26 |  |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
@@ -309,6 +310,7 @@
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2022-05-26 |  |
 | [Soothing You](https://open.spotify.com/track/1D0CY5Zv9PW1ELhyppJtSK) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [The Sleepers](https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3) | 3:15 | 2022-09-30 |  |
 | [Spaces](https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:27 | 2022-05-26 |  |
+| [Spirits on My Mind](https://open.spotify.com/track/44taQM4lPyUeGSrt5TYhGh) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [Spirits on My Mind](https://open.spotify.com/album/7LGeDsQaq0qZNgDxhxTdCj) | 3:10 | 2023-01-09 |  |
 | [Spring](https://open.spotify.com/track/7f8Hk18yQg1l3oNsrKIkvO) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Clarity](https://open.spotify.com/album/4gwIzFYM5sKgPPeLIG5AP9) | 3:15 | 2022-05-26 |  |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-26 |  |
 | [Stay Calm](https://open.spotify.com/track/5zkiu5XpdHiPKNiLOe0COb) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Stay Calm](https://open.spotify.com/album/53ttP75v3Kh5kl4FimxQA4) | 2:56 | 2022-05-26 | 2022-12-21 |

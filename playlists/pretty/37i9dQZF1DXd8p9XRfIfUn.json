@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 61464,
+  "num_followers": 61489,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMGFmYzNkMWFhYzI1ZmU3YzA5NDNlMDE0NmFiZjkzZTg4",
+  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMDQ4NmU3NDUzYzRkYWFkMjg2MjQ3MmZjYzliODZjM2Qw",
   "tracks": [
     {
       "added_at": "2022-12-09 05:01:00",
@@ -235,30 +235,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
-        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
       },
       "artists": [
         {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 280274,
-      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
-      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -283,18 +271,30 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+        "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
+        "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+      "duration_ms": 280274,
+      "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+      "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "Que Loco Mami",
+        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "Que Loco Mami",
+      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "Cu\u00e1ndo Ser\u00e1",
         "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 213920,
       "name": "algo as\u00ed",
       "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Que Loco Mami",
-        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        }
-      ],
-      "duration_ms": 176629,
-      "name": "Que Loco Mami",
-      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1047,6 +1047,34 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r"
+      },
+      "artists": [
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "duration_ms": 222127,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "N\u00facleo",
         "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
       },
@@ -1079,34 +1107,6 @@
       "duration_ms": 178626,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r"
-      },
-      "artists": [
-        {
-          "name": "Drago200",
-          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 222127,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Mala Memoria",
-        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
+        "name": "Hace Rato",
+        "url": "https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn"
       },
       "artists": [
         {
-          "name": "West Blanco",
-          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
         }
       ],
-      "duration_ms": 178240,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
+      "duration_ms": 223266,
+      "name": "Hace Rato",
+      "url": "https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

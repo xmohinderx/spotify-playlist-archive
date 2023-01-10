@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Gemstone",
+        "url": "https://open.spotify.com/album/0YonZJr6p64ujZmsEiUqjT"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151458,
+      "name": "Gemstone",
+      "url": "https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW"
+    },
+    {
+      "album": {
         "name": "Koyasan: Reiki Sound Healing",
         "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
       },
@@ -996,6 +1014,24 @@
       "duration_ms": 177428,
       "name": "Namaste",
       "url": "https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX"
+    },
+    {
+      "album": {
+        "name": "Namaste Divine",
+        "url": "https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244025,
+      "name": "Namaste Divine",
+      "url": "https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F"
     },
     {
       "album": {

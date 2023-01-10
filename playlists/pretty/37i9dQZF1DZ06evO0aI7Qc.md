@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,853 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,104 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 46 | [El H \(En Vivo\)](https://open.spotify.com/track/6053Is00EA36bQRzjvairQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Pisteando Con Amigos \(En Vivo\)](https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU) | 3:00 |
 | 47 | [Sin Apodo \(En Vivo\)](https://open.spotify.com/track/0Up3NfbU2p9keQHqcPZYQO) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sin Apodo \(En Vivo\)](https://open.spotify.com/album/2jDt8iQGBpf0kHtlKm7ZdM) | 3:21 |
 | 48 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 |
-| 49 | [El Primito \(En Vivo\)](https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Primito \(En Vivo\)](https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih) | 3:05 |
-| 50 | [El Del Palenque](https://open.spotify.com/track/6LWj1Vkb8eAtvGm4kAc2bD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/4yWgittlnciR60xapf9IYH) | 3:23 |
+| 49 | [El Del Palenque](https://open.spotify.com/track/6LWj1Vkb8eAtvGm4kAc2bD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/4yWgittlnciR60xapf9IYH) | 3:23 |
+| 50 | [El Primito \(En Vivo\)](https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Primito \(En Vivo\)](https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih) | 3:05 |
 | 51 | [El Doble R](https://open.spotify.com/track/516mMyMpgX5AvGZ773buQd) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Doble R](https://open.spotify.com/album/0qitEBP6yqG4OJNw4NjR7a) | 2:41 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA4ZDdiMDNjYjIxYWIxZjMyZWVlMWQ2ZDU4NmNiZWZhMA==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBkYTJiZTExOTFjM2RiZTNjNjgwZTc5NjBkYjFkNTgzZA==`

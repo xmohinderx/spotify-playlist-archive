@@ -4,7 +4,7 @@
 
 > Happy vibes for an upbeat morning.
 
-191 songs - 7 hr 56 min
+200 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2021-12-14 |  |
 | [Blue Dream \(Softly\)](https://open.spotify.com/track/1EKQupLgrWvH2mVmzMvKRl) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Blue Dream \(Softly\)](https://open.spotify.com/album/6OL1SjkyAh7gy1chc1H0la) | 3:08 | 2022-04-28 |  |
 | [Blumenwiese](https://open.spotify.com/track/5LqtZQRkuuz3X6sa7vKAuN) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Blumenwiese](https://open.spotify.com/album/1y3sMt414NJdOYiHYGDGSn) | 2:40 | 2022-10-26 |  |
+| [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 | 2023-01-09 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-14 | 2022-07-21 |
 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 | 2021-12-14 |  |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2021-12-14 |  |
@@ -114,6 +115,7 @@
 | [On My Way Home](https://open.spotify.com/track/4iuGVtUXm2RfdyaGofN5MC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [On My Way Home](https://open.spotify.com/album/0xjLWXYwiERfTpIeBxSPam) | 2:31 | 2022-09-13 |  |
 | [On The Way Home](https://open.spotify.com/track/7MbDQoIYjB1XqRpA8fsIjy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [On The Way Home](https://open.spotify.com/album/16Pa3QL4cWA8svYlH5rBvu) | 2:26 | 2022-10-26 |  |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-14 |  |
+| [One Ordinary Day](https://open.spotify.com/track/6ZSEuCYxwAO7RkL9dLYCA7) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reflective](https://open.spotify.com/album/5Txt4c0EKgZKufA2eanyun) | 2:15 | 2023-01-09 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-14 |  |
 | [Op Reis \(Traveling\)](https://open.spotify.com/track/7s90rbo8Hwm92XghvPxU3e) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Op Reis \(Traveling\)](https://open.spotify.com/album/5x1nANAZwlk8mtOLO8IDXm) | 3:39 | 2022-05-20 |  |
 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 | 2022-12-06 |  |
@@ -146,16 +148,21 @@
 | [Seashells](https://open.spotify.com/track/6BW4HpfOcd2OhezoeiFvOt) | [Becky Ainge](https://open.spotify.com/artist/0bJuAVWEBon60FPGGtMobF) | [Seashells](https://open.spotify.com/album/1MmQPHEhgMiQllbjkmiM3u) | 1:17 | 2022-08-30 |  |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-12-14 |  |
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2021-12-14 | 2022-10-27 |
+| [Shimmer](https://open.spotify.com/track/0n9z4lk3UOqimQ4HFlKO72) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/0pAIe0jBV1WDL63LKGtInX) | 2:13 | 2023-01-09 |  |
 | [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 | 2022-04-28 |  |
 | [Sichm](https://open.spotify.com/track/6pMJj2gSGimd2tWbBEs28V) | [Aenor](https://open.spotify.com/artist/23P5JvLFlmlLNsi9ntziQD) | [Sichm](https://open.spotify.com/album/6RswTsIjkwCAJogdZRRJrK) | 2:03 | 2021-12-14 | 2022-04-29 |
 | [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 | 2022-09-13 |  |
 | [Simpler Times](https://open.spotify.com/track/710MDsCIXocuZBLwGbdg4G) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/198J7evKOaky47zE5WGbVj) | 2:21 | 2022-07-20 | 2022-09-18 |
 | [Simpler Times](https://open.spotify.com/track/2Y5mfhY8iCRSU3jyHxMBFz) | [Christopher James Richardson](https://open.spotify.com/artist/549TBaWWzS9WNOiYT0XHw6), [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/0eHuURQcrJIDvbfy1gruAY) | 2:21 | 2021-12-14 | 2022-07-29 |
 | [Simply Love](https://open.spotify.com/track/5aQ7Lc8KEJG8dsM3Ey2TXe) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Simply Love](https://open.spotify.com/album/6YfXgEnqI8lHSH6ZCixZMK) | 2:25 | 2022-04-28 |  |
+| [Singing Bird](https://open.spotify.com/track/3afvGA8lwrXHh9X2M0hMCe) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Singing Bird](https://open.spotify.com/album/4vAXPI9XMHtIHqpITkx0Oc) | 2:31 | 2023-01-09 |  |
+| [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 | 2023-01-09 |  |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-14 |  |
 | [Solarised](https://open.spotify.com/track/2NuQU5ztiWnOT8PqNmwrU8) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Solarised](https://open.spotify.com/album/6Rled6otj5AJQ4qCBiVX0u) | 2:36 | 2022-10-26 |  |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-14 |  |
+| [Sommer](https://open.spotify.com/track/1YLCOfxtPxeOG8OpZZ9vbj) | [Philipp Hasse](https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX) | [Sommer](https://open.spotify.com/album/6tDiYUSg6guLHhxdV3eUP5) | 2:15 | 2023-01-09 |  |
 | [Sommervind](https://open.spotify.com/track/1haFHD1fgYqX7Kw3VV6clJ) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 3:16 | 2021-12-14 |  |
+| [Son De Pluie](https://open.spotify.com/track/2sMXPyPYP81Wml9UnBJs5N) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Son De Pluie](https://open.spotify.com/album/3P7mZrXwwHVvhQ72JfqYeU) | 2:35 | 2023-01-09 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-14 |  |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-17 |  |
 | [Sonnenblume](https://open.spotify.com/track/5OwyqAz6sXFkq6Ny60M12h) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Sonnenblume](https://open.spotify.com/album/5fSmW7WWjIwYt5xtOgbu7t) | 2:12 | 2022-05-20 |  |
@@ -177,6 +184,7 @@
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2021-12-14 |  |
 | [Theme from Lazarus](https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb) | [Federico Montoya](https://open.spotify.com/artist/1ZLMB9gdFAhzKVx1LeCIdh) | [Theme from Lazarus](https://open.spotify.com/album/5S8cxsdtUGu5AaNBaFYw6d) | 1:41 | 2021-12-14 |  |
 | [This day, a life](https://open.spotify.com/track/6rCXFCdKOrUqlt9enKauGv) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [This day, a life](https://open.spotify.com/album/6lSD6R7V14cPWVlWvPooJJ) | 2:20 | 2022-12-21 |  |
+| [Through the Leaves](https://open.spotify.com/track/5g6w540Qt7z0LZGqV9KBKx) | [Minxz](https://open.spotify.com/artist/3gItTReTbNRqMuCIQGUDc4) | [Through the Leaves](https://open.spotify.com/album/5wvzRGidyZETW8w0HIe2hs) | 3:54 | 2023-01-09 |  |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-02 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-06 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-14 |  |
@@ -196,6 +204,7 @@
 | [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2021-12-14 | 2022-04-29 |
 | [Watching Juliette](https://open.spotify.com/track/0dlXqlUzzQ3yVswQb6Lpf9) | [Søme](https://open.spotify.com/artist/78vnOAl0eEZQpMzdi3zCwZ) | [Watching Juliette](https://open.spotify.com/album/25NJ7MdnSdCXylOXC5aKyU) | 3:36 | 2022-10-26 |  |
 | [Water Lilies](https://open.spotify.com/track/3Eq0VAdDj1j9xyQ5EKU85N) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Water Lilies](https://open.spotify.com/album/5NebT6I9YPVwMy0aWfgtGm) | 2:00 | 2022-10-26 |  |
+| [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-01-09 |  |
 | [Yamasá](https://open.spotify.com/track/5qmRevePYyVzWefMUjcdu3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Yamasá](https://open.spotify.com/album/0qMYA2SgQ2g3nFuZ2JWnCN) | 2:51 | 2022-10-26 |  |
 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-05-20 |  |
 | [Your Love](https://open.spotify.com/track/000tG7ZCNMDFLzIxobVSUZ) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Your Love](https://open.spotify.com/album/645jck6JPjVMjb4NwNscBZ) | 2:40 | 2021-12-14 |  |

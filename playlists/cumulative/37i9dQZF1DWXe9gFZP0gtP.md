@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient music.
 
-326 songs - 16 hr 6 min
+327 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2021-12-17 |  |
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2021-12-17 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-17 |  |
-| [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 | 2022-09-30 |  |
+| [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 | 2022-09-30 | 2023-01-10 |
 | [Crépuscule](https://open.spotify.com/track/4FE9jhuatcOZZYoHdBDN8T) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Crépuscule](https://open.spotify.com/album/4XWPYDTAaQvjhDSKWbsHP9) | 4:05 | 2021-12-17 |  |
 | [Cwtch](https://open.spotify.com/track/7ljE0RT8coNsbBYAhGOilP) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwtch](https://open.spotify.com/album/3AQOCwhGHVw8pfKTn8ZBNt) | 2:31 | 2021-12-17 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-11 |  |
@@ -267,6 +267,7 @@
 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 | 2021-12-17 | 2022-04-22 |
 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 | 2021-12-17 |  |
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-02-01 |  |
+| [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-09 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-17 |  |
 | [Soluma](https://open.spotify.com/track/1pfYu9JKsojWVnmb5J9Xc0) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Soluma](https://open.spotify.com/album/1qoutOhGSCzeCZSp3Is4Ps) | 3:44 | 2021-12-17 |  |
 | [Somnolence](https://open.spotify.com/track/2T9BgAmZQT2dLqllKA5UPj) | [Zak Brady](https://open.spotify.com/artist/5sKrAIJIFlKVRkuFyG03aS) | [Somnolence](https://open.spotify.com/album/3wYmN89JOq65AStF3FqMjR) | 3:12 | 2021-12-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > This is the best of today's true alternative rock scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,565 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,597 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 44 | [Cause You Got Me](https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA) | [MOSES](https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum) | [Cause You Got Me](https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ) | 3:52 |
 | 45 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 |
 | 46 | [\[Insert Girls Name Here\]](https://open.spotify.com/track/3TXyUyEa1BtBvxuxxh0bW8) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Room's On Fire](https://open.spotify.com/album/09cAjP3r3Pb0nma7l0wVXM) | 3:08 |
-| 47 | [Euphoria](https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Timebomb](https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR) | 4:24 |
-| 48 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
-| 49 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/6yHGQ5QdOkjXzlsJXx88xe) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:19 |
+| 47 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/6yHGQ5QdOkjXzlsJXx88xe) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:19 |
+| 48 | [Euphoria](https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Timebomb](https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR) | 4:24 |
+| 49 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
 | 50 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
 | 51 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
 | 52 | [Wake Me Up](https://open.spotify.com/track/4Rk5WkMZySCyu3LinjKIMU) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Wake Me Up](https://open.spotify.com/album/11VAtsmWxECwQCYzdnpyYz) | 3:42 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 55 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
 | 56 | [Shame](https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Sego Sucks](https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB) | 3:20 |
 | 57 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
-| 58 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
-| 59 | [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 |
+| 58 | [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 |
+| 59 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 60 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
 | 61 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 |
 | 62 | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl) | 3:59 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 67 | [Less Is More](https://open.spotify.com/track/7w3fpRHULr70wtGdPfMufh) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Less Is More](https://open.spotify.com/album/5HFHCbXFgWSVg6wzUlDTRu) | 3:00 |
 | 68 | [Seven White Horses](https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Seven White Horses](https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB) | 3:40 |
 | 69 | [Welcome to Silvertown](https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Welcome to Silvertown](https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY) | 3:15 |
-| 70 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 |
-| 71 | [Bubblegum Infinity](https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 3:10 |
+| 70 | [Bubblegum Infinity](https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 3:10 |
+| 71 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 |
 | 72 | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG) | 2:48 |
 | 73 | [Call Me a Saint](https://open.spotify.com/track/5z3fn2F5AyFbsjrOyzSnAB) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Call Me a Saint](https://open.spotify.com/album/47GkbWmABEFrS3dgRKddRO) | 3:20 |
 | 74 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 81 | [Torpedo](https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx) | 3:44 |
 | 82 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 |
 | 83 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 |
-| 84 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
-| 85 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
-| 86 | [Big Shot](https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Big Shot](https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs) | 3:39 |
+| 84 | [Big Shot](https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Big Shot](https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs) | 3:39 |
+| 85 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
+| 86 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
 | 87 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 |
 | 88 | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v) | 3:45 |
 | 89 | [Around the Bend](https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [Around the Bend](https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [New Comedown](https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [New Comedown](https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3) | 3:07 |
 | 100 | [Pillar on the Bridge of You](https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB) | 3:17 |
 
-Snapshot ID: `MTY1MTIwNDg2MCwwMDAwMDAwMGE0NjNlYjc4NjYwNGEyZDZkNmZjY2EzYWI5ODMyZDU0`
+Snapshot ID: `MTY1MTIwNDg2MCwwMDAwMDAwMDQxZDljMDg4NmQxMjBlZGZjYjEzMTEyZTgyMDIzOGY1`

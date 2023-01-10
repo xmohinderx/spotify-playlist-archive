@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s. Cover: Deftones",
-  "num_followers": 732183,
+  "num_followers": 732784,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGU0OWQ2MzMzOTlhMDBkYzFiYzE2MTYyNTQxMGQzMzNk",
+  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGVhYjVlZjczZjYxZTU4NmQxYjk5YzYyYzFlZWE3YTdm",
   "tracks": [
     {
       "added_at": "2022-10-05 16:18:11",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 363066,
+      "name": "Forty Six & 2",
+      "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -555,38 +571,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "\u00c6nima",
-        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 363066,
-      "name": "Forty Six & 2",
-      "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "I'm Broken",
-      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 243453,
       "name": "Bombtrack",
       "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "A.D.I.D.A.S.",
+      "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -619,18 +619,50 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 153600,
-      "name": "A.D.I.D.A.S.",
-      "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
+      "duration_ms": 264800,
+      "name": "I'm Broken",
+      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 312120,
+      "name": "Stinkfist",
+      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 387160,
+      "name": "The Unforgiven (Remastered)",
+      "url": "https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -663,38 +695,6 @@
       "duration_ms": 264266,
       "name": "Engel",
       "url": "https://open.spotify.com/track/0xQZkTxb49QpopIZQhKJUY"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 387160,
-      "name": "The Unforgiven (Remastered)",
-      "url": "https://open.spotify.com/track/7lwvxYumAEo10lzAplRGXM"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "\u00c6nima",
-        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Stinkfist",
-      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Persistence Of Time (30th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Got The Time",
-      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Persistence Of Time (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Got The Time",
+      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "The Great Southern Trendkill",
         "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 404333,
-      "name": "Wherever I May Roam (Remastered)",
-      "url": "https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203680,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 404333,
+      "name": "Wherever I May Roam (Remastered)",
+      "url": "https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "War Ensemble",
-      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H"
+      "duration_ms": 291733,
+      "name": "War Ensemble",
+      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "March Or Die",
-        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Hellraiser",
-      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1451,6 +1419,22 @@
       "duration_ms": 258266,
       "name": "Monkey Business",
       "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Danzig II: Lucifuge",
         "url": "https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "Just One Fix",
-      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Something's Gotta Give",
         "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 233360,
       "name": "Forever & One",
       "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "Just One Fix",
+      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Time'S Up",
+        "url": "https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "Love Rears Its Ugly Head",
+      "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Time'S Up",
-        "url": "https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA"
+        "name": "The Triumph of Steel",
+        "url": "https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd"
       },
       "artists": [
         {
-          "name": "Living Colour",
-          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
         }
       ],
-      "duration_ms": 259466,
-      "name": "Love Rears Its Ugly Head",
-      "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
+      "duration_ms": 234559,
+      "name": "Metal Warriors",
+      "url": "https://open.spotify.com/track/5P2Ghhv0wFYThHfDQaS0g5"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1883,22 +1899,6 @@
       "duration_ms": 330226,
       "name": "Electric Crown",
       "url": "https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "The Triumph of Steel",
-        "url": "https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 234559,
-      "name": "Metal Warriors",
-      "url": "https://open.spotify.com/track/5P2Ghhv0wFYThHfDQaS0g5"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Powertrip",
-      "url": "https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Bloody Kisses",
         "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 675653,
       "name": "Black No. 1 (Little Miss Scare -All)",
       "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Powertrip",
+      "url": "https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Do We Speak A Dead Language?",
-        "url": "https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt"
-      },
-      "artists": [
-        {
-          "name": "Downset",
-          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
-        }
-      ],
-      "duration_ms": 144266,
-      "name": "Empower",
-      "url": "https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Point Blank",
         "url": "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 310493,
       "name": "Cockroaches",
       "url": "https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Do We Speak A Dead Language?",
+        "url": "https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt"
+      },
+      "artists": [
+        {
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Empower",
+      "url": "https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2319,18 +2319,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Lights...Camera...Revolution",
-        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+        "name": "Destroy Erase Improve (Reloaded)",
+        "url": "https://open.spotify.com/album/4Db5w1mFaolDotknFJiteD"
       },
       "artists": [
         {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
         }
       ],
-      "duration_ms": 202160,
-      "name": "Send Me Your Money",
-      "url": "https://open.spotify.com/track/0JoHFDx1gp0JjBxEIPutNK"
+      "duration_ms": 348682,
+      "name": "Future Breed Machine",
+      "url": "https://open.spotify.com/track/0gH7MNXQud3Pvnfv1zk3bL"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Destroy Erase Improve (Reloaded)",
-        "url": "https://open.spotify.com/album/4Db5w1mFaolDotknFJiteD"
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
       "artists": [
         {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
         }
       ],
-      "duration_ms": 348682,
-      "name": "Future Breed Machine",
-      "url": "https://open.spotify.com/track/0gH7MNXQud3Pvnfv1zk3bL"
+      "duration_ms": 202160,
+      "name": "Send Me Your Money",
+      "url": "https://open.spotify.com/track/0JoHFDx1gp0JjBxEIPutNK"
     },
     {
       "added_at": "2022-10-05 16:18:11",

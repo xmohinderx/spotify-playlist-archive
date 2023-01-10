@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-137 songs - 8 hr 29 min
+138 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Feels so Good \#2](https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [First Recordings](https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87) | 2:00 | 2022-05-27 |  |
 | [Fishin' Blues](https://open.spotify.com/track/06ETJH5FcfTZRKQXyd2SYa) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 2:55 | 2022-05-25 | 2022-07-29 |
 | [Fishin' Blues](https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 3:04 | 2022-07-08 |  |
-| [Foolin'](https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:54 | 2022-10-14 |  |
+| [Foolin'](https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:54 | 2022-10-14 | 2023-01-10 |
 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/6gjYKA3mrFZZJvZdgXbLgK) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher](https://open.spotify.com/album/6Afgrco77rEXSXTE68wqON) | 5:04 | 2022-05-25 | 2022-07-29 |
 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 | 2022-07-29 |  |
 | [Forever On My Mind](https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a) | 5:36 | 2022-05-25 |  |
@@ -144,6 +144,7 @@
 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 | 2022-07-08 |  |
 | [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 | 2022-05-25 | 2022-07-29 |
 | [Woke up This Morning](https://open.spotify.com/track/5dAoQMVA2jwl1hCTJGeWAm) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes, Vol\. 1](https://open.spotify.com/album/5WFLwckcjlr3Ui8pGIgzVb) | 4:31 | 2022-05-25 |  |
+| [Won't Be Around](https://open.spotify.com/track/28zPfiP5FbWKhsVTXoAoC1) | [Terry Blade](https://open.spotify.com/artist/6QXdeafZdeOvusyWmtRO7Y) | [Won't Be Around](https://open.spotify.com/album/55PQCPW6HbwcX89v0pZld1) | 2:25 | 2023-01-06 |  |
 | [Won't Get Any Better](https://open.spotify.com/track/28r1vNoAGRfy3i8972hOS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 3:10 | 2022-07-29 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

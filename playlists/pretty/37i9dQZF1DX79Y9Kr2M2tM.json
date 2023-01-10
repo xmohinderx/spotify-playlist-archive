@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 829462,
+  "num_followers": 829494,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMGQ5ZjRkZTVlMTBiMDJhYzRiMWFiOTUzYWZkMzkyYTI0",
+  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMDBjYjgxMjdjMWY4ZTUxYmMxODEwMjgyMzUyYTRlNjhi",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Wait for You",
         "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
       },
@@ -183,38 +199,6 @@
       "duration_ms": 233391,
       "name": "White Water",
       "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Day by Day (Acoustic)",
-        "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 209714,
-      "name": "Day by Day - Acoustic",
-      "url": "https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -247,6 +231,22 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Day by Day (Acoustic)",
+        "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 209714,
+      "name": "Day by Day - Acoustic",
+      "url": "https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 322040,
-      "name": "The Wolves (Act I and II)",
-      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Forest Park",
         "url": "https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 322040,
+      "name": "The Wolves (Act I and II)",
+      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "All We've Known",
         "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 242333,
       "name": "Homegrown",
       "url": "https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -575,22 +591,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 192000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Colder Heavens EP",
+        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "El B\u00faho",
+      "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 190160,
       "name": "To Each His Own",
       "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Colder Heavens EP",
-        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "El B\u00faho",
-      "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "The Crow Mother",
         "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 216493,
       "name": "The Fold",
       "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -859,50 +859,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Alabama Haint",
-        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
       },
       "artists": [
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         }
       ],
-      "duration_ms": 182601,
-      "name": "Alabama Haint",
-      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "You Stay by the Sea (Deluxe)",
-        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Sea Creatures",
-      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
+      "duration_ms": 181200,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -919,6 +887,22 @@
       "duration_ms": 199253,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Alabama Haint",
+        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Alabama Haint",
+      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -975,6 +959,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "You Stay by the Sea (Deluxe)",
+        "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 256394,
+      "name": "Sea Creatures",
+      "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo"
+      },
+      "artists": [
+        {
+          "name": "Black Oak",
+          "url": "https://open.spotify.com/artist/3PMflYpdvhwPDNea1MW5Wh"
+        }
+      ],
+      "duration_ms": 209585,
+      "name": "The Grain",
+      "url": "https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Cormorant Bird",
         "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo"
+        "name": "Party Dress",
+        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
       },
       "artists": [
         {
-          "name": "Black Oak",
-          "url": "https://open.spotify.com/artist/3PMflYpdvhwPDNea1MW5Wh"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 209585,
-      "name": "The Grain",
-      "url": "https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf"
+      "duration_ms": 194942,
+      "name": "Party Dress",
+      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 199160,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Party Dress",
-        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 194942,
-      "name": "Party Dress",
-      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Haven Lea",
-        "url": "https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z"
-      },
-      "artists": [
-        {
-          "name": "Lists",
-          "url": "https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Haven Lea",
-      "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "A Book Of Flying",
         "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 256260,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Haven Lea",
+        "url": "https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z"
+      },
+      "artists": [
+        {
+          "name": "Lists",
+          "url": "https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO"
+        }
+      ],
+      "duration_ms": 187370,
+      "name": "Haven Lea",
+      "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Lake Jons",
-        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
-      },
-      "artists": [
-        {
-          "name": "Lake Jons",
-          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Up Here North",
-      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/2Xv1zWXNkd2aMGmqEpUjc0"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 202586,
       "name": "Something",
       "url": "https://open.spotify.com/track/0EDdio6SE4roZX2Wmofc7K"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Lake Jons",
+        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
+      },
+      "artists": [
+        {
+          "name": "Lake Jons",
+          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Up Here North",
+      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
     }
   ],
   "unique_name": "Chill + Atmospheric",

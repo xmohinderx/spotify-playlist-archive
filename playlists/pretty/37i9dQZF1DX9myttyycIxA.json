@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Teenage Priest",
-  "num_followers": 276800,
+  "num_followers": 276842,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAwMTQ4MCwwMDAwMDAwMGFhYjI4MDFkOTdmNzExODdhZTFlZmNlYTQ0NzMyZTg3",
+  "snapshot_id": "MTY3MzAwMTQ4MCwwMDAwMDAwMGRlZTIxM2I0MjFiZTAwYWY3ZGY2NWFiNzYwY2RhMjA2",
   "tracks": [
     {
       "added_at": "2022-10-21 14:21:02",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh"
     },
     {
       "added_at": "2022-12-07 00:44:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Inner World Peace",
         "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 205890,
       "name": "Aftershook",
       "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
     },
     {
       "added_at": "2023-01-06 10:38:00",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/4OGBU3agg96CA483Q280FP"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Keep It Average",
-        "url": "https://open.spotify.com/album/17HqzoG2vfT71L68dAmMLC"
-      },
-      "artists": [
-        {
-          "name": "GRLwood",
-          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
-        }
-      ],
-      "duration_ms": 193478,
-      "name": "Keep It Average",
-      "url": "https://open.spotify.com/track/1XzzByAlOg45CFjTKONinS"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Say It Now",
@@ -699,6 +683,22 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Keep It Average",
+        "url": "https://open.spotify.com/album/17HqzoG2vfT71L68dAmMLC"
+      },
+      "artists": [
+        {
+          "name": "GRLwood",
+          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "Keep It Average",
+      "url": "https://open.spotify.com/track/1XzzByAlOg45CFjTKONinS"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "rainbow music",
+        "url": "https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "duration_ms": 146152,
+      "name": "rest",
+      "url": "https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "My Friend Mica",
         "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 231680,
       "name": "Her",
       "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "rainbow music",
-        "url": "https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J"
-      },
-      "artists": [
-        {
-          "name": "ghost orchard",
-          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
-        }
-      ],
-      "duration_ms": 146152,
-      "name": "rest",
-      "url": "https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08"
     },
     {
-      "added_at": "2022-11-17 17:47:18",
-      "album": {
-        "name": "Air Guitar",
-        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
-      },
-      "artists": [
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
-        }
-      ],
-      "duration_ms": 183273,
-      "name": "Air Guitar",
-      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "When The Wind Forgets Your Name",
@@ -975,6 +959,22 @@
       "duration_ms": 323300,
       "name": "Spiderweb",
       "url": "https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR"
+    },
+    {
+      "added_at": "2022-11-17 17:47:18",
+      "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "How It Ends",
-        "url": "https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Space Cowboy",
         "url": "https://open.spotify.com/album/7mVUxn3M8ExqlRZOWRiLVq"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 246773,
       "name": "Space Cowboy",
       "url": "https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1153,26 +1153,6 @@
       "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Study",
@@ -1235,6 +1215,42 @@
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
+    },
+    {
+      "added_at": "2023-01-06 10:38:00",
+      "album": {
+        "name": "Hot and Clumsy",
+        "url": "https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Hot and Clumsy",
+      "url": "https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1365,6 +1381,22 @@
       "url": "https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er"
     },
     {
+      "added_at": "2023-01-06 10:38:00",
+      "album": {
+        "name": "nothing special",
+        "url": "https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB"
+      },
+      "artists": [
+        {
+          "name": "wilt",
+          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "nothing special",
+      "url": "https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk"
+    },
+    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Sportswear",
@@ -1445,22 +1477,6 @@
       "url": "https://open.spotify.com/track/48AdYz5KuKxC9ZO9gKiIqZ"
     },
     {
-      "added_at": "2023-01-06 10:38:00",
-      "album": {
-        "name": "Hot and Clumsy",
-        "url": "https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Hot and Clumsy",
-      "url": "https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Let The Lights On",
@@ -1497,38 +1513,6 @@
       "url": "https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u"
     },
     {
-      "added_at": "2023-01-06 10:38:00",
-      "album": {
-        "name": "nothing special",
-        "url": "https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB"
-      },
-      "artists": [
-        {
-          "name": "wilt",
-          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "nothing special",
-      "url": "https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Gary Ashby",
-        "url": "https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 130479,
-      "name": "Gary Ashby",
-      "url": "https://open.spotify.com/track/30erf27MriGIsvb4rzria6"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "What Kind of Blue Are You?",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Bucktooth",
-        "url": "https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW"
+        "name": "Gary Ashby",
+        "url": "https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ"
       },
       "artists": [
         {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 209859,
-      "name": "Bucktooth",
-      "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
+      "duration_ms": 130479,
+      "name": "Gary Ashby",
+      "url": "https://open.spotify.com/track/30erf27MriGIsvb4rzria6"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1579,6 +1563,22 @@
       "duration_ms": 260013,
       "name": "Frances Farmer Will Have Her Revenge On Seattle",
       "url": "https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Bucktooth",
+        "url": "https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 209859,
+      "name": "Bucktooth",
+      "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
     },
     {
       "added_at": "2022-10-28 04:00:00",

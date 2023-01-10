@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 6354,
+  "num_followers": 6378,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDFiZDA4MDQzN2M5ZjhlZDNiNzA0M2VlNzBhMDA3MzJh",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDdiMzkxMzIzYzRkYjkwYTBhZTdjODJmZTIwNmM2YjZh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Don't Give Up On Me",
-        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 329386,
-      "name": "None Of Us Are Free",
-      "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deep In The Heart",
         "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 246600,
       "name": "Starting All Over",
       "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 329386,
+      "name": "None Of Us Are Free",
+      "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -203,26 +203,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Robert Cray & Hi Rhythm",
-        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "Hi Rhythm",
-          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "The Same Love That Made Me Laugh",
-      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Don't Hurt No More",
         "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 380493,
       "name": "You Can Stay But The Noise Must Go On",
       "url": "https://open.spotify.com/track/4tqT8X8t0hrZDnLgodafSt"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Robert Cray & Hi Rhythm",
+        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "Hi Rhythm",
+          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "The Same Love That Made Me Laugh",
+      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
+        "name": "Don't Hurt No More",
+        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "Buddy Ace",
+          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
         }
       ],
-      "duration_ms": 257560,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
+      "duration_ms": 207106,
+      "name": "Chockin' Kind",
+      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -319,18 +319,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
       },
       "artists": [
         {
-          "name": "Denise LaSalle",
-          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 287480,
-      "name": "Bone It Like You Own It",
-      "url": "https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT"
+      "duration_ms": 257560,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Doin' The Funky Thing",
+        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
+      },
+      "artists": [
+        {
+          "name": "Walter Wolfman Washington",
+          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -347,6 +363,22 @@
       "duration_ms": 222066,
       "name": "It's Harder Now - Remix",
       "url": "https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ"
+      },
+      "artists": [
+        {
+          "name": "Denise LaSalle",
+          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
+        }
+      ],
+      "duration_ms": 287480,
+      "name": "Bone It Like You Own It",
+      "url": "https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -387,38 +419,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Don't Hurt No More",
-        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
-      },
-      "artists": [
-        {
-          "name": "Buddy Ace",
-          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Chockin' Kind",
-      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Doin' The Funky Thing",
-        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
-      },
-      "artists": [
-        {
-          "name": "Walter Wolfman Washington",
-          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Makin Love is Good For You (Expanded Edition)",
         "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 229226,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "It Ain't The Same Thing",
+      "url": "https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -463,22 +479,6 @@
       "duration_ms": 281200,
       "name": "Kick My Cheatin' Habits",
       "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "It Ain't The Same Thing",
-      "url": "https://open.spotify.com/track/0t1AarE0wigd1nKtNJ6yng"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Makin Love is Good For You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Makin' Love Is Good For You",
-      "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Bridge to a Legacy",
         "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
       },
@@ -543,22 +527,6 @@
       "duration_ms": 189093,
       "name": "Who's Still in Love",
       "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Royal Blue",
-        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Bring Me Some Water",
-      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -599,6 +567,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Makin Love is Good For You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Makin' Love Is Good For You",
+      "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Royal Blue",
+        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Bring Me Some Water",
+      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Midnight In Memphis",
         "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 269000,
       "name": "Baby I Will",
       "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Back In The Game",
-        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "I Can't Stop",
-      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -679,50 +663,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hard Times",
-        "url": "https://open.spotify.com/album/2tJ3Z5H8Jy5u4cl4g8PiuU"
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
       },
       "artists": [
         {
-          "name": "Frank Mendenhall",
-          "url": "https://open.spotify.com/artist/3YzpzBphHG0ekowXUcEIEa"
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 330426,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
-        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "Blues All Over You",
-      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "From the Heart and Soul",
-        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
-      },
-      "artists": [
-        {
-          "name": "Chick Willis",
-          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
-        }
-      ],
-      "duration_ms": 282026,
-      "name": "Someday Baby",
-      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
+      "duration_ms": 257133,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -759,6 +711,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
+        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "Blues All Over You",
+      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/2tJ3Z5H8Jy5u4cl4g8PiuU"
+      },
+      "artists": [
+        {
+          "name": "Frank Mendenhall",
+          "url": "https://open.spotify.com/artist/3YzpzBphHG0ekowXUcEIEa"
+        }
+      ],
+      "duration_ms": 330426,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Hit That Thing",
         "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "From the Heart and Soul",
+        "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
+      },
+      "artists": [
+        {
+          "name": "Chick Willis",
+          "url": "https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Someday Baby",
+      "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 288400,
       "name": "I'm So Proud",
       "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Talkin' About Chicago",
+        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Sweet Dynamite!",
+      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -811,34 +827,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Talkin' About Chicago",
-        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
+        "name": "Sitting on Top of the Blues",
+        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
       },
       "artists": [
         {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 271426,
-      "name": "Sweet Dynamite!",
-      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Eccentric Soul: The Saadia Label",
-        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Girl Your Best Friend Done Took Your Place",
-      "url": "https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC"
+      "duration_ms": 243044,
+      "name": "You Got the Goods on You",
+      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -859,18 +859,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Sitting on Top of the Blues",
-        "url": "https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10"
+        "name": "Betcha Didn't Know",
+        "url": "https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Mighty Sam McClain",
+          "url": "https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W"
         }
       ],
-      "duration_ms": 243044,
-      "name": "You Got the Goods on You",
-      "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
+      "duration_ms": 257373,
+      "name": "Betcha Didn't Know",
+      "url": "https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Eccentric Soul: The Saadia Label",
+        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Girl Your Best Friend Done Took Your Place",
+      "url": "https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -887,22 +903,6 @@
       "duration_ms": 208266,
       "name": "You're Only Good For One Thang Baby",
       "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Betcha Didn't Know",
-        "url": "https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3"
-      },
-      "artists": [
-        {
-          "name": "Mighty Sam McClain",
-          "url": "https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Betcha Didn't Know",
-      "url": "https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

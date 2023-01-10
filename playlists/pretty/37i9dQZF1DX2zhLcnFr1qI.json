@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 56170,
+  "num_followers": 56096,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk0NDA4MCwwMDAwMDAwMGVkMWY0MWU5MGVlNzhhZTFkMzdjNDU4MzU2YjhjMjk2",
+  "snapshot_id": "MTY3Mjk0NDA4MCwwMDAwMDAwMGM2YWM0NTA5OTgwZmMwY2NkOGRmZDEyMTc2NGEzOTk3",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -211,30 +211,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "All I Want for Christmas",
-        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
-      },
-      "artists": [
-        {
-          "name": "Alvin Anthony",
-          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        },
-        {
-          "name": "JeLa",
-          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "All I Want for Christmas",
-      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 207469,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "All I Want for Christmas",
+        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
+      },
+      "artists": [
+        {
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "JeLa",
+          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "All I Want for Christmas",
+      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 188264,
-      "name": "All I Want for Christmas is You",
-      "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/5maELdJVcuasTlrlY9fgUV"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 216986,
       "name": "Turn Up Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 188264,
+      "name": "All I Want for Christmas is You",
+      "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
     },
     {
-      "added_at": "2023-01-09 01:20:15",
+      "added_at": "2023-01-10 01:17:47",
       "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk"

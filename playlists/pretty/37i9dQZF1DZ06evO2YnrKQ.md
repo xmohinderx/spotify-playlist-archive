@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,220 likes - 39 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,235 likes - 39 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 25 | [We Are the End](https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:46 |
 | 26 | [The Northern](https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:28 |
 | 27 | [Counterparts and Number Them](https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:19 |
-| 28 | [Charlie Sheen vs\. Henry Rollins](https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 3:39 |
-| 29 | [Complicit](https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Complicit](https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn) | 3:58 |
+| 28 | [Complicit](https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Complicit](https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn) | 3:58 |
+| 29 | [Charlie Sheen vs\. Henry Rollins](https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 3:39 |
 | 30 | [Midnight Regulations](https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:11 |
 | 31 | [Little Girls Pointing and Laughing](https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:52 |
 | 32 | [The Dead Heart](https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Aussie Tour 7inch](https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB) | 4:40 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 38 | [Old Crows](https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:17 |
 | 39 | [Dogs Blood](https://open.spotify.com/track/1WHDPx1Vzgg9i8jobSl44d) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Dogs Blood](https://open.spotify.com/album/3Rxr8MhJ34TS5LPK8aBJPv) | 5:58 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA5OGJkNzgwOGU1YmM5YjZmMDY2YTRiNmYyODhhN2I5Zg==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA5MWQ4ZjU5MGE4Y2JhZjBjNWExZGVkMDBiZDMxMzZjMw==`

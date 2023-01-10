@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 3263,
+  "num_followers": 3271,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDg5MTAxMjFlOTlmZjRmYmExN2E5OWYyMzBhZWVlNWVh",
+  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDkyMmE2ZThmYmE2ZWRiYjRmMTliOTYwNjA2MzZmMTk4",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -183,6 +183,26 @@
       "duration_ms": 231333,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -251,26 +271,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
         "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Centennial Collection",
-        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
-      },
-      "artists": [
-        {
-          "name": "Robert Johnson",
-          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "They're Red Hot - SA.2627-1",
-      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 112600,
       "name": "I Hear You Knocking - Remastered 2002",
       "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Centennial Collection",
+        "url": "https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "They're Red Hot - SA.2627-1",
+      "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 322760,
       "name": "Herbert Harper's Free Press News",
       "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -927,38 +927,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Greatest Country Blues",
-        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "Robbie-Doby Boogie",
-      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Presenting Smiley Lewis",
         "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
       },
@@ -995,18 +963,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
       },
       "artists": [
         {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
         }
       ],
-      "duration_ms": 149506,
-      "name": "Mama, What About Your Daughter - Single Version",
-      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1023,6 +991,38 @@
       "duration_ms": 167600,
       "name": "Scotchin' with Soda",
       "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Greatest Country Blues",
+        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "Robbie-Doby Boogie",
+      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Mama, What About Your Daughter - Single Version",
+      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
     },
     {
       "added_at": "2022-12-02 14:28:08",

@@ -4,11 +4,12 @@
 
 > Latin music making waves\. Cover: Jenn Morel
 
-108 songs - 5 hr 50 min
+109 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 | 2022-06-02 |  |
+| [94](https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [94](https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf) | 2:33 | 2023-01-09 |  |
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2022-02-18 | 2022-06-03 |
 | [AMULETO](https://open.spotify.com/track/4wf6f1s4Edy7N65eMUHerz) | [La Sista](https://open.spotify.com/artist/16Z02ErwXvWKRAj3vEyE4u), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [AMULETO](https://open.spotify.com/album/0aenRZIANAEpbRKQBdsQai) | 4:37 | 2022-02-18 | 2022-06-03 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-06-02 |  |
@@ -69,7 +70,7 @@
 | [Me Siento Orgulloso](https://open.spotify.com/track/7vT4bUhhwTBZzUkO9iXU3X) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Davis Daniel](https://open.spotify.com/artist/0QcBwdBPnkfD4Y7XOMlENy) | [Me Siento Orgulloso](https://open.spotify.com/album/5oy9mS9CCWSYBGJr0mktbS) | 3:29 | 2022-02-18 | 2022-06-03 |
 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 | 2022-02-18 |  |
 | [Mirame Ahora](https://open.spotify.com/track/197t3d2KORVSbnhxeWqYQf) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [MICRODOSIS](https://open.spotify.com/album/5xzr5tWqMTfBr55QGsJjzR) | 3:12 | 2022-02-18 | 2022-06-03 |
-| [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 | 2022-06-02 |  |
+| [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 | 2022-06-02 | 2023-01-10 |
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2022-02-18 |  |
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2022-02-18 |  |
 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 | 2022-02-18 |  |

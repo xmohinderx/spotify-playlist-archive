@@ -1,12 +1,12 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 109576,
+  "num_followers": 109638,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY4MDY2NiwwMDAwMDAwMGRiZTFkNDA5YmIxNDk2ZmI3MDhmYzU2NWUyZWE1MmYy",
+  "snapshot_id": "MTY2OTY4MDY2NiwwMDAwMDAwMDhiNjIzNzc1MzdmODJmMTQ1OWYyMDg5MTI5NzYwODAy",
   "tracks": [
     {
       "added_at": "2022-11-29 00:11:06",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-29 00:11:06",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
-    },
-    {
-      "added_at": "2022-11-29 00:11:06",
-      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 221626,
       "name": "\u00c9l Me Minti\u00f3",
       "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+    },
+    {
+      "added_at": "2022-11-29 00:11:06",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
     },
     {
       "added_at": "2022-11-29 00:11:06",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-29 00:11:06",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
-    },
-    {
-      "added_at": "2022-11-29 00:11:06",
-      "album": {
         "name": "El Alma Joven",
         "url": "https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185186,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj"
+    },
+    {
+      "added_at": "2022-11-29 00:11:06",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
     },
     {
       "added_at": "2022-11-29 00:11:06",

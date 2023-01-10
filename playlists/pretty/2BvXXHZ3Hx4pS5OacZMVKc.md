@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 133,759 likes - 123 songs - 6 hr 25 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 133,769 likes - 123 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 |
-| 2 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 |
-| 3 | [Broken Love](https://open.spotify.com/track/55q35WjtYGNfsDFjGIFcWA) | [metr](https://open.spotify.com/artist/0RAWgVjsAEhbXPhqPGqd8n), [Adrian Benson](https://open.spotify.com/artist/6pto9yK3v6ju1r8piPps1P), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Broken Love](https://open.spotify.com/album/4SCPz1xCo9H8V2oasW8ST7) | 2:37 |
-| 4 | [No More Levitation](https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [No More Levitation](https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9) | 4:08 |
-| 5 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 |
+| 1 | [No More Levitation](https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [No More Levitation](https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9) | 4:08 |
+| 2 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 |
+| 3 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 |
+| 4 | [Broken Love](https://open.spotify.com/track/55q35WjtYGNfsDFjGIFcWA) | [metr](https://open.spotify.com/artist/0RAWgVjsAEhbXPhqPGqd8n), [Adrian Benson](https://open.spotify.com/artist/6pto9yK3v6ju1r8piPps1P), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Broken Love](https://open.spotify.com/album/4SCPz1xCo9H8V2oasW8ST7) | 2:37 |
+| 5 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 |
 | 6 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 |
 | 7 | [Forget](https://open.spotify.com/track/4AvIxgGf0NeC0vBKHGYBP1) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Forget](https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu) | 3:24 |
 | 8 | [Bonfire](https://open.spotify.com/track/3yjKGtGhLesxTVJ9HaRa1i) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Bonfire](https://open.spotify.com/album/1ZRJhmMnwd7PZh3WJ0xOrl) | 2:27 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 122 | [Take It or Leave It](https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Take It or Leave It](https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL) | 2:46 |
 | 123 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 |
 
-Snapshot ID: `Mjc1Niw1MThkN2Q3MGI2NGNjZGQ0YTUwYzRiZTEzNTY2OGY0MDhlNGU0ZDVl`
+Snapshot ID: `Mjc1OSw1Y2EwY2JhMTBkNDRmNmYyODU0OTcwZjhjYWVkZWI1YmZiZjU2ZWZk`

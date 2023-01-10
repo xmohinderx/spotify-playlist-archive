@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,740 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,759 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 25 | [Déjame Decirle](https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:13 |
 | 26 | [El Muchacho de La Esquina](https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Muchacho de La Esquina](https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf) | 2:34 |
 | 27 | [Si Mañana Muero](https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Mañana Muero](https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA) | 4:39 |
-| 28 | [Señora](https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Señora](https://open.spotify.com/album/65xBKn2KUEA9WmEf8sv3vH) | 4:08 |
-| 29 | [Las Enseñanzas](https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Brincale al Toro](https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy) | 2:58 |
+| 28 | [Las Enseñanzas](https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Brincale al Toro](https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy) | 2:58 |
+| 29 | [Señora](https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Señora](https://open.spotify.com/album/65xBKn2KUEA9WmEf8sv3vH) | 4:08 |
 | 30 | [11:11](https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:55 |
 | 31 | [Quería Que Llorarás](https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 2:58 |
 | 32 | [Si Hay Otra Vida](https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Hay Otra Vida](https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa) | 3:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Merecerte Hoy](https://open.spotify.com/track/4SaHMGZ6kbEtGkJISqy2VI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 2:46 |
 | 51 | [Como Decía El Compa Ariel \- En Vivo](https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Como Decía El Compa Ariel \(En Vivo\)](https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb) | 3:10 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA5ZWYwZWEyY2I0Yzc0MmQwY2RjNDk2MTljYWFkYWZmOQ==`
+Snapshot ID: `Mjc4ODc5MzAsMDAwMDAwMDBkY2MxYmRiZWJjNmUwN2E5NzJhODZkNGM3MTljNjlkNg==`

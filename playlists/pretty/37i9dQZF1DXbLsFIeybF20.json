@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 140585,
+  "num_followers": 140601,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDE3MjI2MDhlNTI5OTA0NzdmZjcxZWI2NmVkZTIyZTEw",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGE0ZjU5MDM1YmFkYTUzYzQyYzAxNWVmMTNkNzc1ZmIy",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -179,6 +179,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Do Watcha Wanna",
+        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 335506,
+      "name": "I Feel Like Funkin' It Up - Extended Mix",
+      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Jazz King Of New Orleans",
         "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Do Watcha Wanna",
-        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 335506,
-      "name": "I Feel Like Funkin' It Up - Extended Mix",
-      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Complete Columbia Session 1946",
-        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "The Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Treme: Music From The HBO Original Series, Season 1",
         "url": "https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 159920,
       "name": "I Hope Your Comin' Back To New Orleans",
       "url": "https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New New Orleans Jazz",
-        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 294760,
-      "name": "Hot Lips",
-      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Sounds Of New Orleans Vol. 9",
         "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 288653,
       "name": "Eh, La Bas",
       "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New New Orleans Jazz",
+        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Hot Lips",
+      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "My Feet Can't Fail Me Now",
-        "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Do It Fluid",
-      "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
         "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
       },
@@ -535,6 +519,38 @@
       "duration_ms": 219666,
       "name": "Careless Love",
       "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Rebirth For Life",
+        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 349666,
+      "name": "Tubaluba",
+      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "My Feet Can't Fail Me Now",
+        "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 312640,
+      "name": "Do It Fluid",
+      "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -567,22 +583,6 @@
       "duration_ms": 220080,
       "name": "Canal Street Blues",
       "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Rebirth For Life",
-        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 349666,
-      "name": "Tubaluba",
-      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -691,6 +691,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
+        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Lord, Lord, Lord",
+      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
         "url": "https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 276976,
       "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
       "url": "https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
-        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
-      },
-      "artists": [
-        {
-          "name": "Leroy Jones",
-          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Lord, Lord, Lord",
-      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Back to My Roots",
+        "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "duration_ms": 254885,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "New Orleans Footwarmers",
         "url": "https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ"
       },
@@ -843,30 +859,6 @@
       "duration_ms": 258160,
       "name": "Down by the Old Mill Stream",
       "url": "https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
-        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
-      },
-      "artists": [
-        {
-          "name": "Kid Thomas",
-          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
-        },
-        {
-          "name": "Thomas Jefferson",
-          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
-        },
-        {
-          "name": "Percy Humphrey",
-          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "When You're Smiling",
-      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
     },
     {
       "added_at": "2021-04-26 16:53:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,559,638 likes - 240 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560,240 likes - 240 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,18 +18,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 8 | [Free](https://open.spotify.com/track/4Gy64kPK6SVwKdb4rs1emJ) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4) | [Anxiety Relief](https://open.spotify.com/album/5XF1VUAdmwVLiFHLh2892C) | 2:23 |
 | 9 | [Aurora](https://open.spotify.com/track/1OraD6cUqvKrh8A5skqtBh) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Aurora](https://open.spotify.com/album/3jAfYsRRP5zGAqbikyROKa) | 3:22 |
 | 10 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 |
-| 11 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 |
-| 12 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 |
-| 13 | [Tears Of Change](https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Tears Of Change](https://open.spotify.com/album/4OKcUyYXCVMR4FrIsUsCRm) | 2:53 |
-| 14 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 |
-| 15 | [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 |
-| 16 | [Horizons](https://open.spotify.com/track/52Uuuaa361wbdU2HnVwU6N) | [Deaton Sky](https://open.spotify.com/artist/1qqF2QJGLxxdAeuFdmWN8y) | [Horizons](https://open.spotify.com/album/7diRVG73mUY0p88dmBt3xR) | 2:08 |
-| 17 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 |
-| 18 | [A Small Pause](https://open.spotify.com/track/4QHEndaAkPF8Xg12e5uqdd) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Refraction Of Light](https://open.spotify.com/album/3XOiomjJPHuV4yaoNFU8Ie) | 2:37 |
-| 19 | [A Magic Light](https://open.spotify.com/track/3t015kQ5yR1vVl8hwLgCRS) | [Heuma](https://open.spotify.com/artist/1cRS77FU2esuOXibmmVsYP) | [The Winds](https://open.spotify.com/album/2gw0lecLee8TL5wjddfaRY) | 2:34 |
-| 20 | [Skies Of Reverence](https://open.spotify.com/track/4lOpaYou6ZgcnCr9DlkvIo) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Skies Of Reverence](https://open.spotify.com/album/5czawSZT0FWV21sCPbfelO) | 3:18 |
-| 21 | [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 |
-| 22 | [Illustratosphere](https://open.spotify.com/track/5YZGwFeQxvTrgUFa4Fmtth) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Illustratosphere](https://open.spotify.com/album/2trYEddNf9iBEBUzyUlS6s) | 3:30 |
+| 11 | [Slowdown](https://open.spotify.com/track/3nTFwQs9Oxz1KEtZn0Q7AK) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Slowdown](https://open.spotify.com/album/79Xcn04N8Ngs5vfkKCuTYa) | 2:39 |
+| 12 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 |
+| 13 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 |
+| 14 | [Tears Of Change](https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Tears Of Change](https://open.spotify.com/album/4OKcUyYXCVMR4FrIsUsCRm) | 2:53 |
+| 15 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 |
+| 16 | [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 |
+| 17 | [Horizons](https://open.spotify.com/track/52Uuuaa361wbdU2HnVwU6N) | [Deaton Sky](https://open.spotify.com/artist/1qqF2QJGLxxdAeuFdmWN8y) | [Horizons](https://open.spotify.com/album/7diRVG73mUY0p88dmBt3xR) | 2:08 |
+| 18 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 |
+| 19 | [A Small Pause](https://open.spotify.com/track/4QHEndaAkPF8Xg12e5uqdd) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Refraction Of Light](https://open.spotify.com/album/3XOiomjJPHuV4yaoNFU8Ie) | 2:37 |
+| 20 | [A Magic Light](https://open.spotify.com/track/3t015kQ5yR1vVl8hwLgCRS) | [Heuma](https://open.spotify.com/artist/1cRS77FU2esuOXibmmVsYP) | [The Winds](https://open.spotify.com/album/2gw0lecLee8TL5wjddfaRY) | 2:34 |
+| 21 | [Skies Of Reverence](https://open.spotify.com/track/4lOpaYou6ZgcnCr9DlkvIo) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Skies Of Reverence](https://open.spotify.com/album/5czawSZT0FWV21sCPbfelO) | 3:18 |
+| 22 | [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 |
 | 23 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 |
 | 24 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 |
 | 25 | [Relaksohuni](https://open.spotify.com/track/2iXFZRMJCWCkLd8hrm8GmO) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Relaksohuni](https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ) | 3:02 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 239 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 |
 | 240 | [On Quiet Feet](https://open.spotify.com/track/2F1P6vX0GjpWQztCwkoR9Z) | [Ria Mackenzie](https://open.spotify.com/artist/5bwSqSzPLBLTyy8G5dOK49) | [On Quiet Feet](https://open.spotify.com/album/398T3ZFWN5HJ2BxtRTyNRg) | 3:00 |
 
-Snapshot ID: `MTY3MjQxOTUxMSwwMDAwMDAwMDQ3YmYyZWFhZTQzMjlmNTgxMjQzMzRmYmVhNmMxYTQz`
+Snapshot ID: `MTY3MzI5MzEwOSwwMDAwMDAwMDE4YWM0MmY0NTY1ODUzYjNhMzQ1MjNiYmQ1NDE4MjY1`

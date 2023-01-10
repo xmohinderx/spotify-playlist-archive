@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 50 min
+79 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,8 @@
 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 | 2022-09-22 |  |
 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 | 2022-09-24 |  |
 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2022-09-22 |  |
-| [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2022-09-22 |  |
-| [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 | 2022-09-29 |  |
+| [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2022-09-22 | 2023-01-10 |
+| [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 | 2022-09-29 | 2023-01-10 |
 | [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 | 2022-10-07 | 2022-10-09 |
 | [El Preso Numero Nueve](https://open.spotify.com/track/27LWYN5H4rfXlRz1vFNm63) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:50 | 2022-09-29 | 2022-10-01 |
 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 | 2022-09-22 |  |
@@ -44,6 +44,7 @@
 | [Help Me Make It Through The Night](https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:02 | 2022-09-22 |  |
 | [Here's to you \(feat\. Joan Baez\)](https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Sacco e Vanzetti \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK) | 3:08 | 2022-09-22 |  |
 | [House Of The Rising Sun](https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:56 | 2022-09-24 | 2022-12-29 |
+| [I Am A Poor Wayfaring Stranger](https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 4:41 | 2023-01-09 |  |
 | [I Know You Rider](https://open.spotify.com/track/7vJAglE0Vzjgy1GyeA7Vog) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:46 | 2022-09-24 | 2022-10-03 |
 | [I Will Never Marry](https://open.spotify.com/track/37BVqKwNNBIE0HIaGUrgvC) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [How Sweet The Sound](https://open.spotify.com/album/0yd4yXz2KHDtb9BuZWG2qR) | 3:01 | 2022-09-22 |  |
 | [If I Were A Carpenter](https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 2:09 | 2022-10-12 |  |
@@ -58,7 +59,7 @@
 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 | 2022-09-22 |  |
 | [Llego Con Tres Heridas](https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:14 | 2022-09-22 |  |
 | [Love Is Just A Four\-Letter Word](https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 4:27 | 2022-09-22 |  |
-| [Love Minus Zero/No Limit](https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 2:44 | 2022-09-22 | 2023-01-07 |
+| [Love Minus Zero/No Limit](https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 2:44 | 2022-09-22 |  |
 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 | 2022-09-26 |  |
 | [Mary Hamilton](https://open.spotify.com/track/7rL6dZzydhWSimA6TouJ6K) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 5:57 | 2022-10-02 | 2022-10-05 |
 | [Never Dreamed You'd Leave In Summer](https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 2:45 | 2022-09-22 |  |

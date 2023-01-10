@@ -4,7 +4,7 @@
 
 > Os grandes hits do momento estão aqui! Foto: Luísa Sonza, Xamã
 
-121 songs - 6 hr 5 min
+122 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti\)](https://open.spotify.com/track/5o4VK4Qe5QwXHrvUPoaGHy) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/6qX5mgFX8dUrTxsSbsXOzd) | 2:16 | 2022-12-22 |  |
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-05-20 | 2022-08-13 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-05-20 |  |
-| [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-05-27 |  |
+| [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-05-27 | 2023-01-10 |
 | [Ai Papai](https://open.spotify.com/track/3hbtxis0jMinjRzv3Hy7iA) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [À Procura da Anitta Perfeita](https://open.spotify.com/album/1vaz2dIr146DBY4DC3rFjT) | 2:28 | 2022-12-13 |  |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-08-01 | 2022-09-28 |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-10-21 |  |
@@ -32,6 +32,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-12-22 |
 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 | 2022-07-19 |  |
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu) | 3:01 | 2022-05-20 | 2022-11-08 |
+| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2023-01-09 |  |
 | [CHIRI](https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:00 | 2022-09-09 | 2022-09-24 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-05-20 | 2022-12-14 |
 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 | 2022-12-13 |  |

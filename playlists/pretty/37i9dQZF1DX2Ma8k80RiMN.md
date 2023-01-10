@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359,843 likes - 40 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359,947 likes - 40 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 5 | [Time \- From the Motion Picture "Amsterdam"](https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Time \(From the Motion Picture "Amsterdam"\)](https://open.spotify.com/album/3VDUN8potNxTgF520R642l) | 3:42 |
 | 6 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
 | 7 | [Add Up To 1](https://open.spotify.com/track/0GaSs1MtArSVQ1mPPACxDG) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/0yOXtde4YGMQadJic2I6qr) | 3:28 |
-| 8 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
+| 8 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 |
 | 9 | [Lessons \- Remix](https://open.spotify.com/track/3k6Eu5Gq7PM7krNbCqkQUs) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Lessons \(Remix\)](https://open.spotify.com/album/78IsczI1FMVEkgbynVBvHl) | 6:37 |
 | 10 | [Please Don't Walk Away](https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Don't Walk Away](https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy) | 3:36 |
-| 11 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 |
+| 11 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
 | 12 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 13 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
 | 14 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 36 | [Can't Hide Love](https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:10 |
 | 37 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
 | 38 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
-| 39 | [With You](https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt) | [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Tony Terry](https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM) | 5:05 |
-| 40 | [Stuck.](https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Dur&](https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR) | 4:19 |
+| 39 | [Forever Mine](https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 6:06 |
+| 40 | [With You](https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt) | [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Tony Terry](https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM) | 5:05 |
 
-Snapshot ID: `MTY2NzU3NDUwMSwwMDAwMDAwMDE2YmE4MzBkODYwZjIxNGM3NTI3MTE3ZmU2ZjRiMGE1`
+Snapshot ID: `MTY2NzU3NDUwMSwwMDAwMDAwMGFlZTJiODVkMDcwNzA2NmIwM2NkZGJkNmRlZTgwMjE4`

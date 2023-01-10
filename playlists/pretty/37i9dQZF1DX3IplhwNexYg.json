@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 110755,
+  "num_followers": 110761,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMGQ1YzJiMmYzZDdhODY1OGEyNDZhYTFhYTkyZDNmYzIz",
+  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDY1YmFhZTgzMjlhOWYwODUxMGEzOWMzYjAzZmFhMTQ2",
   "tracks": [
     {
       "added_at": "2022-11-25 00:00:00",
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     },
     {
-      "added_at": "2023-01-09 01:11:56",
+      "added_at": "2023-01-10 01:18:52",
       "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Overload",
-      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Kool Aid",
         "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 216665,
       "name": "Kool Aid",
       "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Overload",
+      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "SCARING ME",
-      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "SCARING ME",
+      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "I Shimmer",
-        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "I Shimmer",
-      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "I Shimmer",
+        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "I Shimmer",
+      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Most Normal",
         "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Sell Out",
-        "url": "https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ"
-      },
-      "artists": [
-        {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/5aWaPqgkheottumavM0tix"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Sell Out",
+        "url": "https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/5aWaPqgkheottumavM0tix"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Dreams, Pains & Paper Planes",
-        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 201942,
-      "name": "I'm Just High",
-      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "The Dance You Sell",
         "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 242512,
       "name": "The Dance You Sell",
       "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Dreams, Pains & Paper Planes",
+        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "I'm Just High",
+      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "I Know You Care",
-        "url": "https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 188759,
-      "name": "I Know You Care",
-      "url": "https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 209230,
       "name": "It Was Nothing",
       "url": "https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "I Know You Care",
+        "url": "https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 188759,
+      "name": "I Know You Care",
+      "url": "https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "It's My Birthday",
+        "url": "https://open.spotify.com/album/1V3nahHw2dEpUrHv6Ce9cI"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 170041,
+      "name": "It's My Birthday",
+      "url": "https://open.spotify.com/track/6tw9U0hTxMl6q7IMRkyeMJ"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Flip It",
         "url": "https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 147427,
       "name": "Factor 50!",
       "url": "https://open.spotify.com/track/1vEFlprBbhVZTU0SAlPwDW"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "It's My Birthday",
-        "url": "https://open.spotify.com/album/1V3nahHw2dEpUrHv6Ce9cI"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 170041,
-      "name": "It's My Birthday",
-      "url": "https://open.spotify.com/track/6tw9U0hTxMl6q7IMRkyeMJ"
     },
     {
       "added_at": "2022-11-25 00:00:00",

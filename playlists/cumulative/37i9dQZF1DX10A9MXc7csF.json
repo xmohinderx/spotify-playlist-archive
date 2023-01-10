@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "album": {
         "name": "Claro Que Te Amo",
         "url": "https://open.spotify.com/album/1uO2tuBoVL3QF5K8p874fC"
       },

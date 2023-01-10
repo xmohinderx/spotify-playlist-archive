@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-930 songs - 2 day 0 hr 49 min
+931 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Alene på Staden](https://open.spotify.com/track/7gicsQeGl908everJciIUN) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:08 | 2022-10-22 | 2022-10-30 |
 | [ALIVE ALIVE ALIVE](https://open.spotify.com/track/7JqI6lxV0zDu8wIUYegsGE) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 4:20 | 2023-01-07 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-11-09 | 2022-12-30 |
-| [All My Love](https://open.spotify.com/track/49clGe0PtbYUx3vB7tyk3A) | [Rocazino](https://open.spotify.com/artist/62ytrJr6FZ6W1boNI1Y0O3) | [Natsværmer](https://open.spotify.com/album/0JpeM92lotMIZHFJUOs1mP) | 3:34 | 2022-01-01 |  |
+| [All My Love](https://open.spotify.com/track/49clGe0PtbYUx3vB7tyk3A) | [Rocazino](https://open.spotify.com/artist/62ytrJr6FZ6W1boNI1Y0O3) | [Natsværmer](https://open.spotify.com/album/0JpeM92lotMIZHFJUOs1mP) | 3:34 | 2022-01-01 | 2023-01-10 |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2021-11-21 | 2021-11-22 |
 | [All Of It All](https://open.spotify.com/track/4NlZMh26pWn34TQ0luNEmj) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [All Of It All](https://open.spotify.com/album/78cfKFwiCAU5McJblfI2im) | 2:58 | 2022-02-20 | 2022-03-12 |
 | [All Of It All](https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [All Of It All](https://open.spotify.com/album/7xpldh6E2eQyxS6UWN9xEA) | 2:58 | 2022-02-19 | 2022-02-21 |
@@ -805,6 +805,7 @@
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-19 | 2022-10-16 |
 | [Sunshine \(rosegold X Branco\)](https://open.spotify.com/track/4y9dTTx6sO1y7UKR7gquDp) | [rosegold](https://open.spotify.com/artist/3TUFXaknTbUzM1SPutAt3f), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Sunshine \(rosegold X Branco\)](https://open.spotify.com/album/4TYf22G57QeXqxI9fGpWhJ) | 2:28 | 2021-05-09 | 2021-05-10 |
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-09-01 | 2022-10-20 |
+| [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-09 |  |
 | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/track/2B42WBdF3IIcSazFD9BtvP) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/album/0nqwOpcQxj5OirkQL0OOeb) | 2:10 | 2022-02-05 | 2022-02-20 |
 | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/track/4GItDZYNSfmGSdDreKHJKt) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:10 | 2022-02-19 | 2022-03-22 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-27 |

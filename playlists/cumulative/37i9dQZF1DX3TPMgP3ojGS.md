@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,631 songs - 3 day 1 hr 31 min
+1,633 songs - 3 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Deep Sensation](https://open.spotify.com/track/0aBfDx1APM3cJt1118v32T) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 4:39 | 2021-04-24 | 2022-06-28 |
 | [Delicate](https://open.spotify.com/track/648uIXFNwQBgemMz1kk1Be) | [Max Arnolds](https://open.spotify.com/artist/272NYvyxL9shy4vUzsvz23) | [Delicate](https://open.spotify.com/album/56DezvcqC1Ar63BjQ5mqCJ) | 2:34 | 2022-05-03 | 2022-05-10 |
 | [Delicate Transitions](https://open.spotify.com/track/3WzXJhi5jtc29EoOwjPf2D) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Drifting Among Strangers](https://open.spotify.com/album/11tvEp8VByXTg3hOljnDBF) | 2:28 | 2021-04-21 | 2022-04-09 |
+| [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 | 2023-01-10 |  |
 | [Dells Pond](https://open.spotify.com/track/5lefNG7G6OMsOTcwPX0Hfe) | [Elizabeth Bouknight](https://open.spotify.com/artist/75cwvPWWYghazFDw1Hvda4) | [Dells Pond](https://open.spotify.com/album/1hp6OfvkiYWV9LaaJbEQLu) | 2:15 | 2022-04-12 | 2022-04-22 |
 | [Delori's theme](https://open.spotify.com/track/1Xr82vsXT5klIAzFmm42Pd) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Delori's theme](https://open.spotify.com/album/0vf2z4PZv8pCXYobzavgIh) | 1:25 | 2021-03-22 | 2021-05-17 |
 | [Deloris](https://open.spotify.com/track/5J715ZVsqt8q0mCB8T003B) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Deloris](https://open.spotify.com/album/6I7zX2BsEvl9V4eMgC3zWe) | 2:31 | 2021-09-06 | 2022-07-28 |
@@ -546,7 +547,7 @@
 | [Glory of Calm](https://open.spotify.com/track/2La1EHkZt0w4ucQdQjtFu4) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Images of Now](https://open.spotify.com/album/4Fyk5yMOFNqjG2NTCksZQb) | 3:02 | 2021-03-20 | 2021-12-21 |
 | [Glourious](https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Glourious](https://open.spotify.com/album/4iUd5XDXgicUS1gLzfYCIK) | 2:23 | 2021-03-08 | 2021-10-14 |
 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 | 2021-03-30 | 2022-07-29 |
-| [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-12-24 |  |
+| [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-12-24 | 2023-01-10 |
 | [Go Peaceful](https://open.spotify.com/track/1M9b6vGSZUoRr8AKkRBs3b) | [Wynton Davidson](https://open.spotify.com/artist/37Q6iiVFO4GhLHVbjIbwTg) | [Omnipresence](https://open.spotify.com/album/1ORZeqjuP3L6nf2DVEtB25) | 2:51 | 2021-03-11 | 2022-04-20 |
 | [Going Back Home](https://open.spotify.com/track/77BoxNybCnK298YxCriS1p) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Going Back Home](https://open.spotify.com/album/13Cq5fDa6a348iF6at6I7S) | 3:09 | 2021-03-15 | 2021-07-16 |
 | [Going Home](https://open.spotify.com/track/4IAXoiaI12FoH8StF4n2tG) | [Intrinsic Focus](https://open.spotify.com/artist/6mvJXUuR2ER5cr8U4Vh4MW) | [Going Home](https://open.spotify.com/album/3FTs8ca556v5oMtQm2a9O7) | 4:12 | 2021-05-07 | 2022-04-14 |
@@ -1083,6 +1084,7 @@
 | [Promises Kept](https://open.spotify.com/track/3wC0qWD7r4kHA5icmiXD9m) | [Sophie Wendel](https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ) | [Promises Kept](https://open.spotify.com/album/29uMyZZemdiRKBBHnqm08J) | 1:43 | 2021-03-10 | 2022-04-18 |
 | [Psalm](https://open.spotify.com/track/0eUJLR1GgpIMoAeiew9yFo) | [Hannes Jensen](https://open.spotify.com/artist/3PjDdvkG80nh7dlsDd1zmN) | [Psalm](https://open.spotify.com/album/0vVqxusePqHQ73aHgLtXro) | 2:19 | 2021-07-11 | 2022-07-25 |
 | [Psalm \#1](https://open.spotify.com/track/2M3TYW4G60raCQnznf0e1o) | [René Sturgess](https://open.spotify.com/artist/5gEyAqENfIITIqk0dUaPUm) | [Psalm \#1](https://open.spotify.com/album/5Pa5qVrKMenKj5XTGkr1JL) | 1:49 | 2021-03-09 | 2022-04-20 |
+| [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 | 2023-01-10 |  |
 | [Purple Distant](https://open.spotify.com/track/4QVIk4rz60fXiOy5LBNedb) | [Once Proven](https://open.spotify.com/artist/3t46Q3kFpBlN8nD75ypsMj) | [Closing In On Reality](https://open.spotify.com/album/2fAg8MypA3l9c3G1I3QXeB) | 2:26 | 2022-04-12 | 2022-04-15 |
 | [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2023-01-03 |  |
 | [Qi](https://open.spotify.com/track/2PgVEaqgmMh1hdhcnuqDEd) | [PHILDEL](https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4) | [Qi](https://open.spotify.com/album/39fZOxjNH13Aj7Mzgpy9co) | 5:26 | 2021-03-07 | 2021-05-09 |
@@ -1220,7 +1222,7 @@
 | [Silent Rain](https://open.spotify.com/track/3HijOHaUfpWWJNEbU0QsHZ) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Silent Rain](https://open.spotify.com/album/71ceTov00b4SL0TiqvzIGy) | 2:19 | 2022-06-08 | 2022-07-24 |
 | [Silent River](https://open.spotify.com/track/4z3xb8dj9OigB5N5Yni8KK) | [The Lagoon](https://open.spotify.com/artist/1lnUDktBx0qwi8Rcya0hkM) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 3:02 | 2021-04-26 | 2022-04-19 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-14 | 2022-08-09 |
-| [Silent sky](https://open.spotify.com/track/7jOC9bmHMZ5m4S1ZDAYgzn) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Silent sky](https://open.spotify.com/album/5Tn1LjIS50nbr4oNRCOBdF) | 2:12 | 2022-12-24 |  |
+| [Silent sky](https://open.spotify.com/track/7jOC9bmHMZ5m4S1ZDAYgzn) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Silent sky](https://open.spotify.com/album/5Tn1LjIS50nbr4oNRCOBdF) | 2:12 | 2022-12-24 | 2023-01-10 |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2021-03-11 | 2021-12-30 |
 | [Silhouettes](https://open.spotify.com/track/7EzkU8mQ3HLW4pfU8URb7N) | [Martin Greenbaum](https://open.spotify.com/artist/2OaV087psXxou4fTQOpfdh) | [Folk Dances](https://open.spotify.com/album/32CyfCvWsvfa17HsxAoodi) | 3:02 | 2021-04-21 | 2022-04-17 |
 | [Silk Road](https://open.spotify.com/track/6M4AYDG2grR29G911EtG0p) | [Federcio Vernazza](https://open.spotify.com/artist/5fTdk4UwwuoJCS0Vh9FuzT) | [Silk Road](https://open.spotify.com/album/7uhTUTcVtmP4hNQAGMrNgj) | 1:53 | 2021-04-22 | 2022-04-21 |

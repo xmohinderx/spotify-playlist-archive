@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: クレナズム\(Culenasm\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,553 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,574 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 23 | [1](https://open.spotify.com/track/2XKC1yPYhtI5zPBofGBbzQ) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw) | [1](https://open.spotify.com/album/2SMgYY7Z70e06DAUNjmYWh) | 3:49 |
 | 24 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
 | 25 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
-| 26 | [\#アチョイ](https://open.spotify.com/track/6KWs0SeaLgmH7YG4aWicsz) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [\#アチョイ](https://open.spotify.com/album/68xIq8A99IgcndxZEOsQnO) | 3:10 |
-| 27 | [ZUTTO](https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ZUTTO](https://open.spotify.com/album/0f4VLaIDcIdG74d3P1rQth) | 4:19 |
-| 28 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
-| 29 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 |
+| 26 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
+| 27 | [\#アチョイ](https://open.spotify.com/track/6KWs0SeaLgmH7YG4aWicsz) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [\#アチョイ](https://open.spotify.com/album/68xIq8A99IgcndxZEOsQnO) | 3:10 |
+| 28 | [ZUTTO](https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ZUTTO](https://open.spotify.com/album/0f4VLaIDcIdG74d3P1rQth) | 4:19 |
+| 29 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 30 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 |
-| 31 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 |
+| 31 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
 | 32 | [ma ta ne](https://open.spotify.com/track/1don1Vrx90qZjIqhThSpSY) | [mismatch\-smile](https://open.spotify.com/artist/159vzWrM1lyDOOGqQGgHgR) | [INNERMOST](https://open.spotify.com/album/0UR5uSg0lAfBTAvzNZOj38) | 4:22 |
-| 33 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
+| 33 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 |
 | 34 | [Slow Motion](https://open.spotify.com/track/1JWtFauEXNtgbEif9fdCTg) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Slow Motion](https://open.spotify.com/album/4qzVqMaVapyv6zvK6uFxoR) | 4:09 |
-| 35 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
+| 35 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 |
 | 36 | [Natural](https://open.spotify.com/track/6jORyuT0NO71bNeQgwcdAi) | [AQMO](https://open.spotify.com/artist/6fQQ8G7xptjlxYPLY7Lvuy) | [Natural / Sabotage](https://open.spotify.com/album/2qqTrHWRm4zSEWNQW39d2E) | 2:06 |
 | 37 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
 | 38 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 49 | [おぼえたて](https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ペンシルロケット](https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8) | 3:27 |
 | 50 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
 
-Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMGQ5MjhhY2Y4MDg3NTBlOWY1NTlmMmUzZjQ5YmUwMjhl`
+Snapshot ID: `MTY3MjkzMDgwMCwwMDAwMDAwMGM5MjFmZDIzYTQ3M2VhZmFlYjQzMjljNTY5MTlhYzAz`

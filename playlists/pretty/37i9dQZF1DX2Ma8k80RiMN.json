@@ -1,12 +1,12 @@
 {
   "description": "Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.",
-  "num_followers": 1359843,
+  "num_followers": 1359947,
   "original_name": "The Sweet Suite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMDE2YmE4MzBkODYwZjIxNGM3NTI3MTE3ZmU2ZjRiMGE1",
+  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMGFlZTJiODVkMDcwNzA2NmIwM2NkZGJkNmRlZTgwMjE4",
   "tracks": [
     {
       "added_at": "2022-03-14 19:51:21",
@@ -131,22 +131,22 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 350533,
-      "name": "Nothing Even Matters (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
       "added_at": "2022-03-14 19:51:21",
@@ -195,22 +195,22 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
     },
     {
       "added_at": "2022-03-14 19:51:21",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
+        "name": "Identify Yourself",
+        "url": "https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 366226,
+      "name": "Forever Mine",
+      "url": "https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
         "name": "Tony Terry",
         "url": "https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM"
       },
@@ -683,26 +699,6 @@
       "duration_ms": 305826,
       "name": "With You",
       "url": "https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
-        "name": "Dur&",
-        "url": "https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Stuck.",
-      "url": "https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc"
     }
   ],
   "unique_name": "The Sweet Suite",

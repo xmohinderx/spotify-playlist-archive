@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 160404,
+  "num_followers": 160440,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDM4OTM0MiwwMDAwMDAwMGJmNjg1NjBlOWVkMmFmMDNiOWI1ZjUwYzQ3ZWNmZTQw",
+  "snapshot_id": "MTY3MDM4OTM0MiwwMDAwMDAwMGZlNGNhYTYxYzU2NTI0YjRiMjY1OGE0MDBlMTY3NWZj",
   "tracks": [
     {
       "added_at": "2022-09-29 23:33:38",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
-    },
-    {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -307,22 +291,6 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2022-12-07 05:02:22",
-      "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "T\u00e9 De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -343,6 +311,38 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2022-12-07 05:02:22",
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "T\u00e9 De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -383,18 +383,22 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+        "name": "Revelaci\u00f3n - EP",
+        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 139576,
-      "name": "TE DESEO LO MEJOR",
-      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
+      "duration_ms": 186087,
+      "name": "Baila Conmigo (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
     },
     {
       "added_at": "2022-11-25 02:31:31",
@@ -415,22 +419,18 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "Revelaci\u00f3n - EP",
-        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 186087,
-      "name": "Baila Conmigo (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
+      "duration_ms": 139576,
+      "name": "TE DESEO LO MEJOR",
+      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
-    },
-    {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
         "name": "PURRITO APA",
         "url": "https://open.spotify.com/album/1pUUH7qNJZsVa0AxHPmY11"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 151813,
       "name": "PURRITO APA",
       "url": "https://open.spotify.com/track/4e54PAuILqrhjr2ryuMvdq"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
-    },
-    {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
         "name": "Dos Problemas (feat. Big Soto) [Remix]",
         "url": "https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 243216,
       "name": "Dos Problemas (feat. Big Soto) - Remix",
       "url": "https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
     },
     {
       "added_at": "2022-09-29 23:33:38",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-09-29 23:33:38",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "TOSCANA",
-      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
-    },
-    {
-      "added_at": "2022-09-29 23:33:38",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 155586,
       "name": "Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
+    },
+    {
+      "added_at": "2022-09-29 23:33:38",
+      "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "TOSCANA",
+      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
     },
     {
       "added_at": "2022-09-29 23:33:38",

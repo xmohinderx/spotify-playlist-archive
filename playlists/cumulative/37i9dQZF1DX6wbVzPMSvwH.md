@@ -2,9 +2,9 @@
 
 ### [Semangat Pagi](https://open.spotify.com/playlist/37i9dQZF1DX6wbVzPMSvwH)
 
-> Awali tahunmu dengan lagu\-lagu yang memuatmu bersemangat!
+> Sarapan sesuap semangat bersama lagu\-lagu dari Spotify.
 
-71 songs - 4 hr 28 min
+73 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Flying High](https://open.spotify.com/track/4haBSzLuFrT1hWqH5ErIWw) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Flying High](https://open.spotify.com/album/2l3g3RedySQT8z2Gsc2T78) | 3:49 | 2022-12-13 |  |
 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-12-13 |  |
 | [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2022-12-13 |  |
-| [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2022-12-13 |  |
+| [Heaven](https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Heaven](https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi) | 3:44 | 2023-01-09 |  |
+| [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2022-12-13 | 2023-01-10 |
 | [Heroik](https://open.spotify.com/track/2sRXa0KzHvIsUuN7zYBEd4) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Heroik](https://open.spotify.com/album/6n50RxgjfIYDZjd20vIQOe) | 4:18 | 2022-12-13 |  |
 | [High School in Jakarta](https://open.spotify.com/track/0r6oCPoDuCOXvEPOPV6UXN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/3QtwI1FUvH2kCD9Y5HaG9y) | 3:39 | 2022-12-13 |  |
 | [Hoolala](https://open.spotify.com/track/7misIHyXm0bSSXQTVoeKAD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:15 | 2022-12-13 |  |
@@ -66,6 +67,7 @@
 | [Selalu Bersama](https://open.spotify.com/track/4E0Ib1Xfhr15mQU6BNShSp) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Selalu Bersama](https://open.spotify.com/album/0nZF3NgXbl8qj7exGx9AtP) | 3:25 | 2022-12-13 |  |
 | [Selamat Pagi](https://open.spotify.com/track/493V5dhXECdFJ7SBqOsybH) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8) | 3:54 | 2022-12-13 |  |
 | [Semoga, Ya](https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Dadang Sh Pranoto](https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3), [Deny Surya](https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf) | [Ini Bukan Nosstress](https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy) | 3:33 | 2022-12-13 |  |
+| [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-01-09 |  |
 | [Sinema](https://open.spotify.com/track/21OXhVAGwkueDkmvPVLNPm) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [TIME](https://open.spotify.com/album/3K7DAXAdl6EdEZZkhQLLxX) | 3:29 | 2022-12-13 |  |
 | [so wrong but so right.](https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [so wrong but so right.](https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq) | 2:59 | 2022-12-13 |  |
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-12-13 |  |
@@ -78,6 +80,6 @@
 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 | 2022-12-13 |  |
 | [Tunggu Aku Di Jakarta](https://open.spotify.com/track/0Z0K5nZGqw8WuV4WOLxVnR) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 5:07 | 2022-12-13 |  |
 | [Yang Kusayang](https://open.spotify.com/track/07u51YjzguLY8v8XHQaBMd) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Yang Kusayang](https://open.spotify.com/album/4sZAdMtWkGYd1wI643Y2on) | 4:22 | 2022-12-13 |  |
-| [You](https://open.spotify.com/track/79xK6U9ebkeiE5W3n0ejAI) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [You](https://open.spotify.com/album/3PvrFFoalcNBqVhzrYPidR) | 4:04 | 2022-12-13 |  |
+| [You](https://open.spotify.com/track/79xK6U9ebkeiE5W3n0ejAI) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [You](https://open.spotify.com/album/3PvrFFoalcNBqVhzrYPidR) | 4:04 | 2022-12-13 | 2023-01-10 |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

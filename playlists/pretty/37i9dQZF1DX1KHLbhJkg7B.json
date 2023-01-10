@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 81910,
+  "num_followers": 81940,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDUxYzJhMDNlNDYyZDJjYWU4N2RkODUzOWU4NzFhYjRl",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDI3NDI2N2M3MmJhNWU0NTNkMjNmOGQyNzAzYWZhOGQz",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "If You Want Love",
-        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
-      },
-      "artists": [
-        {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Islands In The Stream",
         "url": "https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+        "name": "If You Want Love",
+        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
+      "duration_ms": 204760,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -715,6 +699,38 @@
       "duration_ms": 257733,
       "name": "Walking In Memphis",
       "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -743,22 +759,6 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 255013,
+      "name": "Margaritaville (with Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 158461,
       "name": "He Got the Best of Me",
       "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 255013,
-      "name": "Margaritaville (with Jimmy Buffett)",
-      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Feeling Whitney",
-        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
       },
       "artists": [
         {
-          "name": "Tyler Booth",
-          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 217034,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 322346,
       "name": "It's Only Rock 'N' Roll (But I Like It)",
       "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Just to See You Smile",
+        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 269525,
+      "name": "Just to See You Smile",
+      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "This Land Is Your Land (From Bright: The Album)",
         "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 262520,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Just to See You Smile",
-        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 269525,
-      "name": "Just to See You Smile",
-      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Make Me Want To",
+        "url": "https://open.spotify.com/album/0yeIgCIOOONw8YBtZCFzu9"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/4zBfFrS00t3HNpW50Q2lew"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
       },
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Make Me Want To",
-        "url": "https://open.spotify.com/album/0yeIgCIOOONw8YBtZCFzu9"
+        "name": "Re-Dunn",
+        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
       },
       "artists": [
         {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
         }
       ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/4zBfFrS00t3HNpW50Q2lew"
+      "duration_ms": 204282,
+      "name": "The Cowboy Rides Away",
+      "url": "https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Re-Dunn",
-        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
-        }
-      ],
-      "duration_ms": 204282,
-      "name": "The Cowboy Rides Away",
-      "url": "https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH"
     }
   ],
   "unique_name": "Country Covers",

@@ -455,6 +455,32 @@
     },
     {
       "album": {
+        "name": "Ando Enfocado",
+        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184106,
+      "name": "Ando Enfocado",
+      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -470,6 +496,24 @@
       "duration_ms": 180551,
       "name": "Aqu\u00ed en El Chaleco",
       "url": "https://open.spotify.com/track/2knMErrj3LxbqXSM0rDSSY"
+    },
+    {
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
     },
     {
       "album": {
@@ -742,7 +786,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
@@ -760,7 +804,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 193874,
       "name": "Buena Vibra",
       "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
@@ -963,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Ciudad Peligrosa",
+        "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Ciudad Peligrosa",
+      "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
+    },
+    {
+      "album": {
         "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
         "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
       },
@@ -1108,7 +1174,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 206293,
       "name": "Contrabando Y Traici\u00f3n",
       "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
@@ -1126,7 +1192,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 261973,
       "name": "Corrido De Juanito",
       "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
@@ -1316,7 +1382,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 186833,
       "name": "Cuidando El Territorio",
       "url": "https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e"
@@ -1766,7 +1832,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 184199,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
@@ -1904,6 +1970,28 @@
       "duration_ms": 281760,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
+    },
+    {
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "album": {
@@ -2168,7 +2256,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 245376,
       "name": "El Comerciante",
       "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
@@ -2426,6 +2514,28 @@
       "duration_ms": 216960,
       "name": "El Del Ice - Live",
       "url": "https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8"
+    },
+    {
+      "album": {
+        "name": "El Deportivo",
+        "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "El Deportivo",
+      "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
     },
     {
       "album": {
@@ -2730,7 +2840,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 213254,
       "name": "El G\u00fcero (Feat. Marca MP)",
       "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
@@ -2828,7 +2938,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 195136,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
@@ -3211,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "El Rayo",
+        "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
+      },
+      "artists": [
+        {
+          "name": "Asael gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218058,
+      "name": "El Rayo",
+      "url": "https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj"
+    },
+    {
+      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -3262,7 +3390,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 193237,
       "name": "El Roto - En Vivo",
       "url": "https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy"
@@ -3320,6 +3448,28 @@
       "duration_ms": 215640,
       "name": "El Senor de la Montana",
       "url": "https://open.spotify.com/track/2Tpgh5ZNqDZOfXzRMblXqB"
+    },
+    {
+      "album": {
+        "name": "El Sera Y El Chavo",
+        "url": "https://open.spotify.com/album/1URllllJhLaOq9RD3uR3Zz"
+      },
+      "artists": [
+        {
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147940,
+      "name": "El Sera Y El Chavo",
+      "url": "https://open.spotify.com/track/1r0C4tN59CyDYQdYcwzbFP"
     },
     {
       "album": {
@@ -3616,7 +3766,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
@@ -3710,6 +3860,28 @@
       "duration_ms": 185748,
       "name": "En Modesto Se La Pasa",
       "url": "https://open.spotify.com/track/7bC7TdehslF8iUS5f8wRpP"
+    },
+    {
+      "album": {
+        "name": "En Paris",
+        "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
+      },
+      "artists": [
+        {
+          "name": "El Chachito",
+          "url": "https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162795,
+      "name": "En Paris",
+      "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
     },
     {
       "album": {
@@ -4146,7 +4318,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Javier El De Los Llanos",
       "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
@@ -4596,7 +4768,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 191880,
       "name": "Ladeando (feat. Fuerza Regida)",
       "url": "https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV"
@@ -4914,7 +5086,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 163000,
       "name": "Los Mire Con Talento",
       "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
@@ -4998,6 +5170,32 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+    },
+    {
+      "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260285,
+      "name": "Malas Rachas",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "album": {
@@ -5302,7 +5500,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 161816,
       "name": "Mi Porvenir",
       "url": "https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9"
@@ -5342,7 +5540,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 163560,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
@@ -5434,6 +5632,24 @@
       "duration_ms": 182000,
       "name": "Moreno 80",
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
+    },
+    {
+      "album": {
+        "name": "Morritas",
+        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216330,
+      "name": "Morritas",
+      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
     },
     {
       "album": {
@@ -5666,7 +5882,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
@@ -6022,7 +6238,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 213943,
       "name": "Porte Exuberante",
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
@@ -6066,7 +6282,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 162475,
       "name": "Que Esta Pasando",
       "url": "https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8"
@@ -6346,7 +6562,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe"
@@ -6458,7 +6674,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 235858,
       "name": "Se Amerita",
       "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
@@ -6538,7 +6754,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 205813,
       "name": "Seguimos Laborando",
       "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
@@ -6564,6 +6780,24 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
+    },
+    {
+      "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "album": {
@@ -6680,7 +6914,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 194353,
       "name": "Siempre Clave",
       "url": "https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk"
@@ -7228,7 +7462,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
@@ -7246,7 +7480,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 146413,
       "name": "Yo Fui El Elegante",
       "url": "https://open.spotify.com/track/6dJJT9h7FzjenIaa31bw8p"

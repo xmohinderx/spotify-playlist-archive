@@ -2,7 +2,7 @@
 
 ### [Sweat.](https://open.spotify.com/playlist/37i9dQZF1DX4YipRSmIneQ)
 
-> Turn anywhere into a sweaty club with tracks selected by Charli XCX 😈 \#NYE2022
+> Turn anywhere into a sweaty club with tracks selected by Charli XCX 😈
 
 246 songs - 14 hr 25 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,115 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,134 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 28 | [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 |
 | 29 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 |
 | 30 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 |
-| 31 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 |
-| 32 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 |
+| 31 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 |
+| 32 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 |
 | 33 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
 | 34 | [Ibiza](https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC) | 2:25 |
 | 35 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 51 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 |
 | 52 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 |
 | 53 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 |
-| 54 | [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 |
-| 55 | [Heaven Is a Place on Earth](https://open.spotify.com/track/7HEhUhF8jcJVqTOGR6BNOQ) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/6suRrxlM7PfRhxcHiWHUIv) | 2:40 |
-| 56 | [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 |
+| 54 | [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 |
+| 55 | [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 |
+| 56 | [Heaven Is a Place on Earth](https://open.spotify.com/track/7HEhUhF8jcJVqTOGR6BNOQ) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/6suRrxlM7PfRhxcHiWHUIv) | 2:40 |
 | 57 | [Moonlight](https://open.spotify.com/track/3BXXFBcWJW3su1sodrywxL) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/68u0ZhWzY2lw8Jj1rerGxY) | 2:07 |
 | 58 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 |
 | 59 | [Last Train Home](https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [Sønlille](https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ) | [Last Train Home](https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J) | 1:59 |
 | 60 | [Back 2 U](https://open.spotify.com/track/3lrQX2YbeXOmnMvtAu30iB) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Back 2 U](https://open.spotify.com/album/4b9pbSew5hwaGri6KZ6ZBM) | 2:40 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGE5M2QyNjdjNTc0OGYzMTgxMzJjMzhlYTRmM2I2NzVl`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDNkZDljMTE3OTRlZDk1ZDBhMGUzNTlmYTUxNTIwYjgx`

@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Nivel Codiciado & José Mejía
 
-273 songs - 14 hr 15 min
+274 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Buen Callo \- En Vivo](https://open.spotify.com/track/1IyDPcSWAjNe06JXqTxpWE) | [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [De Buen Callo \(En Vivo\)](https://open.spotify.com/album/3E3XHq0fQoQ5y4FtjPOzXl) | 2:08 | 2022-11-11 |  |
 | [Buenos Ratos](https://open.spotify.com/track/3tdNgx8eGeOtRWFOaAmgoA) | [Fernando Ortiz](https://open.spotify.com/artist/6LaQuYCtHYAPFForeVX0r2), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Buenos Ratos](https://open.spotify.com/album/5feNPuYXghz6Jwib8iuvMY) | 3:20 | 2022-07-22 | 2022-09-09 |
 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 | 2022-05-14 | 2022-08-27 |
+| [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 | 2023-01-09 |  |
 | [Claro Que Te Amo](https://open.spotify.com/track/6bbqOi8ccpkyVpX4E2dUTK) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Claro Que Te Amo](https://open.spotify.com/album/1uO2tuBoVL3QF5K8p874fC) | 3:07 | 2022-05-14 | 2022-07-23 |
 | [Como Quiera](https://open.spotify.com/track/0WaFzSRnJzAIyKY5jmcuFw) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Como Quiera](https://open.spotify.com/album/6DrGqqLabbWi10BHJf7a6d) | 3:50 | 2022-05-14 | 2022-08-06 |
 | [Comprobado](https://open.spotify.com/track/6Bc611lAS5IxW05vlJ8xYv) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Pinch3 Polo](https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR) | 2:36 | 2022-09-09 |  |

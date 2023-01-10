@@ -4,7 +4,7 @@
 
 > Classic soft rock\. For that free and easy feeling.
 
-106 songs - 7 hr 4 min
+107 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 | 2021-04-22 |  |
 | [Marina Del Rey](https://open.spotify.com/track/23TcFJ0XSv7jugzpucHNW7) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Mannequin](https://open.spotify.com/album/1jhT5nqbschpILLzEWkjX3) | 3:11 | 2021-04-22 |  |
 | [Me and You and a Dog Named Boo](https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [I'd Love You To Want Me](https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie) | 2:57 | 2021-04-22 |  |
-| [Melanie](https://open.spotify.com/track/60rJnCfWEzBG27ROizelpE) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 3:44 | 2021-04-22 |  |
+| [Melanie](https://open.spotify.com/track/60rJnCfWEzBG27ROizelpE) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 3:44 | 2021-04-22 | 2023-01-10 |
 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 | 2022-06-29 |  |
 | [Moonlighting](https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Another Year](https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7) | 4:13 | 2021-04-22 | 2022-07-28 |
 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:30 | 2021-04-22 |  |
@@ -74,6 +74,7 @@
 | [Reminiscing \- Remastered](https://open.spotify.com/track/2wtniL1hD2aNtkAxYFao9U) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [70s Rock Essentials](https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA) | 4:13 | 2021-04-22 | 2022-11-14 |
 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 | 2021-04-22 | 2022-10-19 |
 | [Reminiscing \- Remastered 2022](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2021-04-22 |  |
+| [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 | 2021-04-22 |  |
 | [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 | 2021-04-22 | 2023-01-09 |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2021-04-22 |  |
 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 | 2021-04-22 |  |

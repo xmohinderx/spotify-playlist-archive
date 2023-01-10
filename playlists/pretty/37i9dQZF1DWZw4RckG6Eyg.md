@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,003 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,037 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 11 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
 | 12 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 13 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
-| 14 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 |
-| 15 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 14 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 15 | [More Pressure](https://open.spotify.com/track/0sMWdvSFBg1bVkzyszM819) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:14 |
 | 16 | [Song I Believe In](https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy) | [Song I Believe In](https://open.spotify.com/album/3Pxyz1unwIXl0kh2M2Dehv) | 3:15 |
 | 17 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 |
 | 18 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 23 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
 | 24 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 |
 | 25 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 |
-| 26 | [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 |
-| 27 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 |
+| 26 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 |
+| 27 | [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 |
 | 28 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 |
 | 29 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 |
 | 30 | [We Don't Talk](https://open.spotify.com/track/2J2GFKTxSMVI31YoJBpM56) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/1el8dDQugKcj9nvQkgFE3m) | 3:25 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 41 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
 | 42 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 |
 | 43 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
-| 44 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 |
-| 45 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 |
-| 46 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 |
+| 44 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 |
+| 45 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 |
+| 46 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 |
 | 47 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 |
 | 48 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 |
 | 49 | [Is That True?](https://open.spotify.com/track/7ktkeXuvYXobpsOahNhJgT) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Is That True?](https://open.spotify.com/album/05XRy1OIW1ZScKXlevm4wS) | 4:09 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 67 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly and the Uke](https://open.spotify.com/artist/1FykDoCf7IfkRKARKdnNV6), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 |
 | 68 | [Golden Air](https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Golden Air](https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J) | 5:42 |
 | 69 | [Calendar](https://open.spotify.com/track/0MlK6FlikM8jgArfXluhSG) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [Our Precious Things Never Change](https://open.spotify.com/album/1fl87hYmIRPN63Llaw0u4l) | 4:09 |
-| 70 | [Fôlego](https://open.spotify.com/track/6osnEzYzGwu6pXXXK9WsgI) | [Siricaia](https://open.spotify.com/artist/7HXhMMJtqpRR1dzsJFkG9x), [SHANGE](https://open.spotify.com/artist/694dpz8pMTmCWOX9a88S16) | [Fôlego](https://open.spotify.com/album/3zKykaMRAhE9tpy2bofQzp) | 4:20 |
-| 71 | [Busy](https://open.spotify.com/track/0sYqHVqGJnI9xELCRkoHle) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/5EwqOGJq0pokivVZcvn0eu) | 2:46 |
+| 70 | [Busy](https://open.spotify.com/track/0sYqHVqGJnI9xELCRkoHle) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/5EwqOGJq0pokivVZcvn0eu) | 2:46 |
+| 71 | [Fôlego](https://open.spotify.com/track/6osnEzYzGwu6pXXXK9WsgI) | [Siricaia](https://open.spotify.com/artist/7HXhMMJtqpRR1dzsJFkG9x), [SHANGE](https://open.spotify.com/artist/694dpz8pMTmCWOX9a88S16) | [Fôlego](https://open.spotify.com/album/3zKykaMRAhE9tpy2bofQzp) | 4:20 |
 | 72 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 |
 | 73 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 |
 | 74 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
 | 75 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 
-Snapshot ID: `MTY2OTgyNTc2NSwwMDAwMDAwMDJkZGFlNWIwMDMzZjc4YjRjYjdlYTJiNDVlZGQ0ZDMz`
+Snapshot ID: `MTY2OTgyNTc2NSwwMDAwMDAwMGU4NGU4MDIxZTE2OTRjMWZiYjNkN2QzNzhmZWUzOGMx`

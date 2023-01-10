@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "album": {
         "name": "American Idiot (Deluxe)",
         "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 212937,
       "name": "Cute Without The 'E' (Cut From The Team) - Remastered",
       "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4"
@@ -560,6 +578,24 @@
       "duration_ms": 182826,
       "name": "Dear Maria, Count Me In",
       "url": "https://open.spotify.com/track/0nEcDFFNqdmnbTiGy6RE2Y"
+    },
+    {
+      "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
     },
     {
       "album": {
@@ -1805,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "14 Shades of Grey",
+        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243573,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/6FOpPA0a80RuBqqgDozvja"
+    },
+    {
+      "album": {
         "name": "Broken Boy Soldiers",
         "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
       },
@@ -2302,7 +2356,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 208693,
       "name": "The Taste of Ink",
       "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
@@ -2320,7 +2374,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 323600,
       "name": "There, There",
       "url": "https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP"

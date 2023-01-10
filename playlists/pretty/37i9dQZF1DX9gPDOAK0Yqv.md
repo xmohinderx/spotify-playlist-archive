@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,909 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,065 likes - 75 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 40 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 |
 | 41 | [Waiting For Too Long](https://open.spotify.com/track/0VsCw4IqlcJ2GeYnQbV5zx) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Soul On Fire](https://open.spotify.com/album/0hhh9oROZpv3RBWY5FI6W4) | 4:30 |
 | 42 | [System](https://open.spotify.com/track/5E8Q6eXY1EGAnf9a8vF8eT) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:07 |
-| 43 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 |
-| 44 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 |
-| 45 | [Better Together](https://open.spotify.com/track/0NJRskEVmAdgBXq9LVuHPs) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Watergate 20 Years \(Pt\. 2/8\)](https://open.spotify.com/album/5wnaw4TaaogpSllYqt2Mix) | 3:21 |
+| 43 | [Better Together](https://open.spotify.com/track/0NJRskEVmAdgBXq9LVuHPs) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Watergate 20 Years \(Pt\. 2/8\)](https://open.spotify.com/album/5wnaw4TaaogpSllYqt2Mix) | 3:21 |
+| 44 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 |
+| 45 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 |
 | 46 | [Silver Screen](https://open.spotify.com/track/6lBySALfpud2idAf6X6Pqi) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Silver Screen](https://open.spotify.com/album/3SJu0buwmV07qtrRSvHY7U) | 6:42 |
 | 47 | [Accordia](https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:08 |
 | 48 | [Faces](https://open.spotify.com/track/1pJnlza96BNgidDe5uiAPI) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Near Life Experience](https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv) | 4:29 |
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 55 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 |
 | 56 | [Earth \- Mind Against Remix](https://open.spotify.com/track/1cQCfrLGc5GpBC6bNPlsUm) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 7:30 |
 | 57 | [The Tide](https://open.spotify.com/track/3UWQvz3JJJbseHOoyX7Xw0) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Beautiful Errors](https://open.spotify.com/artist/2hXE7AOxECS5zOIPxtYYaM) | [The Tide](https://open.spotify.com/album/2YhEMk0bYtGvOQYTJY6pqc) | 4:04 |
-| 58 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 |
-| 59 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 |
-| 60 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 |
-| 61 | [Starboy](https://open.spotify.com/track/26Yk79sAcZyBZZGTvo1Woi) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Starboy](https://open.spotify.com/album/7m9xPpTESAfmzYhsU6PHRw) | 7:08 |
+| 58 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 |
+| 59 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 |
+| 60 | [Starboy](https://open.spotify.com/track/26Yk79sAcZyBZZGTvo1Woi) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Starboy](https://open.spotify.com/album/7m9xPpTESAfmzYhsU6PHRw) | 7:08 |
+| 61 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 |
 | 62 | [Ellipse](https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ellipse](https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj) | 6:51 |
 | 63 | [Otaku](https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo) | [Nure](https://open.spotify.com/artist/4zsl085OD62z4Pyc7JPhUq) | [Otaku](https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU) | 6:12 |
 | 64 | [Overcome](https://open.spotify.com/track/3Ri7CVRYHurCnvubOZKZRA) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu), [Arturo \(RU\)](https://open.spotify.com/artist/5Mci17S1El2pO6fvVaZ2Fd) | [Overcome](https://open.spotify.com/album/1esfKP16AKHgk6P5fDuXQX) | 7:12 |
-| 65 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 |
-| 66 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 |
+| 65 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 |
+| 66 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 |
 | 67 | [Pulses](https://open.spotify.com/track/5rFfwssa9fgfBikDG5lGOn) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Universo](https://open.spotify.com/album/6myGAZHh7d3FbQUFHnN9WT) | 6:04 |
 | 68 | [Brutalism](https://open.spotify.com/track/4szHVkwccA5hCKk3GA0Tle) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:27 |
 | 69 | [Close Your Eyes](https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Close Your Eyes](https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4) | 3:24 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 72 | [My Everything](https://open.spotify.com/track/4LMlPnnfUXxmRTuj8tPBN7) | [Das Pharaoh](https://open.spotify.com/artist/4BVdLTy33D4KtSxNUu6bUW) | [My Everything](https://open.spotify.com/album/632rCZmbM4IcuMZvTf2ohC) | 2:52 |
 | 73 | [Mirage](https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mirage](https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc) | 4:20 |
 | 74 | [The Girl In Black](https://open.spotify.com/track/07duf4WF7Djz1OF1zFZlXM) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [The Girl In Black](https://open.spotify.com/album/1OMSTG2Wn7ZEEA6ljPT5u1) | 7:10 |
-| 75 | [Mind Control \- Stephan Jolk Remix](https://open.spotify.com/track/2ig7zIzaD3omrWSgJdlx4W) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Mind Control Remixes](https://open.spotify.com/album/5ojPPLGixsheh2u3SXPYy5) | 5:12 |
+| 75 | [Eternity](https://open.spotify.com/track/1qolXijooNmOF6qs5Jz7Aq) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Eternity](https://open.spotify.com/album/0PUSgcVtMYG0RkeE6IQyxC) | 6:56 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDk0MDZhOWY4YTc1OGNhNmVhYmFkMzJlYTI2YjM4ZmYy`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDZjNDg4NDJjN2I2NDJkNjM3MTdkM2IxNzc4ZjJlNTMx`

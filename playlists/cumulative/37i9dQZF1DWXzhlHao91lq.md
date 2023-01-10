@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-172 songs - 9 hr 44 min
+173 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2022-07-25 |  |
 | [Better with You \- Acoustic](https://open.spotify.com/track/08de9W83HKyeTNX2Vcfy5E) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/4JNwakn9CPlE2iAypiWUIc) | 3:28 | 2022-10-31 |  |
 | [Better with You \- Acoustic](https://open.spotify.com/track/2AARwDC2ylbWF61qXrteHK) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG) | 3:28 | 2022-08-08 | 2022-10-13 |
-| [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2022-05-30 |  |
+| [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2022-05-30 | 2023-01-10 |
 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 | 2022-10-24 | 2022-11-23 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-07-25 |  |
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2022-10-31 | 2022-11-13 |
@@ -147,6 +147,7 @@
 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 | 2022-05-30 |  |
 | [the broken hearts club](https://open.spotify.com/track/3Uu6pcfL9xsdfsKRx3DXRf) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [we](https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v) | 3:04 | 2022-07-25 |  |
 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 | 2022-07-25 | 2022-08-09 |
+| [The Harmony](https://open.spotify.com/track/4bWoizeurWxioIenJkguM6) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Harmony](https://open.spotify.com/album/4kpZBm6XlD1TZRU220lj9i) | 4:03 | 2023-01-09 |  |
 | [The Luckiest](https://open.spotify.com/track/6R7aITekXpXzt9U3ixovAS) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Luckiest](https://open.spotify.com/album/3dS5deZ4l97pXE6VSGIkCT) | 3:38 | 2022-05-30 | 2022-07-29 |
 | [The Simple Things](https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Love Adolescent](https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52) | 4:23 | 2022-05-30 |  |
 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 | 2022-12-26 | 2023-01-03 |

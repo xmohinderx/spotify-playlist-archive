@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Connor Price
 
-715 songs - 1 day 9 hr 25 min
+716 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Cabo](https://open.spotify.com/track/7bOq6zLUM0e3AdGtc0tMsU) | [Quincy Owns](https://open.spotify.com/artist/1l9uhs5adXAKNIJijf7yTJ), [Louie F.](https://open.spotify.com/artist/0oc9yMmVmZ0IZUx0aG0TYF) | [Cabo](https://open.spotify.com/album/1bPSwCR79frEJIWTLVDZ34) | 3:46 | 2022-01-07 | 2022-02-12 |
 | [Can't Be Famous](https://open.spotify.com/track/2nJI3knNuCEeOgXThoWV9d) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Can't Be Famous](https://open.spotify.com/album/0rw0aKbyqJyxfIjM0WQYaX) | 2:38 | 2022-01-07 | 2022-01-22 |
 | [Can't Sleep](https://open.spotify.com/track/7pIuaEr0lSrSyrU2kUaCaL) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [YNR Davinci](https://open.spotify.com/artist/1p3fnLlz7u9Fq6hkZkBrRr) | [Painkiller](https://open.spotify.com/album/4D7ujgh1ggf6fii45KRp9B) | 2:38 | 2022-12-16 |  |
-| [Can't Stop](https://open.spotify.com/track/35ZhlhMWsp9l6PGsJ6mFVR) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode Vol\. 2](https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH) | 2:45 | 2022-12-30 |  |
+| [Can't Stop](https://open.spotify.com/track/2GTckWN6BfclWRoPuebv0Y) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode, Vol\. 2](https://open.spotify.com/album/4A8f0Z1JyDl02Okgp2niSH) | 2:45 | 2023-01-06 |  |
+| [Can't Stop](https://open.spotify.com/track/35ZhlhMWsp9l6PGsJ6mFVR) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode Vol\. 2](https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH) | 2:45 | 2022-12-30 | 2023-01-10 |
 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 | 2022-07-08 | 2022-12-17 |
 | [CARNAGE](https://open.spotify.com/track/0FE3XDuJH4tnf1MCgsg3Ju) | [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [CARNAGE](https://open.spotify.com/album/2LkrL0QDmh272zbVFCvHNh) | 2:36 | 2022-11-11 |  |
 | [Cartel](https://open.spotify.com/track/4DiUbW9gS8NAnPvAJLWvDL) | [Gustavo Guaapo](https://open.spotify.com/artist/2S9z4eFhx79PnOTaHN2l5D) | [Cartel](https://open.spotify.com/album/106QPRZS45E6D5ffukjxao) | 2:30 | 2022-06-24 | 2022-07-16 |

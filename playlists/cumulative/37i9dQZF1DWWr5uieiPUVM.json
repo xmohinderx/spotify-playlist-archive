@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: MC Cabelinho",
+  "description": "\ud83d\ude82  Aqui \u00e9 s\u00f3 o trem caro do trap! Foto: Orochi",
   "name": "Trapperz Brasil",
   "tracks": [
     {
@@ -2310,6 +2310,36 @@
       "duration_ms": 214500,
       "name": "Hugo Boss",
       "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
+    },
+    {
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "DJ Nemo NTR",
+          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/3jwlXvfPNOiATnucQH6BrO"
     },
     {
       "album": {
@@ -5254,7 +5284,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 217539,
       "name": "VALHO NADA",
       "url": "https://open.spotify.com/track/3qGvQ7IdsiVrex3LcH6hRB"
@@ -5450,10 +5480,44 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 181641,
       "name": "Vis\u00e3o do Morro",
       "url": "https://open.spotify.com/track/7JtifUMl8bQDoaOgm4CuPd"
+    },
+    {
+      "album": {
+        "name": "Vit\u00f3ria Dobrada",
+        "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Vit\u00f3ria Dobrada",
+      "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
     },
     {
       "album": {

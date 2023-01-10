@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-561 songs - 1 day 0 hr 35 min
+563 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amalfi](https://open.spotify.com/track/2SlARTbg8VmWVF4cG7imB8) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Amalfi](https://open.spotify.com/album/1hYAAyHzrnvecWC4w15N7p) | 2:08 | 2022-05-05 |  |
 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-12-07 |  |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2021-12-07 |  |
+| [Ambiguos](https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Ambiguos](https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau) | 3:11 | 2022-12-22 |  |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2021-12-07 | 2022-12-24 |
 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 | 2021-12-07 |  |
 | [And The Birds Go North Again](https://open.spotify.com/track/3oFGPNVlFHgz8s5rTYnpM7) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [And The Birds Go North Again](https://open.spotify.com/album/1PUIqiqGelOnTayisMTOcM) | 2:36 | 2021-12-07 | 2022-09-24 |
@@ -82,7 +83,7 @@
 | [Calas de Roche](https://open.spotify.com/track/4PdjQqQIf7S5MYE044XugT) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Calas de Roche](https://open.spotify.com/album/3sd2f1RnqLNL39UAU03a3h) | 2:26 | 2021-12-07 |  |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-02-01 | 2022-09-16 |
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2021-12-07 |  |
-| [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 |  |
+| [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 | 2023-01-10 |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 |  |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2021-12-07 |  |
 | [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 | 2021-12-07 | 2022-09-24 |
@@ -328,6 +329,7 @@
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2021-12-07 |  |
 | [Naoko](https://open.spotify.com/track/42vtu2WdEl9Di6zzdiRpBV) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:04 | 2022-06-07 | 2022-11-20 |
 | [Naoko](https://open.spotify.com/track/4uImsVwiffjf75VY8NStFN) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Naoko](https://open.spotify.com/album/6DiCLO32Rf6Lksf2pw2wKH) | 3:04 | 2021-12-07 | 2022-07-29 |
+| [Nascondiglio](https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Nascondiglio](https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr) | 1:57 | 2022-12-22 |  |
 | [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 |  |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2021-12-07 | 2022-09-16 |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-07 |  |
@@ -558,7 +560,7 @@
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2021-12-07 |  |
 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-05-20 | 2022-06-08 |
 | [Yellow Reflection](https://open.spotify.com/track/2dVytC369RLembx9DjdMYP) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Yellow Reflection](https://open.spotify.com/album/4XKDSzmkcXmeztDgM9zxL7) | 2:05 | 2021-12-07 |  |
-| [Yesterday's Waltz](https://open.spotify.com/track/0iJhqtZ9CkBb1bdw2BKQ0Q) | [Francesco Berta](https://open.spotify.com/artist/1eUWwGtcTxRqDznmUGmQqZ) | [Yesterday's Waltz](https://open.spotify.com/album/3fiQkkJkBzgWWUGJDuJxw0) | 3:01 | 2021-12-07 |  |
+| [Yesterday's Waltz](https://open.spotify.com/track/0iJhqtZ9CkBb1bdw2BKQ0Q) | [Francesco Berta](https://open.spotify.com/artist/1eUWwGtcTxRqDznmUGmQqZ) | [Yesterday's Waltz](https://open.spotify.com/album/3fiQkkJkBzgWWUGJDuJxw0) | 3:01 | 2021-12-07 | 2023-01-10 |
 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 | 2021-12-07 |  |
 | [Yet To Come](https://open.spotify.com/track/3tDmQa16JU8ORtzOwEsqei) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [Yet To Come](https://open.spotify.com/album/6GngtJ4YUV728HuO8l3n6e) | 3:34 | 2021-12-07 | 2022-04-14 |
 | [You Are That](https://open.spotify.com/track/6Rm2rBWk3flMMGPdxASdaU) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [You Are That](https://open.spotify.com/album/47MXSKI7ymjqPcRrlSWJSi) | 2:52 | 2021-12-07 | 2022-06-08 |

@@ -4,7 +4,7 @@
 
 > Latin tunes to get your beast mode on!
 
-214 songs - 12 hr 19 min
+215 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Brazilera](https://open.spotify.com/track/1oo1rEQATDYqmWysK6IrqP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:04 | 2021-12-21 | 2022-07-29 |
 | [Brazilera](https://open.spotify.com/track/6jPFaBQGvDFrcyf5kQAJ6G) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:04 | 2022-07-18 | 2022-11-09 |
 | [BRRR](https://open.spotify.com/track/029cuB69yYCgVHND32hjcT) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:36 | 2022-12-29 |  |
-| [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2022-07-13 |  |
+| [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2022-07-13 | 2023-01-10 |
 | [Caminemos de la Mano](https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Caminemos de la Mano](https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB) | 3:34 | 2022-08-12 |  |
 | [Chi Chi](https://open.spotify.com/track/01I952VR9dTAPNr76YGxnN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chi Chi](https://open.spotify.com/album/0KAQkSymREz5IzJ107vBds) | 3:30 | 2022-11-09 | 2022-11-13 |
 | [Chi Chi](https://open.spotify.com/track/5stSMLMtouTWgBS1yivBJm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:30 | 2022-09-23 | 2022-10-05 |
@@ -81,6 +81,7 @@
 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 | 2021-12-21 | 2022-12-30 |
 | [FULANITO](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FULANITO](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2021-12-21 |  |
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-04-05 | 2022-12-02 |
+| [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2023-01-10 |  |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-09-23 |  |
 | [Gistro Amarillo](https://open.spotify.com/track/4Vpwf76uBHswSRhhpg0llh) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Gistro Amarillo](https://open.spotify.com/album/1YMPeW34T2XSu8jawvMYFC) | 3:50 | 2021-12-21 | 2022-12-02 |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-29 |  |

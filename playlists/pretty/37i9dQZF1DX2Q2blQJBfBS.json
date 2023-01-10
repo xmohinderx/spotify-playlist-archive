@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 30258,
+  "num_followers": 30639,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ1NzRkMjliMmY1YmRlMmVhMDc3YzQ2MmZkOTYzNmRl",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGJjYmM5OTUyY2MzNGE1Y2EwYjFjNmYyMDBkNmE3YWVk",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "One Day It'll All Make Sense",
-        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Invocation",
-      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "This Thing Of Ours 2",
         "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 114092,
       "name": "6 Five Heartbeats (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
     },
     {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 98720,
+      "name": "Time: The Donut of the Heart",
+      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "The Plugs I Met",
@@ -541,20 +557,20 @@
       "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
+      "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 98720,
-      "name": "Time: The Donut of the Heart",
-      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
-      "added_at": "2023-01-09 01:13:11",
+      "added_at": "2023-01-10 00:28:06",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -643,22 +659,6 @@
       "duration_ms": 161971,
       "name": "Black Balloons Reprise",
       "url": "https://open.spotify.com/track/2csZLnXBMuw6ETZuRxdUZF"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -921,7 +921,23 @@
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
-      "added_at": "2023-01-09 01:13:11",
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Lyrics to Go",
+      "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
+    },
+    {
+      "added_at": "2023-01-10 00:28:06",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -939,22 +955,6 @@
       "duration_ms": 212979,
       "name": "No Magic No Music",
       "url": "https://open.spotify.com/track/5jpw0BnkTdib2YS0KfCSdz"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Lyrics to Go",
-      "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
     },
     {
       "added_at": "2022-09-02 18:33:39",
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
-      "added_at": "2023-01-09 01:13:11",
+      "added_at": "2023-01-10 00:28:06",
       "album": {
         "name": "YOD Presents: The Shining",
         "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
@@ -1213,6 +1213,30 @@
       "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
+      },
+      "artists": [
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        },
+        {
+          "name": "Jaywop",
+          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
+        },
+        {
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+        }
+      ],
+      "duration_ms": 171219,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Things Fall Apart",
@@ -1255,30 +1279,6 @@
       "duration_ms": 143781,
       "name": "Heavy Water",
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1363,42 +1363,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
-    },
-    {
-      "added_at": "2023-01-09 01:13:11",
-      "album": {
-        "name": "Narcan",
-        "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
-      },
-      "artists": [
-        {
-          "name": "Rasheed Chappell",
-          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
-        },
-        {
-          "name": "Little Vic",
-          "url": "https://open.spotify.com/artist/6SXvUYTC88Qb6JqQY1Cc2c"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Narcan",
-      "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Black Mobius",
         "url": "https://open.spotify.com/album/1sAeVV3MOJ7WgJFbQ7An8D"
       },
@@ -1419,6 +1383,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Balens Cho (Hot Candles)",
         "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
       },
@@ -1431,26 +1411,6 @@
       "duration_ms": 168000,
       "name": "LABOU",
       "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
-    },
-    {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "No Gold Teeth",
-        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
-      },
-      "artists": [
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Gold Teeth",
-      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -1483,6 +1443,46 @@
       "duration_ms": 68830,
       "name": "Cherry Beach",
       "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "No Gold Teeth",
+        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Gold Teeth",
+      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
+    },
+    {
+      "added_at": "2023-01-10 00:28:06",
+      "album": {
+        "name": "Narcan",
+        "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
+      },
+      "artists": [
+        {
+          "name": "Rasheed Chappell",
+          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
+        },
+        {
+          "name": "Little Vic",
+          "url": "https://open.spotify.com/artist/6SXvUYTC88Qb6JqQY1Cc2c"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Narcan",
+      "url": "https://open.spotify.com/track/4AQV6hS4o5XZGBqc3Pps5d"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
+      "added_at": "2022-05-20 12:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+      },
+      "artists": [
+        {
+          "name": "KUMBAYA",
+          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+    },
+    {
       "added_at": "2022-10-29 04:00:00",
       "album": {
         "name": "Amir Divine (Damn Son Rework)",
@@ -1617,22 +1633,6 @@
       "url": "https://open.spotify.com/track/1cpZ8qDrMA4qWqCOPw5xcU"
     },
     {
-      "added_at": "2022-05-20 12:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
-      },
-      "artists": [
-        {
-          "name": "KUMBAYA",
-          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
-    },
-    {
       "added_at": "2022-07-29 12:00:00",
       "album": {
         "name": "Desired Effect",
@@ -1651,6 +1651,26 @@
       "duration_ms": 133080,
       "name": "More Soup",
       "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "To Kill A Sunrise",
+        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "The Cold",
+      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
     },
     {
       "added_at": "2022-06-10 12:00:00",
@@ -1675,26 +1695,6 @@
       "duration_ms": 218297,
       "name": "Cruisin USA",
       "url": "https://open.spotify.com/track/7gwQIgCoMKxY0zrALk86Zc"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "To Kill A Sunrise",
-        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "The Cold",
-      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
     },
     {
       "added_at": "2022-07-15 12:00:00",

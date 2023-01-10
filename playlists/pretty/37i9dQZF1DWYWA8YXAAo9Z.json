@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 35714,
+  "num_followers": 35770,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDg4MDYzOGZjYzFiZDNmZTYwOWNiODZkY2M4NGY0NjU2",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMGYxNGRhNjMyMGI2ZDUyNzk2MzY2MjQwOTYzZjk5Y2Q1",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -295,22 +279,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Novu Hisy",
-        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Novu Hisy",
-      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -323,6 +291,22 @@
       "duration_ms": 382111,
       "name": "Plonk III",
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -355,6 +339,22 @@
       "duration_ms": 219515,
       "name": "A Minor Astronomical Event",
       "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Novu Hisy",
+        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Novu Hisy",
+      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Cascade Symmetry",
-        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
-      },
-      "artists": [
-        {
-          "name": "r beny",
-          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
-        }
-      ],
-      "duration_ms": 204353,
-      "name": "Cascade Symmetry",
-      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Where Do You Get Your Dreams From?",
         "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 389000,
       "name": "Dissolution",
       "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Cascade Symmetry",
+        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
+      },
+      "artists": [
+        {
+          "name": "r beny",
+          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
+        }
+      ],
+      "duration_ms": 204353,
+      "name": "Cascade Symmetry",
+      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "North of Roswell",
         "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 174000,
       "name": "Garlands",
       "url": "https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
-      },
-      "artists": [
-        {
-          "name": "Land Systems",
-          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
-        }
-      ],
-      "duration_ms": 158729,
-      "name": "Sequoia Slumber",
-      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 460480,
       "name": "Monolake",
       "url": "https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
+      },
+      "artists": [
+        {
+          "name": "Land Systems",
+          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
+        }
+      ],
+      "duration_ms": 158729,
+      "name": "Sequoia Slumber",
+      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Liquid Planta Seeds",
-        "url": "https://open.spotify.com/album/2qobaujPblxqumcde6yjVY"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Liquid Planta Seeds",
-      "url": "https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Sollbruchstelle 1-3",
         "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+        "name": "Liquid Planta Seeds",
+        "url": "https://open.spotify.com/album/2qobaujPblxqumcde6yjVY"
       },
       "artists": [
         {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+      "duration_ms": 204000,
+      "name": "Liquid Planta Seeds",
+      "url": "https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -983,6 +967,22 @@
       "duration_ms": 442500,
       "name": "Raum - Single Edit",
       "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Biholomorphia",
         "url": "https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ"
       },
@@ -1087,6 +1055,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Geoglyph",
+        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "duration_ms": 364460,
+      "name": "A1. J-Math",
+      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Aerious EP",
         "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 277753,
       "name": "Reflections On The Waterfront",
       "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
-      },
-      "artists": [
-        {
-          "name": "Sunmoonstar",
-          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
-        }
-      ],
-      "duration_ms": 120280,
-      "name": "Sleepy Dragon",
-      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Wing Pinger",
         "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+        "name": "Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
       },
       "artists": [
         {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+          "name": "Sunmoonstar",
+          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+      "duration_ms": 120280,
+      "name": "Sleepy Dragon",
+      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1179,6 +1163,22 @@
       "duration_ms": 165925,
       "name": "Orange Blue Green",
       "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Five Steps",
+        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        },
+        {
+          "name": "Clemens Hourriere",
+          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
+        }
+      ],
+      "duration_ms": 280087,
+      "name": "La colline",
+      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Home Stories",
         "url": "https://open.spotify.com/album/1moMvl1SHY0uem5fWJ7b8y"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 263142,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Five Steps",
-        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        },
-        {
-          "name": "Clemens Hourriere",
-          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
-        }
-      ],
-      "duration_ms": 280087,
-      "name": "La colline",
-      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
     }
   ],
   "unique_name": "Modular Synths",

@@ -4,7 +4,7 @@
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-288 songs - 18 hr 48 min
+289 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Chemical Plant](https://open.spotify.com/track/5JvH6CoWsFh2h347qbq2Tk) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant \(Deluxe Edition\)](https://open.spotify.com/album/32kFjsz0DC3HWAftZuvVpc) | 4:29 | 2020-10-21 | 2021-10-14 |
 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 | 2020-10-20\* |  |
 | [Childhood](https://open.spotify.com/track/4EJiWw5JfcPL2v6BkjZglo) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Childhood](https://open.spotify.com/album/3psPknmWDOZJlZUxj79tn7) | 5:46 | 2022-03-11 | 2022-07-25 |
-| [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 | 2022-03-11 |  |
+| [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 | 2022-03-11 | 2023-01-10 |
 | [Chinese Translation](https://open.spotify.com/track/7IJlk42gDKt5dfSSLwtEsp) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/0dGHgm63WE9dltjb9LcEsc) | 3:58 | 2021-04-04 | 2022-07-29 |
 | [Coconut Skins](https://open.spotify.com/track/4CVP2pvqUxH9tExsHJnzV9) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:45 | 2021-01-16 | 2021-12-25 |
 | [Cold Little Heart \- Acoustic](https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Acoustic\)](https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12) | 4:29 | 2020-10-21 | 2021-10-16 |
@@ -82,6 +82,7 @@
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2020-10-21 | 2021-01-15 |
 | [Emmylou](https://open.spotify.com/track/5yQrOvXWli8C7R6j56rowR) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/5Wblz3wiSHrbGB9FdLBJmt) | 4:18 | 2020-10-20\* | 2022-07-29 |
 | [Ends of the Earth](https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:44 | 2020-10-20\* | 2023-01-05 |
+| [Ends of the Earth](https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:44 | 2022-03-11 |  |
 | [Ether & Wood](https://open.spotify.com/track/6ARgq6vnDSjxsfpB7oUQ5k) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 4:23 | 2021-07-24 | 2021-10-11 |
 | [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 | 2020-10-20\* |  |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2020-10-20\* | 2022-07-28 |

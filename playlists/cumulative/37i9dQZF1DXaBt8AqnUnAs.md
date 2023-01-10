@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-180 songs - 9 hr 4 min
+181 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 | 2022-03-07 |  |
 | [Ariana](https://open.spotify.com/track/4p7KMBNMNs8uN1dQadkqVa) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Ariana](https://open.spotify.com/album/2392c6YQuxajyOfl42q4rZ) | 2:35 | 2022-09-02 | 2022-10-25 |
 | [Avisa Quando Chegar](https://open.spotify.com/track/6ecOPJYN05Ws5djQwsPu4z) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Avisa Quando Chegar](https://open.spotify.com/album/6RRO4u0jO65JFrRXAgc0yn) | 2:23 | 2022-04-29 | 2022-06-19 |
-| [Babe](https://open.spotify.com/track/6kwxjtKTRxI4wC6aCRtKdc) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Babe](https://open.spotify.com/album/6dPEtY6LwZVgv81ibwXBRr) | 2:50 | 2022-12-16 |  |
+| [Babe](https://open.spotify.com/track/6kwxjtKTRxI4wC6aCRtKdc) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Babe](https://open.spotify.com/album/6dPEtY6LwZVgv81ibwXBRr) | 2:50 | 2022-12-16 | 2023-01-10 |
 | [Baby](https://open.spotify.com/track/4WqeMJePErKQJ0pnOE6oPw) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [W15](https://open.spotify.com/artist/2pMfR56yhH9vpaQNnmXMvu) | [Baby](https://open.spotify.com/album/4074lUQZ4MRwAtUhbfJP8M) | 2:09 | 2022-03-07 | 2022-07-31 |
 | [Bad Bitch](https://open.spotify.com/track/2KplAYJOWIO9BF7qB72Ro4) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Bad Bitch](https://open.spotify.com/album/1BKfLQQb9feWxOhz2mUIff) | 3:33 | 2022-03-07 | 2022-06-19 |
 | [Bandida](https://open.spotify.com/track/4fIvS3ICO3hBNgExxAFnpr) | [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Bandida](https://open.spotify.com/album/5o7PFqgE2pdaZDM1BCoVfu) | 2:44 | 2022-09-02 | 2022-12-31 |
@@ -187,6 +187,7 @@
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-07 | 2022-09-03 |
 | [Vilã](https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Conteúdo Explícito, Pt\. 1](https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3) | 3:18 | 2022-12-20 |  |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-17 |  |
+| [Álcool e Seus Olhos Azuis](https://open.spotify.com/track/71NJqTdB9bF2wfVEUzR9B1) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 | 2023-01-09 |  |
 | [É Que Eu Preciso Dizer](https://open.spotify.com/track/1kfwsz1ak4qZj75BaHG4YR) | [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4), [JNR Beats](https://open.spotify.com/artist/2MezhY4Nd9Fwo6bRFy7UXw) | [É Que Eu Preciso Dizer](https://open.spotify.com/album/1q3uJ7pD6FxPYOZ6Vm7MYd) | 1:40 | 2022-10-14 | 2022-11-05 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

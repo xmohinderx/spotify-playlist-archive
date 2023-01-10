@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 32961,
+  "num_followers": 33042,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDBjNmEwMTIzMzNlODA2MTNhNjYyMTQ4MDZmNDc3NDM1",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDM5N2E2YWQ2M2M3ZmQ3ZDFiMzY4MWUxZDE0MmNjMzI5",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -235,38 +251,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Young North",
-        "url": "https://open.spotify.com/album/5ERrBoi8CAlmG0pNLjLtsn"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Young North",
+        "url": "https://open.spotify.com/album/5ERrBoi8CAlmG0pNLjLtsn"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 239881,
       "name": "Sedona",
       "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247123,
-      "name": "What He Wrote",
-      "url": "https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 170826,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247123,
+      "name": "What He Wrote",
+      "url": "https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "No No No",
-        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 247266,
       "name": "Hot Tears",
       "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "Unfucktheworld",
+      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -1531,18 +1547,50 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+        "name": "Lonesome Dreams",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 125440,
-      "name": "Unfucktheworld",
-      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 208382,
+      "name": "Hannah Sun",
+      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1567,22 +1615,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1595,22 +1627,6 @@
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Lonesome Dreams",
-        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Harlem River",
         "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
       },
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Shallow Grave",
-        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Shallow Grave",
+        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
     },
     {
       "added_at": "2022-02-04 21:53:01",

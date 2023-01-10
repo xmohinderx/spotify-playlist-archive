@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2335386,
+  "num_followers": 2335945,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwNjM1OSwwMDAwMDAwMDRkMjI0NTliNDc4MWE4Zjg1NWI4ZDA1N2MzM2I3YmEw",
+  "snapshot_id": "MTY3MTgwNjM1OSwwMDAwMDAwMDZiY2NjMjQ2YWEyMjRjNmU5NGYxM2E1OWE0YWU3OWM2",
   "tracks": [
     {
       "added_at": "2022-12-23 14:39:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-23 14:39:19",
       "album": {
-        "name": "All Out Of Love",
-        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3"
-    },
-    {
-      "added_at": "2022-12-23 14:39:19",
-      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2022-12-23 14:39:19",
       "album": {
-        "name": "The Allnighter",
-        "url": "https://open.spotify.com/album/1XrMP6S74aDQjLvDpSFD9c"
+        "name": "All Out Of Love",
+        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
       "artists": [
         {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 251400,
-      "name": "Lover's Moon",
-      "url": "https://open.spotify.com/track/2QlVjJhaIWXoN6LfCIVfPi"
+      "duration_ms": 241373,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3"
+    },
+    {
+      "added_at": "2022-12-23 14:39:19",
+      "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "I'll Be Loving You (Forever)",
+      "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
     }
   ],
   "unique_name": "80s Love Songs",

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 81963,
+  "num_followers": 82022,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDkwYjViMDNhYTkyYWFhZjQ0Mjk0MGM0Y2RmZjE1Nzgw",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGQ2Y2RjMTEzZWI2OWNlMDI2YmE1ZDJlOGJkMjViZTI4",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Frozen Gold",
-        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
-      },
-      "artists": [
-        {
-          "name": "MKAY",
-          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
-        }
-      ],
-      "duration_ms": 138135,
-      "name": "Frozen Gold",
-      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Clearest of Signs",
         "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
       },
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
         }
       ],
-      "duration_ms": 193714,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
+      "duration_ms": 138135,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+        "name": "Talking Stage",
+        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+      "duration_ms": 177464,
+      "name": "Talking Stage",
+      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Talking Stage",
-        "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
         }
       ],
-      "duration_ms": 177464,
-      "name": "Talking Stage",
-      "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -387,22 +387,6 @@
       "duration_ms": 159183,
       "name": "Popular Loner (Remix) [feat. ARZ & JBee]",
       "url": "https://open.spotify.com/track/7IAfy3gQAOXhp2GZUUZwC6"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 97477,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -483,6 +467,22 @@
       "duration_ms": 245034,
       "name": "Have You Ever Heard A Love Song On Drill?",
       "url": "https://open.spotify.com/track/6ytZECedDqFmfyuoRMnaJQ"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 97477,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "If I knew how to save us",
-        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
-      },
-      "artists": [
-        {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "If I knew how to save us",
-      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Pain Interlude",
         "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 68571,
       "name": "Pain Interlude",
       "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "If I knew how to save us",
+        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "If I knew how to save us",
+      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -731,6 +731,22 @@
       "duration_ms": 128261,
       "name": "18+",
       "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "One Mic Freestyle (S3-EP1)",
+        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 121624,
+      "name": "One Mic Freestyle (S3-EP1)",
+      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -799,38 +815,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Mic Freestyle (S3-EP1)",
-        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 121624,
-      "name": "One Mic Freestyle (S3-EP1)",
-      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
       "artists": [
         {
-          "name": "NSJ Mali",
-          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
+      },
+      "artists": [
+        {
+          "name": "NSJ Mali",
+          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Home For Winter",
         "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Married To Music",
-        "url": "https://open.spotify.com/album/03qB1vrxjtdKWIMstmF6MK"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        },
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Married To Music",
-      "url": "https://open.spotify.com/track/4gvrwEE8pDAlgb9rjnvcEA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 159753,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Married To Music",
+        "url": "https://open.spotify.com/album/03qB1vrxjtdKWIMstmF6MK"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        },
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Married To Music",
+      "url": "https://open.spotify.com/track/4gvrwEE8pDAlgb9rjnvcEA"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1652,22 +1652,6 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
       "duration_ms": 199705,
       "name": "She Comes & Goes",
       "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
@@ -1687,6 +1671,22 @@
       "duration_ms": 181044,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
     }
   ],
   "unique_name": "lofi rap",

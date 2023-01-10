@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: The Blessed Madonna
 
-547 songs - 1 day 16 hr 12 min
+548 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-08-01 | 2022-12-10 |
 | [Purple Jelly Disc](https://open.spotify.com/track/2jXCwhlQELijGObzRJQtS2) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Purple Jelly Disc](https://open.spotify.com/album/1gwAs0QYbz44hiDNWEBjGi) | 6:12 | 2022-04-01 | 2022-05-27 |
 | [Quiet Corners Of My Mind](https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Quiet Corners Of My Mind](https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM) | 4:28 | 2022-07-14 | 2022-09-30 |
+| [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-01-09 |  |
 | [Quivering In Time](https://open.spotify.com/track/20droT4qrvOsNlAhUpuI2r) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Quivering In Time](https://open.spotify.com/album/0C0mGs17Sqyfbty2Fkii82) | 6:36 | 2021-11-24\* | 2022-03-10 |
 | [Rabbit Hole \- Edit](https://open.spotify.com/track/5JeLRgcUQ1TJkXv4xFklmt) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [Paul Mac](https://open.spotify.com/artist/2ZW29i2YE4YDQf6WemPJ4W) | [Rabbit Hole](https://open.spotify.com/album/2oTdTCw0fEKJVWjVhUcvaG) | 3:51 | 2021-11-24\* | 2022-01-14 |
 | [Raging](https://open.spotify.com/track/3EdqsQhgHfL5flGckIFukU) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Raging](https://open.spotify.com/album/4IrzFKdJ5QjC6An6WIyV3n) | 5:36 | 2022-03-08 | 2022-03-10 |

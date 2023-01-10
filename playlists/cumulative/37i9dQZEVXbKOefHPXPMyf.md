@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-936 songs - 2 day 4 hr 33 min
+937 songs - 2 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [JOSEFINA](https://open.spotify.com/track/45ZD3R5IcDDYvFwaptyckB) | [Xeuz](https://open.spotify.com/artist/7DAssSa8U1Ny7iRhshYCG3) | [JOSEFINA](https://open.spotify.com/album/6ljqQYbS3LX2JN3BTf4c1P) | 2:05 | 2022-03-18 | 2022-04-17 |
 | [JS4E](https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:57 | 2022-12-13 | 2022-12-24 |
 | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa) | 3:06 | 2022-11-03 | 2022-11-17 |
-| [Jugo De Piña](https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 4:26 | 2023-01-01 |  |
+| [Jugo De Piña](https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 4:26 | 2023-01-01 | 2023-01-10 |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-02-18 | 2022-02-21 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-29 | 2022-04-05 |
 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 | 2022-12-27 |  |
@@ -756,7 +756,7 @@
 | [Soy Tico](https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q) | [Mauricio Penagos Villegas](https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec) | [Costa Rica Pura Vida, Vol\. 1](https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN) | 3:01 | 2022-09-16 | 2022-09-23 |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-03-18 | 2022-04-01 |
 | [Spicy](https://open.spotify.com/track/5gZPcJfFnJIGZBTPa6hoFG) | [Blxndy](https://open.spotify.com/artist/06P15y5H0ATAeUu81mde3F) | [Spicy](https://open.spotify.com/album/1TOMbiz5YRkt4YFTKrqCPX) | 3:01 | 2022-03-08 | 2022-04-27 |
-| [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-25 | 2023-01-06 |
+| [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-25 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-29 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-09 | 2022-12-21 |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2022-11-01 | 2022-11-07 |
@@ -923,12 +923,13 @@
 | [Yatekomo](https://open.spotify.com/track/7ILwxghUppFKHnAJ5ziB8X) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Yatekomo](https://open.spotify.com/album/3zzKotWathmZrCMkiF5wha) | 3:33 | 2022-06-07 | 2022-06-10 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-03-18 | 2022-03-30 |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:45 | 2022-08-30 | 2022-09-01 |
+| [Yes t0 Heaven](https://open.spotify.com/track/5KMfWGgk4YhuGLHthUuhjG) | [B4SAX](https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq) | [Yes t0 Heaven](https://open.spotify.com/album/3IoAc6Bees7aBBtLSTNRTV) | 3:17 | 2023-01-09 |  |
 | [Yes To Heaven](https://open.spotify.com/track/2M0GJ3shQv29JJqqVyc2k8) | [MAMUCOK](https://open.spotify.com/artist/6ZIo5kUwW42RqDZXaLJtS0) | [Yes To Heaven](https://open.spotify.com/album/38M7A5CkEkrG1GLGqDrRvr) | 3:17 | 2022-10-26 | 2022-10-29 |
 | [Yo Más Te Adoro](https://open.spotify.com/track/5Z78fWnyrN8h80VTlyF0kH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:22 | 2022-04-06 | 2022-07-14 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-31 | 2022-06-17 |
 | [Yo No Te Pido](https://open.spotify.com/track/7h7IkK9jXlc2szCeexTDHG) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [No Me Pidas](https://open.spotify.com/album/4Cz3T17VDkaF6x1OdgSolu) | 2:47 | 2022-11-26 | 2022-12-01 |
 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 | 2022-11-25 | 2022-12-01 |
-| [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2023-01-01 |  |
+| [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2023-01-01 | 2023-01-10 |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-11-15 | 2022-11-19 |
 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2022-07-19 | 2022-07-25 |
 | [Yours](https://open.spotify.com/track/3rPVtXLBfJz59U1LgrGHhb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:24 | 2022-06-27 | 2022-07-03 |

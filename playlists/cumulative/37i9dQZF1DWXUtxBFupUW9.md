@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-141 songs - 7 hr 15 min
+142 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 | 2021-12-20 | 2022-07-29 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2022-05-12 |  |
 | [Ain't Too Proud To Beg](https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:36 | 2022-01-21 |  |
+| [Another Saturday Night](https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 2:40 | 2023-01-09 |  |
 | [At the Top of the Stairs](https://open.spotify.com/track/0rA9NWth0fNN62CcpCPLvr) | [The Formations](https://open.spotify.com/artist/4VSXRIlvdkUtEFAXDS4TfQ) | [Six Pack](https://open.spotify.com/album/0PXUcppvK5YmC5QiWpLdLi) | 2:18 | 2022-03-24 | 2022-04-21 |
 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 | 2022-01-21 |  |
 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 | 2021-12-20 |  |
@@ -28,7 +29,7 @@
 | [Can You Feel It](https://open.spotify.com/track/4FP8dyBjGDBxcVRTTxOeog) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 | 2022-03-24 | 2022-04-21 |
 | [Can You Feel It \- 7" Version](https://open.spotify.com/track/4qv7YSyt5UV8LvrXyE8sGn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:50 | 2022-08-12 | 2022-11-13 |
 | [Can't Stop Now \(Love Is Calling\)](https://open.spotify.com/track/4tkXRRyXHlJ8RVZbzynnRW) | [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Come On And See Me: The Complete Solo Collection](https://open.spotify.com/album/5XlcLrkQydIrYx2EFWYLHa) | 2:40 | 2022-01-21 | 2022-04-18 |
-| [Chain Gang](https://open.spotify.com/track/7v1858htfU0srTDwhxeka8) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Swing Low](https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq) | 2:35 | 2022-03-24 |  |
+| [Chain Gang](https://open.spotify.com/track/7v1858htfU0srTDwhxeka8) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Swing Low](https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq) | 2:35 | 2022-03-24 | 2023-01-10 |
 | [Chain of Fools](https://open.spotify.com/track/0sUe1KY92PKd8tpkf7hvDa) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Queen of Soul \- The Best of Aretha Franklin](https://open.spotify.com/album/6OxXVtZwExAmdrUIG2afFf) | 2:43 | 2021-12-20 | 2022-07-29 |
 | [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 | 2022-03-24 | 2022-04-19 |
 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 | 2022-01-21 |  |
@@ -41,7 +42,7 @@
 | [Floy Joy](https://open.spotify.com/track/4pZNhT4b0Kgh8goVuzATQX) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Floy Joy](https://open.spotify.com/album/7oJxT9aO3wZZI3r8WssASQ) | 2:50 | 2022-03-24 | 2022-04-20 |
 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 | 2021-12-20 |  |
 | [Get Out \(And Let Me Cry\)](https://open.spotify.com/track/2jTbchscLgavyto1UakHmd) | [Harold Melvin](https://open.spotify.com/artist/0i5HiI2EUTBneFAJfl7ft9), [The Blue Notes](https://open.spotify.com/artist/2c2rkRnDFvvY9QC23nHC3s) | [Storm Warning](https://open.spotify.com/album/60AhNudLXUea3ZuVhSiNkH) | 2:18 | 2022-01-21 | 2022-07-08 |
-| [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 | 2021-12-20 | 2023-01-03 |
+| [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 | 2021-12-20 |  |
 | [Give It Up](https://open.spotify.com/track/2uxrnrPd9LaIs86FNudcjT) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [50 Summer Hits](https://open.spotify.com/album/4iRt5STyQudfgvq3Gt2ki6) | 4:11 | 2021-12-20 | 2022-07-29 |
 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 | 2022-05-12 |  |
 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 | 2022-05-12 |  |
@@ -90,7 +91,7 @@
 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 | 2021-12-20 |  |
 | [My Man, a Sweet Man](https://open.spotify.com/track/2SQcpV8DdTbnMOhecspYEl) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [21 of the Best 1971\-83](https://open.spotify.com/album/4j6nnx5GbYTA62VB02S4ym) | 2:34 | 2022-01-21 | 2022-07-19 |
 | [My Man, A Sweet Man](https://open.spotify.com/track/3Wh8mMPPREtgsPisrNWDNJ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [21 of the Best 1971\-83](https://open.spotify.com/album/0B3crrM9vyperolX6AmbSN) | 2:34 | 2022-08-12 | 2022-11-13 |
-| [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 | 2022-03-24 |  |
+| [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 | 2022-03-24 | 2023-01-10 |
 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 | 2021-12-20 |  |
 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 | 2022-01-21 | 2022-07-22 |
 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 | 2022-01-21 | 2022-07-29 |

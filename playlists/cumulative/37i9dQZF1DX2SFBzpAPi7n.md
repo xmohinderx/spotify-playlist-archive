@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Nell\(넬\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-431 songs - 1 day 2 hr 34 min
+432 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-05-11 | 2022-07-28 |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-12 | 2022-11-17 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-24 | 2022-07-29 |
-| [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2022-04-12 |  |
+| [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2022-04-12 | 2023-01-10 |
 | [Guess Who?](https://open.spotify.com/track/7LsHODr3Z7Q3AYgOyuQ2dx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:59 | 2022-06-13 | 2022-07-02 |
 | [HAPPENING](https://open.spotify.com/track/4bvIzUmw8dl9r1PDz6OGZv) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg) | 3:44 | 2022-04-12 | 2022-07-26 |
 | [Hate U](https://open.spotify.com/track/4ueUHXReK3sHdgRuxU45uY) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [Hate U](https://open.spotify.com/album/1YbnGOAtb3gBTElItID7TJ) | 2:43 | 2022-05-11 | 2022-06-14 |
@@ -164,6 +164,7 @@
 | [I said I luv you \(feat\. Tmlm\)](https://open.spotify.com/track/16YzPu7PyTiHUzvABCklIy) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Tmlm](https://open.spotify.com/artist/7rsw8mF7bN04zh6tLCfREA) | [I said I luv you \(feat\. Tmlm\)](https://open.spotify.com/album/0Vr115jnmk6xrPiIkLQSlP) | 3:03 | 2022-11-09 | 2022-12-13 |
 | [I Will Fly](https://open.spotify.com/track/11BkRBYgserEx7OGMTq8fh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Will Fly](https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV) | 5:09 | 2022-06-18 | 2022-07-14 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2022-04-12 | 2022-07-17 |
+| [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 |  |
 | [I'MMORTAL \(feat\. sogumm\)](https://open.spotify.com/track/7lNm1tvWp2EEKE6293Iuj8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [I'MMORTAL](https://open.spotify.com/album/6yuKLd2o2NAdlHe7EIRiiM) | 3:55 | 2022-07-04 | 2022-07-09 |
 | [I.L.Y.](https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) | 3:33 | 2022-07-22 | 2023-01-04 |
 | [I.L.Y.](https://open.spotify.com/track/5MkZkFLnUrsMrVKQwqv5zV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:33 | 2022-04-21 | 2022-07-29 |

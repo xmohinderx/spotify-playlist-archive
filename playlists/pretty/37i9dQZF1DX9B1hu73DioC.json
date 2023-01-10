@@ -1,12 +1,12 @@
 {
   "description": "Chill. The best indie tracks for just hanging out.",
-  "num_followers": 755886,
+  "num_followers": 756003,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDYwODliZDMyNDcwMzYxOGMxODM4MTE3YWE2ZTlhZmM3",
+  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMGRlMGE3NzQwZWRkZTQ1N2YyODQ1Mjc3ZjA0MGE5NGIw",
   "tracks": [
     {
       "added_at": "2022-11-10 16:04:30",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
+        "name": "CDW",
+        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 224481,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
-        "name": "CDW",
-        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 224481,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 357357,
       "name": "Movie",
       "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -427,6 +427,26 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
+        "name": "Santa Catalina",
+        "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Driving South",
+      "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -443,6 +463,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "White Gloves",
+      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -475,42 +511,6 @@
       "duration_ms": 204386,
       "name": "In Camera",
       "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "White Gloves",
-      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
-        "name": "Santa Catalina",
-        "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Driving South",
-      "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 301242,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
-        "name": "It's Been a Little Heavy Lately",
-        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221871,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
         "name": "4 Track EP",
         "url": "https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 186781,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
+        "name": "It's Been a Little Heavy Lately",
+        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221871,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
+        "name": "Asc. Scorpio",
+        "url": "https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 166601,
+      "name": "Asc. Scorpio",
+      "url": "https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
         "name": "House of Sugar",
         "url": "https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 172707,
       "name": "keep going",
       "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
-        "name": "Asc. Scorpio",
-        "url": "https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 166601,
-      "name": "Asc. Scorpio",
-      "url": "https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 168022,
       "name": "what a shame",
       "url": "https://open.spotify.com/track/4kevrm6eqiUXb3D5mRDSOB"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
+        "name": "A Dream of You",
+        "url": "https://open.spotify.com/album/3waAzK2NOo6v0RD8kgc2Bz"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "A Dream of You",
+      "url": "https://open.spotify.com/track/0LqZuRAroDVnV6LjDUGap1"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
-        "name": "A Dream of You",
-        "url": "https://open.spotify.com/album/3waAzK2NOo6v0RD8kgc2Bz"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "A Dream of You",
-      "url": "https://open.spotify.com/track/0LqZuRAroDVnV6LjDUGap1"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
         "name": "Got Weird",
         "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 202435,
       "name": "Got Weird",
       "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
-        "name": "Tiptoeing",
-        "url": "https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 155680,
-      "name": "Tiptoeing",
-      "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2022-11-10 16:04:30",
       "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+        "name": "Tiptoeing",
+        "url": "https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 266721,
-      "name": "Another Lover",
-      "url": "https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL"
+      "duration_ms": 155680,
+      "name": "Tiptoeing",
+      "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
     },
     {
       "added_at": "2022-11-10 16:04:30",
@@ -1599,6 +1583,22 @@
       "duration_ms": 268800,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/35DHCZvQcy8PIM0eJmVS1X"
+    },
+    {
+      "added_at": "2022-11-10 16:04:30",
+      "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 266721,
+      "name": "Another Lover",
+      "url": "https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL"
     },
     {
       "added_at": "2022-11-10 16:04:30",

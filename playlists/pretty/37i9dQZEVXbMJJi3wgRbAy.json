@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Uruguay.",
-  "num_followers": 105192,
+  "num_followers": 105238,
   "original_name": "Top 50 - Uruguay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI2NDg5MjkzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI2NTgwNDE4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Marisola (Remix)",
         "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "PUNTO G",
         "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
@@ -93,47 +93,7 @@
       "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Dos Besitos",
         "url": "https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58"
@@ -157,7 +117,47 @@
       "url": "https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Butakera",
         "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "VISTA AL MAR",
         "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
@@ -213,7 +213,27 @@
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "TU AMOR | E7",
+        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "TU AMOR | E7",
+      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "La Triple T",
         "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "YSYSMO",
         "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
@@ -253,27 +273,7 @@
       "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "TU AMOR | E7",
-        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "TU AMOR | E7",
-      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "FERNET",
         "url": "https://open.spotify.com/album/0UbxWnBpJKoUj4jmSFwUnc"
@@ -293,27 +293,7 @@
       "url": "https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 178567,
-      "name": "Me Porto Bonito",
-      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "M.A (Mejores Amigos)",
         "url": "https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6"
@@ -333,27 +313,27 @@
       "url": "https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
-        "name": "Monoton\u00eda",
-        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 158804,
-      "name": "Monoton\u00eda",
-      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+      "duration_ms": 178567,
+      "name": "Me Porto Bonito",
+      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
@@ -373,7 +353,7 @@
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
@@ -393,7 +373,27 @@
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "PLAYA DEL INGL\u00c9S",
         "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
@@ -413,7 +413,39 @@
       "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
@@ -444,28 +476,12 @@
           "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 151988,
-      "name": "LA NENA DE ARGENTINA",
-      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "Latidos",
-        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "SR. SANTOS",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
@@ -485,39 +501,7 @@
       "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
@@ -533,7 +517,23 @@
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "SIN SE\u00d1AL",
         "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
@@ -573,7 +573,23 @@
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Mini Mini",
         "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
@@ -613,39 +629,7 @@
       "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "Pa\u2019 la Selecci\u00f3n",
-        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 186735,
-      "name": "Pa\u2019 la Selecci\u00f3n",
-      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 141340,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
@@ -669,7 +653,23 @@
       "url": "https://open.spotify.com/track/33cF8aTmGJ6TsEf23uqGIN"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 141340,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -713,23 +713,7 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
@@ -749,23 +733,23 @@
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
         "url": "https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn"
@@ -785,39 +769,23 @@
       "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 141954,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "CALLEJERO FINO | Mission 10",
         "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
@@ -837,7 +805,39 @@
       "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 141954,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "ARRANCARMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
@@ -869,7 +869,27 @@
       "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
+      "album": {
+        "name": "Duki: Bzrp Music Sessions, Vol. 50",
+        "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 221303,
+      "name": "Duki: Bzrp Music Sessions, Vol. 50",
+      "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
+    },
+    {
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
@@ -893,27 +913,23 @@
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
-        "name": "Duki: Bzrp Music Sessions, Vol. 50",
-        "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 221303,
-      "name": "Duki: Bzrp Music Sessions, Vol. 50",
-      "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -933,23 +949,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-01-08 10:34:53",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2023-01-08 10:34:53",
+      "added_at": "2023-01-09 11:53:38",
       "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"

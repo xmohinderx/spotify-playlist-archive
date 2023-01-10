@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mode: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,444,656 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,446,444 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 100 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 |
 
-Snapshot ID: `MTY3MjM3NjQwMCwwMDAwMDAwMDcxZTk0N2VkOGUwOWU4OWYyNzMwZmFiM2FkNjM5ZmQ2`
+Snapshot ID: `MTY3MzI4ODgxNSwwMDAwMDAwMDViYjgwOTFlOWQ3ZTc0NzA2MWU4ZDJlOWZjMzU4NGEy`

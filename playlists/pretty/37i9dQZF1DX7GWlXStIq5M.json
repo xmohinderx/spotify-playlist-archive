@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 117949,
+  "num_followers": 117944,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGRmN2UwZDZmNTMwYzBlOTk0N2I3ZjFiYTBkMDY5NTc2",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGQzMTQyNjZjZjQ1ODYxZTg4YzgxYTE1N2IzODU2NzIy",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -591,6 +591,26 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Like That (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -619,26 +639,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "Like That (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 167916,
       "name": "Rover (feat. DTG)",
       "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Bandit (with YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 189322,
-      "name": "Bandit (with YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -743,6 +723,26 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6: Era uma Vez",
       "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Bandit (with YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 189322,
+      "name": "Bandit (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "777-666",
+      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -1043,26 +1059,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Certified Hitmaker",
         "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
       },
@@ -1079,6 +1075,26 @@
       "duration_ms": 123560,
       "name": "Stuck In A Dream (feat. Gunna)",
       "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "777-666",
-      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Babushka Boi",
         "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 187105,
       "name": "Babushka Boi",
       "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Kenny G",
+        "url": "https://open.spotify.com/album/6dXKy9X9o0HpcF0YZjaWOa"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Kenny G",
+      "url": "https://open.spotify.com/track/3MkdA6vwF0ifRl86yzTlJW"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/7oXqiOeFY3lrUNg3UU1OeJ"
-      },
-      "artists": [
-        {
-          "name": "Hungria Hip Hop",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 211985,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/71dwCpTZQpjLuqnJzyGbFz"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "The London (feat. J. Cole & Travis Scott)",
         "url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
       },
@@ -1259,8 +1259,24 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Kenny G",
-        "url": "https://open.spotify.com/album/6dXKy9X9o0HpcF0YZjaWOa"
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/7oXqiOeFY3lrUNg3UU1OeJ"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 211985,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/71dwCpTZQpjLuqnJzyGbFz"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
       },
       "artists": [
         {
@@ -1268,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Kenny G",
-      "url": "https://open.spotify.com/track/3MkdA6vwF0ifRl86yzTlJW"
+      "duration_ms": 165336,
+      "name": "Gorilla Roxo",
+      "url": "https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1343,18 +1359,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Woah",
-        "url": "https://open.spotify.com/album/393l0NdTr8Rv0hybf4FTxy"
+        "name": "High Right Now (feat. Wiz Khalifa) [Remix]",
+        "url": "https://open.spotify.com/album/0imwCieoxougGmptrN1WAx"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F"
+      "duration_ms": 175759,
+      "name": "High Right Now (feat. Wiz Khalifa) - Remix",
+      "url": "https://open.spotify.com/track/5DPASDOoVakOcD8EIhb46T"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1375,22 +1395,18 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "High Right Now (feat. Wiz Khalifa) [Remix]",
-        "url": "https://open.spotify.com/album/0imwCieoxougGmptrN1WAx"
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/393l0NdTr8Rv0hybf4FTxy"
       },
       "artists": [
         {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 175759,
-      "name": "High Right Now (feat. Wiz Khalifa) - Remix",
-      "url": "https://open.spotify.com/track/5DPASDOoVakOcD8EIhb46T"
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1475,22 +1491,6 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 165336,
-      "name": "Gorilla Roxo",
-      "url": "https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1651,6 +1651,50 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Rodeo (feat. Nas)",
+        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 145222,
+      "name": "Rodeo - feat. Nas",
+      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
+        "url": "https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
+      "url": "https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Poesia Ac\u00fastica #8: Amor e Samba",
         "url": "https://open.spotify.com/album/4RywQdWtmYauBzjeUqLTZX"
       },
@@ -1699,26 +1743,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Rodeo (feat. Nas)",
-        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 145222,
-      "name": "Rodeo - feat. Nas",
-      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "@ MEH",
         "url": "https://open.spotify.com/album/3hXfBV9COJBTj5rnIh7wcC"
       },
@@ -1751,30 +1775,6 @@
       "duration_ms": 254734,
       "name": "Banco",
       "url": "https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
-        "url": "https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
-      "url": "https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8"
     },
     {
       "added_at": "2020-10-20 20:23:39",

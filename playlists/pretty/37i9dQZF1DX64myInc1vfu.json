@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era just for you. Los boleritos de hoy. Cover: Yoss Bones",
-  "num_followers": 56859,
+  "num_followers": 56959,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMDhlNGE2NmFkY2UyNmM4ZDk0Njg2NmQ5ZDIxZjBiZjQy",
+  "snapshot_id": "MTY2MzYwMDM1MiwwMDAwMDAwMGY3NTI3N2Q1MGY2MDcxMDgxZTdhNzA3MGYwZmVkNGY1",
   "tracks": [
     {
       "added_at": "2022-09-19 15:12:32",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 104273,
+      "name": "que te ped\u00ed//",
+      "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 104273,
-      "name": "que te ped\u00ed//",
-      "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
         "name": "Being Human In Public",
         "url": "https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ"
       },
@@ -399,6 +399,26 @@
       "duration_ms": 210013,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 209652,
+      "name": "Diez Pasos Hacia Ti",
+      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
     },
     {
       "added_at": "2022-09-19 15:12:32",
@@ -471,26 +491,6 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 209652,
-      "name": "Diez Pasos Hacia Ti",
-      "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
       },
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
         "name": "Si por Mi Fuera",
         "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
       },
@@ -575,6 +595,26 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
+        "name": "Si T\u00fa Me Quisieras",
+        "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+        }
+      ],
+      "duration_ms": 261958,
+      "name": "Si T\u00fa Me Quisieras",
+      "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
         "name": "\u00bfQui\u00e9n Se Va?",
         "url": "https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed"
       },
@@ -591,6 +631,26 @@
       "duration_ms": 187161,
       "name": "\u00bfQui\u00e9n Se Va?",
       "url": "https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 261815,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
     },
     {
       "added_at": "2022-09-19 15:12:32",
@@ -615,26 +675,6 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
-        "name": "Si T\u00fa Me Quisieras",
-        "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Nia Vanie",
-          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
-        }
-      ],
-      "duration_ms": 261958,
-      "name": "Si T\u00fa Me Quisieras",
-      "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
         "name": "Encanto Tropical",
         "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
       },
@@ -647,26 +687,6 @@
       "duration_ms": 240973,
       "name": "Me Vas a Hacer Falta",
       "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2022-09-19 15:12:32",
@@ -739,26 +759,6 @@
       "duration_ms": 171145,
       "name": "Ojos de Serpiente",
       "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 261815,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
     },
     {
       "added_at": "2022-09-19 15:12:32",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-09-19 15:12:32",
       "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 208004,
+      "name": "Bohemio",
+      "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
+    },
+    {
+      "added_at": "2022-09-19 15:12:32",
+      "album": {
         "name": "Jei Beibi",
         "url": "https://open.spotify.com/album/74eEfGjMICkDu7u8faPlc5"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 144750,
       "name": "Amor de Bolero",
       "url": "https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr"
-    },
-    {
-      "added_at": "2022-09-19 15:12:32",
-      "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        },
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 208004,
-      "name": "Bohemio",
-      "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
     },
     {
       "added_at": "2022-09-19 15:12:32",

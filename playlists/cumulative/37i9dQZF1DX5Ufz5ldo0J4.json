@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/4Mc2ZJzVs7svcAa6K16PzR"
+      },
+      "artists": [
+        {
+          "name": "Theo Adagio",
+          "url": "https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/2iz8mLXZg0y2ObLkWBvJVE"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk"
       },
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 180079,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS"

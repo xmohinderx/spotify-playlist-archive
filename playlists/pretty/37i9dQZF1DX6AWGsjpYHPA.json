@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 94151,
+  "num_followers": 94242,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDViMjU5ZjM2NTk4MTM3ZTY5ZmRmNTdjZmQxNzdiNzUz",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDVjOTg4ZWY0MmJhYTMwYzNmNDRkNTY3MmVhMWNjMjQ5",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "Sun, Moon & Herbs",
+      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Doin It!!!!",
         "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "Sun, Moon & Herbs",
-      "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Trust In The Lifeforce Of The Deep Mystery",
-        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
-      },
-      "artists": [
-        {
-          "name": "The Comet Is Coming",
-          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Summon The Fire",
-      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Trust In The Lifeforce Of The Deep Mystery",
+        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Summon The Fire",
+      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -967,6 +967,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
+        "url": "https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 420718,
+      "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
+      "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -999,6 +1019,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -1019,22 +1055,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 135269,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
-        "url": "https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 420718,
-      "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
-      "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Jazz Vol. 1",
-        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 397477,
-      "name": "Jazz Vol. 1",
-      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Heartbreak / 6000 Ft.",
         "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Jazz Vol. 1",
+        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 397477,
+      "name": "Jazz Vol. 1",
+      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Imagineering",
-        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Imagineering",
-      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Fantastic Freeriding the Next Chapter",
         "url": "https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 214986,
       "name": "Revelation Dub",
       "url": "https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Imagineering",
+        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
     },
     {
       "added_at": "2022-09-15 22:32:37",

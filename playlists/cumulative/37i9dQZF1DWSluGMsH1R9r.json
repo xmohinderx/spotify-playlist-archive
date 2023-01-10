@@ -7949,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "Life Stories",
+        "url": "https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7"
+      },
+      "artists": [
+        {
+          "name": "R. York",
+          "url": "https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122370,
+      "name": "Them",
+      "url": "https://open.spotify.com/track/1cXTuVkGdqa3anVZWWDGm0"
+    },
+    {
+      "album": {
         "name": "There and Then",
         "url": "https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF"
       },

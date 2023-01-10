@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-101 songs - 7 hr 26 min
+102 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Kiss \(Never Let Me Go\)](https://open.spotify.com/track/4r3wYgrJ3Q30ldSk05e6KP) | [Thyro & Yumi](https://open.spotify.com/artist/0001ZVMPt41Vwzt1zsmuzp) | [Kiss \(Never Let Me Go\)](https://open.spotify.com/album/0tSrGWDVpvBzlD8OWSRmg6) | 4:19 | 2022-04-19 | 2022-07-29 |
 | [Kiss \- Never Let Me Go](https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU) | [Thyro](https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V), [Yumi](https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6) | [Thyro & Yumi](https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ) | 4:19 | 2022-06-13 |  |
 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 | 2022-04-19 |  |
-| [Kung Alam Mo Lang](https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kung Alam Mo Lang](https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf) | 4:16 | 2023-01-04 |  |
+| [Kung Alam Mo Lang](https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kung Alam Mo Lang](https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf) | 4:16 | 2023-01-04 | 2023-01-10 |
 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 | 2022-04-19 | 2022-07-29 |
 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 | 2022-04-19 |  |
 | [Ligaya](https://open.spotify.com/track/6SHSvo6OGgpneKfsxFGhhk) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 4:31 | 2022-06-13 | 2022-06-21 |
@@ -64,6 +64,7 @@
 | [Maybe This Time](https://open.spotify.com/track/4wOISjicRMhm89CnvX7zuR) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/453Ok0696evJwrzN4DAa6c) | 4:15 | 2022-04-19 | 2022-07-29 |
 | [Maybe This Time \- From "Maybe This Time"](https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(From "Maybe This Time"\)](https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h) | 4:15 | 2022-06-13 |  |
 | [Migraine](https://open.spotify.com/track/7zzZmpw8L66ZPjH1M6qmOs) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [When I Met You](https://open.spotify.com/album/4t3FtECyV1gClHmpBhXSfB) | 4:27 | 2022-04-19 | 2022-07-29 |
+| [Miracle Nights](https://open.spotify.com/track/4pUM81y5Rq7vAUeFhJRBXa) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [L.A\. GOON$](https://open.spotify.com/artist/58DoiT68nhZoGfdiIZiiUw), [Peso Mercado](https://open.spotify.com/artist/4mHU0bUvlVfiq0oarPYlAn) | [Miracle Nights](https://open.spotify.com/album/0rfMYevzZnaPqqFWtnY9NO) | 6:14 | 2023-01-04 |  |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2022-04-19 |  |
 | [Nadarang](https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY) | 3:52 | 2022-06-13 | 2023-01-09 |
 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 | 2022-05-11 |  |

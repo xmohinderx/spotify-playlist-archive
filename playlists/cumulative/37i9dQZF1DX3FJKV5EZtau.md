@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-325 songs - 18 hr 55 min
+326 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Power](https://open.spotify.com/track/7gihBA7Qfyy64tHWYyA6vL) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Power](https://open.spotify.com/album/6w4x6iX5LsT6Dzu496aWAT) | 3:54 | 2022-01-07 | 2022-07-20 |
 | [PROTECT ME](https://open.spotify.com/track/5lSGL6BnaHsW22aeOCq5ZU) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [PROTECT ME](https://open.spotify.com/album/56kpqdHI02XgcKGzIF2V7c) | 2:24 | 2022-10-27 |  |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2022-07-14 | 2022-08-06 |
+| [pure boi](https://open.spotify.com/track/4NF5504D4wi9Mwhxxb6xRA) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [pure boi](https://open.spotify.com/album/1u5Brj1ITZoXD7dufOOWqY) | 3:28 | 2023-01-06 |  |
 | [QUESTIONS](https://open.spotify.com/track/1meEjEL51PAhzfotkDrW0s) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [QUESTIONS](https://open.spotify.com/album/397RpEGxIhFpIXy43lWOwZ) | 3:05 | 2022-01-07 | 2022-07-28 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-07 |  |
 | [Radio Silence](https://open.spotify.com/track/6dMqEBFNiMB55MeO4lYk9K) | [KERO](https://open.spotify.com/artist/1buRQJUaOGTgp36hBMda6y) | [Radio Silence](https://open.spotify.com/album/7dJWuurJbcRoyCoWMoXExd) | 3:28 | 2022-01-28 | 2022-07-29 |
@@ -249,7 +250,7 @@
 | [Random Acts Of Collision](https://open.spotify.com/track/2qiwcBb8SInpWIhoaoe8jJ) | [Xavi](https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j) | [To The Endless Searing Skies](https://open.spotify.com/album/1M0vVvSBS7ZkG7UFF4kCYq) | 3:34 | 2022-01-07 | 2022-07-29 |
 | [Raver Boi](https://open.spotify.com/track/5IuN6LwcS9rgqda4XrrnwX) | [Ducky](https://open.spotify.com/artist/5e1I1C0g7epGwRxDGZ4tt9) | [Raver Boi](https://open.spotify.com/album/2a6K4Uno4Ab4EIQcYuPLuh) | 3:28 | 2022-01-07 | 2022-07-29 |
 | [Reality Surf](https://open.spotify.com/track/7bN1xfvn1fB0mhKcdCK4un) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/6RKwoaGftOUrIugxRIBPqZ) | 2:03 | 2022-07-14 | 2022-08-06 |
-| [Remember](https://open.spotify.com/track/60NupHAR0J54haO984RG5t) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Remember](https://open.spotify.com/album/1LIS9D8Or6SmqFK8RPLiMH) | 3:58 | 2022-01-07 |  |
+| [Remember](https://open.spotify.com/track/60NupHAR0J54haO984RG5t) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Remember](https://open.spotify.com/album/1LIS9D8Or6SmqFK8RPLiMH) | 3:58 | 2022-01-07 | 2023-01-10 |
 | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky) | 3:37 | 2022-07-14 | 2022-08-06 |
 | [Runaway](https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/7uWgf6BGGUW6E2y9Pljzxa) | 3:55 | 2022-01-07 |  |
 | [Rush](https://open.spotify.com/track/09SNUbxd7e1cn6MTYhdz6P) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Rush](https://open.spotify.com/album/6TzwR0RkTOWE4Z1UO8dXZD) | 2:52 | 2022-12-16 |  |

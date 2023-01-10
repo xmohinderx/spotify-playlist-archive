@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,866 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,780 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 69 | [Little Toy Trains](https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Spirit Of Christmas](https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG) | 2:14 |
 | 70 | [My Christmas List](https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [My Christmas List](https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy) | 3:27 |
 | 71 | [Blue Christmas](https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Blue Christmas](https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG) | 2:06 |
-| 72 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
-| 73 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
+| 72 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
+| 73 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |
 | 74 | [Christmas Is Hittin' Me Different](https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Christmas Is Hittin' Me Different](https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80) | 3:20 |
 | 75 | [Christmas In A Cage](https://open.spotify.com/track/1gf6ixq1F0sZkoc9Kvaray) | [Fur Trade](https://open.spotify.com/artist/3Wrg4k4AIvnUbg9103fxkW) | [Christmas In A Cage](https://open.spotify.com/album/37ULvZCm8qn0gEEGA3Wytp) | 4:02 |
 | 76 | [Can't Wait Till Christmas](https://open.spotify.com/track/5EFDul5zvAw4yI3SV38cbP) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Can't Wait Till Christmas](https://open.spotify.com/album/2P5W3sdpuzWJ7C9dvHjiQA) | 3:41 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 84 | [Do You Hear What I Hear?](https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:49 |
 | 85 | [Moonshine & Mistletoe](https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc) | [Sons of Daughters](https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR) | [Moonshine & Mistletoe](https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg) | 3:27 |
 | 86 | [Bring Me Cheer](https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Bring Me Cheer](https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl) | 2:25 |
-| 87 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 |
-| 88 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 |
+| 87 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 |
+| 88 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 |
 | 89 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
 | 90 | [Christmas Time's A Comin'](https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Christmas Time's A Comin'](https://open.spotify.com/album/3MKhVxsFUt1XYgMCZ4UkPN) | 2:43 |
 | 91 | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 97 | [O Come All Ye Faithful](https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 3:43 |
 | 98 | [Dream You Home](https://open.spotify.com/track/6eKruzLDxLMJ8h15JSPsGs) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Dream You Home](https://open.spotify.com/album/69E17KNMwKzhFSPRHKNHQU) | 3:52 |
 | 99 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
-| 100 | [Tinseltown](https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Tinsel Town](https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf) | 3:44 |
+| 100 | [The Ballad of Mrs\. Claus](https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [The Ballad of Mrs\. Claus](https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs) | 3:41 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDViNTIzZDQ2YTM1MWI2ZmUwNjhiZDFmMGZkNDhkMGFh`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDNkYWY3MThiZDA4Mzc3ZWZmY2NjMzdmNzVkYWQ3Nzkx`

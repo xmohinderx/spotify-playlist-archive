@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,344 likes - 72 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,356 likes - 72 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

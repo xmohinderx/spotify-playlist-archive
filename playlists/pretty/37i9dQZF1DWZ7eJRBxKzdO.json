@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 129362,
+  "num_followers": 129361,
   "original_name": "Summer Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODk1MTA3MCwwMDAwMDAwMGFlYWQ3NjcxOGY0MjJhYmRhNzBkNDJjYjVhYmQyNjk0",
+  "snapshot_id": "MTY2ODk1MTA3MCwwMDAwMDAwMDgyMDc4ZGI2ODFlNjU0OTQ2NDg5ZTlkZjJlYzIzY2Y5",
   "tracks": [
     {
       "added_at": "2022-11-20 13:31:10",
@@ -295,6 +295,26 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -363,6 +363,26 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -451,26 +471,6 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "Love Tonight",
-        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 241970,
-      "name": "Love Tonight - Edit",
-      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 241970,
+      "name": "Love Tonight - Edit",
+      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You - Edit",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
       },
@@ -751,6 +767,26 @@
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
+        "name": "Lionheart (Fearless)",
+        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 186689,
+      "name": "Lionheart (Fearless)",
+      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -775,22 +811,6 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
@@ -811,22 +831,26 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "Lionheart (Fearless)",
-        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
         }
       ],
-      "duration_ms": 186689,
-      "name": "Lionheart (Fearless)",
-      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -863,30 +887,6 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da) (feat. Topic)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
-        "name": "World Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "World Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "Nazareno",
-        "url": "https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 147818,
       "name": "Samba",
       "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
+        "name": "Nazareno",
+        "url": "https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 186184,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
         "name": "Do You Dance?",
         "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 211452,
       "name": "Looking For Me",
       "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2022-11-20 13:31:10",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2022-11-20 13:31:10",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2022-11-20 13:31:10",
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -2383,6 +2363,26 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": "2022-11-20 13:31:10",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
     },
     {
       "added_at": "2022-11-20 13:31:10",

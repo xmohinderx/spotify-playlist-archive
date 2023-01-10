@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un amor que te hace bailar!",
-  "num_followers": 101066,
+  "num_followers": 101147,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDI0OCwwMDAwMDAwMDBmZWVjZmIyODM0MDUzNTc3ZGE0MjFjMTRkMGZhMmY4",
+  "snapshot_id": "MTY2MTkzMDI0OCwwMDAwMDAwMGU4YjBiYzExOWFkZWEyNTkwNjY3YjE4ZWIyM2QzZmY0",
   "tracks": [
     {
       "added_at": "2022-08-31 07:17:28",
@@ -135,38 +135,6 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
-    },
-    {
-      "added_at": "2022-08-31 07:17:28",
-      "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 263346,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
-    },
-    {
-      "added_at": "2022-08-31 07:17:28",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
       },
@@ -179,6 +147,22 @@
       "duration_ms": 228680,
       "name": "Te Mando Flores",
       "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
+    },
+    {
+      "added_at": "2022-08-31 07:17:28",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -215,6 +199,38 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "added_at": "2022-08-31 07:17:28",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 263346,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
+    },
+    {
+      "added_at": "2022-08-31 07:17:28",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2022-08-31 07:17:28",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "KESI",
-      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
-    },
-    {
-      "added_at": "2022-08-31 07:17:28",
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
+        "name": "Millenium Hits",
+        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 281260,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
+    },
+    {
+      "added_at": "2022-08-31 07:17:28",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 316093,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2022-08-31 07:17:28",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "KESI",
+      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -503,18 +519,18 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Millenium Hits",
-        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 281260,
-      "name": "Persona Ideal",
-      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
+      "duration_ms": 246640,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -539,18 +555,18 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
       "artists": [
         {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 246640,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -571,18 +587,18 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+      "duration_ms": 222213,
+      "name": "Volv\u00ed a Nacer",
+      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -607,18 +623,18 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Volv\u00ed a Nacer",
-      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2022-08-31 07:17:28",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -667,6 +667,38 @@
       "duration_ms": 267000,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
+    },
+    {
+      "added_at": "2022-08-31 07:17:28",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Con los A\u00f1os Que Me Quedan",
+      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2022-08-31 07:17:28",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -691,18 +723,18 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
+      "duration_ms": 292653,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -719,38 +751,6 @@
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2022-08-31 07:17:28",
-      "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Con los A\u00f1os Que Me Quedan",
-      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
-    },
-    {
-      "added_at": "2022-08-31 07:17:28",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292653,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
     },
     {
       "added_at": "2022-08-31 07:17:28",
@@ -839,22 +839,18 @@
     {
       "added_at": "2022-08-31 07:17:28",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 170106,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
     }
   ],
   "unique_name": "Amor Tropical",

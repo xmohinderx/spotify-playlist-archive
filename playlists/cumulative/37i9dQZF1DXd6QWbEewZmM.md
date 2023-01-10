@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-289 songs - 16 hr 36 min
+290 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1942](https://open.spotify.com/track/4HNeDJOEoTQqQKUPy88rCL) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [1942](https://open.spotify.com/album/1u6tT1pGTGqdJXmBIagCT9) | 3:57 | 2022-01-01 | 2022-07-23 |
 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 | 2022-09-23 |  |
 | [24 Horas](https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 5:17 | 2022-02-11 | 2022-07-29 |
-| [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-07-22 |  |
+| [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-07-22 | 2023-01-10 |
 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 | 2022-01-01 |  |
 | [A Lo Mejor](https://open.spotify.com/track/2IKqLawv6gYOhhunhgjWCl) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Triste Realidad](https://open.spotify.com/album/0Mvrm2RYURHAVzT5C81v48) | 4:41 | 2022-02-04 | 2022-07-23 |
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-01-01 |  |
@@ -37,6 +37,7 @@
 | [Bien Viajado](https://open.spotify.com/track/0S5u8WOWx5nJL2VZa0PWJW) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT) | [Bien Viajado](https://open.spotify.com/album/1NgEnf7t3IwNc3ClydAKI3) | 3:19 | 2022-09-23 | 2022-10-15 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-01-01 |  |
 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN) | 4:10 | 2022-01-01 | 2022-03-13 |
+| [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 | 2023-01-09 |  |
 | [Carnalito Alegre](https://open.spotify.com/track/78GCN1wEe2XQp80GKihjFE) | [Yuniiorr](https://open.spotify.com/artist/0p8Kl5S3phuMsMsKzWc4HT) | [Rumbo Al Cielo](https://open.spotify.com/album/48QT73tN1d6m7BohzQGhAt) | 3:41 | 2022-01-01 | 2022-07-23 |
 | [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 | 2022-01-01 | 2022-07-22 |
 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 | 2022-02-25 | 2022-04-21 |

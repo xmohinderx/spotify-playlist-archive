@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,766 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,868 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 39 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
 | 40 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 41 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
-| 42 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 |
-| 43 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 42 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 43 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 |
 | 44 | [Living My Best Life](https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:35 |
 | 45 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 |
 | 46 | [Hello](https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:14 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 49 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 |
 | 50 | [All Is Well \(feat\. Joy Williams\)](https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [All Is Well Feat\. Joy Williams](https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J) | 2:57 |
 | 51 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
-| 52 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
-| 53 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 |
+| 52 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 53 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
 | 54 | [Long Time](https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:16 |
-| 55 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 55 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 |
 | 56 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
 | 57 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 |
 | 58 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 85 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 86 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |
 | 87 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 88 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
-| 89 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
+| 88 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
+| 89 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
 | 90 | [Evergreen](https://open.spotify.com/track/5tP2NMeAOujUeK0w3C96nh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Evergreen](https://open.spotify.com/album/51V6vLEvHhYyFZgUXGqVFI) | 3:01 |
 | 91 | [I Hope You Change Your Mind](https://open.spotify.com/track/0ZBLyBuUpOqMlLuRSgcnFh) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/6cgwjBET2eGuuATztT790Q) | 2:52 |
 | 92 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 |
 | 93 | [Take Back Thy Gift](https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Take Back Thy Gift](https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9) | 3:13 |
 | 94 | [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 |
 | 95 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 |
-| 96 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 |
+| 96 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
 | 97 | [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 |
-| 98 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
+| 98 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 |
 | 99 | [You](https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha) | [You](https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt) | 3:16 |
 | 100 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGQxYzE1NGY5MTAxNjlmZTBmMDllNDM4ZTE0ODE0MjFm`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDE2YjRjMGRiZjA0NDU4MWY4NzdiNzcwODdjNjY5YzFi`

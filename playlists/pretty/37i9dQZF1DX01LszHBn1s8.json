@@ -1,13 +1,45 @@
 {
-  "description": "y\u2019all already know who i am",
-  "num_followers": 155303,
+  "description": "if you be the cash i'll be the rubber band ",
+  "num_followers": 155520,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkzMDIzNCwwMDAwMDAwMGMwMWIxNGQ4ODEyNjc4Njc4NjdjOThkMDViZGUyZjQw",
+  "snapshot_id": "MTY3MzI1Mzg5NCwwMDAwMDAwMDAwMWY3NTg2NzgzYWY1OGFlY2ZiMDFjYmJlN2Q4Mzk5",
   "tracks": [
+    {
+      "added_at": "2022-12-24 23:00:00",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "added_at": "2023-01-02 10:45:38",
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5"
+      },
+      "artists": [
+        {
+          "name": "Mckyyy",
+          "url": "https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug"
+        }
+      ],
+      "duration_ms": 171808,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq"
+    },
     {
       "added_at": "2022-12-24 23:00:00",
       "album": {
@@ -61,20 +93,36 @@
       "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
     },
     {
-      "added_at": "2023-01-02 10:45:38",
+      "added_at": "2023-01-05 14:50:34",
       "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5"
+        "name": "Back That Up To The Beat",
+        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
       },
       "artists": [
         {
-          "name": "Mckyyy",
-          "url": "https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq"
+      "duration_ms": 211475,
+      "name": "Back That Up To The Beat - demo version",
+      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
+    },
+    {
+      "added_at": "2023-01-05 14:50:34",
+      "album": {
+        "name": "Shut up My Moms Calling (Sped up)",
+        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Shut up My Moms Calling - (Sped Up)",
+      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -113,22 +161,6 @@
       "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
-      "added_at": "2023-01-05 14:50:34",
-      "album": {
-        "name": "Shut up My Moms Calling (Sped up)",
-        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Shut up My Moms Calling - (Sped Up)",
-      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
-    },
-    {
       "added_at": "2022-12-24 23:00:00",
       "album": {
         "name": "Shake That",
@@ -151,6 +183,22 @@
     {
       "added_at": "2022-12-24 23:00:00",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
+      "added_at": "2022-12-24 23:00:00",
+      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -165,20 +213,60 @@
       "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
     },
     {
-      "added_at": "2023-01-05 14:50:34",
+      "added_at": "2022-12-24 23:00:00",
       "album": {
-        "name": "Back That Up To The Beat",
-        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
+        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
+        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 211475,
-      "name": "Back That Up To The Beat - demo version",
-      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
+      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "added_at": "2023-01-04 14:38:35",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2022-12-24 23:00:00",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     },
     {
       "added_at": "2022-12-24 23:00:00",
@@ -223,26 +311,6 @@
     {
       "added_at": "2022-12-24 23:00:00",
       "album": {
-        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
-        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
-      },
-      "artists": [
-        {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164629,
-      "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
-    },
-    {
-      "added_at": "2022-12-24 23:00:00",
-      "album": {
         "name": "Born This Way",
         "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
       },
@@ -255,22 +323,6 @@
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
-    },
-    {
-      "added_at": "2022-12-24 23:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2022-12-24 23:00:00",
@@ -307,42 +359,6 @@
     {
       "added_at": "2022-12-24 23:00:00",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 117026,
-      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
-    },
-    {
-      "added_at": "2022-12-24 23:00:00",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
-    },
-    {
-      "added_at": "2022-12-24 23:00:00",
-      "album": {
         "name": "Neveroddoreven",
         "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 213373,
       "name": "Who Is She ?",
       "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
-    },
-    {
-      "added_at": "2023-01-04 14:38:35",
-      "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "added_at": "2023-01-04 18:11:00",

@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Wayne Shorter
 
-529 songs - 1 day 18 hr 9 min
+530 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bernie's Tune](https://open.spotify.com/track/0OqV8yetUbvUA8cgjsgVyl) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 2:54 | 2022-10-27 |  |
 | [Besame Mucho](https://open.spotify.com/track/6yDiiNxjRpAglPGQhh1hkk) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Love Songs](https://open.spotify.com/album/33wUoRLQLzB8Q3iDzgQ7Nq) | 5:58 | 2022-10-27 |  |
 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 | 2022-10-27 |  |
+| [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 | 2023-01-03 |  |
 | [Beyond](https://open.spotify.com/track/7rGqI0ZGTmnWiKpylL5Dcw) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [From Darkness](https://open.spotify.com/album/1S6TwUFD93MBuJz54Ehcch) | 2:05 | 2022-10-27 |  |
 | [Birdland](https://open.spotify.com/track/19vVghIuHm3IAfN4xpRF3q) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Heavy Weather](https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1) | 5:56 | 2022-10-27 |  |
 | [Black Coffee](https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:20 | 2022-10-27 |  |
@@ -147,7 +148,7 @@
 | [Don't Misunderstand](https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD) | [Jimmy Heath](https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Letter](https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4) | 5:32 | 2022-10-27 | 2023-01-08 |
 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 | 2022-10-27 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-10-27 |  |
-| [Donna Lee](https://open.spotify.com/track/2u9OxJTn3Of4aMYp9K71kE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 2:34 | 2022-12-07 |  |
+| [Donna Lee](https://open.spotify.com/track/2u9OxJTn3Of4aMYp9K71kE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 2:34 | 2022-12-07 | 2023-01-10 |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2022-10-27 |  |
 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 | 2022-10-27 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-10-27 |  |
@@ -221,7 +222,7 @@
 | [I Was So Young, And You Were So Beautiful](https://open.spotify.com/track/4N7iWwgqcWr3p5JzngOSEF) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 3:54 | 2022-10-27 |  |
 | [I Wish You Love](https://open.spotify.com/track/7moJWeYfMTr7iWgSHvwF7Y) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:00 | 2022-10-27 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:31 | 2022-10-27 |  |
-| [I'll Know](https://open.spotify.com/track/2OQiiPnoC7h2v3UprQa3zP) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:12 | 2022-12-22 | 2023-01-02 |
+| [I'll Know](https://open.spotify.com/track/2OQiiPnoC7h2v3UprQa3zP) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:12 | 2022-12-22 |  |
 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 | 2022-10-27 |  |
 | [I'll Only Miss Her](https://open.spotify.com/track/3fiPnFQRoGCHnHijZs21br) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Close To You](https://open.spotify.com/album/5PgvEwIDiR27lQvF5ktALF) | 4:46 | 2022-10-27 |  |
 | [I'll See You in My Dreams](https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:33 | 2022-10-27 |  |
@@ -291,7 +292,7 @@
 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 | 2022-10-27 |  |
 | [Main Stem](https://open.spotify.com/track/0DUyHDBRaxFiXDf6Jhh4JD) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Everybody Knows](https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C) | 3:27 | 2022-10-27 |  |
 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 | 2022-10-27 |  |
-| [Make Me Rainbows](https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 7:04 | 2022-10-27 |  |
+| [Make Me Rainbows](https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 7:04 | 2022-10-27 | 2023-01-10 |
 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 | 2022-10-27 |  |
 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 | 2022-10-27 |  |
 | [Maputo](https://open.spotify.com/track/0QM8IOYgFzvWcBYn0oi0Cs) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Double Vision](https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB) | 6:48 | 2022-10-27 |  |

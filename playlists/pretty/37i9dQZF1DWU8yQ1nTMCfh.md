@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del Rock en Español\. Cover: Wiplash
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,356 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,379 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 4 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 |
 | 5 | [Señales \- Acústico](https://open.spotify.com/track/0dQv32aSIEcqwKZeBfO0bH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Poniente \(Acústico\)](https://open.spotify.com/album/7IZUILLpY4ho94148ai5QI) | 3:14 |
 | 6 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 |
-| 7 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:57 |
+| 7 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 |
 | 8 | [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 |
 | 9 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 |
-| 10 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 |
-| 11 | [La Tormenta](https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Tormenta](https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2) | 3:00 |
+| 10 | [La Tormenta](https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Tormenta](https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2) | 3:00 |
+| 11 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:57 |
 | 12 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 13 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 14 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 43 | [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 |
 | 44 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 |
 | 45 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
-| 46 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 |
-| 47 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
+| 46 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
+| 47 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 |
 | 48 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 |
-| 49 | [¿Qué Pedo Contigo?](https://open.spotify.com/track/7thvuaGGKMjUBNz3mnVjPX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Sobredosis RPDF](https://open.spotify.com/album/25dd3steypAu7tmyAydIbl) | 3:06 |
-| 50 | [Inalacanzable](https://open.spotify.com/track/4l0QVLmd1kFzP9hA6L0mJV) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Cronopaisajes \- EP](https://open.spotify.com/album/2lTbNjxusc20TmIZ6DGfJo) | 3:08 |
+| 49 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
+| 50 | [¿Qué Pedo Contigo?](https://open.spotify.com/track/7thvuaGGKMjUBNz3mnVjPX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Sobredosis RPDF](https://open.spotify.com/album/25dd3steypAu7tmyAydIbl) | 3:06 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGZiYWMyZmM4NGIyOTkzYjc5MTEyZjFmY2U0ZDc0ZmU0`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGUwNDc0MzNhOGJmMjQ3MjI5N2E2YjNmZDcyNWY2M2Rm`

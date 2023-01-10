@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,060 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,440 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 18 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 |
 | 19 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
 | 20 | [Begin Again](https://open.spotify.com/track/6j9hfHxpXEaYzFwcSK4MhH) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 2:41 |
-| 21 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 |
-| 22 | [Rosewood](https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:02 |
+| 21 | [Rosewood](https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:02 |
+| 22 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 |
 | 23 | [Falling](https://open.spotify.com/track/79FEKK0AZpiQoC2KejLQ4k) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 1:12 |
 | 24 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 |
 | 25 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 31 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 |
 | 32 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 |
 | 33 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 |
-| 34 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/6lx1oSxA9vR67eRlAOIxFT) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
-| 35 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 |
+| 34 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 |
+| 35 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/6lx1oSxA9vR67eRlAOIxFT) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 36 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 37 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 | 38 | [Giving Up](https://open.spotify.com/track/07mOlP1DQv1ZsQTyCMNzaW) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 49 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 |
 | 50 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 |
 
-Snapshot ID: `MTY2OTgxOTg1NCwwMDAwMDAwMDI3YjNhYjRiN2Y4NTZmYzYzMDQ1MGUxNjNhZTZlNGZl`
+Snapshot ID: `MTY2OTgxOTg1NCwwMDAwMDAwMDY0NmJkODI4NjNlMzdiZjE3MGZhODVkYWNkYTRkYjZk`

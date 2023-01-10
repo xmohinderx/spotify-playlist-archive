@@ -2329,6 +2329,28 @@
     },
     {
       "album": {
+        "name": "Album Mode, Vol. 2",
+        "url": "https://open.spotify.com/album/4A8f0Z1JyDl02Okgp2niSH"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/2GTckWN6BfclWRoPuebv0Y"
+    },
+    {
+      "album": {
         "name": "Album Mode Vol. 2",
         "url": "https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH"
       },
@@ -2344,7 +2366,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 165200,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/35ZhlhMWsp9l6PGsJ6mFVR"

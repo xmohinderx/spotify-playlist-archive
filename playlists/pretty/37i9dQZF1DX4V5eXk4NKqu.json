@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Ambar Lucid",
-  "num_followers": 141016,
+  "num_followers": 141103,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyOTUxOSwwMDAwMDAwMDUzODk0Zjg3Y2QzN2NmZmQ2Mzg1ZWM4ZDJiYjk0YTRi",
+  "snapshot_id": "MTY3MjQyOTUxOSwwMDAwMDAwMDU2ZTUzNmEyOWQ0ZDg4YzQxNDZiZTlmMDQ0Y2YyZWNj",
   "tracks": [
     {
       "added_at": "2022-12-30 05:00:00",
@@ -183,26 +183,18 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 232298,
-      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -255,18 +247,26 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 201887,
-      "name": "vuelve",
-      "url": "https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Ivory (Marfil)",
         "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 153258,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/5Q4SaYmdH63hto9fxkd300"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 201887,
+      "name": "vuelve",
+      "url": "https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Las Manos (feat. Leo Rizzi)",
         "url": "https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 167386,
       "name": "Un Mill\u00f3n",
       "url": "https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "Match",
-        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Match",
-      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "What Do You Want It To Be?",
         "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 258832,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Match",
+        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "todo bien :-)",
         "url": "https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 151207,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
         "name": "Blssom",
         "url": "https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb"
       },
@@ -1219,38 +1235,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "NTE",
-        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "Far In",
-        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "La Naranja",
-      "url": "https://open.spotify.com/track/5iWThcuhNojfn2MStjz5Tq"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 263080,
       "name": "You Were Bored",
       "url": "https://open.spotify.com/track/4Qghywsxi70o4Kk5D2hoyL"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "Far In",
+        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "La Naranja",
+      "url": "https://open.spotify.com/track/5iWThcuhNojfn2MStjz5Tq"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/6VpQgyiBjB8R1hAiiuFAxB"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth"
+    },
+    {
       "added_at": "2022-12-30 19:35:37",
       "album": {
         "name": "Tantas Cosas Buenas",
@@ -1459,6 +1475,22 @@
       "duration_ms": 238722,
       "name": "Tantas Cosas Buenas",
       "url": "https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd"
+    },
+    {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "PARIS",
+        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
     },
     {
       "added_at": "2022-12-30 05:00:00",
@@ -1479,22 +1511,6 @@
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
         "name": "Limbo Habitual, Vol. I",
         "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 215013,
       "name": "Musa introvertida",
       "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
-    },
-    {
-      "added_at": "2022-12-30 05:00:00",
-      "album": {
-        "name": "PARIS",
-        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "PARIS",
-      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
     },
     {
       "added_at": "2022-12-30 05:00:00",

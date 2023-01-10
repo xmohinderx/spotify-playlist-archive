@@ -4,7 +4,7 @@
 
 > Shah Rukh Khan\-Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-125 songs - 9 hr 57 min
+126 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Tumhi Dekho Naa](https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 5:47 | 2022-05-10 |  |
 | [Tumhi Dekho Naa \- Sitar Lofi](https://open.spotify.com/track/3fc3piWEXs8OoJ0oTIrs5V) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Tumhi Dekho Naa \(Sitar Lofi\)](https://open.spotify.com/album/6pKhLCZ0q5zuy3Nkxi3z4h) | 2:05 | 2022-10-07 |  |
 | [Voh Dekhnay Mein](https://open.spotify.com/track/0EMYTe2oQy70PCKPQFlbVy) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [London, Paris, New York \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77jUb66xNLgPrvJN2twwwR) | 4:32 | 2022-03-24 |  |
+| [Why This Kolaveri Di? \- The Soup of Love](https://open.spotify.com/track/2VGs7EmaIxq96Wcog6DQOc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Why This Kolaveri Di? \(The Soup of Love\)](https://open.spotify.com/album/0s5zDTx3KA8LW5TzOs3CgE) | 4:19 | 2023-01-09 |  |
 | [Yaaron](https://open.spotify.com/track/0zFG3RWjka7dNRIRTWnXMN) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 4:28 | 2022-06-09 |  |
 | [Yeh Rishta](https://open.spotify.com/track/5guYXHcB6WHzXPQxIHNbIv) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Reena Bhardwaj](https://open.spotify.com/artist/1uTflFWGMlfaiaS8OzS7sk) | [Meenaxi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0016pJfQZkCAgume9aeE1i) | 4:42 | 2022-03-24 |  |
 | [Yoon Shabnami](https://open.spotify.com/track/4GrzhbZQQc9SrU4Vo6J3WY) | [Monty Sharma](https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Saawariya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4E6rpd9IcOfe6X8mErzVxf) | 5:15 | 2022-05-10 |  |

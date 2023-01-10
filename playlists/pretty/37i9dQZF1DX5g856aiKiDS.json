@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 434930,
+  "num_followers": 435138,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkwMjEwNywwMDAwMDAwMDIwOGZlZjdiOTI2YTk1NzI5N2FhNmJkNDg2NWZiYmZl",
+  "snapshot_id": "MTY3MjkwMjEwNywwMDAwMDAwMGRlYWIzNzEyODE5NTEyMzFjNGU2NmRlZTg1NjBiMjJj",
   "tracks": [
     {
       "added_at": "2023-01-05 07:01:47",
@@ -275,6 +275,26 @@
     {
       "added_at": "2023-01-05 07:01:47",
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2023-01-05 07:01:47",
+      "album": {
         "name": "SoulMate (feat. IU)",
         "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-01-05 07:01:47",
-      "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     },
     {
       "added_at": "2023-01-05 07:01:47",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-01-05 07:01:47",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 264052,
+      "name": "Angel (feat. TAEYEON)",
+      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
+    },
+    {
+      "added_at": "2023-01-05 07:01:47",
+      "album": {
         "name": "as long as you're okay",
         "url": "https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn"
       },
@@ -639,46 +659,6 @@
     {
       "added_at": "2023-01-05 07:01:47",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 264052,
-      "name": "Angel (feat. TAEYEON)",
-      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
-    },
-    {
-      "added_at": "2023-01-05 07:01:47",
-      "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-01-05 07:01:47",
-      "album": {
         "name": "doodle",
         "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+    },
+    {
+      "added_at": "2023-01-05 07:01:47",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-01-05 07:01:47",
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-01-05 07:01:47",
       "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 243785,
-      "name": "Rain Song (Feat. Colde)",
-      "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     }
   ],
   "unique_name": "Dalkom Cafe",

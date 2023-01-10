@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 1,028,975 likes - 109 songs - 5 hr 49 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 1,029,563 likes - 109 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 23 | [Care At All](https://open.spotify.com/track/2TewnOsUmffMzv4kL3AoO7) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Care At All](https://open.spotify.com/album/4COfdRQVZja6TCPyrV5xM4) | 2:56 |
 | 24 | [Last Time](https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Amadea](https://open.spotify.com/artist/6b6O55rHSZAXU9Ro4KKGxy) | [Last Time](https://open.spotify.com/album/7GRomEijtussuPxGNsXEAo) | 2:25 |
 | 25 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 |
-| 26 | [Love Is Just a Game](https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Jona Selle](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Love Is Just a Game](https://open.spotify.com/album/3NSOZLHgbSkld6vtbDRxSE) | 2:30 |
+| 26 | [Love Is Just a Game](https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Love Is Just a Game](https://open.spotify.com/album/3NSOZLHgbSkld6vtbDRxSE) | 2:30 |
 | 27 | [The Otherside](https://open.spotify.com/track/6dVaPIowc4SX9Qm3Zj2KQq) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [The Otherside](https://open.spotify.com/album/5UesfEmQZ72n3jin1LgegB) | 3:34 |
 | 28 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 |
 | 29 | [Lovesick](https://open.spotify.com/track/6VzJ202FqcnPcxaUXUeY1t) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Lovesick](https://open.spotify.com/album/3W988ylVkS5vw3I5nq0MTn) | 2:33 |

@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-157 songs - 7 hr 7 min
+159 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,10 +147,12 @@
 | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/track/6cpnzEVv7ukhlNn77azkVy) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/album/5z5c0cyNP5K6jwi01Zra5k) | 2:12 | 2022-09-23 |  |
 | [Tempered](https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tempered](https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx) | 1:24 | 2022-12-21 |  |
 | [Thank You](https://open.spotify.com/track/0KNqmxuXFi0DsyfvcQ1fS3) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Equinox](https://open.spotify.com/album/4eacjxBMXpKHtx1OQJa2Ao) | 3:22 | 2022-08-03 |  |
+| [The Day After](https://open.spotify.com/track/6Yw7ZegbTUDDmDkf9JWvkw) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Day After](https://open.spotify.com/album/26lOYAveXD3qUcfxiWGw8e) | 1:55 | 2023-01-09 |  |
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 |  |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 |  |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
 | [The Rain](https://open.spotify.com/track/2PWiufRrW02EtmSYIokhHr) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [The Rain](https://open.spotify.com/album/1ZNO8N4VKuOTIqUuMucY1g) | 3:07 | 2022-12-06 |  |
+| [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2022-08-03 |  |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-08-26 |  |
 | [Tournon](https://open.spotify.com/track/7eKZVHMsyq7BtPJA2O2xvE) | [Pazice](https://open.spotify.com/artist/5so0FZWVgBOL7MDkSueVCj) | [Tournon](https://open.spotify.com/album/0Wk3Fd60WAcDGFZf5esowg) | 2:09 | 2022-08-03 |  |

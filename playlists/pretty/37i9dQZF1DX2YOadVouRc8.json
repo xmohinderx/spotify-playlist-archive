@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 9930,
+  "num_followers": 9956,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMGQxOTE1YjBlOTQzODIzNTU2NmRiY2U3M2E5Y2FhNzM2",
+  "snapshot_id": "MTY3MDkzNjQ2NSwwMDAwMDAwMGQzNmRhNWIyOTI1NjY4NjFiN2UzYzY4YTJlMmY3Njk3",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -561,26 +561,6 @@
       "url": "https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "19 & Dangerous",
@@ -599,6 +579,26 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Your Body (feat. Buju)",
         "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 258577,
       "name": "Osondu",
       "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "That's Alright",
+        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Saturn",
@@ -1183,22 +1199,6 @@
       "duration_ms": 163200,
       "name": "Maria",
       "url": "https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1237,46 +1237,6 @@
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
-      "added_at": "2022-10-28 12:50:44",
-      "album": {
-        "name": "R-/LBT",
-        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
-      },
-      "artists": [
-        {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
-        },
-        {
-          "name": "Riunga",
-          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
-        }
-      ],
-      "duration_ms": 230808,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "JUDAH LION",
-        "url": "https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "JUDAH LION",
-      "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Gbagada Express",
@@ -1299,6 +1259,46 @@
       "duration_ms": 160000,
       "name": "Your Love (Mogbe)",
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "JUDAH LION",
+        "url": "https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "JUDAH LION",
+      "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
+    },
+    {
+      "added_at": "2022-10-28 12:50:44",
+      "album": {
+        "name": "R-/LBT",
+        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
+        },
+        {
+          "name": "Riunga",
+          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
+        }
+      ],
+      "duration_ms": 230808,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
       "added_at": "2022-09-30 06:26:52",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "alright, ok",
+        "url": "https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "alright, ok",
+      "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Brunch",
         "url": "https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 136270,
       "name": "Summertime With You",
       "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "alright, ok",
-        "url": "https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "alright, ok",
-      "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
     },
     {
       "added_at": "2022-06-09 23:00:00",

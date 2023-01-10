@@ -2735,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "Letter to a Friend",
+        "url": "https://open.spotify.com/album/1a7VHDhOVM54tcTsrpsqNM"
+      },
+      "artists": [
+        {
+          "name": "Robert Gromotka",
+          "url": "https://open.spotify.com/artist/3O0m1fz3mncIqJ2JmHIbH6"
+        },
+        {
+          "name": "Chiharu Bley Violoncello",
+          "url": "https://open.spotify.com/artist/0xYJZq8dcOaFvjIGnMvFHT"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Letter To A Friend",
+      "url": "https://open.spotify.com/track/1MoOc8rH7o4TPY5bYKRA7J"
+    },
+    {
+      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
       },

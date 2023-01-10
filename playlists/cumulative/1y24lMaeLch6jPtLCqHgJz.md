@@ -4,7 +4,7 @@
 
 > The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-113 songs - 5 hr 55 min
+114 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Paradise](https://open.spotify.com/track/2InkR3RbQnVc9EMHP9VRqY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Paradise](https://open.spotify.com/album/6tGXsBn9Oqo2uYcmILI6fb) | 3:16 | 2022-08-04 |  |
 | [Phoenix](https://open.spotify.com/track/2IsmnQVMlumwHQ4vAkaVIa) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq) | [Phoenix](https://open.spotify.com/album/6NPTOBUvyTYxn2X3Mo1taQ) | 3:15 | 2022-07-29 |  |
 | [Pull Me Through](https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Pull Me Through](https://open.spotify.com/album/4PwQiZ7eS8n5LcOuLDofYL) | 3:02 | 2022-07-29 |  |
+| [Recount the Stars](https://open.spotify.com/track/0SEkpFkzcwvbZ3muExGTx5) | [TAKEOFFANDFLY](https://open.spotify.com/artist/38cnnPZnUjRbSEcvvnZNlW) | [Recount the Stars](https://open.spotify.com/album/4ztlaCtCCYQ1QYlZbTI0MU) | 3:16 | 2023-01-09 |  |
 | [Right Here](https://open.spotify.com/track/5ic27VIYvnEnHgBuXWLa9a) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Joysic](https://open.spotify.com/artist/3FW1fcyuFVakqhaKw1HC5h), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Baiden Holland](https://open.spotify.com/artist/0nTCgWKkvxKVqpldaLIolY) | [Right Here](https://open.spotify.com/album/7rFA256wJK0iwTumwqj8fB) | 3:08 | 2022-07-29 |  |
 | [Satellite](https://open.spotify.com/track/0LclEzidZbH3ZHInpUHjvF) | [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Satellite](https://open.spotify.com/album/5M27nB3jfyVIpkoYEuvkEB) | 2:18 | 2022-11-18 |  |
 | [Save Me \- HAVOQ Remix](https://open.spotify.com/track/106NUdEpeKc6viVKe4Dejr) | [Maori](https://open.spotify.com/artist/3WgX9Ioo1Qcug9H0tNmmUH), [Hunter Falls](https://open.spotify.com/artist/1eYaa3AJoGw6LVJNi5XSNZ), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Save Me \(HAVOQ Remix\)](https://open.spotify.com/album/6tt2AsnVVe6Kq7BNfZ6sYH) | 2:41 | 2022-07-29 |  |

@@ -4,7 +4,7 @@
 
 > Sensual silky sounds for the sheets.
 
-161 songs - 9 hr 3 min
+162 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2022-10-03 |  |
 | [The Distance](https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [The Distance](https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d) | 3:22 | 2022-02-04 | 2022-07-23 |
 | [THINGS & SUCH](https://open.spotify.com/track/2ld2cRCzXcJU3q8dNdOENY) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 3:57 | 2022-10-03 | 2023-01-02 |
+| [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 | 2022-10-03 |  |
 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 | 2021-08-13 | 2022-09-10 |
 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 | 2022-10-03 |  |
 | [Too Deep](https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 3:20 | 2022-10-03 | 2023-01-01 |
@@ -159,7 +160,7 @@
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-17 |  |
 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 | 2021-08-13 | 2022-09-09 |
 | [Water](https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:02 | 2022-10-03 |  |
-| [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-10-03 |  |
+| [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-10-03 | 2023-01-10 |
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-08-13 |  |
 | [When Love's Around \(feat\. Syd\)](https://open.spotify.com/track/4iC9bQomdbH5YPYi4HrECX) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Nobody Is Listening](https://open.spotify.com/album/3uMWm5YRiYJFoqji7wYKsR) | 3:11 | 2021-08-13 | 2022-10-04 |
 | [When We](https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [SAVAGE](https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa) | 5:09 | 2022-10-03 |  |

@@ -5026,7 +5026,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 186038,
       "name": "Goo Goo Muck",
       "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
@@ -5304,7 +5304,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
@@ -10264,7 +10264,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 189473,
       "name": "Quiere Que Llame",
       "url": "https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU"
@@ -11524,7 +11524,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -13270,7 +13270,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 202080,
       "name": "Valores del West",
       "url": "https://open.spotify.com/track/2Sew64sMxc38FtKHXVkkne"
@@ -13800,6 +13800,24 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "album": {
+        "name": "Yes t0 Heaven",
+        "url": "https://open.spotify.com/album/3IoAc6Bees7aBBtLSTNRTV"
+      },
+      "artists": [
+        {
+          "name": "B4SAX",
+          "url": "https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197578,
+      "name": "Yes t0 Heaven",
+      "url": "https://open.spotify.com/track/5KMfWGgk4YhuGLHthUuhjG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,361 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,486 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 26 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
 | 27 | [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 |
 | 28 | [先輩](https://open.spotify.com/track/0XugWVvzcLN7nHFEk8bgyH) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [THE YⒶNK ROCK HERØES](https://open.spotify.com/album/60pDYcWPB5rLvI1tB8Y7RS) | 3:45 |
-| 29 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
-| 30 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
-| 31 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
+| 29 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
+| 30 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
+| 31 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
 | 32 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 |
 | 33 | [Get Wild](https://open.spotify.com/track/5G48nS1vgkQherzj2bHE3F) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [MIYAVIVERSE \- Anima \-](https://open.spotify.com/album/60rJiOVY3wSlVwV7fB5HRB) | 4:34 |
 | 34 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 40 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 41 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
 | 42 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
-| 43 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
-| 44 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
-| 45 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
-| 46 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
-| 47 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
+| 43 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
+| 44 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
+| 45 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
+| 46 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
+| 47 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
 | 48 | [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 |
-| 49 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 |
-| 50 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
+| 49 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
+| 50 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 |
 
-Snapshot ID: `MTY3Mjc1ODAwMCwwMDAwMDAwMGRkN2I0NjU3MmFlNmM4ZDg0OWViMTcyOWIxZTZjZmY0`
+Snapshot ID: `MTY3Mjc1ODAwMCwwMDAwMDAwMDNiODFhOGNmZTljOTRlOTM4ZWEyZGQ5YzljZTM5M2Uw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Alex Hoyer en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,114 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,216 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 24 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
 | 25 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
 | 26 | [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 |
-| 27 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
-| 28 | [Mi Destino](https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV) | [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm), [Alejo Valencia](https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj), [Guita](https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd) | [La Reina del Flow 2 \(Banda Sonora Oficial de la Serie de Televisión\)](https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5) | 3:21 |
+| 27 | [Mi Destino](https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV) | [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm), [Alejo Valencia](https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj), [Guita](https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd) | [La Reina del Flow 2 \(Banda Sonora Oficial de la Serie de Televisión\)](https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5) | 3:21 |
+| 28 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
 | 29 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 30 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
 | 31 | [Me Liberé](https://open.spotify.com/track/54o97glZqjfQambK2yyNCG) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Me Liberé](https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S) | 3:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 38 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 |
 | 39 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
 | 40 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 |
-| 41 | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 |
-| 42 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
+| 41 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
+| 42 | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 |
 | 43 | [Mi Película](https://open.spotify.com/track/4Gd65mnCu829bBJL4lb5Bb) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Mi Película](https://open.spotify.com/album/3gqhmbNm30Dw3qoiJd7B8e) | 2:23 |
 | 44 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
 | 45 | [Tus Besos](https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Tus Besos](https://open.spotify.com/album/5S9MvHxcWp1l7fwhxm0r42) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 |
 | 50 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
 
-Snapshot ID: `MTY3MTQ3NzA3MywwMDAwMDAwMDg2ZGUwMzdmMWRjZjM1Zjc0ZGIzZmZiYjlhZGJmZDI3`
+Snapshot ID: `MTY3MTQ3NzA3MywwMDAwMDAwMDc3OGM4ODY5ZjEwMzVhZjg4NDE4YzJlZTJmZjg3MjEx`

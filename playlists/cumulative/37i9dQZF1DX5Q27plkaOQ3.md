@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-286 songs - 16 hr 28 min
+287 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alive \- 12th Planet Remix](https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Alive \(Remixes\)](https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo) | 2:40 | 2021-12-17 |  |
 | [All Your Lies](https://open.spotify.com/track/0TI191mYlDr4wOpuqDWcZS) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lexi Norton](https://open.spotify.com/artist/4jjDncozkOf5MTdXPkBYdV) | [All Your Lies](https://open.spotify.com/album/2C6autjettV455fh9GbFGD) | 3:43 | 2022-04-15 |  |
 | [Angels & Blindfolds](https://open.spotify.com/track/5iy9QH67HXDjgThOthkDeV) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Angels & Blindfolds](https://open.spotify.com/album/5sI33yhZyJjD43lZDdzwHP) | 4:12 | 2022-01-28 |  |
-| [Arabian Knights](https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Arabian Knights](https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV) | 3:06 | 2022-06-17 |  |
+| [Arabian Knights](https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Arabian Knights](https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV) | 3:06 | 2022-06-17 | 2023-01-10 |
 | [Arcade Fire](https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ), [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D) | [Arcade Fire](https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH) | 3:54 | 2021-12-17 | 2022-10-08 |
 | [ASCENSION RITE](https://open.spotify.com/track/0ko8SLwJgaWkhXmFZzGYXI) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [ASCENSION RITE](https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf) | 2:58 | 2022-02-04 | 2022-03-12 |
 | [Astro](https://open.spotify.com/track/7LNjCa0bjeODcWYzFo6Bdx) | [Yyvng](https://open.spotify.com/artist/4b5QKPBruPFrb84daWolGE), [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Astro](https://open.spotify.com/album/7fPegLkUOqVHIMGcFMMYWg) | 2:46 | 2022-05-06 | 2022-07-24 |
@@ -253,6 +253,7 @@
 | [Stompi Boi](https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD) | [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D), [Dr\. Lobster](https://open.spotify.com/artist/6rAYLpYH7blCH8exP3DboL) | [FuntCase Presents: DPMO, Vol\. 4](https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu) | 5:42 | 2021-12-17 | 2022-03-05 |
 | [Street \- PEEKABOO Remix](https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Street \(PEEKABOO Remix\)](https://open.spotify.com/album/61xOtAdVCQIj6Ipt4MzgXd) | 4:11 | 2022-02-18 |  |
 | [Style](https://open.spotify.com/track/79uUlT0sPzOO2XY035m729) | [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d), [DirtySnatcha](https://open.spotify.com/artist/13dsmcZVkb1XlhT6RQYh1n) | [Style](https://open.spotify.com/album/4emyO9ctIuPyNWiXIuTMLr) | 3:24 | 2022-02-25 | 2022-07-29 |
+| [SURGE](https://open.spotify.com/track/20HSKZ4jG733BYqSDFTPgW) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo) | [EYE OF THE STORM](https://open.spotify.com/album/5QGsRIGb79JOvC2PimldPj) | 2:41 | 2023-01-06 |  |
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 | 2022-09-19 |
 | [Take A Trip](https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Take A Trip](https://open.spotify.com/album/5HMJ6OOT8Z6WjNbdK61P2u) | 4:22 | 2022-04-15 |  |
 | [Teardrop](https://open.spotify.com/track/7ztFTiaEtc1TF5AV9909Bb) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Teardrop](https://open.spotify.com/album/3CNLbkYxHTAHaryZmy8oCo) | 4:25 | 2022-09-09 |  |

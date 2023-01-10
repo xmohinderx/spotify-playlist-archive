@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 113799,
+  "num_followers": 113819,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDUzODliODEwYjZlNjA3ZmJiNGIzYTMwY2I1NDU0ZmJj",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGI3ZmRkYzM2MTNiNzk4MmJiZDFmZDc4YmI3NGY2MzY0",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Lolita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Lolita Ya Ya",
-      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Best Of Martin Denny's Exotica",
@@ -219,6 +203,22 @@
       "duration_ms": 148133,
       "name": "Alika - Digitally Remastered 1996",
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Lolita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Lolita Ya Ya",
+      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Dear Mama",
         "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
       },
@@ -385,22 +401,6 @@
       "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+        "name": "Tiki for the Atomic Age",
+        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Kava Kon",
+          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 168000,
+      "name": "Palace of the Tiger Women",
+      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -447,22 +447,6 @@
       "duration_ms": 215680,
       "name": "I Kona",
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Tiki for the Atomic Age",
-        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
-      },
-      "artists": [
-        {
-          "name": "Kava Kon",
-          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Palace of the Tiger Women",
-      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -499,18 +483,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
       },
       "artists": [
         {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -529,6 +513,22 @@
       "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Swingin' sounds for the Jungle Jetset !",
@@ -543,22 +543,6 @@
       "duration_ms": 220733,
       "name": "Sunset on the Kona Kai",
       "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -623,6 +607,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
         "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
       },
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
@@ -671,22 +687,6 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Don Ho Show! (Live)",
-        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
-      },
-      "artists": [
-        {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Shells - Live from Hawaii",
-      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Chill Out Hawaiian Music",
         "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Kiss Me Love",
-        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+        "name": "The Don Ho Show! (Live)",
+        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
       },
       "artists": [
         {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
         }
       ],
-      "duration_ms": 229200,
-      "name": "Mi Nei",
-      "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
+      "duration_ms": 244800,
+      "name": "Shells - Live from Hawaii",
+      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -943,6 +927,22 @@
       "duration_ms": 174800,
       "name": "Jivaro",
       "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Kiss Me Love",
+        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Mi Nei",
+      "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
     },
     {
       "added_at": "2022-01-11 02:53:42",

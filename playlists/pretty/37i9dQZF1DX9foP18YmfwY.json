@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
-  "num_followers": 283980,
+  "num_followers": 284060,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjgwOCwwMDAwMDAwMDk1ODM2NTRkMGFiMzE3MDg5YzJlMmMwZTU4NzY1ZWE0",
+  "snapshot_id": "MTY3MDU2NjgwOCwwMDAwMDAwMDQ4YjRhYjdiYzQ5NTg1NTk0NjQ4ZDFkMjk2OWY4YzAy",
   "tracks": [
     {
       "added_at": "2022-12-04 22:45:08",
@@ -271,6 +271,26 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
+        "name": "A tua ternura",
+        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 201089,
+      "name": "A tua ternura",
+      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
         "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 370000,
       "name": "Quero Nascer de Novo",
       "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
-        "name": "A tua ternura",
-        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 201089,
-      "name": "A tua ternura",
-      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -411,42 +411,6 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Banquete Eterno",
-        "url": "https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 266305,
-      "name": "Sopra em meu jardim",
-      "url": "https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
-        "name": "Quero Ouvir Tua Voz",
-        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
-        },
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "Quero Ouvir Tua Voz",
-      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
       },
@@ -463,6 +427,22 @@
       "duration_ms": 281402,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
+        "name": "Banquete Eterno",
+        "url": "https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 266305,
+      "name": "Sopra em meu jardim",
+      "url": "https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -487,22 +467,6 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Pelas M\u00e3os de Maria",
-        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 199344,
-      "name": "Pelas M\u00e3os de Maria",
-      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
         "name": "Hosana, Pt. 01",
         "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
       },
@@ -519,54 +483,38 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Deus Anda Comigo",
-        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
+        "name": "Quero Ouvir Tua Voz",
+        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
       },
       "artists": [
         {
           "name": "Cleiton Saraiva",
           "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
-        }
-      ],
-      "duration_ms": 223285,
-      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
-        "name": "Romaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
         },
         {
-          "name": "Leo Cidade",
-          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
         }
       ],
-      "duration_ms": 319556,
-      "name": "Romaria - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
+      "duration_ms": 264891,
+      "name": "Quero Ouvir Tua Voz",
+      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
     },
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+        "name": "Pelas M\u00e3os de Maria",
+        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
       },
       "artists": [
         {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         }
       ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+      "duration_ms": 199344,
+      "name": "Pelas M\u00e3os de Maria",
+      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -591,34 +539,34 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Resili\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 569032,
-      "name": "Eis-Me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
-      "added_at": "2022-12-04 22:45:08",
+      "added_at": "2023-01-10 01:29:20",
       "album": {
-        "name": "Alma de Cristo",
-        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
+        "name": "Nudez de Madalena",
+        "url": "https://open.spotify.com/album/6UayX7gYPQVNllvysXXQHK"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
         }
       ],
-      "duration_ms": 232115,
-      "name": "Alma de Cristo",
-      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
+      "duration_ms": 313194,
+      "name": "Nudez de Madalena",
+      "url": "https://open.spotify.com/track/2MtL7P6fEUJjg1Db1a6767"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -639,6 +587,42 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
+        "name": "Romaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Leo Cidade",
+          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+        }
+      ],
+      "duration_ms": 319556,
+      "name": "Romaria - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
+        "name": "Resili\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 569032,
+      "name": "Eis-Me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
       },
@@ -653,20 +637,36 @@
       "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
     },
     {
-      "added_at": "2023-01-09 01:12:18",
+      "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Nudez de Madalena",
-        "url": "https://open.spotify.com/album/6UayX7gYPQVNllvysXXQHK"
+        "name": "Deus Anda Comigo",
+        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
       },
       "artists": [
         {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
         }
       ],
-      "duration_ms": 313194,
-      "name": "Nudez de Madalena",
-      "url": "https://open.spotify.com/track/2MtL7P6fEUJjg1Db1a6767"
+      "duration_ms": 223285,
+      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
+        "name": "Alma de Cristo",
+        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 232115,
+      "name": "Alma de Cristo",
+      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -707,42 +707,6 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -767,6 +731,26 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
         "name": "Acalma o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 262000,
       "name": "Acalma o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
+        "name": "Irm\u00e3o Jesus",
+        "url": "https://open.spotify.com/album/1rRJBSjPCLvdyYWdzoKVfK"
+      },
+      "artists": [
+        {
+          "name": "Pe. Zezinho, SCJ",
+          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
+        },
+        {
+          "name": "Andr\u00e9ia Zanardi",
+          "url": "https://open.spotify.com/artist/7J53nUJRnaLvulm4dXIriY"
+        }
+      ],
+      "duration_ms": 330082,
+      "name": "Irm\u00e3o Jesus",
+      "url": "https://open.spotify.com/track/78Jh1AhTQ7wBaogRBY3LWN"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
         "name": "J\u00e1 Deu Certo",
         "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
@@ -879,22 +899,18 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Irm\u00e3o Jesus",
-        "url": "https://open.spotify.com/album/1rRJBSjPCLvdyYWdzoKVfK"
+        "name": "Reinflama",
+        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
       },
       "artists": [
         {
-          "name": "Pe. Zezinho, SCJ",
-          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
-        },
-        {
-          "name": "Andr\u00e9ia Zanardi",
-          "url": "https://open.spotify.com/artist/7J53nUJRnaLvulm4dXIriY"
+          "name": "Flavinho",
+          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
         }
       ],
-      "duration_ms": 330082,
-      "name": "Irm\u00e3o Jesus",
-      "url": "https://open.spotify.com/track/78Jh1AhTQ7wBaogRBY3LWN"
+      "duration_ms": 231796,
+      "name": "Reinflama",
+      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -915,22 +931,6 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Reinflama",
-        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
-      },
-      "artists": [
-        {
-          "name": "Flavinho",
-          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
-        }
-      ],
-      "duration_ms": 231796,
-      "name": "Reinflama",
-      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
         "name": "Te Adorar",
         "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
       },
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
-      "added_at": "2023-01-09 01:12:18",
+      "added_at": "2023-01-10 01:29:20",
       "album": {
         "name": "Sobe a Jerusal\u00e9m",
         "url": "https://open.spotify.com/album/6soX1Gf0eYtrFoB4fJB3cr"
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
+        "name": "Seja Bem-Vindo Jesus",
+        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
+      },
+      "artists": [
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 310704,
+      "name": "Seja Bem-Vindo Jesus",
+      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
         "name": "Nada \u00c9 Maior",
         "url": "https://open.spotify.com/album/432dKZfDYsjJ4PatyeYwQm"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 203977,
       "name": "Nada \u00c9 Maior",
       "url": "https://open.spotify.com/track/4wkIkeTnQ1eHDQ3ovQIJy1"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
-        "name": "Seja Bem-Vindo Jesus",
-        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
-      },
-      "artists": [
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 310704,
-      "name": "Seja Bem-Vindo Jesus",
-      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
     },
     {
       "added_at": "2022-12-04 22:45:08",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-12-04 22:45:08",
       "album": {
-        "name": "Lugar da Promessa",
-        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
-        }
-      ],
-      "duration_ms": 283490,
-      "name": "Lugar da Promessa",
-      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
-    },
-    {
-      "added_at": "2022-12-04 22:45:08",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 254964,
       "name": "Minha Voca\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
+    },
+    {
+      "added_at": "2022-12-04 22:45:08",
+      "album": {
+        "name": "Lugar da Promessa",
+        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+        }
+      ],
+      "duration_ms": 283490,
+      "name": "Lugar da Promessa",
+      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
     },
     {
       "added_at": "2022-12-04 22:45:08",

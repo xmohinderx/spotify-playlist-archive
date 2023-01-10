@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 85351,
+  "num_followers": 85673,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTgxNSwwMDAwMDAwMGU4ODkwMmZmN2RmOTE3ZTAxMWEwYjllNWUzNmZiODFm",
+  "snapshot_id": "MTY3MjY5NTgxNSwwMDAwMDAwMDU1NTM5MmRhYmMwN2M0NWY4ZDFiOTJlNDI3OTcwZjZi",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -193,6 +193,26 @@
       "url": "https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ"
     },
     {
+      "added_at": "2022-09-16 04:49:08",
+      "album": {
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Isaac Chambers & Dub Princess",
@@ -235,26 +255,6 @@
       "duration_ms": 312914,
       "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
-    },
-    {
-      "added_at": "2022-09-16 04:49:08",
-      "album": {
-        "name": "Me Duele",
-        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Me Duele",
-      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Camino de Flores",
         "url": "https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo"
       },
@@ -415,18 +431,38 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+        "name": "Aimez ces airs",
+        "url": "https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "DjeuhDjoah",
+          "url": "https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY"
+        },
+        {
+          "name": "Lieutenant Nicholson",
+          "url": "https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5"
         }
       ],
-      "duration_ms": 269346,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
+      "duration_ms": 241487,
+      "name": "El ni\u00f1o",
+      "url": "https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr"
+    },
+    {
+      "added_at": "2022-09-29 01:47:59",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
+      },
+      "artists": [
+        {
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+        }
+      ],
+      "duration_ms": 236119,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
     },
     {
       "added_at": "2022-09-30 04:03:44",
@@ -447,26 +483,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Aimez ces airs",
-        "url": "https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf"
-      },
-      "artists": [
-        {
-          "name": "DjeuhDjoah",
-          "url": "https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY"
-        },
-        {
-          "name": "Lieutenant Nicholson",
-          "url": "https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5"
-        }
-      ],
-      "duration_ms": 241487,
-      "name": "El ni\u00f1o",
-      "url": "https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX"
       },
@@ -481,20 +497,28 @@
       "url": "https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L"
     },
     {
-      "added_at": "2022-09-29 01:47:59",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
       },
       "artists": [
         {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
         }
       ],
-      "duration_ms": 236119,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
+      "duration_ms": 268956,
+      "name": "Xica Xica",
+      "url": "https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315"
     },
     {
       "added_at": "2022-08-03 03:35:17",
@@ -535,30 +559,6 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 268956,
-      "name": "Xica Xica",
-      "url": "https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Ch'usay Remixes",
         "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
         }
       ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -823,6 +807,22 @@
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -877,20 +877,20 @@
       "url": "https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ"
     },
     {
-      "added_at": "2022-11-18 17:46:22",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
         }
       ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -909,36 +909,20 @@
       "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-11-18 17:46:22",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -975,6 +959,22 @@
       "duration_ms": 429913,
       "name": "Teu Sorriso - Jex Opolis Remix",
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 340616,
-      "name": "La Frontera",
-      "url": "https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -1099,18 +1079,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Turn Around",
-        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi"
       },
       "artists": [
         {
-          "name": "Rampue",
-          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 437241,
-      "name": "Turn Around",
-      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1131,6 +1115,22 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
+      },
+      "artists": [
+        {
+          "name": "Rampue",
+          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+        }
+      ],
+      "duration_ms": 437241,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1167,6 +1167,22 @@
       "duration_ms": 275593,
       "name": "Humano - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/507fmh8Qx1LfKff6h57moj"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Chicha Nola - Alternative Version",
+      "url": "https://open.spotify.com/track/7ossK2yjI5VzrYWMF8E57F"
     },
     {
       "added_at": "2022-08-13 00:58:04",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Chicha Nola - Alternative Version",
-      "url": "https://open.spotify.com/track/7ossK2yjI5VzrYWMF8E57F"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Samba del Arenal",
         "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 253760,
       "name": "Samba del Arenal",
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     }
   ],
   "unique_name": "Tulum Vibes",

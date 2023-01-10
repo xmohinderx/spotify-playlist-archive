@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 ### [Sweat.](https://open.spotify.com/playlist/37i9dQZF1DX4YipRSmIneQ)
 
-> Turn anywhere into a sweaty club with tracks selected by Charli XCX 😈 \#NYE2022
+> Turn anywhere into a sweaty club with tracks selected by Charli XCX 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,110 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,174 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 54 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
 | 55 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 |
 
-Snapshot ID: `MTY3MjE5MTM1MywwMDAwMDAwMDdlMGVlZTMxMDUxYzgxM2ZmYzc2Y2I3MTNmNDZiYmVl`
+Snapshot ID: `MTY3MzI3NDkwOSwwMDAwMDAwMGRiNzgzNDhmNmFhN2FlZWJlNjhlMWVmYjZkMWNjODZl`

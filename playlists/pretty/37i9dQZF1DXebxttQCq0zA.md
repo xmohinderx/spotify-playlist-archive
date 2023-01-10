@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,936 likes - 196 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,428 likes - 196 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 12 | [Through The Self](https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Through The Self](https://open.spotify.com/album/4QUK3vdURh2byRlf6YSXQV) | 3:19 |
 | 13 | [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 |
 | 14 | [Ich Wünsche](https://open.spotify.com/track/5EKGc8AhERWLmIAZgph4rT) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 3:00 |
-| 15 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 |
-| 16 | [Tears Of Change](https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Tears Of Change](https://open.spotify.com/album/4OKcUyYXCVMR4FrIsUsCRm) | 2:53 |
-| 17 | [Breathless](https://open.spotify.com/track/4vwpjrRemuLveDgtNqy5LP) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 2:39 |
-| 18 | [Becalming](https://open.spotify.com/track/5S3LrxbIBSqhf3tEGjNa8l) | [Thomas Barasimo](https://open.spotify.com/artist/4T3ci09iLFfbJJziNBWkvh) | [Majestic](https://open.spotify.com/album/09uh7HyYeJdAGy2ybhGvUS) | 3:11 |
-| 19 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 |
-| 20 | [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 |
+| 15 | [Slowdown](https://open.spotify.com/track/3nTFwQs9Oxz1KEtZn0Q7AK) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Slowdown](https://open.spotify.com/album/79Xcn04N8Ngs5vfkKCuTYa) | 2:39 |
+| 16 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 |
+| 17 | [Tears Of Change](https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Tears Of Change](https://open.spotify.com/album/4OKcUyYXCVMR4FrIsUsCRm) | 2:53 |
+| 18 | [Breathless](https://open.spotify.com/track/4vwpjrRemuLveDgtNqy5LP) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 2:39 |
+| 19 | [Becalming](https://open.spotify.com/track/5S3LrxbIBSqhf3tEGjNa8l) | [Thomas Barasimo](https://open.spotify.com/artist/4T3ci09iLFfbJJziNBWkvh) | [Majestic](https://open.spotify.com/album/09uh7HyYeJdAGy2ybhGvUS) | 3:11 |
+| 20 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 |
 | 21 | [Hills](https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l) | 2:33 |
 | 22 | [Southward Bound \(432 Hz\)](https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Southward Bound](https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr) | 2:34 |
 | 23 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 195 | [Newborn Soul](https://open.spotify.com/track/61I4iLWIWmmx7knqM6f5HL) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:36 |
 | 196 | [Atmosphere](https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:07 |
 
-Snapshot ID: `MTY3MzAyNjI0MywwMDAwMDAwMDI5ZjZhODVmM2ExZjBkYjBmMTdiNmY4NTcwZmFmMTA5`
+Snapshot ID: `MTY3MzI5MzIyOSwwMDAwMDAwMGFiMTk0ZDFmOGJmNDkyMjkwMjVkNGYyMzk2MmQxMWQ3`

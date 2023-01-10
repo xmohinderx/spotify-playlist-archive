@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-665 songs - 1 day 20 hr 21 min
+666 songs - 1 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [アイデンティティ](https://open.spotify.com/track/4cXlM7IelyGNnaOiROPZqn) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [アイデンティティ](https://open.spotify.com/album/6J7w94eqtxESsAkRfB4dAQ) | 4:29 | 2022-06-07 | 2022-11-23 |
 | [アイビーダンス](https://open.spotify.com/track/0p4Pbn4ktbFCAbIWyJL3XO) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [アイビーダンス](https://open.spotify.com/album/5j3Ow8uwPk8wHVpdmndKXi) | 3:25 | 2022-06-07 | 2022-07-11 |
 | [アイリス](https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:07 | 2022-06-07 |  |
+| [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-07 |  |
 | [アカシア](https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF) | 4:22 | 2022-06-07 | 2022-07-29 |
 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 | 2022-06-07 |  |
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-07 | 2022-07-10 |
@@ -434,7 +435,7 @@
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-06-07 | 2022-08-07 |
 | [キリフダ](https://open.spotify.com/track/0E7t1CSCWQaSqLvJo0tNHE) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [キリフダ](https://open.spotify.com/album/7HqGIrY65zULGtgwDfTe9b) | 2:29 | 2022-06-07 | 2022-07-25 |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2022-11-22 |  |
-| [ギリギリRide it out](https://open.spotify.com/track/7Ac881VKUrTcPWDpLG6Yiv) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Choo Choo TRAIN](https://open.spotify.com/album/2qB0JLYy2Ufq65f0NkjfPG) | 3:51 | 2022-11-22 |  |
+| [ギリギリRide it out](https://open.spotify.com/track/7Ac881VKUrTcPWDpLG6Yiv) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Choo Choo TRAIN](https://open.spotify.com/album/2qB0JLYy2Ufq65f0NkjfPG) | 3:51 | 2022-11-22 | 2023-01-10 |
 | [ケアレス](https://open.spotify.com/track/3TOu6gUa0EXmbYth06kR3e) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ケアレス](https://open.spotify.com/album/3oQVyEMEzbgROnz0MK3DiN) | 4:16 | 2022-06-07 | 2022-07-28 |
 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 | 2022-06-07 | 2022-07-25 |
 | [コガネゾラ \(TV size\)](https://open.spotify.com/track/0lINpdNxhDeWmPseWeKJJX) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ \(TV size\)](https://open.spotify.com/album/7BUZqoyy6UjD8XqL7HXyJs) | 1:30 | 2022-06-07 | 2022-07-28 |

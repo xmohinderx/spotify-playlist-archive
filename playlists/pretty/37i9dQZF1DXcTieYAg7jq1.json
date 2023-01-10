@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: WILSN",
-  "num_followers": 402727,
+  "num_followers": 402735,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDkxZjFmMjg5MzI5OGI0OTExNjE3MGNiMTVmMGQ1YWE2",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGIyNjlmYzM2ZjdlMTgyOTMzNTNhZmRmOThmMmIwNTUy",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -437,26 +437,6 @@
       "url": "https://open.spotify.com/track/0wfnEetPwlLHmnzhRXvPuk"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Thrill of the Arts",
-        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        }
-      ],
-      "duration_ms": 181259,
-      "name": "Back Pocket",
-      "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -477,20 +457,24 @@
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "sheluvme",
-        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+        "name": "Thrill of the Arts",
+        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
-      "duration_ms": 150840,
-      "name": "sheluvme",
-      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
+      "duration_ms": 181259,
+      "name": "Back Pocket",
+      "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -507,6 +491,22 @@
       "duration_ms": 201786,
       "name": "Fire In The Sky",
       "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "sheluvme",
+        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "sheluvme",
+      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Fresh Roses",
@@ -611,6 +595,22 @@
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 143386,
-      "name": "Baby I'll Wait",
-      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 143386,
+      "name": "Baby I'll Wait",
+      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Black Is Golden",
         "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 192793,
       "name": "Velcro (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "about time",
@@ -1351,6 +1335,22 @@
       "duration_ms": 193047,
       "name": "about time",
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 275817,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Magical Thinking",
@@ -1463,6 +1447,22 @@
       "duration_ms": 173985,
       "name": "Magical Thinking",
       "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb"
+      },
+      "artists": [
+        {
+          "name": "Mica Millar",
+          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Flashlights",
+      "url": "https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -1481,20 +1481,20 @@
       "url": "https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
       },
       "artists": [
         {
-          "name": "Mica Millar",
-          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Flashlights",
-      "url": "https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf"
+      "duration_ms": 275817,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1617,6 +1617,22 @@
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Dance For Love",
+        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 262536,
+      "name": "Dance For Love",
+      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Where the Light Is",
@@ -1687,22 +1703,6 @@
       "duration_ms": 406186,
       "name": "Don't Lose Sight (Acoustic)",
       "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Dance For Love",
-        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 262536,
-      "name": "Dance For Love",
-      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
     },
     {
       "added_at": "2022-08-12 04:01:00",

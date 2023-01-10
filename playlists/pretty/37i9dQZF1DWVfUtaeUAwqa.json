@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6709,
+  "num_followers": 6715,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDc2ODBhZDE1ZTY4Y2JkMjk0YTNhOTI1ZmQyNzIyNWNm",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGZmNDRmY2U4YTgwYzkyMjA3ZDUxZGUyNWYxNzdjNTQw",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -155,6 +155,38 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Favorites",
         "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
       },
@@ -223,38 +255,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz Foundations Vol. 25",
         "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
-      },
-      "artists": [
-        {
-          "name": "Turk Murphy",
-          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 2",
         "url": "https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 183960,
       "name": "Struttin' with Some Barbecue - 78 rpm Version",
       "url": "https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Fabulous Sidney Bechet",
+        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Ballin' The Jack",
+      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Fabulous Sidney Bechet",
-        "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Ballin' The Jack",
-      "url": "https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "1939-1944",
         "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 181133,
       "name": "Livery Stable Blues (Barnyard Blues)",
       "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES"
+      },
+      "artists": [
+        {
+          "name": "Turk Murphy",
+          "url": "https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -635,6 +635,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 227520,
       "name": "There Is a Tavern in the Town",
       "url": "https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -835,6 +835,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Sounds Of New Orleans, Vol. 2",
         "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "4th of July Parade: 30 Patriotic Marches for Independence Day",
-        "url": "https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj"
+        "name": "30 Patriotic American Songs for Armed Forces Day",
+        "url": "https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu"
       },
       "artists": [
         {
-          "name": "The Kings Of Dixieland",
-          "url": "https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg"
+          "name": "The Muscrat Ramblers",
+          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
         }
       ],
-      "duration_ms": 189074,
-      "name": "Semper Fidelis",
-      "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
+      "duration_ms": 199314,
+      "name": "The Band Played On",
+      "url": "https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-112 songs - 6 hr 43 min
+113 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-06-20 | 2022-12-27 |
 | [Have You Ever](https://open.spotify.com/track/4AjBFmioxIaW1QzH1FrPEI) | [Kim Yeo Myeong](https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP) | [Have You Ever](https://open.spotify.com/album/0gW2S1J50ucDsXbClgMqPl) | 3:16 | 2022-06-20 | 2022-07-09 |
 | [hey my love](https://open.spotify.com/track/1fTsLda2k2PHbJulJmiBiv) | [greener](https://open.spotify.com/artist/6WRFiRBH2m7RdV63sKxlzq) | [hey my love](https://open.spotify.com/album/1iO9rBXyLhEbNvsyK9jDXU) | 4:11 | 2022-06-20 | 2022-07-28 |
-| [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 | 2022-06-20 |  |
+| [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 | 2022-06-20 | 2023-01-10 |
 | [Hide and Seek 숨바꼭질](https://open.spotify.com/track/4U32fbHxP7cob8enxammI6) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 3:57 | 2022-06-20 | 2022-07-24 |
 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 | 2022-06-20 |  |
 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 | 2022-07-22 |  |
@@ -120,5 +120,6 @@
 | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/track/56cdOy3BkffwpENEg14leP) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/album/4Nx37N6XGK64vsy9Lgfhu8) | 4:07 | 2022-06-20 | 2022-07-28 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-18 |  |
 | [설명서 Guidebook](https://open.spotify.com/track/7gJoFABLxuCaR4Quf7N73a) | [Yoil](https://open.spotify.com/artist/7pBCd2Utn0stcoyugrAc2t) | [설명서 Guidebook](https://open.spotify.com/album/1d9tXvTXaG6ylDvoFIf2yL) | 3:49 | 2022-06-20 | 2022-06-29 |
+| [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 | 2022-09-05 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

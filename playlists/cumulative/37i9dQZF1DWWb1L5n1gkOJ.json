@@ -1723,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Sogno eterno",
+        "url": "https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Sogno eterno",
+      "url": "https://open.spotify.com/track/0th3A703YVssZCiPxdj07r"
+    },
+    {
+      "album": {
         "name": "Sona",
         "url": "https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu"
       },

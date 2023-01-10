@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 15087,
+  "num_followers": 15095,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDEzZmU3N2VhM2MyNDczMjAyMzkwYTM4OWIyOThhNDll",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDdjOGI0MjdjZWM1ZjM3Y2I1Mzc3YmMxMTc4MDYyYjkw",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -491,6 +491,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Arcade (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Arcade - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Tu Tu Tu (That's Why We) [Dubdogz & SUBB Remix]",
         "url": "https://open.spotify.com/album/4Vu4LBX4InGWNzpox8avBo"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 172741,
       "name": "Tu Tu Tu (That's Why We) - Dubdogz & SUBB Remix",
       "url": "https://open.spotify.com/track/2QL6BEpabXndvf3tSuTc4A"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Arcade (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/7asdrrGPiGUgv50OATAorX"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Arcade - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -623,6 +623,34 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "One By One (Remixes)",
+        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "One By One - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Last Time (Biscits Remix)",
         "url": "https://open.spotify.com/album/6LgHb9a6Dph8PJ7LP8tNJs"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 175119,
       "name": "Talamanca - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "One By One (Remixes)",
-        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "One By One - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1043,6 +1043,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Burning (Snakehips Remix)",
+        "url": "https://open.spotify.com/album/45vKAFdlF1uNhaaBrYwcK2"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Burning - Snakehips Remix",
+      "url": "https://open.spotify.com/track/1XRQW5C4WEr0mNc5ygZgAN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Scare Me (feat. KSHMR & Karra) [Chico Rose Remix]",
         "url": "https://open.spotify.com/album/0mCZ56iVnJ33wPxfRBPGcO"
       },
@@ -1071,30 +1095,6 @@
       "duration_ms": 142593,
       "name": "Scare Me (feat. KSHMR & Karra) - Chico Rose Remix",
       "url": "https://open.spotify.com/track/2bynw6Zc1Er7Zf9qm0ayDP"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Burning (Snakehips Remix)",
-        "url": "https://open.spotify.com/album/45vKAFdlF1uNhaaBrYwcK2"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Burning - Snakehips Remix",
-      "url": "https://open.spotify.com/track/1XRQW5C4WEr0mNc5ygZgAN"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Stars Align (The Remixes)",
-        "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
-      "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Way Too Long (feat. Anne-Marie & MoStack) [Clean Bandit Remix]",
         "url": "https://open.spotify.com/album/1vRHkXLF6mnJfuf7eiSqs0"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 158654,
       "name": "Way Too Long (feat. Anne-Marie & MoStack) [Clean Bandit Remix]",
       "url": "https://open.spotify.com/track/5PTsOdz21tg6lwzEXYEiY0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Stars Align (The Remixes)",
+        "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
+      "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Show Me Love (Sander van Doorn Remix)",
-        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Show Me Love - Sander van Doorn Remix",
-      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Nightlight (The Remixes, Vol. 2)",
         "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
       },
@@ -1607,6 +1583,30 @@
       "duration_ms": 188571,
       "name": "Nightlight - MOTi Remix",
       "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Show Me Love (Sander van Doorn Remix)",
+        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Show Me Love - Sander van Doorn Remix",
+      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1915,30 +1915,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -1959,6 +1935,30 @@
       "duration_ms": 207785,
       "name": "Watch Your Step (Picard Brothers Remix)",
       "url": "https://open.spotify.com/track/0FG75O6h2uy6Xjxe1fK63N"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",

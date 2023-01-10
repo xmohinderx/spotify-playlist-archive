@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-462 songs - 1 day 4 hr 44 min
+463 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Closer](https://open.spotify.com/track/2cuAZbYN7FdxXZ7nRFHVMJ) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/1aTPXL4h5bDOBlPR9xbETc) | 3:03 | 2022-01-27 | 2022-07-29 |
 | [Closer to You](https://open.spotify.com/track/3lKmH9D42U7Rqq6chJUUBh) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [Closer to You](https://open.spotify.com/album/3mtgBdwcmw86oVNQqxEp4f) | 3:25 | 2022-01-27 | 2022-07-29 |
 | [Closer To You](https://open.spotify.com/track/6B53kQ2sKg3D2b0IPIoNbN) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:25 | 2022-07-08 |  |
-| [Cold Hands](https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:17 | 2022-07-08 |  |
+| [Cold Hands](https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:17 | 2022-07-08 | 2023-01-10 |
 | [Cold Hands](https://open.spotify.com/track/7bjkb3nbnI14FJKxCU8wr5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Cold Hands](https://open.spotify.com/album/5r2pTRfwx1RyBGjQDA4rKT) | 3:17 | 2022-01-27 | 2022-07-29 |
 | [Cold Water](https://open.spotify.com/track/6j584js9MeeBIYfKMbOz98) | [Erik Nordblad](https://open.spotify.com/artist/3sAESWpfOhVARl2ZsZkmNh) | [Cold Water](https://open.spotify.com/album/4t2ifdJA2y4KNHI3zJP1pP) | 3:21 | 2022-01-27 | 2022-11-13 |
 | [Colors](https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Wood Fire](https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant) | 3:07 | 2022-06-10 |  |
@@ -276,6 +276,7 @@
 | [More Than Words](https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II: Pornograffitti \(Deluxe\)](https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r) | 5:34 | 2022-07-08 |  |
 | [More Than Words](https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 5:34 | 2022-01-27 | 2022-07-29 |
 | [Moving On](https://open.spotify.com/track/3QFCL0dqEzXFIWlqWiVDJU) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Coming Up for Air \(Expanded Edition\)](https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE) | 4:25 | 2022-08-11 |  |
+| [My All](https://open.spotify.com/track/35CoDqsVF0P2w8Lgir7wrs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [My All](https://open.spotify.com/album/4udtcIAttKDLjbwVdpRFbg) | 2:31 | 2023-01-10 |  |
 | [My Love](https://open.spotify.com/track/6l9fOwFZ2pZzGUAVnPM76l) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 4:04 | 2022-01-27 |  |
 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 | 2022-07-08 |  |
 | [My Love Is Your Love](https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw) | 4:21 | 2022-01-27 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Lana Del Rey
 
-1,139 songs - 2 day 12 hr 43 min
+1,140 songs - 2 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Cold](https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Cold](https://open.spotify.com/album/0j6cURTL2HYMxsNKdyJCM7) | 2:53 | 2020-04-26\* | 2020-07-24 |
 | [Cold Feet](https://open.spotify.com/track/0gpDp7GWxBOTt9Fhqdrxfn) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Cold Feet](https://open.spotify.com/album/15b5euyUrITCRDl4Du4M9y) | 3:14 | 2020-11-21 | 2021-01-15 |
 | [Colorado](https://open.spotify.com/track/41WtQo9j7WR72VuAgN0LNb) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [The Longest Year: Part One](https://open.spotify.com/album/386y4A9x4YzDEUODlsNix9) | 1:58 | 2020-09-25 | 2021-01-15 |
+| [Colorblind](https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Colorblind](https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK) | 2:35 | 2023-01-06 |  |
 | [Colors](https://open.spotify.com/track/54FLoJOBXpKe9fULTucRNh) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Colors](https://open.spotify.com/album/69Vsy8d9xTebQRt2i7z9qy) | 2:34 | 2021-10-09 | 2021-11-20 |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-04-29 | 2022-05-20 |
 | [Colours Of You \- Nick And Charlie Version](https://open.spotify.com/track/4WkcqpMX3f697pJqwRYbAQ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You \(Nick And Charlie Version\)](https://open.spotify.com/album/7nmEwM693CffFr1jMY1GXq) | 2:43 | 2022-05-20 | 2022-06-25 |
@@ -890,7 +891,7 @@
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-09-04 | 2022-11-12 |
 | [Situation](https://open.spotify.com/track/3bpiz3jxPzSBZQ1qw5hLuf) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Situation](https://open.spotify.com/album/3q7nwxrkrt1qG6ttTtcY8a) | 3:30 | 2021-04-17 | 2021-06-19 |
 | [Skinny Dipping](https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping](https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49) | 2:57 | 2021-09-11 | 2022-01-08 |
-| [Sky is the Limit](https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hello World](https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK) | 2:39 | 2022-09-09 |  |
+| [Sky is the Limit](https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hello World](https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK) | 2:39 | 2022-09-09 | 2023-01-10 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2021-12-24 | 2022-02-19 |
 | [Sleeping On The Phone](https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy](https://open.spotify.com/album/3mSrMuAvI7GNxaxhrTx4ry) | 3:09 | 2020-11-13 | 2021-02-06 |
 | [sleepwalking](https://open.spotify.com/track/4MUvToqpjVcQVcVD5snNnp) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [sleepwalking](https://open.spotify.com/album/1JYZ7VEh3i5TKTSQnA2zKa) | 3:35 | 2020-11-13 | 2021-01-15 |

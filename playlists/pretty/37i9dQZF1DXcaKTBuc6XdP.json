@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 3774,
+  "num_followers": 3789,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDUzYjg5NDZmM2FjYzcyZTgwYzQxOGM5M2Q0NjhkNWJm",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDc4YjVmYmQzZTQ0YWYzMGU5YTY4NWViY2UzY2QwODhk",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Ultimate Collection",
-        "url": "https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 317113,
-      "name": "Here I Am To Worship",
-      "url": "https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Ultimate Collection",
+        "url": "https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 317113,
+      "name": "Here I Am To Worship",
+      "url": "https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -399,38 +399,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Top 25 Praise Songs: 2005",
-        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Praise Band",
-          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Shine, Jesus Shine",
-      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -463,18 +431,34 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
       },
       "artists": [
         {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
         }
       ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Top 25 Praise Songs: 2005",
+        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Praise Band",
+          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Shine, Jesus Shine",
+      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -495,6 +479,42 @@
       "duration_ms": 229487,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Won't Let Me Down",
+      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -611,8 +631,8 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+        "name": "We Are Young & Free (Live)",
+        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
       },
       "artists": [
         {
@@ -624,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Love Won't Let Me Down",
-      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
+      "duration_ms": 227600,
+      "name": "Alive - Studio Version",
+      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -731,26 +751,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "We Are Young & Free (Live)",
-        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Alive - Studio Version",
-      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Ultimate Kids Worship",
-        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
-      },
-      "artists": [
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Nothing Is Impossible",
-      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 126333,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Ultimate Kids Worship",
+        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Nothing Is Impossible",
+      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
     },
     {
       "added_at": "2021-06-29 13:36:02",

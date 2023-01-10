@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 4821,
+  "num_followers": 4824,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0Njg5MywwMDAwMDAwMDk5NjI4MWRlMTZjYWE1NjVkMzlkY2MwODQzMGRkODM2",
+  "snapshot_id": "MTY3MjA0Njg5MywwMDAwMDAwMGNjZDE3YjM3ZTRkYWFhMjRiNjdkNjBhZWFhYjg4NWQ0",
   "tracks": [
     {
       "added_at": "2022-12-26 09:28:13",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -251,26 +251,6 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 213377,
-      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
-      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -287,22 +267,38 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "California Love",
-        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
       },
       "artists": [
         {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
-        },
-        {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         }
       ],
-      "duration_ms": 228066,
-      "name": "California Love (feat. JENO of NCT)",
-      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 213377,
+      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
+      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -327,18 +323,38 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+        "name": "California Love",
+        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "DONGHAE",
+          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
+        },
+        {
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
         }
       ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
+      "duration_ms": 228066,
+      "name": "California Love (feat. JENO of NCT)",
+      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "Space science",
-        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Space science",
-      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
+      },
+      "artists": [
+        {
+          "name": "YURA",
+          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
+        }
+      ],
+      "duration_ms": 233059,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
-      },
-      "artists": [
-        {
-          "name": "YURA",
-          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
-        }
-      ],
-      "duration_ms": 233059,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
         "name": "Not Beautiful (feat. Kenessi)",
         "url": "https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 253040,
       "name": "Not Beautiful (feat. Kenessi)",
       "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
-        "name": "Mondegreen",
-        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
-      },
-      "artists": [
-        {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
         "name": "Kangaroo",
         "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 225903,
       "name": "Kangaroo",
       "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Smile, Wait For The Flash",
+      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 201080,
       "name": "Sand",
       "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Smile, Wait For The Flash",
-      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-235 songs - 12 hr 56 min
+236 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-19 | 2022-02-02 |
 | [One Day](https://open.spotify.com/track/0y9PU8ICc8ubLDjQ1kEjSH) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 3:56 | 2021-11-19 | 2022-02-02 |
 | [Only Be Me](https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl) | 3:28 | 2022-02-01 |  |
+| [Only You](https://open.spotify.com/track/60uzexsEyISDzri9vDavIT) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Only You](https://open.spotify.com/album/3gyyIawbIKykMMi5QGBPMA) | 4:18 | 2022-12-02 |  |
 | [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2021-11-19 |  |
 | [Outta Here](https://open.spotify.com/track/2FAtvwUovZe4rx2xFgq19O) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Outta Here](https://open.spotify.com/album/45ftOGlHABO8dnOPjH9Q7s) | 4:00 | 2021-11-19 | 2022-02-02 |
 | [People I Know](https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [People I Know](https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS) | 3:36 | 2022-02-01 |  |
@@ -180,7 +181,7 @@
 | [q\-edits \#2](https://open.spotify.com/track/13YU8o2EdM9XZk8EU35YHQ) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [q\-edits \#2](https://open.spotify.com/album/1rqnd5Dw3Jf7cSJIzNbTF5) | 2:21 | 2021-11-19 | 2022-07-29 |
 | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc) | 3:45 | 2022-02-01 |  |
 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 | 2021-11-19 |  |
-| [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 | 2021-11-19 |  |
+| [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 | 2021-11-19 | 2023-01-10 |
 | [Redline](https://open.spotify.com/track/4aazAfFSKtI5XIlkauNyJC) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG) | [Redline](https://open.spotify.com/album/4CIMWIQasnF1cP3lUjpFt0) | 3:56 | 2021-11-19 | 2022-01-12 |
 | [REDloop](https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq) | 3:45 | 2022-05-11 |  |
 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 | 2022-02-01 |  |

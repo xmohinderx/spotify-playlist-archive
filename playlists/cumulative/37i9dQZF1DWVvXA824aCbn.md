@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-359 songs - 1 day 0 hr 0 min
+360 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2020-10-20\* | 2021-01-21 |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 |  |
 | [A Smile on Your Face](https://open.spotify.com/track/3Eq2oTBtcGjEBgMCpO9QWx) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [A Smile on Your Face](https://open.spotify.com/album/7EA2XJpF3Jy2LmqmRf6DNc) | 4:45 | 2022-02-15 | 2022-12-16 |
-| [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2020-10-20\* |  |
+| [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2020-10-20\* | 2023-01-10 |
 | [A Time for Love](https://open.spotify.com/track/2PxYJDohsBXaBLByHBITp5) | [Peter Rostov Trio](https://open.spotify.com/artist/6fbkQAxn9Df2sZWwuYQ820) | [A Portrait of Jennie](https://open.spotify.com/album/1UahARgInHkxb4fqm8455I) | 3:48 | 2020-10-20\* | 2020-11-18 |
 | [After You've Gone](https://open.spotify.com/track/1nCak4c8NFMJosxYkDZY2t) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:19 | 2020-10-20\* | 2022-09-16 |
 | [After You've Gone](https://open.spotify.com/track/1dtR7BTT8888rsckbuzwod) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [After You've Gone](https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i) | 3:04 | 2020-10-20\* | 2021-01-21 |
@@ -288,6 +288,7 @@
 | [Stars Fell On Alabama](https://open.spotify.com/track/6V9XxCoJ9Ujckla3A0aUYL) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Stars Fell On Alabama](https://open.spotify.com/album/1jJKCnldeVDpCo5p7DFXJp) | 4:04 | 2022-08-10 |  |
 | [Stella By Starlight](https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Figgy Mold](https://open.spotify.com/album/4p6Hg570bX3GCNL7mGGzWx) | 3:28 | 2022-08-30 | 2023-01-08 |
 | [Stella by Starlight](https://open.spotify.com/track/3vI6xOQVh0DPw0vDJLXQIJ) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Stella by Starlight](https://open.spotify.com/album/2JQaZBlmCm13PQAaRRTnCg) | 2:46 | 2020-10-20\* | 2021-01-21 |
+| [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2020-10-20\* | 2021-01-21 |
 | [Still Life](https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Still Life](https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w) | 3:06 | 2020-10-20\* | 2021-06-18 |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2020-10-20\* |  |

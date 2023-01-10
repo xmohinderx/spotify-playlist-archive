@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-132 songs - 7 hr 39 min
+134 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Fly Among Clouds](https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:18 | 2021-12-22 |  |
 | [Forward](https://open.spotify.com/track/6fy6hBtZMY8sAjG8ynqUbV) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Forward](https://open.spotify.com/album/7Hp3Glq4Aoy8ubBEXCQtlj) | 2:33 | 2021-12-22 |  |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2021-12-22 |  |
+| [Gemstone](https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Gemstone](https://open.spotify.com/album/0YonZJr6p64ujZmsEiUqjT) | 2:31 | 2023-01-09 |  |
 | [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 | 2022-01-14 |  |
 | [Healer](https://open.spotify.com/track/0s1wFa94M0alEVoQbaXQl3) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 2:55 | 2021-12-22 | 2022-03-30 |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-04-21 |  |
@@ -63,6 +64,7 @@
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2021-12-22 |  |
 | [Mystique Garden](https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Mystique Garden](https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL) | 3:08 | 2022-07-08 |  |
 | [Namaste](https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Namaste](https://open.spotify.com/album/2HBModmTCfZew2Z2UYxiQ9) | 2:57 | 2021-12-22 |  |
+| [Namaste Divine](https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Namaste Divine](https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP) | 4:04 | 2023-01-09 |  |
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2021-12-22 |  |
 | [On A Bed Of Peace](https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [On A Bed Of Peace](https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02) | 4:41 | 2022-03-29 |  |
 | [Opal Healing](https://open.spotify.com/track/1iqwffzgK59NVMpdv4kAYM) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Opal Healing](https://open.spotify.com/album/2hlrfHf4tZwaWLu7tVxjlE) | 2:58 | 2021-12-22 |  |

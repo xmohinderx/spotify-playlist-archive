@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Central Cee",
-  "num_followers": 3803,
+  "num_followers": 3830,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1OTE4MCwwMDAwMDAwMDIxZGM4YTkxMGFmZTU4MTY1M2IxYzU2ZDJiYmRhZDEw",
+  "snapshot_id": "MTY3MTM1OTE4MCwwMDAwMDAwMGQ4NTkxYjIyZjI2OWJkNWI0ZGQ2OTVhYTAzOTljZmM0",
   "tracks": [
     {
       "added_at": "2022-12-18 10:26:20",
@@ -211,30 +211,6 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 164041,
       "name": "Down In Atlanta",
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
     },
     {
       "added_at": "2022-11-25 07:37:57",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -397,26 +413,6 @@
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
       "added_at": "2022-12-02 00:00:00",
       "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
@@ -443,18 +439,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -573,6 +573,38 @@
       "url": "https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG"
     },
     {
+      "added_at": "2022-12-18 10:26:20",
+      "album": {
+        "name": "Another Nasty Song",
+        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 144313,
+      "name": "Another Nasty Song",
+      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Brown Roofs",
+        "url": "https://open.spotify.com/album/28hYCynTL2UeGSXBpXmZzz"
+      },
+      "artists": [
+        {
+          "name": "Tim Grey",
+          "url": "https://open.spotify.com/artist/1vxBfMX5C2kQPrWu7fhTt2"
+        }
+      ],
+      "duration_ms": 181472,
+      "name": "OMW (Feeling Great)",
+      "url": "https://open.spotify.com/track/5rqqWCei81XF0x5x3L1b9a"
+    },
+    {
       "added_at": "2022-08-26 09:32:14",
       "album": {
         "name": "GOD DID",
@@ -595,38 +627,6 @@
       "duration_ms": 223232,
       "name": "BEAUTIFUL (feat. Future & SZA)",
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Brown Roofs",
-        "url": "https://open.spotify.com/album/28hYCynTL2UeGSXBpXmZzz"
-      },
-      "artists": [
-        {
-          "name": "Tim Grey",
-          "url": "https://open.spotify.com/artist/1vxBfMX5C2kQPrWu7fhTt2"
-        }
-      ],
-      "duration_ms": 181472,
-      "name": "OMW (Feeling Great)",
-      "url": "https://open.spotify.com/track/5rqqWCei81XF0x5x3L1b9a"
-    },
-    {
-      "added_at": "2022-12-18 10:26:20",
-      "album": {
-        "name": "Another Nasty Song",
-        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 144313,
-      "name": "Another Nasty Song",
-      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
     },
     {
       "added_at": "2022-12-18 10:26:20",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG"
     },
     {
-      "added_at": "2022-09-23 05:37:19",
-      "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
-    },
-    {
       "added_at": "2022-10-07 06:00:22",
       "album": {
         "name": "Let\u2019s Go (feat. Aitch)",
@@ -695,6 +679,22 @@
       "duration_ms": 159031,
       "name": "Let\u2019s Go (feat. Aitch)",
       "url": "https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j"
+    },
+    {
+      "added_at": "2022-09-23 05:37:19",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
     },
     {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
       "added_at": "2022-08-05 07:53:58",
       "album": {
         "name": "In Da Car",
@@ -1157,28 +1141,36 @@
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
     },
     {
-      "added_at": "2022-08-05 07:55:20",
+      "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo"
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Mrs. Davis",
+        "url": "https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 237904,
+      "name": "Mrs. Davis",
+      "url": "https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0"
     }
   ],
   "unique_name": "Hype List",

@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-276 songs - 12 hr 56 min
+277 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chasing Cloud Nine](https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Chasing Cloud Nine](https://open.spotify.com/album/3EB3bjFZwEXfdMcMFM4eoK) | 2:42 | 2022-07-12 |  |
 | [Chasing Cloud Nine](https://open.spotify.com/track/6nUMS7cttlCUPvl0wfN3sQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/6Y3wbX1sgVdf2KAVJ0nPt7) | 2:42 | 2021-12-10 | 2022-07-29 |
 | [Chiudete Gli Occhi](https://open.spotify.com/track/1pFCkU2BQHr0mJIj05KXSD) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Chiudete gli occhi](https://open.spotify.com/album/1BHrWvwKscYtked2P5mFPt) | 3:52 | 2021-12-10 |  |
+| [Cielo](https://open.spotify.com/track/2iz8mLXZg0y2ObLkWBvJVE) | [Theo Adagio](https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K) | [Cielo](https://open.spotify.com/album/4Mc2ZJzVs7svcAa6K16PzR) | 2:33 | 2023-01-09 |  |
 | [Circadian](https://open.spotify.com/track/3bb6awuqz2ZJggqGtvPVYE) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:52 | 2021-12-10 |  |
 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 | 2021-12-10 |  |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-10 | 2022-08-13 |
@@ -236,7 +237,7 @@
 | [supine](https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [hopes](https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8) | 3:28 | 2021-12-10 |  |
 | [Surging Shapes](https://open.spotify.com/track/1CAk7eIlboHJ3FfmGeSzlV) | [Lea Ardella](https://open.spotify.com/artist/0I5BqWqbu0DEpAgepIodnm) | [Surging Shapes](https://open.spotify.com/album/28GVLis8M4eYoMCxbXTgis) | 2:54 | 2021-12-10 |  |
 | [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 1:57 | 2021-12-10 |  |
-| [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 | 2021-12-10 |  |
+| [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 | 2021-12-10 | 2023-01-10 |
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2021-12-10 | 2022-09-03 |
 | [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 | 2022-11-22 |  |
 | [The Departure](https://open.spotify.com/track/39SpltUyLzdXOFGAfGq94n) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [In This Moment](https://open.spotify.com/album/2befcUn0DLzERrsU0OgU68) | 2:42 | 2021-12-10 | 2022-07-29 |

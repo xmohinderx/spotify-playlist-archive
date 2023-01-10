@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 102015,
+  "num_followers": 102043,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM0NDU0NSwwMDAwMDAwMDlkZjM0MWRmYTA4NjdmYjRkNTU0YjlhZGI0YWFiMDMy",
+  "snapshot_id": "MTY3MjM0NDU0NSwwMDAwMDAwMGI0MGIzMWZkMTRiMDdjN2YwNWE0YmQ4MjRkOGFlODk1",
   "tracks": [
     {
       "added_at": "2022-12-14 17:46:22",
@@ -139,38 +139,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 203569,
-      "name": "idontwannabeyouanymore",
-      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -191,6 +159,38 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
         "name": "Fugaces",
         "url": "https://open.spotify.com/album/4isq34fm8aMAUncPjvBbCu"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 236333,
       "name": "Fugaces",
       "url": "https://open.spotify.com/track/46XD4N1fQHU04ikECTiefD"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 203569,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -235,22 +251,6 @@
       "duration_ms": 234080,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
+        "name": "Es Que Yo Te Quiero A Ti",
+        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 323625,
+      "name": "Es Que Yo Te Quiero A Ti",
+      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -303,6 +319,22 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Por Si Apareces",
+        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Por Si Apareces",
+      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -327,22 +359,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Por Si Apareces",
-        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 273506,
-      "name": "Por Si Apareces",
-      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Es Que Yo Te Quiero A Ti",
-        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 323625,
-      "name": "Es Que Yo Te Quiero A Ti",
-      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 240295,
       "name": "Ojos Noche",
       "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Toda Esta Ciudad",
+        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 320603,
+      "name": "Toda Esta Ciudad",
+      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Toda Esta Ciudad",
-        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 320603,
-      "name": "Toda Esta Ciudad",
-      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "Mundo De Dos",
         "url": "https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "La Segunda Luz del D\u00eda",
-        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
       "artists": [
         {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 199341,
-      "name": "Tristes Ojos",
-      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
+      "duration_ms": 244253,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -623,6 +607,22 @@
       "duration_ms": 190762,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "La Segunda Luz del D\u00eda",
+        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 199341,
+      "name": "Tristes Ojos",
+      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "nadie va a pensar en ti mejor que yo (En Vivo)",
-        "url": "https://open.spotify.com/album/4H1ntgZSzhZsYQxyLNrglM"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "nadie va a pensar en ti mejor que yo - En Vivo",
-      "url": "https://open.spotify.com/track/2czpzliEFyUYpeyPvYfgMO"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "los d\u00edas en la sala",
         "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
+        "name": "nadie va a pensar en ti mejor que yo (En Vivo)",
+        "url": "https://open.spotify.com/album/4H1ntgZSzhZsYQxyLNrglM"
       },
       "artists": [
         {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 220075,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
+      "duration_ms": 222413,
+      "name": "nadie va a pensar en ti mejor que yo - En Vivo",
+      "url": "https://open.spotify.com/track/2czpzliEFyUYpeyPvYfgMO"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -783,6 +767,22 @@
       "duration_ms": 162222,
       "name": "Nunca Estoy",
       "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 220075,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -851,22 +851,6 @@
       "duration_ms": 198720,
       "name": "culpa",
       "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "Devu\u00e9lvemelo",
-        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "Devu\u00e9lvemelo",
-      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -955,6 +939,22 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
+        "name": "Devu\u00e9lvemelo",
+        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Devu\u00e9lvemelo",
+      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
         "name": "guerrera",
         "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
       },
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
         "name": "Galerna",
         "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 228575,
       "name": "Vete Si Quieres",
       "url": "https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
-        "name": "Amor Insustancial",
-        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
-      },
-      "artists": [
-        {
-          "name": "Jordano",
-          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
-        }
-      ],
-      "duration_ms": 205450,
-      "name": "Se que te iras",
-      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
         "name": "cuatro veces 10",
         "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 178000,
       "name": "desamarte",
       "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
+        "name": "Amor Insustancial",
+        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
+      },
+      "artists": [
+        {
+          "name": "Jordano",
+          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Se que te iras",
+      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
     },
     {
       "added_at": "2022-12-14 17:46:22",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-12-14 17:46:22",
       "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2022-12-14 17:46:22",
+      "album": {
         "name": "El mejor de tus errores (feat. Alice Wonder)",
         "url": "https://open.spotify.com/album/6DUZuOW0k1ceSWMFisvMqZ"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 209683,
       "name": "El mejor de tus errores (feat. Alice Wonder)",
       "url": "https://open.spotify.com/track/2h5emEDptvBZZFeJ23a6G3"
-    },
-    {
-      "added_at": "2022-12-14 17:46:22",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2022-12-14 17:46:22",

@@ -4,17 +4,19 @@
 
 > Waktu Indonesia bagian mager dan dengar lagu\-lagu enak.
 
-52 songs - 3 hr 19 min
+55 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2022-12-14 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-12-14 | 2022-12-19 |
+| [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2023-01-10 |  |
 | [anything 4 u](https://open.spotify.com/track/20p998Iw1tqEeHHvnxZ1wx) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [anything 4 u](https://open.spotify.com/album/64K42F7vbZEIxKUZjz0bq5) | 3:23 | 2022-12-14 |  |
 | [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2022-12-14 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-12-14 |  |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2022-12-14 | 2022-12-19 |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-12-14 |  |
+| [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2023-01-09 |  |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2022-12-14 |  |
 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 | 2022-12-14 |  |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-12-14 |  |
@@ -43,14 +45,15 @@
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2022-12-14 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-12-14 |  |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2022-12-14 |  |
-| [Restless Love](https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Restless Love](https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl) | 3:50 | 2022-12-14 |  |
+| [Restless Love](https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Restless Love](https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl) | 3:50 | 2022-12-14 | 2023-01-10 |
 | [Ride](https://open.spotify.com/track/37HhnXqIRFSSJXWsysl6B7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:01 | 2022-12-14 |  |
-| [Rubik](https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Rubik](https://open.spotify.com/album/0C24r2d6TZhGGGqSwFjQcc) | 2:13 | 2022-12-14 |  |
+| [Rubik](https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Rubik](https://open.spotify.com/album/0C24r2d6TZhGGGqSwFjQcc) | 2:13 | 2022-12-14 | 2023-01-10 |
 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2022-12-14 |  |
 | [see you in jakarta?](https://open.spotify.com/track/3UL4guoCQEfrO0lb3v6wNv) | [Rama Davis](https://open.spotify.com/artist/3gJlTdWX9gXe9YFY3qju8L), [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [see you in jakarta?](https://open.spotify.com/album/2J5Rhcq4QOsozrxIuDo6ut) | 3:53 | 2022-12-14 |  |
+| [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 | 2023-01-09 |  |
 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 | 2022-12-14 |  |
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2022-12-14 |  |
-| [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-12-14 |  |
+| [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-12-14 | 2023-01-10 |
 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-12-14 |  |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2022-12-14 |  |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2022-12-14 |  |

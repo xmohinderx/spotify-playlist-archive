@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,818 likes - 371 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,122 likes - 371 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

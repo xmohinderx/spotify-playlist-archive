@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 111560,
+  "num_followers": 111700,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMGVmMzM1NmFkYzZjNGY5NmJlMjA4NzM1MzE3YWZiZTI4",
+  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMDc0MDAyMjRmYjBhMzJhZDM3MTIyMDNkYjZiYTE0ZDU2",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "love (Deluxe Edition)",
         "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
       },
@@ -127,18 +143,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+        "name": "Make this moment",
+        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Inger Marie Gundersen",
+          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
         }
       ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+      "duration_ms": 287613,
+      "name": "Will you still love me tomorrow",
+      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -155,22 +171,6 @@
       "duration_ms": 202640,
       "name": "Those Sweet Words",
       "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Make this moment",
-        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
-      },
-      "artists": [
-        {
-          "name": "Inger Marie Gundersen",
-          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
-        }
-      ],
-      "duration_ms": 287613,
-      "name": "Will you still love me tomorrow",
-      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Day Breaks",
-        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "And Then There Was You",
-      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Go Easy, Kid",
         "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
       },
@@ -339,30 +323,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Eternal Beauty",
-        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
+        "name": "Day Breaks",
+        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
       },
       "artists": [
         {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Johan Norberg",
-          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
-        },
-        {
-          "name": "Michael Wollny",
-          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
-        },
-        {
-          "name": "Rasmus Kihlberg",
-          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 171306,
-      "name": "Love of My Life",
-      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
+      "duration_ms": 185586,
+      "name": "And Then There Was You",
+      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -407,6 +379,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Heart First",
         "url": "https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo"
       },
@@ -423,18 +411,30 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Eternal Beauty",
+        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Johan Norberg",
+          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Rasmus Kihlberg",
+          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
         }
       ],
-      "duration_ms": 216453,
-      "name": "Just Like Chet",
-      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+      "duration_ms": 171306,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 330677,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Rachael & Vilray",
         "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Flores para Frida",
-        "url": "https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 163043,
-      "name": "You Belong To My Heart - Solamente una Vez",
-      "url": "https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5"
+      "duration_ms": 330677,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 288880,
       "name": "Steer Your Way (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Flores para Frida",
+        "url": "https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 163043,
+      "name": "You Belong To My Heart - Solamente una Vez",
+      "url": "https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Love Is In The Picture",
-        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 218142,
-      "name": "Love Is In The Picture",
-      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 196185,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Love Is In The Picture",
+        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Love Is In The Picture",
+      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 206004,
-      "name": "Don't Need The Real Thing",
-      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 200269,
       "name": "Smile",
       "url": "https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 206004,
+      "name": "Don't Need The Real Thing",
+      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Kyle Eastwood",
+          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
+        },
+        {
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
         }
       ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
+      "duration_ms": 276346,
+      "name": "Gran Torino",
+      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
       "artists": [
         {
-          "name": "Kyle Eastwood",
-          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
-        },
-        {
-          "name": "Hugh Coltman",
-          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 276346,
-      "name": "Gran Torino",
-      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "We Might As Well Dance",
+        "url": "https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 194309,
+      "name": "We Might As Well Dance",
+      "url": "https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Time to Love Again",
         "url": "https://open.spotify.com/album/5lFWqbLV5EG4qthImhlwV6"
       },
@@ -1195,38 +1211,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "We Might As Well Dance",
-        "url": "https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 194309,
-      "name": "We Might As Well Dance",
-      "url": "https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Endings Are Beginnings",
-      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 265760,
       "name": "A Voice",
       "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Endings Are Beginnings",
+      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "I Get Along Without You Very Well (Except Sometimes)",
+        "url": "https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7"
+      },
+      "artists": [
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        },
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "duration_ms": 192368,
+      "name": "I Get Along Without You Very Well (Except Sometimes)",
+      "url": "https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Take Me Off to Dreamland",
         "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 229682,
       "name": "Still Trying",
       "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "I Get Along Without You Very Well (Except Sometimes)",
-        "url": "https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7"
-      },
-      "artists": [
-        {
-          "name": "Jason LaPierre",
-          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
-        },
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        }
-      ],
-      "duration_ms": 192368,
-      "name": "I Get Along Without You Very Well (Except Sometimes)",
-      "url": "https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Alone With My Faith",
         "url": "https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 222720,
       "name": "Benevolent Man",
       "url": "https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 226240,
       "name": "A Happy Thought (feat. Stu Mindeman)",
       "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Sleepy Time",
+        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 158641,
+      "name": "Sleepy Time",
+      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Softly Loudly",
         "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
@@ -1687,38 +1703,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Sleepy Time",
-        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 158641,
-      "name": "Sleepy Time",
-      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Take Me To The Alley",
-        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Ain\u2019t Love a Beautiful Thing",
         "url": "https://open.spotify.com/album/6Nwq21fNDkW9jVaJB7zQ1Y"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 214360,
       "name": "All of These Things",
       "url": "https://open.spotify.com/track/3q6QI77XHbUqMjrHCQFrCP"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Take Me To The Alley",
+        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2ZloT7eCvBWrfqCCPQlgnh"
     },
     {
       "added_at": "2023-01-05 23:00:00",

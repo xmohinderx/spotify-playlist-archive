@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5832,
+  "num_followers": 5844,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0NjgyNywwMDAwMDAwMDU0ZWExMjMwYTBkNDYzMmQxZjE3NzdmMTk2OGI3ZTNi",
+  "snapshot_id": "MTY3MjA0NjgyNywwMDAwMDAwMDZhZGM5MTJhOTQ3M2YzZDcwZGNjYWZmOTVhZDFhMDNk",
   "tracks": [
     {
       "added_at": "2022-12-26 09:27:07",
@@ -135,6 +135,26 @@
     {
       "added_at": "2022-12-26 09:27:07",
       "album": {
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+    },
+    {
+      "added_at": "2022-12-26 09:27:07",
+      "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
       },
@@ -223,26 +243,6 @@
     {
       "added_at": "2022-12-26 09:27:07",
       "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
-    },
-    {
-      "added_at": "2022-12-26 09:27:07",
-      "album": {
         "name": "Sequence : 7272",
         "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 226560,
       "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
-    },
-    {
-      "added_at": "2022-12-26 09:27:07",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
       "added_at": "2022-12-26 09:27:07",
@@ -371,6 +355,22 @@
       "duration_ms": 216520,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
+    },
+    {
+      "added_at": "2022-12-26 09:27:07",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
       "added_at": "2022-12-26 09:27:07",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-12-26 09:27:07",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3"
-    },
-    {
-      "added_at": "2022-12-26 09:27:07",
-      "album": {
         "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
         "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "added_at": "2022-12-26 09:27:07",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3"
     },
     {
       "added_at": "2022-12-26 09:27:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-12-26 09:27:07",
       "album": {
-        "name": "Confession (Ditto X Chuu (LOONA))",
-        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
-      },
-      "artists": [
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Confession (Ditto X Chuu (LOONA))",
-      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
-    },
-    {
-      "added_at": "2022-12-26 09:27:07",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2022-12-26 09:27:07",
       "album": {
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "added_at": "2022-12-26 09:27:07",
+      "album": {
         "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
+    },
+    {
+      "added_at": "2022-12-26 09:27:07",
+      "album": {
+        "name": "NDGGA",
+        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "NDGGA",
+      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
     },
     {
       "added_at": "2022-12-26 09:27:07",
@@ -743,22 +759,6 @@
       "duration_ms": 192493,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
-    },
-    {
-      "added_at": "2022-12-26 09:27:07",
-      "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
     },
     {
       "added_at": "2022-12-26 09:27:07",

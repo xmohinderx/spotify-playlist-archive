@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38674,
+  "num_followers": 38679,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDUyYTU5MDI5MjA2YzJjNGUwMzM3NTk5Mzc2OTRhYWQ0",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDM2N2FhNTU5ZjBhNTU2MzUzODFiN2ExZmQxMWVhMGJh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -695,38 +695,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Us / When the Lights Go",
-        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
-      },
-      "artists": [
-        {
-          "name": "Tesen",
-          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
-        }
-      ],
-      "duration_ms": 271542,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Ultralight",
-        "url": "https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Ultralight",
-      "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -759,6 +727,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Us / When the Lights Go",
+        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
+      },
+      "artists": [
+        {
+          "name": "Tesen",
+          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
+        }
+      ],
+      "duration_ms": 271542,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Kickons",
-        "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Kickons",
-      "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "High Roller",
         "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
       },
@@ -859,6 +843,30 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Do It Like Me",
+        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Complex",
+          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204364,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Back To Normal",
         "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
       },
@@ -871,6 +879,22 @@
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -903,30 +927,6 @@
       "duration_ms": 327945,
       "name": "Void",
       "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Do It Like Me",
-        "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Complex",
-          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204364,
-      "name": "Do It Like Me",
-      "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -979,22 +979,6 @@
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1091,6 +1075,30 @@
       "duration_ms": 256180,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Hazard",
+        "url": "https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8"
+      },
+      "artists": [
+        {
+          "name": "JMullaUK",
+          "url": "https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
+        }
+      ],
+      "duration_ms": 248239,
+      "name": "Hazard",
+      "url": "https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z"
     }
   ],
   "unique_name": "Jump Up!",

@@ -362,7 +362,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 170666,
       "name": "Babe",
       "url": "https://open.spotify.com/track/6kwxjtKTRxI4wC6aCRtKdc"
@@ -4176,6 +4176,36 @@
       "duration_ms": 165000,
       "name": "WILLY",
       "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
+    },
+    {
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "\u00c1lcool e Seus Olhos Azuis",
+      "url": "https://open.spotify.com/track/71NJqTdB9bF2wfVEUzR9B1"
     },
     {
       "album": {

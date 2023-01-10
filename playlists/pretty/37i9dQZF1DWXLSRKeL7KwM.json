@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 297053,
+  "num_followers": 297417,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODQwMCwwMDAwMDAwMDEwZDQ1MDA4MGYyMGJiMjU2N2FiYThlOGQzMmJiMGM4",
+  "snapshot_id": "MTY1NTQzODQwMCwwMDAwMDAwMGNhNWIzOWNmNDNhZTczOTE1NTRlZGFhYmM0YzZmYjUz",
   "tracks": [
     {
       "added_at": "2022-06-17 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 228186,
       "name": "Would You Go With Me",
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "One Too Many",
-        "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "One Too Many",
-      "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 185906,
       "name": "How Country Feels",
       "url": "https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "One Too Many",
+        "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "One Too Many",
+      "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
-      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
+      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Freedom Was A Highway",
-      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 238493,
       "name": "Burning Man",
       "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Freedom Was A Highway",
+      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 335480,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
         }
       ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+      "duration_ms": 196760,
+      "name": "Here for the Party",
+      "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1463,18 +1479,22 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
       "artists": [
         {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 196760,
-      "name": "Here for the Party",
-      "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
+      "duration_ms": 223626,
+      "name": "Craving You",
+      "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 221573,
       "name": "Bottoms Up - Remix",
       "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Craving You",
-      "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Best Thing Since Backroads",
-        "url": "https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 187432,
-      "name": "Best Thing Since Backroads",
-      "url": "https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Stop Draggin' Your Boots",
         "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Wild Hearts",
-        "url": "https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y"
+        "name": "Best Thing Since Backroads",
+        "url": "https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 182930,
-      "name": "Wild Hearts",
-      "url": "https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx"
+      "duration_ms": 187432,
+      "name": "Best Thing Since Backroads",
+      "url": "https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
+        "name": "Wild Hearts",
+        "url": "https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 182930,
+      "name": "Wild Hearts",
+      "url": "https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Get Your Shine On",
-      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "From A Room: Volume 1",
         "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 176066,
       "name": "Second One To Know",
       "url": "https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Get Your Shine On",
+      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-06-17 04:00:00",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211767,
-      "name": "80s Mercedes",
-      "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
         "name": "Things That We Drink To",
         "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 213183,
       "name": "Kiss Somebody",
       "url": "https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 211767,
+      "name": "80s Mercedes",
+      "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
     },
     {
       "added_at": "2022-06-17 04:00:00",

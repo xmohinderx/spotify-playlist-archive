@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 498420,
+  "num_followers": 498775,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMGMwZTYwNzAwOTc2Yjc3ZWExZWVjYjg2YzhkYTE4ZGU1",
+  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMDRlOTBlMDA5Mzg4ZmZkNjFmNThhZGY3NDJmZTc0MWNm",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/0LATteOxdYq4vXTNZ97r77"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Lord I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Lord, I Hope This Day Is Good - Single Version",
-      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Lord I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Lord, I Hope This Day Is Good - Single Version",
+      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Dukes Of Hazzard",
-        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 126586,
-      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
-      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
+      "duration_ms": 148106,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Forrest Gump - The Soundtrack",
-        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+        "name": "The Dukes Of Hazzard",
+        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         }
       ],
-      "duration_ms": 148106,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+      "duration_ms": 126586,
+      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
+      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Roll On",
-        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Roll On (Eighteen Wheeler)",
-      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "I Am What I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+        "name": "Roll On",
+        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 189933,
-      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
-      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+      "duration_ms": 262626,
+      "name": "Roll On (Eighteen Wheeler)",
+      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1431,22 +1415,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
@@ -1459,6 +1427,38 @@
       "duration_ms": 222400,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
+      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
@@ -1747,6 +1763,38 @@
       "duration_ms": 216066,
       "name": "I'm No Stranger to the Rain",
       "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Top 10",
+        "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1783,22 +1831,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Top 10",
-        "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Milestones- Greatest Hits",
         "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
       },
@@ -1811,38 +1843,6 @@
       "duration_ms": 209466,
       "name": "Daddy's Hands",
       "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1891,22 +1891,6 @@
       "duration_ms": 258799,
       "name": "I'll Still Be Loving You",
       "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "35 Biggest Hits",
-        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Born To Boogie",
-      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1979,6 +1963,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "35 Biggest Hits",
+        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Born To Boogie",
+      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
       },
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "80s Ladies",
-        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
-      },
-      "artists": [
-        {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "80's Ladies",
-      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Still The Same Ole Me",
         "url": "https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 170733,
       "name": "Same Ole Me",
       "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "80s Ladies",
+        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
+      },
+      "artists": [
+        {
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "80's Ladies",
+      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Good Ole Boys Like Me - Single Version",
-      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Wheels",
         "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 180800,
       "name": "Why Does It Have to Be (Wrong or Right)",
       "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Good Ole Boys Like Me - Single Version",
+      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Smooth Sailin'",
-        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Do You Wanna Go To Heaven",
-      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Cheat the Night",
         "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 250120,
       "name": "Baby I Lied",
       "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Smooth Sailin'",
+        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Do You Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
     },
     {
       "added_at": "2022-07-25 21:36:54",

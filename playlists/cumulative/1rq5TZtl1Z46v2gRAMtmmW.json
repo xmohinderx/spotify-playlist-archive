@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 164071,
       "name": "Body Mind Hell",
       "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T"
       },
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 190812,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 320009,
       "name": "Troopa",
       "url": "https://open.spotify.com/track/0wrBjtMrRznJgK92WFsA7e"

@@ -1,63 +1,15 @@
 {
-  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Zaho de Sagazan",
-  "num_followers": 97771,
+  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Kerchak",
+  "num_followers": 97779,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGZiYjc2ODA5MjZiMjg3YjJkYzVhNDVjMzYzZmJmZmNl",
+  "snapshot_id": "MTY3MzI1MzA4OSwwMDAwMDAwMDg3NDYxMDE0Y2MwODA1NGU4NzZmMjgwNjJjNmE2MjBk",
   "tracks": [
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Les dormantes",
-        "url": "https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 198538,
-      "name": "Les dormantes",
-      "url": "https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "HLM en papier",
-        "url": "https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH"
-      },
-      "artists": [
-        {
-          "name": "The Doug",
-          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
-        }
-      ],
-      "duration_ms": 165920,
-      "name": "HLM en papier",
-      "url": "https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Vos regards",
-        "url": "https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz"
-      },
-      "artists": [
-        {
-          "name": "Olympe Chabert",
-          "url": "https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "Vos regards",
-      "url": "https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Tarzan",
         "url": "https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL"
@@ -73,7 +25,55 @@
       "url": "https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
+      "album": {
+        "name": "Vos regards",
+        "url": "https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz"
+      },
+      "artists": [
+        {
+          "name": "Olympe Chabert",
+          "url": "https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp"
+        }
+      ],
+      "duration_ms": 176813,
+      "name": "Vos regards",
+      "url": "https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ"
+    },
+    {
+      "added_at": "2023-01-09 08:31:29",
+      "album": {
+        "name": "HLM en papier",
+        "url": "https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "duration_ms": 165920,
+      "name": "HLM en papier",
+      "url": "https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV"
+    },
+    {
+      "added_at": "2023-01-09 08:31:29",
+      "album": {
+        "name": "Les dormantes",
+        "url": "https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 198538,
+      "name": "Les dormantes",
+      "url": "https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr"
+    },
+    {
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Immoral & Ill\u00e9gal",
         "url": "https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Hors Piste",
         "url": "https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Ados",
         "url": "https://open.spotify.com/album/2Og8w5f5fU4PEMH3GbNgZw"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/0gc9MiWqo0me326ecRzaPg"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Je suis fan",
         "url": "https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Jour avant caviar",
         "url": "https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "The Beast",
         "url": "https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "La fin de la nuit",
         "url": "https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Monstres",
         "url": "https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Pour la vie enti\u00e8re",
         "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/3Gp36IydZoAw6p1Lb9HvIS"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Reuts",
         "url": "https://open.spotify.com/album/795vZthVqnG9wdjAqXsMux"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/6nhd4cWEYapY5704NqOcOk"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "VOUS \u00caTES PAS CONTENTS ? TRIPL\u00c9 !",
         "url": "https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Toujours des fleurs (Version deluxe)",
         "url": "https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Une saison en enfance",
         "url": "https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "novembre",
         "url": "https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Si bien du mal",
         "url": "https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "C'est bon",
         "url": "https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Parlons de nous",
         "url": "https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "AERON SIT",
         "url": "https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Wingu",
         "url": "https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "L'\u00c9lu",
         "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Ronisia",
         "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-09 08:31:29",
       "album": {
         "name": "Rue des Pervenches",
         "url": "https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5"

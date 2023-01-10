@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 101787,
+  "num_followers": 101849,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDMyYTJlMDc5Y2UxZTBiNThlMzM0MWJiNjkzNDE2MDRm",
+  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDcwZTEzYzg0MDZjNmNjZTE4ZTgyNDUxYjQzMDVhMmI4",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -643,6 +643,26 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
+      "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 133106,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
       "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Keyboard Suites, Vol. 1",
-        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
-      "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1151,6 +1151,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Christina Wieland",
+          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
+      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Gideon (Compiled and Arr. by J. C. Smith)",
         "url": "https://open.spotify.com/album/6NTBjimjmNneq3aobriEPI"
       },
@@ -1203,34 +1231,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Peaceful Handel",
-        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Christina Wieland",
-          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
-        },
-        {
-          "name": "Frankfurt Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
-        },
-        {
-          "name": "Joachim Carlos Martini",
-          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
-      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water & Fireworks Music",
         "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
       },
@@ -1251,30 +1251,6 @@
       "duration_ms": 60480,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
       "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Baroque Masterpieces",
-        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
-      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1303,6 +1279,30 @@
       "duration_ms": 134800,
       "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
       "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Baroque Masterpieces",
+        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
+      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
     },
     {
       "added_at": "2022-06-28 08:56:25",

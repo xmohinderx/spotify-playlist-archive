@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1821653,
+  "num_followers": 1822978,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDlmMTU4YzQxYzViMmM1ZTA2ZmYzZjc5YmMxZmY4OWNl",
+  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDNkNTRlNjU3ODQ5ZmI4M2U0MmYxODgzMWE3YzhiYzNj",
   "tracks": [
     {
       "added_at": "2022-11-07 14:53:17",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-11-07 14:53:17",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2022-11-07 14:53:17",
-      "album": {
         "name": "Marlboro Nights",
         "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 68522,
       "name": "Marlboro Nights",
       "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
+    },
+    {
+      "added_at": "2022-11-07 14:53:17",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2022-11-07 14:53:17",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-11-07 14:53:17",
       "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 126120,
+      "name": "Ghostride",
+      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
+    },
+    {
+      "added_at": "2022-11-07 14:53:17",
+      "album": {
         "name": "help herself",
         "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
       },
@@ -967,38 +983,6 @@
       "duration_ms": 188571,
       "name": "help herself",
       "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
-    },
-    {
-      "added_at": "2022-11-07 14:53:17",
-      "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 126120,
-      "name": "Ghostride",
-      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
-    },
-    {
-      "added_at": "2022-12-07 20:32:25",
-      "album": {
-        "name": "Pebble Brain",
-        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 207009,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
     },
     {
       "added_at": "2022-11-07 14:53:17",
@@ -1031,6 +1015,22 @@
       "duration_ms": 187320,
       "name": "All I Think About Now",
       "url": "https://open.spotify.com/track/3NfqN997u9A3YAAafgzhIa"
+    },
+    {
+      "added_at": "2022-12-07 20:32:25",
+      "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 207009,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
     },
     {
       "added_at": "2022-11-07 14:53:17",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-07 14:53:17",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Astrovan",
-      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
-    },
-    {
-      "added_at": "2022-11-07 14:53:17",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 188306,
       "name": "Crash My Car",
       "url": "https://open.spotify.com/track/5SN3mwuodiwY3jPejBuUD5"
+    },
+    {
+      "added_at": "2022-11-07 14:53:17",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Astrovan",
+      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
     },
     {
       "added_at": "2022-11-07 14:53:17",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-11-07 14:53:17",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2022-11-07 14:53:17",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
+    },
+    {
+      "added_at": "2022-11-07 14:53:17",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2022-11-07 14:53:17",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-11-07 14:53:17",
       "album": {
-        "name": "Bad Dream Baby",
-        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 178150,
-      "name": "Bad Dream Baby",
-      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
-    },
-    {
-      "added_at": "2022-11-07 14:53:17",
-      "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
         "url": "https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
+    },
+    {
+      "added_at": "2022-11-07 14:53:17",
+      "album": {
+        "name": "Bad Dream Baby",
+        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 178150,
+      "name": "Bad Dream Baby",
+      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
     },
     {
       "added_at": "2022-11-07 14:53:17",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-11-07 14:53:17",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
-    },
-    {
-      "added_at": "2022-11-07 14:53:17",
-      "album": {
         "name": "Tell It to the Volcano",
         "url": "https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 158653,
       "name": "Like or Like Like",
       "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
+    },
+    {
+      "added_at": "2022-11-07 14:53:17",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2022-11-07 14:53:17",

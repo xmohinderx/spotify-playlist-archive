@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-312 songs - 16 hr 8 min
+313 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 | 2022-05-25 |  |
 | [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 | 2022-09-30 |  |
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-05-25 |  |
+| [Slowdown](https://open.spotify.com/track/3nTFwQs9Oxz1KEtZn0Q7AK) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Slowdown](https://open.spotify.com/album/79Xcn04N8Ngs5vfkKCuTYa) | 2:39 | 2023-01-09 |  |
 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2022-05-25 | 2022-09-28 |
 | [Smyrna](https://open.spotify.com/track/3Gyss6Qzd4cHxfxciKAPc7) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0imOiiDynHggx316VKVNuN) | 3:18 | 2022-05-25 | 2022-06-25 |
 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-23 |  |
@@ -301,7 +302,7 @@
 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2022-07-15 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-05-25 |  |
 | [Vast Surroundings](https://open.spotify.com/track/6xCgUaot7EEpxQRGtW7S0O) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:13 | 2022-05-25 |  |
-| [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-09-30 |  |
+| [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-09-30 | 2023-01-10 |
 | [Visions of Sleep and Beyond](https://open.spotify.com/track/3TT0S61x8x2IFUn8lnqjq9) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Visions of Sleep and Beyond](https://open.spotify.com/album/3kCPg1GdYtz8ZdD3NILoTr) | 3:01 | 2022-05-25 | 2022-09-28 |
 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 | 2022-05-25 | 2022-09-28 |
 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 | 2022-12-02 |  |

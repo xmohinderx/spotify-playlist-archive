@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,291 likes - 256 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,517 likes - 256 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,19 +22,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 12 | [Hills](https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l) | 2:33 |
 | 13 | [Virtuous](https://open.spotify.com/track/7LXscZffE8LUyJ4tn43RZa) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 3:39 |
 | 14 | [Enough](https://open.spotify.com/track/11UZcELqU0dAiNLD3MboDh) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Enough](https://open.spotify.com/album/54INztVhPtcP07CYx9dwfo) | 2:05 |
-| 15 | [milagro](https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [milagro](https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC) | 3:02 |
-| 16 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 |
-| 17 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 |
-| 18 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 |
-| 19 | [Kvällshimmel](https://open.spotify.com/track/06dcHFDNhqqAscjqqRXBl5) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Kvällshimmel](https://open.spotify.com/album/0sCrKU7wZaIochmHFeqDXU) | 4:18 |
-| 20 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 |
-| 21 | [Tomorrow](https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Tomorrow](https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu) | 2:48 |
-| 22 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 |
-| 23 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 |
-| 24 | [I din nærhet](https://open.spotify.com/track/04QbFy5NlBOJVvQEGlRwsm) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [I din nærhet](https://open.spotify.com/album/4LVIubO2hb2qzRGQHA8R2G) | 2:59 |
-| 25 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 |
-| 26 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
-| 27 | [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 |
+| 15 | [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 |
+| 16 | [milagro](https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [milagro](https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC) | 3:02 |
+| 17 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 |
+| 18 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 |
+| 19 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 |
+| 20 | [Kvällshimmel](https://open.spotify.com/track/06dcHFDNhqqAscjqqRXBl5) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Kvällshimmel](https://open.spotify.com/album/0sCrKU7wZaIochmHFeqDXU) | 4:18 |
+| 21 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 |
+| 22 | [Tomorrow](https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Tomorrow](https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu) | 2:48 |
+| 23 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 |
+| 24 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 |
+| 25 | [I din nærhet](https://open.spotify.com/track/04QbFy5NlBOJVvQEGlRwsm) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [I din nærhet](https://open.spotify.com/album/4LVIubO2hb2qzRGQHA8R2G) | 2:59 |
+| 26 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 |
+| 27 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
 | 28 | [Uendelig](https://open.spotify.com/track/2rSORoj8GOo8vB8Iz2zsSA) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Uendelig](https://open.spotify.com/album/1kluJqHK35vXAraoKM3TM4) | 2:27 |
 | 29 | [Invicta](https://open.spotify.com/track/6dp53x1hi7iUSHsBI8oPMz) | [Ella Wass](https://open.spotify.com/artist/3eZTGNMGlHLHDZ5tSMsM2K) | [Somnium](https://open.spotify.com/album/5aty9Xj6OISEIv5Tn6Ik14) | 4:09 |
 | 30 | [Forgiveness](https://open.spotify.com/track/4JpT0U9BGC5uZtMcSaBUwH) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Forgiveness](https://open.spotify.com/album/2Ucc7Uxkez3QmKEMNqiw1K) | 2:49 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 255 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 |
 | 256 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 
-Snapshot ID: `MTY3MzAyNjI5NiwwMDAwMDAwMDQ0ZTExNjVjMWI1YmRmMjFmNjM1YzdjNTdlZWE2MjVh`
+Snapshot ID: `MTY3MzI5MzI3MCwwMDAwMDAwMGNiZjY0MzM5ZDgxYmM1MDJlZTMxYzliN2VkMjdhZjE3`

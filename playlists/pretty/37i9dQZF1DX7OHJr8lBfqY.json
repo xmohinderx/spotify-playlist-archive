@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 24541,
+  "num_followers": 24567,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGY3M2U3ZjE3N2I1MDQ4NGY3YjkyODZkZjdiNTA5N2Qw",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDliZTgzODYzZjlmMmQzOTZlOGMxMWY4NGNlYjM3ODJm",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -167,30 +167,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
@@ -223,6 +199,30 @@
       "duration_ms": 315293,
       "name": "Sali\u00f3 El Sol",
       "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 231603,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
@@ -783,38 +799,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Loco (Remix)",
         "url": "https://open.spotify.com/album/17UNdqbdbTyTz6JdO0T0Gb"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 248499,
       "name": "Loco - Remix",
       "url": "https://open.spotify.com/track/6nGM44ZP7vSo0istUW2MOq"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -879,6 +879,26 @@
       "duration_ms": 280916,
       "name": "Dividimos (Bachata Version)",
       "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -951,42 +971,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "Un Amor Eterno",
-      "url": "https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "Un Amor Eterno",
+      "url": "https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Libertad 548",
-        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Cantare",
-      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Imaginarme Sin Ti",
         "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
       },
@@ -1303,6 +1283,50 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Libertad 548",
+        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Cantare",
+      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "C\u00e1ntalo",
+        "url": "https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 218996,
+      "name": "C\u00e1ntalo",
+      "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -1335,30 +1359,6 @@
       "duration_ms": 227906,
       "name": "Loma de Cayenas",
       "url": "https://open.spotify.com/track/2gT8OWcAgPg0yawg1qw4Nv"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "C\u00e1ntalo",
-        "url": "https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 218996,
-      "name": "C\u00e1ntalo",
-      "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 173231,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Arrebata",
         "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 175174,
       "name": "Arrebata",
       "url": "https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 173231,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1627,6 +1627,26 @@
       "duration_ms": 219106,
       "name": "La Plata (Los \u00c1ngeles Azules Remix) (Feat. Los \u00c1ngeles Azules, Lalo Ebratt)",
       "url": "https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1687,26 +1707,6 @@
       "duration_ms": 204288,
       "name": "Sin Pijama - Kumbia Remix",
       "url": "https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "25/7",
-        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
-      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cobarde",
-        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Y Que\u0301 Paso\u0301?",
         "url": "https://open.spotify.com/album/05ZSFYsMffZur7XPbJNMCM"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 221559,
       "name": "Y Qu\u00e9 Pas\u00f3?",
       "url": "https://open.spotify.com/track/4BpOF7fEKoGStuMvqgia7R"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Cobarde",
+        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
     },
     {
       "added_at": "2022-08-31 07:37:37",

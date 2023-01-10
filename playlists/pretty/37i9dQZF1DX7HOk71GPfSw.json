@@ -1,33 +1,13 @@
 {
   "description": "ft. 100 gecs ",
-  "num_followers": 359768,
+  "num_followers": 359980,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAwODY4MCwwMDAwMDAwMDFmYzY3NDI5M2Q4ZjhiOTcwNWZhNmRmNWMyZGYzMDUy",
+  "snapshot_id": "MTY3MzI3Nzg1NSwwMDAwMDAwMGYzMTJmMWM0NmIxMWI2MGJhNDExZmI1Mjc0MGRkZGQ1",
   "tracks": [
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Snake Eyes",
-        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Torture Me (feat. Skrillex)",
-      "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
-    },
     {
       "added_at": "2023-01-05 15:16:45",
       "album": {
@@ -85,40 +65,24 @@
       "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
     },
     {
-      "added_at": "2023-01-06 12:38:00",
-      "album": {
-        "name": "me & me out of sync",
-        "url": "https://open.spotify.com/album/31k56HacbFRTJqrcJshzC1"
-      },
-      "artists": [
-        {
-          "name": "inuday",
-          "url": "https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "me & me out of sync",
-      "url": "https://open.spotify.com/track/5w7Ndx2cXYxsqjDxWVhCiL"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "So Clear (umru corrosion)",
-        "url": "https://open.spotify.com/album/7CzoR9iVhJDAOsYyN1sXpz"
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
       },
       "artists": [
         {
-          "name": "Hyd",
-          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         },
         {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 180740,
-      "name": "So Clear (umru corrosion)",
-      "url": "https://open.spotify.com/track/6eE2XyXIvINbBfu4zaILUX"
+      "duration_ms": 113493,
+      "name": "Torture Me (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -155,6 +119,110 @@
       "duration_ms": 133280,
       "name": "Motorola",
       "url": "https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO"
+    },
+    {
+      "added_at": "2023-01-06 12:38:00",
+      "album": {
+        "name": "me & me out of sync",
+        "url": "https://open.spotify.com/album/31k56HacbFRTJqrcJshzC1"
+      },
+      "artists": [
+        {
+          "name": "inuday",
+          "url": "https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "me & me out of sync",
+      "url": "https://open.spotify.com/track/5w7Ndx2cXYxsqjDxWVhCiL"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "So Clear (umru corrosion)",
+        "url": "https://open.spotify.com/album/7CzoR9iVhJDAOsYyN1sXpz"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "So Clear (umru corrosion)",
+      "url": "https://open.spotify.com/track/6eE2XyXIvINbBfu4zaILUX"
+    },
+    {
+      "added_at": "2022-12-16 05:26:00",
+      "album": {
+        "name": "majorette",
+        "url": "https://open.spotify.com/album/5R2iszfO4zbVrbjkTqN7Ap"
+      },
+      "artists": [
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        },
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        }
+      ],
+      "duration_ms": 188187,
+      "name": "for you",
+      "url": "https://open.spotify.com/track/3G1ng26EFxXcpdNoEneKMF"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Cdbaby<3 (underscores remix)",
+        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 133305,
+      "name": "Cdbaby<3 - underscores remix",
+      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "sex symbol",
+        "url": "https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 178615,
+      "name": "sex symbol",
+      "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
+    },
+    {
+      "added_at": "2023-01-06 12:38:00",
+      "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/05dMayZSFvTtR3vwHeqZCj"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/2v3yISHLk0QNStai26hvkw"
     },
     {
       "added_at": "2023-01-06 12:38:00",
@@ -203,42 +271,6 @@
       "duration_ms": 138082,
       "name": "Just Another Day - Petal Supply Remix",
       "url": "https://open.spotify.com/track/40DhYNOtlg5vro3eXfp54V"
-    },
-    {
-      "added_at": "2022-12-16 05:26:00",
-      "album": {
-        "name": "majorette",
-        "url": "https://open.spotify.com/album/5R2iszfO4zbVrbjkTqN7Ap"
-      },
-      "artists": [
-        {
-          "name": "angelus",
-          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
-        },
-        {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
-        }
-      ],
-      "duration_ms": 188187,
-      "name": "for you",
-      "url": "https://open.spotify.com/track/3G1ng26EFxXcpdNoEneKMF"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Cdbaby<3 (underscores remix)",
-        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Cdbaby<3 - underscores remix",
-      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
     },
     {
       "added_at": "2023-01-06 12:38:00",
@@ -303,38 +335,6 @@
       "duration_ms": 130615,
       "name": "FruitNinja.ipa",
       "url": "https://open.spotify.com/track/0Ukv1JUvVApUcleaxS8xvb"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "sex symbol",
-        "url": "https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 178615,
-      "name": "sex symbol",
-      "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
-    },
-    {
-      "added_at": "2023-01-06 12:38:00",
-      "album": {
-        "name": "homesick",
-        "url": "https://open.spotify.com/album/05dMayZSFvTtR3vwHeqZCj"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "homesick",
-      "url": "https://open.spotify.com/track/2v3yISHLk0QNStai26hvkw"
     },
     {
       "added_at": "2022-11-25 05:02:00",
@@ -459,6 +459,22 @@
       "duration_ms": 214458,
       "name": "Tommy's Dream - PVA Remix",
       "url": "https://open.spotify.com/track/6Vwgdkgeo1uj51nSKLg76h"
+    },
+    {
+      "added_at": "2022-09-23 07:48:00",
+      "album": {
+        "name": "MAKE U 3 ME",
+        "url": "https://open.spotify.com/album/6Ik7T8xdpPqZvcI0g74a2h"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 182089,
+      "name": "MAKE U 3 ME",
+      "url": "https://open.spotify.com/track/49IOKR62Do5CItTkB7sB4c"
     },
     {
       "added_at": "2022-12-13 19:25:52",
@@ -1641,26 +1657,6 @@
       "url": "https://open.spotify.com/track/0TijK5hnCSLGeK4Vaeic1d"
     },
     {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "Killer in Neverland",
-        "url": "https://open.spotify.com/album/6vOSP7R3SEdTMgZm90GunD"
-      },
-      "artists": [
-        {
-          "name": "4s4ki",
-          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
-        },
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "ring ring, you kill me",
-      "url": "https://open.spotify.com/track/7BDzU8Dcit2KqznktWxDHb"
-    },
-    {
       "added_at": "2022-11-08 15:36:55",
       "album": {
         "name": "foolish",
@@ -1707,22 +1703,6 @@
       "duration_ms": 198661,
       "name": "Falling Away",
       "url": "https://open.spotify.com/track/0gCrdYaM9SOjF4HCNEHQPx"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "what i needed",
-        "url": "https://open.spotify.com/album/2GyV2OBCCdIOR2bjv8RXwY"
-      },
-      "artists": [
-        {
-          "name": "threedimensionsapart",
-          "url": "https://open.spotify.com/artist/70NihY4U5ZPHsbgeD1EJoE"
-        }
-      ],
-      "duration_ms": 126325,
-      "name": "what i needed",
-      "url": "https://open.spotify.com/track/1xZPyee92VWEgV3S4t1CsK"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -1875,38 +1855,6 @@
     {
       "added_at": "2022-09-23 07:48:00",
       "album": {
-        "name": "Hot Girl (Bodies Bodies Bodies)",
-        "url": "https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157078,
-      "name": "Hot Girl (Bodies Bodies Bodies)",
-      "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "MAKE U 3 ME",
-        "url": "https://open.spotify.com/album/6Ik7T8xdpPqZvcI0g74a2h"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 182089,
-      "name": "MAKE U 3 ME",
-      "url": "https://open.spotify.com/track/49IOKR62Do5CItTkB7sB4c"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
         "name": "Bury It (Alice Longyu Gao Remix)",
         "url": "https://open.spotify.com/album/180xOHbxZqHlCOVl0IBQRX"
       },
@@ -2005,22 +1953,6 @@
       "url": "https://open.spotify.com/track/3ZSjiVsGwPqhUV9ZmZ14kl"
     },
     {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "bugfood",
-        "url": "https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r"
-      },
-      "artists": [
-        {
-          "name": "Alissic",
-          "url": "https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "bugfood",
-      "url": "https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY"
-    },
-    {
       "added_at": "2022-09-30 04:05:00",
       "album": {
         "name": "Wyoming",
@@ -2037,22 +1969,6 @@
       "url": "https://open.spotify.com/track/6xaTMOrUsaTl96eGYZh6fB"
     },
     {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "veins",
-        "url": "https://open.spotify.com/album/2RMupCS5u3dxfhV1OaxCI9"
-      },
-      "artists": [
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "veins",
-      "url": "https://open.spotify.com/track/4VpfWYX22H2B27glBf4t19"
-    },
-    {
       "added_at": "2022-09-30 04:05:00",
       "album": {
         "name": "dontcallmyname",
@@ -2067,22 +1983,6 @@
       "duration_ms": 135510,
       "name": "dontcallmyname",
       "url": "https://open.spotify.com/track/3BPWbsAsptVzQWvg9mo1S5"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/6ePn0iOHrkvAhtMzLxeIQL"
-      },
-      "artists": [
-        {
-          "name": "Tony Velour",
-          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
-        }
-      ],
-      "duration_ms": 96880,
-      "name": "AGNES KRUEL",
-      "url": "https://open.spotify.com/track/4UzgDdX1pcbUYisiqSaIEF"
     }
   ],
   "unique_name": "hyperpop",

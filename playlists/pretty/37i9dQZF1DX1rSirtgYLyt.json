@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 17304,
+  "num_followers": 17389,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyOTM5NCwwMDAwMDAwMGFmMTY3NWFjOWFhYjhhZGY4ZjUwOTE1MGMxZWU4MzI0",
+  "snapshot_id": "MTY3MzAyOTM5NCwwMDAwMDAwMDQ2MTBhYTBlYmZmMGZhYmIyNDIzMWM5MjYyZjNjYzE1",
   "tracks": [
     {
       "added_at": "2023-01-06 18:22:48",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 408466,
       "name": "Stop!",
       "url": "https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Hot Tuna",
-        "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
-      },
-      "artists": [
-        {
-          "name": "Hot Tuna",
-          "url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7"
-        }
-      ],
-      "duration_ms": 306866,
-      "name": "Hesitation Blues - Live",
-      "url": "https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 357000,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
+        "name": "Hot Tuna",
+        "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
+      },
+      "artists": [
+        {
+          "name": "Hot Tuna",
+          "url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7"
+        }
+      ],
+      "duration_ms": 306866,
+      "name": "Hesitation Blues - Live",
+      "url": "https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Burgers",
-        "url": "https://open.spotify.com/album/0NWwuGPSfuj9H0OMUDikws"
-      },
-      "artists": [
-        {
-          "name": "Hot Tuna",
-          "url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "99 Year Blues",
-      "url": "https://open.spotify.com/track/7GQZYw55Juuq3tntjZJzZt"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "L.A. Blues Authority Vol. Iv: Fit for a King",
-        "url": "https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w"
+        "name": "Burgers",
+        "url": "https://open.spotify.com/album/0NWwuGPSfuj9H0OMUDikws"
       },
       "artists": [
         {
-          "name": "Frank Marino",
-          "url": "https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT"
+          "name": "Hot Tuna",
+          "url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7"
         }
       ],
-      "duration_ms": 330266,
-      "name": "I'll Play the Blues for You",
-      "url": "https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao"
+      "duration_ms": 239106,
+      "name": "99 Year Blues",
+      "url": "https://open.spotify.com/track/7GQZYw55Juuq3tntjZJzZt"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -767,6 +751,22 @@
       "duration_ms": 290000,
       "name": "Beast of Burden",
       "url": "https://open.spotify.com/track/3MW8e0Lh1d53pVY3Tnd8ac"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
+        "name": "L.A. Blues Authority Vol. Iv: Fit for a King",
+        "url": "https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w"
+      },
+      "artists": [
+        {
+          "name": "Frank Marino",
+          "url": "https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "I'll Play the Blues for You",
+      "url": "https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 348653,
       "name": "Give Me One Reason",
       "url": "https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Greatest Blues Covers",
-        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Stormy Monday Blues",
-      "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
         "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
         "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 229869,
       "name": "Stop Messin\u2019 Round (Live)",
       "url": "https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
+        "name": "Greatest Blues Covers",
+        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Stormy Monday Blues",
+      "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Keepin' Outta Trouble: A Tribute To Bukka White",
-        "url": "https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA"
+        "name": "Azules",
+        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
       },
       "artists": [
         {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+          "name": "Louise Phelan",
+          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
+        },
+        {
+          "name": "Octavio Herrero",
+          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
         }
       ],
-      "duration_ms": 322093,
-      "name": "Fixin' To Die Blues",
-      "url": "https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd"
+      "duration_ms": 247500,
+      "name": "I'm a Woman",
+      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1171,6 +1175,22 @@
       "duration_ms": 354760,
       "name": "Still Got the Blues",
       "url": "https://open.spotify.com/track/4foKEzs442JODnkwNRro1R"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
+        "name": "Keepin' Outta Trouble: A Tribute To Bukka White",
+        "url": "https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA"
+      },
+      "artists": [
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Fixin' To Die Blues",
+      "url": "https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1227,22 +1247,18 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Azules",
-        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
+        "name": "Green Manalishi (With the Two Prong Crown)",
+        "url": "https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8"
       },
       "artists": [
         {
-          "name": "Louise Phelan",
-          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
-        },
-        {
-          "name": "Octavio Herrero",
-          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
+          "name": "LORE",
+          "url": "https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2"
         }
       ],
-      "duration_ms": 247500,
-      "name": "I'm a Woman",
-      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
+      "duration_ms": 348906,
+      "name": "Green Manalishi (With the Two Prong Crown)",
+      "url": "https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1259,22 +1275,6 @@
       "duration_ms": 347066,
       "name": "Come Back Baby",
       "url": "https://open.spotify.com/track/6zN2SuJaXhGJYXhb77xPVO"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
-        "name": "Green Manalishi (With the Two Prong Crown)",
-        "url": "https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8"
-      },
-      "artists": [
-        {
-          "name": "LORE",
-          "url": "https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2"
-        }
-      ],
-      "duration_ms": 348906,
-      "name": "Green Manalishi (With the Two Prong Crown)",
-      "url": "https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw"
     },
     {
       "added_at": "2023-01-06 18:22:48",

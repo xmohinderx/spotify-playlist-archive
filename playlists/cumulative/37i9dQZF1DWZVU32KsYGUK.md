@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-296 songs - 12 hr 47 min
+298 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2022-04-27 |  |
 | [Bibliothèque](https://open.spotify.com/track/02q15OnIA9bH90KYqbyBvI) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Bibliothèque](https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530) | 2:54 | 2022-05-04 |  |
 | [Bisous](https://open.spotify.com/track/7JbggX922kddEmCuDiPWP2) | [Pauline Blanchet](https://open.spotify.com/artist/2YzRF5Z1h7dL8Hq1BmE9Q2) | [Bisous](https://open.spotify.com/album/0I4JXUV2ck18CJ5RoX090x) | 2:07 | 2022-04-27 | 2022-12-06 |
+| [Borrowed Time](https://open.spotify.com/track/08DMzELdDyuk2DDd26C28y) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [Borrowed Time](https://open.spotify.com/album/491ZoXaPJ7oPnLKEEkofpz) | 2:15 | 2023-01-09 |  |
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2022-04-27 | 2022-05-21 |
 | [Canterbury](https://open.spotify.com/track/6EfKuo9oF2YC3OGyzzAWcL) | [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P) | [Academia Aesthetics](https://open.spotify.com/album/6ezqP3eQs8u8jqQ9WWfq3S) | 1:28 | 2022-12-05 |  |
 | [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2022-04-27 | 2022-05-05 |
@@ -234,6 +235,7 @@
 | [Seul](https://open.spotify.com/track/7adeEYqvDXAXIvP3dwLAww) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Seul](https://open.spotify.com/album/77NtdpJrjHlJRLqLiSGCbw) | 2:40 | 2022-04-27 | 2022-05-05 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-27 | 2022-06-07 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-27 |  |
+| [Si j'ai aimé](https://open.spotify.com/track/2nb1lBOW1BTBMRCgXwzhzu) | [Jeremy Hababou](https://open.spotify.com/artist/3S7Lr7NOUxWimVwXrW8xT4) | [Si j'ai aimé](https://open.spotify.com/album/2FQmsetZ9KYTRZDiRcIVQ1) | 2:22 | 2023-01-09 |  |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-27 | 2022-05-21 |
 | [Silk](https://open.spotify.com/track/3VHGpDGB6roBImYAY5fjcS) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [Silk](https://open.spotify.com/album/6Kwh1xs18Q64bFSWAujpO0) | 2:31 | 2022-05-27 |  |
 | [Snefri](https://open.spotify.com/track/6Ox51SkYx2CyHuWIHMfTUq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Snefri](https://open.spotify.com/album/25trn66ey7ahbAD2OMI7bN) | 3:43 | 2022-04-27 | 2022-06-07 |

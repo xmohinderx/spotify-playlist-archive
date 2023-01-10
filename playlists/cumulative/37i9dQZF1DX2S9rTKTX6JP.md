@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-276 songs - 17 hr 54 min
+277 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [All Along the Watchtower](https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:58 | 2020-12-16 |  |
 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 | 2022-03-25 |  |
 | [Bad Reputation \- Spotify Singles](https://open.spotify.com/track/6qNRJFypNpGWhUhlR13ENJ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Spotify Singles](https://open.spotify.com/album/7fWDAcxnpxhia9dUifr81o) | 2:29 | 2022-07-29 | 2022-08-23 |
-| [Ballroom Blitz](https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Ballroom Blitz](https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb) | 4:09 | 2020-12-16 |  |
+| [Ballroom Blitz](https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Ballroom Blitz](https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb) | 4:09 | 2020-12-16 | 2023-01-10 |
 | [Beat It \- Studio Version](https://open.spotify.com/track/3vSnRYcBLfZoZuprVrurv5) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Indie Covers](https://open.spotify.com/album/5eHZZDVSgFtZdjXkwW8sdQ) | 3:47 | 2022-10-26 | 2022-11-13 |
 | [Beat It \- Studio Version](https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [\*\*\*\* Live In Phoenix](https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh) | 3:47 | 2020-12-16 | 2022-07-29 |
 | [Beat It \- Studio Version Featuring John Mayer](https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Live In Phoenix](https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF) | 3:50 | 2022-06-17 | 2022-11-26 |
@@ -214,6 +214,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2022-06-10 | 2022-10-13 |
 | [Sad But True](https://open.spotify.com/track/6xE9pDzPTndxeoTxvln96w) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Sad But True](https://open.spotify.com/album/5CpVJiYhDUavJqv044xQLZ) | 5:28 | 2021-09-17 | 2022-07-29 |
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-15 |  |
+| [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/track/1H0HP2mqLRJtgfYisSEDWo) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/album/6q3H4YDdXRgKmXeNEdECrQ) | 5:16 | 2023-01-10 |  |
 | [Seven Nation Army](https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Seven Nation Army](https://open.spotify.com/album/6H2VIw0KwJx8YxL23wQfQ3) | 4:02 | 2022-03-25 | 2022-07-20 |
 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 | 2022-06-17 | 2022-07-30 |
 | [Shape of my Heart](https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 5:37 | 2022-03-25 | 2022-07-08 |

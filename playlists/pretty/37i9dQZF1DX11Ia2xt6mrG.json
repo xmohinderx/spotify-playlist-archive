@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
-  "num_followers": 53523,
+  "num_followers": 53527,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg3MSwwMDAwMDAwMDc2ZTFlZjQ0YjdhZWFmMjVhOTYxMDU4MmZiODc0OWQ5",
+  "snapshot_id": "MTY3MzA2Mjg3MSwwMDAwMDAwMGIzODE0YmU0OWMxNjdiNjI5YjA0Zjg2YzJkOTBlMWNh",
   "tracks": [
     {
       "added_at": "2022-11-07 20:40:52",
@@ -323,6 +323,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Como Es Posible Que a Mi Lado",
+        "url": "https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Aynes",
+          "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Como Es Posible Que a Mi Lado",
+      "url": "https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Morenito",
         "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 152796,
       "name": "Ojos Chiquitos",
       "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Como Es Posible Que a Mi Lado",
-        "url": "https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Aynes",
-          "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Como Es Posible Que a Mi Lado",
-      "url": "https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 222366,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Sweet Potato",
         "url": "https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg"
       },
@@ -531,26 +511,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC"
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Lazy Bear",
-          "url": "https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9"
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
         }
       ],
-      "duration_ms": 139724,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv"
+      "duration_ms": 222366,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -655,18 +631,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Esta Noche",
-        "url": "https://open.spotify.com/album/0E9a76DH1w2WuSwdu6Be9E"
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC"
       },
       "artists": [
         {
           "name": "Mariana BO",
           "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Lazy Bear",
+          "url": "https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9"
         }
       ],
-      "duration_ms": 135420,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/3ZPbwLRggZ9JneiD5Rmvzc"
+      "duration_ms": 139724,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -691,26 +675,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Pump up the Volume",
-        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Juarez",
-          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Pump up the Volume",
-      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
@@ -727,6 +691,26 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Pump up the Volume",
+        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juarez",
+          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Pump up the Volume",
+      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -799,6 +783,22 @@
       "duration_ms": 227493,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/0E9a76DH1w2WuSwdu6Be9E"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 135420,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3ZPbwLRggZ9JneiD5Rmvzc"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Steller",
-          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
-        }
-      ],
-      "duration_ms": 155224,
-      "name": "The King Is Dead",
-      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Nocturno",
         "url": "https://open.spotify.com/album/4SmO2ZcJDCs94LSsi86etw"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 209146,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/4lnjB1wmSnLO8SWJgiMADy"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "duration_ms": 155224,
+      "name": "The King Is Dead",
+      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
-        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
-      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Shake It Off",
         "url": "https://open.spotify.com/album/6OO1SWTyPTQPmn8cHRLnP2"
       },
@@ -1319,6 +1303,26 @@
       "duration_ms": 181818,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/4NeEPhcQgCEBF514Tql4DC"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Levante la Mano (Remixes)",
+        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Levante la Mano (Tonga Conga Remix)",
+      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1343,26 +1347,6 @@
       "duration_ms": 137812,
       "name": "Brake Test",
       "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Levante la Mano (Remixes)",
-        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Levante la Mano (Tonga Conga Remix)",
-      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1399,6 +1383,22 @@
       "duration_ms": 203225,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/2na01PJt2Ai6L2zH88hKP3"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "\u00a1V\u00e1monos De Viaje! (Edit)",
+        "url": "https://open.spotify.com/album/7dRPOI1PHOiBR5KaB2HrZ8"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "\u00a1V\u00e1monos De Viaje! - Edit",
+      "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Desire Path",
         "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 215462,
       "name": "Cuerpo Que Flota",
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr"
+      },
+      "artists": [
+        {
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Takeover",
+        "url": "https://open.spotify.com/album/2NV8uvwQ1OWSIXmjah9bsc"
+      },
+      "artists": [
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/6K3KW2SR7QTGRF5q0GLpBP"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 195953,
       "name": "Harina - Energy Mix",
       "url": "https://open.spotify.com/track/4szMbLqBDaP4kWqp6uU3U7"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Takeover",
-        "url": "https://open.spotify.com/album/2NV8uvwQ1OWSIXmjah9bsc"
-      },
-      "artists": [
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "SaberZ",
-          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/6K3KW2SR7QTGRF5q0GLpBP"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
-      },
-      "artists": [
-        {
-          "name": "Maciel",
-          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
-        },
-        {
-          "name": "Benlon",
-          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
-        },
-        {
-          "name": "Sharpz",
-          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
       },
@@ -1799,34 +1775,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Deliciosa",
-        "url": "https://open.spotify.com/album/4cVgkXdCAOs6EJDOtLY5Ku"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
       },
       "artists": [
         {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
         },
         {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+          "name": "Benlon",
+          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
         },
         {
-          "name": "Morenito De Fuego",
-          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
-        },
-        {
-          "name": "Vakera Gal\u00e1ctica",
-          "url": "https://open.spotify.com/artist/5LjSjvk38NOn5BXiXsojTj"
-        },
-        {
-          "name": "Bombatomika",
-          "url": "https://open.spotify.com/artist/5ArVuIgibMKsZzlMaYZTSA"
+          "name": "Sharpz",
+          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
         }
       ],
-      "duration_ms": 185625,
-      "name": "Deliciosa",
-      "url": "https://open.spotify.com/track/4y3nepjBAX0GOz3gJ1wx3z"
+      "duration_ms": 174735,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1879,26 +1847,34 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
+        "name": "Deliciosa",
+        "url": "https://open.spotify.com/album/4cVgkXdCAOs6EJDOtLY5Ku"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
         },
         {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
         },
         {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+          "name": "Morenito De Fuego",
+          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
+        },
+        {
+          "name": "Vakera Gal\u00e1ctica",
+          "url": "https://open.spotify.com/artist/5LjSjvk38NOn5BXiXsojTj"
+        },
+        {
+          "name": "Bombatomika",
+          "url": "https://open.spotify.com/artist/5ArVuIgibMKsZzlMaYZTSA"
         }
       ],
-      "duration_ms": 154687,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
+      "duration_ms": 185625,
+      "name": "Deliciosa",
+      "url": "https://open.spotify.com/track/4y3nepjBAX0GOz3gJ1wx3z"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1927,18 +1903,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "ML3NNON",
+          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+        },
+        {
+          "name": "GeeKan",
+          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+      "duration_ms": 154687,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1963,6 +1947,22 @@
       "duration_ms": 181935,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
       "added_at": "2022-08-02 18:48:01",

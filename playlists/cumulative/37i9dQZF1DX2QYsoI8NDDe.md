@@ -4,7 +4,7 @@
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar
 
-211 songs - 12 hr 7 min
+212 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Basta Ya \- Banda](https://open.spotify.com/track/3ic1CdU3u3vCLm2BlklevZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \(Banda\)](https://open.spotify.com/album/3LqPzDMkoS6yZ7bHDSPVlU) | 4:03 | 2022-01-07 | 2022-07-29 |
 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 | 2022-05-20 |  |
 | [Cada Vez Que Me Ves](https://open.spotify.com/track/5PZYcnr9OsJpqKBsTaNblt) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cada Vez Que Me Ves](https://open.spotify.com/album/54JqSGLEAPCYbiQ709CpbF) | 2:48 | 2022-05-20 | 2022-08-04 |
+| [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 | 2023-01-10 |  |
 | [Cheque En Blanco](https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Paquita La Del Barrio En Vivo](https://open.spotify.com/album/4IeKibQyMCzKcITREUrOk4) | 2:37 | 2022-01-07 | 2022-07-29 |
 | [Cheque En Blanco](https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [En Vivo, Desde Su Lugar](https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC) | 2:42 | 2022-05-20 |  |
 | [Cien Años](https://open.spotify.com/track/5f6CtoqPskvCsh9QUtGqMO) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Mujer A La Mexicana](https://open.spotify.com/album/5oFTKHwtDkGKSEthvFmnVV) | 2:44 | 2022-01-07 | 2022-01-22 |
@@ -63,7 +64,7 @@
 | [Ex de Verdad \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 4:07 | 2022-01-21 |  |
 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 | 2022-01-07 | 2022-07-29 |
 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 | 2022-01-07 |  |
-| [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 | 2022-08-03 |  |
+| [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 | 2022-08-03 | 2023-01-10 |
 | [Gabriel Ornelas](https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Gabriel Ornelas](https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ) | 3:07 | 2022-08-03 |  |
 | [Gaviota Traidora](https://open.spotify.com/track/5qSvi8PGmczWG2sxWwNI2I) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Principios Vol\. 1](https://open.spotify.com/album/05KzRftEfw53JFMEzSZ5sY) | 3:47 | 2022-05-20 | 2022-08-04 |
 | [Hasta Que Amanezca](https://open.spotify.com/track/5vxjnZFvJYgZz8RVR4za51) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada Con Banda](https://open.spotify.com/album/01nLa6wvsYX6LDiQz58bE3) | 3:05 | 2022-01-07 | 2022-07-29 |

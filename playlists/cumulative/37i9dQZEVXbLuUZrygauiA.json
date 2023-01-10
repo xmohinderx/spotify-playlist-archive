@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 165135,
       "name": "BIBI Vengeance",
       "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 122096,
       "name": "Como Quieras Quiero",
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
@@ -6099,6 +6099,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
+    },
+    {
+      "album": {
         "name": "Sunken Screens",
         "url": "https://open.spotify.com/album/5Csu9GNNwJy8vXrg7r4kwY"
       },
@@ -7556,7 +7574,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
@@ -7796,6 +7814,28 @@
       "duration_ms": 196760,
       "name": "Man Areas",
       "url": "https://open.spotify.com/track/3AN5LEspFZQdQUFUUqsDct"
+    },
+    {
+      "album": {
+        "name": "Mandame Tu Ubi",
+        "url": "https://open.spotify.com/album/45WA13uv01wbAKWnRtUTKJ"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119834,
+      "name": "Mandame Tu Ubi",
+      "url": "https://open.spotify.com/track/7wGy7XfvDC7PRNtMQkHVuN"
     },
     {
       "album": {
@@ -15440,7 +15480,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

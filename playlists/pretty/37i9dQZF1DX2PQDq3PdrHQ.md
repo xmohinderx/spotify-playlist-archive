@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,661 likes - 303 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,254 likes - 303 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 140 | [Sleepy Head](https://open.spotify.com/track/6pxQSodKSYDVDwDE8LfmTe) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Sleepy Head](https://open.spotify.com/album/3YnBK7aoWudswh1gfBKk4a) | 2:13 |
 | 141 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 142 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
-| 143 | [Mint Tea](https://open.spotify.com/track/4PgfqFFk8cOMDpN4kqfyWo) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Mint Tea](https://open.spotify.com/album/2xKIy8HQKAKdcHgmvecuh2) | 2:03 |
+| 143 | [Mint Tea](https://open.spotify.com/track/0ktmMe9ZdEP6Nrlm852yfT) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Mint Tea](https://open.spotify.com/album/50jQJbVRJ4PePgcqNClaEA) | 2:03 |
 | 144 | [Sleeping Stars](https://open.spotify.com/track/2OQy9UpKomTSeI74Mx1EWO) | [Jody R](https://open.spotify.com/artist/0PRbFVcIjvJfd4NaHLBxjJ) | [Sleeping Stars](https://open.spotify.com/album/4HXDGZpuzZneo7VffOWUc1) | 3:30 |
 | 145 | [Quiet Nights](https://open.spotify.com/track/5KxgbOV1pF4d8lO0OwsCCP) | [Golden Soul](https://open.spotify.com/artist/2bs2512dZz98CpEJSCcDzO) | [Quiet Nights](https://open.spotify.com/album/09RaC0dlKAs8NkjB1s8tnt) | 1:33 |
 | 146 | [Astral](https://open.spotify.com/track/3HJ6JN74qPgFyC396Qhxou) | [Amesyt](https://open.spotify.com/artist/1JL3JvqNgLxd2S0q5m29Ei), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Astral](https://open.spotify.com/album/3qbkBSdvA8JMGmL3Db1eDM) | 1:49 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 302 | [In The Shade](https://open.spotify.com/track/4p29M9w5odVcZFkMl9iENZ) | [Twindex](https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [Summer Nights](https://open.spotify.com/album/19o5VZvgbGpfT7QWuo3QnW) | 1:49 |
 | 303 | [Nighttime Voyage](https://open.spotify.com/track/6cbjfmf85NMVLxmwKD2VJG) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [Lucid Dreams](https://open.spotify.com/album/20OUFGtfv163d3vn9OKojD) | 2:22 |
 
-Snapshot ID: `MTY3MzA0MDYwNSwwMDAwMDAwMDBhM2RhYTIyNDljMjdhMGZiNTFjM2RiZDQ2NDc3MWZi`
+Snapshot ID: `MTY3MzA0MDYwNSwwMDAwMDAwMDMxNTZjZWExZGZmODFmMDhiODcxNTRlNTk4YWMyMmI2`

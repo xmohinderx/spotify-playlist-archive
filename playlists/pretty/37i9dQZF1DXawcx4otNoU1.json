@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 459510,
+  "num_followers": 459685,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NjYxOCwwMDAwMDAwMGFkOWE4ZmI5MmZkNDhlNWQwODhmMjczYWQ4NmFjMTQ3",
+  "snapshot_id": "MTY3MzI2MzE1MCwwMDAwMDAwMDg5MDA2MzBmNzMwNzY4ZmJhZTVkOGNlOWZmYmM1NDAx",
   "tracks": [
     {
       "added_at": "2022-11-18 12:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -311,22 +295,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -339,6 +307,38 @@
       "duration_ms": 205280,
       "name": "Million Reasons",
       "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 189906,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -759,6 +759,22 @@
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "added_at": "2023-01-09 11:19:10",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Wherever You Will Go",
-        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Charlene Soraia",
-          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
-        }
-      ],
-      "duration_ms": 197577,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "Wherever You Will Go",
+        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Charlene Soraia",
+          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
+        }
+      ],
+      "duration_ms": 197577,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 236680,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1243,6 +1243,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 236680,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1543,38 +1559,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 187156,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1655,6 +1655,22 @@
       "duration_ms": 141757,
       "name": "Honey (with Muni Long)",
       "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 187156,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1891,22 +1907,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Bridge Back to Your Heart",
-        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
-      },
-      "artists": [
-        {
-          "name": "The Beach",
-          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Bridge Back to Your Heart",
-      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Max Jury",
         "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
       },
@@ -1919,6 +1919,22 @@
       "duration_ms": 235936,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Bridge Back to Your Heart",
+        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+      },
+      "artists": [
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Bridge Back to Your Heart",
+      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -2471,22 +2487,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Sex + Hennessy",
-        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
-      },
-      "artists": [
-        {
-          "name": "Eimizah",
-          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Sex + Hennessy",
-      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Paupers Field",
         "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
       },
@@ -2503,22 +2503,18 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "The More",
-        "url": "https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np"
+        "name": "Sex + Hennessy",
+        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
       },
       "artists": [
         {
-          "name": "Jinan Laetitia",
-          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
-        },
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Eimizah",
+          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
         }
       ],
-      "duration_ms": 230947,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM"
+      "duration_ms": 155744,
+      "name": "Sex + Hennessy",
+      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
     }
   ],
   "unique_name": "Spooning",

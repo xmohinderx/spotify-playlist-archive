@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7034,
+  "num_followers": 7051,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGIxOGU1OTA4Y2Y3YmYyNWE4YjQyNjY2OGE2M2QyY2Uy",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGY1Y2Q2NzdmZmU0NTc2NjM5ODBiNTJhZWUwY2Y4MGQ4",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Honey (Special Edition)",
-        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "SHAKE IT",
         "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 208506,
       "name": "SHAKE IT",
       "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Honey (Special Edition)",
+        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Just Listen.......",
-        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
+        "name": "Just Listen.......",
+        "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
       },
       "artists": [
         {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Hot Issue",
-      "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
+      "duration_ms": 246333,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -383,6 +367,22 @@
       "duration_ms": 209920,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Hot Issue",
+      "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 258062,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+      "duration_ms": 258062,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -711,6 +695,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "BLAQ Style",
         "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 203258,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -755,22 +739,6 @@
       "duration_ms": 251846,
       "name": "\ud30c\ub3c4",
       "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "My Name - The 4th Album",
-        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -811,18 +779,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Chapter 5",
-        "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
       },
       "artists": [
         {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 228937,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
+      "duration_ms": 203258,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -843,18 +811,34 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+        "name": "My Name - The 4th Album",
+        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+      "duration_ms": 193026,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Chapter 5",
+        "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -891,18 +875,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "MIRACLE - The 2.5th Album",
-        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 212960,
-      "name": "VALENTI",
-      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -987,6 +971,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "MIRACLE - The 2.5th Album",
+        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "VALENTI",
+      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "\uc774\uc740\ubbf8 LIVE CONCERT \uac00\uc2b4\uc774 \ub6f4\ub2e4",
         "url": "https://open.spotify.com/album/2zFdzuOnmYvh9fKJgRpOIm"
       },
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1151,6 +1151,22 @@
       "duration_ms": 207426,
       "name": "Hi~",
       "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1215,22 +1231,6 @@
       "duration_ms": 222171,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Son Dam Bi Mini Album vol. 2",
-        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        },
-        {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Crazy (feat.Eric)",
-      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Dropping the Tears",
         "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
@@ -1383,6 +1363,42 @@
       "duration_ms": 210626,
       "name": "1Tym",
       "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Son Dam Bi Mini Album vol. 2",
+        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        },
+        {
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Crazy (feat.Eric)",
+      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+        "name": "SE7EN New Mini Album",
+        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
         }
       ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+      "duration_ms": 235426,
+      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
+      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Remake Romantic 2",
-        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
-      },
-      "artists": [
-        {
-          "name": "Seo Young Eun",
-          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
-        }
-      ],
-      "duration_ms": 215248,
-      "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
-      "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Virginalness Bloom",
         "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
       },
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+      },
+      "artists": [
+        {
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
+        }
+      ],
+      "duration_ms": 215248,
+      "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
+      "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Double Life ; The Other Side",
         "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 252906,
       "name": "\ucc28\ub9c8...",
       "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "SE7EN New Mini Album",
-        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
-      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
     },
     {
       "added_at": "2021-03-11 16:26:11",

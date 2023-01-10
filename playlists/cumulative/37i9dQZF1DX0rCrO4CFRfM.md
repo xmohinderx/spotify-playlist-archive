@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-145 songs - 9 hr 17 min
+146 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 | 2021-02-07 | 2022-11-14 |
 | [Lethal Combination \- Acoustic](https://open.spotify.com/track/7frRC44kmARBbi49cWSI7d) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life \(Extended Version\)](https://open.spotify.com/album/7CPPcbdyAhAF1PEWCnm4DY) | 2:40 | 2020-11-10\* | 2021-05-27 |
 | [Letters To You](https://open.spotify.com/track/3wkLHWtmXexJRqgWg60rTH) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Punk Goes Acoustic](https://open.spotify.com/album/5uagYb30r0jo1fOwk9HPIL) | 3:46 | 2020-11-10\* | 2021-10-12 |
+| [Like Suicide \- Acoustic Version](https://open.spotify.com/track/1gGzdKJX35bqZLbfmXR3ql) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 6:12 | 2022-09-22 |  |
 | [Like Suicide \- Acoustic Version](https://open.spotify.com/track/7MmpOZoNldmCFKlvWAcFsd) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/09LIRHoEUbWq9lTNTAPWgr) | 6:12 | 2021-07-29 | 2022-07-29 |
 | [Make Me Wanna Die \- Acoustic Version](https://open.spotify.com/track/1xP9IsJMMihmBzQgTIhTLg) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Miss Nothing \(UK Version\)](https://open.spotify.com/album/2HzSWTtNd0hA2uQHWzNCch) | 3:33 | 2021-04-19 | 2021-10-12 |
 | [Many of Horror \- MTV Unplugged Live; Edit](https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Many of Horror \(MTV Unplugged Live; Edit\)](https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu) | 4:14 | 2021-01-15 | 2022-07-29 |
@@ -108,7 +109,7 @@
 | [Save Me \- Acoustic](https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:22 | 2020-11-10\* |  |
 | [Scars \- Acoustic Version](https://open.spotify.com/track/1yroKBwU3gJEeGq1qnxYJO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [To Be Loved: The Best Of Papa Roach \(Explicit Version\)](https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt) | 3:10 | 2020-11-10\* | 2022-07-29 |
 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 | 2022-06-27 |  |
-| [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 | 2021-01-15 |  |
+| [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 | 2021-01-15 | 2023-01-10 |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu) | 5:12 | 2021-10-11 | 2022-07-29 |
 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 | 2021-01-15 |  |
 | [Sing \- Reworked](https://open.spotify.com/track/5bYYSPBdBAO4yaZWX1F6z2) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Sing \(Reworked\)](https://open.spotify.com/album/6OtzPhPSJWdMuLeIcYzZ18) | 2:47 | 2021-04-19 | 2021-10-16 |

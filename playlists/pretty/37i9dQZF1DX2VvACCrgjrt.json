@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Nostalgix",
-  "num_followers": 408779,
+  "num_followers": 408979,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDU0ZmYzMDQzODY3NDY3NzY3OTIzMzMzNTEwNjdkZWEy",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGI5ZDNjOTM2NjAxZGNhNDg4MzZjNjA2YWY4Mzg1NDg1",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
+        }
+      ],
+      "duration_ms": 138537,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
       },
@@ -521,26 +541,6 @@
       "url": "https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "House Call",
-          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
-        }
-      ],
-      "duration_ms": 138537,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"
-    },
-    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Don Malaa",
@@ -559,6 +559,26 @@
       "duration_ms": 205714,
       "name": "Outcast (with Fivio Foreign)",
       "url": "https://open.spotify.com/track/1JNgvtfz2bzr4yvVImSvk1"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2jzHwNoy3czD29KqeAvXLl"
+      },
+      "artists": [
+        {
+          "name": "ALOTT",
+          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
+        },
+        {
+          "name": "Dario Rodriguez",
+          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/1Zw0EkCEoEtHTzmZV3UlIf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -583,26 +603,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Come Over",
-        "url": "https://open.spotify.com/album/2jzHwNoy3czD29KqeAvXLl"
-      },
-      "artists": [
-        {
-          "name": "ALOTT",
-          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
-        },
-        {
-          "name": "Dario Rodriguez",
-          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/1Zw0EkCEoEtHTzmZV3UlIf"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "CONTROVERSIA by Alok Vol. 008",
-        "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Let's Go",
@@ -651,6 +635,22 @@
       "duration_ms": 150761,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/3cOpv6dg4JYT2ZegTxw5XF"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "CONTROVERSIA by Alok Vol. 008",
+        "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -757,6 +757,26 @@
       "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
     },
     {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Left & Right (BYOR Remix)",
@@ -779,26 +799,6 @@
       "duration_ms": 142857,
       "name": "Left & Right (BYOR Remix)",
       "url": "https://open.spotify.com/track/0EWcOrTwNENx13HuPuFznq"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -893,6 +893,26 @@
       "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+    },
+    {
       "added_at": "2022-10-07 13:49:01",
       "album": {
         "name": "Supah Fly",
@@ -931,26 +951,6 @@
       "duration_ms": 200366,
       "name": "Next Level - Habstrakt Remix",
       "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 185515,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
       },
       "artists": [
         {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
-      },
-      "artists": [
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "HYPE HOP 001",
         "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 173538,
       "name": "Respect",
       "url": "https://open.spotify.com/track/2q6OLWcAYWk6SjRBkDWDOj"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1447,6 +1447,22 @@
       "duration_ms": 188160,
       "name": "Tune",
       "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "dashstar* (VIP)",
+        "url": "https://open.spotify.com/album/014iFORUzGJCv81enXjJMg"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 140481,
+      "name": "dashstar* - VIP",
+      "url": "https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1601,6 +1617,26 @@
       "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ"
+      },
+      "artists": [
+        {
+          "name": "Golf Clap",
+          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "duration_ms": 226620,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/4kGKb76jdupromKClU6Udl"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "King Of The Monsters",
@@ -1621,24 +1657,24 @@
       "url": "https://open.spotify.com/track/4Gc2dQj8FdnJzB6VZCKKF1"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-01-10 00:44:59",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ"
+        "name": "Front To Back (feat. DLMT)",
+        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
       },
       "artists": [
         {
-          "name": "Golf Clap",
-          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
         },
         {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
         }
       ],
-      "duration_ms": 226620,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/4kGKb76jdupromKClU6Udl"
+      "duration_ms": 211653,
+      "name": "Front To Back (feat. DLMT)",
+      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1747,6 +1783,26 @@
       "duration_ms": 188287,
       "name": "Another Level",
       "url": "https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
+      },
+      "artists": [
+        {
+          "name": "DEVOWR.",
+          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1881,26 +1937,6 @@
       "url": "https://open.spotify.com/track/2yBTcEYoW6jD1I1xosjcHd"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
-      },
-      "artists": [
-        {
-          "name": "DEVOWR.",
-          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Sound Of The Bass",
@@ -1915,6 +1951,22 @@
       "duration_ms": 197073,
       "name": "Sound Of The Bass",
       "url": "https://open.spotify.com/track/5KeWNOjXTGZd2qATxVBLF8"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Crew",
+        "url": "https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "duration_ms": 183309,
+      "name": "Crew",
+      "url": "https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2017,26 +2069,6 @@
       "url": "https://open.spotify.com/track/6IUUBF1FgcO7oBLFs8xvj3"
     },
     {
-      "added_at": "2023-01-09 01:19:31",
-      "album": {
-        "name": "Front To Back (feat. DLMT)",
-        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
-      },
-      "artists": [
-        {
-          "name": "FOMO",
-          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Front To Back (feat. DLMT)",
-      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Licked",
@@ -2075,42 +2107,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Crew",
-        "url": "https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ"
-      },
-      "artists": [
-        {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        }
-      ],
-      "duration_ms": 183309,
-      "name": "Crew",
-      "url": "https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Surdose",
-        "url": "https://open.spotify.com/album/5QrtzLtFshW96oO7VGVRiB"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        },
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Surdose",
-      "url": "https://open.spotify.com/track/117bHhXQMRhZPpAQ9JF7PY"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1b40F6fRwL4ddLOyii65M0"
       },
@@ -2133,22 +2129,6 @@
       "url": "https://open.spotify.com/track/0JQmitIV9VQMT91VcvVNCU"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 204772,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "TEC-9",
@@ -2163,6 +2143,42 @@
       "duration_ms": 142734,
       "name": "TEC-9",
       "url": "https://open.spotify.com/track/44prQa5cc4wj0gnS5y5tt1"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Surdose",
+        "url": "https://open.spotify.com/album/5QrtzLtFshW96oO7VGVRiB"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Surdose",
+      "url": "https://open.spotify.com/track/117bHhXQMRhZPpAQ9JF7PY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 204772,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2185,22 +2201,6 @@
       "url": "https://open.spotify.com/track/5DDzviNh0MzpuZrBiH8QM8"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Blow / Moving",
-        "url": "https://open.spotify.com/album/3C6IMkUGDNmTkmgnBzABrV"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/05oGtv3kNxsX8zTejIrO1u"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Who I Am",
@@ -2215,6 +2215,22 @@
       "duration_ms": 228188,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Blow / Moving",
+        "url": "https://open.spotify.com/album/3C6IMkUGDNmTkmgnBzABrV"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/05oGtv3kNxsX8zTejIrO1u"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2307,22 +2323,6 @@
       "duration_ms": 265049,
       "name": "FYPM",
       "url": "https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "dashstar* (VIP)",
-        "url": "https://open.spotify.com/album/014iFORUzGJCv81enXjJMg"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 140481,
-      "name": "dashstar* - VIP",
-      "url": "https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o"
     },
     {
       "added_at": "2022-07-22 04:01:00",

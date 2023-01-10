@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,796 likes - 67 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,825 likes - 68 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 59 | [Arabic Chill](https://open.spotify.com/track/6Jx6pIvweZ2DpatcOwzUrg) | [Tranquility Spa Universe](https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:31 |
 | 60 | [Moroccan Dance](https://open.spotify.com/track/3oowGaxhUt7eoRjaIOys0e) | [Rumi Ged](https://open.spotify.com/artist/4QzAg324qBeb33bzKsBxaI) | [Bar de Lune Presents Bedouin Cafe](https://open.spotify.com/album/3vgO9x2bALPEEjpFYcDEEy) | 4:31 |
 | 61 | [Masnavi Bayat Esfahan](https://open.spotify.com/track/294vBP3FeWDwpYwvGsy9Y4) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 2:52 |
-| 62 | [Touch of Meditation](https://open.spotify.com/track/3aTk8gqyP8cGegtVFa3vC9) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 4:03 |
-| 63 | [Nava \(Taknavazi\)](https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL) | [Zohreh Jooya](https://open.spotify.com/artist/4aPe9EHxbJctF6lD7BOslz) | [Johare Eshgh](https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q) | 1:54 |
-| 64 | [Siretzi Yares Daran \(They Have Taken the One I Love\)](https://open.spotify.com/track/2dhdVOLoYr46OUlsS70S1f) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 6:59 |
-| 65 | [Moments égyptiens de spa](https://open.spotify.com/track/00OkNY5VMmgSbiLWuxxn0E) | [Zen Méditation Ambiance](https://open.spotify.com/artist/6tberbrKFcndFNn2Yj2Ber) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:26 |
-| 66 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
-| 67 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
+| 62 | [Yohanan \- Live '21](https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Urban Faint](https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1) | [Yohanan \(Live '21\)](https://open.spotify.com/album/4LRYq5AbAytHDhvBenaziu) | 6:01 |
+| 63 | [Touch of Meditation](https://open.spotify.com/track/3aTk8gqyP8cGegtVFa3vC9) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 4:03 |
+| 64 | [Nava \(Taknavazi\)](https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL) | [Zohreh Jooya](https://open.spotify.com/artist/4aPe9EHxbJctF6lD7BOslz) | [Johare Eshgh](https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q) | 1:54 |
+| 65 | [Siretzi Yares Daran \(They Have Taken the One I Love\)](https://open.spotify.com/track/2dhdVOLoYr46OUlsS70S1f) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 6:59 |
+| 66 | [Moments égyptiens de spa](https://open.spotify.com/track/00OkNY5VMmgSbiLWuxxn0E) | [Zen Méditation Ambiance](https://open.spotify.com/artist/6tberbrKFcndFNn2Yj2Ber) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:26 |
+| 67 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
+| 68 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
 
-Snapshot ID: `MTY3MjkzNTUyOSwwMDAwMDAwMDk3NjhhNmZmNDkyZjE1NGFiYjE2N2Q1ODliMGFmZWM0`
+Snapshot ID: `MTY3MzI4NDM4NSwwMDAwMDAwMGE3ZDc5MTkyMjk2N2NkZmI0N2RkNDY0ODEyOTI3MzBl`

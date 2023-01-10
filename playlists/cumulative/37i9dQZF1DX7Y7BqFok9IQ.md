@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-138 songs - 8 hr 44 min
+139 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 | 2022-12-10 |
 | [Gotta Be Movin’](https://open.spotify.com/track/6n9CPTtFd6DeOpWnP57O9i) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Gotta Be Movin'](https://open.spotify.com/album/2JWnNwLCTdvnMH081yhjAz) | 3:35 | 2021-09-10 | 2022-07-29 |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 | 2022-09-10 |
+| [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 | 2020-10-16 |  |
 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 | 2021-03-26 |  |
 | [Hard Times](https://open.spotify.com/track/7zdR9mlXoyrrw9eqE2sNgV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Hard Times](https://open.spotify.com/album/6OplYWUMxvkCi7WtiS5RRj) | 3:26 | 2021-03-26 | 2022-07-29 |
 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 | 2022-06-07 |
@@ -73,7 +74,7 @@
 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 | 2022-06-24 | 2022-10-22 |
 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 | 2022-07-29 |  |
 | [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 | 2022-07-16 |
-| [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 | 2022-10-14 |  |
+| [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 | 2022-10-14 | 2023-01-10 |
 | [Love & Peace](https://open.spotify.com/track/7qqRahwHKrtbNSLgu6Wtg9) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Love & Peace](https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo) | 5:59 | 2020-10-16 | 2022-07-29 |
 | [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 | 2020-10-16 | 2022-07-28 |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 |  |

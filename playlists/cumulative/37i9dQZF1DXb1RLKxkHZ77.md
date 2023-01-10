@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Awdella
 
-140 songs - 8 hr 52 min
+141 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG) | 4:02 | 2022-07-21 | 2022-12-22 |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2022-05-25 |  |
 | [DU](https://open.spotify.com/track/0F390DrzwfhUrR3QqXgZKZ) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [DU](https://open.spotify.com/album/0yYX0uMUbpKeDmzfV4zbw8) | 3:49 | 2022-05-25 | 2022-08-11 |
-| [Erti Sempurna](https://open.spotify.com/track/1CSt6QD08myLv2ZyUxA9z2) | [Danial Chuer](https://open.spotify.com/artist/7dVjhSfbTnpZQ373dl9G50), [Fieya Julia](https://open.spotify.com/artist/568FFnkRaJ2ZotzzrffSyW) | [Erti Sempurna](https://open.spotify.com/album/0k27fXtvb8ifEggY4eL2Wg) | 4:09 | 2022-10-27 |  |
+| [Erti Sempurna](https://open.spotify.com/track/1CSt6QD08myLv2ZyUxA9z2) | [Danial Chuer](https://open.spotify.com/artist/7dVjhSfbTnpZQ373dl9G50), [Fieya Julia](https://open.spotify.com/artist/568FFnkRaJ2ZotzzrffSyW) | [Erti Sempurna](https://open.spotify.com/album/0k27fXtvb8ifEggY4eL2Wg) | 4:09 | 2022-10-27 | 2023-01-10 |
 | [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 | 2022-05-25 | 2022-08-04 |
 | [Goodbye, Hello](https://open.spotify.com/track/2cdn0cLqoKJy77Ly8UAf0E) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Goodbye, Hello](https://open.spotify.com/album/3vbivP9we0IXeOC2aLBJt8) | 3:01 | 2022-09-15 | 2022-11-10 |
 | [Gurauan Berkasih](https://open.spotify.com/track/0JUinU1l9QXI3seXiVr1A6) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Gurauan Berkasih](https://open.spotify.com/album/1cTHOYKnVcZTBbDun5eKbR) | 4:05 | 2022-05-25 | 2022-10-06 |
@@ -138,6 +138,7 @@
 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-12-21 |  |
 | [Tak Pernah Cukup](https://open.spotify.com/track/3b2wk2rna1fcdD4i6jtOiL) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Tak Pernah Cukup](https://open.spotify.com/album/5GRekr01XUzgP38lll84i7) | 4:01 | 2022-11-16 |  |
 | [Tega](https://open.spotify.com/track/0heJfKKROo8ELfJH94RUYe) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tega](https://open.spotify.com/album/5LyzuRigW4b7bP0yaXma1q) | 3:55 | 2022-09-08 | 2022-11-17 |
+| [Tercipta Satu Senyuman](https://open.spotify.com/track/2TNBK6MRJ8MZH0XykFG5K6) | [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [Tercipta Satu Senyuman](https://open.spotify.com/album/5JL6GQ1mFUUIzXTEBCnAkV) | 3:49 | 2023-01-09 |  |
 | [Terlalu Rindu](https://open.spotify.com/track/1PPKQYOAa95C1EmO0PziEv) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Terlalu Rindu](https://open.spotify.com/album/6rpYbCUQtbzAt9rkk6xoIY) | 3:47 | 2023-01-04 |  |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2022-05-25 | 2022-08-25 |
 | [Terpatri Dihati](https://open.spotify.com/track/7tIjL7uGVTa2IAUT3l0jpZ) | [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB) | [Terpatri Dihati](https://open.spotify.com/album/5X4lEKBo6zU653At44B1Rm) | 3:37 | 2022-06-22 | 2022-07-28 |

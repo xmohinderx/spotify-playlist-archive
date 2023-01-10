@@ -271,6 +271,24 @@
     },
     {
       "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae"
+    },
+    {
+      "album": {
         "name": "Body On My Mind",
         "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
       },
@@ -1976,6 +1994,28 @@
       "duration_ms": 140440,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
+    },
+    {
+      "album": {
+        "name": "Nieve (Remixes)",
+        "url": "https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Nieve - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/2QG6VgmvMV7mYPME1evMeC"
     },
     {
       "album": {

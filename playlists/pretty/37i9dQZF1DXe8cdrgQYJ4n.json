@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 9774,
+  "num_followers": 9811,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjA0Njg1MCwwMDAwMDAwMDhlNjg3NDAzODljOGU3OTY1MjIzNThiYmU4YmYyOGZm",
+  "snapshot_id": "MTY3MjA0Njg1MCwwMDAwMDAwMDUwYWE5NDNmNjY4MmQxZWViYmQwODM3MDgzMzUwZjVi",
   "tracks": [
     {
       "added_at": "2022-12-26 09:27:30",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 203351,
-      "name": "Burning Up (Fire)",
-      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -259,50 +243,18 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
-        "name": "A Class",
-        "url": "https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X"
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
       },
       "artists": [
         {
-          "name": "miss A",
-          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 217560,
-      "name": "Bad Girl Good Girl",
-      "url": "https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 185796,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
+      "duration_ms": 203351,
+      "name": "Burning Up (Fire)",
+      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
     },
     {
       "added_at": "2022-12-26 09:27:30",
@@ -323,6 +275,38 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
+        "name": "A Class",
+        "url": "https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Bad Girl Good Girl",
+      "url": "https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -335,6 +319,38 @@
       "duration_ms": 201122,
       "name": "Pretty Savage",
       "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 185796,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
     },
     {
       "added_at": "2022-12-26 09:27:30",
@@ -359,22 +375,6 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
-        "name": "The Most Beautiful Moment in Life Pt.1",
-        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Dope",
-      "url": "https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
         "name": "To Anyone",
         "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 219453,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.1",
+        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Dope",
+      "url": "https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq"
     },
     {
       "added_at": "2022-12-26 09:27:30",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
         "name": "HUSH",
         "url": "https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY"
       },
@@ -507,22 +487,6 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -539,6 +503,26 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 216750,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2022-12-26 09:27:30",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
+        "name": "Do Not Want To Do It",
+        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 232318,
+      "name": "Do Not Want To Do It",
+      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 187061,
       "name": "Fashion Hoarder",
       "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
-        "name": "Do Not Want To Do It",
-        "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 232318,
-      "name": "Do Not Want To Do It",
-      "url": "https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri"
     },
     {
       "added_at": "2022-12-26 09:27:30",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-12-26 09:27:30",
       "album": {
+        "name": "Are you in there",
+        "url": "https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J"
+      },
+      "artists": [
+        {
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "Are you in there",
+      "url": "https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL"
+    },
+    {
+      "added_at": "2022-12-26 09:27:30",
+      "album": {
         "name": "LEGO(Let's Go)",
         "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 113346,
       "name": "LEGO(Let's Go)",
       "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
-    },
-    {
-      "added_at": "2022-12-26 09:27:30",
-      "album": {
-        "name": "Tang Tang!",
-        "url": "https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF"
-      },
-      "artists": [
-        {
-          "name": "Arttichoke",
-          "url": "https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "I\u2019ll just smile",
-      "url": "https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

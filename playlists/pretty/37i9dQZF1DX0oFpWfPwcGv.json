@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 35757,
+  "num_followers": 35806,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDEyODQwNDcwM2NjMWRmNWNjMTA2NDk4ZDE1M2E1ZGM2",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGVhMTc1OGU5YWIzMjM4ZDZlODg0MmRmMmNkOWI5MTQy",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 336466,
       "name": "Native New Yorker - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 423240,
       "name": "Found a Cure - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+        "name": "Twelve Inch Classics from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6"
         }
       ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+      "duration_ms": 407800,
+      "name": "Lady America",
+      "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1191,22 +1207,6 @@
       "duration_ms": 388920,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Twelve Inch Classics from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
-      },
-      "artists": [
-        {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6"
-        }
-      ],
-      "duration_ms": 407800,
-      "name": "Lady America",
-      "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
     },
     {
       "added_at": "2022-12-31 00:39:45",

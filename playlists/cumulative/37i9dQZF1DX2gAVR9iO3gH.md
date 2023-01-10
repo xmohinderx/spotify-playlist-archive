@@ -4,7 +4,7 @@
 
 > Miami me lo confirmó featuring Romeo Santos & Chris Lebron
 
-191 songs - 10 hr 48 min
+192 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-05-25 | 2022-12-02 |
 | [LA DESPEDIDA \- Live \- Spotify Singles](https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 3:28 | 2022-05-25 | 2022-08-20 |
 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 | 2022-05-25 | 2022-12-02 |
+| [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2023-01-09 |  |
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-07-08 |  |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2022-05-25 | 2022-09-24 |
 | [La Opinión Es Tuya](https://open.spotify.com/track/3HJzhsfS75hDk2o6Tcaws1) | [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [La Opinión Es Tuya](https://open.spotify.com/album/3uqErOIlbzRVHgNhNR9gqi) | 3:37 | 2022-08-19 |  |
@@ -118,7 +119,7 @@
 | [Malo](https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Malo](https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd) | 4:15 | 2022-08-19 |  |
 | [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 | 2022-08-19 | 2022-12-02 |
 | [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 | 2022-12-02 |  |
-| [Me Fui de Vacaciones](https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:00 | 2022-05-25 |  |
+| [Me Fui de Vacaciones](https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:00 | 2022-05-25 | 2023-01-10 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-25 |  |
 | [Mi Negrita](https://open.spotify.com/track/4A0U6CTmhJYYvoZcTAIDli) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [Mi Negrita](https://open.spotify.com/album/2uggqEhyTCK6jc4ZB17d2h) | 3:27 | 2022-05-25 | 2022-07-26 |
 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 | 2022-05-25 | 2022-12-02 |

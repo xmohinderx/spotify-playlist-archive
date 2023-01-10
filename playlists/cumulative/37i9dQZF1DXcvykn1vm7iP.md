@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-108 songs - 5 hr 22 min
+109 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-08-05 |  |
 | [Clear Vista](https://open.spotify.com/track/44ztxC2QwDByUgrB5TTpxt) | [Alice Torrence](https://open.spotify.com/artist/5c14a0TXRif4CrCsHgYh3E) | [Clear Vista](https://open.spotify.com/album/1KJfyjN6iDu1s6Ax9sYC41) | 2:13 | 2022-08-05 |  |
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
+| [Consciente](https://open.spotify.com/track/2WQctSPwSYFGNUtPQ1I11y) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Consciente](https://open.spotify.com/album/4rm97IdWa90r7umlTVBsyb) | 2:34 | 2023-01-09 |  |
 | [Consolation](https://open.spotify.com/track/6aZui1qCJi7owqT0AANuHb) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Consolation](https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd) | 3:16 | 2022-08-11 |  |
 | [Dagdraumur](https://open.spotify.com/track/4vpUme6bonH4EPwMxBBLOP) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Dagdraumur](https://open.spotify.com/album/2mwJKpI6depPe7yzYAIzGT) | 2:46 | 2022-08-05 |  |
 | [Decoder](https://open.spotify.com/track/5qzcXIVuKxOwtMbXYils8n) | [Margaret Phineas](https://open.spotify.com/artist/2O6ryyAOlxGJZqANs7wtoK) | [Hobart](https://open.spotify.com/album/5KTEcDkNtEDdPPBMSqzCqC) | 3:16 | 2022-08-05 |  |
@@ -108,7 +109,7 @@
 | [Unconscious Hours](https://open.spotify.com/track/39ziD9wgBpKjA7lhuv9jPT) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Natural Events](https://open.spotify.com/album/5be1q5HZtRuUZtWLXB4TVB) | 3:28 | 2022-08-05 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-08-05 |  |
 | [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-10-01 | 2022-12-03 |
-| [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-09-20 |  |
+| [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-09-20 | 2023-01-10 |
 | [Water Shapes](https://open.spotify.com/track/2BXn2oEXL6XD2iXzuSzd0g) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Water Shapes](https://open.spotify.com/album/4gRZeAvNFnIQZvhUEPbf2H) | 3:20 | 2022-08-05 |  |
 | [Worry Not](https://open.spotify.com/track/7hS2ckejZtpQIompCdbczv) | [María Mojca](https://open.spotify.com/artist/39ZWSqegQ0BRppztA35wXU) | [Worry Not](https://open.spotify.com/album/79VOF59svdNCrRXatvtxNm) | 2:45 | 2022-11-11 |  |
 | [Y](https://open.spotify.com/track/2aO1Kx044UxkdUn9HMjsnY) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Y](https://open.spotify.com/album/6HFV1kH4B3WPJWfhxF8CAF) | 3:29 | 2022-08-05 |  |

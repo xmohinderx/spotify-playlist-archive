@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-109 songs - 8 hr 7 min
+110 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [WASH\(ウオッシュ\)](https://open.spotify.com/track/0gZCmzblfShtJTjripDYRz) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 4:31 | 2022-05-24 | 2022-06-07 |
 | [WINDY SUMMER](https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:06 | 2022-05-24 |  |
 | [YOU'RE MY BABY](https://open.spotify.com/track/2vmaqjpCqVaQ990OQXAqCm) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/27M0r1SO7DE7f3IgRkwHB7) | 3:49 | 2022-05-24 | 2022-07-29 |
+| [YOU'RE MY BABY](https://open.spotify.com/track/6zDgYObuYVCtVWnssw4myl) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:49 | 2022-11-16 |  |
 | [あの頃、マリー・ローランサン](https://open.spotify.com/track/2XoJ6LugOXLiRdZSjVCvX3) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [あの頃、マリー・ローランサン](https://open.spotify.com/album/7bWzuMYIphCJ1nEO5Brzjh) | 4:24 | 2022-05-24 | 2022-07-13 |
 | [これは恋ではない](https://open.spotify.com/track/1ByoodGA3kCcnZjkuCfbeQ) | [ピチカート・ファイヴ](https://open.spotify.com/artist/0IQalWuw5NBk1xXG5GK0Bv) | [ベリッシマ](https://open.spotify.com/album/74K58BJS1PKn8rSbs3gqHw) | 4:47 | 2022-05-24 | 2022-07-29 |
 | [さよならのオーシャン \(2022 Remaster\)](https://open.spotify.com/track/3tzbvujZ9eYLYFaFOMic2R) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [35\(+3\) SUMMERS Sugiyama, Kiyotaka Single Collection \-VAP Edition\-](https://open.spotify.com/album/22n8w6HBOyt1qHwloIsJLN) | 4:54 | 2022-06-28 | 2022-07-29 |
@@ -79,7 +80,7 @@
 | [アクアマリンのままでいて \- 2021 Remix](https://open.spotify.com/track/3lIgUSh6MzLR0x6jg6EMlZ) | [Carlos Toshiki And Omega Tribe](https://open.spotify.com/artist/3ZSJOcGvaMOI6Op3PYpMM9) | [The Reverb 2022 OMEGA TRIBE \(WARNER MUSIC JAPAN Edition\)](https://open.spotify.com/album/36gn7tmmZceCd3SxHLBrg5) | 4:31 | 2022-09-27 |  |
 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 | 2022-05-24 |  |
 | [カラパナ・ブラック・サンド・ビーチ](https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [ロコ・アイランド](https://open.spotify.com/album/61u9uutLeJHDzBL4Mm2TgA) | 4:13 | 2022-05-24 | 2022-07-21 |
-| [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 | 2022-09-27 |  |
+| [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 | 2022-09-27 | 2023-01-10 |
 | [クルージング・オン](https://open.spotify.com/track/36hvyr5gfBGJ59juRph6EN) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/5dAeCq2fjxzoUSX8HlJrPa) | 4:25 | 2022-05-24 | 2022-07-29 |
 | [グッド・バイ・トランスファー](https://open.spotify.com/track/1bJjNpECiT1CDolSvtoyPJ) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [ニュー・ベスト・ナウ/RAJI](https://open.spotify.com/album/2O5XbDOuyx6cf55J6h8tNs) | 4:19 | 2022-05-24 | 2022-07-29 |
 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 | 2022-05-24 |  |

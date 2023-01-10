@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,717 likes - 78 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,872 likes - 78 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

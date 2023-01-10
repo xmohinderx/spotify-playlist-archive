@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 18414,
+  "num_followers": 18452,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGNkMmQ4ODg1NDVkNmM3ODQwNDc4YjVkMDRhYjE1NDUw",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDNlMmMxMWZiMWQ1ZGM4ZTUxNWEyMTcxMmJkZWFlYjI2",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -71,22 +71,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Travelin' Man",
-      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 228200,
       "name": "Voodoo Woman",
       "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Travelin' Man",
+      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "I Always Get My Man",
+      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
+    },
+    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Stranger Blues (feat. Dashawn Hickman)",
@@ -311,22 +327,6 @@
       "duration_ms": 176722,
       "name": "Stranger Blues (feat. Dashawn Hickman)",
       "url": "https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "I Always Get My Man",
-      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I'm a Bluesman",
-        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "What Are You Doin' to Me",
-      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 360733,
       "name": "Cold Cuts",
       "url": "https://open.spotify.com/track/1kqd9zoyn4sBPzmI9f8BP8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I'm a Bluesman",
+        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "What Are You Doin' to Me",
+      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Back To Bogalusa",
-        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Grape Jelly",
-      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 193106,
       "name": "Bad Axe",
       "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Back To Bogalusa",
+        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Grape Jelly",
+      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Come To Mama",
-      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -571,6 +555,22 @@
       "duration_ms": 227880,
       "name": "Put That Back",
       "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Come To Mama",
+      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Ashton",
-          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Let It Go",
@@ -685,20 +669,20 @@
       "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "All The Way",
-        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Samuel Ashton",
+          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
         }
       ],
-      "duration_ms": 247640,
-      "name": "Stop On By",
-      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
+      "duration_ms": 199960,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -719,6 +703,38 @@
       "duration_ms": 183520,
       "name": "Take Me Just As I Am",
       "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Stop On By",
+      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -771,22 +787,6 @@
       "duration_ms": 279460,
       "name": "Give It Back",
       "url": "https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
       "added_at": "2020-12-01 05:01:00",

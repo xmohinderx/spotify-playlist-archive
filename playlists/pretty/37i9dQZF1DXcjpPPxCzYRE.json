@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 351968,
+  "num_followers": 352128,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkyNTQ0NSwwMDAwMDAwMGEzN2Q5MWUzOTBkMGUzMjQ1NTlhYzExMjZiMmE2OGNi",
+  "snapshot_id": "MTY3MjkyNTQ0NSwwMDAwMDAwMDYxZGYwNDQyZmUwYjBjZDZlMDRjNGQ4YTI0ZWViMGYy",
   "tracks": [
     {
       "added_at": "2022-11-11 13:11:39",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Everyday Life",
-      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Everyday Life",
+      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
         "name": "Look at it in the Light",
         "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 141743,
       "name": "Yards / Gardens",
       "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Quelqu'un m'a dit",
+      "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
+    },
+    {
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Quelqu'un m'a dit",
-      "url": "https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
     },
     {
-      "added_at": "2023-01-09 01:00:07",
+      "added_at": "2023-01-10 00:39:48",
       "album": {
         "name": "Gothic Babe Tendencies (feat. blackbear)",
         "url": "https://open.spotify.com/album/28jYKoBBu4hjMUPBU5cL6n"
@@ -1221,7 +1221,23 @@
       "url": "https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty"
     },
     {
-      "added_at": "2023-01-09 01:00:07",
+      "added_at": "2022-11-11 13:11:39",
+      "album": {
+        "name": "How Do You Sleep? (Acoustic)",
+        "url": "https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 205590,
+      "name": "How Do You Sleep? - Acoustic",
+      "url": "https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf"
+    },
+    {
+      "added_at": "2023-01-10 00:39:48",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "How Do You Sleep? (Acoustic)",
-        "url": "https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE"
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 205590,
-      "name": "How Do You Sleep? - Acoustic",
-      "url": "https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf"
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -1271,22 +1287,6 @@
       "duration_ms": 281332,
       "name": "Paint",
       "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
-    },
-    {
-      "added_at": "2022-11-11 13:11:39",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -1461,20 +1461,20 @@
       "url": "https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ"
     },
     {
-      "added_at": "2023-01-09 01:00:07",
+      "added_at": "2022-11-11 13:11:39",
       "album": {
-        "name": "Evergreen (You Didn't Deserve Me At All) [Stripped]",
-        "url": "https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2"
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Evergreen (You Didn't Deserve Me At All) - Stripped",
-      "url": "https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r"
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
     },
     {
-      "added_at": "2022-11-11 13:11:39",
+      "added_at": "2023-01-10 00:39:48",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+        "name": "Evergreen (You Didn't Deserve Me At All) [Stripped]",
+        "url": "https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+      "duration_ms": 215680,
+      "name": "Evergreen (You Didn't Deserve Me At All) - Stripped",
+      "url": "https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r"
     },
     {
       "added_at": "2022-11-11 13:11:39",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
-      "added_at": "2023-01-09 01:00:07",
-      "album": {
-        "name": "Off Days",
-        "url": "https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr"
-      },
-      "artists": [
-        {
-          "name": "emir taha",
-          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
-        }
-      ],
-      "duration_ms": 169412,
-      "name": "Off Days",
-      "url": "https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb"
-    },
-    {
       "added_at": "2022-11-11 13:11:39",
       "album": {
         "name": "The Wilds",
@@ -1639,6 +1623,22 @@
       "duration_ms": 233289,
       "name": "Real Peach",
       "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+    },
+    {
+      "added_at": "2023-01-10 00:39:48",
+      "album": {
+        "name": "Off Days",
+        "url": "https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr"
+      },
+      "artists": [
+        {
+          "name": "emir taha",
+          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
+        }
+      ],
+      "duration_ms": 169412,
+      "name": "Off Days",
+      "url": "https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb"
     },
     {
       "added_at": "2022-11-11 13:11:39",

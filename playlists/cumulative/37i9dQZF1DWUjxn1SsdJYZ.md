@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mikey Dam
 
-344 songs - 16 hr 23 min
+345 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Going Back](https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [Going Back](https://open.spotify.com/album/0NTtjYRlK8beG6UUsynAHP) | 2:26 | 2022-05-02 | 2022-11-11 |
 | [GOTTA GET IT](https://open.spotify.com/track/17NTiRYELek2oBy1O8itwV) | [Txmmy](https://open.spotify.com/artist/5grusMtV0pDYCTusPLrWM2) | [GOTTA GET IT](https://open.spotify.com/album/3PDam9SE8QxMjI5uqlLWiE) | 2:37 | 2022-07-28 | 2022-11-11 |
 | [GREEKo FREAKo](https://open.spotify.com/track/2PSChERR09PP6NXXIwmLOW) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [GREEKo FREAKo](https://open.spotify.com/album/0Qm3bjooBoS38mEE6rQbN3) | 2:24 | 2022-08-11 | 2022-11-11 |
+| [Greenlight](https://open.spotify.com/track/39TuodfVE3fwcjbBL6JeDu) | [Kay\-M](https://open.spotify.com/artist/4E6NjZtPhoaV7n4SQ3FP58), [Hoodllandsz](https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ), [Kizza](https://open.spotify.com/artist/6nKaovPLk97FgrsrYMtxtG) | [Greenlight](https://open.spotify.com/album/68wWX5kWx8LfF0pdFQpQxS) | 2:41 | 2023-01-09 |  |
 | [Grime](https://open.spotify.com/track/6pXQRgHROE1GsSgE0Ey1pE) | [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH) | [Grime](https://open.spotify.com/album/0ENPqLod3mLWDwOAUVll6S) | 3:18 | 2022-03-21 | 2022-05-06 |
 | [Guap 2](https://open.spotify.com/track/66NM4endRHSnt6GpJ8sYA7) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [Guap 2](https://open.spotify.com/album/3MSWBG0Ib2V3Tz5DJlKzAX) | 2:24 | 2022-08-11 | 2022-09-16 |
 | [Guess Who? \(feat\. POETIK\)](https://open.spotify.com/track/3NiIIYfw5muQPkeiKmgCLs) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb), [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA) | [Guess Who? \(feat\. POETIK\)](https://open.spotify.com/album/45E44Kux5cA4wkdAQidsrC) | 3:49 | 2022-10-27 |  |

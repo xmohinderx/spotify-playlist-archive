@@ -4,7 +4,7 @@
 
 > Piano music to get some work done! <br/>Reading, writing, studying, learning to the sound of soft work music.
 
-608 songs - 1 day 2 hr 30 min
+610 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Back to you](https://open.spotify.com/track/58fIHb9sDH1QCsVLRBaUVq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Back to you](https://open.spotify.com/album/3OpMdkUcg1dq1JBc60ZVwz) | 2:20 | 2022-07-19 |  |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 |  |
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 |  |
+| [Beck](https://open.spotify.com/track/2gx4U9R8v4vZBcxKIV8oLz) | [JF Pierre](https://open.spotify.com/artist/0F6Qj5Fha0HvLddRfhbZ5E) | [Le Pommier](https://open.spotify.com/album/57cKftLAQQTrYafu75bPwO) | 2:17 | 2023-01-09 |  |
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2021-12-07 |  |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 |  |
 | [Between Us](https://open.spotify.com/track/7aN5c4Faf6EI3u5gLojcRC) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [Between Us](https://open.spotify.com/album/0twGaRx2Ws80SYmuuCyBgw) | 2:07 | 2022-08-26 |  |
@@ -103,6 +104,7 @@
 | [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-21 |  |
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-05 |  |
 | [Collecting Memories](https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [Collecting Memories](https://open.spotify.com/album/6VSobr1DUTShD75358fUps) | 2:47 | 2022-07-19 |  |
+| [Common Ground](https://open.spotify.com/track/6xRvgTp2yFfkOua9icx0rD) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Common Ground](https://open.spotify.com/album/1SZeNgnZXcm31SvYRsWWJY) | 2:02 | 2023-01-09 |  |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 |  |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 |  |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-12-07 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-15",
-  "description": "Apapun yang terjadi di belakang, sambut tahun yang baru dengan happy! ",
+  "description": "Feel good songs yang bikin kamu happy",
   "name": "Yang Penting Happy",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 217066,
       "name": "Candy",
       "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 148207,
       "name": "Cloud 9 (feat. Tegan and Sara)",
       "url": "https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 283026,
       "name": "Fortune Cookie in Love ( Fortune Cookie Yang Mencinta)",
       "url": "https://open.spotify.com/track/3tL82LotUXYZ8bkifLmbie"
@@ -570,6 +570,28 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        },
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224238,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy"
     },
     {
       "album": {
@@ -926,7 +948,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 214567,
       "name": "Monokrom",
       "url": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL"
@@ -1104,7 +1126,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 223080,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
@@ -1133,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Sesaat Kau Hadir",
+        "url": "https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g"
+      },
+      "artists": [
+        {
+          "name": "Gery Gany",
+          "url": "https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Sesaat Kau Hadir",
+      "url": "https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP"
+    },
+    {
+      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
       },
@@ -1144,7 +1184,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
@@ -1496,7 +1536,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 220551,
       "name": "Vegas (I Wanna Ride)",
       "url": "https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5"

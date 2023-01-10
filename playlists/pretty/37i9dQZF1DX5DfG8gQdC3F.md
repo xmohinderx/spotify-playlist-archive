@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Listen to new music from Popcaan ft\. Drake \(pictured\), Shania Twain, Preston Pablo, Josh Ross, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,044 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,062 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

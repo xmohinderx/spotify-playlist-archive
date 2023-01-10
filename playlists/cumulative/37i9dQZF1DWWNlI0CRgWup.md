@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
+> Découvrez notre sélection des artistes à suivre\. Photo : Kerchak
 
 84 songs - 4 hr 31 min
 

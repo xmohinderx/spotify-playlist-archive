@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDBiNzFiODI3YTBlNWYyOTExNzBmNWQ5N2FhNmMyZmM0",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDUwYjRhMzYyMzA2OWY4YWFmMjdmYzc3OWU3MGM0NzE3",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Fox",
-        "url": "https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4"
-      },
-      "artists": [
-        {
-          "name": "Karim Ouellet",
-          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "L'amour",
-      "url": "https://open.spotify.com/track/1LUPxouIVwKIbs31i9WA5s"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "France d'Amour",
         "url": "https://open.spotify.com/album/5z4QHFL6rFZxr9hTsbJz7P"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215560,
       "name": "Je n'irai pas ailleurs",
       "url": "https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Fox",
+        "url": "https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4"
+      },
+      "artists": [
+        {
+          "name": "Karim Ouellet",
+          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "L'amour",
+      "url": "https://open.spotify.com/track/1LUPxouIVwKIbs31i9WA5s"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Sous le m\u00eame toit",
         "url": "https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "COUCOU",
-        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "Mathieu B\u00e9rub\u00e9",
-          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 238060,
-      "name": "JOS\u00c9PHINE",
-      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "COUCOU",
+        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
+      },
+      "artists": [
+        {
+          "name": "Mathieu B\u00e9rub\u00e9",
+          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
+        }
+      ],
+      "duration_ms": 238060,
+      "name": "JOS\u00c9PHINE",
+      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 229560,
       "name": "Les amants de Pomp\u00e9i",
       "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Roi",
-        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 153846,
-      "name": "Roi",
-      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Citoyen d'Am\u00e9rique",
         "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Roi",
+        "url": "https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "Roi",
+      "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "L'heure mauve",
         "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 203666,
       "name": "Les fleurs d\u2019une autre dimension",
       "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Sans tomber",
-        "url": "https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH"
-      },
-      "artists": [
-        {
-          "name": "Melissa Ouimet",
-          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
-        }
-      ],
-      "duration_ms": 129119,
-      "name": "Sans tomber",
-      "url": "https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Sans tomber",
+        "url": "https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH"
+      },
+      "artists": [
+        {
+          "name": "Melissa Ouimet",
+          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "Sans tomber",
+      "url": "https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Mwen Pare",
         "url": "https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 202959,
-      "name": "Porcelaine",
-      "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 297133,
       "name": "Oublie pas",
       "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 202959,
+      "name": "Porcelaine",
+      "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Avec les yeux",
+        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
+      },
+      "artists": [
+        {
+          "name": "Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Masque d'or",
+      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Concorde",
         "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 250469,
       "name": "Moteskano - Les sentiers de nos anc\u00eatres",
       "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Avec les yeux",
-        "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
-      },
-      "artists": [
-        {
-          "name": "Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Masque d'or",
-      "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Airs pa\u00efens",
+        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "\u00c9lectro-Vacances",
         "url": "https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Airs pa\u00efens",
-        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
+        "name": "Qui a mis le feu",
+        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
         }
       ],
-      "duration_ms": 149293,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
+      "duration_ms": 171546,
+      "name": "Qui a mis le feu",
+      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 175600,
       "name": "La Presse (Baby Girl)",
       "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Qui a mis le feu",
-        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
-      },
-      "artists": [
-        {
-          "name": "Mat Vezio",
-          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Qui a mis le feu",
-      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     },
     {
       "added_at": "2022-05-25 18:00:00",

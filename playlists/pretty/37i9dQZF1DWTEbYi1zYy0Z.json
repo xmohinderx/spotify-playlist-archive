@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 42165,
+  "num_followers": 42234,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDllYTQwZmY4MzUxNTFkZWQ4YzdhOWYxZDkyNjk4ODI4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGY4ODQ0ZmFjMzMyNWNmNTJlNGE4MWIwYTQ5OGYzMWIx",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "A Song for Peace",
@@ -231,6 +215,22 @@
       "duration_ms": 231509,
       "name": "In His Vision",
       "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
-      },
-      "artists": [
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Secret Sauce",
-      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Foolish Heart",
@@ -343,6 +327,22 @@
       "duration_ms": 217151,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Secret Sauce",
+      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
-      "added_at": "2022-02-14 15:14:54",
-      "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Simple Things",
@@ -461,20 +445,20 @@
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-02-14 15:14:54",
       "album": {
-        "name": "Savoir Faire",
-        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 318733,
-      "name": "Savoir Faire",
-      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -495,6 +479,22 @@
       "duration_ms": 285069,
       "name": "Making Love To You",
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Savoir Faire",
+        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 318733,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -581,26 +581,6 @@
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "A Sunny Day",
@@ -619,6 +599,26 @@
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -689,6 +689,38 @@
       "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
+      },
+      "artists": [
+        {
+          "name": "Marco Giubileo",
+          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
+        },
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        },
+        {
+          "name": "Kim Stone",
+          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
+        },
+        {
+          "name": "Roberto Soggetti",
+          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
+        },
+        {
+          "name": "Simone Boffa",
+          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
+        }
+      ],
+      "duration_ms": 231267,
+      "name": "III",
+      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Ticket to Pittsburgh",
@@ -713,6 +745,22 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Piano Tales",
+        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 248712,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -731,22 +779,6 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Piano Tales",
-        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 248712,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -847,22 +879,6 @@
       "duration_ms": 245426,
       "name": "Tribute",
       "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "I Wanna Be Down",
-        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
-      },
-      "artists": [
-        {
-          "name": "Nathan Allen",
-          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
-        }
-      ],
-      "duration_ms": 294252,
-      "name": "I Wanna Be Down",
-      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     }
   ],
   "unique_name": "New Smooth Jazz",

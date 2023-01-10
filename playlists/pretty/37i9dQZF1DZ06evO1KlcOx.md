@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 
 > This is Grouper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,427 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,430 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 11 | [Little Gray Cat](https://open.spotify.com/track/1Sllhw0OERRlTU9tjFpbW3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 4:25 |
 | 12 | [I'm Dragging a Dead Deer Up a Hill](https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:21 |
 | 13 | [The way her hair falls](https://open.spotify.com/track/0uwDgbSX1wIBVMSv4yHUKN) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:35 |
-| 14 | [Blouse](https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 2:45 |
-| 15 | [Moon Is Sharp](https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:48 |
-| 16 | [Fallow](https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 4:07 |
+| 14 | [Moon Is Sharp](https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:48 |
+| 15 | [Fallow](https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 4:07 |
+| 16 | [Blouse](https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 2:45 |
 | 17 | [Traveling Through a Sea](https://open.spotify.com/track/5uOBRzLWxGnE564iW0PF7y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:23 |
-| 18 | [Clearing](https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 4:41 |
-| 19 | [Vapor Trails](https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 9:04 |
+| 18 | [Vapor Trails](https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 9:04 |
+| 19 | [Clearing](https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 4:41 |
 | 20 | [A Light Change](https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:21 |
 | 21 | [Fishing Bird \(Empty Gutted in the Evening Breeze\)](https://open.spotify.com/track/637sViSUUQTBice1wmz5id) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 3:51 |
-| 22 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
-| 23 | [She Loves Me That Way](https://open.spotify.com/track/6SAtmwkARP0M3BF11EsVqy) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 8:34 |
+| 22 | [She Loves Me That Way](https://open.spotify.com/track/6SAtmwkARP0M3BF11EsVqy) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 8:34 |
+| 23 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
 | 24 | [The Races](https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 0:50 |
 | 25 | [Disengaged](https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:16 |
 | 26 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 49 | [Birthday Song](https://open.spotify.com/track/76m9qTSWvcVVhyC3JW7tnY) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 3:22 |
 | 50 | [Way Their Crept](https://open.spotify.com/track/2LhBBwOS7Aoo3VtmpdCYab) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Way Their Crept](https://open.spotify.com/album/2UbTwil7eR6Lov37LRyVhb) | 2:33 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA5NGZiYzc2ODRkMzg0MmY0YmY5ZGI4NmJmMGU3ZTIyZA==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBjODhlMmI0OTc0NjJmZjEwNDkxNzk1NDA4OGIzZDk0Ng==`

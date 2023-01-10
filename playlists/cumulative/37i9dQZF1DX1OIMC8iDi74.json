@@ -3423,6 +3423,28 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/3gyyIawbIKykMMi5QGBPMA"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "Heimanu",
+          "url": "https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/60uzexsEyISDzri9vDavIT"
+    },
+    {
+      "album": {
         "name": "Out of Order",
         "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
       },
@@ -3620,7 +3642,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 121007,
       "name": "Red Ish",
       "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"

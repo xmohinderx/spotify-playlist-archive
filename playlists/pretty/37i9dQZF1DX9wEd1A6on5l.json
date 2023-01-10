@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 23050,
+  "num_followers": 23100,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzkyMiwwMDAwMDAwMDYwOTQ4Zjg1Njk2ODA0YWViYWFlYWIwOGZkMGQ5ZDJm",
+  "snapshot_id": "MTY3MTM1NzkyMiwwMDAwMDAwMDY3YTE0MDFiMGY0OTI5MTM4YWY0NWZkMjMyMjY0Nzdh",
   "tracks": [
     {
       "added_at": "2022-09-19 07:19:33",
@@ -187,18 +187,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Sip (Alcohol)",
-        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Sip (Alcohol)",
-      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2022-11-15 09:05:34",
@@ -267,22 +271,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+        "name": "Sip (Alcohol)",
+        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+      "duration_ms": 158400,
+      "name": "Sip (Alcohol)",
+      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
       "added_at": "2022-09-23 06:29:30",
@@ -299,22 +299,6 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
-    },
-    {
-      "added_at": "2022-09-09 09:15:13",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 123716,
-      "name": "Organise",
-      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2022-09-09 09:15:13",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123716,
+      "name": "Organise",
+      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
     },
     {
       "added_at": "2022-12-02 04:54:31",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220525,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
-    },
-    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Boy Alone",
@@ -639,6 +623,22 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220525,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
       "added_at": "2022-11-28 06:41:34",
       "album": {
         "name": "Traboski",
@@ -755,6 +739,22 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2022-09-23 06:29:30",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
+      "added_at": "2023-01-10 01:29:03",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+    },
+    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "Big Flexa",
@@ -833,20 +849,24 @@
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
-      "added_at": "2023-01-09 01:09:05",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
     },
     {
       "added_at": "2022-10-21 06:16:18",
@@ -923,26 +943,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Sungba (Remix) [feat. Burna Boy]",
-        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Come My Way",
         "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 208718,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+    },
+    {
       "added_at": "2022-08-08 04:41:54",
       "album": {
         "name": "Machala",
@@ -1215,22 +1231,6 @@
       "duration_ms": 154565,
       "name": "Machala",
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Second Sermon (Remix)",
         "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1411,22 +1411,6 @@
       "duration_ms": 167142,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2022-10-07 05:54:24",
@@ -1491,6 +1475,22 @@
       "duration_ms": 204232,
       "name": "Bad Girl (feat. Wande Coal & Victony)",
       "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2022-07-14 23:00:00",

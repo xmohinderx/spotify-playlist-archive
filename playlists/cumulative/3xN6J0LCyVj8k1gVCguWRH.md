@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,925 songs - 4 day 14 hr 58 min
+1,927 songs - 4 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Comme une idole](https://open.spotify.com/track/7LD69G2RofF7RonMtQ32vj) | [Dynah](https://open.spotify.com/artist/0OLQW4uZajLMlzbvGBxZFh) | [Dynah](https://open.spotify.com/album/7afBd8lOSUSsSbUi0XpwNJ) | 3:55 | 2020-11-27 | 2020-12-12 |
 | [Communication](https://open.spotify.com/track/4v5idbCKVg5yDMV3Rq6juY) | [Eternal Zion](https://open.spotify.com/artist/34coczHTQw5HnrAfAJpXBr) | [Relationship Goals](https://open.spotify.com/album/4ZZxyQxR6Kx2HU7bRKddTW) | 3:30 | 2021-03-26 | 2021-04-11 |
 | [Como](https://open.spotify.com/track/21XoZTD5XE9qx0aQ62mbpn) | [Barang](https://open.spotify.com/artist/7mZm5qBtyQLd3ykBSvB8Pe) | [Como](https://open.spotify.com/album/7o3ROVrdJcifHOFlKUyvMb) | 3:14 | 2022-11-18 | 2022-12-10 |
+| [Company](https://open.spotify.com/track/1W8Ip7MHOwAg0nCMQ4tQos) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Company](https://open.spotify.com/album/16HYUeWDdsIYunousi5lG1) | 2:08 | 2023-01-09 |  |
 | [Complicated](https://open.spotify.com/track/4QlN2nd2u01skmi98F2FQp) | [Ellaye](https://open.spotify.com/artist/4p3cSdFxcnjZmQQ9tJJxGa) | [Complicated](https://open.spotify.com/album/7oUxVanOh84e9vHX5nHzjd) | 2:57 | 2021-03-14 | 2021-03-27 |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2019-09-29\* | 2021-11-19 |
 | [Confetti](https://open.spotify.com/track/5yQ3r7YV573w0mpGtNpoAl) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Confetti](https://open.spotify.com/album/433yeUccrhJPYJTqgOkxCv) | 3:04 | 2019-10-12 | 2019-11-16 |
@@ -469,6 +470,7 @@
 | [Don't Force It](https://open.spotify.com/track/3TgfsegE04ZAAohjNigwpx) | [Just Eric](https://open.spotify.com/artist/6dqTFdqy7M4rfOG3LUnci7) | [Don't Force It](https://open.spotify.com/album/1B9QXlK0ou8TSBnJqT2pqa) | 1:45 | 2021-08-18 | 2021-09-03 |
 | [Don't Hate The Party](https://open.spotify.com/track/2xpnrZ4rekdmYVHc2z4iv4) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Don't Hate The Party](https://open.spotify.com/album/4mOpec4pumMLBjcdFoVbuw) | 3:48 | 2022-05-18 | 2022-06-05 |
 | [Don't Know Why](https://open.spotify.com/track/603Xjm60SSuB9mIGPyPSwh) | [Band of Coyotes](https://open.spotify.com/artist/2q1a1UBuTh6weuuYsS4ibO) | [Don't Know Why](https://open.spotify.com/album/7MMgfnybFH5tFtk3coCGlH) | 4:42 | 2020-01-06 | 2020-02-08 |
+| [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 | 2023-01-09 |  |
 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/2Yzk4hvqynJjGsRX3VwK7e) | [Griffin Robillard](https://open.spotify.com/artist/0dQuSumyBpohSxSWm97raN) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/40873zmITAYrlXtEVhA6JV) | 3:31 | 2022-03-30 | 2022-04-20 |
 | [Don't Matter](https://open.spotify.com/track/3lbHMI0nkBhZPnbb4jnzhK) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Don't Matter](https://open.spotify.com/album/2ZgpmixiU543Vpseg7s04E) | 2:26 | 2022-11-25 | 2022-12-17 |
 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 | 2021-11-18 |  |

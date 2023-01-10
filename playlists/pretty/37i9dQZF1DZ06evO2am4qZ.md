@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,202 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,209 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 41 | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK) | 1:06 |
 | 42 | [Me First](https://open.spotify.com/track/0LhgsQDr1TtG4e21NVn7tS) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:41 |
 | 43 | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/track/3pc2kn6ni9AsB7ZfoKUvHH) | [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/album/182Nr8zqQ7AwtSDt24lhAu) | 3:13 |
-| 44 | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/3SbeHIDfwxUYdDFfjg8wmY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/6PVHwuJPqw70S9a0BHPEEd) | 3:02 |
-| 45 | [Hot Girl \(feat\. Kari Faux\)](https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 2:42 |
+| 44 | [Hot Girl \(feat\. Kari Faux\)](https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 2:42 |
+| 45 | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/3SbeHIDfwxUYdDFfjg8wmY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/6PVHwuJPqw70S9a0BHPEEd) | 3:02 |
 | 46 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
-| 47 | [Hey Ladies](https://open.spotify.com/track/5CxEjGBDDT1Bf2ifds33Op) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir) | 2:48 |
+| 47 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 |
 | 48 | [Let It Rain \(feat\. 6lack\)](https://open.spotify.com/track/59Vf2uyRLPrVqXkCKRhyjE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:06 |
-| 49 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 |
+| 49 | [Hey Ladies](https://open.spotify.com/track/5CxEjGBDDT1Bf2ifds33Op) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir) | 2:48 |
 | 50 | [B.O.M.B.S.](https://open.spotify.com/track/4D8KWoUe3oTaQSQq928X7B) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [B.O.M.B.S.](https://open.spotify.com/album/26Mu53kDQHQ5wIjUhpiMhY) | 3:13 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA1MDc2YmIxYzZkOGE0YjFkZTBhMTBkY2E3OGMxNDJlMA==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA0NDcwYTFmNDQwNThjZTg2NDE1ZGIwMDZiN2U2ZGMyZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,201 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,216 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 18 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
 | 19 | [BIA BIA \(feat\. Lil Jon\)](https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:05 |
 | 20 | [Freak \(Remix\)](https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Freak Remix](https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p) | 3:04 |
-| 21 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
-| 22 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
+| 21 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
+| 22 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
 | 23 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 |
 | 24 | [Labels\. \(ft\. Moneybagg Yo, BIA\)](https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 2:35 |
 | 25 | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Gucci Comin' Home](https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Gucci Comin' Home](https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU) | 2:59 |
 | 50 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA0MjM0OTQ3Y2E1YzA3NzEwMTQwOGYyOGY5NTdkZWI3Mg==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBhMmZkZmJkOWM0NDZlZDdmMjMzMWY3MmFlZTE5NDFlNQ==`

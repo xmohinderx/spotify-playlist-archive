@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: H1\-KEY\(하이키\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: HUH YUNJIN\(허윤진\)
 
-330 songs - 17 hr 49 min
+331 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2021-04-22 | 2022-04-20 |
 | [Danger](https://open.spotify.com/track/4UHUzgsVA31r4yUq5dvfb1) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [JOY](https://open.spotify.com/album/4DqTvL7XSzatTOXo0wuQ29) | 3:42 | 2022-06-09 | 2022-06-16 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:29 | 2020-10-20 | 2022-04-19 |
-| [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-25 |  |
+| [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-25 | 2023-01-10 |
 | [DEEP](https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 2:59 | 2022-05-17 | 2022-05-27 |
 | [Deja Vu](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 | 2020-10-20 | 2022-04-05 |
 | [Devil](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Devil](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) | 2:57 | 2021-03-01 | 2022-04-17 |
@@ -107,7 +107,7 @@
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 | 2022-08-17 |
 | [FLOWER SHOWER](https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR) | 3:08 | 2021-02-26 | 2022-07-27 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-08 |  |
-| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-23 |  |
+| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-23 | 2023-01-10 |
 | [Freesm](https://open.spotify.com/track/2Z7Uz9xmEeHKdWpeR05wfk) | [Hashtag](https://open.spotify.com/artist/1SABBqkbfguBXhZQJK5t3e) | [haShtag 2nd mini album \#Aeji \#paSsion](https://open.spotify.com/album/18b7QE4L7khNdLI1JjfNfE) | 3:03 | 2021-02-26 | 2022-04-19 |
 | [FUTURE 퓨처](https://open.spotify.com/track/6EvUmJtq5UMBWkcID2J85l) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [FUTURE 퓨처](https://open.spotify.com/album/7F6gEdRkVo6XNTWTzkiFAu) | 3:40 | 2020-10-13\* | 2022-04-17 |
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2020-10-20 | 2021-03-17 |
@@ -139,6 +139,7 @@
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-11-09 |  |
 | [I Love You](https://open.spotify.com/track/7n2HVHWqFsyAOs5HqmE1Dl) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [I Love You](https://open.spotify.com/album/0BePiDVdS09GVoBe30WMAd) | 3:14 | 2021-02-28 | 2022-07-15 |
+| [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 |  |
 | [I'm Not Cool](https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 2:54 | 2021-02-28 | 2021-03-02 |
 | [I'm so sick](https://open.spotify.com/track/3lSM3Wn3RJbzAAHzJ3sX1f) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/5xP2GsTFLRJCtAwYYaNKWh) | 3:19 | 2021-01-23 | 2022-07-03 |
 | [i'M THE TREND](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i'M THE TREND](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) | 3:25 | 2020-10-13\* | 2022-06-10 |
@@ -148,7 +149,7 @@
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2020-10-20 | 2022-07-13 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-12 | 2022-07-29 |
-| [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 | 2022-07-25 | 2022-12-02 |
+| [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 | 2022-07-25 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 |  |
 | [J.us.T](https://open.spotify.com/track/2DUIPSrKvyzLb2o1qd4xjg) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [J.us.T](https://open.spotify.com/album/3nqAJTisL4LzoF0AO4w8Ph) | 3:03 | 2021-03-10 | 2022-04-19 |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2020-10-20 | 2022-04-15 |

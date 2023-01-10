@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 21416,
+  "num_followers": 21444,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMGY4ZmM4YmNlZTliNGZjZmVmZjA1M2RkOTVmZjkxYzQ2",
+  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMGIzMWUxN2NjNGY4NTMwMDRmZjdjZDM2ZmQwOGI3ZDMx",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -267,38 +267,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -347,6 +315,38 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
         "name": "Hints, Allegations & Things Left Unsaid",
         "url": "https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG"
       },
@@ -363,38 +363,6 @@
     {
       "added_at": "2022-06-30 18:55:35",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Gold on the Ceiling",
-      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
-    },
-    {
-      "added_at": "2022-06-30 18:55:35",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2022-06-30 18:55:35",
-      "album": {
         "name": "Broken Boy Soldiers",
         "url": "https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 215266,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM"
+    },
+    {
+      "added_at": "2022-06-30 18:55:35",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -471,6 +455,22 @@
       "duration_ms": 235546,
       "name": "Under Cover of Darkness",
       "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
+    },
+    {
+      "added_at": "2022-06-30 18:55:35",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2022-06-30 18:55:35",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Wasting Light",
-        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Rope",
-      "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Rope",
+      "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Outrage! Is Now",
         "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 198081,
       "name": "Freeze Me",
       "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Trouble\u2019s Coming",
-        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Trouble\u2019s Coming",
-      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Lunch, Recess & Detention",
         "url": "https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc"
       },
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/0LBrVo5mANVWJb1h247JRi"
+        "name": "Trouble\u2019s Coming",
+        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
       },
       "artists": [
         {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 226568,
-      "name": "30",
-      "url": "https://open.spotify.com/track/6nipZlJiUvI0I7lCf1Z7Li"
+      "duration_ms": 228400,
+      "name": "Trouble\u2019s Coming",
+      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     }
   ],
   "unique_name": "Rock Road Trip",

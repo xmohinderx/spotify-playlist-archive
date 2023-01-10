@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-406 songs - 1 day 1 hr 29 min
+408 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-06-28 |  |
 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2022-06-28 | 2022-10-08 |
 | [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 |  |
+| [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-10 |  |
 | [All Of You](https://open.spotify.com/track/1lHu8rFjgnkUap7qLuW1Gs) | [Ted Lightfoot](https://open.spotify.com/artist/1IVEN0ymus5DucfVrSb5GK) | [In Love](https://open.spotify.com/album/3CIICQCZaPMNikF0SN5mPH) | 2:29 | 2022-06-28 | 2022-10-08 |
 | [All Or Nothing At All](https://open.spotify.com/track/4F7ntTleUNgTm6FBTcxgoP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [All Or Nothing At All](https://open.spotify.com/album/71HrtDRLZfR44etDnFWwdI) | 3:48 | 2022-11-10 |  |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-06-28 |  |
@@ -85,7 +86,7 @@
 | [Didn't know who else to call](https://open.spotify.com/track/2me6tmgT1A8d3R9stvr2UK) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Didn't know who else to call](https://open.spotify.com/album/453PIOiFYjFsoANz9ieG2P) | 3:31 | 2022-12-01 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-06-28 |  |
-| [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2022-06-28 |  |
+| [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2022-06-28 | 2023-01-10 |
 | [Don't Open Your Eyes](https://open.spotify.com/track/7df0Uedn5GeMUWObiYxqFe) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Johan Tengholm](https://open.spotify.com/artist/43zscbPDZ5M7eJTRs0Uuz0), [Henrik Jäderberg](https://open.spotify.com/artist/1wwJ6VEXQBeKg50pBqn6sJ) | [Don't Open Your Eyes](https://open.spotify.com/album/1ejv2hUVUyou505zdv37pB) | 2:55 | 2022-06-28 | 2022-10-23 |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-06-28 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-06-28 |  |
@@ -194,7 +195,7 @@
 | [I´ll Never Smile Again](https://open.spotify.com/track/5vFqxBA36r8w1NKDUhpt07) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I´ll Never Smile Again](https://open.spotify.com/album/3ce31a140RpGp1inchw4Cx) | 4:05 | 2022-06-28 | 2022-11-18 |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-06-28 | 2022-11-17 |
 | [I´m Old Fashioned](https://open.spotify.com/track/5ANvL1PhHrU00JHPfIT6d8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´m Old Fashioned](https://open.spotify.com/album/5MTHEEsQcOHppWKKxSAUt6) | 4:46 | 2022-06-28 | 2022-10-08 |
-| [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2022-06-28 |  |
+| [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2022-06-28 | 2023-01-10 |
 | [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-30 |  |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2022-06-28 | 2022-10-08 |
 | [Juliana](https://open.spotify.com/track/54qfiHthTAtNrhaW7mT9tS) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Sweet Apple](https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW) | 3:40 | 2022-11-10 |  |
@@ -252,6 +253,7 @@
 | [Moonrays](https://open.spotify.com/track/6akhlCuFUh7zxQ1UnEjZaK) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Moonrays](https://open.spotify.com/album/32VVgwbc18tkYZj7XWBinw) | 2:48 | 2022-11-10 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-30 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-30 |  |
+| [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-10 |  |
 | [My First Choice](https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [My First Choice](https://open.spotify.com/album/23DX1smryDu58RH0nxWHJx) | 3:44 | 2022-08-30 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-07 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 17230,
+  "num_followers": 17278,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU3MzAzMSwwMDAwMDAwMGYwODQyNzllYzU1ZTJlMTdhZDc1NjgwZDNlMGQwOWY0",
+  "snapshot_id": "MTY3MDU3MzAzMSwwMDAwMDAwMGM4OTJjY2I3ZWQyNmMyZjIxMjMwZTFlN2RmY2Y2MDk4",
   "tracks": [
     {
       "added_at": "2022-12-09 08:03:51",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Speak No Evil",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 503786,
-      "name": "Speak No Evil - Remastered 1998 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Components",
         "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 311106,
       "name": "Little B's Poem - Remastered 1994",
       "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -171,6 +139,22 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -183,6 +167,54 @@
       "duration_ms": 284240,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/26Rjb0u2d5Oj5aPZlQ9gAm"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 552493,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 503786,
+      "name": "Speak No Evil - Remastered 1998 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 642506,
+      "name": "A Love Supreme, Pt. III - Pursuance",
+      "url": "https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -203,18 +235,34 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 552493,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
+      "duration_ms": 401560,
+      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 331026,
+      "name": "Cascades",
+      "url": "https://open.spotify.com/track/1CwtmQHTdSpIFZY82PFhMJ"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -247,22 +295,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 642506,
-      "name": "A Love Supreme, Pt. III - Pursuance",
-      "url": "https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Inner Urge (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
@@ -279,22 +311,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401560,
-      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Nefertiti (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
       },
@@ -307,38 +323,6 @@
       "duration_ms": 451093,
       "name": "Madness",
       "url": "https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Speak No Evil",
-        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 491493,
-      "name": "Witch Hunt - Remastered 1998 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 331026,
-      "name": "Cascades",
-      "url": "https://open.spotify.com/track/1CwtmQHTdSpIFZY82PFhMJ"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -407,6 +391,22 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 491493,
+      "name": "Witch Hunt - Remastered 1998 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
         "name": "Members Don't Get Weary",
         "url": "https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 502866,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -519,6 +503,22 @@
       "duration_ms": 371333,
       "name": "Israel",
       "url": "https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 523706,
-      "name": "Mr. Kenyatta - Remastered",
-      "url": "https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Point Of Departure (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 523706,
+      "name": "Mr. Kenyatta - Remastered",
+      "url": "https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
         "name": "Nefertiti (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 534573,
       "name": "Hand Jive",
       "url": "https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Red Clay",
-        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 643706,
-      "name": "The Intrepid Fox",
-      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -755,54 +739,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 323962,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Cornbread",
-        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 409173,
-      "name": "Most Like Lee",
-      "url": "https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Miles Smiles",
-        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 464000,
-      "name": "Gingerbread Boy",
-      "url": "https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "More Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
       },
@@ -819,22 +755,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 331253,
-      "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "East Broadway Run Down",
         "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
       },
@@ -847,6 +767,38 @@
       "duration_ms": 742960,
       "name": "Blessing In Disguise",
       "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Red Clay",
+        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 643706,
+      "name": "The Intrepid Fox",
+      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -899,6 +851,54 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
+        "name": "Cornbread",
+        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 409173,
+      "name": "Most Like Lee",
+      "url": "https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Miles Smiles",
+        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 464000,
+      "name": "Gingerbread Boy",
+      "url": "https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 331253,
+      "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
         "name": "Happenings",
         "url": "https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "E.S.P. (2022 Remaster)",
-        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "R.J.",
-      "url": "https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Dear John C.",
         "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 229733,
       "name": "Love Bird",
       "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "The Best Of Lee Morgan",
-        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 332373,
-      "name": "Speedball",
-      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1011,6 +979,38 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
+        "name": "E.S.P. (2022 Remaster)",
+        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "R.J.",
+      "url": "https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "The Best Of Lee Morgan",
+        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 332373,
+      "name": "Speedball",
+      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
         "name": "Down With It",
         "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 342360,
       "name": "Perception - Remastered",
       "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 385933,
-      "name": "Components - Remastered 1994",
-      "url": "https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Adam's Apple (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 414493,
-      "name": "The Collector - Remastered",
-      "url": "https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT"
+      "duration_ms": 385933,
+      "name": "Components - Remastered 1994",
+      "url": "https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1103,6 +1087,22 @@
       "duration_ms": 563920,
       "name": "Point Of Many Returns",
       "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 414493,
+      "name": "The Collector - Remastered",
+      "url": "https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 569453,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Peacemeal",
         "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194266,
       "name": "Thumb Under",
       "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 569453,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
     }
   ],
   "unique_name": "Post Bop Essentials",

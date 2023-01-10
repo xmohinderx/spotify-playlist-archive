@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 16351,
+  "num_followers": 16368,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGFmZjhjNTkzNDRhODgxN2YyZGNiNWJiNTNiNWI5MzU3",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGY2ZDVjMmIyZTg0YTUzN2I1YWNkMTI3MmE5MjkwMDgx",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Bichota (Post-Punk)",
-        "url": "https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 181058,
-      "name": "Bichota (Post-Punk)",
-      "url": "https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Usted Se\u00f1alemelo",
         "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
       },
@@ -139,38 +123,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Chupalapija",
-        "url": "https://open.spotify.com/album/7kOKGjiQQuqeDmaBIr86sA"
+        "name": "Bichota (Post-Punk)",
+        "url": "https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD"
       },
       "artists": [
         {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         }
       ],
-      "duration_ms": 117658,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/6Ua8Ce78UqIR2CoGZG1GR9"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Espacio Vac\u00edo",
-        "url": "https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        },
-        {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
-        }
-      ],
-      "duration_ms": 233932,
-      "name": "Espacio Vac\u00edo",
-      "url": "https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO"
+      "duration_ms": 181058,
+      "name": "Bichota (Post-Punk)",
+      "url": "https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -191,6 +155,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Chupalapija",
+        "url": "https://open.spotify.com/album/7kOKGjiQQuqeDmaBIr86sA"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 117658,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/6Ua8Ce78UqIR2CoGZG1GR9"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "La Danza de los Principiantes",
         "url": "https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1"
       },
@@ -203,6 +183,46 @@
       "duration_ms": 263976,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Remixes II",
+        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "Tom Tom",
+          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
+        }
+      ],
+      "duration_ms": 228290,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Espacio Vac\u00edo",
+        "url": "https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        },
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "duration_ms": 233932,
+      "name": "Espacio Vac\u00edo",
+      "url": "https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -275,26 +295,6 @@
       "duration_ms": 156333,
       "name": "LATAS",
       "url": "https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Remixes II",
-        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        },
-        {
-          "name": "Tom Tom",
-          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
-        }
-      ],
-      "duration_ms": 228290,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Solomias",
-        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Solomias",
-      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/7dM9MuZU35g3k4Ow5YfQdM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 167253,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0QQtYBkrf5hyxJFej7n8WT"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Solomias",
+        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Solomias",
+      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Cena",
-        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+        "name": "El Pr\u00f3ximo Verano",
+        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 166500,
-      "name": "La Cena",
-      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+      "duration_ms": 269705,
+      "name": "El Pr\u00f3ximo Verano",
+      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 131688,
       "name": "Lo que me asusta",
       "url": "https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "El Pr\u00f3ximo Verano",
-        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 269705,
-      "name": "El Pr\u00f3ximo Verano",
-      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Que No",
+      "url": "https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Doble de Riesgo",
         "url": "https://open.spotify.com/album/3AldHEpT3we5tF068rm14O"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 203564,
       "name": "Sab\u00e9s D\u00f3nde Encontrarme",
       "url": "https://open.spotify.com/track/7fMVcLdtD9RGlUfMxnO08T"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Que No",
-      "url": "https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Soy un Extra\u00f1o",
         "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Savia Roja",
         "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 153710,
       "name": "Toxi",
       "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Ultravioleta",
         "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Batalla Naval",
-        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Batalla Naval",
-      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Jungla de Metal 2",
         "url": "https://open.spotify.com/album/5rhIm1StffJUTXTmpKuEOY"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 148093,
       "name": "Fiesta en el Barrio",
       "url": "https://open.spotify.com/track/6M2RoXQsms5qijA92zlDLW"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Lmirl",
-        "url": "https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA"
-      },
-      "artists": [
-        {
-          "name": "The Otherness",
-          "url": "https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs"
-        }
-      ],
-      "duration_ms": 164154,
-      "name": "She Feels the Soul",
-      "url": "https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Lmirl",
+        "url": "https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA"
+      },
+      "artists": [
+        {
+          "name": "The Otherness",
+          "url": "https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs"
+        }
+      ],
+      "duration_ms": 164154,
+      "name": "She Feels the Soul",
+      "url": "https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 225833,
       "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
       "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Vol.2",
+        "url": "https://open.spotify.com/album/0oDPMeUqQHLdWyp9nLq9jQ"
+      },
+      "artists": [
+        {
+          "name": "Isla De Encanta",
+          "url": "https://open.spotify.com/artist/1svCUR9EYGxi1WJyojzSeu"
+        },
+        {
+          "name": "Pedro Dalton",
+          "url": "https://open.spotify.com/artist/0sqVUoBycukC8qHLfWFFwI"
+        },
+        {
+          "name": "Pau O'Bianchi",
+          "url": "https://open.spotify.com/artist/5IrM3Od3zegOvSvaonotxU"
+        }
+      ],
+      "duration_ms": 234019,
+      "name": "Funeral de la planta",
+      "url": "https://open.spotify.com/track/73GWGyo979e4uK0HLTYfJa"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Vol.2",
-        "url": "https://open.spotify.com/album/0oDPMeUqQHLdWyp9nLq9jQ"
-      },
-      "artists": [
-        {
-          "name": "Isla De Encanta",
-          "url": "https://open.spotify.com/artist/1svCUR9EYGxi1WJyojzSeu"
-        },
-        {
-          "name": "Pedro Dalton",
-          "url": "https://open.spotify.com/artist/0sqVUoBycukC8qHLfWFFwI"
-        },
-        {
-          "name": "Pau O'Bianchi",
-          "url": "https://open.spotify.com/artist/5IrM3Od3zegOvSvaonotxU"
-        }
-      ],
-      "duration_ms": 234019,
-      "name": "Funeral de la planta",
-      "url": "https://open.spotify.com/track/73GWGyo979e4uK0HLTYfJa"
     },
     {
       "added_at": "2022-12-23 03:00:00",

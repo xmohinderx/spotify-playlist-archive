@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Angin Kencang",
+        "url": "https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237243,
+      "name": "Angin Kencang",
+      "url": "https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl"
+    },
+    {
+      "album": {
         "name": "anything 4 u",
         "url": "https://open.spotify.com/album/64K42F7vbZEIxKUZjz0bq5"
       },
@@ -132,6 +150,24 @@
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
+    },
+    {
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "album": {
@@ -658,7 +694,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 230098,
       "name": "Restless Love",
       "url": "https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc"
@@ -694,7 +730,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 133952,
       "name": "Rubik",
       "url": "https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF"
@@ -745,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Semesta Menari",
+        "url": "https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh"
+      },
+      "artists": [
+        {
+          "name": "Ify Alyssa",
+          "url": "https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227878,
+      "name": "Semesta Menari",
+      "url": "https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -792,7 +846,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 303545,
       "name": "Temple Fair",
       "url": "https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG"

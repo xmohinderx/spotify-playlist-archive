@@ -2,7 +2,7 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi hits with Karan Aujla
+> Ultimate 101 Punjabi hits with AP Dhillon
 
 177 songs - 9 hr 23 min
 

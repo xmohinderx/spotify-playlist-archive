@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: Guil\u00e9 / Arte: Isu Kim",
-  "num_followers": 14270,
+  "num_followers": 14293,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NzI2OSwwMDAwMDAwMDdjMzJjMWI3MzUyYTAxNDFhNTBjMWJjYmViYTVmMzJm",
+  "snapshot_id": "MTY3MTc2NzI2OSwwMDAwMDAwMDE0N2VmOWY1MjA2YzQ1NjAxNmMwNTM4YjQyMzUyMGYw",
   "tracks": [
     {
       "added_at": "2022-12-23 03:47:49",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "C\u00e9u e Mar",
-        "url": "https://open.spotify.com/album/5CZBlQZa5Iw3dwHJ7Tabxw"
-      },
-      "artists": [
-        {
-          "name": "Matheus Bala",
-          "url": "https://open.spotify.com/artist/73KUS3ICvdkM4spMDQKYYC"
-        }
-      ],
-      "duration_ms": 132580,
-      "name": "C\u00e9u e Mar",
-      "url": "https://open.spotify.com/track/2QAWqrdJaqgphSCjpCw5wJ"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Mad\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 205862,
       "name": "Mad\u00e1 - Remix",
       "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "C\u00e9u e Mar",
+        "url": "https://open.spotify.com/album/5CZBlQZa5Iw3dwHJ7Tabxw"
+      },
+      "artists": [
+        {
+          "name": "Matheus Bala",
+          "url": "https://open.spotify.com/artist/73KUS3ICvdkM4spMDQKYYC"
+        }
+      ],
+      "duration_ms": 132580,
+      "name": "C\u00e9u e Mar",
+      "url": "https://open.spotify.com/track/2QAWqrdJaqgphSCjpCw5wJ"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
+        "name": "Oxi (Dio Mio!)",
+        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
+      },
+      "artists": [
+        {
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Oxi (Dio Mio!)",
+      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
         "name": "Toda Vez Que Tu Sorri",
         "url": "https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 206484,
       "name": "A Vida \u00e9 Uma Granada",
       "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
-        "name": "Oxi (Dio Mio!)",
-        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
-      },
-      "artists": [
-        {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        }
-      ],
-      "duration_ms": 160413,
-      "name": "Oxi (Dio Mio!)",
-      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
+        "name": "Febre",
+        "url": "https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "duration_ms": 174724,
+      "name": "Febre",
+      "url": "https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
         "name": "vc \u00e9 uma bagun\u00e7a",
         "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 161668,
       "name": "N\u00e3o Complica",
       "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
-        "name": "Febre",
-        "url": "https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL"
-      },
-      "artists": [
-        {
-          "name": "Turmallina",
-          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
-        }
-      ],
-      "duration_ms": 174724,
-      "name": "Febre",
-      "url": "https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
+        "name": "Poema Suspenso",
+        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
+      },
+      "artists": [
+        {
+          "name": "Rizzih",
+          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
+        }
+      ],
+      "duration_ms": 178935,
+      "name": "(((V\u00eanus)))",
+      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
         "name": "V\u00edcio Que C\u00ea Tem Em Mim",
         "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Poema Suspenso",
-        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
-      },
-      "artists": [
-        {
-          "name": "Rizzih",
-          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
-        }
-      ],
-      "duration_ms": 178935,
-      "name": "(((V\u00eanus)))",
-      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Amor de Sonhos",
         "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "colinas",
         "url": "https://open.spotify.com/album/2nHbiv0dll2ghjacHW0AyX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 173164,
       "name": "colinas",
       "url": "https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "MUNDO POSITIVO",
-        "url": "https://open.spotify.com/album/4VKiP4fLjXO8Y98TIAUuFo"
-      },
-      "artists": [
-        {
-          "name": "Leandro Buenno",
-          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
-        }
-      ],
-      "duration_ms": 97952,
-      "name": "carta do futuro",
-      "url": "https://open.spotify.com/track/2sN2yyqjF3XdJ7kErLkbyg"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Ent\u00e3o Me Diz",
         "url": "https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 171038,
       "name": "Ent\u00e3o Me Diz",
       "url": "https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "MUNDO POSITIVO",
+        "url": "https://open.spotify.com/album/4VKiP4fLjXO8Y98TIAUuFo"
+      },
+      "artists": [
+        {
+          "name": "Leandro Buenno",
+          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
+        }
+      ],
+      "duration_ms": 97952,
+      "name": "carta do futuro",
+      "url": "https://open.spotify.com/track/2sN2yyqjF3XdJ7kErLkbyg"
     },
     {
       "added_at": "2022-12-23 03:47:49",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-12-23 03:47:49",
       "album": {
-        "name": "Cardeal",
-        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
-      },
-      "artists": [
-        {
-          "name": "Unidade Nova Praia",
-          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "\u00c9 preciso Calma",
-      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
-    },
-    {
-      "added_at": "2022-12-23 03:47:49",
-      "album": {
         "name": "Voraz",
         "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 131123,
       "name": "Voraz",
       "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
+    },
+    {
+      "added_at": "2022-12-23 03:47:49",
+      "album": {
+        "name": "Cardeal",
+        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
+      },
+      "artists": [
+        {
+          "name": "Unidade Nova Praia",
+          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "\u00c9 preciso Calma",
+      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
     },
     {
       "added_at": "2022-12-23 03:47:49",

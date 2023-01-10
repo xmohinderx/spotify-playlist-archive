@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-376 songs - 21 hr 59 min
+377 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 | 2022-06-09 |
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |
 | [Good For Me](https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Good For Me](https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR) | 2:56 | 2022-06-27 | 2022-09-09 |
-| [Good Times](https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:24 | 2022-10-27 |  |
+| [Good Times](https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:24 | 2022-10-27 | 2023-01-10 |
 | [Grimoire](https://open.spotify.com/track/7fa5wc6BKbAvEHrV2muKGx) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Grimoire](https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0) | 3:51 | 2022-07-04 | 2022-09-17 |
 | [Grit](https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Grit](https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU) | 4:43 | 2022-06-06 | 2022-08-16 |
 | [Guiding Light](https://open.spotify.com/track/6dbRhELPiOv4nUNu65lTUJ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Guiding Light](https://open.spotify.com/album/0myJX8G6tOvCxCR4jiWWJR) | 2:57 | 2022-06-28 | 2022-09-10 |
@@ -176,6 +176,7 @@
 | [INEEDU](https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:33 | 2022-09-22 | 2022-11-25 |
 | [Integration Sequence](https://open.spotify.com/track/0daZirXuEz8FVBlZFu9MsE) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:58 | 2022-11-15 | 2022-11-22 |
 | [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 | 2022-10-13 | 2022-12-13 |
+| [It's Not Love](https://open.spotify.com/track/7mv9t5XQUSHa4akJAwdmiZ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Roee Yeger](https://open.spotify.com/artist/532H5OS6W0NQak3xMOp7fz), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [It's Not Love](https://open.spotify.com/album/3jUr6DL5fNek9PGfdKwxiE) | 4:49 | 2023-01-09 |  |
 | [it’s not easy when you’re alone](https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:09 | 2022-12-03 |  |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-27 | 2022-11-30 |
 | [Journey To Ascendance](https://open.spotify.com/track/7vtQedqaDBjJqg2QA6aDfd) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 4:21 | 2022-11-19 | 2022-11-22 |

@@ -7543,6 +7543,24 @@
     },
     {
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
         "name": "Quivering In Time",
         "url": "https://open.spotify.com/album/0C0mGs17Sqyfbty2Fkii82"
       },

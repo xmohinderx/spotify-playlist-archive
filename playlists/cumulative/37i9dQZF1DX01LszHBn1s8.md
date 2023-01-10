@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> y’all already know who i am
+> if you be the cash i'll be the rubber band
 
 918 songs - 2 day 0 hr 29 min
 

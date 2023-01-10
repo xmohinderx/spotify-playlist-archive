@@ -2,9 +2,9 @@
 
 ### [Crxss Current](https://open.spotify.com/playlist/37i9dQZF1DWVoRFkSJDMLO)
 
-> Inspired by African drums\. Cover: Popcaan 🇯🇲
+> Inspired by African drums\. Cover: Libianca 🇨🇲
 
-322 songs - 16 hr 22 min
+323 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/track/3qbORtchROy5DjRoYFsz69) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Toni\-Ann Singh](https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ) | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/album/7joy1NA5tfuo0exE4KVZLk) | 3:56 | 2022-12-02 |  |
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2022-05-27 | 2022-06-04 |
 | [No Ask Weh Mi Go](https://open.spotify.com/track/6kPhQQhxgG2EcBXFu4KX3O) | [Chi Ching Ching](https://open.spotify.com/artist/1a3wNO8RPhwmEBZqm68aqU), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Bomma](https://open.spotify.com/artist/1SAVDpCXpEdczOH16lNPc7) | [No Ask Weh Mi Go](https://open.spotify.com/album/2MMYS8S4u1GBozGVWp5esy) | 2:42 | 2022-10-21 | 2022-12-10 |
-| [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 |  |
+| [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2023-01-10 |
 | [No Mercy](https://open.spotify.com/track/2k387ny7eq4QRyF42qRQON) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [No Mercy](https://open.spotify.com/album/0L7p2x1XWK0Ooh4GDy9nGG) | 2:39 | 2022-10-07 | 2022-10-22 |
 | [No Relationship](https://open.spotify.com/track/6eOSLjmZO1zaCR6AiqabbQ) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [No Relationship](https://open.spotify.com/album/3n9fNOPVBANVapP2uTyX8I) | 2:39 | 2022-12-02 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-06-10 | 2022-10-08 |
@@ -313,6 +313,7 @@
 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 | 2022-05-27 | 2022-07-16 |
 | [War Start](https://open.spotify.com/track/0PkmJPHE8Rg0tlnwh3PORs) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP), [Moonskull](https://open.spotify.com/artist/6joLSLol0LPW8RFUPeu7fF), [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [War Start](https://open.spotify.com/album/2lfjZtqpCUaV3oFMI2uRrp) | 3:04 | 2022-05-27 | 2022-06-18 |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 4:48 | 2022-06-17 | 2022-07-16 |
+| [We a Run E Grung \- Remix](https://open.spotify.com/track/5zOVWTFFCcJQz85AwEOrdg) | [Nadg](https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [We a Run E Grung \(Remix\)](https://open.spotify.com/album/3mnEpFFynTxJruJkbSd1GR) | 1:48 | 2023-01-09 |  |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-06 |  |
 | [We're in love](https://open.spotify.com/track/4ZURKd5osdDrTmneOlxZJt) | [Solitair](https://open.spotify.com/artist/7bCQj0gFuYAroOiMArR4Dm) | [Ready or not](https://open.spotify.com/album/1XZ4wyxDus5Dk0i73eAUsC) | 3:16 | 2022-11-11 | 2022-12-03 |
 | [Werk](https://open.spotify.com/track/4BRjLVJKJQIyFPvz60QEKV) | [Karlie Redd](https://open.spotify.com/artist/0oPdBO6Dh9AgHDRLjpDJpz), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Werk](https://open.spotify.com/album/49RXeprrZJb40n9Ee2r6p6) | 2:34 | 2022-08-12 |  |

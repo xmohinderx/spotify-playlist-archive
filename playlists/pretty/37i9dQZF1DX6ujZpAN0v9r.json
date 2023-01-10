@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
-  "num_followers": 462705,
+  "num_followers": 463050,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQwNjE0MCwwMDAwMDAwMDUyOWQ3MjYzM2E5YTJmZTc2MWZjMTcwZjAxZWIwMDAw",
+  "snapshot_id": "MTY2NDQwNjE0MCwwMDAwMDAwMDYzMTg2YmUxNWUzZjliNDJjZGM1YTIwZGUzMDkzYjEy",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
         }
       ],
-      "duration_ms": 338869,
-      "name": "Star Roving",
-      "url": "https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe"
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -299,6 +283,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 338869,
+      "name": "Star Roving",
+      "url": "https://open.spotify.com/track/7nq6qpHhCJ3pNOa3KHi8fe"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
       },
@@ -331,38 +331,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 357373,
-      "name": "Souvlaki Space Station",
-      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Going Blank Again (Expanded)",
         "url": "https://open.spotify.com/album/5l70cCHX1QzN680J68rblF"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -443,6 +427,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 357373,
+      "name": "Souvlaki Space Station",
+      "url": "https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Death Spells",
         "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
       },
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7"
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
         }
       ],
-      "duration_ms": 195573,
-      "name": "40 Days",
-      "url": "https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP"
+      "duration_ms": 233731,
+      "name": "What Lies Beneath",
+      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 233731,
-      "name": "What Lies Beneath",
-      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Bout des doigts",
         "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
       },
@@ -571,22 +555,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Logos",
-        "url": "https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh"
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7"
       },
       "artists": [
         {
-          "name": "Atlas Sound",
-          "url": "https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T"
-        },
-        {
-          "name": "Noah Lennox",
-          "url": "https://open.spotify.com/artist/6XrrzKnazbofp8WajiHZyH"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Walkabout (W/ Noah Lennox)",
-      "url": "https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob"
+      "duration_ms": 195573,
+      "name": "40 Days",
+      "url": "https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -603,6 +583,26 @@
       "duration_ms": 418706,
       "name": "Soon",
       "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Logos",
+        "url": "https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh"
+      },
+      "artists": [
+        {
+          "name": "Atlas Sound",
+          "url": "https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T"
+        },
+        {
+          "name": "Noah Lennox",
+          "url": "https://open.spotify.com/artist/6XrrzKnazbofp8WajiHZyH"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Walkabout (W/ Noah Lennox)",
+      "url": "https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 167000,
       "name": "Thoughtforms - 2nd Version",
       "url": "https://open.spotify.com/track/7isrQebvzBb95uOCS9fleS"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Ultra Vivid Scene",
-        "url": "https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f"
-      },
-      "artists": [
-        {
-          "name": "Ultra Vivid Scene",
-          "url": "https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Mercy Seat",
-      "url": "https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Depths",
         "url": "https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 281453,
       "name": "Undercurrent",
       "url": "https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Ultra Vivid Scene",
+        "url": "https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f"
+      },
+      "artists": [
+        {
+          "name": "Ultra Vivid Scene",
+          "url": "https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Mercy Seat",
+      "url": "https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Not The Time / Callous",
         "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Something More",
-      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Altered Perception",
         "url": "https://open.spotify.com/album/35FaV3DMDOI7LplP3GDFWo"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 208040,
       "name": "The Perfect Needle",
       "url": "https://open.spotify.com/track/17dCSc5Vq1riorH10dNqAS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Sugar & Spice",
-        "url": "https://open.spotify.com/album/6Wzwhd5VTklhTkqQPooIla"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 188869,
-      "name": "Sugar & Spice",
-      "url": "https://open.spotify.com/track/3Q4VH4dJgZS9r4gI6yHLY5"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Sugar & Spice",
+        "url": "https://open.spotify.com/album/6Wzwhd5VTklhTkqQPooIla"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 188869,
+      "name": "Sugar & Spice",
+      "url": "https://open.spotify.com/track/3Q4VH4dJgZS9r4gI6yHLY5"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Our Goal to Realise",
         "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool - The Original Recordings",
-        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Breather",
-      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 253013,
       "name": "A House Wife Love Song",
       "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Whirlpool - The Original Recordings",
+        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Breather",
+      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "KIN",
-        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "We\u2019re Not Done (End Title)",
-      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "A Gilded Eternity",
         "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 367973,
       "name": "Vapour",
       "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "We\u2019re Not Done (End Title)",
+      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "KIN",
-        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 383920,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Miserable Miracles",
         "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 138746,
       "name": "I Just Want To See Your Face",
       "url": "https://open.spotify.com/track/3F24QvIwDIpYWNN3V7TfEN"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 383920,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e"
     },
     {
       "added_at": "2021-06-03 02:39:04",

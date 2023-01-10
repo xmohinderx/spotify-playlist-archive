@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 240505,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/1S5aHAr1hpf3icpzq3ullG"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 241000,
       "name": "Jangan Kau Lepas",
       "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 288115,
       "name": "R14",
       "url": "https://open.spotify.com/track/2taR32C3LMIQyHG2R89cdt"
@@ -1144,6 +1162,24 @@
       "duration_ms": 273491,
       "name": "Selaras",
       "url": "https://open.spotify.com/track/61GiPHiUWi2f8mhN2AdBf0"
+    },
+    {
+      "album": {
+        "name": "Semesta Menari",
+        "url": "https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh"
+      },
+      "artists": [
+        {
+          "name": "Ify Alyssa",
+          "url": "https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227878,
+      "name": "Semesta Menari",
+      "url": "https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt"
     },
     {
       "album": {
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 232173,
       "name": "The Only Blue I Love The Best",
       "url": "https://open.spotify.com/track/1APWUocHisr5wV4Fr2nH4j"

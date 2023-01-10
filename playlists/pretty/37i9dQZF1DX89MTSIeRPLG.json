@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 2298,
+  "num_followers": 2316,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDk0NDZlOWMxMTI3YzZiMTRjNjQ0NWUxZDk1NGE5ZDE5",
+  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDQ4OTgxNDFlMzQzNzI2ODRjZTAzZTBmMzViMTg2YWQ3",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "No Love Lost",
-      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 212323,
       "name": "I Ain't Perfect (feat. Blxst)",
       "url": "https://open.spotify.com/track/5Ak6oUUC0r1KfU2sPXkSa5"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -315,6 +315,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Easter In Miami",
         "url": "https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 200013,
       "name": "Period",
       "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",

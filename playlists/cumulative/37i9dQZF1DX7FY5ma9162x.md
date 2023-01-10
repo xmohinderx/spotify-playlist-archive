@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: SZA
 
-523 songs - 1 day 5 hr 4 min
+524 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bad Habits](https://open.spotify.com/track/2o4zCAvc73Gr4wdOSN4Mei) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Bad Habits](https://open.spotify.com/album/5edin5mKJ9vwfAQkAEOsDJ) | 2:19 | 2022-04-01 | 2022-04-11 |
 | [Bad Habits](https://open.spotify.com/track/7beY8mXJuC4l0J2WgVoCfm) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Bad Habits](https://open.spotify.com/album/2sD4s8plx7sdr7Qn580kK6) | 4:17 | 2022-04-01 | 2022-05-30 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-11-11 | 2023-01-06 |
-| [Baddest](https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Baddest](https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV) | 3:22 | 2022-03-11 |  |
+| [Baddest](https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Baddest](https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV) | 3:22 | 2022-03-11 | 2023-01-10 |
 | [be cool](https://open.spotify.com/track/6AzPHXMvAtBmzISu4NhOIm) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [be cool](https://open.spotify.com/album/3aDhMq947HZuufg7tsJCPo) | 2:23 | 2022-04-01 | 2022-04-21 |
 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 | 2022-04-01 | 2022-04-20 |
 | [Been Through That](https://open.spotify.com/track/2cZbLHnTKtdSYUsVYlrnSi) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Been Through That](https://open.spotify.com/album/3ygNPDPtpbk2QSsLCKoClM) | 3:14 | 2022-03-11 | 2022-07-28 |
@@ -347,6 +347,7 @@
 | [Patience](https://open.spotify.com/track/7o1NOJIVTxUqSY6C9YpPo7) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Patience](https://open.spotify.com/album/19Tg0DpJK3hdnNRxJhkb6v) | 2:13 | 2022-04-01 | 2022-05-11 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2022-03-11 | 2022-12-30 |
 | [PERSIAN RUGS](https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 2:54 | 2022-04-01 | 2023-01-01 |
+| [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 | 2022-12-29 |  |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-10-21 |  |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2022-03-11 |  |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2022-07-28 | 2022-11-13 |

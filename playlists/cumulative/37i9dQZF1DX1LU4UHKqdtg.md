@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: NewJeans
 
-457 songs - 1 day 1 hr 15 min
+459 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Beautiful](https://open.spotify.com/track/482cI88g68VDxoSnnvetMA) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Beautiful](https://open.spotify.com/album/2UrvUzq4A6MFnvVp8Na0eW) | 4:29 | 2022-08-01 | 2022-09-01 |
 | [Beautiful \(Part.3\)](https://open.spotify.com/track/3xQH4yPHm6qVmV0JH7iaT5) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [B\-Side](https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu) | 3:54 | 2022-01-27 | 2022-04-06 |
 | [Beautiful Christmas](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Beautiful Christmas](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 3:29 | 2022-12-14 |  |
+| [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-01-09 |  |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-07-19 | 2022-10-14 |
 | [Better Spring](https://open.spotify.com/track/7095L2bmNhv139ccLIikAH) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Better Spring](https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b) | 3:25 | 2022-05-17 | 2022-07-12 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-17 |  |
@@ -259,7 +260,7 @@
 | [MOON](https://open.spotify.com/track/5RI1whCCdURswHqaJqyOw4) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [LET IT SHINE](https://open.spotify.com/album/2xsh46gWcX7ItTEXiX5UDN) | 3:59 | 2022-10-18 | 2022-11-09 |
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-16 | 2022-10-05 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-06-30 | 2022-08-30 |
-| [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-25 |  |
+| [MotoSpeed 24](https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 2:13 | 2022-10-25 | 2023-01-10 |
 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-20 | 2022-04-06 |
 | [My My](https://open.spotify.com/track/6GAkM249WkoA8d0kJArZAp) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [My My](https://open.spotify.com/album/5pwj7F9Rmmc47XDMduN3jJ) | 3:28 | 2021-12-23 | 2022-01-28 |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-24 | 2022-07-27 |
@@ -372,7 +373,7 @@
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-16 | 2022-08-24 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-25 |  |
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:15 | 2022-05-10 | 2022-07-07 |
-| [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-14 |  |
+| [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-14 | 2023-01-10 |
 | [Taste The Feeling](https://open.spotify.com/track/1xDxGsPZmiicqIHXcfbMHk) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [ON and ON](https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX) | 3:20 | 2022-11-22 |  |
 | [Tear Drop \- Japanese Version](https://open.spotify.com/track/1okHSSD84n50gQ6NzamOxh) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Tear Drop \(Japanese Version\)](https://open.spotify.com/album/3RMKTbstlXbblJ5U8CQSuh) | 3:18 | 2022-06-07 | 2022-07-21 |
 | [Tell me this is real](https://open.spotify.com/track/4O9vCvUz8fSJHJVvXKiBMp) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [My chilling roommate \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/3JJWRFZW2JRUrPK1DCeFQa) | 3:38 | 2022-06-14 | 2022-08-04 |
@@ -397,6 +398,7 @@
 | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/track/5j1RXSJl3JiLJSfdywh5Q4) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [TPIR \(feat\. MIYAVI\)](https://open.spotify.com/album/4dnuuFbQXWiBa6EWKyB8IN) | 3:37 | 2022-08-16 | 2022-10-05 |
 | [Trauma \- Japanese ver.](https://open.spotify.com/track/43SlfBxQYLok9kDveezSvg) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE BEST \~Dear Fantasy\~](https://open.spotify.com/album/4q3eFS7zlv7ko0k5MjmM7P) | 3:22 | 2022-06-28 | 2022-08-12 |
 | [TRIGGER](https://open.spotify.com/track/2VhmgfllXg5YGG9blUJ3YZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [TRIGGER](https://open.spotify.com/album/75MbAlPMa5vekilWtXzVGo) | 2:47 | 2022-10-13 | 2022-12-03 |
+| [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-09 |  |
 | [U](https://open.spotify.com/track/0Qk13Xgp0glz8I875TuJRl) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/3xHLRJDP7M05Gnt4VE1TwT) | 2:46 | 2022-03-29 | 2022-06-29 |
 | [U&Iverse](https://open.spotify.com/track/67VGnMGkTYQu0eGhvcEXuS) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [U&Iverse](https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo) | 3:24 | 2022-07-22 | 2022-09-21 |
 | [Umbrella](https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Umbrella](https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T) | 3:38 | 2022-08-09 | 2022-10-01 |
@@ -445,7 +447,7 @@
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 | 2022-05-31 | 2022-08-20 |
 | [Yours](https://open.spotify.com/track/5NLIIwf9UPaT04xU9aaZyr) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [智異山 オリジナル・サウンドトラック Part.4](https://open.spotify.com/album/0qK9PxAMNAwc4fPqsCyxwj) | 4:24 | 2021-12-23 | 2022-03-22 |
-| [Youth](https://open.spotify.com/track/3KOM7GQcX4KytvirhfdlCW) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [YOUTH](https://open.spotify.com/album/6OBmLdVdHzryb6MBtGAtG8) | 2:42 | 2022-10-25 |  |
+| [Youth](https://open.spotify.com/track/3KOM7GQcX4KytvirhfdlCW) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [YOUTH](https://open.spotify.com/album/6OBmLdVdHzryb6MBtGAtG8) | 2:42 | 2022-10-25 | 2023-01-10 |
 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-14 | 2022-04-08 |
 | [ZERO](https://open.spotify.com/track/4XkeWqW7ogSSvFY6MpR6eP) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 2nd Single Album \[Villain : ZERO\]](https://open.spotify.com/album/0hqxfMNfdoP3b4vQY0nUNq) | 3:38 | 2022-06-14 | 2022-08-04 |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-12-23 | 2022-01-07 |
@@ -459,7 +461,7 @@
 | [ドキドキLOVE](https://open.spotify.com/track/6tE7vkuLAOPrJcKt1dTErE) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [ドキドキLOVE](https://open.spotify.com/album/7b9wP99WEev9gsqheUolXV) | 3:38 | 2022-10-04 | 2022-11-18 |
 | [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-23 |  |
-| [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 | 2022-10-11 |  |
+| [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 | 2022-10-11 | 2023-01-10 |
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [燎](https://open.spotify.com/track/41LHZWfjfQPvSN0s8HFHje) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎](https://open.spotify.com/album/63o1ESQxSCE4Bs8dqBTrur) | 3:13 | 2021-12-23 | 2022-02-05 |
 | [病](https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:24 | 2022-11-29 |  |

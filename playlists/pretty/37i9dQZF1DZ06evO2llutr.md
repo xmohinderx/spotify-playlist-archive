@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,659 likes - 42 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,245 likes - 42 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 14 | [Revival](https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:41 |
 | 15 | [From Austin](https://open.spotify.com/track/6k07Z7rd9og1FvRJD2n9E8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:27 |
 | 16 | [All the Time](https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:19 |
-| 17 | [Letting Someone Go](https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 3:59 |
-| 18 | [Crooked Teeth](https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
+| 17 | [Crooked Teeth](https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
+| 18 | [Letting Someone Go](https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 3:59 |
 | 19 | [Mine Again](https://open.spotify.com/track/6b8LUVmacXlMUl4wRtCD2S) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:44 |
 | 20 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 |
-| 21 | [God Speed](https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 4:13 |
-| 22 | [Traveling Man](https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
+| 21 | [Traveling Man](https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:17 |
+| 22 | [God Speed](https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 4:13 |
 | 23 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
 | 24 | [Late July](https://open.spotify.com/track/3i7mKjZKmslCFMxS1WM7DO) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:58 |
 | 25 | [The Greatest Day of My Life](https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Greatest Day of My Life](https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7) | 3:58 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 37 | [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 |
 | 38 | [Starved](https://open.spotify.com/track/51dn2eCX2DhMTHtkPmZbZP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Starved](https://open.spotify.com/album/07jpOEyD7mjM3X1cW25EY4) | 4:42 |
 | 39 | [Open the Gate](https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Open the Gate](https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc) | 3:54 |
-| 40 | [Codeine Pills \- Part One](https://open.spotify.com/track/3OBXZXFYDouFlKdlFO6NLC) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:16 |
-| 41 | [Oklahoma City \- Live](https://open.spotify.com/track/6qtsmjLGlyoTlUMjV7Xx1C) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 4:31 |
+| 40 | [Oklahoma City \- Live](https://open.spotify.com/track/6qtsmjLGlyoTlUMjV7Xx1C) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 4:31 |
+| 41 | [Codeine Pills \- Part One](https://open.spotify.com/track/3OBXZXFYDouFlKdlFO6NLC) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:16 |
 | 42 | [Sweet DeAnn \- Live](https://open.spotify.com/track/0GC43uyv1rSUW0y9ODjq4u) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:04 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA2ZDQ3MTMyZmIzZjNlMDI3Mzc1MmExNjEwOWU0Nzk3Yw==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBkY2M3NjFhNzI2MWE4YmE1ZTdjZGE2NDkzNTE0ODYwZA==`

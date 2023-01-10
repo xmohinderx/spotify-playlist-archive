@@ -2,7 +2,7 @@
 
 ### [sped up songs \(2\)](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
 
-> Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
+> Sped up songs from TikTok and around the internet.
 
 119 songs - 6 hr 9 min
 

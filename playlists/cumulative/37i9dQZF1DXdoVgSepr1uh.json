@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 145639,
       "name": "El Freno",
       "url": "https://open.spotify.com/track/4xYY1nKA9XVJgZYJ1ESysM"
@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Otro Mill\u00f3n",
+        "url": "https://open.spotify.com/album/0CNz1mTF0VWhhUdPF2ZEHf"
+      },
+      "artists": [
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156818,
+      "name": "Otro Mill\u00f3n",
+      "url": "https://open.spotify.com/track/2j0CA3TrxQ78vAVMTBdcNV"
+    },
+    {
+      "album": {
         "name": "Pa Co",
         "url": "https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI"
       },
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 158117,
       "name": "Quiero Creer",
       "url": "https://open.spotify.com/track/1GCzWOrIPoiDsQm8ZSm5fn"
@@ -2950,6 +2968,28 @@
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
+    },
+    {
+      "album": {
+        "name": "Una Copa",
+        "url": "https://open.spotify.com/album/65XAMVE0qjVlN9wcnpxKl7"
+      },
+      "artists": [
+        {
+          "name": "Albere",
+          "url": "https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Una Copa",
+      "url": "https://open.spotify.com/track/0m8vNCtnh1tjDba8yvKzox"
     },
     {
       "album": {

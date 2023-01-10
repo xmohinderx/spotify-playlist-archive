@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
+> Découvrez notre sélection des artistes à suivre\. Photo : Kerchak
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,771 likes - 29 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,779 likes - 29 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 |
-| 2 | [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 |
-| 3 | [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 |
-| 4 | [Tarzan](https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Tarzan](https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL) | 3:10 |
+| 1 | [Tarzan](https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Tarzan](https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL) | 3:10 |
+| 2 | [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 |
+| 3 | [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 |
+| 4 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 |
 | 5 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 | 6 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 |
 | 7 | [Ados](https://open.spotify.com/track/0gc9MiWqo0me326ecRzaPg) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ados](https://open.spotify.com/album/2Og8w5f5fU4PEMH3GbNgZw) | 2:53 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 28 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 |
 | 29 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGZiYjc2ODA5MjZiMjg3YjJkYzVhNDVjMzYzZmJmZmNl`
+Snapshot ID: `MTY3MzI1MzA4OSwwMDAwMDAwMDg3NDYxMDE0Y2MwODA1NGU4NzZmMjgwNjJjNmE2MjBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 143 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 143 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 79 | [Starlite](https://open.spotify.com/track/50FsLjyg3LAjEyaw3IWt7R) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Prismophonic](https://open.spotify.com/album/5dx4v0NMzf2O6TCgfGrt0r) | 3:32 |
 | 80 | [Stay The Same](https://open.spotify.com/track/5Xh20CzoddxdZN0yoy6lbJ) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:48 |
 | 81 | [Battlestar](https://open.spotify.com/track/4WU919gMaUvTlR7xXQHjgN) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 4:07 |
-| 82 | [No Brakes](https://open.spotify.com/track/63gfejhYyJo1KhjJJ06wAt) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 4:02 |
-| 83 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
+| 82 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
+| 83 | [No Brakes](https://open.spotify.com/track/63gfejhYyJo1KhjJJ06wAt) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 4:02 |
 | 84 | [The Sea](https://open.spotify.com/track/7r0PLMmHLocjY4PiNaeKUx) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [The Sea](https://open.spotify.com/album/5XaJ2HgoLfKLdQ8SQ2uY1n) | 4:49 |
 | 85 | [Give And Take](https://open.spotify.com/track/33exaNQmkBIgcDh8hlYmHk) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:52 |
 | 86 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
@@ -114,10 +114,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 104 | [Something In The Air](https://open.spotify.com/track/7ayhNtdSjboMp6Dq8vQDL6) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 4:10 |
 | 105 | [Sunshine](https://open.spotify.com/track/6yc2egGtCGITiF8eqUessP) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 |
 | 106 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 |
-| 107 | [Over You](https://open.spotify.com/track/4GWO6Pla2VYQ0AbY6aSVZB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:21 |
-| 108 | [From Now On](https://open.spotify.com/track/7K7GpxGtqKYvywwDirV1iq) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 3:40 |
-| 109 | [Letting Go](https://open.spotify.com/track/62rU5FYM0oerIldOcWE4LG) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Stay The Same](https://open.spotify.com/album/66iXMmVbYEEErG3r4Q2spH) | 4:32 |
-| 110 | [Love Me Hard](https://open.spotify.com/track/10XF4kqTkPmSdYFYzGeT7s) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
+| 107 | [Love Me Hard](https://open.spotify.com/track/10XF4kqTkPmSdYFYzGeT7s) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
+| 108 | [Over You](https://open.spotify.com/track/4GWO6Pla2VYQ0AbY6aSVZB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:21 |
+| 109 | [From Now On](https://open.spotify.com/track/7K7GpxGtqKYvywwDirV1iq) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 3:40 |
+| 110 | [Letting Go](https://open.spotify.com/track/62rU5FYM0oerIldOcWE4LG) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Stay The Same](https://open.spotify.com/album/66iXMmVbYEEErG3r4Q2spH) | 4:32 |
 | 111 | [Feel The Fire](https://open.spotify.com/track/7uHjZ4U9ZKyyjHQqIAvDuk) | [Joe McElderry](https://open.spotify.com/artist/38SqjWcm8au0qiQZvd3FbF) | [Wide Awake](https://open.spotify.com/album/2VQ14UU4v7KGDu1H1NrIKB) | 2:58 |
 | 112 | [Play To Win](https://open.spotify.com/track/37wacPZlYHUsrXnydnovyo) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:20 |
 | 113 | [Better Be Careful](https://open.spotify.com/track/5mO43dCFaa2MwKLAKI3UWN) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [A Girl Like Me](https://open.spotify.com/album/5E6op11XOQa3ErVR4oLKss) | 3:19 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 124 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
 | 125 | [Switch Me On](https://open.spotify.com/track/6nCa6qQomarOsxYbyuyIsl) | [Lovestoned](https://open.spotify.com/artist/0swDGRfKrPnLae05pY43UT) | [Rising Love](https://open.spotify.com/album/2neQHNP33XoCor6RRT664v) | 3:25 |
 | 126 | [Sophisticated Lady](https://open.spotify.com/track/1VOIXNuJp6zYcOaM282xev) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Word Up](https://open.spotify.com/album/24RkqLgyBPdNgpPYCfkFtt) | 2:43 |
-| 127 | [Take Control](https://open.spotify.com/track/6zMg2zHbQPUC5rshEyCMio) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:47 |
-| 128 | [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 |
+| 127 | [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 |
+| 128 | [Take Control](https://open.spotify.com/track/6zMg2zHbQPUC5rshEyCMio) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:47 |
 | 129 | [Young Free and Happy](https://open.spotify.com/track/6JqPpvs0GiNDkEM9Gciawx) | [Girl Thing](https://open.spotify.com/artist/6u7Xu6msBBuSXGyl60BuQF) | [Girl Thing](https://open.spotify.com/album/6rQuZ9mCt1q6y9n71tIk08) | 4:07 |
 | 130 | [Sparks](https://open.spotify.com/track/2l5Erct877PPZUx7Iy3HUD) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Sparks](https://open.spotify.com/album/58NN8n8lTv4Xn4xtKjWWE5) | 4:09 |
 | 131 | [We've Come to Mambo](https://open.spotify.com/track/2uACes9D0g1UTWKuc5uLBy) | [Girl Thing](https://open.spotify.com/artist/6u7Xu6msBBuSXGyl60BuQF) | [Girl Thing](https://open.spotify.com/album/6rQuZ9mCt1q6y9n71tIk08) | 3:11 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 142 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 143 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjc4ODcxMTIsMDAwMDAwMDA2NTFjN2ZkMGIxZjdlODJiOGE0NjFmMzQ0YWFiOWE2Zg==`
+Snapshot ID: `Mjc4ODg1NTIsMDAwMDAwMDBkN2EwNjRlZGFmYTcxNGNiNmI3MGE2N2RmM2IzZDRlOA==`

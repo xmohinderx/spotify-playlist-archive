@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 275076,
+  "num_followers": 275100,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyNzgyMSwwMDAwMDAwMDg3ODkyYmUxNWU5NGEwOTAwNWI4YmMwYTBhNmNlMmY0",
+  "snapshot_id": "MTY3MTIyNzgyMSwwMDAwMDAwMDc0ODhiYjQzMzBiYjE2MjNmYzQ3OGZkNzc4ZjFmNTkx",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Where Is My Mind?",
-        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Bette Davis Eyes",
         "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 210000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Build Me Up Buttercup",
-        "url": "https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5"
-      },
-      "artists": [
-        {
-          "name": "Lara Anderson",
-          "url": "https://open.spotify.com/artist/0ijXDXPqvo3fzBrGpVjpV4"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Paul",
         "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Build Me Up Buttercup",
+        "url": "https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5"
+      },
+      "artists": [
+        {
+          "name": "Lara Anderson",
+          "url": "https://open.spotify.com/artist/0ijXDXPqvo3fzBrGpVjpV4"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Go Easy, Kid (with James Blake)",
+        "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Go Easy, Kid (with James Blake)",
+      "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Music From The Pen Gala 1983",
         "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
       },
@@ -1019,22 +1039,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Go Easy, Kid (with James Blake)",
-        "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
       "artists": [
         {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Go Easy, Kid (with James Blake)",
-      "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 311844,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Like a Rolling Stone",
         "url": "https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 409860,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "duration_ms": 311844,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Horror Show",
-        "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
+        "name": "Just the Two of Us",
+        "url": "https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC"
       },
       "artists": [
         {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        },
-        {
-          "name": "Nikki Flores",
-          "url": "https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         }
       ],
-      "duration_ms": 216440,
-      "name": "Because The Night",
-      "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
+      "duration_ms": 164211,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW"
     }
   ],
   "unique_name": "Indie Covers",

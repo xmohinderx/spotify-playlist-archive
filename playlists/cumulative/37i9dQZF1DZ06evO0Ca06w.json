@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "Cannon (Mbayi, Mbayi)",
       "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 188573,
       "name": "For What It's Worth - Remastered",
       "url": "https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 289680,
       "name": "Hauteng",
       "url": "https://open.spotify.com/track/6XsrERz24iuh7dWkZ2aJYO"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 155906,
       "name": "Holilili",
       "url": "https://open.spotify.com/track/1XMwRVdQByfWdFNR2IzZm0"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 188946,
       "name": "In My Life - Remastered",
       "url": "https://open.spotify.com/track/1wVPIzTItUw1Mrczy6OXE6"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 215133,
       "name": "Jeux interdits",
       "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 152493,
       "name": "Kwazulu (In the Land of the Zulus)",
       "url": "https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK"
@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "The Early Recordings",
+        "url": "https://open.spotify.com/album/1LWEFzW087PwWNzIJBEjYR"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "Pula Kgosi Seretse",
+      "url": "https://open.spotify.com/track/5fgJ9cyUCtk9Mv8d3YShX4"
+    },
+    {
+      "album": {
         "name": "The Voice of Africa",
         "url": "https://open.spotify.com/album/2D1LiG2WIZqQduUOJB2eWo"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 256680,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"

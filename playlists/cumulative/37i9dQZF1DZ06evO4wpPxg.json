@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 160360,
       "name": "Buck Rag",
       "url": "https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -848,6 +848,24 @@
       "duration_ms": 366155,
       "name": "Guitar Blues",
       "url": "https://open.spotify.com/track/01UgtgbJos0HfqF7U47pof"
+    },
+    {
+      "album": {
+        "name": "You Got to Move",
+        "url": "https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366155,
+      "name": "Guitar Blues",
+      "url": "https://open.spotify.com/track/6wePpQIw8H8Ys8tpDK10pT"
     },
     {
       "album": {
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 289134,
       "name": "I Will Do My Last Singing In This Land Somewhere - Live",
       "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 205732,
       "name": "I'm Going Down To The Banks Of The River - Live",
       "url": "https://open.spotify.com/track/35JxXNUXfVK0PUpuNOte1Y"
@@ -1460,6 +1478,24 @@
       "duration_ms": 221657,
       "name": "I'm Going To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/0RjpjcpgTSVl4PLVOYY56y"
+    },
+    {
+      "album": {
+        "name": "Rev. Blind Gary Davis 1935 - 1949",
+        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159713,
+      "name": "I'm Gonna Meet You At The Station",
+      "url": "https://open.spotify.com/track/5cAFPKZ6KUXPTdtrzRfO66"
     },
     {
       "album": {
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 207960,
       "name": "Joy to Know",
       "url": "https://open.spotify.com/track/22NgYpSx3Q4nnClofbL2LL"
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 258266,
       "name": "Lord, I Looked Down The Road",
       "url": "https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj"
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 264373,
       "name": "Time Is Drawing Near",
       "url": "https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g"

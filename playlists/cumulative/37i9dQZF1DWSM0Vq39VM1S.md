@@ -4,7 +4,7 @@
 
 > Le rayon de soleil musical de votre matinée.
 
-50 songs - 3 hr 7 min
+52 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Conversation Piece](https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:59 | 2022-12-06 |  |
 | [crash](https://open.spotify.com/track/7EkMIQ2PzEzwQroLl6dUvw) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [vertigo](https://open.spotify.com/album/2Dbm63Nwx511E4HclnQto6) | 3:52 | 2022-12-06 |  |
 | [Deeply](https://open.spotify.com/track/4zIpKhIGG2p9uJgyvthVxQ) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Meryem](https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu) | 3:21 | 2022-12-06 |  |
+| [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 | 2023-01-09 |  |
 | [Dream for Dreaming](https://open.spotify.com/track/6EYovLuhOyBLJWWIW3XUwo) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream for Dreaming](https://open.spotify.com/album/3KgYLdX59AWiaUcLWC2IXs) | 3:39 | 2022-12-06 |  |
-| [Embuscade](https://open.spotify.com/track/4ryuJlslXmRBn2csXJ5kfk) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:56 | 2022-12-06 |  |
+| [Embuscade](https://open.spotify.com/track/4ryuJlslXmRBn2csXJ5kfk) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:56 | 2022-12-06 | 2023-01-10 |
 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 | 2022-12-06 |  |
 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 | 2022-12-06 |  |
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-12-06 |  |
@@ -37,13 +38,14 @@
 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 | 2022-12-06 |  |
 | [King and Cross](https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:33 | 2022-12-06 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2022-12-06 |  |
-| [Levitate](https://open.spotify.com/track/7DXZXZ9O4Yo0RR3SLkiNVj) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/48bWqxfsOW5aT80Td5g8AF) | 3:19 | 2022-12-06 |  |
+| [Levitate](https://open.spotify.com/track/7DXZXZ9O4Yo0RR3SLkiNVj) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/48bWqxfsOW5aT80Td5g8AF) | 3:19 | 2022-12-06 | 2023-01-10 |
 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 | 2022-12-06 |  |
 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 | 2022-12-06 |  |
 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 | 2022-12-06 |  |
 | [Melt \- Acoustic](https://open.spotify.com/track/4O6oJ8OkXPYTI4OWBebADn) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Melt \(Acoustic\)](https://open.spotify.com/album/5OFGnOokLf5SOfD43VfaSU) | 3:41 | 2022-12-06 |  |
 | [No Other Way](https://open.spotify.com/track/1jnnieDkF1hOlRil2Sgv9i) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:09 | 2022-12-06 |  |
 | [Nothing Else \- Version](https://open.spotify.com/track/4Oc75EDl4O8uJYPF6qIi1J) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [Nothing Else \(Version\)](https://open.spotify.com/album/5QKmLdMKnoeRLWQ4Aa7Uxc) | 4:20 | 2022-12-06 |  |
+| [On The Road](https://open.spotify.com/track/4GTlvbSlHgmyLFucl3Sl8f) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 4:04 | 2023-01-09 |  |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-12-06 |  |
 | [Reckoning Song](https://open.spotify.com/track/6Wk6A8k7NjjSsPQT9Z3FXM) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME), [The Mojos](https://open.spotify.com/artist/5abaNg0SJPEF7EST0RjY9F) | [The Reckoning](https://open.spotify.com/album/22Jw1aVVP0MijVVO5ls0qn) | 2:46 | 2022-12-06 |  |
 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 | 2022-12-06 |  |

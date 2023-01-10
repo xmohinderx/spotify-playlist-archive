@@ -4,7 +4,7 @@
 
 > Las leyendas del mariachi están aquí\. Yuridia en portada.
 
-173 songs - 8 hr 53 min
+174 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amanecí En Tus Brazos](https://open.spotify.com/track/70GsvFA1ZzX2FUHC2eakAL) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Serenata Mariachi](https://open.spotify.com/album/4pymXKTlAlcqapGmBj9aGd) | 2:58 | 2022-01-25 | 2022-11-13 |
 | [Aquí Abajo](https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aquí Abajo](https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H) | 2:24 | 2022-01-25 | 2022-10-12 |
 | [Ases y Tercia de Reyes](https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 1:54 | 2022-01-25 |  |
-| [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 | 2022-01-25 |  |
+| [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 | 2022-01-25 | 2023-01-10 |
 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 | 2022-01-25 |  |
 | [Cama de Piedra](https://open.spotify.com/track/4EoPOcGSOvYVNblCnW3OmF) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Yo También Soy Mexicano](https://open.spotify.com/album/0kTeQKP1b9Ya0q9PuTVFIm) | 2:13 | 2022-01-25 | 2022-11-13 |
 | [Camino de Guanajuato](https://open.spotify.com/track/2tPWzcW3et2X8QN53ZiMmR) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Disco de Oro](https://open.spotify.com/album/34riZ1re1oumqDvLs7z1Fg) | 3:04 | 2022-01-25 | 2022-07-29 |
@@ -74,6 +74,7 @@
 | [Gabino Barrera](https://open.spotify.com/track/5s7ROuCMno7aCwTidFTdjw) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 2:57 | 2022-01-25 | 2022-07-06 |
 | [Hasta Que Llegue el Alba](https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 4:30 | 2022-05-06 |  |
 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 | 2022-01-25 |  |
+| [Inexperto En Olvidarte](https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Inexperto En Olvidarte](https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE) | 3:05 | 2023-01-06 |  |
 | [La bikina \- En vivo](https://open.spotify.com/track/05woJhVT0g1pzHnHccf1ib) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 2:59 | 2022-01-25 | 2022-07-29 |
 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 | 2022-01-25 |  |
 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 | 2022-01-25 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 387622,
+  "num_followers": 387649,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMGU2MjY2NjY5N2E4ZmJhOWU0ODI2NWE4M2JhN2M2NDZm",
+  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMGRkZGFlYjY5NjgwOTI2ODllNDk3OTA2MmJlYTdjNDgw",
   "tracks": [
     {
       "added_at": "2022-09-23 08:12:38",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -291,22 +291,18 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Kissin' In The Cold",
-        "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
+        "name": "Visiting Hours",
+        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
       "artists": [
         {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 224083,
-      "name": "Kissin' In The Cold",
-      "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
+      "duration_ms": 215506,
+      "name": "Visiting Hours",
+      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -343,18 +339,22 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Visiting Hours",
-        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
+        "name": "Kissin' In The Cold",
+        "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Visiting Hours",
-      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+      "duration_ms": 224083,
+      "name": "Kissin' In The Cold",
+      "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 200661,
-      "name": "Let Me Love You Like A Woman",
-      "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 200661,
+      "name": "Let Me Love You Like A Woman",
+      "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Falling Up",
-        "url": "https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Falling Up",
-      "url": "https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 176946,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Falling Up",
+        "url": "https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8"
     },
     {
       "added_at": "2022-09-23 08:12:38",

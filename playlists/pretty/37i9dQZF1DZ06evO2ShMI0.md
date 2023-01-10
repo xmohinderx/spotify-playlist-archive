@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,141 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,214 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 3 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 |
 | 4 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 |
 | 5 | [Igual Que Ayer](https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 4:50 |
-| 6 | [Mariposas](https://open.spotify.com/track/1AERsDlEADxcp9WtjZBtiU) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Pescado Original](https://open.spotify.com/album/6BfpGbzobIIDf2u55LW6Kg) | 3:41 |
-| 7 | [Mi Primer Dia Sin Ti](https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 4:28 |
+| 6 | [Mi Primer Dia Sin Ti](https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 4:28 |
+| 7 | [Mariposas](https://open.spotify.com/track/1AERsDlEADxcp9WtjZBtiU) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Pescado Original](https://open.spotify.com/album/6BfpGbzobIIDf2u55LW6Kg) | 3:41 |
 | 8 | [Amores Lejanos](https://open.spotify.com/track/11AnIo9kTnjhtD06y5Zd5O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 4:55 |
 | 9 | [Luz De Dia \- En Vivo](https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:53 |
 | 10 | [Eterna Soledad](https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Guerra Gaucha](https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac) | 2:53 |
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 17 | [El Guerrero](https://open.spotify.com/track/0hN91uQEZegJM3bUAxhflV) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Tracción Acústica](https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga) | 4:07 |
 | 18 | [Amigos](https://open.spotify.com/track/5DR3IljhfLepLpWYjK1s6G) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 2:54 |
 | 19 | [Por el Resto](https://open.spotify.com/track/2tgUxOJHTjFxKHmfhyZGuS) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:25 |
-| 20 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
+| 20 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 |
 | 21 | [Tan Solo Un Instante](https://open.spotify.com/track/5nkCX8swYXg7tMk9gemoOo) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:24 |
 | 22 | [Frances Limon](https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 5:17 |
 | 23 | [Tus Viejas Cartas](https://open.spotify.com/track/3C4tV3EN4GuNrrD65b9iMa) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 3:32 |
-| 24 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 |
+| 24 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
 | 25 | [Y Ahora Te Vas](https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Y Ahora Te Vas](https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP) | 4:19 |
 | 26 | [Mil Horas \- En Vivo](https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:16 |
 | 27 | [No Me Verás](https://open.spotify.com/track/3AjM2wjIMGYrq3xTo0AzCP) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 49 | [Celdas](https://open.spotify.com/track/7o3Uk9WyFL5ukE1LuKSU5O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:43 |
 | 50 | [Lamento Boliviano \- En Vivo](https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 5:55 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDAzYzIxNzJhNTRjMDI3YmNkNzk5ODdkMTljY2Y1MzY2NA==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBkYzY1NWY0YmJhNmZmZjc4MjhlZWRiM2RiZTZiMmY2MQ==`

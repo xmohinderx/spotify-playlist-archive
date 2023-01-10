@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 169247,
+  "num_followers": 169684,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1NTY5NCwwMDAwMDAwMGUxOTVlNWZjZWMwMzU0NzBhMGIzNjI4ZWNmY2QwYjEw",
+  "snapshot_id": "MTY3MjI1NTY5NCwwMDAwMDAwMDU0YmQ1MDUwZjk3OGViODQyNzhjNWE2Njk0MmNjMGVi",
   "tracks": [
     {
       "added_at": "2022-12-28 19:28:14",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-12-28 19:28:14",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "The Archer",
+      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
+    },
+    {
+      "added_at": "2022-12-28 19:28:14",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
-    },
-    {
-      "added_at": "2022-12-28 19:28:14",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "The Archer",
-      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
     },
     {
       "added_at": "2022-12-28 19:28:14",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-12-28 19:28:14",
       "album": {
+        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "How Long - From\"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
+    },
+    {
+      "added_at": "2022-12-28 19:28:14",
+      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2022-12-28 19:28:14",
       "album": {
-        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "How Long - From\"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
-    },
-    {
-      "added_at": "2022-12-28 19:28:14",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2022-12-28 19:28:14",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 163116,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
     },
     {
       "added_at": "2022-12-28 19:28:14",
@@ -535,18 +551,18 @@
     {
       "added_at": "2022-12-28 19:28:14",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 163116,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-12-28 19:28:14",
@@ -639,22 +655,6 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2022-12-28 19:28:14",
-      "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-12-28 19:28:14",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-12-28 19:28:14",
       "album": {
+        "name": "Night Call (Deluxe)",
+        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "Night Call",
+      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
+    },
+    {
+      "added_at": "2022-12-28 19:28:14",
+      "album": {
         "name": "Overthinking",
         "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 174080,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
-    },
-    {
-      "added_at": "2022-12-28 19:28:14",
-      "album": {
-        "name": "Night Call (Deluxe)",
-        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "Night Call",
-      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
     },
     {
       "added_at": "2022-12-28 19:28:14",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-28 19:28:14",
       "album": {
-        "name": "Coping Mechanisms",
-        "url": "https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo"
-      },
-      "artists": [
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
-    },
-    {
-      "added_at": "2022-12-28 19:28:14",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 159608,
       "name": "See You In My Dreams",
       "url": "https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI"
+    },
+    {
+      "added_at": "2022-12-28 19:28:14",
+      "album": {
+        "name": "Coping Mechanisms",
+        "url": "https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
     },
     {
       "added_at": "2022-12-28 19:28:14",

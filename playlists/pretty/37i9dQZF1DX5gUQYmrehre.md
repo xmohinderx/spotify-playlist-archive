@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,856 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,864 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 72 | [Hasta Que Me Quieras](https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Cenizas Quedaban](https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY) | 5:32 |
 | 73 | [indirecta](https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [llorar y perrear](https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9) | 2:49 |
 | 74 | [NO PUTX \- Spotify Singles](https://open.spotify.com/track/79yTQjvKcRzO9Qb0wZJzkL) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [NO PUTX \- Spotify Singles](https://open.spotify.com/album/59gNuylpSUihz8qxcHHeJx) | 3:51 |
-| 75 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
-| 76 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 |
+| 75 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 |
+| 76 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
 | 77 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 |
 | 78 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 |
 | 79 | [Duel 35 Chamber Orchestra](https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [Patryk Piłasiewicz](https://open.spotify.com/artist/2j4TBbXIHH6qGqx9G7bYJO), [Chamber Orchestra](https://open.spotify.com/artist/1aMgsRyMOjklxOf80Ley9F), [Jan Cieszyński](https://open.spotify.com/artist/56SBcXfudvYb4rTdsXZKAo), [Agata Doszczak](https://open.spotify.com/artist/6rEMWX1OnDhseavIt6HuvC), [Dominik Drewniak](https://open.spotify.com/artist/59oImb1kKYMwjjexZxsFeJ), [Katarzyna Hejnowicz](https://open.spotify.com/artist/1txje25nHpf9q0hLb0PCyj), [Filip Mikulski](https://open.spotify.com/artist/0jcYHj9RFoNwx3in1eCeA5), [Kosma Müller](https://open.spotify.com/artist/6pNH9U1BwU274C8fJCFsZN), [Julia Polowczyk](https://open.spotify.com/artist/71MPlsVNg2hSRaNaKasfkT), [Beata Prus](https://open.spotify.com/artist/5xjLU3UmwaigK4LeWeKzRI), [Barbara Słomian](https://open.spotify.com/artist/77URrQS0BIpNIcZO2Sgb81), [Weronika Stabrawa](https://open.spotify.com/artist/7ekzgARFTMaUc7RKHKphFP), [Anna Zaryczna](https://open.spotify.com/artist/7K1crcEXeirFg8HE7ab341), [Jakub Zoń](https://open.spotify.com/artist/36yxLwof16SmVab7auYzrx), [Weronika Bagniewska](https://open.spotify.com/artist/6JfrZAtC5qgiX9DgYRYtb9) | [DUEL 35 Chamber Orchestra](https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd) | 7:11 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 87 | [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 |
 | 88 | [slipping](https://open.spotify.com/track/2SJL5stXLTLVd9dNeHhJP4) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [slipping](https://open.spotify.com/album/2em3qyO88TFY3Aouhr2UQ7) | 3:22 |
 | 89 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:46 |
-| 90 | [We Can Fall In Love](https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [We Can Fall In Love](https://open.spotify.com/album/6Xl87KkwJzjbfk8Y2Zi03u) | 2:44 |
+| 90 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDliZGMzYTBiMzgwODQxZjBjN2RkNzhlZjEzZGNhZTY3`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDgwNTdmMTA0YWZjODgyZDE5ZWVmNTRiMDE2YWNiMjVi`

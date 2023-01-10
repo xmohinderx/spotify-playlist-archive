@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33991,
+  "num_followers": 33990,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMGNkYTQ1OGVlNTRjZWY5NTIzOTcxZDE3MDc1ZTkwMTUy",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDRlMTk5MGQ2M2NmYjExODRlMzY2YmZjZWM1NzVlMjVi",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Mouthfuls",
-        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "When U Love Somebody",
-      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 170826,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Mouthfuls",
+        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "When U Love Somebody",
+      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -415,6 +431,26 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "The Way We Move",
+        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "The Way We Move",
+      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Wakin On A Pretty Daze",
         "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
       },
@@ -427,22 +463,6 @@
       "duration_ms": 570733,
       "name": "Wakin On A Pretty Day",
       "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -479,26 +499,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "The Way We Move",
-        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "The Way We Move",
-      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
     },
     {
       "added_at": "2022-06-17 04:02:00",

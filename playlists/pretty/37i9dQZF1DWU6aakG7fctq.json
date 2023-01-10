@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: RENEE",
-  "num_followers": 506155,
+  "num_followers": 506269,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA0MTU3NSwwMDAwMDAwMDNlNjliMWUzZjQ4NTQ0YjgwMjA0MGE1M2VkNzQwMzgw",
+  "snapshot_id": "MTY3MzA0MTU3NSwwMDAwMDAwMDkzNzRkYTFlYjg5ZjUyNTk5MDkzMDY3ZjBhM2E0MTQx",
   "tracks": [
     {
       "added_at": "2023-01-06 21:46:15",
@@ -159,6 +159,46 @@
     {
       "added_at": "2023-01-06 21:46:15",
       "album": {
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "added_at": "2023-01-06 21:46:15",
+      "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+    },
+    {
+      "added_at": "2023-01-06 21:46:15",
+      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -207,46 +247,6 @@
       "duration_ms": 179648,
       "name": "- es + (menos es m\u00e1s)",
       "url": "https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX"
-    },
-    {
-      "added_at": "2023-01-06 21:46:15",
-      "album": {
-        "name": "como me encanta",
-        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "como me encanta",
-      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
-      "added_at": "2023-01-06 21:46:15",
-      "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
     },
     {
       "added_at": "2023-01-06 21:46:15",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-01-06 21:46:15",
       "album": {
+        "name": "Levitando Lento",
+        "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 222634,
+      "name": "Levitando Lento",
+      "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
+    },
+    {
+      "added_at": "2023-01-06 21:46:15",
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
-    },
-    {
-      "added_at": "2023-01-06 21:46:15",
-      "album": {
-        "name": "Levitando Lento",
-        "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 222634,
-      "name": "Levitando Lento",
-      "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
     },
     {
       "added_at": "2023-01-06 21:46:15",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-01-06 21:46:15",
       "album": {
+        "name": "lo que el viento se llev\u00f3",
+        "url": "https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "lo que el viento se llev\u00f3",
+      "url": "https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc"
+    },
+    {
+      "added_at": "2023-01-06 21:46:15",
+      "album": {
         "name": "Soy Tu Pap\u00e1 (feat. Fernando Palomo)",
         "url": "https://open.spotify.com/album/1yMQpJi4NbATzyf37Y0muR"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 254725,
       "name": "Soy Tu Pap\u00e1 (feat. Fernando Palomo)",
       "url": "https://open.spotify.com/track/0IK1nPN06x2HC05knvox4U"
-    },
-    {
-      "added_at": "2023-01-06 21:46:15",
-      "album": {
-        "name": "lo que el viento se llev\u00f3",
-        "url": "https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "lo que el viento se llev\u00f3",
-      "url": "https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc"
     },
     {
       "added_at": "2023-01-06 21:46:15",

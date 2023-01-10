@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Yaya Bey",
-  "num_followers": 1325634,
+  "num_followers": 1325774,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGE1YWNiZGRhZGE1OWI5ZjViYjQ4YzFiNmRhMWI4MzUw",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM1ZDE1ODhjOTc1MjU1ZDRlMDIzNzNiN2ZhYmRiY2Q5",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -125,20 +125,20 @@
       "url": "https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU"
     },
     {
-      "added_at": "2022-07-24 03:11:28",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 232066,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -241,20 +241,20 @@
       "url": "https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-07-24 03:11:28",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+      "duration_ms": 232066,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -273,36 +273,40 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2022-07-24 03:13:05",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 156506,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+      "duration_ms": 218586,
+      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
-      "added_at": "2022-10-15 00:26:21",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -341,20 +345,20 @@
       "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-10-15 00:26:21",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 150720,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -389,24 +393,20 @@
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-09-23 04:12:35",
       "album": {
-        "name": "Please Do Not Lean",
-        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 240937,
-      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+      "duration_ms": 178000,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -425,20 +425,20 @@
       "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
-      "added_at": "2022-12-10 19:36:26",
+      "added_at": "2022-07-24 03:13:05",
       "album": {
-        "name": "ULTRAMARINE",
-        "url": "https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 114001,
-      "name": "The Bloom",
-      "url": "https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5"
+      "duration_ms": 156506,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -529,24 +529,40 @@
       "url": "https://open.spotify.com/track/3linBtGF8ouzEncml6s2ux"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Please Do Not Lean",
+        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 218586,
-      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
+      "duration_ms": 240937,
+      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "added_at": "2022-12-10 19:36:26",
+      "album": {
+        "name": "ULTRAMARINE",
+        "url": "https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "duration_ms": 114001,
+      "name": "The Bloom",
+      "url": "https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -665,22 +681,6 @@
       "url": "https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL"
     },
     {
-      "added_at": "2022-09-23 04:12:35",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Awkward",
-      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "AZEB - EP",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/3fyoU0LaGw1yqxK2bbWcOJ"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 292824,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "uni",
@@ -779,22 +795,6 @@
       "duration_ms": 189000,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 292824,
-      "name": "On the Run",
-      "url": "https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -957,54 +957,6 @@
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Figures",
-        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 152590,
-      "name": "Figures",
-      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
-    },
-    {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "safety",
-        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "IDC",
@@ -1023,6 +975,54 @@
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 152590,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1177,26 +1177,6 @@
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Xtasy (Remix) [feat. Doechii]",
-        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 270497,
-      "name": "Xtasy (Remix) [feat. Doechii]",
-      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
-    },
-    {
       "added_at": "2022-12-16 05:17:19",
       "album": {
         "name": "wood tip",
@@ -1215,6 +1195,26 @@
       "duration_ms": 209462,
       "name": "can't fight the devil",
       "url": "https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Call the Bluff",
-        "url": "https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv"
-      },
-      "artists": [
-        {
-          "name": "Hush Forte",
-          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
-        }
-      ],
-      "duration_ms": 179249,
-      "name": "Call the Bluff",
-      "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
-    },
-    {
       "added_at": "2022-09-09 04:06:40",
       "album": {
         "name": "Like Neptune",
@@ -1325,20 +1309,20 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "I'll make it better",
-        "url": "https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK"
+        "name": "Call the Bluff",
+        "url": "https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv"
       },
       "artists": [
         {
-          "name": "Naji",
-          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
+          "name": "Hush Forte",
+          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
         }
       ],
-      "duration_ms": 75294,
-      "name": "I'll make it better",
-      "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
+      "duration_ms": 179249,
+      "name": "Call the Bluff",
+      "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1357,6 +1341,22 @@
       "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "I'll make it better",
+        "url": "https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK"
+      },
+      "artists": [
+        {
+          "name": "Naji",
+          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
+        }
+      ],
+      "duration_ms": 75294,
+      "name": "I'll make it better",
+      "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Wild Animals",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "I Think I Do",
-        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 142438,
-      "name": "I Think I Do",
-      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "deadman",
@@ -1403,6 +1387,22 @@
       "duration_ms": 130909,
       "name": "deadman",
       "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "I Think I Do",
+        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 142438,
+      "name": "I Think I Do",
+      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1423,26 +1423,6 @@
       "duration_ms": 148280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Keep It Lo",
-        "url": "https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 153712,
-      "name": "Keep It Lo",
-      "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1475,6 +1455,26 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Keep It Lo",
+        "url": "https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 153712,
+      "name": "Keep It Lo",
+      "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
     },
     {
       "added_at": "2022-07-22 04:15:47",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
-      "added_at": "2022-12-16 05:17:19",
-      "album": {
-        "name": "Ultimate Self",
-        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Ultimate Self",
-      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
-    },
-    {
       "added_at": "2022-09-30 04:04:40",
       "album": {
         "name": "5 MO' MINUTES",
@@ -1577,20 +1561,20 @@
       "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-12-16 05:17:19",
       "album": {
-        "name": "supernova",
-        "url": "https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq"
+        "name": "Ultimate Self",
+        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
       },
       "artists": [
         {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
         }
       ],
-      "duration_ms": 90650,
-      "name": "supernova",
-      "url": "https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC"
+      "duration_ms": 225000,
+      "name": "Ultimate Self",
+      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
     },
     {
       "added_at": "2022-09-30 04:04:40",
@@ -1617,20 +1601,20 @@
       "url": "https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y"
     },
     {
-      "added_at": "2022-07-29 04:14:33",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
+        "name": "supernova",
+        "url": "https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq"
       },
       "artists": [
         {
-          "name": "Natanya Popoola",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
+      "duration_ms": 90650,
+      "name": "supernova",
+      "url": "https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 193993,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD"
+    },
+    {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
+      },
+      "artists": [
+        {
+          "name": "Natanya Popoola",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1689,6 +1689,22 @@
       "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
     },
     {
+      "added_at": "2022-12-16 05:17:19",
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 208618,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Luv N Chaos",
@@ -1707,22 +1723,6 @@
       "duration_ms": 222857,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ"
-    },
-    {
-      "added_at": "2022-12-16 05:17:19",
-      "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 208618,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu"
     }
   ],
   "unique_name": "Alternative R&B",

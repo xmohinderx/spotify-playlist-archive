@@ -1592,6 +1592,24 @@
     {
       "album": {
         "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300728,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1"
+    },
+    {
+      "album": {
+        "name": "A Place Like This",
         "url": "https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS"
       },
       "artists": [
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 153658,
       "name": "LANSDOWNE",
       "url": "https://open.spotify.com/track/6Dv76051LlfL1LvMpcPLKw"

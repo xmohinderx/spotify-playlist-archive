@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-244 songs - 11 hr 9 min
+246 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2022-08-01 |  |
 | [The Scientist](https://open.spotify.com/track/5MMbe6wXiD0sHCZROX5Xzl) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Benjamin Cambridge](https://open.spotify.com/artist/6dwm8MR9ofk42CUiRcdaKu) | [The Scientist](https://open.spotify.com/album/08KAojer6DlSMAyO7vA1wb) | 2:03 | 2022-08-01 | 2022-09-13 |
 | [the traveler](https://open.spotify.com/track/1Niqti17jYAgEBlHzUEQ02) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the traveler & fragile flowers](https://open.spotify.com/album/6RkJifc0y3nOQLHHWB0oC8) | 2:50 | 2022-11-14 |  |
+| [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2022-08-01 |  |
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2022-08-01 |  |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-08-01 | 2022-09-13 |
@@ -231,6 +232,7 @@
 | [Untethered](https://open.spotify.com/track/4NlSuhEcQbnHOPQ2yyYW4b) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Untethered](https://open.spotify.com/album/6g5kGXlZQl6d5mM3TM3ZRQ) | 2:38 | 2022-10-14 | 2022-11-15 |
 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 | 2022-08-01 |  |
 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 | 2022-08-01 |  |
+| [Valse Remuer](https://open.spotify.com/track/6uRgwV28hxPxLEr7nclFQs) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Valse Remuer](https://open.spotify.com/album/4XrIP9bYg4Pd0RNxIJaTqX) | 2:15 | 2023-01-09 |  |
 | [Vaults](https://open.spotify.com/track/53EoWPKv7FO9uTu6a7UPR2) | [Reginald Easter](https://open.spotify.com/artist/6iUeBAwdvdJ6jB3iVNPYAL) | [Vaults](https://open.spotify.com/album/1u7QPnbzTFfJngypn0BBVB) | 3:05 | 2022-08-01 | 2022-09-13 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2022-08-01 |  |
 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 | 2022-08-01 | 2022-11-15 |

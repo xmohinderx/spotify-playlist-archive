@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 30638,
+  "num_followers": 30696,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDExNTBhZDA4ZmQyN2NkYzQxOWFmY2Y3YTZhYmI0Mzkw",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGJhYTRmMzU5YzEyYzBlMTQ4MWRlNDViNDgyNDRlNjMy",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -127,22 +127,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man Comes Around",
-      "url": "https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "See A Victory",
         "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 363230,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man Comes Around",
+      "url": "https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -423,22 +423,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Mmhmm",
         "url": "https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "A Way to See in the Dark",
-        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Remind Me Who I Am",
-      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 251714,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "A Way to See in the Dark",
+        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Remind Me Who I Am",
+      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -635,22 +635,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Listen To The Sound",
-        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 264320,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Listen To The Sound",
+        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Prize Worth Fighting For",
-        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
-      },
-      "artists": [
-        {
-          "name": "Jamie Kimmett",
-          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Prize Worth Fighting For",
-      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Never Lost",
         "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Prize Worth Fighting For",
+        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
+      },
+      "artists": [
+        {
+          "name": "Jamie Kimmett",
+          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Prize Worth Fighting For",
+      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
       },
@@ -955,6 +955,26 @@
       "duration_ms": 267333,
       "name": "When We Fall Apart",
       "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "REBELS",
+        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Michael Ketterer",
+          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -979,26 +999,6 @@
       "duration_ms": 215020,
       "name": "God Only Knows (Timbaland Remix)",
       "url": "https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "REBELS",
-        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Michael Ketterer",
-          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Rebels",
-      "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
     },
     {
       "added_at": "2019-11-20 07:28:20",

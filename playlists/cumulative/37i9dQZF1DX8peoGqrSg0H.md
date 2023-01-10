@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
+> เพลย์ลิสต์เวอร์ชั่นพิเศษในช่วงวันเด็ก! เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Jeff Satur
 
-277 songs - 16 hr 51 min
+278 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [ชอบคุณนะ \- Unsend](https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ชอบคุณนะ \(Unsend\)](https://open.spotify.com/album/7GewzqYmhU1NAX5W380oTn) | 2:48 | 2022-05-26 |  |
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 |  |
 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 | 2022-10-26 |  |
-| [ชอบป้ะ \(U like it?\)](https://open.spotify.com/track/7yXuMQovK5W52TiPFEKWqy) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/album/0JUFTGeAGPVoEFzNIzs04Z) | 3:16 | 2022-12-01 |  |
+| [ชอบป้ะ \(U like it?\)](https://open.spotify.com/track/7yXuMQovK5W52TiPFEKWqy) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/album/0JUFTGeAGPVoEFzNIzs04Z) | 3:16 | 2022-12-01 | 2023-01-10 |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-29 |  |
 | [ช่วยไปรักคนนั้นที](https://open.spotify.com/track/6SFfErKKJCMbz1d3SKKTew) | [O\-Pavee](https://open.spotify.com/artist/5mZD78snaOoIJGOOFEbXFA) | [ช่วยไปรักคนนั้นที](https://open.spotify.com/album/3DMY1Mw0COtkmRF70gOgnQ) | 3:47 | 2022-08-11 | 2022-08-19 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2022-05-26 | 2022-09-01 |
@@ -161,6 +161,7 @@
 | [รอเก่ง \- Introvert](https://open.spotify.com/track/60lOiEJVxbn4Crv8344i1W) | [Aimzillow](https://open.spotify.com/artist/3nk2i4kSjG2qVzo0MHPSYj) | [รอเก่ง \(Introvert\)](https://open.spotify.com/album/4RQh8Pjm8rOFJKLR6awxEp) | 3:35 | 2022-07-01 | 2022-07-08 |
 | [ระวังเสียใจ \(Warning\)](https://open.spotify.com/track/2H5h25NuMFY39z7EOl28eP) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 2:54 | 2022-11-03 |  |
 | [ระหว่างทาง \(Good Time\) \- เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 | 2022-09-23 | 2022-10-05 |
+| [รักก็รักดิ \- From "Cutie Pie 2 You"](https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [รักก็รักดิ \(From "Cutie Pie 2 You"\)](https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p) | 3:17 | 2023-01-09 |  |
 | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/track/2VP2WPjDzo3bPutWdIbwpe) | [Darran](https://open.spotify.com/artist/6njda9gVhFrDchBy33CAsh) | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/album/5tCQ7kmjqVm4yWM6EahkZj) | 4:04 | 2022-06-02 | 2022-06-10 |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2022-09-29 |  |
 | [รักในวันฝนมา \- เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/track/34HpfHhOP7iajSuZHlexDa) | [CINCIN IRADA X DIAMOND LAZ1](https://open.spotify.com/artist/5rGodrPbDeEJti8no09ppe) | [เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/album/7npbOU0f6TqTUmrRfy1Xsz) | 2:55 | 2022-08-18 |  |

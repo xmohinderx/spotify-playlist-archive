@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,488 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,496 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 7 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
 | 8 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 9 | [¿Por qué tan seria?](https://open.spotify.com/track/6wdkhuxxLOebJK8scPd9LX) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [¿Por qué tan seria?](https://open.spotify.com/album/32NnTNEkICcFVI1gfV5amQ) | 3:49 |
-| 10 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 |
-| 11 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
-| 12 | [SRA](https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [SRA](https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb) | 3:29 |
+| 10 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
+| 11 | [SRA](https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [SRA](https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb) | 3:29 |
+| 12 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 |
 | 13 | [No Puedo Funcionar](https://open.spotify.com/track/5ovjlgDlwy3fDfAWDh1Pki) | [DJs Pareja](https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestra Forma](https://open.spotify.com/album/1Vr6Mf9IkYR5GEwjLyfxMq) | 5:47 |
 | 14 | [Bembé](https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Machiran](https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx) | [Bembé](https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV) | 3:17 |
 | 15 | [El Mago Georges](https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT) | 3:55 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 28 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 29 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
 | 30 | [Koro Kemboro](https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Koro Kemboro](https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF) | 5:03 |
-| 31 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
-| 32 | [they told us it was hard, but they were wrong\. \- Edit](https://open.spotify.com/track/4eChGxuP1HLtOPpQFFXRbP) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [they told us it was hard, but they were wrong.](https://open.spotify.com/album/6PbCwsrFphZdHvDhDneO4v) | 3:45 |
+| 31 | [they told us it was hard, but they were wrong\. \- Edit](https://open.spotify.com/track/4eChGxuP1HLtOPpQFFXRbP) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [they told us it was hard, but they were wrong.](https://open.spotify.com/album/6PbCwsrFphZdHvDhDneO4v) | 3:45 |
+| 32 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
 | 33 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 |
 | 34 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
 | 35 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 49 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
 | 50 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
 
-Snapshot ID: `MTY3MzA2MjgzMSwwMDAwMDAwMDg4MmJkOTFjMTg4NmVlNmZjOTEzZWZhZmRjMDExMTBh`
+Snapshot ID: `MTY3MzA2MjgzMSwwMDAwMDAwMGJjOGJlZmIyZDIyMDRmYzhiNjNkYjg0NDc5ODgzYmQx`

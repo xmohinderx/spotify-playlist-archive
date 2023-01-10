@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 103934,
+  "num_followers": 103866,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMGRlODI1M2EzYmI0OGYzYjFlOGU4NWJhM2I1NDU1NjYz",
+  "snapshot_id": "MTY3MTgwMDY5MywwMDAwMDAwMDc5YzBiZTAwZWZhNjExMzI5MGE3NGUxMDNkMDZhYWVh",
   "tracks": [
     {
       "added_at": "2022-12-23 13:04:53",
@@ -131,22 +131,22 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
         }
       ],
-      "duration_ms": 159973,
-      "name": "Jingle Bells (feat. The Puppini Sisters)",
-      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
+      "duration_ms": 176699,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -219,6 +219,26 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Jingle Bells (feat. The Puppini Sisters)",
+      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "The Definitive Vince Guaraldi",
         "url": "https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d"
       },
@@ -231,22 +251,6 @@
       "duration_ms": 144373,
       "name": "Skating",
       "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Ultra-Lounge: Christmas Cocktails",
-        "url": "https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 162426,
-      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
-      "url": "https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -267,22 +271,18 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+        "name": "Ultra-Lounge: Christmas Cocktails",
+        "url": "https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "The Commanders",
-          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
         }
       ],
-      "duration_ms": 176699,
-      "name": "Cool Yule",
-      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
+      "duration_ms": 162426,
+      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
+      "url": "https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -335,74 +335,6 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1ta7346unwX9mJOqbSB9wD"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 121986,
-      "name": "Caroling, Caroling",
-      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Ella: The Legendary Decca Recordings",
-        "url": "https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Baby It's Cold Outside",
-      "url": "https://open.spotify.com/track/5INjLnLJcfG22QkaLUMcZm"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -423,22 +355,50 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 121986,
+      "name": "Caroling, Caroling",
+      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 191093,
-      "name": "I've Got My Love To Keep Me Warm",
-      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
+      "duration_ms": 175840,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1ta7346unwX9mJOqbSB9wD"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -455,6 +415,26 @@
       "duration_ms": 158253,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -491,6 +471,26 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "Ella: The Legendary Decca Recordings",
+        "url": "https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 163706,
+      "name": "Baby It's Cold Outside",
+      "url": "https://open.spotify.com/track/5INjLnLJcfG22QkaLUMcZm"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -503,6 +503,26 @@
       "duration_ms": 145693,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 159833,
+      "name": "Christmas Night In Harlem - Single Version",
+      "url": "https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -551,26 +571,6 @@
       "duration_ms": 129533,
       "name": "The Merriest",
       "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 159833,
-      "name": "Christmas Night In Harlem - Single Version",
-      "url": "https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "Show Me The Magic",
+        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 150412,
+      "name": "Show Me The Magic",
+      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "The Season's Back Again",
         "url": "https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Show Me The Magic",
-        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 150412,
-      "name": "Show Me The Magic",
-      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2022-12-23 13:04:53",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
         "name": "A Very Swingin\u2019 Basie Christmas!",
         "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
@@ -867,26 +867,6 @@
       "duration_ms": 290826,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
-    },
-    {
-      "added_at": "2022-12-23 13:04:53",
-      "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Ben Castle",
-          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Little White Berry",
-      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
     },
     {
       "added_at": "2022-12-23 13:04:53",
@@ -967,6 +947,26 @@
       "duration_ms": 139880,
       "name": "Ring Those Christmas Bells",
       "url": "https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO"
+    },
+    {
+      "added_at": "2022-12-23 13:04:53",
+      "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Ben Castle",
+          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Little White Berry",
+      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
     },
     {
       "added_at": "2022-12-23 13:04:53",

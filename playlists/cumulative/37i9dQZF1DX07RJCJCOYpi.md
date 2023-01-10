@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: Gordo & Feid
 
-147 songs - 7 hr 45 min
+149 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bella Ciao \- Bruno Martini Remix](https://open.spotify.com/track/6tvHnOzbN9SCAcuuNIUMBa) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bella Ciao \(Bruno Martini Remix\)](https://open.spotify.com/album/25B1ptbmz30BrYXGI2R8ty) | 2:41 | 2022-03-22 | 2022-04-29 |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-01 |  |
 | [Beso De Tres](https://open.spotify.com/track/7o31QdyRw3QvnnMjudXRxl) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Beso De Tres](https://open.spotify.com/album/7emW1NQUpXMuFCcLcr9sNd) | 2:37 | 2022-03-22 | 2022-04-29 |
+| [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-01-09 |  |
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-03-22 | 2022-04-29 |
 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 | 2022-08-19 |  |
 | [Bonito](https://open.spotify.com/track/0w8xgeyS3hxk6M24v8wkYk) | [El Duglas](https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9) | [Bonito](https://open.spotify.com/album/71v6y9ZimfNQoVSdHw8wir) | 3:05 | 2022-11-29 |  |
@@ -99,6 +100,7 @@
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2022-04-20 |  |
 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2022-05-23 |  |
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-03-22 |  |
+| [Nieve \- Benny Benassi Remix](https://open.spotify.com/track/2QG6VgmvMV7mYPME1evMeC) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Nieve \(Remixes\)](https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr) | 2:39 | 2023-01-09 |  |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2022-04-20 |  |
 | [NO MIENTEN \- Tiësto Remix](https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [NO MIENTEN \(Tiësto Remix\)](https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8) | 2:34 | 2022-06-06 | 2022-06-24 |
 | [No Vas A Volver](https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Danno Summer](https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2) | [Malas Decisiones](https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2) | 3:01 | 2022-03-22 | 2022-04-21 |

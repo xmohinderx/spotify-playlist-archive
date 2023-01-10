@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 100677,
+  "num_followers": 100705,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDVjNDZhNjFlZDY2NGYyMzc5M2FmMzMxYThkZTFhYzg5",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGM5MGFiNWVmMDE0MDllYzZlOWVjNmEzNGFlYmM2NDM0",
   "tracks": [
     {
       "added_at": "2022-12-01 13:00:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+        "name": "Orsay",
+        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+      "duration_ms": 246363,
+      "name": "Orsay",
+      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Orsay",
-        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 246363,
-      "name": "Orsay",
-      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -223,26 +223,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Can We Still Be Friends?",
-        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "Can We Still Be Friends?",
-      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn"
       },
@@ -275,6 +255,22 @@
       "duration_ms": 228734,
       "name": "Interior - Edit",
       "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -327,18 +323,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
+        "name": "Can We Still Be Friends?",
+        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
       },
       "artists": [
         {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         }
       ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
+      "duration_ms": 243498,
+      "name": "Can We Still Be Friends?",
+      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "fall back",
         "url": "https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj"
       },
@@ -563,54 +579,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Heirloom",
-        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
-      },
-      "artists": [
-        {
-          "name": "KISLO",
-          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
-        }
-      ],
-      "duration_ms": 283461,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Eat Your Own Ears Recordings EP 1",
-        "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 480253,
-      "name": "Scythe Master",
-      "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -631,18 +599,18 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Someone Close",
-        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
+        "name": "Eat Your Own Ears Recordings EP 1",
+        "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 492316,
-      "name": "Someone Close",
-      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
+      "duration_ms": 480253,
+      "name": "Scythe Master",
+      "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -659,6 +627,38 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/29rHqyYnfNh28uhELamXiN"
+      },
+      "artists": [
+        {
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
+        }
+      ],
+      "duration_ms": 283461,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/7oq6vOvJhCrDTTlgmtNiNS"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Someone Close",
+        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 492316,
+      "name": "Someone Close",
+      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "Closure (feat. Helena)",
         "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 261741,
       "name": "Revelation - Barry Can't Swim Remix",
       "url": "https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
-      },
-      "artists": [
-        {
-          "name": "Waleed",
-          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Happiness, Guaranteed",
         "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
       },
@@ -1075,6 +1059,38 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
+      },
+      "artists": [
+        {
+          "name": "Waleed",
+          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
+        }
+      ],
+      "duration_ms": 298285,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
         "name": "The Work",
         "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
       },
@@ -1087,6 +1103,22 @@
       "duration_ms": 337266,
       "name": "Plastic Future",
       "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1111,38 +1143,6 @@
       "duration_ms": 275121,
       "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
       "url": "https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2022-12-01 13:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-01 13:00:00",
       "album": {
-        "name": "Caring EP",
-        "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 274267,
-      "name": "Shapeless",
-      "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
-    },
-    {
-      "added_at": "2022-12-01 13:00:00",
-      "album": {
         "name": "Jewels from the Sun EP",
         "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 290847,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
+    },
+    {
+      "added_at": "2022-12-01 13:00:00",
+      "album": {
+        "name": "Caring EP",
+        "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 274267,
+      "name": "Shapeless",
+      "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
     },
     {
       "added_at": "2022-12-01 13:00:00",

@@ -4,7 +4,7 @@
 
 > sensual roots & indie folk.
 
-92 songs - 6 hr 1 min
+93 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Leave the Light On \- Demo](https://open.spotify.com/track/4pCeGOpnyFmCUz0bFYLplA) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/5tcFsyGfCQTwSlFuui8HAh) | 3:12 | 2021-03-19 | 2022-11-14 |
 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2021-03-19 |  |
 | [letting go](https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [letting go](https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6) | 4:28 | 2021-03-19 | 2022-07-29 |
-| [Light a Fire](https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:27 | 2021-03-19 |  |
+| [Light a Fire](https://open.spotify.com/track/6mhclJYS93j8uTlJVqsI3P) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:27 | 2021-03-19 | 2023-01-10 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-03-19 |  |
 | [Love No Less Worthy](https://open.spotify.com/track/39ex1gng2xOIUrNjLOc7Ti) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/6tbON4U1Aw1od8B3OkuTz8) | 3:13 | 2021-03-19 | 2022-07-29 |
 | [Love No Less Worthy](https://open.spotify.com/track/7cyEaeobX5n7UmvvdxG4Zt) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/5MwNed00WoQc1dqGTxz8UQ) | 3:13 | 2021-03-19 |  |
@@ -93,6 +93,7 @@
 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 | 2021-03-19 |  |
 | [Wicked Game \- Live At Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/5Lbi5aI8aLOGjO7A8vhbUv) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/03PET5SB0u5YLHrROp1WsL) | 4:31 | 2021-03-19 | 2022-07-28 |
 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 | 2021-03-19 |  |
+| [Witness](https://open.spotify.com/track/0gyF4C5bQduO9Qd1EgTupN) | [Me and My Friends](https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3) | [Witness](https://open.spotify.com/album/46tFc3Dh5NrobyPI6Rq4hJ) | 3:20 | 2023-01-06 |  |
 | [Woman](https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:34 | 2021-03-19 |  |
 | [Woman](https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 4:34 | 2021-03-19 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/4LngVAmigX4WrBEDfonBlU) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 4:34 | 2021-03-19 | 2022-10-13 |

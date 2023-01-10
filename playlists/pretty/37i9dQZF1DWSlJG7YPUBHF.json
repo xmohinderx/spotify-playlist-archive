@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the most epic, electrifying, face-melting axe performances. Cover: Eddie Van Halen",
-  "num_followers": 1293689,
+  "num_followers": 1294087,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2NDUxMiwwMDAwMDAwMGM0YTY0NmNjNzJlYjM2NDE5YjJjZDE3ZjM4NTIyNTEy",
+  "snapshot_id": "MTY2MTg2NDUxMiwwMDAwMDAwMDA3OTVkZTg5NTNmMjI3YjMwZGExNWM1MzBiYmE0NjA3",
   "tracks": [
     {
       "added_at": "2021-12-13 15:23:11",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 277467,
       "name": "Reelin' In The Years",
       "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 811077,
-      "name": "Shine On You Crazy Diamond (Pts. 1-5)",
-      "url": "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 417226,
       "name": "Fade To Black (Remastered)",
       "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 811077,
+      "name": "Shine On You Crazy Diamond (Pts. 1-5)",
+      "url": "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Flying In A Blue Dream",
-        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
-      },
-      "artists": [
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 323066,
-      "name": "Flying in a Blue Dream",
-      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226773,
       "name": "Shock Me",
       "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 314560,
+      "name": "Hangar 18",
+      "url": "https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+        "name": "Flying In A Blue Dream",
+        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
         }
       ],
-      "duration_ms": 314560,
-      "name": "Hangar 18",
-      "url": "https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe"
+      "duration_ms": 323066,
+      "name": "Flying in a Blue Dream",
+      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
     }
   ],
   "unique_name": "Legendary Guitar Solos",

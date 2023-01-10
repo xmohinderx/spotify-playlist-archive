@@ -5297,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "Sogno eterno",
+        "url": "https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Sogno eterno",
+      "url": "https://open.spotify.com/track/0th3A703YVssZCiPxdj07r"
+    },
+    {
+      "album": {
         "name": "Solar Eclipse",
         "url": "https://open.spotify.com/album/7BrTQS2tjIaezPAYB9Gmp6"
       },
@@ -5420,6 +5438,24 @@
       "duration_ms": 207000,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz"
+    },
+    {
+      "album": {
+        "name": "Spirits on My Mind",
+        "url": "https://open.spotify.com/album/7LGeDsQaq0qZNgDxhxTdCj"
+      },
+      "artists": [
+        {
+          "name": "Roofies Dragon",
+          "url": "https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Spirits on My Mind",
+      "url": "https://open.spotify.com/track/44taQM4lPyUeGSrt5TYhGh"
     },
     {
       "album": {

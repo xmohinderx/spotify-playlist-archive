@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 111120,
+  "num_followers": 111189,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMDlkN2U0MmQxNmVkNWRkNGQ0NTdiZGRhOGUxMmJjYjhm",
+  "snapshot_id": "MTY3MTEwOTIwMCwwMDAwMDAwMGNmY2I5NThhMDM5NjIxMDA0ZGRlZTNiZjY5MTJlMmJi",
   "tracks": [
     {
       "added_at": "2022-12-15 13:00:00",
@@ -231,6 +231,26 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
+        "name": "Love Tonight (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 184783,
+      "name": "Love Tonight - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Love Tonight (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "Love Tonight - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Burn Dem Bridges",
         "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 175676,
       "name": "Burn Dem Bridges",
       "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Highest Building (feat. Oklou)",
-      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -627,22 +607,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Tomorrows",
         "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
       },
@@ -659,18 +623,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Atlas (Light / Dark Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47"
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 275493,
-      "name": "Sundream",
-      "url": "https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ"
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -703,6 +667,42 @@
       "duration_ms": 229213,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Atlas (Light / Dark Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Sundream",
+      "url": "https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Always Got The Love",
-        "url": "https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1"
+        "name": "Waiting for Nothing (feat. Yaeger)",
+        "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
       },
       "artists": [
         {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 207875,
-      "name": "Always Got The Love",
-      "url": "https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g"
+      "duration_ms": 248169,
+      "name": "Waiting for Nothing (feat. Yaeger)",
+      "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Waiting for Nothing (feat. Yaeger)",
-        "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
+        "name": "Always Got The Love",
+        "url": "https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
         }
       ],
-      "duration_ms": 248169,
-      "name": "Waiting for Nothing (feat. Yaeger)",
-      "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
+      "duration_ms": 207875,
+      "name": "Always Got The Love",
+      "url": "https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g"
     },
     {
       "added_at": "2022-12-15 13:00:00",

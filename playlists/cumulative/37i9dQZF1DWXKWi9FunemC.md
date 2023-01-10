@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-150 songs - 11 hr 3 min
+151 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Magnified \(Acoustic\)](https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Magnified \(Acoustic\)](https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4) | 3:31 | 2020-08-31 |  |
 | [Meadow](https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Meadow](https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf) | 3:45 | 2020-08-31 |  |
 | [More Than Anything](https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [More Than Anything](https://open.spotify.com/album/0XZ65qQkiiz1TMDkZAsm92) | 7:17 | 2020-08-31 | 2022-07-29 |
+| [More Than Anything](https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 7:17 | 2020-08-31 |  |
 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 | 2020-08-31 |  |
 | [Not Finished Yet](https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 3:52 | 2020-08-31 |  |
 | [Not Finished Yet](https://open.spotify.com/track/7zm8o8n8g0e1eVDWRGj0Ff) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let The Ground Rest](https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c) | 3:52 | 2020-08-31 | 2022-07-29 |
@@ -151,7 +152,7 @@
 | [With You](https://open.spotify.com/track/6oE6JvYUDR3aa9JAtFvN61) | [Narrow Skies](https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth) | [Seasons](https://open.spotify.com/album/2tA737IB2KdJprTDwHfmFT) | 2:49 | 2020-08-31 | 2022-07-25 |
 | [Worth Mine](https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU) | [Lydia Bricker](https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Worth Mine](https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk) | 4:40 | 2020-08-31 |  |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-08-31 |  |
-| [Wrote Us a Story \- To the Sea Remix](https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk) | [Jenny & Tyler](https://open.spotify.com/artist/18FojbNFtWY8HKOMVSA2K4) | [Wrote Us a Story \(To the Sea Remix\)](https://open.spotify.com/album/1uHEElCMla96AuvFhcCZAD) | 3:25 | 2020-08-31 |  |
+| [Wrote Us a Story \- To the Sea Remix](https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk) | [Jenny & Tyler](https://open.spotify.com/artist/18FojbNFtWY8HKOMVSA2K4) | [Wrote Us a Story \(To the Sea Remix\)](https://open.spotify.com/album/1uHEElCMla96AuvFhcCZAD) | 3:25 | 2020-08-31 | 2023-01-10 |
 | [You Are God, Be Glorified](https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [You Are God, Be Glorified](https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb) | 4:27 | 2020-08-31 |  |
 | [You Can Close Your Eyes](https://open.spotify.com/track/1e5eUUQ3K7cnlOFoSG6iAk) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN), [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [B Sides](https://open.spotify.com/album/6nj4lFf0LIu3W4iRbr02Ko) | 2:24 | 2020-08-31 |  |
 | [You Can Close Your Eyes \(feat\. William Fitzsimmons\) \[Bonus Track\]](https://open.spotify.com/track/0mSZtpdHUYbrfe2f4HJPzO) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags \(Deluxe Edition\)](https://open.spotify.com/album/2bUqAg3JLM03QmQUJ91fGF) | 2:22 | 2020-08-31 | 2022-07-28 |

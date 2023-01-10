@@ -1,12 +1,12 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1232849,
+  "num_followers": 1234306,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3NDAyMCwwMDAwMDAwMDFhZmFhNGQwYzkzMjVjNzE1MjgxMDRjNDExNzlhYjhi",
+  "snapshot_id": "MTY3Mjc3NDAyMCwwMDAwMDAwMGJhM2IzNzQyZmI2Y2U0MzAzZDc2NzU2YmE3NjY0MzU4",
   "tracks": [
     {
       "added_at": "2022-12-29 15:33:22",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -163,6 +179,22 @@
       "duration_ms": 256124,
       "name": "Snow On The Beach (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 361026,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -199,34 +231,18 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 361026,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -247,18 +263,18 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -279,38 +295,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "Very Few Friends",
         "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 132500,
       "name": "Very Few Friends",
       "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Is There Someone Else?",
+      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Is There Someone Else?",
-      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 111640,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -647,26 +631,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -695,6 +659,42 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 109325,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 202007,
       "name": "Hit Different",
       "url": "https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
     },
     {
       "added_at": "2022-12-29 15:33:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-29 15:33:22",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2022-12-29 15:33:22",
-      "album": {
         "name": "Pistol",
         "url": "https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
+    },
+    {
+      "added_at": "2022-12-29 15:33:22",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2022-12-29 15:33:22",

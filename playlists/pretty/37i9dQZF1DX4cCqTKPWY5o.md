@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,849 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,869 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 30 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
 | 31 | [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 |
 | 32 | [Cha Cha Slide \- Hardino Mix](https://open.spotify.com/track/3XTaaGGAL2gVVaAbu0yxQX) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s), [Hardino](https://open.spotify.com/artist/2W8WGXvVL7Du3TZLmToBR5) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 3:42 |
-| 33 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
-| 34 | [Roller Disco](https://open.spotify.com/track/1oTvT8s4iPUJZOR9uUCu7t) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Roller Disco](https://open.spotify.com/album/3HiKeJxgpyKJBCk2Xg3jvm) | 3:16 |
-| 35 | [About That Time](https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [About That Time](https://open.spotify.com/album/54mp8gJ7IMJ60Ix7RXpI23) | 3:12 |
+| 33 | [About That Time](https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [About That Time](https://open.spotify.com/album/54mp8gJ7IMJ60Ix7RXpI23) | 3:12 |
+| 34 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
+| 35 | [Dance Through the Day](https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:35 |
 
-Snapshot ID: `MTY3MDU4OTk4NCwwMDAwMDAwMGM1MmI0ZjA0YWNlNDdiZTA3ZmRmMDlhOTNmODViZDM4`
+Snapshot ID: `MTY3MDU4OTk4NCwwMDAwMDAwMGQ4NmU1NjMwY2ZjZTQ5Y2ZjYzg3ZWFmYzdjODcwYmNh`

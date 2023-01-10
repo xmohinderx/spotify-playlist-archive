@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 34 min
+74 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Duet! feat\. 和田弘樹](https://open.spotify.com/track/1rwzyBNALfHD2uxLmpnTRI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [和田弘樹](https://open.spotify.com/artist/3ISeKqB65XZIfHAR9gtLv2) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:28 | 2022-12-29 |  |
 | [FOLLOW ME](https://open.spotify.com/track/6q49z2CInohThqhW5UAXa6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:08 | 2022-08-10 | 2022-10-15 |
 | [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 | 2022-08-10 | 2022-12-20 |
-| [Gyakko \-unplugged session\-](https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Dokuhaku \- Yakudo / FGO Disc](https://open.spotify.com/album/7yyduDmSkZ0ZTNjUOs9JoH) | 5:43 | 2022-08-11 |  |
+| [Gyakko \-unplugged session\-](https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Dokuhaku \- Yakudo / FGO Disc](https://open.spotify.com/album/7yyduDmSkZ0ZTNjUOs9JoH) | 5:43 | 2022-08-11 | 2023-01-10 |
 | [Hidden Notes](https://open.spotify.com/track/6gfY8im5MigHx4Okp0YzRU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:39 | 2022-11-29 |  |
 | [MAP for LOVE](https://open.spotify.com/track/5zFVf5N47rMPLuq7vvc5S1) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長塚健斗](https://open.spotify.com/artist/08ftsfTtZCt0hnBLmKW39a), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK), [ペトロールズ](https://open.spotify.com/artist/1OjAHV47gQmtPllmLKVdhd), [Naz](https://open.spotify.com/artist/6kImBuGqfeArVBGal435PO), [bird](https://open.spotify.com/artist/6olAp2GUsGUnz29wI3NWHB), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj), [吉田沙良](https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [KANDYTOWN](https://open.spotify.com/artist/7mHhol5QNVG1q32KBz8Xi1) | [MAP for LOVE](https://open.spotify.com/album/5cm2ehQJ6mh9upvgvRno59) | 4:47 | 2022-08-10 |  |
 | [Million Clouds](https://open.spotify.com/track/3AXxeu6r2EvXgndlh7aKRf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:58 | 2022-08-10 |  |
@@ -29,6 +29,7 @@
 | [SONIC BOOM](https://open.spotify.com/track/2fR18TKm6d10XByIfzV4cP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:22 | 2022-08-10 |  |
 | [Sumire](https://open.spotify.com/track/4ilIh5yaPnwgXHlq3RJ2c8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Sumire / Kotoba ni Dekinai](https://open.spotify.com/album/4mvCZ2dM4YhKLIvoXneU21) | 3:57 | 2022-08-10 |  |
 | [Tell me what the rain knows](https://open.spotify.com/track/19WWtnNcvDhVrNrLH5je1Z) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 1:42 | 2022-08-10 |  |
+| [That is To Say](https://open.spotify.com/track/35Acye6BqUz6l7oPhetF3f) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:53 | 2023-01-09 |  |
 | [The Garden of everything](https://open.spotify.com/track/5dQsd3J9Xj7ef06O9Yf0So) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Steve Conte](https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK) | [シングルコレクション+ ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 6:20 | 2022-08-10 |  |
 | [tune the rainbow](https://open.spotify.com/track/2vBTbVowqNQEUApLooNtFz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 5:31 | 2022-08-10 |  |
 | [Waiting for the rain](https://open.spotify.com/track/2iC18gXn4nDZ3JyixvmOFE) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:24 | 2022-08-10 |  |

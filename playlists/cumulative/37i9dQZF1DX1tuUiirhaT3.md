@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-244 songs - 13 hr 6 min
+246 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [gentle sunlight \- Meditation Edit](https://open.spotify.com/track/6wkYV8Um7G2YSS6mtfeOFc) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [gentle sunlight](https://open.spotify.com/album/6oMEig7UL6H6h8J2qXZwuF) | 2:53 | 2021-12-17 |  |
 | [Getting Energized](https://open.spotify.com/track/7qoZvR6jc2ch8A0uAu18KQ) | [Calming Music Ensemble](https://open.spotify.com/artist/6wUfLsFvZ81nBBkckVUPxW) | [111 Zen Power Tracks: Music for Yoga, Pilates and Tai\-Chi \(Nature Sounds, Ocean Waves, Birds in Garden and Forest, Water Ambient, Oriental Flute, Calming New Age\)](https://open.spotify.com/album/76Pp6D6na4YcMakz4CpQOg) | 4:17 | 2021-12-17 |  |
 | [Glorious Day](https://open.spotify.com/track/2nfKEVyeeqmqtuZB3K6SqO) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Nightfall](https://open.spotify.com/album/5JLm8Z06t9ki0MOqmPeMst) | 2:57 | 2021-12-17 |  |
+| [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-01-09 |  |
 | [Gravity](https://open.spotify.com/track/3ysGZCVWac500Tp1WtPfSF) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Love Heals](https://open.spotify.com/album/3GyG7YjDG7pp7X5VmulZCh) | 3:48 | 2021-12-17 |  |
 | [Greater](https://open.spotify.com/track/1aF9Um0aHpzysJw1tKJB1S) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Greater](https://open.spotify.com/album/21C8zODk6vFYHTiijWp8Jw) | 3:24 | 2021-12-17 |  |
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2021-12-17 |  |
@@ -154,6 +155,7 @@
 | [Onsen Ritual](https://open.spotify.com/track/5J4hAza3Nkap5HxhKYiCqE) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Onsen Ritual](https://open.spotify.com/album/591tvOCJ2yo8NytfM6atla) | 4:01 | 2021-12-17 |  |
 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 | 2021-12-17 | 2022-08-16 |
 | [otsukimi \(moon viewing\) \- Spa](https://open.spotify.com/track/2dTufw1pSbVMxAiCX5k1B3) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [otsukimi \(moon viewing\)](https://open.spotify.com/album/4w8BVPuYdZtKyGkQJqhlxh) | 3:21 | 2022-09-30 |  |
+| [Paessagio Naturale](https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Paessagio Naturale](https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd) | 2:43 | 2023-01-09 |  |
 | [Paranormal \(7.5 Hz Theta Binaural Beat\)](https://open.spotify.com/track/38p17XCT8NffbrhDx1agST) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 4:54 | 2021-12-17 |  |
 | [Passing Thunder](https://open.spotify.com/track/6gCGRVnvUQVhldYHRX0ET1) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Passing Thunder](https://open.spotify.com/album/3b79QhtsMfdYhFNoAlVTAM) | 3:22 | 2022-09-30 |  |
 | [Peaceful Calmness](https://open.spotify.com/track/6RutZE4FLbhhYQEMcgDhwI) | [Matusi](https://open.spotify.com/artist/12flZad77ham3NKTUXIIXL) | [Peaceful Calmness](https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm) | 3:09 | 2022-05-19 |  |

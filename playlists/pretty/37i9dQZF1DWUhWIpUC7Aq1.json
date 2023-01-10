@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 73956,
+  "num_followers": 74224,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGJmZDJkOGQyYzljMGY5NmY5OWFjZTRkNjRkNWU3YTUx",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGNiYzdmMzRlZjdmMTU1YjI2ODJjODc2MjI0ZjA4Yzhl",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 217984,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -579,38 +595,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 215293,
       "name": "America",
       "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 220720,
       "name": "For Emma",
       "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "Tiger Mountain Peasant Song",
-      "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "Tiger Mountain Peasant Song",
+      "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "When I Pretend To Fall",
         "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Alright, Still (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
         }
       ],
-      "duration_ms": 192333,
-      "name": "LDN",
-      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1311,6 +1295,22 @@
       "duration_ms": 245120,
       "name": "Foundations",
       "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Alright, Still (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
     },
     {
       "added_at": "2022-08-26 20:04:38",

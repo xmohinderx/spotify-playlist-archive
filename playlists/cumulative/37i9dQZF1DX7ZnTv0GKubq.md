@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-220 songs - 12 hr 36 min
+222 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Balance](https://open.spotify.com/track/3vnSjXtSCBE2IoiI7MSYcv) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Balance](https://open.spotify.com/album/4g5DJA3T8hSl6sfarDmmy0) | 3:40 | 2022-03-21 | 2022-07-27 |
 | [Beautiful](https://open.spotify.com/track/3xisZC0wKQU9ot2FE75Bb6) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu), [Pheleba](https://open.spotify.com/artist/3NhaFDSFlnCh1rdIy7ek9A) | [Beautiful](https://open.spotify.com/album/4PxtcSJz2SmHkHSbm3AygP) | 3:09 | 2022-03-21 | 2022-07-28 |
 | [Best Things](https://open.spotify.com/track/5YMBSXpMZC64r4WteYcNAv) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 3:12 | 2022-03-21 | 2022-07-21 |
-| [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 | 2022-07-17 |  |
+| [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 | 2022-07-17 | 2023-01-10 |
 | [Blooming](https://open.spotify.com/track/06RnC0JLSzmDyR7uww6DTG) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM) | [Blooming](https://open.spotify.com/album/161LWOFteLoBDzzNqq03AI) | 2:54 | 2022-03-21 | 2022-07-24 |
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2022-07-17 |  |
 | [Blue Denim Jeans](https://open.spotify.com/track/327epjHIypEPo3c0kjIli9) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Blue Denim Jeans](https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn) | 3:12 | 2022-03-21 | 2022-07-29 |
@@ -154,9 +154,10 @@
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2022-07-17 |  |
 | [Patra](https://open.spotify.com/track/5dSVsizLbphK8OAJeMexof) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Patra](https://open.spotify.com/album/78rDbpH7vb5bD8nBXrZFxz) | 3:25 | 2022-03-21 | 2022-07-22 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2022-07-17 |  |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-10 |  |
 | [Place for Me](https://open.spotify.com/track/4CPoZIr6z9BWgn7ATLY0Ml) | [Kianja](https://open.spotify.com/artist/70YCgBrCgUZ4p3a65eaKWe) | [Place for Me](https://open.spotify.com/album/1Cav3Yha9CRNUY6mUnl3C5) | 3:28 | 2022-03-21 | 2022-07-28 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-08-22 |  |
-| [Plastic Plants](https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Isolation Tapes](https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI) | 3:19 | 2022-03-21 |  |
+| [Plastic Plants](https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Isolation Tapes](https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI) | 3:19 | 2022-03-21 | 2023-01-10 |
 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 | 2022-03-21 | 2022-07-29 |
 | [Plus Minus \(with Erick the Architect\)](https://open.spotify.com/track/29sSLYkzMUXyQ4n8oiSiyO) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Plus Minus \(with Erick the Architect\)](https://open.spotify.com/album/1haZzAWvsHon4W3Usy8zoc) | 3:22 | 2022-03-21 | 2022-07-24 |
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2022-07-12 | 2022-08-23 |
@@ -209,6 +210,7 @@
 | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/track/3iQFtE9AzKN95tOk58L3e7) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/album/43kqqRF5qRBIjZdBycQx9A) | 2:56 | 2022-03-21 | 2022-07-29 |
 | [Under My Skin](https://open.spotify.com/track/54mCcFZFsFuroo2YgOUZWx) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Under My Skin](https://open.spotify.com/album/3pWtaFuPa48VC9Skqh9OFB) | 3:18 | 2022-03-21 | 2022-05-26 |
 | [Undercover](https://open.spotify.com/track/4F8ZpGHyAwNCNgEKrjlDSZ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Undercover](https://open.spotify.com/album/3gRIDFEQrYBTpjivM8n7cQ) | 3:18 | 2022-03-21 | 2022-07-29 |
+| [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2023-01-10 |  |
 | [VINYL](https://open.spotify.com/track/2V4mZoAUYA22VDny8KAg8f) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [VINYL](https://open.spotify.com/album/368TKDyiyzFTwCyHJ0uWqc) | 3:13 | 2022-03-21 | 2022-07-29 |
 | [Wait](https://open.spotify.com/track/57jS22tCk2xgFcsMwLrBLl) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wait](https://open.spotify.com/album/5VMeHVPli9fPnSKznSqsDr) | 3:10 | 2022-03-21 | 2022-07-29 |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2022-07-17 |  |

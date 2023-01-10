@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,036 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,072 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 25 | [Si No Se Dio](https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ) | 2:07 |
 | 26 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
 | 27 | [Buscabamos Lo Mismo](https://open.spotify.com/track/5idaKAt6CqMd3zucTHG4hP) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscabamos Lo Mismo](https://open.spotify.com/album/1U7Ysy02ORDvHGG1FVQoaU) | 2:49 |
-| 28 | [Con Palabras Sencillas](https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:26 |
-| 29 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
-| 30 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
-| 31 | [Un Mentado Ariel](https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 3:16 |
-| 32 | [Relatos De Juan Jose](https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Relatos De Juan Jose](https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ) | 4:11 |
+| 28 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
+| 29 | [Con Palabras Sencillas](https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:26 |
+| 30 | [Relatos De Juan Jose](https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Relatos De Juan Jose](https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ) | 4:11 |
+| 31 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
+| 32 | [Un Mentado Ariel](https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 3:16 |
 | 33 | [Tres Botellas](https://open.spotify.com/track/01UgSQkOsZH7fnBhgqjOaN) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:19 |
 | 34 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
 | 35 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [El Mago De La Sierra](https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Mago De La Sierra](https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp) | 4:15 |
 | 50 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA1MDZlMjc0ZTljN2QyNTRjNzIyYzgzOTIzMDY0OTRhYg==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA0MDIwYTBmN2U3MGU3NGMwNTg2NTZiMWNhNDU4ZTdkYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > cool tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,568 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,717 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 57 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 |
 | 58 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 |
 | 59 | [PIE](https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5) | 2:56 |
-| 60 | [The Outsiders](https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [The Outsiders](https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv) | 2:22 |
-| 61 | [Easy On Them Turns](https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:15 |
+| 60 | [Easy On Them Turns](https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:15 |
+| 61 | [The Outsiders](https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [The Outsiders](https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv) | 2:22 |
 | 62 | [Pretty Face](https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Pretty Face](https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU) | 2:59 |
 | 63 | [Yesteryear](https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl) | 3:39 |
 | 64 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
@@ -78,16 +78,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 68 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 |
 | 69 | [NEVER CRY AGAIN](https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [NEVER CRY AGAIN](https://open.spotify.com/album/1uYX907pgQI6YblNc087rK) | 2:44 |
 | 70 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 |
-| 71 | [Miss Understood](https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Miss Understood](https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln) | 2:30 |
-| 72 | [Reflection](https://open.spotify.com/track/3Ka18NiN5T4gsCZaFq6RRn) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 4:00 |
-| 73 | [HELLO](https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 2:42 |
-| 74 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 |
+| 71 | [Reflection](https://open.spotify.com/track/3Ka18NiN5T4gsCZaFq6RRn) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 4:00 |
+| 72 | [Miss Understood](https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Miss Understood](https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln) | 2:30 |
+| 73 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 |
+| 74 | [HELLO](https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 2:42 |
 | 75 | [Through Tha Night](https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Through Tha Night](https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2) | 3:16 |
 | 76 | [Psycho](https://open.spotify.com/track/4t7lpIdS2F527iGYuTZopQ) | [Jonah Roy](https://open.spotify.com/artist/0bhTD2sTUzxTEsgEUTAVQX), [Rome](https://open.spotify.com/artist/5EeWUtYiNzysDoDcISub49) | [Floating Head](https://open.spotify.com/album/4neSleLeckCi30cdozC6U7) | 2:59 |
 | 77 | [Esther](https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 3:12 |
 | 78 | [Inside Out](https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [SH1NOB1](https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0) | [Inside Out](https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT) | 3:01 |
-| 79 | [tell me](https://open.spotify.com/track/2nMSF0m6G8W6MVK0Eq7tKX) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [tell me](https://open.spotify.com/album/60b3J04XJSRPND2NpLudfR) | 2:40 |
-| 80 | [‎rubber ‎checks](https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/22yEH7dzROVoUerLqNZy7Z) | 1:58 |
+| 79 | [‎rubber ‎checks](https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/22yEH7dzROVoUerLqNZy7Z) | 1:58 |
+| 80 | [tell me](https://open.spotify.com/track/2nMSF0m6G8W6MVK0Eq7tKX) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [tell me](https://open.spotify.com/album/60b3J04XJSRPND2NpLudfR) | 2:40 |
 | 81 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 82 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 |
 | 83 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 99 | [My Demise](https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [My Demise](https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot) | 2:16 |
 | 100 | [3 More Wishes](https://open.spotify.com/track/0K3qrcFbCALwFVfuo1Hzfl) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [3 More Wishes](https://open.spotify.com/album/7zVb0ohAlTKYMXmHTbKcew) | 2:15 |
 
-Snapshot ID: `MTY3MTEzODc5OSwwMDAwMDAwMGU0NzJjNTlhYTJmZjc5YjAxZDEzODE3MmM1ZDk2ZGEw`
+Snapshot ID: `MTY3MTEzODc5OSwwMDAwMDAwMGM3ZmRjMTZlZWY3ZmQzNjBmYmQzNTRjODU2YjQwNTI0`

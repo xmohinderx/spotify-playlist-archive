@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 183591,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 195226,
       "name": "Fraction",
       "url": "https://open.spotify.com/track/0W15FUJGqqbVNvHGYR8nZk"
@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4w69F0jer7PX7K6GCxBw2K"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4OqBSwyAzEEMnESPYmb1Xp"
+    },
+    {
+      "album": {
         "name": "How Would You Feel (Paean)",
         "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
       },
@@ -2576,6 +2594,24 @@
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "album": {
+        "name": "Krystal",
+        "url": "https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79989,
+      "name": "Intolewd",
+      "url": "https://open.spotify.com/track/79rfskJwK9NLN3p5cdccth"
     },
     {
       "album": {
@@ -3038,7 +3074,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 225400,
       "name": "Lost Sparks",
       "url": "https://open.spotify.com/track/3SxMBVdL2gxhX5V5dXF9jy"
@@ -4866,7 +4902,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 132581,
       "name": "Stay The Way I Left You (feat. Dahl)",
       "url": "https://open.spotify.com/track/1wT9hNHjSdpKAK8ysEdAg7"
@@ -5644,6 +5680,28 @@
       "duration_ms": 210000,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
       "album": {
@@ -6566,6 +6624,24 @@
       "duration_ms": 178826,
       "name": "You Sigh",
       "url": "https://open.spotify.com/track/7hMKqhlMqxF7ULZiUMN5AH"
+    },
+    {
+      "album": {
+        "name": "The Things I Can't Take With Me",
+        "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74303,
+      "name": "you up?",
+      "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
     },
     {
       "album": {

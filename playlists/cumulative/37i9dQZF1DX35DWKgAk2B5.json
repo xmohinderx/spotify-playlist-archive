@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Razorwhat? The Best Of Razorlight",
+        "url": "https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252950,
+      "name": "America",
+      "url": "https://open.spotify.com/track/2pyA5g5GLsJgetJGc1mwlF"
+    },
+    {
+      "album": {
         "name": "An End Has A Start",
         "url": "https://open.spotify.com/album/0dtwdN0EBt2pPJjgktxEC2"
       },
@@ -2345,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Men's Needs, Women's Needs, Whatever (Standard Version)",
+        "url": "https://open.spotify.com/album/0uf3G2hMRqZ0LOqv6QhZiL"
+      },
+      "artists": [
+        {
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Men's Needs",
+      "url": "https://open.spotify.com/track/3qel23hQWhHT3qGewBQ0pE"
+    },
+    {
+      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/5zkTfnruMTl1BTiLi4l2WE"
       },
@@ -2752,7 +2788,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 192311,
       "name": "Nobody Move, Nobody Get Hurt",
       "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
@@ -3040,7 +3076,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 201726,
       "name": "R U Mine?",
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
@@ -3296,6 +3332,24 @@
       "duration_ms": 179973,
       "name": "Salute Your Solution",
       "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
+    },
+    {
+      "album": {
+        "name": "Hats Off To The Buskers",
+        "url": "https://open.spotify.com/album/12yQO4oDX8b62BBayoyHRM"
+      },
+      "artists": [
+        {
+          "name": "The View",
+          "url": "https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Same Jeans",
+      "url": "https://open.spotify.com/track/5aUwnYLjQD7OfLMJDWSnsT"
     },
     {
       "album": {

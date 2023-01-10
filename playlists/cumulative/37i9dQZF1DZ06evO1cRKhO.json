@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -390,6 +390,24 @@
       "duration_ms": 1950107,
       "name": "Bog Road",
       "url": "https://open.spotify.com/track/3JPgUFZaSBP8ncwWs1OiwO"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1954080,
+      "name": "Boone Bog",
+      "url": "https://open.spotify.com/track/2JqCtJW71qERWIHPDK0z5N"
     },
     {
       "album": {
@@ -708,7 +726,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 261825,
       "name": "Devil in the Details",
       "url": "https://open.spotify.com/track/5PAyrw5gVMxzDXJEH7dGUk"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 211093,
       "name": "Display of Plasma",
       "url": "https://open.spotify.com/track/5xNggf69ytqkDlULoIPU3n"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 125586,
       "name": "Favorite Spark",
       "url": "https://open.spotify.com/track/24cUGtJpX9aTWBNfRzqd09"
@@ -930,7 +948,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 235800,
       "name": "Fed Back 2",
       "url": "https://open.spotify.com/track/5EL8kwk54XmX03SOYEJmc3"
@@ -960,6 +978,32 @@
       "duration_ms": 733447,
       "name": "Festival of the Cicada - Live",
       "url": "https://open.spotify.com/track/2T3OJMfoUPV3zK08Jjs5DB"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 925786,
+      "name": "Filtered Reality",
+      "url": "https://open.spotify.com/track/3bQ8bGe17d3CWMDpgROPLQ"
     },
     {
       "album": {
@@ -1044,7 +1088,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 392040,
       "name": "From the Backstretch - Live",
       "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
@@ -1106,7 +1150,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 129065,
       "name": "Gravity Wins",
       "url": "https://open.spotify.com/track/52QnTntelHXZDUCfDAZskY"
@@ -1150,7 +1194,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 193813,
       "name": "Growler",
       "url": "https://open.spotify.com/track/4EiNKvrhChXtR5iyB9o2TT"
@@ -1238,7 +1282,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 989680,
       "name": "II of IV",
       "url": "https://open.spotify.com/track/3sqQlkAEoUYYzYKGoOqhbi"
@@ -1318,7 +1362,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 59000,
       "name": "In the Houses of My Families",
       "url": "https://open.spotify.com/track/4siYbu927SstAZU6VHoNXp"
@@ -1374,7 +1418,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 510040,
       "name": "Inner",
       "url": "https://open.spotify.com/track/3c7GNksSHLQRQDAwSdc6vk"
@@ -1664,7 +1708,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 1048026,
       "name": "Mnemonics III",
       "url": "https://open.spotify.com/track/5x3P1G22nPQtkc29lkmW47"
@@ -2156,7 +2200,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "Quartetto Telematico #1",
       "url": "https://open.spotify.com/track/6gJwQqlBcKKS2M3K3MkuOr"
@@ -2186,7 +2230,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 184720,
       "name": "Quartetto Telematico #2",
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
@@ -2216,7 +2260,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 221146,
       "name": "Quartetto Telematico #3",
       "url": "https://open.spotify.com/track/7etthEUmgR5cJD0Gm0dHW5"
@@ -2246,7 +2290,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Quartetto Telematico #5",
       "url": "https://open.spotify.com/track/7ys0YWoEWq7fddPr4pz7Eh"
@@ -2276,7 +2320,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Quartetto Telematico #6",
       "url": "https://open.spotify.com/track/3DFpK890CslTbYxX8WihKW"
@@ -2396,7 +2440,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 156986,
       "name": "River of Folk Dance",
       "url": "https://open.spotify.com/track/24fiipMerltXpOy7M51hDF"
@@ -2422,7 +2466,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -2452,7 +2496,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 324358,
       "name": "Saxifraga Cotyledon",
       "url": "https://open.spotify.com/track/0KaZK2XsEioFtIoPGclo0K"
@@ -2530,7 +2574,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-05",
+      "date_removed": null,
       "duration_ms": 329586,
       "name": "Shear Viscosity",
       "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
@@ -2652,7 +2696,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 435000,
       "name": "Snow Drifts",
       "url": "https://open.spotify.com/track/0RDaGU8rrfG6MFZq2YPBvz"
@@ -2678,7 +2722,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 240880,
       "name": "Sonic Mercury",
       "url": "https://open.spotify.com/track/4O6J19ZtPJBzYaOYXPvRlE"
@@ -2874,7 +2918,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 316893,
       "name": "Surely It Was",
       "url": "https://open.spotify.com/track/3TplkvXU7hOqr9ilrI5R4Y"
@@ -2954,7 +2998,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 1504466,
       "name": "The Beauty Of Sorrow",
       "url": "https://open.spotify.com/track/078txIRiyvxbjjYesA9qy6"
@@ -3112,7 +3156,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 865733,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/77gWQtMuwLoBHzbPyy6S9X"
@@ -3174,7 +3218,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 364080,
       "name": "Then we were not there",
       "url": "https://open.spotify.com/track/3rEw3Qnam3kvW2wTAnpQr3"
@@ -3272,7 +3316,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 1177920,
       "name": "Time Perspectives",
       "url": "https://open.spotify.com/track/2dmBXKZU0ptr1ItsMfQMju"
@@ -3650,7 +3694,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-15",
+      "date_removed": null,
       "duration_ms": 201280,
       "name": "Vaporization",
       "url": "https://open.spotify.com/track/3Vh3q9m1HRvQdLfcE6ysAc"
@@ -3676,7 +3720,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 214080,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/5m7ZLZHWo6ibtEvtSPrJxf"
@@ -3764,7 +3808,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 889547,
       "name": "We Are Still Thinking About The Title",
       "url": "https://open.spotify.com/track/0KxNQpJuUASL2crmvIHqX4"
@@ -3890,7 +3934,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 306040,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/35IB6jqgvQyjWst1ot9lDd"

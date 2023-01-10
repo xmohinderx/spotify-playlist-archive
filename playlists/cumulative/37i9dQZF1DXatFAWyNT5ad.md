@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-538 songs - 1 day 4 hr 11 min
+539 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [e\-z \(feat\. UPSAHL & Blu DeTiger\)](https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:45 | 2022-03-17 | 2022-07-26 |
 | [Echoing](https://open.spotify.com/track/7ab894xLywHmwswdr00QSr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Echoing](https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF) | 3:37 | 2022-03-24 | 2022-04-20 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-10-14 |  |
+| [Elephant In The Room](https://open.spotify.com/track/1cmkY5LNyHpESfwiQ1SH9v) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Elephant In The Room](https://open.spotify.com/album/5W0GraoGsDmTE020ZtiNA1) | 2:39 | 2022-11-11 |  |
 | [Elephant In The Room](https://open.spotify.com/track/22jyNqimPlWBKDJQ76wqQ5) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Elephant In The Room](https://open.spotify.com/album/3kwAcIMBpwgQLfZNNrSvnQ) | 2:39 | 2022-03-24 | 2022-04-21 |
 | [Elizabeth](https://open.spotify.com/track/2a84nQl1QLtqignur40m1I) | [STRUAN](https://open.spotify.com/artist/2HMnTx5HskhESJ4x5jVPyb) | [Elizabeth](https://open.spotify.com/album/65iANnmULuO8SvsH8ObeDE) | 3:32 | 2022-03-24 | 2022-04-21 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-03-17 | 2022-07-29 |
@@ -488,7 +489,7 @@
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2022-03-24 | 2022-04-15 |
 | [This Is Happening](https://open.spotify.com/track/1s7YBmmq9f3VjVXst1HMyq) | [4B2M](https://open.spotify.com/artist/6Evnxf4Als5zI3yYgtnoBV) | [This Is Happening](https://open.spotify.com/album/7gddn5LqvWrhL2nHNG32nm) | 2:55 | 2022-03-24 | 2022-04-07 |
 | [This is the Place](https://open.spotify.com/track/2HXWTuHE8NZgK7ZmCVBTHX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [This is the Place](https://open.spotify.com/album/2rGhEawehqYozpPmAwjxr3) | 3:05 | 2022-03-24 | 2022-04-20 |
-| [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-03-17 |  |
+| [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-03-17 | 2023-01-10 |
 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 | 2022-03-17 |  |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2022-03-24 | 2022-05-19 |

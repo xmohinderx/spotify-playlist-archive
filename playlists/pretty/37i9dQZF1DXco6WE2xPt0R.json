@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 86017,
+  "num_followers": 86085,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMDM1MzM4NzZiZjQzODk3ZWUxMzBmN2RlN2JlZTJkM2Ey",
+  "snapshot_id": "MTY3MjM2OTI2MCwwMDAwMDAwMDcwMGFiNWM4NzdiZjYzYmQwNzM0YmExMjU1MmU0MDU2",
   "tracks": [
     {
       "added_at": "2022-12-30 03:01:00",
@@ -351,22 +351,18 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 205000,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+      "duration_ms": 173906,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -383,6 +379,26 @@
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -407,22 +423,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -499,22 +483,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Bl\u00fc Moon",
         "url": "https://open.spotify.com/album/0QfoZb8MSbOoR6vdRs1WLr"
       },
@@ -527,6 +495,22 @@
       "duration_ms": 189226,
       "name": "Bl\u00fc Moon",
       "url": "https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -547,6 +531,22 @@
       "duration_ms": 247426,
       "name": "Voicemail (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Good Morning Gorgeous (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 174636,
-      "name": "Good Morning Gorgeous (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Empathy",
         "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
       },
@@ -779,6 +759,42 @@
       "duration_ms": 256310,
       "name": "Anytime (feat. Kehlani & ROMderful)",
       "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Whatever Simon Says",
+        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Whatever Simon Says",
+      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Good Morning Gorgeous (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 174636,
+      "name": "Good Morning Gorgeous (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -815,18 +831,22 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Inside Out \u2013 A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh"
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
         }
       ],
-      "duration_ms": 232570,
-      "name": "Inside Out \u2013 A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2"
+      "duration_ms": 219729,
+      "name": "What's Up (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -851,18 +871,18 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Whatever Simon Says",
-        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+        "name": "Inside Out \u2013 A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Whatever Simon Says",
-      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
+      "duration_ms": 232570,
+      "name": "Inside Out \u2013 A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -879,26 +899,6 @@
       "duration_ms": 231733,
       "name": "Julie.",
       "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "What's Up (feat. Jagged Edge)",
-      "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "She Knows",
-        "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
-      },
-      "artists": [
-        {
-          "name": "Kaleem Taylor",
-          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "A Muse In Her Feelings",
         "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 222089,
       "name": "A Muse",
       "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
+      },
+      "artists": [
+        {
+          "name": "Kaleem Taylor",
+          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/7s0pdQmbXq6GtMHpkCTLLw"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Exposure",
+        "url": "https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 224543,
+      "name": "Exposure",
+      "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
         "name": "Sex, Love & Pain",
         "url": "https://open.spotify.com/album/2ysbGZxi30xemn0KCIDWU1"
       },
@@ -1255,22 +1287,6 @@
       "duration_ms": 130121,
       "name": "Challenge",
       "url": "https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "All That Matters - Spotify Singles",
-      "url": "https://open.spotify.com/track/7s0pdQmbXq6GtMHpkCTLLw"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Exposure",
-        "url": "https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7"
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
       "artists": [
         {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
         }
       ],
-      "duration_ms": 224543,
-      "name": "Exposure",
-      "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+      "duration_ms": 183586,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
     },
     {
       "added_at": "2022-12-30 03:01:00",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "No Love Song",
         "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-30 03:01:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Comeback.",
-      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
-    },
-    {
-      "added_at": "2022-12-30 03:01:00",
-      "album": {
         "name": "Chocolate Covered Strawberries",
         "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 250241,
       "name": "Chocolate Covered Strawberries",
       "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2022-12-30 03:01:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
     },
     {
       "added_at": "2022-12-30 03:01:00",

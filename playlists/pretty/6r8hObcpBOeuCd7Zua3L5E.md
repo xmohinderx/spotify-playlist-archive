@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 ### [sped up songs \(2\)](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
 
-> Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
+> Sped up songs from TikTok and around the internet.
 
 [Digster](https://open.spotify.com/user/digster.fm) - 24,246 likes - 50 songs - 2 hr 11 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 | 49 | [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 |
 | 50 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
 
-Snapshot ID: `NzQzLDUxZTQxNWJlYzhiNTVmNGFiMmRjZTJlN2VhMTZiZTE3YjRmYmU0Nzg=`
+Snapshot ID: `NzQ2LDJmOWVjNjc3NDg3NTBhOWJjZTExMTZhYmVkNjdhMDM0MTEzMzUyMjc=`

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 400562,
+  "num_followers": 401099,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDYzMzM5NDJiYmIyMDY3ZTRkNmY1MmY0NWM1ZWU4OGYz",
+  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDY0ZDYxOWI3MTg4MDRlZjY3OTE3NTZkYmNmMTJlOTBm",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -255,38 +271,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 146175,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -427,22 +443,6 @@
       "duration_ms": 286493,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "Goodbye Yellow Brick Road - Remastered 2014",
-      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 293120,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 213712,
-      "name": "Desperado - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 234666,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I Got a Name",
         "url": "https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 154626,
       "name": "I'll Have To Say I Love You In A Song",
       "url": "https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Anytime... Anywhere",
         "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 220520,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "B.J. Thomas",
-        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Raindrops Keep Fallin' on My Head - Rerecorded",
-      "url": "https://open.spotify.com/track/1oOnOS4xNZOMpCT0lKTNo2"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "B.J. Thomas",
+        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
+      },
+      "artists": [
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Raindrops Keep Fallin' on My Head - Rerecorded",
+      "url": "https://open.spotify.com/track/1oOnOS4xNZOMpCT0lKTNo2"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Eric Carmen",
-        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 362400,
-      "name": "New York State of Mind",
-      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Manhattans (Expanded Version)",
         "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "New York State of Mind",
+      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
       },
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 452773,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -1763,26 +1783,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 452773,
-      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Red Rose Speedway",
         "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
@@ -1795,22 +1795,6 @@
       "duration_ms": 247733,
       "name": "My Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Brother To Brother",
         "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
       },
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 327706,
-      "name": "Inner City Blues (Make Me Wanna Holler)",
-      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "A Night on the Town",
         "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 271200,
       "name": "The First Cut Is the Deepest",
       "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 327706,
+      "name": "Inner City Blues (Make Me Wanna Holler)",
+      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Rainy Days And Mondays",
-      "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 238600,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/3Jy0dWV5AnnfyTvHK6UWof"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Rainy Days And Mondays",
+      "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 165666,
       "name": "Beth",
       "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
         }
       ],
-      "duration_ms": 185653,
-      "name": "Song Sung Blue",
-      "url": "https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv"
+      "duration_ms": 256173,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2215,22 +2215,6 @@
       "duration_ms": 253213,
       "name": "Sad Eyes - Remastered 2002",
       "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Dream Weaver",
-      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2263,6 +2247,22 @@
       "duration_ms": 158933,
       "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
       "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Song Sung Blue",
+      "url": "https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 153066,
       "name": "She - Tous les visages de l\u2019amour",
       "url": "https://open.spotify.com/track/2OxkfL5jW8bvYTCNDLlRSY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
     },
     {
       "added_at": "2022-09-23 05:26:33",

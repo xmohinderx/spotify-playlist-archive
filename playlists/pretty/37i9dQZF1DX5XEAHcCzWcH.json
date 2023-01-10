@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 19551,
+  "num_followers": 19588,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDBmZGFlNDczOTJmNzcwY2RhZmViMTdkMGZjMjE4YmQ0",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDMyYjgwMmRhYmIwMmZhMGQyNTNmMWU1YzI0Yzc3NGQ1",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
-      },
-      "artists": [
-        {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -195,22 +179,6 @@
       "duration_ms": 190733,
       "name": "Milk And Water",
       "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Rock Me Daddy, Vol. 1",
-        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Boogie In \"G\"",
-      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -231,18 +199,34 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Rock Me Daddy, Vol. 1",
+        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 154840,
+      "name": "Boogie In \"G\"",
+      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -279,6 +263,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Lovesick Soul",
-      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "La cave saravah, vol.1",
         "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Lovesick Soul",
+      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -355,38 +355,6 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 366826,
-      "name": "Bird in a Cage",
-      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -431,6 +399,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "The Essential Leroy Carr",
         "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 175400,
       "name": "Papa's on the House Top",
       "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 366826,
+      "name": "Bird in a Cage",
+      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -491,22 +491,6 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 315373,
-      "name": "Ain't Nobody's Business",
-      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -571,6 +555,22 @@
       "duration_ms": 321293,
       "name": "Feel So Blue",
       "url": "https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 315373,
+      "name": "Ain't Nobody's Business",
+      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Fess at Home",
-        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 231632,
-      "name": "Tipitina",
-      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 180866,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Fess at Home",
+        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 231632,
+      "name": "Tipitina",
+      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Honeydripper",
-        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pocketful Of Money",
-      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "From North Dallas to the East Side",
         "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 322426,
       "name": "Somebody To Shack",
       "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Honeydripper",
+        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pocketful Of Money",
+      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
-        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Tribute: Delmark's 65th Anniversary",
         "url": "https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 240560,
       "name": "Boot That Thing",
       "url": "https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
+        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
-        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
-      },
-      "artists": [
-        {
-          "name": "Lazy Bill Lucas",
-          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
-        }
-      ],
-      "duration_ms": 166253,
-      "name": "My Baby's Gone",
-      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "The Blues Singer",
         "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
+        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
+      },
+      "artists": [
+        {
+          "name": "Lazy Bill Lucas",
+          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "My Baby's Gone",
+      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "This Is the Blues! Vol. 7 (Mono Version)",
         "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 192011,
       "name": "Me and My Gin",
       "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -1035,22 +1051,6 @@
       "duration_ms": 183866,
       "name": "Mean Old Train",
       "url": "https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2022-05-13 10:49:08",

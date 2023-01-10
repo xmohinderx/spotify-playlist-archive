@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-282 songs - 17 hr 21 min
+283 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 | 2021-06-18 | 2022-10-23 |
 | [Imani](https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Imani](https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB) | 1:57 | 2022-02-11 |  |
 | [In The Blood](https://open.spotify.com/track/3jLxkcjvU45zaS1MXAyJzA) | [Charlie Peacock](https://open.spotify.com/artist/4Dld5cUTz6eVReIWx9Dtyl) | [See for Miles](https://open.spotify.com/album/4c05ZBQxsagYgw2GC2H68q) | 2:39 | 2021-01-29 | 2022-03-18 |
-| [In Touch With The Kosmos](https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Kosmological Glitches](https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5) | 1:29 | 2022-09-23 |  |
+| [In Touch With The Kosmos](https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Kosmological Glitches](https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5) | 1:29 | 2022-09-23 | 2023-01-10 |
 | [Inner Inference](https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN) | [Cumulus Frisbee](https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d) | [Inner Inference](https://open.spotify.com/album/79JW1zl00WpwrqDZcVnBtT) | 3:24 | 2021-05-28 |  |
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2022-04-15 |  |
 | [Intergalactic](https://open.spotify.com/track/69fbNFD7BeSj8IGqitLgqx) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Intergalactic](https://open.spotify.com/album/4HmOs59sBZSsq3Kc052Nmp) | 4:40 | 2022-07-29 | 2022-08-26 |
@@ -250,6 +250,7 @@
 | [The Trees Are Starting to Have Personality](https://open.spotify.com/track/2ggJ03NNDqBvO1HjuRuEbP) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Joy Techniques](https://open.spotify.com/album/1SPHbwwnXsKMk0pFvMPpon) | 3:43 | 2021-01-29 | 2022-03-26 |
 | [The Wad](https://open.spotify.com/track/5WVTUUFhOwOnVLdynmbM1a) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [The Wad](https://open.spotify.com/album/4lwwL8Id8nfhA0XbLPc2Xk) | 5:13 | 2021-01-29 | 2022-03-06 |
 | [The Whales](https://open.spotify.com/track/2KkVqlF1bCcWmLpCsFKJ2t) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [The Whales](https://open.spotify.com/album/6MXRCGhb2zD8dsMjEPe123) | 2:28 | 2021-06-18 | 2022-11-20 |
+| [The Whales](https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [The Whales](https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4) | 2:28 | 2021-06-18 |  |
 | [They & I](https://open.spotify.com/track/3FCZIGIb3Q966y3hHJpnCt) | [The Lasso](https://open.spotify.com/artist/65aMEDDhSsuHYCKhdmQj5N), [Jordan Hamilton](https://open.spotify.com/artist/0td9fO3GtOdkV4qoHPBo6H), [The Saxsquatch](https://open.spotify.com/artist/0JUIcVe77tU9YanYIX6fwY) | [They & I](https://open.spotify.com/album/6DNv9G50PKzLGALWmFnunr) | 1:45 | 2021-06-04 | 2022-07-29 |
 | [This Simulation Is A Good One](https://open.spotify.com/track/3G2TuCus1w0ZPKJijjWXsq) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [This Simulation Is A Good One](https://open.spotify.com/album/4KYdIOXikJjx0zevKUDEHb) | 3:32 | 2021-01-29 | 2022-03-26 |
 | [Thoughts](https://open.spotify.com/track/7aFYXNmYCZVC4KHqZoigCi) | [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Thoughts](https://open.spotify.com/album/6pIPSRnMVmWe1wm6KzcjJh) | 2:35 | 2022-09-16 |  |

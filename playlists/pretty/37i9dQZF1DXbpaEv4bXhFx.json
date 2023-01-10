@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 7734,
+  "num_followers": 7740,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjAzNzI2NywwMDAwMDAwMGI0ZWNjNTBjNDdiNWFlYzhlY2ZiMzZkYjdmMDNiNDlk",
+  "snapshot_id": "MTY3MjAzNzI2NywwMDAwMDAwMGJjOTZjOWYzMWNlZmYyYjdkNTQwM2M4ZDZjOGRkNDlh",
   "tracks": [
     {
       "added_at": "2022-12-26 06:47:47",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-12-26 06:47:47",
       "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+    },
+    {
+      "added_at": "2022-12-26 06:47:47",
+      "album": {
         "name": "On Rainy Days (2021)",
         "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
-    },
-    {
-      "added_at": "2022-12-26 06:47:47",
-      "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2022-12-26 06:47:47",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-26 06:47:47",
       "album": {
-        "name": "Syndrome",
-        "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Syndrome",
-      "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
-    },
-    {
-      "added_at": "2022-12-26 06:47:47",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2022-12-26 06:47:47",
       "album": {
-        "name": "Sun Shower (A Business Proposal OST Part.3)",
-        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
+        "name": "Syndrome",
+        "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
       },
       "artists": [
         {
-          "name": "MOVNING",
-          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         }
       ],
-      "duration_ms": 256959,
-      "name": "Sun Shower",
-      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
+      "duration_ms": 221146,
+      "name": "Syndrome",
+      "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
     },
     {
       "added_at": "2022-12-26 06:47:47",
@@ -535,6 +519,22 @@
       "duration_ms": 228500,
       "name": "ride",
       "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
+    },
+    {
+      "added_at": "2022-12-26 06:47:47",
+      "album": {
+        "name": "Sun Shower (A Business Proposal OST Part.3)",
+        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
+      },
+      "artists": [
+        {
+          "name": "MOVNING",
+          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "Sun Shower",
+      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
     },
     {
       "added_at": "2022-12-26 06:47:47",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-12-26 06:47:47",
       "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
+    },
+    {
+      "added_at": "2022-12-26 06:47:47",
+      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
-    },
-    {
-      "added_at": "2022-12-26 06:47:47",
-      "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A Call from My Dream",
-      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
       "added_at": "2022-12-26 06:47:47",

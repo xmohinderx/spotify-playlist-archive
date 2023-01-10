@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-62 songs - 3 hr 59 min
+63 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 | 2022-03-25 |  |
 | [Praise to the Vibes \- Mr\. Fingers Alternate Version](https://open.spotify.com/track/51MvFPygVSJQHeleNBmo8o) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Praise to the Vibes / Crying Over You \(Remixes\)](https://open.spotify.com/album/2NMjyghBZ7YtDkifpw3mY7) | 5:01 | 2022-03-25 |  |
 | [Pressure \- Afriqua Remix](https://open.spotify.com/track/3TfSElNnYKdRUZfjJaAYEv) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [Pressure \(Afriqua Remix\)](https://open.spotify.com/album/5XFB1tf7m2WkxjeOF1A7SV) | 3:53 | 2022-03-25 |  |
-| [Rock With U](https://open.spotify.com/track/5dHdH9Zw6Z2TPbR1ggyj1B) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/7CkalyLeka8LiJvKBcmwkB) | 3:51 | 2022-03-25 |  |
+| [Rock With U](https://open.spotify.com/track/5dHdH9Zw6Z2TPbR1ggyj1B) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/7CkalyLeka8LiJvKBcmwkB) | 3:51 | 2022-03-25 | 2023-01-10 |
+| [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 | 2022-03-25 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-03-25 |  |
 | [SHY GUY](https://open.spotify.com/track/71PRtWCg3aW88Do0VLmjSy) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 1:06 | 2022-03-25 |  |
 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2022-07-15 |  |

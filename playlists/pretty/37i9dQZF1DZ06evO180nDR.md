@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,092 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,124 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 21 | [El Corrido CP\-3 AKA El Corrido Del Talibán](https://open.spotify.com/track/1WTnFa5oFYInFV4aX3sHpv) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:32 |
 | 22 | [Dichos Y Grandes](https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dichos Y Grandes](https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf) | 3:18 |
 | 23 | [El Barba Cerrada](https://open.spotify.com/track/3yPy39fL0VgdCflXgbJZjc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 2:23 |
-| 24 | [Luz De Día](https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:15 |
-| 25 | [Miguel Ángel](https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Miguel Ángel](https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6) | 2:44 |
+| 24 | [Miguel Ángel](https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Miguel Ángel](https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6) | 2:44 |
+| 25 | [Luz De Día](https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:15 |
 | 26 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:38 |
 | 27 | [Tal Vez](https://open.spotify.com/track/04zj4lyENfdiH3Snca3SoM) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:38 |
 | 28 | [El Elotero](https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sera El Sereno](https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L) | 2:23 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 40 | [El Perro Negro](https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:35 |
 | 41 | [Corrido De Alfredo Beltrán](https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:49 |
 | 42 | [Por El Ruido De La Cinta](https://open.spotify.com/track/65jYeBXlXAbre1TP6XORAy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:48 |
-| 43 | [El Perdedor](https://open.spotify.com/track/2rtYAvcfMLss6hzOYObwyp) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:31 |
-| 44 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 |
+| 43 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 |
+| 44 | [El Perdedor](https://open.spotify.com/track/2rtYAvcfMLss6hzOYObwyp) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:31 |
 | 45 | [Tus Bellos Pechos](https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:11 |
 | 46 | [Ven Y Ven](https://open.spotify.com/track/4CP1GpmLYMSnrdlFT5AQuy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 2:48 |
 | 47 | [Enséñame A Olvidar](https://open.spotify.com/track/7J2YIWWQlNCz1MLXpdPUwV) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [Hombre De Negocios](https://open.spotify.com/track/465XYz4eYfKiSQD1EFMc5J) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 4:08 |
 | 50 | [El Fin De Nuestro Amor](https://open.spotify.com/track/5IsKvVrgXiO6QEbETwik9X) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:41 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDAzNGVhOGI3NDk5ZmQxNzA0YjUzYTBlNGZlYWFiZTEzYQ==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA0ZmRhYmVhZTZhMTYyMDBiZjU2MzE1ZWY4MDliNzgxMQ==`

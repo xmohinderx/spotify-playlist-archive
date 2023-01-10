@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: لمياء المالكي
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,916 likes - 57 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,936 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 48 | [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 |
 | 49 | [Daddy](https://open.spotify.com/track/2QHwXZqmG2lzY1QK5sIwYl) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49) | [Daddy](https://open.spotify.com/album/4jymGyGNnttvMVCDgwqLcm) | 2:47 |
 | 50 | [3Ashan Tkoon Belsorah](https://open.spotify.com/track/4V0m0Mm58oDkPLBghkAD7F) | [Essam Kamal](https://open.spotify.com/artist/7yFfaC7g3jtOSQiJGUF0iD) | [3Ashan Tkoon Belsorah](https://open.spotify.com/album/4giImzhcoUvVtzddBsBIUD) | 5:14 |
-| 51 | [Eyouni Feeh Ydobu](https://open.spotify.com/track/0fmpUGxAdqRUXLI9QnZIDo) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Eyouni Feeh Ydobu](https://open.spotify.com/album/2RlrrVOqM1dXElHVZYedDn) | 2:53 |
-| 52 | [Men Jadak](https://open.spotify.com/track/0hjzEKv9FxKyb3YjQKt1EA) | [Mahmoud](https://open.spotify.com/artist/1i4PKo462Ma0SDEftSy7my) | [Men Jadak](https://open.spotify.com/album/4hbA5msjAqadBoxSjmZRho) | 4:00 |
-| 53 | [Ohbak Men Alsefr](https://open.spotify.com/track/0TnZyPBrljwrLbDcTPV2sm) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ohbak Men Alsefr](https://open.spotify.com/album/7siwoCTPM0vqvG6yEr5Q5v) | 3:57 |
-| 54 | [Men Twadaana](https://open.spotify.com/track/32PvqSteo1Soty0xd4Ojkk) | [Marwan Fagi](https://open.spotify.com/artist/6jX88gTjWQ2vmswdN1n5TH) | [Men Twadaana](https://open.spotify.com/album/34XzgcFeoIZ2h3cMjpFQLQ) | 7:51 |
-| 55 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 |
-| 56 | [Asher Safha](https://open.spotify.com/track/6LS75pBeHxcJ9rUYecFz33) | [Ibrahim Al Hakmi](https://open.spotify.com/artist/5tW4IIHdo0QDx1KvTu03yc) | [Asher Safha](https://open.spotify.com/album/5jjwXhLhOAbqXFGkibas73) | 4:51 |
-| 57 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 |
 
-Snapshot ID: `MTY3MzE0MDA5MywwMDAwMDAwMDY5MDc3ZTczZTQxYmJlNmI4ZTA4MjcxMWRlYzgyN2Rj`
+Snapshot ID: `MTY3MzI1Mjc0NSwwMDAwMDAwMDliMTMzOGFmMTBjM2IzMDg5NzU5ODgxZDgxMzUwNzk3`

@@ -4,7 +4,7 @@
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-332 songs - 14 hr 32 min
+333 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Le centre](https://open.spotify.com/track/1lTw6eGTpprQROmKu9GQlq) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Le centre](https://open.spotify.com/album/0G4jqfOVN2W51NZ1FM1SC2) | 2:05 | 2022-04-01 |  |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-12-07 | 2022-05-21 |
 | [Leaf To Leaf](https://open.spotify.com/track/4RDQIAeLFsElt58FvN4m6B) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Leaf To Leaf](https://open.spotify.com/album/0qUdp5c99oFrf8WZ47HUYz) | 2:26 | 2021-12-07 |  |
+| [Letter To A Friend](https://open.spotify.com/track/1MoOc8rH7o4TPY5bYKRA7J) | [Robert Gromotka](https://open.spotify.com/artist/3O0m1fz3mncIqJ2JmHIbH6), [Chiharu Bley Violoncello](https://open.spotify.com/artist/0xYJZq8dcOaFvjIGnMvFHT) | [Letter to a Friend](https://open.spotify.com/album/1a7VHDhOVM54tcTsrpsqNM) | 3:04 | 2023-01-09 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-07 | 2022-04-15 |
 | [Little Sparks](https://open.spotify.com/track/0Ui4lAbf70ljScF9bR5z8w) | [Jacob Hauge Mateo](https://open.spotify.com/artist/39hGFMaRFCtJtkkErae03o), [Ben Bushill](https://open.spotify.com/artist/6Uo4QLFNLa2sWmanIlxx4k), [Lilo Aurora](https://open.spotify.com/artist/540u6AWvYiHrbzA69FcVhC), [Vildmor](https://open.spotify.com/artist/3UwWncL6a50ABuZJDiqcOR) | [Quiet Majesty](https://open.spotify.com/album/1C1LgtlRCmeZE3Cgfzgu3b) | 6:58 | 2022-04-21 | 2022-05-21 |
 | [Logos](https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s) | [Alex BH](https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ) | [Logos](https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc) | 3:31 | 2021-12-07 | 2022-05-28 |

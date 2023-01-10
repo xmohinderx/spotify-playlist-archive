@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 204500,
       "name": "A l'aube",
       "url": "https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV"
@@ -2378,6 +2378,24 @@
       "duration_ms": 178500,
       "name": "My Road",
       "url": "https://open.spotify.com/track/69rn7QWmrgXcXPSaO2tVFZ"
+    },
+    {
+      "album": {
+        "name": "Nadir",
+        "url": "https://open.spotify.com/album/507ydEo8wDHYdqRTrYKnoa"
+      },
+      "artists": [
+        {
+          "name": "Huma",
+          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184638,
+      "name": "Nadir",
+      "url": "https://open.spotify.com/track/6K5p8d68b93xG1H95gfksi"
     },
     {
       "album": {

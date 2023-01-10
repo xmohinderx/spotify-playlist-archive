@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,900 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,906 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 38 | [Going Out Of My Way](https://open.spotify.com/track/0neHNQl5W4XqAarFxCnni7) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:53 |
 | 39 | [I Wanna Run Away](https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I Wanna Run Away](https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY) | 2:39 |
 | 40 | [Keys to the City \(Ogede\)](https://open.spotify.com/track/6J7sw67vUDQxoGnlaB1thc) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
-| 41 | [E Be Mad](https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 2:54 |
-| 42 | [The Don](https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Don](https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z) | 2:48 |
+| 41 | [The Don](https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Don](https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z) | 2:48 |
+| 42 | [E Be Mad](https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 2:54 |
 | 43 | [Short Skirt](https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:48 |
 | 44 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 |
 | 45 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Come Online \(feat\. King Promise & Diquenza\) \- Remix](https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [Come Online \(feat\. King Promise & Diquenza\) \[Remix\]](https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr) | 2:36 |
 | 50 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDA3NWMxY2I4MWNlMTIwY2FhNjUyM2U2YzEzNDMyMjZjMA==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA1ZDU3YTc1NDk3ODdhZDc2ZGEyYjA1YzIyNTUwZGYzOQ==`

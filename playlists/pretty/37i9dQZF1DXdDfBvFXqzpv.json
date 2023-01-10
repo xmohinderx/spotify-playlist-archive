@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 86097,
+  "num_followers": 86181,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMDhjZWEwMTM1ZTdlOWJmZjliNjhkY2MxM2YyMzI5MDI0",
+  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMGNiZDM0N2Y5NThmZjIwNzUyMGJmM2YwYzJiY2YxMmRh",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Omen (Radio Edit)",
-        "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 196817,
-      "name": "Omen - Radio Edit",
-      "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 176440,
       "name": "forever&more",
       "url": "https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Omen (Radio Edit)",
+        "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 196817,
+      "name": "Omen - Radio Edit",
+      "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feet Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Flu Game",
         "url": "https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 177206,
       "name": "Followers",
       "url": "https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Feet Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feet Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+      "duration_ms": 298520,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Rips in Jeans",
         "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 163459,
       "name": "Rips in Jeans",
       "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Heavy Is The Head",
-        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 151943,
-      "name": "Pop Boy (feat. Aitch)",
-      "url": "https://open.spotify.com/track/3KcSwX6pyUnfJ0YZlcJE7d"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1463,6 +1443,26 @@
       "duration_ms": 224486,
       "name": "Raging (feat. Kodaline)",
       "url": "https://open.spotify.com/track/6DsFZITJMPnh8z5XewfVmL"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Heavy Is The Head",
+        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 151943,
+      "name": "Pop Boy (feat. Aitch)",
+      "url": "https://open.spotify.com/track/3KcSwX6pyUnfJ0YZlcJE7d"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Teen",
-        "url": "https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi"
-      },
-      "artists": [
-        {
-          "name": "V.I.C",
-          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "A Teen",
-      "url": "https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "A Teen",
+        "url": "https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "A Teen",
+      "url": "https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Falling Into Place",
-        "url": "https://open.spotify.com/album/6ZRmt0u5nhOO6olLbbOwj4"
-      },
-      "artists": [
-        {
-          "name": "David Dallas",
-          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Stop This Flame",
         "url": "https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 209407,
       "name": "Stop This Flame",
       "url": "https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Falling Into Place",
+        "url": "https://open.spotify.com/album/6ZRmt0u5nhOO6olLbbOwj4"
+      },
+      "artists": [
+        {
+          "name": "David Dallas",
+          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "L.S.F.",
-      "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "L.S.F.",
+      "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
     },
     {
       "added_at": "2022-11-02 14:00:00",

@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-203 songs - 10 hr 54 min
+205 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-10-17 |  |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2022-07-25 |  |
 | [Electrify My Soul](https://open.spotify.com/track/6HV9qEoFoP6LLwEqYw8rSQ) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Electrify My Soul](https://open.spotify.com/album/7rr3qb54fKwumwhSh76Y8w) | 3:28 | 2022-06-06 | 2022-07-29 |
-| [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-07-25 |  |
+| [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-07-25 | 2023-01-10 |
 | [Everything Is Nothing](https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Everything Is Nothing](https://open.spotify.com/album/2Gg9al8bC4Je0nmgRAnujj) | 2:01 | 2022-12-06 | 2022-12-13 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-21 |  |
 | [Fall 4 u](https://open.spotify.com/track/6EWUXXPFn2S7FBI0W7cs5l) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Fall 4 u](https://open.spotify.com/album/3tZfjLiISFF10SgVj4nsmw) | 3:33 | 2022-10-31 | 2022-11-08 |
@@ -103,7 +103,7 @@
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-06-06 |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/0D4yVl9Pn45xW2s63MFCmT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/album/5idWJVJgo5Wa7wFGsB3Kjj) | 4:08 | 2022-06-27 | 2022-07-16 |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 | 2022-07-25 |  |
-| [it's ok](https://open.spotify.com/track/54ntLpVRZEoV7W6bl57EeS) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [it's ok](https://open.spotify.com/album/14IrPr1ZMLBbT8bIZDvxJl) | 2:38 | 2023-01-02 |  |
+| [it's ok](https://open.spotify.com/track/54ntLpVRZEoV7W6bl57EeS) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [it's ok](https://open.spotify.com/album/14IrPr1ZMLBbT8bIZDvxJl) | 2:38 | 2023-01-02 | 2023-01-10 |
 | [Just Thought You Should Know](https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty, Pt\. 1](https://open.spotify.com/album/19GamUBcGLTBx9n7OjqGcw) | 3:23 | 2022-06-06 | 2022-07-28 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-25 |  |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-05 | 2022-10-11 |
@@ -188,9 +188,11 @@
 | [this is growing up](https://open.spotify.com/track/7svLJ45Nbmhpa1MbVFyZ70) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [this is growing up](https://open.spotify.com/album/7kuxPRsE5lNZhVE2ERfLjL) | 3:04 | 2022-06-13 | 2022-07-28 |
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-10 | 2022-11-13 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-19 | 2022-11-13 |
+| [To Be Alive](https://open.spotify.com/track/54Jt3wJT3xIx8F0SThPcUQ) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [To Be Alive](https://open.spotify.com/album/44jHVWYDclz1x6lyFDrDXB) | 3:32 | 2023-01-09 |  |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-08 | 2022-08-16 |
 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 | 2022-07-25 |  |
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-27 | 2022-07-05 |
+| [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-09 |  |
 | [Unconditional](https://open.spotify.com/track/6WuVqsLi3eUp08vBgdEZmB) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Unconditional](https://open.spotify.com/album/2vrOVWbygbxGa5Y0qfE5p7) | 3:13 | 2022-06-06 | 2022-07-29 |
 | [UwU](https://open.spotify.com/track/7CNUEREC4jtFB6fRvqaEzX) | [The Sundown](https://open.spotify.com/artist/48iq3dtGs3M8P66dZtJ6Mu) | [UwU](https://open.spotify.com/album/6uHem5ARqIuNCCvtvLxqsI) | 3:20 | 2022-06-06 | 2022-07-29 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-07-25 | 2022-08-24 |

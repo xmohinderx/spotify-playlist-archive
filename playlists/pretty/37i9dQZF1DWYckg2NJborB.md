@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,041 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,039 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 20 | [42](https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 3:57 |
 | 21 | [Reading In Bed](https://open.spotify.com/track/4H73CNDBQpE9gp3YTFfC7y) | [Emily Haines & The Soft Skeleton](https://open.spotify.com/artist/1b2U0VT1Z4ACqOihBL1fgw) | [Knives Don't Have Your Back](https://open.spotify.com/album/3ugZjO9GDXiiq4LRDDzcv8) | 2:48 |
 | 22 | [Great American Novel](https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 3:55 |
-| 23 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
-| 24 | [The Book I Read \- 2005 Remaster](https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:10 |
+| 23 | [The Book I Read \- 2005 Remaster](https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:10 |
+| 24 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
 | 25 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
 | 26 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 |
 | 27 | [Haunted](https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS) | [Poe](https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD) | [Haunted](https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
 | 50 | [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDZlMzNhYmVhODdlMzc0NGEwYWM3MjQxZGUxNmI1OWNi`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDg0Y2JkODhhZGU3NjdmY2JiYTUzZjc4ZWVkODdjMjk3`

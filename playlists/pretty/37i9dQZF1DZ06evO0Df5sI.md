@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,539 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,545 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 18 | [Metro](https://open.spotify.com/track/7bOjSUJ9F6R8VMnmLjC0wd) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 3:41 |
 | 19 | [Help Me](https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:44 |
 | 20 | [Fall Victim](https://open.spotify.com/track/4NFV9MCy465LEe7vXMf6ZN) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 3:18 |
-| 21 | [My Friend Peter](https://open.spotify.com/track/27jbQySldKEX1W17293Mto) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/5waByzUzczyEbkV55jcIke) | 2:14 |
-| 22 | [Take Lots with Alcohol](https://open.spotify.com/track/12pC1Ij4F7Zeq60ptohMCi) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 3:13 |
+| 21 | [Take Lots with Alcohol](https://open.spotify.com/track/12pC1Ij4F7Zeq60ptohMCi) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 3:13 |
+| 22 | [My Friend Peter](https://open.spotify.com/track/27jbQySldKEX1W17293Mto) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/5waByzUzczyEbkV55jcIke) | 2:14 |
 | 23 | [Fatally Yours](https://open.spotify.com/track/5ZQvdpuEbWiKQVWn8tsJ94) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 2:16 |
 | 24 | [Back to Hell](https://open.spotify.com/track/6xUF7fIIBlMKTCGu1x5s8p) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 2:54 |
 | 25 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Wash Away](https://open.spotify.com/track/6SInb5FLqUK8NmlAtXUNaJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0) | 3:27 |
 | 50 | [You've Got So Far To Go](https://open.spotify.com/track/03EV0UHtbLLZxRMk2k638B) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 3:14 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDBmNmZiMTJjNjFjZWJhNzQ5YzBiMTQ0NjM0NWNmMDVkNQ==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA0YmE0MTcxNzljMzg5OGVmOWJjYWI4OTJlYmQ5NTFhOQ==`

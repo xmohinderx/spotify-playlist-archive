@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/7zagnV048RSvZVQcVLo0np"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5nvarv",
+          "url": "https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/3TZEzSgedGeH2EKGjH501J"
+    },
+    {
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi"
       },
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 179221,
       "name": "Starlight Song",
       "url": "https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu"

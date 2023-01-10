@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 73506,
+  "num_followers": 73546,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDUzNzIwNDJhNjBiMDIxMDg3YTkxMjRkMGVmNjdiZmU3",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGUzNjNiZDAzNzQ3NzA3ZTI5YzhlMzZiYzI3MTcxODk4",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Pennies From Heaven (Remastered)",
+        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Pennies From Heaven (Remastered)",
+      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Pennies From Heaven (Remastered)",
-        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 198159,
-      "name": "Pennies From Heaven (Remastered)",
-      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -395,22 +411,6 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -483,6 +483,90 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "No Ufo's (Original Version)",
+        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
+      },
+      "artists": [
+        {
+          "name": "Model 500",
+          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "No Ufo's - Vocal",
+      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        }
+      ],
+      "duration_ms": 432586,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "When We Used To Play",
+        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
+      },
+      "artists": [
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        }
+      ],
+      "duration_ms": 500807,
+      "name": "When We Used To Play - Original Extended Mix",
+      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Clocks / Low Life / Go",
+        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 334959,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -507,90 +591,6 @@
       "duration_ms": 190947,
       "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
       "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "No Ufo's (Original Version)",
-        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
-      },
-      "artists": [
-        {
-          "name": "Model 500",
-          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "No Ufo's - Vocal",
-      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "When We Used To Play",
-        "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        }
-      ],
-      "duration_ms": 500807,
-      "name": "When We Used To Play - Original Extended Mix",
-      "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Innovator (Mayday)",
-        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
-      },
-      "artists": [
-        {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
-        }
-      ],
-      "duration_ms": 432586,
-      "name": "The Dance",
-      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Clocks / Low Life / Go",
-        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 334959,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "The Art of Music",
         "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
       },
@@ -715,22 +695,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Best of Techno (Compilation Tracks)",
-        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
-      },
-      "artists": [
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Throw",
-      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -751,8 +715,8 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+        "name": "I Can't Believe",
+        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
       },
       "artists": [
         {
@@ -760,49 +724,29 @@
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         },
         {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 209529,
-      "name": "Savage & Beyond",
-      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
+      "duration_ms": 369016,
+      "name": "I Can't Believe - Extended Mix",
+      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
     },
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+        "name": "Best of Techno (Compilation Tracks)",
+        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
         }
       ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
-        }
-      ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+      "duration_ms": 223626,
+      "name": "Throw",
+      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -823,6 +767,26 @@
       "duration_ms": 312894,
       "name": "Just Want Another Chance - Original Mix",
       "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+      },
+      "artists": [
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
+        }
+      ],
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -863,6 +827,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
         "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 411999,
       "name": "Elements",
       "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Savage & Beyond",
+      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
     }
   ],
   "unique_name": "Detroit Techno",

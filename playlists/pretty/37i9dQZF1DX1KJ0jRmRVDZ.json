@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 72851,
+  "num_followers": 72962,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkzMDgwMCwwMDAwMDAwMGFmZGMyMGY4YmYzODVlMjYyNGVkZGI5ZTNiOWQ4NmRm",
+  "snapshot_id": "MTY3MjkzMDgwMCwwMDAwMDAwMGIxMjI3MTQ2NjFjZjM2Njg4YTI1NGFmOTMxZmQzMGY1",
   "tracks": [
     {
       "added_at": "2023-01-05 15:00:00",
@@ -447,38 +447,6 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u5316\u3051\u732b (Leaks From His Laptop)",
-        "url": "https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK"
-      },
-      "artists": [
-        {
-          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 56021,
-      "name": "\u5316\u3051\u732b - Leaks From His Laptop",
-      "url": "https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
-        "name": "\u30bd\u30ef\u30ec",
-        "url": "https://open.spotify.com/album/7mLp1yLUJdrWyHWmvCTUCz"
-      },
-      "artists": [
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        }
-      ],
-      "duration_ms": 228409,
-      "name": "\u30bd\u30ef\u30ec",
-      "url": "https://open.spotify.com/track/7dbAKZNlWhIdmmINkHeKL7"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
         "name": "\u30a2\u30a4\u30a6\u30a8",
         "url": "https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ"
       },
@@ -503,6 +471,22 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
+        "name": "\u30bd\u30ef\u30ec",
+        "url": "https://open.spotify.com/album/7mLp1yLUJdrWyHWmvCTUCz"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 228409,
+      "name": "\u30bd\u30ef\u30ec",
+      "url": "https://open.spotify.com/track/7dbAKZNlWhIdmmINkHeKL7"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
         "name": "\u597d\u304d\u3060",
         "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 217512,
       "name": "\u597d\u304d\u3060",
       "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
+        "name": "\u5316\u3051\u732b (Leaks From His Laptop)",
+        "url": "https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 56021,
+      "name": "\u5316\u3051\u732b - Leaks From His Laptop",
+      "url": "https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -583,34 +583,42 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u591c\u64ab\u3067\u308b\u30e1\u30ce\u30a6 / \u5e7d\u970a\u6771\u4eac",
-        "url": "https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS"
+        "name": "\u30e8\u30ef\u30cd\u30cf\u30ad",
+        "url": "https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y"
       },
       "artists": [
         {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+        },
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
         }
       ],
-      "duration_ms": 262800,
-      "name": "\u591c\u64ab\u3067\u308b\u30e1\u30ce\u30a6",
-      "url": "https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F"
+      "duration_ms": 166966,
+      "name": "\u30e8\u30ef\u30cd\u30cf\u30ad",
+      "url": "https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw"
     },
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u5de6\u53f3\u76f2",
-        "url": "https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443"
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 267103,
-      "name": "\u5de6\u53f3\u76f2",
-      "url": "https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ"
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -663,18 +671,18 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+        "name": "\u591c\u64ab\u3067\u308b\u30e1\u30ce\u30a6 / \u5e7d\u970a\u6771\u4eac",
+        "url": "https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
         }
       ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+      "duration_ms": 262800,
+      "name": "\u591c\u64ab\u3067\u308b\u30e1\u30ce\u30a6",
+      "url": "https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -695,26 +703,18 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u30e8\u30ef\u30cd\u30cf\u30ad",
-        "url": "https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y"
+        "name": "\u5de6\u53f3\u76f2",
+        "url": "https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443"
       },
       "artists": [
         {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "\u548c\u306c\u304b",
-          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
-        },
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 166966,
-      "name": "\u30e8\u30ef\u30cd\u30cf\u30ad",
-      "url": "https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw"
+      "duration_ms": 267103,
+      "name": "\u5de6\u53f3\u76f2",
+      "url": "https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
+        "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+        "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+      "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
         "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
         "url": "https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 257799,
       "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
       "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -799,22 +799,18 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u30a4\u30fc\u30b8\u30fc\u30b2\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF"
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
       "artists": [
         {
-          "name": "natsumi",
-          "url": "https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK"
-        },
-        {
-          "name": "\u548c\u306c\u304b",
-          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 183929,
-      "name": "\u30a4\u30fc\u30b8\u30fc\u30b2\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw"
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
-        "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
+        "name": "\u30a4\u30fc\u30b8\u30fc\u30b2\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "natsumi",
+          "url": "https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK"
+        },
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
         }
       ],
-      "duration_ms": 220200,
-      "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
-      "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
+      "duration_ms": 183929,
+      "name": "\u30a4\u30fc\u30b8\u30fc\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw"
     },
     {
       "added_at": "2023-01-05 15:00:00",

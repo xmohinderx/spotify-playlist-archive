@@ -4,7 +4,7 @@
 
 > Focus with soft study music in the background.
 
-627 songs - 1 day 3 hr 10 min
+631 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2021-12-07 | 2022-07-29 |
 | [As I Was](https://open.spotify.com/track/7FXTsAqtuTMc7UMuRyY95D) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [As I Was](https://open.spotify.com/album/1yp2jl5uXSD8b9yw3LMc85) | 3:27 | 2021-12-07 | 2022-03-02 |
 | [As You Close Your Eyes](https://open.spotify.com/track/5yLEm7dJOXoMBR5OztKbY4) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [As You Close Your Eyes](https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa) | 2:06 | 2021-12-07 |  |
+| [Ascend](https://open.spotify.com/track/77x7n1Qvcit2rxRrWIJFqg) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Ascend](https://open.spotify.com/album/5349ilcUsrejrw9xQbZuF2) | 1:57 | 2023-01-09 |  |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 |  |
 | [Ascent](https://open.spotify.com/track/4QKo1Fs1rxblTxdWl6fzEC) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Ascent](https://open.spotify.com/album/2Azjzabd4xGsmjpCqWSejA) | 1:55 | 2022-11-11 |  |
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2021-12-07 | 2022-11-12 |
@@ -80,6 +81,7 @@
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 |  |
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 | 2022-10-14 |
+| [Beck](https://open.spotify.com/track/2gx4U9R8v4vZBcxKIV8oLz) | [JF Pierre](https://open.spotify.com/artist/0F6Qj5Fha0HvLddRfhbZ5E) | [Le Pommier](https://open.spotify.com/album/57cKftLAQQTrYafu75bPwO) | 2:17 | 2023-01-09 |  |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 | 2022-11-12 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2022-09-24 |
 | [Benediction](https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Benediction](https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE) | 2:23 | 2022-10-13 |  |
@@ -110,6 +112,7 @@
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2021-12-07 | 2022-05-06 |
 | [Color Me Blue](https://open.spotify.com/track/1PYVWMwBocquvlCpYzwwxA) | [Akane](https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR) | [Color Me Blue](https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF) | 3:10 | 2021-12-07 | 2022-05-06 |
 | [Colours](https://open.spotify.com/track/7x9uO7wEdRrqtlDhqlCILt) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Colours](https://open.spotify.com/album/3Kc6V9aOSHmpLVl2UrGjgn) | 3:06 | 2022-05-05 |  |
+| [Common Ground](https://open.spotify.com/track/6xRvgTp2yFfkOua9icx0rD) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Common Ground](https://open.spotify.com/album/1SZeNgnZXcm31SvYRsWWJY) | 2:02 | 2023-01-09 |  |
 | [Completion](https://open.spotify.com/track/1mL8ZN23Rv9J4pNFp9lLCe) | [Roads to Doheny](https://open.spotify.com/artist/5m4Jvb3zpdQiDsauKHtD3b) | [Completion](https://open.spotify.com/album/1h8lJ0SeWAGouw7frZLAqq) | 2:01 | 2021-12-07 | 2022-10-14 |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 |  |
 | [Concepts](https://open.spotify.com/track/2VRtvXFwINloiZyYE5GGNG) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Concepts](https://open.spotify.com/album/32MCK2MQSiyfyQxGElbKuy) | 2:30 | 2022-10-04 |  |
@@ -357,6 +360,7 @@
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2021-12-07 | 2022-02-15 |
 | [Naoko](https://open.spotify.com/track/42vtu2WdEl9Di6zzdiRpBV) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:04 | 2022-07-19 | 2022-10-14 |
 | [Naoko](https://open.spotify.com/track/4uImsVwiffjf75VY8NStFN) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Naoko](https://open.spotify.com/album/6DiCLO32Rf6Lksf2pw2wKH) | 3:04 | 2021-12-07 | 2022-07-29 |
+| [Nature Shift](https://open.spotify.com/track/7a27uUbJdvi6R0n0Z3LF56) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Nature Shift](https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl) | 2:13 | 2023-01-09 |  |
 | [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 | 2022-07-20 |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 | 2022-11-25 |
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2925,
+  "num_followers": 2927,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzNzE5NSwwMDAwMDAwMDFkODY4ZTAxYmUyMDZjODQ4Yjk4NjVlZWQ0YmZhODRm",
+  "snapshot_id": "MTY3MTQzNzE5NSwwMDAwMDAwMGVjNTAzZGM5ZjJjZGRjNDc0OTE0MjQ0MDdjM2U1NWNl",
   "tracks": [
     {
       "added_at": "2022-12-19 08:06:35",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 169477,
-      "name": "You(=I)",
-      "url": "https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 224240,
       "name": "\ub450\uadfc\uac70\ub824 (Beautiful)",
       "url": "https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "You(=I)",
+      "url": "https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp"
     },
     {
       "added_at": "2022-12-19 08:06:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 190279,
-      "name": "Chocolate Drive \ucd08\ucf5c\ub9bf",
-      "url": "https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
         "name": "Reason (Vocal by Kim Seonho)",
         "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
+      "duration_ms": 190279,
+      "name": "Chocolate Drive \ucd08\ucf5c\ub9bf",
+      "url": "https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x"
     },
     {
       "added_at": "2022-12-19 08:06:35",
@@ -563,34 +547,18 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "I'LL BE YOUR SPRING",
-        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "Olivia Hye",
-          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 189664,
-      "name": "I'LL BE YOUR SPRING",
-      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Mean \uc2ec\uc220",
-      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     },
     {
       "added_at": "2022-12-19 08:06:35",
@@ -631,6 +599,38 @@
       "duration_ms": 204491,
       "name": "no lie (feat. Nason)",
       "url": "https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "I'LL BE YOUR SPRING",
+        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
+      },
+      "artists": [
+        {
+          "name": "Olivia Hye",
+          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
+        }
+      ],
+      "duration_ms": 189664,
+      "name": "I'LL BE YOUR SPRING",
+      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Mean \uc2ec\uc220",
+      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
     },
     {
       "added_at": "2022-12-19 08:06:35",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
+        "name": "Idle Idle",
+        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 196616,
+      "name": "Spring Attitude",
+      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 161392,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
-        "name": "Idle Idle",
-        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 196616,
-      "name": "Spring Attitude",
-      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
     },
     {
       "added_at": "2022-12-19 08:06:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
-        "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
-      },
-      "artists": [
-        {
-          "name": "HAN SEUNG YUN",
-          "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Marry ME",
-      "url": "https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 186697,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
+        "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
+      },
+      "artists": [
+        {
+          "name": "HAN SEUNG YUN",
+          "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Marry ME",
+      "url": "https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp"
     },
     {
       "added_at": "2022-12-19 08:06:35",

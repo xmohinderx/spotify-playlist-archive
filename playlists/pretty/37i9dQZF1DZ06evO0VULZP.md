@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,083 likes - 48 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,097 likes - 48 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 5 | [Coolidge](https://open.spotify.com/track/2albIR3fBkSoAj76RjqGw7) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 2:47 |
 | 6 | [Everything Sux](https://open.spotify.com/track/0LDAMbrDwcMlH94AG9VYwW) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:30 |
 | 7 | [I'm Not a Loser](https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:28 |
-| 8 | [Cool to Be You](https://open.spotify.com/track/1eopOIsxS1lrGkEvGwFe1P) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:24 |
+| 8 | [Nothing with You](https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:29 |
 | 9 | [No FB](https://open.spotify.com/track/7a8u4fFQF8BbYOPLtsWsTg) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 0:36 |
 | 10 | [Coffee Mug](https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 0:34 |
 | 11 | [Suburban Home](https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:40 |
-| 12 | [Nothing with You](https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:29 |
+| 12 | [Cool to Be You](https://open.spotify.com/track/1eopOIsxS1lrGkEvGwFe1P) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:24 |
 | 13 | [Silly Girl](https://open.spotify.com/track/4ZuZrAUYIDTY2wjluNjidz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 2:22 |
 | 14 | [When I Get Old](https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:29 |
 | 15 | [Myage](https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 27 | [She Don't Care](https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
 | 28 | [I Don't Want To Grow Up](https://open.spotify.com/track/0eDc197F5458sCXioVf2PJ) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 1:21 |
 | 29 | [Smile](https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:10 |
-| 30 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
+| 30 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
 | 31 | [Here with Me](https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD) | 3:43 |
 | 32 | [Pervert](https://open.spotify.com/track/5R3w9JrCCcwjkXUbGAmmEr) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 1:47 |
-| 33 | [Spineless and Scarlet Red](https://open.spotify.com/track/7wumsq89VLbMlbrrqHyWsT) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:15 |
-| 34 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
-| 35 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
+| 33 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
+| 34 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
+| 35 | [Spineless and Scarlet Red](https://open.spotify.com/track/7wumsq89VLbMlbrrqHyWsT) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:15 |
 | 36 | [In Love This Way](https://open.spotify.com/track/4LlmKr3eGaU3oxnvd84kY4) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:32 |
 | 37 | [Mass Nerder](https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:47 |
 | 38 | [Tired of Being Tired](https://open.spotify.com/track/4u3eECXPRzUzQQVdiSmsoS) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:16 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 44 | [Can't Go Back](https://open.spotify.com/track/6LFuNuo5tixQyi414xrinC) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 1:44 |
 | 45 | [Cameage](https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:05 |
 | 46 | [That's The Breaks](https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [That's The Breaks](https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z) | 0:42 |
-| 47 | [Wendy](https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 2:19 |
-| 48 | [Get The Time](https://open.spotify.com/track/1R6D0Njkrf530VBgCKY9Lj) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:13 |
+| 47 | [Get The Time](https://open.spotify.com/track/1R6D0Njkrf530VBgCKY9Lj) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:13 |
+| 48 | [Wendy](https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 2:19 |
 
-Snapshot ID: `Mjc4ODY0MTIsMDAwMDAwMDBiNzNkNTE5YmJhYzg0OWU3MzcyM2JkZWQ4OGU3YTJjMQ==`
+Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAzNjQ4ZDllZjE3MGJjOTdiMTcyNmJjMWZiNDBmZWFmMw==`

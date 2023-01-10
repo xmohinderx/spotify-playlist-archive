@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 33168,
+  "num_followers": 33320,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NTU5OSwwMDAwMDAwMGY1N2VhNWMwOWE3YmJjNzJjZTg2YTJjM2YxYjYzYTQ0",
+  "snapshot_id": "MTY3Mjc1NTU5OSwwMDAwMDAwMDEzMDNiZmM4MzllODg0MzdhMWFhNGExZTczMmFiZWZh",
   "tracks": [
     {
       "added_at": "2022-12-23 07:45:59",
@@ -179,6 +179,26 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 332120,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Starring Jo Stafford",
         "url": "https://open.spotify.com/album/4F7IiqL4ElX0lpUG8yQuZ9"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 152346,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 332120,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 357320,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 357320,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 165400,
       "name": "Them There Eyes",
       "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "A Generation Ago Today",
         "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
       },
@@ -551,22 +535,6 @@
       "duration_ms": 368000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -591,6 +559,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 231826,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Miles Davis (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -655,22 +635,6 @@
       "duration_ms": 209012,
       "name": "I Waited For You",
       "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -691,6 +655,26 @@
       "duration_ms": 207413,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/3Rj7kRvHalEVPPNDc9SeY3"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -743,58 +727,18 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "No Count Sarah",
-        "url": "https://open.spotify.com/album/53B3ZugSBLBVQT9XftI5Xb"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 199240,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "The Total - Vol. 1",
-        "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
-      },
-      "artists": [
-        {
-          "name": "Lee Wiley",
-          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
-        },
-        {
-          "name": "Bobby Hackett",
-          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
-        },
-        {
-          "name": "Joe Bushkin",
-          "url": "https://open.spotify.com/artist/22vG2wpYZKQvNG7dIajDdK"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Oh Look At Me Now - Studio",
-      "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "I Remember Miles",
-        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -835,66 +779,42 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "No Count Sarah",
+        "url": "https://open.spotify.com/album/53B3ZugSBLBVQT9XftI5Xb"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+      "duration_ms": 199240,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO"
     },
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
+        "name": "The Total - Vol. 1",
+        "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "For The Want Of A Kiss - Live",
-      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "We Get Requests",
-        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
-      },
-      "artists": [
+          "name": "Lee Wiley",
+          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+        },
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "D & E",
-      "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
+          "name": "Bobby Hackett",
+          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
+        },
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Joe Bushkin",
+          "url": "https://open.spotify.com/artist/22vG2wpYZKQvNG7dIajDdK"
         }
       ],
-      "duration_ms": 168866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+      "duration_ms": 192506,
+      "name": "Oh Look At Me Now - Studio",
+      "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -915,6 +835,38 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "I Remember Miles",
+        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -927,6 +879,38 @@
       "duration_ms": 198360,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "D & E",
+      "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "For The Want Of A Kiss - Live",
+      "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -963,6 +947,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -979,6 +979,26 @@
       "duration_ms": 246506,
       "name": "I Was Doing All Right",
       "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1011,26 +1031,6 @@
       "duration_ms": 250813,
       "name": "Don't You Know I Care",
       "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -1099,6 +1115,22 @@
       "duration_ms": 301653,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Make The Man Love Me",
+      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1127,18 +1159,18 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 203666,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme"
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1159,54 +1191,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Make The Man Love Me",
-      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Am I Blue? - Take 2",
-      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Blue Gardenia",
+      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 265000,
       "name": "When Day Is Done",
       "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Am I Blue? - Take 2",
+      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Blue Gardenia",
-      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 271533,
       "name": "Bounce Blues",
       "url": "https://open.spotify.com/track/0okDPCmxPLULCyLZM8fxI7"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 356973,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
     },
     {
       "added_at": "2022-12-23 07:45:59",
@@ -1387,22 +1371,6 @@
     {
       "added_at": "2022-12-23 07:45:59",
       "album": {
-        "name": "Complete Roost Recordings",
-        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Autumn Leaves - Instrumental Version",
-      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
-    },
-    {
-      "added_at": "2022-12-23 07:45:59",
-      "album": {
         "name": "Dinah Jams (Live)",
         "url": "https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg"
       },
@@ -1419,6 +1387,38 @@
       "duration_ms": 314440,
       "name": "Darn That Dream - Live In Los Angeles, 1954",
       "url": "https://open.spotify.com/track/6BLqrmuRTePFJEbmSNCilF"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2022-12-23 07:45:59",
+      "album": {
+        "name": "Complete Roost Recordings",
+        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Autumn Leaves - Instrumental Version",
+      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
     },
     {
       "added_at": "2022-12-23 07:45:59",

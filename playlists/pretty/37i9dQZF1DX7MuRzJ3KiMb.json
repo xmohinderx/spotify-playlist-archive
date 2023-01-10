@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 38751,
+  "num_followers": 38850,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMGZhZDFjMTdjMDMxZmQwZjM4Njk4YWU2MzgxMTM3ZjI4",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDQyOThjMjMwYzk0YWE3N2Q3ZGZlMzkxNmE2NGUzZjZk",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Quer\u00eda Volverte a Ver",
-        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
-        {
-          "name": "Rom\u00e1n Torres",
-          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "Quer\u00eda Volverte a Ver",
-      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Quer\u00eda Volverte a Ver",
+        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "Rom\u00e1n Torres",
+          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Quer\u00eda Volverte a Ver",
+      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "La Final",
-        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "La Final",
-      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "ULYSE",
         "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "La Final",
+        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "La Final",
+      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Querernos Bien",
-        "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 183043,
-      "name": "Querernos Bien",
-      "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "Coraz\u00f3n Usado",
         "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 232241,
       "name": "Coraz\u00f3n Usado",
       "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Querernos Bien",
+        "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "Querernos Bien",
+      "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Miedo",
-        "url": "https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8"
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3"
       },
       "artists": [
         {
-          "name": "Menny Flores",
-          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj"
+      "duration_ms": 219610,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O"
     }
   ],
   "unique_name": "cursi",

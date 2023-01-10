@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 279842,
+  "num_followers": 280021,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMDM1NTE5MGYzNDk3NjMyMDM2MDM2MGEzZWE3YTI1ODM1",
+  "snapshot_id": "MTY3MTIxMTQwNSwwMDAwMDAwMDcxMjhlNDIwNjcwNmRhMjExMTg1YmRkNjNlNTZhOTMx",
   "tracks": [
     {
       "added_at": "2022-12-16 17:23:24",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "Eastbound Silhouette",
         "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 527618,
       "name": "Tears",
       "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
+        "name": "Sumidero",
+        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 298492,
+      "name": "Sumidero",
+      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
         "name": "Copal",
         "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Sumidero",
-        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 298492,
-      "name": "Sumidero",
-      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Fj\u00e4ll",
-        "url": "https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 315297,
-      "name": "Fj\u00e4ll",
-      "url": "https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 299232,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
+        "name": "Fj\u00e4ll",
+        "url": "https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 315297,
+      "name": "Fj\u00e4ll",
+      "url": "https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ"
     },
     {
       "added_at": "2022-12-16 17:23:24",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF"
+      },
+      "artists": [
+        {
+          "name": "Jonas Schilling",
+          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
+        }
+      ],
+      "duration_ms": 328080,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm"
+    },
+    {
+      "added_at": "2022-12-16 17:23:24",
+      "album": {
         "name": "Need To Feel Loved (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "LUZ",
-        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
-      },
-      "artists": [
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        }
-      ],
-      "duration_ms": 217104,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
-    },
-    {
-      "added_at": "2022-12-16 17:23:24",
-      "album": {
         "name": "False Gods EP (Short Edits)",
         "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
       },
@@ -1263,38 +1263,34 @@
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF"
+        "name": "LUZ",
+        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
       },
       "artists": [
         {
-          "name": "Jonas Schilling",
-          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
         }
       ],
-      "duration_ms": 328080,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm"
+      "duration_ms": 217104,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
     },
     {
       "added_at": "2022-12-16 17:23:24",
       "album": {
-        "name": "Unconditional Love",
-        "url": "https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H"
+        "name": "Eyes Alive",
+        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
       },
       "artists": [
         {
-          "name": "Umami",
-          "url": "https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv"
-        },
-        {
-          "name": "Headwaters",
-          "url": "https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm"
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
         }
       ],
-      "duration_ms": 377305,
-      "name": "Unconditional Love",
-      "url": "https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V"
+      "duration_ms": 365069,
+      "name": "Eyes Alive",
+      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
     }
   ],
   "unique_name": "Afterhours",

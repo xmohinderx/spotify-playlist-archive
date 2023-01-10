@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-306 songs - 1 day 4 hr 36 min
+307 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Evermore](https://open.spotify.com/track/7hmThOcToWSIo0CKZqZdfX) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Evermore](https://open.spotify.com/album/5Sv7HWRoP0dOKiWidRllor) | 7:29 | 2021-08-07 | 2022-07-29 |
 | [Falsa Balada](https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC) | [Antonio Mazzei](https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref), [David Xirgu](https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq) | [Casa](https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy) | 3:24 | 2022-06-02 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/0mnUFEVSj8hqWj9jJWzOHi) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [For Heaven's Sake](https://open.spotify.com/album/1OedLBy9HcEiqNWmjKXzp1) | 11:52 | 2021-04-24 | 2022-07-29 |
-| [For Heaven's Sake](https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 11:52 | 2022-07-21 |  |
+| [For Heaven's Sake](https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 11:52 | 2022-07-21 | 2023-01-10 |
 | [For Heavens Sake \- Remastered](https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 7:46 | 2021-10-08 | 2022-01-25 |
 | [For My Ladies](https://open.spotify.com/track/7jPNoWAyDdfnzU3mUBI0HI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Duality](https://open.spotify.com/album/2MuFOcI1ife385ZHck1iIw) | 5:41 | 2020-05-04 | 2020-05-08 |
 | [From Gagarin's Point of View](https://open.spotify.com/track/3QxZooLdeJBAf0x405DDI7) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/1P7f9dheKiUWLPCCQ9RdS1) | 4:03 | 2021-02-26 | 2022-01-23 |
@@ -224,6 +224,7 @@
 | [Round Midnight](https://open.spotify.com/track/2xEiuO49zj433EvPjBuf7I) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 7:45 | 2021-08-08 | 2021-08-20 |
 | [Roy](https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [on the tender spot of every calloused moment](https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji) | 2:40 | 2020-06-15 |  |
 | [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 | 2020-06-12 |  |
+| [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 | 2023-01-05 |  |
 | [S.C\. & W.](https://open.spotify.com/track/6RGKS5QJgdJ9bDM7RcZsRd) | [Barre Phillips](https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony) | [Three Day Moon](https://open.spotify.com/album/7oun4UdnI3S05ELHv829TY) | 9:25 | 2020-05-03 | 2020-10-27 |
 | [S3NS \- Duo Version](https://open.spotify.com/track/0MZeV0pYM6hPpwqaI9IGUy) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [40 Melodies](https://open.spotify.com/album/3x1vnezQHOTQG4kDC8nTzl) | 4:41 | 2020-12-04 | 2021-12-17 |
 | [Seeds Of Change](https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Seeds Of Change](https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi) | 5:13 | 2020-05-02\* |  |

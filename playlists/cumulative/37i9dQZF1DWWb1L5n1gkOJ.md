@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-120 songs - 5 hr 40 min
+121 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 | 2022-10-12 |  |
 | [Soft Ardour](https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Soft Ardour](https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN) | 2:31 | 2022-10-12 |  |
 | [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 | 2022-10-12 |  |
+| [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-09 |  |
 | [Sona](https://open.spotify.com/track/685glMCresRk1Yvy50O1wO) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Sona](https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu) | 2:30 | 2022-10-12 |  |
 | [Sonder](https://open.spotify.com/track/6c0Srq5sb8Bvh2SckSv9gy) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Sonder](https://open.spotify.com/album/6MXqIMIuB1wNDFXEuhvgfg) | 3:01 | 2022-10-12 |  |
 | [Soul Travel](https://open.spotify.com/track/22sjSy94wItf9dJ0TEwgVC) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Soul Travel](https://open.spotify.com/album/5cfMRrivDlHMs55UdCN9wF) | 3:39 | 2022-10-12 |  |

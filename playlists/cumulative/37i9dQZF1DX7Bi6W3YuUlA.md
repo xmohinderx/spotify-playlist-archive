@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-346 songs - 17 hr 25 min
+347 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 | 2022-11-18 | 2022-12-13 |
 | [Grateful](https://open.spotify.com/track/71zr0NvefhBcxGr3I1tz9n) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Grateful](https://open.spotify.com/album/0bOUYrO3nah1TG2foN7xAg) | 3:48 | 2021-12-11 | 2022-07-24 |
 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2022-11-18 |  |
-| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-11-18 |  |
+| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-11-18 | 2023-01-10 |
 | [Have Me](https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Have Me](https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k) | 2:48 | 2022-11-18 |  |
 | [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 | 2022-05-28 | 2022-11-19 |
 | [Heaven](https://open.spotify.com/track/5Ie2QBQyUYCcJvQxvsXvBz) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q), [King Koro](https://open.spotify.com/artist/4R1pqL0Q87tj2KZO1Fu3mG) | [Heaven](https://open.spotify.com/album/2MuSjMBXRimvn45wHLiG0f) | 3:43 | 2022-03-19 | 2022-07-29 |
@@ -275,6 +275,7 @@
 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 | 2022-03-25 | 2022-04-21 |
 | [Scam Likely](https://open.spotify.com/track/3it9fpQ311Eq6LBZITUQDM) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Scam Likely](https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG) | 2:35 | 2021-12-11 | 2022-11-19 |
 | [Selfish](https://open.spotify.com/track/75tSIhIDbU67o6McDsnK9Q) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Selfish](https://open.spotify.com/album/3pVyRIZwegrjMwyEg8w85i) | 2:48 | 2021-12-11 | 2022-04-21 |
+| [SET IT OFF](https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [SET IT OFF](https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS) | 2:52 | 2022-11-18 |  |
 | [Shine On](https://open.spotify.com/track/4dFqFcPnrG6JvK9etOgPaG) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Des Monroe](https://open.spotify.com/artist/4ibVa9XbiwphvO1r8TkslV) | [Shine On](https://open.spotify.com/album/3mF8bo5vU8c4HfEvi3TGDl) | 3:48 | 2021-12-11 | 2022-07-29 |
 | [SHINING](https://open.spotify.com/track/3Ng0ZXSlo5E1CAgE6AhDhJ) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [SHINING](https://open.spotify.com/album/4xXHhKvDWcxLJop14TEv53) | 3:20 | 2022-11-18 |  |
 | [Shots Fired](https://open.spotify.com/track/4LuZ1udBrza9sB2k1ngSKO) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Praise and Protest](https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175) | 3:47 | 2021-12-11 | 2022-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,041 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,115 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 22 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 |
 | 23 | [Dolly](https://open.spotify.com/track/6s4QPMUt2zPoiFb9pjvdZi) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dolly](https://open.spotify.com/album/7FRco0qMlKJIG6zCWKunqD) | 2:16 |
 | 24 | [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 |
-| 25 | [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
+| 25 | [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [1stClass](https://open.spotify.com/artist/2Ij4d78H8hZnKFSqX1gAwp) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
 | 26 | [Still a Bleed](https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still a Bleed](https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG) | 3:36 |
 | 27 | [Basic](https://open.spotify.com/track/2gwn11k39NLZUCwVbcTrjq) | [Jah Vinci](https://open.spotify.com/artist/0mkixmQkcUeE6egKHW4ojh) | [I Am the World Singer](https://open.spotify.com/album/5wYDLzTry6j0sAPjZ96p6G) | 3:12 |
 | 28 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 |

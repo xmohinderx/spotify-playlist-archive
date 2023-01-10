@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-679 songs - 1 day 12 hr 49 min
+682 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Jaan Ke Bhuleke](https://open.spotify.com/track/2gkE9EEgIII1jNPMV6lqHz) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhuleke](https://open.spotify.com/album/53Pfuz9zVNwkNabvZWMYU4) | 4:55 | 2022-12-08 | 2022-12-10 |
 | [Jaan Ke Bhulekhe](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhulekhe \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 | 2022-12-09 |  |
 | [Jaan Te Bani 2](https://open.spotify.com/track/54EZSryDgRSvx3altQXVya) | [Balraj](https://open.spotify.com/artist/198wHm8PoJ6EEKCkOI5kbi), [G Guri](https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA) | [Jaan Te Bani 2](https://open.spotify.com/album/54ops4MY7c1kfeXZTChFcs) | 4:58 | 2022-03-01 | 2022-03-11 |
+| [Jaan Vaardi](https://open.spotify.com/track/74jjRSV4m6V76C2wuDX4QA) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Jannat](https://open.spotify.com/album/4FBpYgUuTATkO3mPDFh5QW) | 3:29 | 2023-01-09 |  |
 | [Jaane Meriye](https://open.spotify.com/track/43f1GdmdYDCsEYK0PpgAy9) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Jaane Meriye](https://open.spotify.com/album/09Lzc4GnZG8krNwgT6HpYo) | 3:53 | 2022-11-22 |  |
 | [Jaane Meriye](https://open.spotify.com/track/4Q9ZQwcObLhWeApFYvTvMo) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Jaane Meriye](https://open.spotify.com/album/50KN4dXK3fwcTfvAGUyO7Z) | 2:36 | 2022-03-31 | 2022-04-29 |
 | [Jaaneman](https://open.spotify.com/track/28FLHp1phC1eBLgae9hIB2) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ), [Sharry Hassan](https://open.spotify.com/artist/3ZtrmL8sJMjnLVnHuA7Vd5), [Angad](https://open.spotify.com/artist/59BA4APzM0Hooxqsxa74Tu) | [Jaaneman](https://open.spotify.com/album/2DliuQNPXUekTFeYByTcPl) | 2:19 | 2022-04-15 | 2022-04-29 |
@@ -467,10 +468,12 @@
 | [Positivity](https://open.spotify.com/track/4Wy1PEoKfF3wPikE3GcWLl) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Positivity](https://open.spotify.com/album/1TMrvJJPk0MO3tvKEHAM7u) | 2:50 | 2022-05-10 |  |
 | [Praise](https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Praise](https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l) | 3:12 | 2021-12-02 | 2022-12-16 |
 | [Precious](https://open.spotify.com/track/2VHEiOqgiJpeXZkArZfSJx) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [No Limit](https://open.spotify.com/album/1AKXje51TkC8qrPH3BG6Gt) | 2:38 | 2022-09-02 | 2022-12-16 |
+| [Privacy](https://open.spotify.com/track/3eCjCQ9ByfgJrkTwOBZdqc) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Jannat](https://open.spotify.com/album/4FBpYgUuTATkO3mPDFh5QW) | 4:33 | 2023-01-09 |  |
 | [Promise](https://open.spotify.com/track/4430hRYol9QcrOb12rq6D2) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Promise](https://open.spotify.com/album/1VL8DknivNInwr03xcjHfg) | 2:45 | 2022-02-11 | 2022-04-06 |
 | [PROPOSE](https://open.spotify.com/track/4dGszjKyLhzqdZR07FK4m0) | [Ajam Khan](https://open.spotify.com/artist/19VOmXDeorD7vTiW3cQLNW), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [PROPOSE](https://open.spotify.com/album/2zwsiN6jZADJ76BX9X28ZL) | 2:54 | 2022-02-02 | 2022-03-11 |
 | [Punjabiyan Di Dhee](https://open.spotify.com/track/541oF6e3e6P38aDIqQXxU7) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Punjabiyan Di Dhee](https://open.spotify.com/album/4Yv4GvvKhIyH9n83vczEdz) | 3:13 | 2022-03-03 | 2022-04-29 |
 | [Push K Dekhi](https://open.spotify.com/track/0y1DEvhc5BVrGwaRJxDUOP) | [KB Jatt](https://open.spotify.com/artist/06Dzu1H3Ny8F7gHJt5TkKJ) | [Push K Dekhi](https://open.spotify.com/album/4FwbqDE4VU746zF8eXtDdh) | 2:29 | 2022-04-29 | 2022-05-11 |
+| [PYAAR DIYA GALLAN](https://open.spotify.com/track/7LWWWB3Ht5L3bW9JpqMwCI) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 2:28 | 2023-01-09 |  |
 | [Pyar Karda \- From "Lover"](https://open.spotify.com/track/3Y5h0lvg9eYqkw8VFtddr8) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Pyar Karda \(From "Lover"\)](https://open.spotify.com/album/0guW2lry5P9J01EV23mwKQ) | 3:31 | 2022-05-31 |  |
 | [Pyar Nahi Hoya](https://open.spotify.com/track/3Cc8gxx7RX0k3b1O3jghBn) | [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Pyar Nahi Hoya](https://open.spotify.com/album/2TqpTyOLVsI6YN9WXtXSFx) | 3:05 | 2022-12-01 |  |
 | [Pyar Nal](https://open.spotify.com/track/1KyitUYIbvPmWTYG6uByWh) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Left Alone](https://open.spotify.com/album/7EYv1SkECBOZ7xOfCkHJzc) | 2:37 | 2022-10-25 |  |

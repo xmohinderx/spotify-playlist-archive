@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi hits with Karan Aujla
+> Ultimate 101 Punjabi hits with AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,287 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,984 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
 | 101 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 
-Snapshot ID: `MTY3MTYxMTczOCwwMDAwMDAwMDkzYjUwNWFhNGEzNmVlOTU0NGQwY2Y5MDljYTQyYzA3`
+Snapshot ID: `MTY3MzI2NjAwMiwwMDAwMDAwMDgwZmMwNDcxMTQ5MTM1OTU4Y2Q1MTgwZjVkMTdmN2Fl`

@@ -4640,7 +4640,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -6326,7 +6326,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -6406,7 +6406,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 215171,
       "name": "Ibalgin",
       "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
@@ -7485,6 +7485,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
         "name": "TRAPPIN LONELY",
         "url": "https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn"
       },
@@ -7638,7 +7656,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 108148,
       "name": "Kone\u010dn\u00e1",
       "url": "https://open.spotify.com/track/2uEjpE1OCbHOqh1gmsvmqC"
@@ -12770,7 +12788,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 179160,
       "name": "RUMCAJS MILOVAL MANKU",
       "url": "https://open.spotify.com/track/5zvHNxwHeLzp1bYV2srOj4"
@@ -12980,7 +12998,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 190243,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/705U2GkmMiEPrqRWMPmabr"
@@ -15028,7 +15046,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 206432,
       "name": "To neni hra",
       "url": "https://open.spotify.com/track/5mC6tVYVscr1YR4zD6p94h"

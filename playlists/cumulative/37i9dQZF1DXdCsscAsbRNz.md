@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-331 songs - 15 hr 49 min
+332 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 | 2020-10-20\* |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2020-10-20\* |  |
 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 | 2020-10-20\* |  |
+| [Cielo](https://open.spotify.com/track/2iz8mLXZg0y2ObLkWBvJVE) | [Theo Adagio](https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K) | [Cielo](https://open.spotify.com/album/4Mc2ZJzVs7svcAa6K16PzR) | 2:33 | 2023-01-09 |  |
 | [Circles](https://open.spotify.com/track/7g1G4ZwhXwaet50TftCAd9) | [Hannah Ziem](https://open.spotify.com/artist/1bdRW1L4YCIpq5BHPuIN6o) | [Circles](https://open.spotify.com/album/52SA4H2aQcljM4NOqE5aSr) | 2:45 | 2020-10-20\* |  |
 | [Circular Again](https://open.spotify.com/track/1K4JORhE9W021L84RJLlp6) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:22 | 2020-10-20\* |  |
 | [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 | 2020-10-20\* | 2023-01-07 |
@@ -255,7 +256,7 @@
 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2020-10-20\* |  |
 | [Sleep Under The Stars](https://open.spotify.com/track/5SphLwiaAIfqGvgy2jBUIb) | [The Boy And The String Machine](https://open.spotify.com/artist/6vCDShB6lc6Ew6geXGjVNS) | [Sleep Under The Stars](https://open.spotify.com/album/2vilvq8rCXcEETrH8JeoXT) | 3:01 | 2020-10-20\* |  |
 | [Sleepless](https://open.spotify.com/track/5oH5ijHVrmgwEfUttQ9pjX) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Sleepless](https://open.spotify.com/album/5ngJnKqFA5xkve0BQxjUUv) | 2:53 | 2020-10-20\* |  |
-| [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2020-10-20\* |  |
+| [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2020-10-20\* | 2023-01-10 |
 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 | 2020-10-20\* | 2022-07-29 |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2022-07-22 |  |
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2020-10-20\* |  |

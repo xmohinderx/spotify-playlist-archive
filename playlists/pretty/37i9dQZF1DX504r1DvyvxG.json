@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2521970,
+  "num_followers": 2522474,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDhjNGQ1YjFlN2I1OTQ1MDQ2NTQ0ODk3ZjRlOGM2YjY1",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDIyYzYxZDNlODJjNTQ0ZTczZDQyZjhhZTZmZmE5OGNj",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Tea For The Tillerman (Remastered 2020)",
         "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Moondance",
         "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
@@ -267,54 +283,6 @@
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered 2009",
-      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -383,6 +351,38 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "In My Life - Remastered 2009",
+      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -411,38 +411,6 @@
       "duration_ms": 134400,
       "name": "Never Going Back Again - 2004 Remaster",
       "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 124693,
-      "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
-      "url": "https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -495,22 +463,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
       },
@@ -523,6 +475,22 @@
       "duration_ms": 243493,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -543,8 +511,40 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 124693,
+      "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+      "url": "https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic Live",
-      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -619,22 +603,6 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Michelle - Remastered 2009",
-      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -659,6 +627,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered 2009",
+      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -707,8 +707,8 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic Live",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic Live",
+      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Peace Train - Remastered 2021",
-      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 238413,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Peace Train - Remastered 2021",
+      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Shelter from the Storm",
-      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Uh-HUH!",
         "url": "https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ"
       },
@@ -1055,22 +1039,6 @@
       "duration_ms": 283666,
       "name": "Pink Houses",
       "url": "https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "In the Wind",
-        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1091,6 +1059,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "In the Wind",
+        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 200146,
       "name": "Where You Lead",
       "url": "https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 201022,
-      "name": "Strangers - 2020 Stereo Remaster",
-      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Bruised Orange",
         "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 200240,
       "name": "That's the Way That the World Goes 'Round",
       "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 201022,
+      "name": "Strangers - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
     },
     {
       "added_at": "2022-12-16 05:00:00",

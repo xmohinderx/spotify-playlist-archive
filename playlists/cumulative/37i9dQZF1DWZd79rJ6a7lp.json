@@ -718,7 +718,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 185920,
       "name": "Andas",
       "url": "https://open.spotify.com/track/42Rzf70H0cM88EDU5YV0cq"
@@ -5522,7 +5522,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 162782,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz"
@@ -7808,7 +7808,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 199250,
       "name": "Nattljus",
       "url": "https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90"
@@ -11042,6 +11042,24 @@
       "duration_ms": 211000,
       "name": "Squama",
       "url": "https://open.spotify.com/track/3uqxytqtmoZuxyn3ISYT2e"
+    },
+    {
+      "album": {
+        "name": "Star Stars",
+        "url": "https://open.spotify.com/album/3d3jAUgBsXpLmJWZw7Q1gW"
+      },
+      "artists": [
+        {
+          "name": "Setareha",
+          "url": "https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Star Stars",
+      "url": "https://open.spotify.com/track/1QEZAFj1GzKUkMgM9cFgTW"
     },
     {
       "album": {

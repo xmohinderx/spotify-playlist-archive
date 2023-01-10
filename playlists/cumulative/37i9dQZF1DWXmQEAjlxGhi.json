@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae"
+    },
+    {
+      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -766,6 +784,28 @@
       "duration_ms": 226772,
       "name": "CAZADORES",
       "url": "https://open.spotify.com/track/29A2LhTvYXCCkYutVIj3cB"
+    },
+    {
+      "album": {
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "album": {
@@ -1256,7 +1296,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 190312,
       "name": "Discoteca (Deorro Remix)",
       "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
@@ -3354,7 +3394,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 230400,
       "name": "No Nos Vamos",
       "url": "https://open.spotify.com/track/4bXgxQoESp2D8UJRklFA8x"
@@ -3596,7 +3636,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 180680,
       "name": "Pa Que Sude (Gonna Make You Sweat/Chosen Few Mix) Feat Shooter Ledo",
       "url": "https://open.spotify.com/track/64znnDhgrJjbxQK7dsEe3Q"
@@ -5200,7 +5240,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 212190,
       "name": "Tuki Tuki - Remix",
       "url": "https://open.spotify.com/track/7gmR3coJOnqOyflVzSUrw0"
@@ -5282,6 +5322,28 @@
       "duration_ms": 166264,
       "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
       "url": "https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx"
+    },
+    {
+      "album": {
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "album": {
@@ -5530,6 +5592,28 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153642,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv"
     },
     {
       "album": {

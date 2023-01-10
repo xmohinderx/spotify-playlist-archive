@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Chill indie songs by Dermot Kennedy, Dean Lewis, and more! Listen to this mellow and feels-inducing playlist, and discover new favorites! Cover: Rene\u00e9 Rapp",
+  "description": "Chill indie music. Cover: Rene\u00e9 Rapp",
   "name": "Indie Chill",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -405,6 +405,36 @@
     },
     {
       "album": {
+        "name": "Bad Memories",
+        "url": "https://open.spotify.com/album/7msAN4IBMQ6GvZbIgzUr6B"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141330,
+      "name": "Bad Memories - Acoustic",
+      "url": "https://open.spotify.com/track/5HsjvSNs3K7dsvtAu8mD6h"
+    },
+    {
+      "album": {
         "name": "Barking Dog",
         "url": "https://open.spotify.com/album/26t5YekLHHAW56AYr8Ivo4"
       },
@@ -452,7 +482,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 149546,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/3v61sG0y5M1LnSsFN4IimM"
@@ -524,7 +554,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 201232,
       "name": "Blisters",
       "url": "https://open.spotify.com/track/1ytnxZRMYJ8QsTMBqD9GXb"
@@ -560,7 +590,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
@@ -896,7 +926,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 157302,
       "name": "Cold Life",
       "url": "https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k"
@@ -1398,7 +1428,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 160961,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0SKUpG1nVemQF8M9SqlFvb"
@@ -1514,7 +1544,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 256133,
       "name": "For Yourself",
       "url": "https://open.spotify.com/track/26UZb4fDjCPsqRhgxxe7pZ"
@@ -1532,7 +1562,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
@@ -1658,7 +1688,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
@@ -1748,7 +1778,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 252533,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/3UhAHhSvqc2oDW6ojrYXQi"
@@ -2181,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "I'm Sure He Loves You",
+        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "I'm Sure He Loves You",
+      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
+    },
+    {
+      "album": {
         "name": "IDC",
         "url": "https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI"
       },
@@ -2542,7 +2590,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 235306,
       "name": "Little Joys",
       "url": "https://open.spotify.com/track/6LzKBCMuZDmcIULxE6ISVv"
@@ -2578,7 +2626,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 226317,
       "name": "Little Talks - The Cabin Sessions",
       "url": "https://open.spotify.com/track/2QacDqNVBIDfsUrLNPizOR"
@@ -2704,7 +2752,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -3297,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "one night",
+        "url": "https://open.spotify.com/album/6nyLLsYqQPX68hNag7N6tY"
+      },
+      "artists": [
+        {
+          "name": "csurf",
+          "url": "https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166859,
+      "name": "one night",
+      "url": "https://open.spotify.com/track/1aWXdwrRg1LahBt4Wn7yWZ"
+    },
+    {
+      "album": {
         "name": "Orlando",
         "url": "https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl"
       },
@@ -3608,7 +3674,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 240687,
       "name": "River",
       "url": "https://open.spotify.com/track/6GIGtQZq4wKWlDM8wUfS6c"
@@ -3900,7 +3966,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 186533,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/3TtpWHLX36RLUi5dyE3Ray"
@@ -4124,7 +4190,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 265427,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/2dBwB667LHQkLhdYlwLUZK"
@@ -4250,7 +4316,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
@@ -4434,7 +4500,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
@@ -4658,7 +4724,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 225000,
       "name": "Ultimate Self",
       "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
@@ -4802,7 +4868,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 256079,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/1ErrkKi89V68HHsyUizbJA"
@@ -5000,7 +5066,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 259208,
       "name": "Which Witch",
       "url": "https://open.spotify.com/track/5yiBLMSH9DCRmBtws6wKY3"
@@ -5072,7 +5138,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 274552,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn"
@@ -5094,6 +5160,24 @@
       "duration_ms": 274552,
       "name": "Woman",
       "url": "https://open.spotify.com/track/4LngVAmigX4WrBEDfonBlU"
+    },
+    {
+      "album": {
+        "name": "World's Greatest Sleeper",
+        "url": "https://open.spotify.com/album/1B1aaFNBIh4R8VINBjxdQ3"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186587,
+      "name": "World's Greatest Sleeper",
+      "url": "https://open.spotify.com/track/7Etfp59BHjo4Ud0x67r5st"
     },
     {
       "album": {

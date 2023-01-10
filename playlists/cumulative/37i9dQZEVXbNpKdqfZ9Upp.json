@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 225306,
       "name": "COLOGNE",
       "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -5596,7 +5596,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 186038,
       "name": "Goo Goo Muck",
       "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
@@ -6838,7 +6838,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 178050,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH"
@@ -9102,7 +9102,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 141237,
       "name": "Muchachos, Ahora Nos Volvimos a Ilusionar",
       "url": "https://open.spotify.com/track/79d6fVzRM6DRYxR302AJFY"
@@ -9406,7 +9406,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
@@ -9604,7 +9604,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
@@ -14690,7 +14690,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 132500,
       "name": "Very Few Friends",
       "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
@@ -15423,6 +15423,24 @@
     },
     {
       "album": {
+        "name": "Yes t0 Heaven",
+        "url": "https://open.spotify.com/album/3IoAc6Bees7aBBtLSTNRTV"
+      },
+      "artists": [
+        {
+          "name": "B4SAX",
+          "url": "https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197578,
+      "name": "Yes t0 Heaven",
+      "url": "https://open.spotify.com/track/5KMfWGgk4YhuGLHthUuhjG"
+    },
+    {
+      "album": {
         "name": "Yes To Heaven",
         "url": "https://open.spotify.com/album/1QqHkfAFnS5S0Pgw1OYdp4"
       },
@@ -15506,7 +15524,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

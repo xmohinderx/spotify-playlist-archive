@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-488 songs - 1 day 6 hr 16 min
+489 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Hoove Haaridanthe](https://open.spotify.com/track/2SxLem0pOHyc4YUIvWZW69) | [Harsha Uppar](https://open.spotify.com/artist/1mqDmKSRQU5bvew7qa6JMf), [Meghana Kulakarni Joshi](https://open.spotify.com/artist/2sBf72wmgd4KJUpDw5thlq) | [Ombatthane Dikku](https://open.spotify.com/album/5mSoumxlRkVC3EpmpwmgEf) | 1:46 | 2022-02-15 | 2022-04-28 |
 | [Hostel Hudugaru Protest Song \- From "Hostel Hudugaru Bekagiddare"](https://open.spotify.com/track/1xea55ML5mzE8YHptJOVPo) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Yogarajbhat Fans](https://open.spotify.com/artist/7xha9BVoNtR9IfQbqvvdSw) | [Hostel Hudugaru Protest Song \(From "Hostel Hudugaru Bekagiddare"\)](https://open.spotify.com/album/2g8XvaA433A4hCrojXSbfO) | 3:14 | 2023-01-05 |  |
 | [Hrudayada looti Ninnindale \- From "Mardini"](https://open.spotify.com/track/02KtANsTSZJEEXHsa3C1IX) | [Varun Ramachandra](https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84), [Hithan Hassan](https://open.spotify.com/artist/2MZXYynfCx4eRuQB2hh9jn), [Harshapriya](https://open.spotify.com/artist/124VVnT2v2M3Ucb5r099j2) | [Hrudayada looti Ninnindale \(From "Mardini"\)](https://open.spotify.com/album/18eH5hGdvSD5UDri9cL4bQ) | 3:17 | 2022-08-25 |  |
+| [Hrudayavantha Vishnu](https://open.spotify.com/track/6XA9ZeBY87SHUko11u7b1c) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [Hrudayavantha Vishnu \- Single](https://open.spotify.com/album/7fBmoURd3UTXsN8Hr9x0c6) | 4:31 | 2023-01-09 |  |
 | [Hudgi Ivalu \- Sha LA LA LA Love \(From "Chase \- In The Dark"\)](https://open.spotify.com/track/7CpOi5xk4d0yFhYRUrUPv2) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Karthik Aacharya](https://open.spotify.com/artist/7FSw22CMSia3V7Y1tMWldb) | [Hudgi Ivalu \- Sha LA LA LA Love \(From "Chase \- In The Dark"\)](https://open.spotify.com/album/7kKKi2990fxJaHPjhXFy5I) | 4:29 | 2022-02-14 | 2022-03-14 |
 | [Huttu Jataka \- From "Hulibete"](https://open.spotify.com/track/3UGny8reXg9TrKRkMZ2Wic) | [Mehboob Saab](https://open.spotify.com/artist/6HetSWGemJe8nirwDZa8nl), [Harsha Vardhan Raj](https://open.spotify.com/artist/3npc7wJpnakp1HiUo0qij1), [Rajbahaddur](https://open.spotify.com/artist/6qG5FWP2wuNtMAk3VevOMy) | [Huttu Jataka \(From "Hulibete"\)](https://open.spotify.com/album/3xkcjzaLFitfehkv5PqDw6) | 4:15 | 2022-11-25 |  |
 | [I Hate Love](https://open.spotify.com/track/4gg06dKp1cu4RN9WdZhq8m) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [C.R.Bobby](https://open.spotify.com/artist/1WMMdHnsy7rwTnKmsu85z1) | [Bytwo Love](https://open.spotify.com/album/702fK0WHGmVF9bou7A6KLI) | 3:41 | 2022-02-15 | 2022-07-19 |

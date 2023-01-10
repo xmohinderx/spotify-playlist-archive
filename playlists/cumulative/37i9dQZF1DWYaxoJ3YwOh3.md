@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-77 songs - 4 hr 57 min
+78 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Vistaar](https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Vistaar](https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ) | 3:32 | 2022-12-21 |  |
 | [Yeraz \(Rêverie\)](https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 2:57 | 2022-09-06 | 2022-10-14 |
 | [Yeraz \(Rêverie\)](https://open.spotify.com/track/4hGW5Ok07tg4YW2gwWNG03) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 2:57 | 2022-09-30 |  |
+| [Yohanan \- Live '21](https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Urban Faint](https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1) | [Yohanan \(Live '21\)](https://open.spotify.com/album/4LRYq5AbAytHDhvBenaziu) | 6:01 | 2023-01-09 |  |
 | [Искусство цигун](https://open.spotify.com/track/6kujJnkMNAv8gaQGbTVCRz) | [Духовная медитация академия](https://open.spotify.com/artist/1xhosPIWji99GNfmj5A9uu) | [Китайская медитация беззвучного освещения \(Поиск просветления, Концентрированный ум, Единая душа, Путешествие глубокого пробуждения\)](https://open.spotify.com/album/2aZuABxTR9fF6fPklX7NM8) | 3:50 | 2022-09-06 | 2022-10-01 |
 | [الموسيقى الشرقية](https://open.spotify.com/track/0yjSKEPwxq23mlW5UKgBMI) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [إيقاعات شرقية](https://open.spotify.com/album/36MW3rnu3O3ljTirs4WrJC) | 3:38 | 2022-09-06 |  |
 | [داري يا قلبي](https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:54 | 2022-12-21 |  |

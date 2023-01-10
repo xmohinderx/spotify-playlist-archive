@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-177 songs - 9 hr 19 min
+178 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Black Hole](https://open.spotify.com/track/0hZerqDIkaub67oHqFWjk8) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole \(Dan D’Lion Remix\)](https://open.spotify.com/album/30IVvHqLBq3tVycrSMTXlu) | 3:20 | 2021-12-03 | 2022-07-29 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2021-12-03 | 2022-07-29 |
 | [Blush](https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq) | 3:33 | 2021-12-03 |  |
-| [BLUSH!](https://open.spotify.com/track/3RbesFxKsq6J5NGVtm3ZRW) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [BLUSH!](https://open.spotify.com/album/2RCJtGEsBWrRxpDgeptGSF) | 2:34 | 2022-08-12 |  |
+| [BLUSH!](https://open.spotify.com/track/3RbesFxKsq6J5NGVtm3ZRW) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [BLUSH!](https://open.spotify.com/album/2RCJtGEsBWrRxpDgeptGSF) | 2:34 | 2022-08-12 | 2023-01-10 |
 | [Body](https://open.spotify.com/track/51vqvrBQaAruPhyowV2Z8V) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [Body](https://open.spotify.com/album/6mGbgQSiEErQMR5Qrl7zGx) | 2:39 | 2022-03-11 | 2022-07-28 |
 | [bon iver](https://open.spotify.com/track/10Dm3hTVWVFhOcSo0pVB2R) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [bon iver](https://open.spotify.com/album/7fj2RvovFO6aRoQusbC8nf) | 3:16 | 2021-12-03 | 2022-07-29 |
 | [bon iver](https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s) | 3:16 | 2022-07-15 | 2022-10-13 |
@@ -70,6 +70,7 @@
 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/4MjIJnPOuO83ZiKr244QKk) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Flower \(In Full Bloom\)](https://open.spotify.com/album/0Rxa9TV9eNXcVu4kblPAw0) | 3:51 | 2021-12-03 | 2022-11-03 |
 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:51 | 2022-09-02 |  |
 | [For the Hell of It](https://open.spotify.com/track/6ZlDwfheEd6x0hLt8faTDe) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [For the Hell of It](https://open.spotify.com/album/1cMfG682Kq3rWEeZyQT86Y) | 2:19 | 2021-12-03 | 2022-07-28 |
+| [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2023-01-09 |  |
 | [Fried for the Night \- Holly Remix](https://open.spotify.com/track/2q8XLuCgSpJt85MoRlODIq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP) | 3:03 | 2021-12-03 | 2022-04-21 |
 | [Friend Zone](https://open.spotify.com/track/0st8aX6twGUqeeh6sn6qsd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [PICNIC](https://open.spotify.com/album/7Lv8LUpmSqwfZbDWssJxDN) | 3:07 | 2021-12-03 | 2022-07-29 |
 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 | 2022-04-15 | 2022-07-27 |
@@ -120,14 +121,14 @@
 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 | 2021-12-03 |  |
 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2021-12-03 |  |
 | [paper promises](https://open.spotify.com/track/2EtPkAFoT8otljWXtgJ4la) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [fkn bad Pt.1](https://open.spotify.com/album/0yiVDLqPxTJhuxrw9NyFjM) | 2:24 | 2021-12-03 | 2022-07-28 |
-| [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-15 |  |
+| [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-15 | 2023-01-10 |
 | [Play Fair](https://open.spotify.com/track/1A5RzIhd6iGOxH3bxyEmSk) | [Dolly Ave](https://open.spotify.com/artist/3CRylfSfibkfnjCMLhWmIk) | [Sleep](https://open.spotify.com/album/4GPhm4jal1zE0QscDbU6f2) | 2:45 | 2021-12-03 | 2022-07-29 |
 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 |  |
 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 | 2022-01-07 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2021-12-03 |  |
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2021-12-03 | 2022-07-29 |
 | [PUNCHLINE](https://open.spotify.com/track/1SWUpVSuKwyIasTJkyROUG) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [PUNCHLINE](https://open.spotify.com/album/0rUZYk5Bx7vJBbD0D2OnBE) | 3:47 | 2022-05-06 | 2022-07-29 |
-| [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 | 2021-12-03 | 2023-01-07 |
+| [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 | 2021-12-03 |  |
 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2021-12-03 |  |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2021-12-03 |  |
 | [Real Love](https://open.spotify.com/track/1NyGFlIgv3HeDNXDlXLoHi) | [Ryden](https://open.spotify.com/artist/1Y5qZuVu8BdlAcTRInoT4B) | [Real Love](https://open.spotify.com/album/0groOzDAAJ5HrzsAAXmdKy) | 3:16 | 2021-12-03 | 2022-07-17 |

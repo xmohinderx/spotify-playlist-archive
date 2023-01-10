@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,063 songs - 2 day 9 hr 12 min
+1,064 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-23 | 2022-09-03 |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-31 | 2022-06-03 |
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-05-29 | 2022-07-14 |
+| [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2023-01-09 |  |
 | [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-10-11 | 2022-10-23 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-19 | 2022-09-21 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-07-19 | 2022-08-10 |
@@ -338,7 +339,7 @@
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2022-05-31 | 2022-06-11 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-08 |
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-12-01 | 2022-12-21 |
-| [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-23 |  |
+| [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-23 | 2023-01-10 |
 | [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-11-22 | 2022-12-27 |
 | [Get Away](https://open.spotify.com/track/6Cd2mbhIjKqsDug0OKioM4) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:01 | 2022-12-19 | 2022-12-21 |
 | [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-03-29 | 2022-03-31 |
@@ -691,7 +692,7 @@
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-07-21 | 2022-08-03 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-15 | 2022-09-15 |
 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 | 2022-09-15 | 2022-11-15 |
-| [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-01-07 |  |
+| [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-01-07 | 2023-01-10 |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-07-02 | 2022-07-11 |
 | [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 | 2022-11-22 | 2022-11-25 |
 | [Oogie Boogie's Song](https://open.spotify.com/track/3LrhBpvdIs7cmwNAtKNk3I) | [Ed Ivory](https://open.spotify.com/artist/2Iv9xUxQZyMxknah773Sdw), [Ken Page](https://open.spotify.com/artist/5AAomuiyEWayklKG3qLv6U) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 3:17 | 2022-11-01 | 2022-11-06 |
@@ -836,7 +837,7 @@
 | [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-26 | 2022-07-31 |
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-07-30 | 2022-08-10 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-08-30 | 2022-09-21 |
-| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-01-03 | 2023-01-09 |
+| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-01-03 |  |
 | [So High](https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [So High](https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF) | 3:38 | 2022-06-03 | 2022-06-08 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-05 | 2022-01-22 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-11 | 2022-03-09 |

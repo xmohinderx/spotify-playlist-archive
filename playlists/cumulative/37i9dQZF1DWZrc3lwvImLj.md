@@ -4,11 +4,12 @@
 
 > Beautifully sad and moody piano music.
 
-256 songs - 11 hr 28 min
+263 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2021-12-14 |  |
+| [A Winter's Elegy](https://open.spotify.com/track/6bHkocAft4fa7LAfJqbRM7) | [Steven Poole](https://open.spotify.com/artist/1yQhRcOp7MsXQTZuoaOhyX) | [A Winter's Elegy](https://open.spotify.com/album/2eFmV9yZC88CNwG72C5pWS) | 2:23 | 2023-01-09 |  |
 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 | 2022-07-28 |  |
 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 | 2021-12-14 | 2022-07-29 |
 | [Aba](https://open.spotify.com/track/39EU7wgPcoU9UALeeQ0Q0Z) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Aba](https://open.spotify.com/album/72juJf6OMN8pncnMhFrMXT) | 4:58 | 2021-12-14 | 2022-06-07 |
@@ -43,6 +44,7 @@
 | [Candlelight](https://open.spotify.com/track/6aoi5DA6gXsCBMGKa9ZkLQ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/5jRPY0qmViLdSaLKjjZlX2) | 2:21 | 2022-09-23 | 2022-11-13 |
 | [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 | 2022-09-23 |  |
 | [Canvas](https://open.spotify.com/track/6iZ4MWY41vHw9o26UxCmec) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Canvas](https://open.spotify.com/album/7GpwHsdoI4GMzxUHy2DWhJ) | 2:18 | 2022-03-30 |  |
+| [Ce Qui Est Fait, Est Fait](https://open.spotify.com/track/4ipUy1xohhoPajBFRQyPoT) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [Ce Qui Est Fait, Est Fait](https://open.spotify.com/album/4ef3Dcy5kkBykytirIsNDQ) | 2:56 | 2023-01-09 |  |
 | [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 | 2022-12-21 |  |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-01-19 |  |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2021-12-14 | 2022-05-05 |
@@ -73,6 +75,7 @@
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-03 |  |
 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 | 2022-05-04 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2021-12-14 |  |
+| [Fireplace](https://open.spotify.com/track/4EmiPEv2zeh1fS43C5y4MW) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Fireplace](https://open.spotify.com/album/3VADBiEDYxL28OE36LXSMy) | 1:51 | 2023-01-09 |  |
 | [Florentin](https://open.spotify.com/track/6lE5ACHHqeEk7nLciGJH3P) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Florentin](https://open.spotify.com/album/6AUPQJfBYnyw47dZ9V0w89) | 1:58 | 2021-12-14 | 2022-01-20 |
 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-13 |  |
 | [For Annemieke](https://open.spotify.com/track/6d8UCO1LCZUsDRUcN2hBUs) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [For Annemieke](https://open.spotify.com/album/5WZbdzE2PigFpUn4IpwEe1) | 2:12 | 2022-12-21 |  |
@@ -98,6 +101,7 @@
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2021-12-14 |  |
 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2021-12-14 |  |
 | [Komorebi](https://open.spotify.com/track/4e8dECQ4wRfLn2nXfkOuqC) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Komorebi](https://open.spotify.com/album/3tKvJOGY06DHfqtbXHO2CS) | 2:06 | 2021-12-14 | 2022-04-23 |
+| [L'âme rêvée](https://open.spotify.com/track/5ehQEnyRaMM9qmFtIpCJlW) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [L'âme rêvée](https://open.spotify.com/album/4975TNrfqVqaxdVmWtKVR8) | 1:47 | 2023-01-09 |  |
 | [La Belle Epoque](https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [La Belle Epoque](https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi) | 2:43 | 2022-01-05 |  |
 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 | 2022-06-06 |  |
 | [La vérité](https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR) | [Mano Vecina](https://open.spotify.com/artist/1II3YMefTHllayrOSkbwRf) | [La vérité](https://open.spotify.com/album/6z9YiFp74ziLOCjGQDnEe5) | 2:27 | 2021-12-14 |  |
@@ -141,6 +145,7 @@
 | [Mursejler](https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:58 | 2022-07-28 |  |
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-14 | 2022-07-29 |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2021-12-14 |  |
+| [Nature Shift](https://open.spotify.com/track/7a27uUbJdvi6R0n0Z3LF56) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Nature Shift](https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl) | 2:13 | 2023-01-09 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2021-12-14 | 2022-02-17 |
 | [Night](https://open.spotify.com/track/4eovAKOoQDLp09q27z4BgY) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Night](https://open.spotify.com/album/50VZwbhhLytlDCx4XjqtG1) | 2:49 | 2021-12-14 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5wEbriJa2SDzgsU18Xknql) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Dreamer](https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN) | 2:49 | 2022-07-28 |  |
@@ -174,6 +179,7 @@
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-12-14 |  |
 | [Reflections](https://open.spotify.com/track/52GgYnigt5XKncqm9sEjHw) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Reflections](https://open.spotify.com/album/3gJ78a3igJbhbBCE5uXeYG) | 2:36 | 2022-08-03 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2021-12-14 |  |
+| [Reflective](https://open.spotify.com/track/0qVrRwBeIne9ggGfU31U8V) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reflective](https://open.spotify.com/album/5Txt4c0EKgZKufA2eanyun) | 2:15 | 2023-01-09 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2021-12-14 |  |
 | [Reverie](https://open.spotify.com/track/2qmYLGvjNm4PlS1p786Xfr) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/69qZp1tfgNgDPU0M5PtO37) | 4:16 | 2022-03-30 |  |
 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 | 2021-12-14 | 2022-06-07 |
@@ -217,6 +223,7 @@
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 |  |
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2021-12-14 |  |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2021-12-14 |  |
+| [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
 | [The Watchtower](https://open.spotify.com/track/504NLPDUBRylbZUUQR97XX) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [The Watchtower](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 3:25 | 2021-12-14 | 2022-04-15 |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2021-12-14 |  |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2021-12-14 |  |

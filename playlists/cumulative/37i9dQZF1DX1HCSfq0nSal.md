@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Quevedo, Myke Towers
+> Si está pegao, está aquí\. Feat\. Ferxxo, Yandel
 
-270 songs - 15 hr 2 min
+271 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Besos Moja2](https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Besos Moja2](https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn) | 3:49 | 2022-09-30 | 2022-10-09 |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2022-12-16 |  |
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-09-30 | 2022-12-20 |
+| [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 | 2023-01-09 |  |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-01-07 | 2022-02-04 |
 | [Brother](https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Brother](https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8) | 3:29 | 2022-09-19 | 2022-11-04 |
 | [Bésame](https://open.spotify.com/track/2cVCr6Am3spuM1gPDLKxAF) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Bésame](https://open.spotify.com/album/77RnZZL53tsWQ0gTRgAFkW) | 3:05 | 2022-02-03 | 2022-04-02 |
@@ -201,7 +202,7 @@
 | [Piel de Cordero](https://open.spotify.com/track/43Tf6aMFSw2vP7IHBWsA1R) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [Piel de Cordero](https://open.spotify.com/album/4m55xXBvpVcsO3CHXAJItH) | 3:33 | 2022-02-10 | 2022-07-29 |
 | [Ping Pong](https://open.spotify.com/track/2nsYdAiS7abEcku6JAw8Zs) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Ping Pong](https://open.spotify.com/album/5B6FH2f4rOJb9xFndwd05e) | 2:34 | 2022-09-12 | 2022-11-30 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2022-12-16 |  |
-| [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-12-16 |  |
+| [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-12-16 | 2023-01-10 |
 | [Ponte Pa' Mi](https://open.spotify.com/track/10u2iOS0r6plfb9GknD7g4) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Ponte Pa' Mi](https://open.spotify.com/album/26DBrzosCFxgTFBzhcbDPp) | 3:04 | 2022-01-07 | 2022-06-24 |
 | [Problemón](https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Problemón](https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj) | 3:13 | 2022-01-24 | 2022-04-14 |
 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 | 2022-09-19 | 2022-12-15 |

@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/491ZoXaPJ7oPnLKEEkofpz"
+      },
+      "artists": [
+        {
+          "name": "Esme Sanford",
+          "url": "https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135901,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/08DMzELdDyuk2DDd26C28y"
+    },
+    {
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H"
       },
@@ -4106,6 +4124,24 @@
       "duration_ms": 161723,
       "name": "Shared Shelter",
       "url": "https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA"
+    },
+    {
+      "album": {
+        "name": "Si j'ai aim\u00e9",
+        "url": "https://open.spotify.com/album/2FQmsetZ9KYTRZDiRcIVQ1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Hababou",
+          "url": "https://open.spotify.com/artist/3S7Lr7NOUxWimVwXrW8xT4"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "Si j'ai aim\u00e9",
+      "url": "https://open.spotify.com/track/2nb1lBOW1BTBMRCgXwzhzu"
     },
     {
       "album": {

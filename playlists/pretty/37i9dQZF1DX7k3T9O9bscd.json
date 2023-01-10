@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 329374,
+  "num_followers": 329741,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2NDE5MiwwMDAwMDAwMGZkNDNhMWQyZmQ1MGUzZTdkMDVkOGRhZGNhZDEwYjZh",
+  "snapshot_id": "MTY3MzA2NDE5MiwwMDAwMDAwMGJhZjhjNGM0M2Q1MGRiNjA2NmY3NzY0OTg1MmMyNDY1",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
+      "added_at": "2022-03-18 04:49:53",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 318591,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Con Todo El Mundo",
@@ -169,22 +185,6 @@
       "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
     },
     {
-      "added_at": "2022-03-18 04:49:53",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 318591,
-      "name": "Eventually",
-      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
-    },
-    {
       "added_at": "2022-01-28 02:59:48",
       "album": {
         "name": "SongBook",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
     },
     {
+      "added_at": "2022-04-12 18:03:13",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Can't Get No",
@@ -267,38 +283,6 @@
     {
       "added_at": "2022-04-12 18:03:13",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 296980,
-      "name": "Gondii",
-      "url": "https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y"
-    },
-    {
-      "added_at": "2022-04-12 18:03:13",
-      "album": {
         "name": "Man It Feels Like Space Again",
         "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
       },
@@ -327,6 +311,38 @@
       "duration_ms": 252160,
       "name": "Bright Blue Day Haze",
       "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
+    },
+    {
+      "added_at": "2022-04-12 18:03:13",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 467586,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 296980,
+      "name": "Gondii",
+      "url": "https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -409,6 +425,38 @@
       "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
+      "added_at": "2022-04-12 18:03:13",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Bacchanal",
@@ -439,38 +487,6 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
-    },
-    {
-      "added_at": "2022-04-12 18:03:13",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 467586,
-      "name": "Let It Happen",
-      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -537,22 +553,6 @@
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
     },
     {
-      "added_at": "2022-11-15 16:39:12",
-      "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Fuckin Whatever",
@@ -585,36 +585,20 @@
       "url": "https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-11-15 16:39:12",
       "album": {
-        "name": "The Underdog",
-        "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "GUM",
-          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 285643,
-      "name": "The Blue Marble",
-      "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
-    },
-    {
-      "added_at": "2022-04-12 18:03:13",
-      "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -631,6 +615,22 @@
       "duration_ms": 220216,
       "name": "O.N.E.",
       "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "The Underdog",
+        "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        }
+      ],
+      "duration_ms": 285643,
+      "name": "The Blue Marble",
+      "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -745,20 +745,20 @@
       "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
     },
     {
-      "added_at": "2022-11-25 03:31:31",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l"
+        "name": "Planet Caravan",
+        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
       },
       "artists": [
         {
-          "name": "Andreotti",
-          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 417777,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL"
+      "duration_ms": 551138,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
     },
     {
+      "added_at": "2022-11-25 03:31:31",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "duration_ms": 417777,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL"
+    },
+    {
       "added_at": "2022-04-12 17:55:21",
       "album": {
         "name": "Egypt",
@@ -791,22 +807,6 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Planet Caravan",
-        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 551138,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
-      },
-      "artists": [
-        {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
-        }
-      ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Sancocho Stereo",
         "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+      },
+      "artists": [
+        {
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Un soir chez Norris (Evasion 1971) - Single",
+        "url": "https://open.spotify.com/album/6R8dIZHRiJ3EwwBqKgk4Ce"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "Pierre Cavalli",
+          "url": "https://open.spotify.com/artist/7z4lDD7ljn6w4SLFMrumey"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+      "duration_ms": 131426,
+      "name": "Chasse \u00e0 l'homme",
+      "url": "https://open.spotify.com/track/30njO8xB8t4gUbocXczybe"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",
