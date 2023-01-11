@@ -1,12 +1,12 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 333735,
+  "num_followers": 333714,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ2MDYyNSwwMDAwMDAwMDQyZWY3ZWRhMTJlODg4ODAxNjFiZTk1MWY1ZWZmZmEy",
+  "snapshot_id": "MTY2NTQ2MDYyNSwwMDAwMDAwMGExOWUyNzVhMGY3MWUwOTIyNmU4MTgxMDUxMzg1MjI2",
   "tracks": [
     {
       "added_at": "2022-10-11 03:57:05",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 174826,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 298133,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2022-10-11 03:57:05",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-10-11 03:57:05",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 248426,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
-    },
-    {
-      "added_at": "2022-10-11 03:57:05",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2022-10-11 03:57:05",
+      "album": {
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 248426,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
     },
     {
       "added_at": "2022-10-11 03:57:05",

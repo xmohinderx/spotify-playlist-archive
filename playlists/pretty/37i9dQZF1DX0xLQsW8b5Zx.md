@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,055 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,129 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,24 +49,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 39 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
 | 40 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 41 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
-| 42 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
+| 42 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 |
 | 43 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
-| 44 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 |
-| 45 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
+| 44 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
+| 45 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
 | 46 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
 | 47 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
-| 48 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
-| 49 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
+| 48 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
+| 49 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
 | 50 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
 | 51 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 |
 | 52 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 53 | [Baby Come Back](https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0) | [TT Grace](https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc) | [Baby Come Back](https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L) | 3:21 |
-| 54 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 |
-| 55 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
-| 56 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
-| 57 | [I Got A Lot Of Rhythm In My Soul](https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Today, Tomorrow And Forever \- 20 Classics](https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V) | 2:21 |
-| 58 | [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 |
+| 54 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
+| 55 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
+| 56 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 |
+| 57 | [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 |
+| 58 | [I Got A Lot Of Rhythm In My Soul](https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Today, Tomorrow And Forever \- 20 Classics](https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V) | 2:21 |
 | 59 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
 | 60 | [Daddy Cool / The Girl Can't Help It](https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh) | [Darts](https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY) | [Double Top \(Very Best Of\)](https://open.spotify.com/album/3xe1R7xAwmWqIfQqjbKhIa) | 2:29 |
 
-Snapshot ID: `MTY3MTE4MjUzNywwMDAwMDAwMGQ2MTYyOWVjMjVlY2JmNjkzZjdhNzM5YWNiMzM3ZTI3`
+Snapshot ID: `MTY3MTE4MjUzNywwMDAwMDAwMDkzYmEwZjkwZTI5Yjk2Y2JkODRjZjNmNjljZTM0MGJm`

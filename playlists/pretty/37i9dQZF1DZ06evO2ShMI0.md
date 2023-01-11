@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,214 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,264 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 38 | [Derribando Sueños](https://open.spotify.com/track/2YjGwesn29FXUXA21uXQ6y) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 2:58 |
 | 39 | [Simulacro de Tensión](https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:30 |
 | 40 | [El Dia Es Claro](https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Guerra Gaucha](https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac) | 3:27 |
-| 41 | [H.I.V.](https://open.spotify.com/track/3zrHD1q0GXkmhcv7s6HDJZ) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:29 |
-| 42 | [Sumar Tiempo No Es Sumar Amor](https://open.spotify.com/track/7sfcKVh3shDjlb1djxFuyq) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Recupera tus Clásicos](https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU) | 3:42 |
+| 41 | [El Instante Pasó](https://open.spotify.com/track/4JozniZYN6BgJ1fG9sgIFO) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Acústico Retrovisor](https://open.spotify.com/album/6ZRbV9ht59DiEOfzS9VPkj) | 4:07 |
+| 42 | [H.I.V.](https://open.spotify.com/track/3zrHD1q0GXkmhcv7s6HDJZ) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:29 |
 | 43 | [La Luz del Río](https://open.spotify.com/track/6aXBEcw6UoPghrscy13xH5) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 3:34 |
-| 44 | [El Instante Pasó](https://open.spotify.com/track/4JozniZYN6BgJ1fG9sgIFO) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Acústico Retrovisor](https://open.spotify.com/album/6ZRbV9ht59DiEOfzS9VPkj) | 4:07 |
-| 45 | [Cuando Habla El Corazon](https://open.spotify.com/track/5DE8nkIWwejWJuT00yeHDq) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 4:31 |
-| 46 | [Cordillera](https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:39 |
+| 44 | [Sumar Tiempo No Es Sumar Amor](https://open.spotify.com/track/7sfcKVh3shDjlb1djxFuyq) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Recupera tus Clásicos](https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU) | 3:42 |
+| 45 | [Cordillera](https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:39 |
+| 46 | [Cuando Habla El Corazon](https://open.spotify.com/track/5DE8nkIWwejWJuT00yeHDq) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 4:31 |
 | 47 | [Pasos](https://open.spotify.com/track/0CoxfP3dOGKwg6ShNnRiNP) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 4:18 |
 | 48 | [De Hoy en Más](https://open.spotify.com/track/3UZugfa6dzHfOFshHwLarc) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Recupera tus Clásicos](https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU) | 4:44 |
 | 49 | [Celdas](https://open.spotify.com/track/7o3Uk9WyFL5ukE1LuKSU5O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:43 |
 | 50 | [Lamento Boliviano \- En Vivo](https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 5:55 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBkYzY1NWY0YmJhNmZmZjc4MjhlZWRiM2RiZTZiMmY2MQ==`
+Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDA1ZjZmYjhhM2Y4NDVkZjQxZGI2NmMwZTBkNzE0NTBmZA==`

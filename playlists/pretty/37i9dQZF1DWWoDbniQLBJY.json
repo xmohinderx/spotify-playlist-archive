@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2014466,
+  "num_followers": 2014520,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjI1NywwMDAwMDAwMGNjODYzMmJmNzU2YmYzYzA5MTVhZmFkYzY1NTA5YWVm",
+  "snapshot_id": "MTY3MjQyNjI1NywwMDAwMDAwMGE5NDA4NTQxZjVmZjI2OWZmOTZkZTYzMzc2YTdmZjcy",
   "tracks": [
     {
       "added_at": "2022-08-05 16:21:41",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3"
-      },
-      "artists": [
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 228008,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 176000,
       "name": "una luz",
       "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 228008,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 258412,
-      "name": "Volv\u00ed a Nacer - Live from Spotify",
-      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "No Valgo Pa' Ciudad",
-        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
       "artists": [
         {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 186440,
-      "name": "No Valgo Pa' Ciudad",
-      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
+      "duration_ms": 258412,
+      "name": "Volv\u00ed a Nacer - Live from Spotify",
+      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -847,6 +831,22 @@
       "duration_ms": 207786,
       "name": "Ser De Ti",
       "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "No Valgo Pa' Ciudad",
+        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "No Valgo Pa' Ciudad",
+      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Sonre\u00edr (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2VCywjBXVt95NBSE2QsT80"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 208729,
-      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bK1Dzmy41YKrGVitOejNu"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 400826,
       "name": "No Ha Parado De Llover - Unplugged",
       "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Sonre\u00edr (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2VCywjBXVt95NBSE2QsT80"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 208729,
+      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bK1Dzmy41YKrGVitOejNu"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "La Parte Buena",
         "url": "https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "creo que todo estar\u00e1 bien",
-        "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 220073,
-      "name": "creo que todo estar\u00e1 bien",
-      "url": "https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Me Quem\u00e9",
         "url": "https://open.spotify.com/album/7gG7dzmR1LeATBwmf1vHh4"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 250200,
       "name": "Me Quem\u00e9",
       "url": "https://open.spotify.com/track/2HqDV3t9ImPT7P9UWVNRzz"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "creo que todo estar\u00e1 bien",
+        "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 220073,
+      "name": "creo que todo estar\u00e1 bien",
+      "url": "https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1989,23 +1989,7 @@
       "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"
     },
     {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Covers II",
-        "url": "https://open.spotify.com/album/1FzhLun9l0Z3gSrk00nUhQ"
-      },
-      "artists": [
-        {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/1Jdvv5TBIaS4cqvwgISvc2"
-    },
-    {
-      "added_at": "2023-01-10 01:03:59",
+      "added_at": "2023-01-11 01:06:08",
       "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
@@ -2023,18 +2007,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Siempre Cerca (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca"
+        "name": "Covers II",
+        "url": "https://open.spotify.com/album/1FzhLun9l0Z3gSrk00nUhQ"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
         }
       ],
-      "duration_ms": 189654,
-      "name": "Siempre Cerca - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK"
+      "duration_ms": 227520,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/1Jdvv5TBIaS4cqvwgISvc2"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -2051,6 +2035,22 @@
       "duration_ms": 142436,
       "name": "#ElMundoFuera (Improvisaci\u00f3n)",
       "url": "https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Siempre Cerca (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 189654,
+      "name": "Siempre Cerca - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK"
     },
     {
       "added_at": "2022-08-05 16:21:41",

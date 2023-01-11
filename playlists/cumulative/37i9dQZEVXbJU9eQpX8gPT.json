@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "7elmet ado 6",
+        "url": "https://open.spotify.com/album/5RgB11Zv214PJXaI37jYrU"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463000,
+      "name": "7elmet ado 6",
+      "url": "https://open.spotify.com/track/5isvUTOCs9UNdwBR8e8oGE"
+    },
+    {
+      "album": {
         "name": "7elmetAdo 6",
         "url": "https://open.spotify.com/album/7taTjootisSbnt336bke3d"
       },
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 112000,
       "name": "BREDA",
       "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
@@ -10474,7 +10492,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 180763,
       "name": "Makhelaw magalou",
       "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
@@ -16990,7 +17008,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

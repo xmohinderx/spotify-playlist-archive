@@ -4,7 +4,7 @@
 
 > Your chill anime soundtrack.
 
-50 songs - 3 hr 35 min
+52 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2023-01-05 |  |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2023-01-05 |  |
 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2023-01-05 |  |
-| [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2023-01-05 |  |
+| [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2023-01-05 | 2023-01-11 |
 | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw) | 5:50 | 2023-01-05 |  |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2023-01-05 |  |
 | [Lemon](https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:15 | 2023-01-05 |  |
@@ -30,10 +30,11 @@
 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 | 2023-01-05 |  |
 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 | 2023-01-05 |  |
 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 | 2023-01-05 |  |
+| [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 | 2023-01-10 |  |
 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 | 2023-01-05 |  |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-01-05 |  |
 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 | 2023-01-05 |  |
-| [Sincerely](https://open.spotify.com/track/64ZwKMH4rbUI0dEuIFIfpW) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [VIOLET EVERGARDEN VOCAL ALBUM Song letters](https://open.spotify.com/album/3xeaL69xfkqF4zHswUbzLu) | 4:36 | 2023-01-05 |  |
+| [Sincerely](https://open.spotify.com/track/64ZwKMH4rbUI0dEuIFIfpW) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [VIOLET EVERGARDEN VOCAL ALBUM Song letters](https://open.spotify.com/album/3xeaL69xfkqF4zHswUbzLu) | 4:36 | 2023-01-05 | 2023-01-11 |
 | [Sparkle \- movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 8:57 | 2023-01-05 |  |
 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 | 2023-01-05 |  |
 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 | 2023-01-05 |  |
@@ -48,6 +49,7 @@
 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 | 2023-01-05 |  |
 | [コイワズライ](https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:55 | 2023-01-05 |  |
 | [コネクト](https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:30 | 2023-01-05 |  |
+| [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 | 2023-01-10 |  |
 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2023-01-05 |  |
 | [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 | 2023-01-05 |  |
 | [君の知らない物語](https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7) | 5:39 | 2023-01-05 |  |

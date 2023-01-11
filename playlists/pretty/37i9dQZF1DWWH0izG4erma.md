@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!! Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,700 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,025 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,19 +86,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 76 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
 | 77 | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/track/5mOAXvYO4xSppP2NmrBhQu) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/album/6PNMatU3htyk6mAK7xv6qW) | 3:17 |
 | 78 | [Still a Few Cowboys Left](https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Still a Few Cowboys Left](https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD) | 3:14 |
-| 79 | [4 X 4 Play](https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7) | [4 X 4 Play](https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW) | 3:21 |
-| 80 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 |
+| 79 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 |
+| 80 | [4 X 4 Play](https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7) | [4 X 4 Play](https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW) | 3:21 |
 | 81 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
 | 82 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 | 83 | [Train](https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Train](https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ) | 2:57 |
-| 84 | [To Whom ...](https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [To Whom ...](https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs) | 3:38 |
-| 85 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 |
-| 86 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 |
-| 87 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 |
-| 88 | [Sundress](https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:30 |
-| 89 | [Whiskey in a Wine Glass](https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Whiskey in a Wine Glass](https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ) | 3:07 |
-| 90 | [Stronger Than You](https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:08 |
-| 91 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 |
+| 84 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 |
+| 85 | [To Whom ...](https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [To Whom ...](https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs) | 3:38 |
+| 86 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 |
+| 87 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 |
+| 88 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 |
+| 89 | [Sundress](https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:30 |
+| 90 | [Whiskey in a Wine Glass](https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Whiskey in a Wine Glass](https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ) | 3:07 |
+| 91 | [Stronger Than You](https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:08 |
 | 92 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 |
 | 93 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 |
 | 94 | [Black Magic Lady](https://open.spotify.com/track/1jaypNwHJdFs9q9IvPMLjl) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Black Magic Lady](https://open.spotify.com/album/4TEphoROa5MStn7cVNEGMc) | 4:47 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 97 | [Huckleberry](https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX) | [Daniel Lee](https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj) | [Huckleberry](https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ) | 3:50 |
 | 98 | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 |
 | 99 | [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 |
-| 100 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 |
+| 100 | [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 |
 
-Snapshot ID: `MTY3MjY5NTY4NCwwMDAwMDAwMGE1MDhkMjJmNTRkZTZkOTU0ZDZhZjA5YTgyM2Y4MzM2`
+Snapshot ID: `MTY3MjY5NTY4NCwwMDAwMDAwMDAxZjA0YTA2MjE1YjhjZWZlNmUzMTgzMmE3MjVkNGU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,716 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,746 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 33 | [Change In Me \(The Rebirth\)](https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 4:37 |
 | 34 | [Surfing](https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Kirk Fletcher](https://open.spotify.com/artist/4SEFm6iz9emp5qH1C5aoi5) | [Surfing](https://open.spotify.com/album/3IXyvwIPq8pfsGstJvzxU8) | 2:45 |
 | 35 | [Sweet Tea](https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 9:59 |
-| 36 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 |
-| 37 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 |
+| 36 | [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 |
+| 37 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 |
 | 38 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 |
 | 39 | [Creepin'](https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:41 |
 | 40 | [Bottleneck Stomp](https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [Bottleneck Stomp](https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 |
 | 50 | [Uprising](https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [The Outsider](https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I) | 3:36 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGRlNmQ4M2NiNTg4Yjc2MzIyMzRjODNlMWVjMGRhMDIx`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGFlODRlM2RjYmM1NTZlNGVmMWY4NWI3YTc2YzgyNTlm`

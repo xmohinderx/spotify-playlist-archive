@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,385 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,395 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 38 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
 | 39 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
 | 40 | [Soirs de Scotch](https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF) | [Luce Dufault](https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v) | [Luce Dufault](https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5) | 3:33 |
-| 41 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
-| 42 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
+| 41 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
+| 42 | [Pour une histoire d'un soir](https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 3:39 |
 | 43 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
 | 44 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
 | 45 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Pied De Poule](https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2) | [Geneviève Lapointe](https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey) | [Pied De Poule](https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha) | 4:05 |
 | 75 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 
-Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMGZlMzFmNWIzOTcyOWRiY2Y3NWI1N2UxODVlZGYzOTZl`
+Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDcwOWRmY2I0NjM1YzNlMWU4MzkxMmY2MmY2MDkyOWNm`

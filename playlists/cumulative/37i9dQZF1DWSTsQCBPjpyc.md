@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-71 songs - 4 hr 55 min
+72 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Come To Mama](https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:48 | 2020-12-01 |  |
 | [Crosscut Saw](https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 7:44 | 2020-12-01 |  |
 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 | 2020-12-01 |  |
+| [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 | 2022-08-19 |  |
 | [Family Curse](https://open.spotify.com/track/2Bwj1i96TGj2Z2QQhOHy95) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:37 | 2020-12-01 | 2022-07-25 |
 | [Funky Bitch](https://open.spotify.com/track/0G2iXcf4VmGsSKlyFpJ6vt) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Funky Bitch / Ball and Chain](https://open.spotify.com/album/6hruIYWB1piw5DLSX1RN2K) | 4:32 | 2021-06-11 | 2022-07-29 |
 | [Funky Bitch](https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:32 | 2021-06-11 |  |
@@ -39,7 +40,7 @@
 | [Heart of Saint Paul](https://open.spotify.com/track/6Rm50WcWlHBu0X0TQyLKnU) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/7A2FDUfoCPcnp7OcUiL4vO) | 3:20 | 2020-12-01 | 2022-07-29 |
 | [Hoodoo She Do](https://open.spotify.com/track/0gxaFS6T8sUczecSuIgVv8) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Deluxe Edition](https://open.spotify.com/album/40O2V8Adg9cZCluTTeLEYU) | 3:47 | 2020-12-01 | 2022-07-28 |
 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 | 2020-12-01 |  |
-| [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 | 2020-12-01 |  |
+| [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 | 2020-12-01 | 2023-01-11 |
 | [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 | 2022-01-21 |  |
 | [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 | 2020-12-01 | 2023-01-08 |
 | [I'm Not Havin' It](https://open.spotify.com/track/3iXMRHn9xcnl50C2WqmqHg) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/6LC0JgaYxblH0m74rvvULm) | 3:13 | 2021-04-23 | 2022-07-25 |

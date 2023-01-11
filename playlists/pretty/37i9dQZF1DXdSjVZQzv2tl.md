@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Matheus & Kauan
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,881,392 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,883,283 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 16 | [Problemão \- Ao Vivo](https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Respeita Minha Dupla \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/0U4phq4JCvqNLVYwiHgzG6) | 2:17 |
 | 17 | [Meio Fio \- Ao Vivo](https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 2](https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC) | 2:33 |
 | 18 | [Perfeito Pra Ficar Sozinho \- Ao Vivo](https://open.spotify.com/track/4cxQWmXmmbFoWvV8qipQTe) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Perfeito Pra Ficar Sozinho \(Ao Vivo\)](https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja) | 2:50 |
-| 19 | [Nem Namorado e Nem Ficante \- Ao Vivo \| Faixa Bônus](https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Brasília \(Deluxe\)](https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc) | 2:46 |
+| 19 | [Nem Namorado e Nem Ficante \- Ao Vivo \| Faixa Bônus](https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Israel & Rodolffo: Ao Vivo Em Brasília \(Deluxe\)](https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc) | 2:46 |
 | 20 | [Cheiro de Balada \- Ao Vivo](https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa) | 2:51 |
 | 21 | [Todo Seu \- Ao Vivo](https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Todo Seu \(Ao Vivo\)](https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB) | 2:51 |
 | 22 | [Gatilho \- Ao Vivo](https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Se Melhorar Estraga \(Ao Vivo\)](https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6) | 2:35 |

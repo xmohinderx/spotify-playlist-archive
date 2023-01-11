@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Manuel Medrano, Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,977 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,158 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 68 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 |
 | 69 | [Ilegal \- En Vivo](https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:16 |
 | 70 | [Tú](https://open.spotify.com/track/085cxMAY91of46MYke5OQK) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/6e2HWh7tBqocDo2QLW04Sx) | 4:18 |
-| 71 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
-| 72 | [Eu Quero Tudo](https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Eu Quero Tudo](https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ) | 3:39 |
+| 71 | [Eu Quero Tudo](https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Eu Quero Tudo](https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ) | 3:39 |
+| 72 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
 | 73 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
 | 74 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 75 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 80 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
 | 81 | [Las Ganas de Vivir](https://open.spotify.com/track/7CUnSaxzKJT5ntbqBKz1fr) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/0IGW3ipP3z1PXooqMX403Q) | 3:53 |
 | 82 | [Entre Sombras](https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY) | [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM) | [Entre Sombras](https://open.spotify.com/album/1nNKsMJWo80HyYbg6rKIob) | 3:18 |
-| 83 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 |
-| 84 | [Kultura Babylon](https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ) | 3:58 |
+| 83 | [Kultura Babylon](https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ) | 3:58 |
+| 84 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 |
 | 85 | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 |
 | 86 | [Ganas de Verte](https://open.spotify.com/track/53LAYZeyIvplSdQTmEoeKC) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Ganas de Verte](https://open.spotify.com/album/3iskV49V4RAvWSbHOBrgr7) | 4:05 |
 | 87 | [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8) | 5:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 | 100 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDM0MWFkYzZiNjIwZjE3YjI2ZmJkYWQxMDEwMjM1OTZl`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDM0OGUzODY4MGEwNDEwMGI3YTIyYzdmZmYwMmE4N2Nj`

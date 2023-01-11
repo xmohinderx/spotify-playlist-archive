@@ -7823,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "MYSELF AGAIN",
+        "url": "https://open.spotify.com/album/3cn5Z5LRrC0omDyqj1t9Of"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301897,
+      "name": "MYSELF AGAIN",
+      "url": "https://open.spotify.com/track/3W71reebo9HFakaEpmcPS4"
+    },
+    {
+      "album": {
         "name": "Northern Lights (Remixes)",
         "url": "https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe"
       },

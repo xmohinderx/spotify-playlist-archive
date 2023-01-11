@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: BLÜ EYES
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,612 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,643 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 10 | [Special](https://open.spotify.com/track/1mBR4OepAtxwfLwokFhWKC) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 2:43 |
 | 11 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Emmeline Gracie](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
 | 12 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 |
-| 13 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 |
+| 13 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 |
 | 14 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 |
 | 15 | [Deny Me](https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Deny Me](https://open.spotify.com/album/4603uGOYACGfWZho5limbs) | 5:07 |
 | 16 | [so fast](https://open.spotify.com/track/2fcixmEODeToeEAVE5ct3f) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [so fast](https://open.spotify.com/album/6djywrn8aN9dvRVS1uz8TH) | 4:09 |

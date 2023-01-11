@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,423 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,415 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 12 | [No Hay Otra Igual](https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1) | [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [No Hay Otra Igual](https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa) | 2:53 |
 | 13 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
 | 14 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 |
-| 15 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 |
-| 16 | [Tentación](https://open.spotify.com/track/1gvFCRgGken7XUOF5f30P0) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Tentación](https://open.spotify.com/album/0nDVEBmYce69womm73alvZ) | 3:44 |
+| 15 | [Tentación](https://open.spotify.com/track/1gvFCRgGken7XUOF5f30P0) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Tentación](https://open.spotify.com/album/0nDVEBmYce69womm73alvZ) | 3:44 |
+| 16 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 |
 | 17 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
 | 18 | [Hippie](https://open.spotify.com/track/1liDNF7grg13aEoAuq3bnT) | [Entrelineas](https://open.spotify.com/artist/3mMfJELOQF6XvIreA3sZir) | [Hippie](https://open.spotify.com/album/68Aqq7MSTuH05h5LcneScE) | 3:14 |
 | 19 | [Me Dijiste Tu Nombre](https://open.spotify.com/track/0HGaZe9RRXgedMhyZLeDts) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 3:03 |
-| 20 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
-| 21 | [No Me Quieras Tanto](https://open.spotify.com/track/2Nde4gcLvyDoy5Fw1UULOl) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Me Quieras Tanto](https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO) | 3:34 |
-| 22 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
-| 23 | [Escaparnos](https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Escaparnos](https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7) | 3:25 |
-| 24 | [Esto me pertenece](https://open.spotify.com/track/6FKcOmJVNmAq4OsuB4FtLV) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Esto me pertenece](https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9) | 4:35 |
+| 20 | [Esto me pertenece](https://open.spotify.com/track/6FKcOmJVNmAq4OsuB4FtLV) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Esto me pertenece](https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9) | 4:35 |
+| 21 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
+| 22 | [No Me Quieras Tanto](https://open.spotify.com/track/2Nde4gcLvyDoy5Fw1UULOl) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Me Quieras Tanto](https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO) | 3:34 |
+| 23 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
+| 24 | [Escaparnos](https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Escaparnos](https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7) | 3:25 |
 | 25 | [vienes y te vas :\|](https://open.spotify.com/track/7JYmphizKecTyAicTJYgco) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [vienes y te vas :\|](https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU) | 3:09 |
 | 26 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
 | 27 | [To' Los Días](https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [To' Los Días](https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
 | 50 | [Madrid](https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba) | [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3), [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Madrid](https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a) | 2:51 |
 
-Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDFjMTA0NDMzZDhiMjY0OWMwNzdmZDE3Yzc1NGNmMWM2`
+Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDU1Y2EzMjUxOGJlYmMzMDc2NTAyNGZlZDcxOTk4Zjg5`

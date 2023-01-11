@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,094 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,247 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 10 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
 | 11 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
 | 12 | [Mind Over Matter](https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 4:04 |
-| 13 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
-| 14 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 |
+| 13 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 |
+| 14 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 15 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 16 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
 | 17 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 20 | [Inner Love Energy](https://open.spotify.com/track/5pqxLFVOwSS23rX0lobc86) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/467cvMN0A1qVbVXIC7iJCz) | 2:16 |
 | 21 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 |
 | 22 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
-| 23 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
-| 24 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
+| 23 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
+| 24 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
 | 25 | [Half Light](https://open.spotify.com/track/1tYOB844iD7HxHvPtwDPNu) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Half Light](https://open.spotify.com/album/2aPm0opc0JjxDRYK5y4yeK) | 3:05 |
 | 26 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 |
 | 27 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 39 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
 | 40 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
 | 41 | [Honest](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 |
-| 42 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
-| 43 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 |
-| 44 | [Free Animal](https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [For the Light](https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq) | 3:00 |
+| 42 | [Free Animal](https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [For the Light](https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq) | 3:00 |
+| 43 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
+| 44 | [Bloodstream](https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS) | 5:13 |
 | 45 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 |
 | 46 | [Only For You](https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Arrow](https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk) | 5:08 |
 | 47 | [It Won't Always Be Like This](https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg) | 4:04 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 84 | [West Coast](https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [West Coast](https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6) | 4:11 |
 | 85 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
 | 86 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
-| 87 | [basketball](https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [basketball](https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs) | 2:21 |
-| 88 | [No Hard Feelings](https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 |
+| 87 | [No Hard Feelings](https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 |
+| 88 | [basketball](https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [basketball](https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs) | 2:21 |
 | 89 | [Nothing Personal](https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:26 |
 | 90 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX) | 3:56 |
 | 91 | [Help Me to Feel Again](https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/656dTune8st7zgtyUljuGH) | 4:22 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 115 | [Friends I Barely Know](https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 2:59 |
 | 116 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
 | 117 | [Taking You There](https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:09 |
-| 118 | [Take A Walk](https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Take A Walk](https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw) | 3:46 |
-| 119 | [Dead Century](https://open.spotify.com/track/1PBe6S0vnjl6patUrlKeAP) | [Wildlife](https://open.spotify.com/artist/4ulonkGlELgtzTjNxsMIaQ) | [Age Of Everything](https://open.spotify.com/album/6UgPtnHxknhli434khaImD) | 3:24 |
+| 118 | [Dead Century](https://open.spotify.com/track/1PBe6S0vnjl6patUrlKeAP) | [Wildlife](https://open.spotify.com/artist/4ulonkGlELgtzTjNxsMIaQ) | [Age Of Everything](https://open.spotify.com/album/6UgPtnHxknhli434khaImD) | 3:24 |
+| 119 | [Take A Walk](https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Take A Walk](https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw) | 3:46 |
 | 120 | [Lose the Feeling](https://open.spotify.com/track/4Wj8YAiPnuleXJkJ1aEzLN) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 4:13 |
 | 121 | [Turn Your Love](https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK) | 4:01 |
 | 122 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 |
 | 125 | [Bottom Of The Deep Blue Sea](https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Bottom Of The Deep Blue Sea](https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d) | 3:51 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGQ2MjZkMmNhZmQxNTRiMjA5NTIxMTlmN2E0YzcxYThm`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDU3ZDEwY2JlOGJiOTY4M2E3OWEzMzM3NjI2NzVmMjUx`

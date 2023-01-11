@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,272 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,302 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 46 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 47 | [Players](https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 2:26 |
 | 48 | [Vibrate](https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:38 |
-| 49 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
-| 50 | [Too Much to Ask](https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz) | 3:47 |
+| 49 | [Too Much to Ask](https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz) | 3:47 |
+| 50 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDI3NWY5YzEzZDU4NGY4MjE4ZDUzOWU4YThjY2I3ZWNj`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGQ3YTk0YTg3ODI3MWNhOGI0M2M3YTYyMzBhNjczZTc3`

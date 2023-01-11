@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 797614,
+  "num_followers": 797791,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGNmMjlhYWI1OWVkZjdhMmEwZDkxNjlkMGIyNjUxYjMx",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDQyMWJkZjA0YzVjM2YxNjU2NTJiMjc5ZmRlNzkyZjY5",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Call You in the Morning",
-        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 132309,
-      "name": "Call You in the Morning",
-      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Worry No More",
         "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Call You in the Morning",
+        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 132309,
+      "name": "Call You in the Morning",
+      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 211579,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "All But The Sun",
         "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+      "duration_ms": 211579,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 201253,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Kick Out the Windows (Radio Edit)",
-        "url": "https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm"
-      },
-      "artists": [
-        {
-          "name": "Parsonsfield",
-          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Kick Out the Windows (Radio Edit)",
-      "url": "https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "These Cold Nights",
         "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Kick Out the Windows (Radio Edit)",
+        "url": "https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm"
+      },
+      "artists": [
+        {
+          "name": "Parsonsfield",
+          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Kick Out the Windows (Radio Edit)",
+      "url": "https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Omaha",
         "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 198600,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "In Tokens & Charms",
-        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 211193,
-      "name": "Oh Love",
-      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "In Tokens & Charms",
+        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 211193,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Left With The Wolves",
-        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
-      },
-      "artists": [
-        {
-          "name": "Nathan Hawes",
-          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
-        }
-      ],
-      "duration_ms": 229334,
-      "name": "Left With The Wolves",
-      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Help Me to Feel Again",
         "url": "https://open.spotify.com/album/656dTune8st7zgtyUljuGH"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Left With The Wolves",
+        "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hawes",
+          "url": "https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd"
+        }
+      ],
+      "duration_ms": 229334,
+      "name": "Left With The Wolves",
+      "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
     },
     {
       "added_at": "2022-10-14 04:00:00",

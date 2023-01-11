@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,964 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,119 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 54 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 |
 | 55 | [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 |
 | 56 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
-| 57 | [Yeah 3x](https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:01 |
-| 58 | [Beautiful Now](https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 3:38 |
+| 57 | [Beautiful Now](https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 3:38 |
+| 58 | [Yeah 3x](https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:01 |
 | 59 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 |
 | 60 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
 | 61 | [Drop That Low \(When I Dip\)](https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Drop That Low \(When I Dip\)](https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 100 | [\#SELFIE](https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [\#SELFIE](https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI) | 3:03 |
 
-Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMDBmZTU5ZGU0NGM2MzU2MDdlOTU5YzEyZjc0YjNkY2Iy`
+Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMGYxMjAyNWMxYjM1NzE5NTY3ODU5NmM0NGIyZjk1ZTky`

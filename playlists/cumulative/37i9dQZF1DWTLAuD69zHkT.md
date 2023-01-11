@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-88 songs - 6 hr 35 min
+89 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 | 2022-07-13 |  |
 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 | 2022-07-13 |  |
 | [Make It Rain](https://open.spotify.com/track/6eoilldRAmDz7IOEvFizIW) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [From Muscle Shoals](https://open.spotify.com/album/7Llh51MCW3JF6e7A56E5qq) | 4:51 | 2022-07-13 |  |
+| [Me And The Blues](https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:09 | 2023-01-10 |  |
 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 | 2022-07-13 |  |
 | [Midnight Blues](https://open.spotify.com/track/2n5LevrNK3JbN1WWtXuLD6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 4:58 | 2022-07-13 |  |
 | [Midnight Lover](https://open.spotify.com/track/7z3eZPbuOAoqrLnGCWTqXu) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 7:46 | 2022-11-17 |  |

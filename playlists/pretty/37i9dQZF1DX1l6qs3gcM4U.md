@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,056 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,185 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 38 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
 | 39 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 |
 | 40 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
-| 41 | [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 |
-| 42 | [Faço Como](https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Menina Mulher](https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm) | 3:21 |
+| 41 | [Faço Como](https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Menina Mulher](https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm) | 3:21 |
+| 42 | [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 |
 | 43 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 |
 | 44 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
 | 45 | [Spadja Pé](https://open.spotify.com/track/77GqJV1VlOmOYuiKKOsSR1) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Spadja Pé](https://open.spotify.com/album/44eEnwTHqdpyDswxubqcWn) | 3:26 |
 | 46 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 |
-| 47 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 |
-| 48 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 |
+| 47 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 |
+| 48 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 |
 | 49 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 |
 | 50 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
 | 51 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 55 | [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 |
 | 56 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 57 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 |
-| 58 | [Fala so](https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Fala so](https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA) | 3:26 |
-| 59 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
+| 58 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
+| 59 | [Fala so](https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Fala so](https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA) | 3:26 |
 | 60 | [Africana](https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Africana](https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt) | 3:20 |
 | 61 | [Presa](https://open.spotify.com/track/2pSOoP6FLJWeRBxdvhyvkJ) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Batuta](https://open.spotify.com/artist/3q0uYBkdRxSwrjR2cdPBtj) | [Presa](https://open.spotify.com/album/7iPZevwftNKGt6cq5iMPDD) | 4:33 |
 | 62 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 79 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 |
 | 80 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 |
 
-Snapshot ID: `MTY3MjgzNzEzNCwwMDAwMDAwMGM0MGY2NzlmNmQwMzMwNmY1YjE1YTNmNGUxZjE1OGU2`
+Snapshot ID: `MTY3MjgzNzEzNCwwMDAwMDAwMDJiY2Y3YmU1N2FhODg4MGViMTMxZjYyZjI1MmZmMTdi`

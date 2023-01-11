@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,967 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,020 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 13 | [Ni Que Tuvieras Tanta Suerte](https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Señal De Alerta](https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq) | 2:45 |
 | 14 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 15 | [Lo Callaré](https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:07 |
-| 16 | [El Subteniente Linares](https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:31 |
-| 17 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 2:44 |
+| 16 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 2:44 |
+| 17 | [El Subteniente Linares](https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:31 |
 | 18 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
 | 19 | [En El Último Rincón](https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [Déjate Llevar](https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT) | 3:31 |
 | 20 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [La Vieja Escuela](https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F) | [4 de a Caballo](https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Vieja Escuela](https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz) | 3:11 |
 | 50 | [La Lloradera](https://open.spotify.com/track/5XMKMu698zpti1TwbCUrZr) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Lloradera](https://open.spotify.com/album/309Ivzn5Ygopg3ImLZ3Qeq) | 2:43 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAwZTJkYmIwNTY2MDcyMmZjZjkzZTlhZjhmNDhlY2EzZQ==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDBhMTliMjM1MWVkZDAwOWYxYzYxNzA1ODQ1NmQyNzA1NA==`

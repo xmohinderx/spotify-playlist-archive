@@ -1,12 +1,12 @@
 {
   "description": "Some bops to take the pain of homework away.",
-  "num_followers": 1337718,
+  "num_followers": 1340483,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2MjU2OCwwMDAwMDAwMDAyNjlmNDAyYzJkMTUzYTJhYTU2ZjhhN2E4ODY5M2Mx",
+  "snapshot_id": "MTY3MzI2MjU2OCwwMDAwMDAwMDZiMDllYTM0YTQ0MWMzYjA3MTM0MTNjOGVhYjUwZGE3",
   "tracks": [
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1319,42 +1319,6 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "Dandelions (slowed + reverb)",
-        "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        },
-        {
-          "name": "slater",
-          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
-        }
-      ],
-      "duration_ms": 268717,
-      "name": "Dandelions - slowed + reverb",
-      "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
         "name": "Lukas Graham",
         "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
@@ -1387,6 +1351,42 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "Dandelions (slowed + reverb)",
+        "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+        }
+      ],
+      "duration_ms": 268717,
+      "name": "Dandelions - slowed + reverb",
+      "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197732,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197732,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 207481,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 196453,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Water Fountain",
-      "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 175026,
       "name": "that way",
       "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Water Fountain",
+      "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "lowkey",
-        "url": "https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 171355,
-      "name": "lowkey",
-      "url": "https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "lowkey",
+        "url": "https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171355,
+      "name": "lowkey",
+      "url": "https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "Cheating on You",
-        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Cheating on You",
-      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -1947,18 +1931,18 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+        "name": "Cheating on You",
+        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 201660,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+      "duration_ms": 196606,
+      "name": "Cheating on You",
+      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 201660,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -1995,22 +1995,6 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -2031,6 +2015,38 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -2047,18 +2063,18 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
       "artists": [
         {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -2079,22 +2095,6 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -2183,18 +2199,18 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -2215,38 +2231,6 @@
     {
       "added_at": "2022-12-30 11:00:00",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Off My Face",
-      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
         "name": "Dancing With A Stranger (with Normani)",
         "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 171029,
       "name": "Dancing With A Stranger (with Normani)",
       "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -2315,22 +2315,6 @@
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
-    },
-    {
-      "added_at": "2022-12-30 11:00:00",
-      "album": {
-        "name": "everything sucks",
-        "url": "https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 115401,
-      "name": "everything sucks",
-      "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
     },
     {
       "added_at": "2022-12-30 11:00:00",
@@ -2399,6 +2383,22 @@
       "duration_ms": 232000,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/34ceTg8ChN5HjrqiIYCn9Q"
+    },
+    {
+      "added_at": "2022-12-30 11:00:00",
+      "album": {
+        "name": "everything sucks",
+        "url": "https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 115401,
+      "name": "everything sucks",
+      "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
     },
     {
       "added_at": "2022-12-30 11:00:00",

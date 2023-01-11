@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,752 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,802 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,20 +32,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 22 | [Bekitini](https://open.spotify.com/track/17M4JHQru8pJmTNiBxDTEn) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 3:40 |
 | 23 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 |
 | 24 | [Soul \(Rouh\)](https://open.spotify.com/track/4azmg1dcdnaNdppq6i8MgF) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl) | [Soul \(Rouh\)](https://open.spotify.com/album/499lxS0hhJcexWf3dZX2g8) | 6:58 |
-| 25 | [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Keda Bardou \(Acoustic Version\)](https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ) | 2:43 |
-| 26 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
+| 25 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
+| 26 | [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Keda Bardou \(Acoustic Version\)](https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ) | 2:43 |
 | 27 | [Betrouh](https://open.spotify.com/track/3sg5wboOGpcM4OdlRra6yf) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:29 |
 | 28 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 |
-| 29 | [Zwit rwit](https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 3:37 |
-| 30 | [Wea'youneha](https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 3:17 |
+| 29 | [Wea'youneha](https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 3:17 |
+| 30 | [Zwit rwit](https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 3:37 |
 | 31 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
 | 32 | [Win Yamchi Zine](https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD) | [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [Win Yamchi Zine](https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf) | 3:13 |
 | 33 | [Baby Baby \- Acoustic Version](https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby \(Acoustic Version\)](https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82) | 2:40 |
 | 34 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
 | 35 | [Mnam](https://open.spotify.com/track/2Sf3tqzeuPldmDH1hDgzd2) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 3:41 |
-| 36 | [La corrida \(with Francis Cabrel\)](https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Ici et ailleurs](https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd) | 5:33 |
-| 37 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
-| 38 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
+| 36 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
+| 37 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
+| 38 | [La corrida \(with Francis Cabrel\)](https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Ici et ailleurs](https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd) | 5:33 |
 | 39 | [لما بنتولد](https://open.spotify.com/track/73JzEqIY2tKAkbZB63rrbG) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 3:52 |
 | 40 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 |
 | 41 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
 | 70 | [Estihala \- Live Acoustic](https://open.spotify.com/track/0CHNFpFyVHk2GwYxcbStKx) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/3tVevDZe08Jf26YZnjInGT) | 3:18 |
 
-Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDA5ZmFhMmFjZmZmNzMyMzk0NTI1ZWMyYmM4ZjFjZDM1`
+Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMGU1MmMzNWIyZDU0OTBkMjIwMzlkYTc5NWU4MTMyNDFj`

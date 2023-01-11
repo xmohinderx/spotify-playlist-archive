@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,912 likes - 61 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,921 likes - 61 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 |
-| 2 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 |
+| 2 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 |
 | 3 | [König der Nachbarschaft](https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:31 |
 | 4 | [Mercurial Vapor](https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Mercurial Vapor](https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ) | 3:05 |
 | 5 | [echo](https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [echo](https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz) | 3:13 |

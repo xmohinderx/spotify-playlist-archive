@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 207266,
       "name": "Clear",
       "url": "https://open.spotify.com/track/2KMHi9GT4M2uNlDE727tg6"
@@ -2454,6 +2454,24 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "album": {
+        "name": "Doin' Fine Today",
+        "url": "https://open.spotify.com/album/0Ju5SlXJQR0vv4iov2GtqL"
+      },
+      "artists": [
+        {
+          "name": "Trash Panda",
+          "url": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183193,
+      "name": "Doin' Fine Today",
+      "url": "https://open.spotify.com/track/5q0XUBXqK5wV2Dn0bL5I5Z"
     },
     {
       "album": {
@@ -4898,7 +4916,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 237200,
       "name": "I'll Be Here A While",
       "url": "https://open.spotify.com/track/3XKGFDN39V5rTxSqUkgIC2"
@@ -10324,7 +10342,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 241173,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"

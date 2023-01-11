@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTYxOSw5YzFhNmVmZjFkZjg0M2Y3NzFlNGRjNTQ0NmE3MTEyNmVmNzBjODBi",
+  "snapshot_id": "NTYyMCw3NWQ0NjlhYjg5OWQyMmVhMmY5NjQzNGNhNWRhNTQ1Yzc5NmE3NzE3",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1381,6 +1381,26 @@
       "url": "https://open.spotify.com/track/0F7angnYBTaynfYAWVy1q1"
     },
     {
+      "added_at": "2019-06-07 14:25:58",
+      "album": {
+        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
+        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
+      },
+      "artists": [
+        {
+          "name": "Richard I of England",
+          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
+        },
+        {
+          "name": "Ensemble Tre Fontane",
+          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Ja nuls",
+      "url": "https://open.spotify.com/track/5Sb4uORmfoU4wLbdYzepr2"
+    },
+    {
       "added_at": "2018-05-04 15:13:13",
       "album": {
         "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
@@ -1403,26 +1423,6 @@
       "duration_ms": 207186,
       "name": "Lamento di Tristano - La rotta",
       "url": "https://open.spotify.com/track/4vJmOFoty97iQhScVeK5OP"
-    },
-    {
-      "added_at": "2019-06-07 14:25:58",
-      "album": {
-        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
-        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
-      },
-      "artists": [
-        {
-          "name": "Richard I of England",
-          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
-        },
-        {
-          "name": "Ensemble Tre Fontane",
-          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Ja nuls",
-      "url": "https://open.spotify.com/track/5Sb4uORmfoU4wLbdYzepr2"
     },
     {
       "added_at": "2022-10-15 00:04:29",
@@ -1681,6 +1681,30 @@
       "url": "https://open.spotify.com/track/4aUhHjaW2S0eBrPRWNY5N7"
     },
     {
+      "added_at": "2022-03-28 17:06:45",
+      "album": {
+        "name": "Madre de Deus, Cantigas de Santa Maria",
+        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
+      },
+      "artists": [
+        {
+          "name": "Alphonse X le Sage",
+          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
+        },
+        {
+          "name": "Micrologus",
+          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
+        },
+        {
+          "name": "Patrizia Bovi",
+          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
+        }
+      ],
+      "duration_ms": 269226,
+      "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
+      "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
+    },
+    {
       "added_at": "2019-08-07 20:33:09",
       "album": {
         "name": "Jacopo da Bologna: Italian Madrigals of the 14th Century",
@@ -1771,30 +1795,6 @@
       "duration_ms": 385013,
       "name": "Belicha [Additional 29987]",
       "url": "https://open.spotify.com/track/550rfA0AE6Mw2xFRvlKYt4"
-    },
-    {
-      "added_at": "2022-03-28 17:06:45",
-      "album": {
-        "name": "Madre de Deus, Cantigas de Santa Maria",
-        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
-      },
-      "artists": [
-        {
-          "name": "Alphonse X le Sage",
-          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
-        },
-        {
-          "name": "Micrologus",
-          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
-        },
-        {
-          "name": "Patrizia Bovi",
-          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
-        }
-      ],
-      "duration_ms": 269226,
-      "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
-      "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
     },
     {
       "added_at": "2022-12-02 20:12:07",
@@ -3813,6 +3813,26 @@
       "url": "https://open.spotify.com/track/09mWljow5vqkh4iUKnIWGN"
     },
     {
+      "added_at": "2022-12-23 17:54:19",
+      "album": {
+        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
+        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
+      },
+      "artists": [
+        {
+          "name": "Bernard de Ventadour",
+          "url": "https://open.spotify.com/artist/3KEqtcegawmyVTHsq40cZa"
+        },
+        {
+          "name": "Ensemble Tre Fontane",
+          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
+        }
+      ],
+      "duration_ms": 366813,
+      "name": "Quand l'herba fresca",
+      "url": "https://open.spotify.com/track/3CWQsGWF09wgPQipTLrAF5"
+    },
+    {
       "added_at": "2020-10-05 15:23:53",
       "album": {
         "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
@@ -3835,26 +3855,6 @@
       "duration_ms": 200800,
       "name": "Barriera",
       "url": "https://open.spotify.com/track/5l3JwDd7ZX6nNMjkUIBUNn"
-    },
-    {
-      "added_at": "2022-12-23 17:54:19",
-      "album": {
-        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
-        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
-      },
-      "artists": [
-        {
-          "name": "Bernard de Ventadour",
-          "url": "https://open.spotify.com/artist/3KEqtcegawmyVTHsq40cZa"
-        },
-        {
-          "name": "Ensemble Tre Fontane",
-          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
-        }
-      ],
-      "duration_ms": 366813,
-      "name": "Quand l'herba fresca",
-      "url": "https://open.spotify.com/track/3CWQsGWF09wgPQipTLrAF5"
     },
     {
       "added_at": "2023-01-06 16:33:41",
@@ -4073,6 +4073,30 @@
       "url": "https://open.spotify.com/track/32TIeJgYIl63FGxYbemcbM"
     },
     {
+      "added_at": "2022-11-18 17:00:24",
+      "album": {
+        "name": "Madre de Deus, Cantigas de Santa Maria",
+        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
+      },
+      "artists": [
+        {
+          "name": "Alphonse X le Sage",
+          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
+        },
+        {
+          "name": "Micrologus",
+          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
+        },
+        {
+          "name": "Patrizia Bovi",
+          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
+        }
+      ],
+      "duration_ms": 515466,
+      "name": "Cantigas de Santa Maria: Madre de Deus",
+      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
+    },
+    {
       "added_at": "2020-05-01 20:27:52",
       "album": {
         "name": "St. Thomas Aquinas",
@@ -4151,30 +4175,6 @@
       "duration_ms": 243493,
       "name": "Cantigas de Santa Maria, No. 384: A Que Por Muy Gran Fremosura",
       "url": "https://open.spotify.com/track/1wU8xVTS3CwIh9aehuBmXI"
-    },
-    {
-      "added_at": "2022-11-18 17:00:24",
-      "album": {
-        "name": "Madre de Deus, Cantigas de Santa Maria",
-        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
-      },
-      "artists": [
-        {
-          "name": "Alphonse X le Sage",
-          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
-        },
-        {
-          "name": "Micrologus",
-          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
-        },
-        {
-          "name": "Patrizia Bovi",
-          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
-        }
-      ],
-      "duration_ms": 515466,
-      "name": "Cantigas de Santa Maria: Madre de Deus",
-      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
     },
     {
       "added_at": "2022-04-08 15:24:06",

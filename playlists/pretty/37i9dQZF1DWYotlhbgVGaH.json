@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 106513,
+  "num_followers": 106562,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDhjY2RiZDc3ZGY5OWM3NzBjNjk4M2I0MDM3MjgxM2Zk",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMGRmNzFiMTk1NzEwYTgxNzE3ZDU5MTRhYTM0Y2UyMThl",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Planet Jive",
+        "url": "https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7"
+      },
+      "artists": [
+        {
+          "name": "The Jive Aces",
+          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Planet Jive",
+      "url": "https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Blue Pariah",
         "url": "https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 182626,
       "name": "Solid Gold Cadillac",
       "url": "https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Planet Jive",
-        "url": "https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7"
-      },
-      "artists": [
-        {
-          "name": "The Jive Aces",
-          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Planet Jive",
-      "url": "https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Everybody's Talkin' 'Bout Miss Thing!",
-        "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
-      },
-      "artists": [
-        {
-          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
-          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Honey Pie",
-      "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 217373,
       "name": "Swingin' At The Savoy",
       "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Everybody's Talkin' 'Bout Miss Thing!",
+        "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Honey Pie",
+      "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -735,8 +735,8 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Superhero Swinger Undercover",
-        "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
+        "name": "The Romper Room",
+        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
         }
       ],
-      "duration_ms": 238306,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+      "duration_ms": 208493,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
     },
     {
       "added_at": "2022-03-28 19:13:18",

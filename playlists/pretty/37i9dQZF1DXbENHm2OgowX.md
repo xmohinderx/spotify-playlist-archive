@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,100 likes - 69 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,177 likes - 69 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 42 | [Part](https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:57 |
 | 43 | [Helpless Child](https://open.spotify.com/track/0hiPJhnFoew9Qm8kOrtYoG) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks For The Blind](https://open.spotify.com/album/40aCknK9NwtjoieiNyNLqf) | 15:47 |
 | 44 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 |
-| 45 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
-| 46 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
+| 45 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
+| 46 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 47 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 |
 | 48 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
 | 49 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 68 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 | 69 | [Videotape \(Façade\)](https://open.spotify.com/track/1m1Ma4vQ571qukCDojlmk7) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 5:34 |
 
-Snapshot ID: `MTY3MzI3NDU3OSwwMDAwMDAwMDYxNjUwMDJmYzYzY2RkNDczYWMyMWYzNTg4NDZhMzdj`
+Snapshot ID: `MTY3MzI3NDU3OSwwMDAwMDAwMDc3OTE2OWEyYTYyYjQ0MzlhMGZjNDA0NzJkNjc4NTM4`

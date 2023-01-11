@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Mike Bahía
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,977 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,104 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

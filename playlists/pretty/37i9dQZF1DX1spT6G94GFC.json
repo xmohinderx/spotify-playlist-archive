@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2491167,
+  "num_followers": 2491960,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5OTA0NywwMDAwMDAwMGUwMjFlYWZlNjBlZjNiMWE1NTAwZDgyN2FmZjFjNjY3",
+  "snapshot_id": "MTY2ODY5OTA0NywwMDAwMDAwMGE0NzcyNGQzN2U3YWZlMGYxNTFkNzM0YWI5YjgzMjc3",
   "tracks": [
     {
       "added_at": "2021-12-13 15:32:50",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me - Remastered 2017",
       "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Bon Jovi",
-        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Bon Jovi",
+        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+      "duration_ms": 230666,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -651,18 +635,18 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -679,6 +663,22 @@
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 218960,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "Working Class Dog",
         "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 194120,
       "name": "Jessie's Girl",
       "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2021-12-13 15:32:50",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-12-13 15:32:50",
       "album": {
-        "name": "Don't Say No",
-        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
-      },
-      "artists": [
-        {
-          "name": "Billy Squier",
-          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "The Stroke - Remastered",
-      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
-    },
-    {
-      "added_at": "2021-12-13 15:32:50",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 212226,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2021-12-13 15:32:50",
+      "album": {
+        "name": "Don't Say No",
+        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
+      },
+      "artists": [
+        {
+          "name": "Billy Squier",
+          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "The Stroke - Remastered",
+      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
       "added_at": "2021-12-13 15:32:50",

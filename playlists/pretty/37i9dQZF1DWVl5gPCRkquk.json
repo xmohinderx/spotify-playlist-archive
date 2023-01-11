@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 858728,
+  "num_followers": 858793,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk0NDkzNCwwMDAwMDAwMDc5M2Q3NjAzOTdmMGM2OTc1OTVjYzg2Zjk0NjcwMzMz",
+  "snapshot_id": "MTY3Mjk0NDkzNCwwMDAwMDAwMGY0MDUzOWZjNTY0NTM2YTlkMGI1ZTRlYzE5NmVhMDc2",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
     },
     {
-      "added_at": "2023-01-10 00:46:29",
+      "added_at": "2023-01-11 01:03:56",
       "album": {
         "name": "At First There Was Nothing",
         "url": "https://open.spotify.com/album/02NuBFardXF937BPFcEeun"
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
       },
       "artists": [
         {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Lonesome Dreams",
-        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -703,6 +703,26 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -787,22 +807,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -823,22 +827,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Mr. Rodriguez",
+      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Mr. Rodriguez",
-      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+      "duration_ms": 189282,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Featherweight",
-      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
       "artists": [
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 189282,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
+      "duration_ms": 230813,
+      "name": "Featherweight",
+      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Waking Up in Los Angeles",
-        "url": "https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 241384,
-      "name": "Waking Up in Los Angeles",
-      "url": "https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Heigh Ho",
@@ -1419,6 +1403,22 @@
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Waking Up in Los Angeles",
+        "url": "https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 241384,
+      "name": "Waking Up in Los Angeles",
+      "url": "https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1453,24 +1453,20 @@
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Evergreen (feat. Molly Tuttle)",
-        "url": "https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf"
+        "name": "Heron",
+        "url": "https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX"
       },
       "artists": [
         {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Nassau",
+          "url": "https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O"
         }
       ],
-      "duration_ms": 191993,
-      "name": "Evergreen (feat. Molly Tuttle)",
-      "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
+      "duration_ms": 279510,
+      "name": "Whatever Brings You Peace of Mind",
+      "url": "https://open.spotify.com/track/1E0vSW2F5dlVF2gP14pqKs"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1497,20 +1493,24 @@
       "url": "https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Heron",
-        "url": "https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX"
+        "name": "Evergreen (feat. Molly Tuttle)",
+        "url": "https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf"
       },
       "artists": [
         {
-          "name": "Nassau",
-          "url": "https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O"
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 279510,
-      "name": "Whatever Brings You Peace of Mind",
-      "url": "https://open.spotify.com/track/1E0vSW2F5dlVF2gP14pqKs"
+      "duration_ms": 191993,
+      "name": "Evergreen (feat. Molly Tuttle)",
+      "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 290775,
-      "name": "Little Lover",
-      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 192743,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 290775,
+      "name": "Little Lover",
+      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
     },
     {
       "added_at": "2022-10-07 04:00:00",

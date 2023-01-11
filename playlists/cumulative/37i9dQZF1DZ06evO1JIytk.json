@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 154906,
       "name": "Casualty",
       "url": "https://open.spotify.com/track/2WfHDSeiNLw0sJQZxM7t1o"
@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/1XudAZqvPQUyPa8OLkkpgC"
+    },
+    {
+      "album": {
         "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
         "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
       },
@@ -570,7 +592,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 184653,
       "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
       "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
@@ -766,7 +788,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 150973,
       "name": "SHALLOW GRAVES (feat. Tr\u00e9 Burt)",
       "url": "https://open.spotify.com/track/73cjHHahioDVocCvdDcre2"
@@ -838,7 +860,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 170400,
       "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
       "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
@@ -1012,6 +1034,24 @@
       "duration_ms": 172746,
       "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
       "url": "https://open.spotify.com/track/1TZDfrtzmN70FKKeCcrwxT"
+    },
+    {
+      "album": {
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88213,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/5VdF9Q0KRG2BkHKUv4OZUq"
     },
     {
       "album": {

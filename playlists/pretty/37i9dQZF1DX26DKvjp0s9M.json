@@ -1,12 +1,12 @@
 {
   "description": "the best of the best tracks. Cover: Phoebe Bridgers",
-  "num_followers": 757933,
+  "num_followers": 758989,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNjc4OSwwMDAwMDAwMDkzOTM5NDNkZTRiMGMyMzFiZGJlY2FmNjAxMDQ5ZWQy",
+  "snapshot_id": "MTY3MTczNjc4OSwwMDAwMDAwMDNjYmJjNDEwNTA3OGI1M2M5YTM4OThhYzQyNjg1MmM4",
   "tracks": [
     {
       "added_at": "2022-12-22 19:19:49",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -371,38 +371,6 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -415,6 +383,22 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -447,6 +431,22 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
+        "name": "Cavetown",
+        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 147350,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
+      "duration_ms": 179955,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Cavetown",
-        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 179955,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
+      "duration_ms": 147350,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 344692,
+      "name": "I Know The End",
+      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 344692,
-      "name": "I Know The End",
-      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 199232,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "The Difference",
         "url": "https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV"
       },
@@ -1355,34 +1371,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 231825,
-      "name": "Fire for You",
-      "url": "https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 199232,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
+      "duration_ms": 247150,
+      "name": "Mariners Apartment Complex",
+      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
+      "duration_ms": 231825,
+      "name": "Fire for You",
+      "url": "https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig"
     },
     {
       "added_at": "2022-12-22 19:19:49",

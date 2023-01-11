@@ -4,7 +4,7 @@
 
 > Lo que suena en la noche.
 
-169 songs - 11 hr 2 min
+170 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Big Drip](https://open.spotify.com/track/2OSny83bReVvdaQ0v89fvS) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [Big Drip](https://open.spotify.com/album/6bPFWzDOq4ffI2AkduCfYU) | 1:53 | 2022-10-28 | 2022-11-26 |
 | [Bipolar](https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3) | 3:39 | 2021-11-12 | 2022-02-05 |
 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 | 2022-06-30 |  |
-| [Boomerang](https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:23 | 2021-11-12 |  |
+| [Boomerang](https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:23 | 2021-11-12 | 2023-01-11 |
 | [Caile \(feat\. Zion & De La Ghetto\)](https://open.spotify.com/track/626rYyBfeAeleh1F5t4B70) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Caile](https://open.spotify.com/album/5hhiB7CLfUAGLzkHXpnsSw) | 4:59 | 2021-11-12 | 2022-07-29 |
 | [Caliente](https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Caliente](https://open.spotify.com/album/70VKqWL5FWgipcGP9ugXBw) | 4:00 | 2021-11-12 |  |
 | [Cambio](https://open.spotify.com/track/3cg9A9GVyZAT2CPevqWr65) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Cambio](https://open.spotify.com/album/2pPWcgEOlrdKw2JVcjNutY) | 6:10 | 2021-11-12 | 2022-06-21 |
@@ -70,6 +70,7 @@
 | [Ex Bitch](https://open.spotify.com/track/5w623Ysnx6fYMjy9kvwQCa) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Ex Bitch](https://open.spotify.com/album/3Rum9ECu5BnWte2zshoBWN) | 3:00 | 2022-03-03 | 2022-05-29 |
 | [Falsas Promesas](https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:26 | 2021-11-12 |  |
 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 | 2021-11-12 |  |
+| [Fresa](https://open.spotify.com/track/1wNThvd9AUiHcKrEvnDd6o) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:45 | 2022-11-25 |  |
 | [Fresa](https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Fresa](https://open.spotify.com/album/2v2CUuzRvsBNb4c5Rj8nqi) | 2:45 | 2021-11-12 | 2023-01-04 |
 | [Ganas Sobran](https://open.spotify.com/track/17iXKeQe2iVYXJcMpQqthG) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 3:57 | 2021-11-12 |  |
 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 | 2021-11-12 |  |

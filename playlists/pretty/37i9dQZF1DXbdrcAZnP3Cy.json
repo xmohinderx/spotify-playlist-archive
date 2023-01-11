@@ -1,15 +1,15 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 115018,
+  "num_followers": 115147,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1ODg0NiwwMDAwMDAwMDkwMDBmOWJiOTk1MzY3NGI1Nzk0NmJkZTFmYmQ1ODUw",
+  "snapshot_id": "MTY3MDQ1ODg0NiwwMDAwMDAwMGRjYjFmYjI2NDdhOGRiZGY1ODBkNTQ3ZWZjZDMyZDll",
   "tracks": [
     {
-      "added_at": "2023-01-10 00:41:09",
+      "added_at": "2023-01-11 00:40:07",
       "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+    },
+    {
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
-      "added_at": "2023-01-10 00:41:09",
+      "added_at": "2023-01-11 00:40:07",
       "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 157493,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+      "duration_ms": 187022,
+      "name": "La Quebradora",
+      "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 187022,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "La Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "Me llamo Raquel",
-      "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 188333,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+    },
+    {
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
+        "name": "La Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "Me llamo Raquel",
+      "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
     },
     {
       "added_at": "2022-08-19 17:17:15",
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
     },
     {
-      "added_at": "2023-01-10 00:41:09",
+      "added_at": "2023-01-11 00:40:07",
       "album": {
         "name": "El Muchacho Alegre",
         "url": "https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,809 likes - 100 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,943 likes - 100 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 59 | [Postales](https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567) | 4:07 |
 | 60 | [Koop Island Blues](https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg) | [Koop](https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Koop Islands](https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc) | 4:32 |
 | 61 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
-| 62 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
-| 63 | [Ocean Beat](https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 4:32 |
+| 62 | [Ocean Beat](https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 4:32 |
+| 63 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 64 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
 | 65 | [Slowly](https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Supermodified](https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra) | 5:37 |
 | 66 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 96 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
 | 97 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 98 | [Badtimes](https://open.spotify.com/track/1mvK5h91yWsm97sAugKy6K) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Good Looking Blues](https://open.spotify.com/album/5drSlLdRONBLu76BhsVRDP) | 4:51 |
-| 99 | [A Zed And Two L's](https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ) | [Fila Brazillia](https://open.spotify.com/artist/2wss0kNi7zdZTrxnCFxSQW) | [Maim That Tune](https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF) | 9:26 |
-| 100 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
+| 99 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
+| 100 | [A Zed And Two L's](https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ) | [Fila Brazillia](https://open.spotify.com/artist/2wss0kNi7zdZTrxnCFxSQW) | [Maim That Tune](https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF) | 9:26 |
 
-Snapshot ID: `MTU5OTE4MTk3NiwwMDAwMDAwMGMzZTUwYjdiYmE0Yjk3NTNhNWM1MDRlOGNkNzViYjQ5`
+Snapshot ID: `MTU5OTE4MTk3NiwwMDAwMDAwMDQ2NjdlMGVlYTBhNzczMDFhN2YyM2UxYjU3OTM0NTk4`

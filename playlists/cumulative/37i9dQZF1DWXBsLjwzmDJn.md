@@ -4,7 +4,7 @@
 
 > Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。©︎和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-50 songs - 2 hr 42 min
+51 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Buddy](https://open.spotify.com/track/26IeTDCVLX3ApDAV4xB3iL) | [Haruki Hayashida\(CV:Subaru Kimura\)](https://open.spotify.com/artist/7nbjIcteM0qlsjmbJKWKJO), [Ryohei Hayashi\(CV:Yukihiro Nozuyama\)](https://open.spotify.com/artist/3pSjDZKGlrs10PUbSn4GKK) | [TV Anime "Tokyo Revengers" EP 01](https://open.spotify.com/album/3dlkO3OXaNtHDSDGmPGdh7) | 3:59 | 2023-01-06 |  |
 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2023-01-06 |  |
 | [Dead or Alive](https://open.spotify.com/track/7CNpgZURYhQUkfOcrKGfZj) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:28 | 2023-01-06 |  |
-| [Familiar Faces](https://open.spotify.com/track/60esGhFYvqcHHHXOEKbcPl) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 1:15 | 2023-01-06 |  |
+| [Familiar Faces](https://open.spotify.com/track/60esGhFYvqcHHHXOEKbcPl) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 1:15 | 2023-01-06 | 2023-01-11 |
 | [Fight Against Time Limit](https://open.spotify.com/track/2L2GtmHq0EaOBdwRB58pTZ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:16 | 2023-01-06 |  |
 | [Fleeting](https://open.spotify.com/track/27ecODHZIN51xExxAiZviH) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 3:36 | 2023-01-06 |  |
 | [Frenemy](https://open.spotify.com/track/3aFUodW6T7hYMadmyGCLEJ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:27 | 2023-01-06 |  |
@@ -57,6 +57,7 @@
 | [When I Can Spend Time with You](https://open.spotify.com/track/7uUasKHD3MBuTbOrxWOHKq) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:13 | 2023-01-06 |  |
 | [Why Am I Crying?](https://open.spotify.com/track/7KLMY1gHBL54hJRgVb4dip) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:21 | 2023-01-06 |  |
 | [Without You](https://open.spotify.com/track/0kg63fJKXDWwPKko8zQPHw) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 1:40 | 2023-01-06 |  |
+| [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 |  |
 | [名前を呼ぶよ](https://open.spotify.com/track/5jtiIP4VKerDV7eTJwB7za) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/3CZJOaywz0wMS65pKt3b96) | 4:37 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2023-01-07. Prior content cannot be recovered.

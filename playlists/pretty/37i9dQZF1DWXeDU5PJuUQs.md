@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,504 likes - 64 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,596 likes - 64 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 61 | [Duraznito](https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 2:48 |
 | 62 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 |
 | 63 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
-| 64 | [Adicta al Dolor \- En Vivo](https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Adicta al Dolor \(En Vivo\)](https://open.spotify.com/album/6kmIayPZeQ2qqQFRYwWdOA) | 3:04 |
+| 64 | [No Te Vi Crecer \- En Vivo](https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [La Historia Continua](https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn) | 2:52 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGM3NWM5NzYyZTZjZDk5NTczNDQ1OTE0MWYyYzhlYjRj`
+Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDY4NmZjN2VjYmQ5YmE5OWNkMTVjYjk3YmViMDdmNmQ3`

@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية التي لن تتوقف عن الاستماع إليها 🔝 الغلاف: روبى
 
-132 songs - 7 hr 38 min
+133 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-10-03 |  |
 | [Brazil](https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:32 | 2022-09-26 |  |
 | [Cigara](https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:30 | 2023-01-03 |  |
-| [Dalla3 Wetdalla3](https://open.spotify.com/track/5ciTsQ0b2wsoEPrDY2MjWJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dalla3 Wetdalla3](https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6) | 4:06 | 2022-05-13 |  |
+| [Dalla3 Wetdalla3](https://open.spotify.com/track/5ciTsQ0b2wsoEPrDY2MjWJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dalla3 Wetdalla3](https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6) | 4:06 | 2022-05-13 | 2023-01-11 |
 | [Dars Hayaty](https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Dars Hayaty](https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB) | 2:42 | 2022-04-13 | 2022-07-14 |
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-09-26 | 2022-10-25 |
 | [Di Halawa](https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Di Halawa](https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT) | 3:16 | 2022-10-10 |  |
@@ -70,7 +70,6 @@
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-28 | 2022-09-27 |
 | [Leilet El Omr](https://open.spotify.com/track/0pAURGTZvKbI1NlpHyTk0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Leilet El Omr](https://open.spotify.com/album/0NnIrYnPUcdOfZqAH5ONCw) | 3:22 | 2022-04-13 | 2022-05-14 |
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-09-26 | 2022-10-11 |
-| [Ma3aya Hatbda3](https://open.spotify.com/track/3aJ2ThvzAgQiOsFAdtRopt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ma3aya Hatbda3](https://open.spotify.com/album/3uLR3lR7rHwoN2drz0k8B2) | 3:16 | 2022-12-23 |  |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-04-13 | 2022-06-29 |
 | [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2022-06-28 |  |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2022-04-13 | 2022-06-29 |
@@ -89,6 +88,7 @@
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-17 |  |
 | [Oulo Lelly Sab](https://open.spotify.com/track/7mMKakGmTepcWPiQd1TosA) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Oulo Lelly Sab](https://open.spotify.com/album/0ue1Fe0WglapZpWvcoMgZ5) | 3:16 | 2022-11-23 |  |
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2022-04-13 | 2022-06-08 |
+| [Rased El Satr](https://open.spotify.com/track/4ageOMHYR3Nw14OKnSx3X2) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Rased El Satr](https://open.spotify.com/album/2tkDEznir270fP93uND9k1) | 2:38 | 2023-01-10 |  |
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-04-13 | 2022-08-30 |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2022-10-25 |
 | [Sayrena Ya Donia](https://open.spotify.com/track/7o6OBdhiwn3RX9BOa5JjMc) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sayrena Ya Donia](https://open.spotify.com/album/77ybZ6FgVwUJihzcZoCg3K) | 4:20 | 2022-04-13 | 2022-08-30 |
@@ -138,6 +138,7 @@
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-25 | 2022-09-24 |
 | [مسيطره](https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4) | 2:48 | 2022-07-25 | 2022-08-18 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2022-04-13 | 2022-07-29 |
+| [معايا هتبدع](https://open.spotify.com/track/3aJ2ThvzAgQiOsFAdtRopt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/3uLR3lR7rHwoN2drz0k8B2) | 3:16 | 2022-12-23 |  |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-20 | 2022-10-25 |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-25 | 2023-01-01 |
 

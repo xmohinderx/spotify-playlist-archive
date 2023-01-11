@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music by Moneybagg Yo, Lil Durk, Drake and 21 Savage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,939,325 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,941,740 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
 | 50 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 |
 
-Snapshot ID: `MTY3MzI4ODMxMywwMDAwMDAwMDAwYWRkOTdiNWQxM2I2YTg0Yjc5NjQ4OTBjMWViYTVk`
+Snapshot ID: `MTY3MzM3NjU3NSwwMDAwMDAwMDgwNGUzMmEwY2M4NTdkMGZmMzcyNTBjZTU0ZDg0ZTMy`

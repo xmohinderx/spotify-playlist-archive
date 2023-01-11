@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-178 songs - 14 hr 21 min
+179 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [La tristeza de una ciudad](https://open.spotify.com/track/5RhexhsWN9cboUH9Qo1EuK) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:15 | 2022-03-17 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-03-17 |  |
 | [Last Letter Home](https://open.spotify.com/track/1ycAQSRVLp3I0lnSmpAUDH) | [Bahrambient](https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja), [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Last Letter Home](https://open.spotify.com/album/0AMC9ASZwuoeH7CHc3XpAl) | 3:44 | 2022-11-11 |  |
+| [Lay Down](https://open.spotify.com/track/4Lcn0jfbuNmCFNczOQNXys) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Winter Windows](https://open.spotify.com/album/0egBQLEpUTo6LFKwRifkzK) | 3:13 | 2023-01-06 |  |
 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 | 2023-01-07 |
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 |  |
 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 | 2022-10-10 |  |
@@ -137,7 +138,7 @@
 | [Severed Seas](https://open.spotify.com/track/0JCS05r42jjYLPrUm9dl2g) | [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Severed Seas](https://open.spotify.com/album/6IRHUBpwNwCOpIBC25kYUO) | 8:08 | 2022-03-17 | 2023-01-07 |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 | 2022-09-13 |
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-12-21 |
-| [Slow Flight](https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Slow Flight](https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8) | 2:11 | 2022-11-11 |  |
+| [Slow Flight](https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Slow Flight](https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8) | 2:11 | 2022-11-11 | 2023-01-11 |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 |  |
 | [Solar](https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Orchestral Tape Studies](https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP) | 6:07 | 2022-08-19 |  |
 | [Space 5](https://open.spotify.com/track/3hj4aPlRreailkV20LbAYK) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:00 | 2022-03-17 | 2022-09-13 |

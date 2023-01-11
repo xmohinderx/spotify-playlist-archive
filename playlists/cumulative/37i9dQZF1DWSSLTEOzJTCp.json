@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 222426,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
@@ -1100,6 +1100,28 @@
       "duration_ms": 116129,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI"
+    },
+    {
+      "album": {
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSSLTEOzJTCp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,160 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,184 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 3 | [La Bamba](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
 | 4 | [Vibrante](https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Vibrante](https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc) | 3:16 |
 | 5 | [Montalbán](https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [Muniesa](https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK) | 2:06 |
-| 6 | [Tristeza](https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza on Guitar](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) | 3:22 |
-| 7 | [Between Tears](https://open.spotify.com/track/72EueUlnXQAzFJUB77EABa) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Sol Luna Tierra](https://open.spotify.com/album/3FIOfekQqrHL0foZlusbCv) | 5:20 |
+| 6 | [Between Tears](https://open.spotify.com/track/72EueUlnXQAzFJUB77EABa) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Sol Luna Tierra](https://open.spotify.com/album/3FIOfekQqrHL0foZlusbCv) | 5:20 |
+| 7 | [Tristeza](https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza on Guitar](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) | 3:22 |
 | 8 | [Blue Bossa](https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 2:40 |
 | 9 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 |
 | 10 | [Cerezo Rosa](https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Cerezo Rosa](https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj) | 3:04 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 21 | [Canta la Guitarra](https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o) | [Pepe Habichuela](https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR) | [Habichuela en Rama](https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB) | 3:50 |
 | 22 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 |
 | 23 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 |
-| 24 | [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 |
+| 24 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 |
 | 25 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
-| 26 | [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 |
+| 26 | [Adelita](https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 1:48 |
 | 27 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
 | 28 | [Morente Habichuela \- Alegrías](https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs) | [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW), [Bandolero](https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN) | [De Cerca](https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A) | 6:43 |
 | 29 | [Train to Rishikesh](https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Luminosity](https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a) | 5:32 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 44 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 |
 | 45 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
 | 46 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 |
-| 47 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
+| 47 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 |
 | 48 | [Ibiza Sunset](https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Ibiza Sunset](https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8) | 2:48 |
 | 49 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
-| 50 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 |
+| 50 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
 | 51 | [Me Estas Haciendo Falta](https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:32 |
 | 52 | [Repiqueteos Flamencos \(Zapateado\)](https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH) | [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Fabulous Flamenco!/La Gitarra Flamenca](https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK) | 3:25 |
 | 53 | [Tiempos Pasados](https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 2:14 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 72 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 | 73 | [Herencia de Valencia](https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Herencia de Valencia](https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN) | 3:18 |
 | 74 | [Tango](https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Romance](https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h) | 2:58 |
-| 75 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 |
+| 75 | [El Primero](https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [El Primero](https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV) | 2:24 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGFlNDUwNTFjZjc4YzBlYTdiZGJhNjc0M2JlZGY1MmNj`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDgxMmU3ZDM5ZTg3YjMwNjNiNjc0NmQ0MTE2ZTA0OTFj`

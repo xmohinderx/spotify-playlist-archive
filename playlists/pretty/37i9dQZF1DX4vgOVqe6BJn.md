@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,846 likes - 104 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,231 likes - 104 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 50 | [DISCO CLOSURE](https://open.spotify.com/track/2tWHLAOwWIalkFEUIYP2fU) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [DISCO CLOSURE](https://open.spotify.com/album/1SHQB1Xh5XJmUWkqpoM2Z3) | 3:23 |
 | 51 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 |
 | 52 | [READY4DEM](https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [READY4DEM](https://open.spotify.com/album/5vdRPZLNiSdQbZKAkmRiEE) | 4:22 |
-| 53 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
-| 54 | [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 |
+| 53 | [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 |
+| 54 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
 | 55 | [Daydreaming](https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Daydreaming](https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ) | 3:27 |
 | 56 | [All I Want](https://open.spotify.com/track/47cmM6ptQ3dH7iQlcWg9ac) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 4:00 |
 | 57 | [Smthng](https://open.spotify.com/track/6MOO3hJJFrNV9ST0hmKX8X) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 4:19 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 61 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 |
 | 62 | [Can't Sleep](https://open.spotify.com/track/3tAnmq1vtA2GTYV6xw0BW2) | [VENICE](https://open.spotify.com/artist/61CQzFXZaNgVL2fgXOY5kn) | [Can't Sleep](https://open.spotify.com/album/208ZG5kyKNAb7CzIdlF0UC) | 3:45 |
 | 63 | [Tenía Razón](https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tenía Razón](https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9) | 2:53 |
-| 64 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
-| 65 | [Bricks in the Wall](https://open.spotify.com/track/3pWb38JvPPqIvIZYewEaDn) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Bricks in the Wall](https://open.spotify.com/album/3VfeTjPyKjBr1s4gyeu0w4) | 3:27 |
+| 64 | [Bricks in the Wall](https://open.spotify.com/track/3pWb38JvPPqIvIZYewEaDn) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Bricks in the Wall](https://open.spotify.com/album/3VfeTjPyKjBr1s4gyeu0w4) | 3:27 |
+| 65 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
 | 66 | [Drive](https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Drive](https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5) | 3:28 |
 | 67 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 |
 | 68 | [Season](https://open.spotify.com/track/6nM0Mxdc0VUTzqbBY0wk4H) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Full Court Press](https://open.spotify.com/album/4MLxuO3jk1GYUfJIMYMZCS) | 3:07 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 70 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
 | 71 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
 | 72 | [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 |
-| 73 | [Dreamer](https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Dreamer](https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE) | 2:52 |
-| 74 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
+| 73 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
+| 74 | [Dreamer](https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Dreamer](https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE) | 2:52 |
 | 75 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
 | 76 | [Payback \(feat\. Knucks\)](https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Payback \(feat\. Knucks\)](https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA) | 2:44 |
 | 77 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
 | 104 | [Give Thanks](https://open.spotify.com/track/1Et6hUJwEgMp4ibm9Bml23) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu) | [Give Thanks](https://open.spotify.com/album/6Lmkj9HXcuAXpP2hSCVAYC) | 2:44 |
 
-Snapshot ID: `MTY2NzgzODgyMiwwMDAwMDAwMGRlYWQ0OTM1MWI0MzIzM2IyOWM4NDM2YWYxZjU3Mzhh`
+Snapshot ID: `MTY2NzgzODgyMiwwMDAwMDAwMGNlZWQzZDhlMTQ1YzRlZjVjNDY0OTU3ZDU5YWY2OWE0`

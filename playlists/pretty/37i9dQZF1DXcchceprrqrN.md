@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,832 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,962 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 32 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 |
 | 33 | [Control](https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Control](https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG) | 3:15 |
 | 34 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
-| 35 | [Biohazard](https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Two of Me](https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M) | 2:25 |
-| 36 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 |
+| 35 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 |
+| 36 | [Biohazard](https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Two of Me](https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M) | 2:25 |
 | 37 | [Dream Song](https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Sleepyhead](https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa) | 2:10 |
 | 38 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
 | 39 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [She Said](https://open.spotify.com/track/2azIROikp58zEAbcYYmLpH) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:53 |
 | 50 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 |
 
-Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMDNhMTUyMmU4YzRjNjAzMmM3ZTAyZmFkZGY1YzU3NzA5`
+Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMDZhZGNlZWRjODAyMzE3NDIxZGM5YjQ4M2E2YzcyMzJk`

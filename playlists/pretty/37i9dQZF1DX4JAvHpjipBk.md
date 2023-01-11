@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Skrillex, NewJeans, Popcaan & Drake, Ice Spice, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,031,556 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,031,878 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 28 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 |
 | 29 | [Radio](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio](https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9) | 3:15 |
 | 30 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 |
-| 31 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Blowsom & Friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
+| 31 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
 | 32 | [Anyway](https://open.spotify.com/track/3Wh6ZKRCB3ncRXbC14w42c) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 3:31 |
 | 33 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 |
 | 34 | [Me For Me](https://open.spotify.com/track/2hA8TVIYUUNasI0lOMTy24) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Me For Me](https://open.spotify.com/album/51uOglEqOMOUyg2eVcJfgA) | 2:54 |

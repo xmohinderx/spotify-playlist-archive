@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del Rock en Español\. Cover: Wiplash
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,379 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,401 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 16 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 |
 | 17 | [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 |
 | 18 | [La Petite Mort](https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Petite Mort](https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd) | 4:51 |
-| 19 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 |
-| 20 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
-| 21 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
+| 19 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
+| 20 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
+| 21 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 |
 | 22 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 |
 | 23 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 |
 | 24 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 43 | [La Niña Escopeta](https://open.spotify.com/track/0BPUqjCuMStKN4cTpXmpfB) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [La Niña Escopeta](https://open.spotify.com/album/32amwzZttOClt5ce6T6rLs) | 3:27 |
 | 44 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 |
 | 45 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
-| 46 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
+| 46 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 |
 | 47 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 |
-| 48 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 |
+| 48 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
 | 49 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
 | 50 | [¿Qué Pedo Contigo?](https://open.spotify.com/track/7thvuaGGKMjUBNz3mnVjPX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Sobredosis RPDF](https://open.spotify.com/album/25dd3steypAu7tmyAydIbl) | 3:06 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGUwNDc0MzNhOGJmMjQ3MjI5N2E2YjNmZDcyNWY2M2Rm`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDcyZDkwYmJiNzY2NTVmMWM1MDQ4YzZhZTI1NjE0ZGRh`

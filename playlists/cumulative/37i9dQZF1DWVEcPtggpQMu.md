@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=tzNMePiLT2KYspD7sMAzeQ">K.O</a>
 
-432 songs - 23 hr 18 min
+434 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,14 @@
 | [818 Headband](https://open.spotify.com/track/10hU6ly63aZzgu13YwoIUb) | [Skys a Blu](https://open.spotify.com/artist/3xMYjNtDQl2dviQ5g6EuRc) | [818 Headband](https://open.spotify.com/album/6KOtgLAM8DwFPyLCeNMRK8) | 3:14 | 2022-04-30 | 2022-05-20 |
 | [942 \(Chamomile Session\)](https://open.spotify.com/track/60p9e97nf4eIyWG0gRVaOe) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [942 \(Chamomile Session\)](https://open.spotify.com/album/7DmXtB3tz7CMhEUaYlYwN5) | 3:01 | 2022-02-10 | 2022-07-09 |
 | [\_Excu$e\_You\_](https://open.spotify.com/track/5jbnx87DQsoFdS3BCGq2xV) | [Aprilthetwentyfifth](https://open.spotify.com/artist/1Z9SKeSMAN2Eqj0Ngdkfqp) | [\_Excu$e\_You\_](https://open.spotify.com/album/3GwOoEI08PcmkNoYyS0wzX) | 4:20 | 2022-09-15 | 2022-10-22 |
+| [Actions Over Captions](https://open.spotify.com/track/5rXVsZUlbRjMTkC3U14DHR) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [S.O.O.N 2 \(A Better Year\) \[Deluxe Edition\]](https://open.spotify.com/album/6Xp9Tw8YX3689PRvd23Rl6) | 3:48 | 2023-01-10 |  |
 | [Aligned Starz](https://open.spotify.com/track/3UfQIUoGvHWxWLgKpT9tqQ) | [HYPE1108](https://open.spotify.com/artist/5immINU629aU0BHwmiRnnV), [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz) | [Aligned Starz](https://open.spotify.com/album/4anUeeUSDHVnvTsXs4vUqQ) | 3:57 | 2022-07-08 | 2022-07-15 |
 | [All Day](https://open.spotify.com/track/2svROdMoio7v4sGPvupT4h) | [Thugod](https://open.spotify.com/artist/5ezovtTqqvJNfzgnNOxBi4) | [ALL Day](https://open.spotify.com/album/0pY3BX5ie09tziAYB1JUfu) | 3:57 | 2022-10-14 | 2022-12-13 |
 | [All of Me](https://open.spotify.com/track/5PoaEHuw9hmJ0lmL0bhWZE) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu), [Jordan Baker](https://open.spotify.com/artist/6zLFl5QcMyd9wp2LKPdXFH) | [Lucid Theory](https://open.spotify.com/album/4Bdv20xzcXcysNvQvdrr0C) | 3:24 | 2021-12-02 | 2022-02-11 |
 | [ALL OF ME](https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [ALL OF ME](https://open.spotify.com/album/4PLaaaFomjdQdRPPmBv8V5) | 3:28 | 2022-04-14 | 2022-07-09 |
 | [Alone PT2](https://open.spotify.com/track/3mfAD75ksT5w3X2H3AwXfn) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Alone PT2](https://open.spotify.com/album/4AZjIEFqYvRlNj2NnRgOD9) | 1:03 | 2022-08-18 | 2022-09-10 |
 | [ALONE X](https://open.spotify.com/track/5JxDpO4ySgzeHVkNSKkNQ4) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Crowned Yung](https://open.spotify.com/artist/0ev4QPgGwvdAwC5RVMqpAM) | [ALONE X](https://open.spotify.com/album/7vJRb0nPNaROUoxpKarT0l) | 2:18 | 2022-03-10 | 2022-03-18 |
+| [Amadlozi](https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER) | [Amadlozi](https://open.spotify.com/album/1wHEl0itEyhRHNDdIh0UCN) | 2:48 | 2023-01-10 |  |
 | [Amaswidi](https://open.spotify.com/track/23YQAIspCVMFNWk1BPdjNV) | [Jub Jub](https://open.spotify.com/artist/2ycgSd51jzPuxgCXb3e0mS), [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Amaswidi](https://open.spotify.com/album/6wVNPyb3h6HLHbAAddhOoE) | 4:37 | 2022-04-30 | 2022-05-06 |
 | [Amazing](https://open.spotify.com/track/0eJKXkQtDwSZhYfu6PJ26c) | [The Colour](https://open.spotify.com/artist/3aiVKySP3HER8Ur0In4vfY) | [Amazing](https://open.spotify.com/album/4f9sqQoSN2Ufz80htIlc7k) | 4:14 | 2022-03-24 | 2022-04-23 |
 | [And'tholakali](https://open.spotify.com/track/0tpCaH0XHaoJVF4sEBHP0d) | [Indigo Stella](https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Dee Koala](https://open.spotify.com/artist/4NAGLjIxcdOd0f3t2wzXVg) | [From The Jungle To The Stars](https://open.spotify.com/album/5l88vn4xo0fbOliLRlzWFK) | 4:26 | 2021-11-04 | 2022-04-15 |

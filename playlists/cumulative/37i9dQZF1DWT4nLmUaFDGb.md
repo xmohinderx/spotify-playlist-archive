@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-201 songs - 12 hr 54 min
+202 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Hard Rain's A\-Gonna Fall \(feat\. Branford Marsalis & Jeff "Tain" Watts\)](https://open.spotify.com/track/1HgMfDaOxx0XkE4ISrC938) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH), [Jeff "Tain" Watts](https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h) | [The Questions](https://open.spotify.com/album/0l7g086iNadTHpH0Z7X5nu) | 8:05 | 2021-12-21 | 2022-10-08 |
 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 | 2021-12-21 |  |
 | [A Man and a Woman](https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [My Wonderland](https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A) | 4:15 | 2022-08-19 |  |
+| [A Place I Don’t Know](https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI) | 2:32 | 2023-01-10 |  |
 | [A Whiter Shade of Pale](https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [They Oughta Write a Song](https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i) | 4:43 | 2022-09-08 |  |
 | [Ain't Misbehavin'](https://open.spotify.com/track/12nF9kcd6ixm3RLGZD5kqk) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Peter Cincotti](https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT) | 3:43 | 2021-12-21 | 2022-10-08 |
 | [Ain't No Sunshine](https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [The Gospel Truth \(Bonus Track Version\)](https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt) | 3:45 | 2022-08-19 |  |
@@ -188,7 +189,7 @@
 | [To Live](https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Pick Me Up Off The Floor](https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW) | 4:28 | 2021-12-21 | 2022-10-08 |
 | [To Love You All Over Again](https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Bare Bones](https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha) | 3:57 | 2021-12-21 |  |
 | [Too Young To Go Steady](https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 5:41 | 2021-12-21 | 2022-10-08 |
-| [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-12-01 |  |
+| [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-12-01 | 2023-01-11 |
 | [Twentysomething](https://open.spotify.com/track/5WRac8CFT4G9xIFG8bMNfP) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:40 | 2021-12-21 | 2022-09-07 |
 | [Un homme et une femme](https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Frenchy](https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o) | 3:00 | 2021-12-21 |  |
 | [Waiting In Vain](https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo) | 4:59 | 2022-11-22 |  |

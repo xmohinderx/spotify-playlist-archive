@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-443 songs - 1 day 5 hr 13 min
+446 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [My Generation](https://open.spotify.com/track/7MUZ9Co138juL29YOlWUHM) | [HAINO KEIJI & THE HARDY ROCKS](https://open.spotify.com/artist/1Jhy6KsTiZt5gzyeUBHWog), [Keiji Haino](https://open.spotify.com/artist/6BsNCY0qB2WLl5LlXqA79y), [THE HARDY ROCKS](https://open.spotify.com/artist/49tynFr7fbNdIuBPRM8daI) | [きみはぼくの めの「前」にいるのか すぐ「隣」にいるのか](https://open.spotify.com/album/5OoOnalfT1jTkq37pgE4Ti) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 |  |
 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 | 2022-05-12 | 2022-08-31 |
-| [Nagisa Hotel](https://open.spotify.com/track/4e8gNWPaGuAqXpvtgh4tTM) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:38 | 2022-11-22 |  |
+| [Nagisa Hotel](https://open.spotify.com/track/4e8gNWPaGuAqXpvtgh4tTM) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:38 | 2022-11-22 | 2023-01-11 |
 | [New Days](https://open.spotify.com/track/116vXvAIrrEepdpQNnnZwY) | [HEESEY](https://open.spotify.com/artist/2EoPlhCi2hnokI5Rq4LKgr) | [33](https://open.spotify.com/album/056cAMXloiXsGdJ0vTuVIh) | 2:11 | 2022-05-12 | 2022-05-16 |
 | [New Era](https://open.spotify.com/track/17licy4SPRL8Nnsp4cxQzQ) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [New Era](https://open.spotify.com/album/6gcNprfD6yEPhsQbOzBgEt) | 4:00 | 2022-05-12 | 2022-06-16 |
 | [Nihil Pip Viper](https://open.spotify.com/track/5qko3Om0sSANw6k1pe97GT) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Nihil Pip Viper](https://open.spotify.com/album/0ksgy0hgDdzlVey9LueA5v) | 4:03 | 2022-05-10 | 2022-07-24 |
@@ -242,6 +242,7 @@
 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 | 2022-12-31 |  |
 | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/track/30iV9AL1mSkP1j9vKe4li7) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/album/1BQkjRsbHYI1tlPWzuzlww) | 3:19 | 2022-06-14 | 2022-07-06 |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-05-10 | 2022-06-17 |
+| [The Spirit Lives On](https://open.spotify.com/track/1e2PUT1Pj1xlEx6nCdzdAY) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [The Spirit Lives On](https://open.spotify.com/album/2n0bm7pacxZqUMFf0vQ9K1) | 5:32 | 2023-01-10 |  |
 | [THE STORY ENDS \- Acoustic Version](https://open.spotify.com/track/64SqJROyPmTbkZ0FeebD3A) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [THE STORY ENDS \(Acoustic Version\)](https://open.spotify.com/album/1i8DHLjO64k5b7JbYHHk1O) | 4:53 | 2022-05-17 | 2022-06-17 |
 | [TiDE](https://open.spotify.com/track/5HyOjtlcIBiCbKGYwudVqS) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [TiDE](https://open.spotify.com/album/3yRt3XQ3ZE3VidghduYIuI) | 4:46 | 2022-05-12 | 2022-07-23 |
 | [Tiny World](https://open.spotify.com/track/6HO985R66EUQniAD1x9XLw) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Tiny World](https://open.spotify.com/album/1FiKy2LLk2fQTecXtXS1nK) | 4:12 | 2022-05-10 | 2022-07-19 |
@@ -249,7 +250,7 @@
 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 | 2022-11-08 | 2022-11-16 |
 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2022-12-08 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
-| [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 | 2022-08-02 |  |
+| [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 | 2022-08-02 | 2023-01-11 |
 | [Tsuubee Koobee](https://open.spotify.com/track/7IYn5ahor1DF8VGGiags5N) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [Tsuubee Koobee](https://open.spotify.com/album/060jpYuWAErb2W5tBmtn0I) | 3:31 | 2022-10-18 | 2022-11-09 |
 | [Typhoon](https://open.spotify.com/track/310g5w5TN0oMQGpkhjeclF) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Double Circle I](https://open.spotify.com/album/4slJzsQV3ULrJOvOxVEqhD) | 3:04 | 2022-09-13 | 2022-09-28 |
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-05-10 | 2022-11-18 |
@@ -286,6 +287,7 @@
 | [いっそ分裂](https://open.spotify.com/track/5gzVCsND9HT8HD7KjrT15G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [Unite / Divide](https://open.spotify.com/album/0nTYoNvUKtILpU8EdS73I3) | 4:42 | 2022-05-10 | 2022-07-21 |
 | [いつか何処かで\(I FEEL THE ECHO\)](https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 5:20 | 2022-11-22 | 2022-12-14 |
 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 | 2022-05-10 | 2022-05-18 |
+| [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-01-10 |  |
 | [お望み通り](https://open.spotify.com/track/4i2RvHbnACgAfvfQDRastj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [お望み通り](https://open.spotify.com/album/0ZoZomnWvls8NN42lGNSpg) | 3:33 | 2022-11-29 | 2022-12-01 |
 | [お茶](https://open.spotify.com/track/3jpE1IiRxKi25R05n0YIZo) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 4:18 | 2022-05-24 | 2022-06-01 |
 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 | 2022-06-14 | 2022-06-22 |
@@ -434,9 +436,10 @@
 | [秘密 \- band arrange](https://open.spotify.com/track/4doFF3dxn4Xrw3pSOQpD2i) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [秘密 \(band arrange\) / boys & girls \(band arrange\)](https://open.spotify.com/album/2AhF44xKGvyMj7ap14lDfF) | 4:52 | 2022-10-29 | 2022-11-02 |
 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 | 2022-05-10 | 2022-12-21 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-12-01 |  |
-| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 |  |
+| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 | 2023-01-11 |
 | [群青](https://open.spotify.com/track/06x5F8O4ZqSTgdo9EqiE3T) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [七色とかげ](https://open.spotify.com/album/38PMNzLOxdREwrxOS87crH) | 3:34 | 2022-05-10 | 2022-05-24 |
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 | 2022-09-13 |
+| [落下ドライブ](https://open.spotify.com/track/5VNBQNzwh1hTgt4pIi1Owl) | [benzo](https://open.spotify.com/artist/3hfD8RIdPqEcmH9AwCqc34) | [落下ドライブ](https://open.spotify.com/album/6nkuezwaJgpg10I4ByyoJr) | 4:11 | 2023-01-10 |  |
 | [証](https://open.spotify.com/track/1Nm8xR8SIiphGCW1sn11Qr) | [ZIGGY](https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb) | [証](https://open.spotify.com/album/2JqFzGT35Ted5pM3PKP6Os) | 3:26 | 2022-05-12 | 2022-07-26 |
 | [証 \- A Spring Breath ver.](https://open.spotify.com/track/2NtwiDUuV1NlaS9oh7r1cN) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1r4OmtQDqbrWo5llPSIWue) | 5:32 | 2022-05-31 | 2022-07-23 |
 | [赤いタンバリン](https://open.spotify.com/track/4WGr7OwOGQJPuAHJEcH2sh) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [BiS DiVE into ROCKS](https://open.spotify.com/album/4qndLQ0EqS02sFkHPP5CRz) | 3:23 | 2022-05-19 | 2022-06-08 |

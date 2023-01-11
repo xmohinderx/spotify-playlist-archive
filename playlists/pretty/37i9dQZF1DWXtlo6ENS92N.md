@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,081 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,883 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

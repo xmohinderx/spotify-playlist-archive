@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-914 songs - 2 day 2 hr 9 min
+915 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Hype](https://open.spotify.com/track/3ONrCVkHj8jYuRKcVSQIxH) | [Sunstars](https://open.spotify.com/artist/37obY6KAyQrGu95SqzKJlu) | [Hype](https://open.spotify.com/album/2w0K0l81Z453HhiF66Z0yC) | 1:54 | 2020-09-21\* | 2021-01-05 |
 | [I Can Feel Alive \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3ms9tJvFtCRqWMagyOnUAt) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [I Can Feel Alive \(feat\. A R I Z O N A\)](https://open.spotify.com/album/6DgXfjoXr8mRfADx0XYIq7) | 2:47 | 2020-10-10 | 2021-03-26 |
 | [I Can't Get Enough \(feat\. EVALINA\)](https://open.spotify.com/track/6gzbfzM5v8UDfC6C2oxAKE) | [Alexis Knox](https://open.spotify.com/artist/1TP6LDLqLfdVRD0nIggkYS), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [I Can't Get Enough \(feat\. EVALINA\)](https://open.spotify.com/album/3JgNUzBxp1jaNXyImKsZfG) | 2:16 | 2021-02-06 | 2021-08-07 |
-| [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX) | 2:52 | 2022-12-16 |  |
+| [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [I Can’t Wait \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX) | 2:52 | 2022-12-16 | 2023-01-11 |
 | [I Don't Need You](https://open.spotify.com/track/3ik11I4X2Mr3QMUPg1W1xU) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX) | [I Don't Need You](https://open.spotify.com/album/55tpt8AsEizEVYtrxll4O6) | 2:49 | 2021-02-20 | 2021-08-07 |
 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 | 2021-02-27 | 2021-09-18 |
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2021-09-04 | 2022-03-12 |
@@ -411,6 +411,7 @@
 | [L.E.D\. There Be Light \- Cosmic Gate Remix](https://open.spotify.com/track/5A46DyoGOI7pSMIIZgelu4) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ), [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [20 Years \[Forward Ever Backward Never\]](https://open.spotify.com/album/6d4PJ6qE1Gv96huFCVQiEQ) | 3:30 | 2020-09-21\* | 2021-01-23 |
 | [La Danse](https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [La Danse](https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl) | 4:08 | 2022-12-16 |  |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-07-15 | 2023-01-06 |
+| [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-06 |  |
 | [Learn To Love Again](https://open.spotify.com/track/4548LyFomXQmDAINcFizEq) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Learn To Love Again](https://open.spotify.com/album/442Ed4spkcuDL5gSFPwAjY) | 3:44 | 2021-05-15 | 2021-09-18 |
 | [Leave A Little Love](https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/6XLHU3z6eInpudfIe5rq0r) | 3:07 | 2021-03-11 | 2022-03-12 |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2022-03-11 | 2022-05-21 |

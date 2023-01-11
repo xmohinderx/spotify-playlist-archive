@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,233 likes - 92 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,289 likes - 92 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 45 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 46 | [Peca de Bonita](https://open.spotify.com/track/07RH0vbLICqwO1GrXTWl6e) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Buscando el Olvido](https://open.spotify.com/album/4UFscI9bYCYgaPdDojIZkh) | 2:27 |
 | 47 | [La Llorona](https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Llorona](https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX) | 3:46 |
-| 48 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
-| 49 | [Quiero Un Amor](https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:13 |
+| 48 | [Quiero Un Amor](https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:13 |
+| 49 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
 | 50 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 |
 | 51 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
-| 52 | [Renunciación](https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:06 |
+| 52 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
 | 53 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
-| 54 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
+| 54 | [Renunciación](https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:06 |
 | 55 | [Fumo Y Bebo](https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Pablo Ocampo](https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK) | [Fumo Y Bebo](https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC) | 2:28 |
 | 56 | [Cuestión De Tiempo](https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:38 |
 | 57 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 91 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/32DXk0Fv6kWkQRo2DTGm0W) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:48 |
 | 92 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
 
-Snapshot ID: `MTY3MzAzMzk0NSwwMDAwMDAwMDFkOWFjMjAxYjJmNWQ3MDI2ZTEwMDY4YTIxMWMwOGRi`
+Snapshot ID: `MTY3MzAzMzk0NSwwMDAwMDAwMDAwMDdhMjA5NDJjMmQyMjQxMmJlZWIyNGUwZTY1OGVl`

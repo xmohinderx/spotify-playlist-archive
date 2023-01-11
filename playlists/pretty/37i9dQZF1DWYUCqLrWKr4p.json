@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 133821,
+  "num_followers": 133986,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMGEyNGIwZmE5NTk2N2ZjZGFhOWQ4MDI3Y2MzMmM5YjJk",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDkwYjY5NzEzOTg0ZGU5Mzk5MzAzMzc5MDk0NWMxZWUw",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 198453,
       "name": "Words",
       "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -595,6 +595,26 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 177773,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-05-30 13:02:24",

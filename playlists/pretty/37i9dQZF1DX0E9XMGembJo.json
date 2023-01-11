@@ -1,12 +1,12 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 888958,
+  "num_followers": 889958,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAxNjk5NSwwMDAwMDAwMDQ4MmMzYTM1NDhjN2MzNWQ1ZDgxNjgxZjQwOGFjM2I2",
+  "snapshot_id": "MTY3MzAxNjk5NSwwMDAwMDAwMDM2Yzc1OTQzYWQ2Y2RiMGFjMWVhM2U3ODU5NzUxZjli",
   "tracks": [
     {
       "added_at": "2023-01-06 14:56:35",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-01-06 14:56:35",
       "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
       "artists": [
         {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
         }
       ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
       "added_at": "2023-01-06 14:56:35",
@@ -939,22 +943,18 @@
     {
       "added_at": "2023-01-06 14:56:35",
       "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         }
       ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
       "added_at": "2023-01-06 14:56:35",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-01-06 14:56:35",
       "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+    },
+    {
+      "added_at": "2023-01-06 14:56:35",
+      "album": {
         "name": "Drunk",
         "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 207333,
       "name": "Young, Wild & Free (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734"
-    },
-    {
-      "added_at": "2023-01-06 14:56:35",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
     },
     {
       "added_at": "2023-01-06 14:56:35",

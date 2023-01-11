@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-600 songs - 1 day 15 hr 39 min
+603 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 | 2022-06-03 | 2022-07-20 |
 | [Dive Back In Time](https://open.spotify.com/track/4ik2ylkYi7xBgx6C1suLTM) | [bicaso](https://open.spotify.com/artist/4DPo2oq4P35PLqBIjKUg50), [Gen Kakon](https://open.spotify.com/artist/3TX8QjkcSiYi5dvvCSeVLQ) | [Dive Back In Time](https://open.spotify.com/album/3PYK68Kz3gaJfnlgpjNjpl) | 2:49 | 2022-06-03 | 2022-10-19 |
 | [DiViNE](https://open.spotify.com/track/6gjkal8BbkbHQst6XUvNsr) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [DiViNE](https://open.spotify.com/album/1JUj1PESaeSlFYf788rqrY) | 4:01 | 2022-06-03 | 2022-07-28 |
+| [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2023-01-10 |  |
 | [Dream on](https://open.spotify.com/track/23ILMGaQXEuSQkflOcEJTz) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Dream on](https://open.spotify.com/album/0mx3nD8XrDnRUhsfuaLPQj) | 4:06 | 2022-06-14 | 2022-07-11 |
 | [DREAMIN' ON](https://open.spotify.com/track/0tR0irjItyolEmKVLqyRc4) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [DREAMIN' ON](https://open.spotify.com/album/0DItVuyfjPSUKiVVqQtclp) | 3:55 | 2022-06-03 | 2022-07-29 |
 | [DREAMIN' ON](https://open.spotify.com/track/1rxh0iojvTB24C6BpOdfC1) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 3:55 | 2022-07-28 | 2022-10-19 |
@@ -212,7 +213,7 @@
 | [OMEGA](https://open.spotify.com/track/66VHaRkx1GDrdysuRthE6K) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [OMEGA](https://open.spotify.com/album/1QGHGOQWi6u0i6S31hA6KF) | 3:40 | 2022-06-03 | 2022-07-29 |
 | [ON MY OWN](https://open.spotify.com/track/1N2ZxgdhhwXEW6uUHL2jG8) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [ON MY OWN](https://open.spotify.com/album/5Mx8ikSuELBVO4ln9Yy7ly) | 3:39 | 2022-06-24 | 2022-06-29 |
 | [One Day](https://open.spotify.com/track/4VKImVpGSJ60yBqjiKDPvZ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [One Day](https://open.spotify.com/album/06vhdKdFBVOac6Vm96FFoB) | 3:22 | 2022-06-24 | 2022-07-24 |
-| [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 | 2022-06-03 |  |
+| [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 | 2022-06-03 | 2023-01-11 |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-06-03 | 2022-07-21 |
 | [OveR](https://open.spotify.com/track/1HIyf8vbVjdKMAvz2iU3dU) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/5zl60jmeD0n8kmMnElcH3L) | 4:06 | 2022-07-07 | 2022-07-13 |
 | [Over me](https://open.spotify.com/track/33spKs0Nqew5HPoAtygAdT) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Over me](https://open.spotify.com/album/4C7DGkzUmrEtcA8xMo98sS) | 2:49 | 2022-06-14 | 2022-06-21 |
@@ -332,7 +333,7 @@
 | [You & Me](https://open.spotify.com/track/6j04uewYlGesO1udV72rv8) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [You & Me](https://open.spotify.com/album/7bFmphJq8vUgm4hWONZX85) | 3:23 | 2022-06-21 | 2022-07-12 |
 | [You're my perfect mirror](https://open.spotify.com/track/19292wQKsyLO6SrT1IGlWi) | [富金原佑菜](https://open.spotify.com/artist/75pZmt1oHpu1jO8so1wp6P) | [You're my perfect mirror](https://open.spotify.com/album/1whMo4kK8sjP2qIjQX04jJ) | 5:05 | 2022-06-03 | 2022-07-07 |
 | [Your Name](https://open.spotify.com/track/3yU4bAIj873n4QI2otkPO8) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Your Name](https://open.spotify.com/album/2IPmik2ZoemnGk0V2VlWiI) | 3:37 | 2022-06-03 | 2022-07-26 |
-| [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-07-28 |  |
+| [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-07-28 | 2023-01-11 |
 | [あなたがくれたヒカリ](https://open.spotify.com/track/3NQD8vGjo6YSSzxSBz9uGg) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [あなたがくれたヒカリ](https://open.spotify.com/album/42OKISLKJmxfBmTlg1U9x0) | 4:33 | 2022-06-14 | 2022-07-22 |
 | [ありがとうはこっちの言葉](https://open.spotify.com/track/4eN3aVT6RhsL0ZLwjDbAak) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [ありがとうはこっちの言葉](https://open.spotify.com/album/7Md2XT2lxVfuLkYyhaxoFA) | 5:08 | 2022-07-05 | 2022-07-13 |
 | [ありふれたいつか](https://open.spotify.com/track/3jSTlGCb4uIaIwVQsqgsOk) | [Chima](https://open.spotify.com/artist/4i1UhzFZ5BK4tDuShC4Uwk) | [nest](https://open.spotify.com/album/6nO3n0SO1IUra2Y68bCFHX) | 3:56 | 2022-06-03 | 2022-07-27 |
@@ -400,6 +401,7 @@
 | [シルエット](https://open.spotify.com/track/0E72B3egvyX7Ic89O1wf1y) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/2ld49L4qqH8G1vlfisypTi) | 4:01 | 2022-06-14 | 2022-07-29 |
 | [シンデレラ](https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [シンデレラ](https://open.spotify.com/album/1OqBXmqvKxd0nlL5v9sA7u) | 3:32 | 2022-06-03 | 2022-11-13 |
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-03 | 2022-07-29 |
+| [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2023-01-10 |  |
 | [スターマーカー](https://open.spotify.com/track/03kbdEIMJIDa4Doyn7NVad) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3iPCGF4IUljsL9xcFdcdfc) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [ストロボメモリー](https://open.spotify.com/track/7IKfNFNkK1tEovTOaoWrud) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ストロボメモリー](https://open.spotify.com/album/29IhFw9h3Neh4AUGMoIRcY) | 4:43 | 2022-06-24 | 2022-07-22 |
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-07-07 | 2022-07-15 |
@@ -419,6 +421,7 @@
 | [ハヅキ](https://open.spotify.com/track/1pxUsWOISNeXFbZirtyj4y) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [ハヅキ](https://open.spotify.com/album/3q5CHu3HNlOD3hp4HNbhZW) | 4:39 | 2022-06-24 | 2022-07-18 |
 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 | 2022-07-28 | 2022-08-22 |
 | [ハミングバード](https://open.spotify.com/track/4UWgxwXFgwe4g7Y9dzWgN8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ハミングバード](https://open.spotify.com/album/76j7gSpUXk4QNPJvJwoh5l) | 4:18 | 2022-06-03 | 2022-07-20 |
+| [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2023-01-10 |  |
 | [ヒカレイノチ](https://open.spotify.com/track/4uVvqoI2sWncxvqgwRZ1H9) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/60Gf0UmTTxeSSiNH0My9sq) | 5:22 | 2022-06-03 | 2022-07-25 |
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-07-07 | 2022-07-14 |
 | [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-17 | 2022-09-29 |
@@ -590,7 +593,7 @@
 | [透明な世界](https://open.spotify.com/track/6MjG6j8Iuea6XL9cp1aUec) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [透明な世界](https://open.spotify.com/album/5UIoqGhZcqn5XFa1CwWx7I) | 4:03 | 2022-06-03 | 2022-07-27 |
 | [道楽心情](https://open.spotify.com/track/5sFRbi81LzEk9ENVUVs81h) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 3:49 | 2022-06-24 | 2022-06-27 |
 | [遠くの子守の唄](https://open.spotify.com/track/2eFOMxj2YfzxZP6u9OTsUm) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [遠くの子守の唄](https://open.spotify.com/album/0lwYinVPds2FbU7imqlB55) | 4:17 | 2022-06-21 | 2022-07-26 |
-| [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 | 2022-07-28 |  |
+| [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 | 2022-07-28 | 2023-01-11 |
 | [醜い生き物](https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [醜い生き物](https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD) | 3:40 | 2022-06-03 | 2022-07-25 |
 | [銀世界](https://open.spotify.com/track/2a2XhwZe8tBtQEByDmHP5E) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [銀世界](https://open.spotify.com/album/7hjwZJg2NWqzKf62ArXvlS) | 3:43 | 2022-06-03 | 2022-07-29 |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2022-12-04 |  |

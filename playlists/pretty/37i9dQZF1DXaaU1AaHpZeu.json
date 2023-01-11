@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Alice Wonder.",
-  "num_followers": 289383,
+  "num_followers": 289417,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Si no es contigo (feat. Rafa Val)",
+        "name": "Si no es contigo (feat. Rafa Val, Viva Suecia)",
         "url": "https://open.spotify.com/album/0qE1KDzIhHwsTho0bZZ0SA"
       },
       "artists": [
@@ -36,16 +36,16 @@
           "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
         },
         {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        },
-        {
           "name": "Rafa Val",
           "url": "https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F"
+        },
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
         }
       ],
       "duration_ms": 199526,
-      "name": "Si no es contigo (feat. Rafa Val)",
+      "name": "Si no es contigo (feat. Rafa Val, Viva Suecia)",
       "url": "https://open.spotify.com/track/2daEY7bqARD03KqUxRNdRn"
     },
     {

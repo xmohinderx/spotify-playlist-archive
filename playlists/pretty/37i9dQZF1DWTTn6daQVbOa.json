@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 401099,
+  "num_followers": 401658,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDY0ZDYxOWI3MTg4MDRlZjY3OTE3NTZkYmNmMTJlOTBm",
+  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDJjMjA1NWM0MDcxZmQ2MjM3ZGI0OTM5MDlhZjBkMWZl",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "I Have A Dream",
-      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "I Have A Dream",
+      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 181893,
       "name": "On And On",
       "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "David Soul",
         "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 218946,
       "name": "Don't give up on us",
       "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Hair Of The Dog",
         "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 233133,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "The Name Of The Game",
-      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -2187,18 +2171,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
       "artists": [
         {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 256173,
-      "name": "Dream Weaver",
-      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
+      "duration_ms": 291866,
+      "name": "The Name Of The Game",
+      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2215,6 +2199,22 @@
       "duration_ms": 253213,
       "name": "Sad Eyes - Remastered 2002",
       "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2285,6 +2285,22 @@
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
     },
     {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
       "added_at": "2022-10-03 06:40:05",
       "album": {
         "name": "Do You Wanna Go Party",
@@ -2303,34 +2319,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+      "duration_ms": 197626,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2351,18 +2351,34 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
         }
       ],
-      "duration_ms": 197626,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2387,22 +2403,6 @@
       "duration_ms": 153066,
       "name": "She - Tous les visages de l\u2019amour",
       "url": "https://open.spotify.com/track/2OxkfL5jW8bvYTCNDLlRSY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "All The Great Love Songs",
-        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Three Times A Lady",
-      "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
     },
     {
       "added_at": "2022-09-23 05:26:33",

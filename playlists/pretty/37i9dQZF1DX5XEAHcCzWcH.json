@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 19588,
+  "num_followers": 19628,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDMyYjgwMmRhYmIwMmZhMGQyNTNmMWU1YzI0Yzc3NGQ1",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGY4MTdkNGU1MGNjY2UwOWRiNzc4ZDAzYmFlNDNkYWU1",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 310040,
       "name": "Junco Partner",
       "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
     },
     {
       "added_at": "2022-05-13 10:49:08",

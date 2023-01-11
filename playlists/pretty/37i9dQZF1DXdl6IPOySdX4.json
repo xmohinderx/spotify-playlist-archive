@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1043730,
+  "num_followers": 1047413,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDZkZmRiZTI2MWM2ZDI1MmU3M2EyMDBiNDUzNGFjMjY2",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDc1NjA0MGI2Y2RlMjBkMzQyZjA0ZDc2NjY2MDBlZGMy",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 91869,
-      "name": "Formula",
-      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 91869,
+      "name": "Formula",
+      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 153000,
       "name": "You Get Me So High",
       "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Renegade",
         "url": "https://open.spotify.com/album/0ml5u2WtFvgvpPqCTyCZ9d"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "oui",
-      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Heartburn",
-        "url": "https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Heartburn",
-      "url": "https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Dreams 2 Reality",
         "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 136000,
       "name": "WFM",
       "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Heartburn",
+        "url": "https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Heartburn",
+      "url": "https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe"
     },
     {
       "added_at": "2023-01-06 05:00:00",

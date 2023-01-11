@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,774 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,783 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 43 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 |
 | 44 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
 | 45 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
-| 46 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 |
+| 46 | [Count Me In](https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:09 |
 | 47 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 |
 | 48 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
 | 49 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 53 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
 | 54 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
 | 55 | [Where's The Love](https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Trevor Hall](https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn) | 3:59 |
-| 56 | [Count Me In](https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:09 |
+| 56 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 |
 | 57 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
 | 58 | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ) | 3:14 |
 | 59 | [Paradise](https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Paradise](https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s) | 4:10 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 87 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
 | 88 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 |
 | 89 | [Lemonade](https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade](https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr) | 2:51 |
-| 90 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/7HqvttVInqkHNPlR4Nj4M9) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Showdown \(with Collie Buddz\)](https://open.spotify.com/album/3dDZbo4w9CxQ5OVwqJrXdO) | 4:25 |
-| 91 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 |
+| 90 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 |
+| 91 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/7HqvttVInqkHNPlR4Nj4M9) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Showdown \(with Collie Buddz\)](https://open.spotify.com/album/3dDZbo4w9CxQ5OVwqJrXdO) | 4:25 |
 | 92 | [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 |
 | 93 | [Island Time](https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Island Time](https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh) | 4:18 |
 | 94 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 |
 | 100 | [Jump](https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 5:04 |
 
-Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMGJkZjEzMmYxOTVmNjhhOGUyNjQzYjU1ODM2ZmM4NGVm`
+Snapshot ID: `MTY2ODcxNTAxOSwwMDAwMDAwMDlkOWI1ZTQyZTg0NjEwZTA1MzU2NDVmNDAyZDk4YjIw`

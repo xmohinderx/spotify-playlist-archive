@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a dar una vuelta en ruedas al ritmo de la m\u00fasica! ",
-  "num_followers": 15034,
+  "num_followers": 15046,
   "original_name": "Rollerskater",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjU0OTIzMCwwMDAwMDAwMGU1YmY3OGFlNzk5OTdiNjMyYjE1Y2NiOTcxODY4ZWNk",
+  "snapshot_id": "MTYxNjU0OTIzMCwwMDAwMDAwMDU3YTliMTMxMjg1YWI2NDI1Y2ZjNjAwM2EyOGE4ZmYw",
   "tracks": [
     {
       "added_at": "2021-03-24 01:27:10",
@@ -383,26 +383,6 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Boogie Wonderland",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Boogie Wonderland",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
       "added_at": "2021-03-24 01:27:10",

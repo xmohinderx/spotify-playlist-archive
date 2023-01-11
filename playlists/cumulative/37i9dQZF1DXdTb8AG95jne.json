@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "SR : BLACK",
+        "url": "https://open.spotify.com/album/4iS6oODcmwfUvT7StkFwKB"
+      },
+      "artists": [
+        {
+          "name": "Siera",
+          "url": "https://open.spotify.com/artist/1YiIr2WxBXFVOy9oMq7kCS"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "#000000",
+      "url": "https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr"
+    },
+    {
+      "album": {
         "name": "#with_you",
         "url": "https://open.spotify.com/album/764n0TwmT7M4xW9BaOy1cZ"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 158226,
       "name": "Be Your Christmas (feat. BOL4)",
       "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
@@ -1759,6 +1777,32 @@
     },
     {
       "album": {
+        "name": "Dew",
+        "url": "https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo"
+      },
+      "artists": [
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        },
+        {
+          "name": "hevel",
+          "url": "https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js"
+        },
+        {
+          "name": "DASU",
+          "url": "https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200357,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y"
+    },
+    {
+      "album": {
         "name": "Dive into love",
         "url": "https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H"
       },
@@ -1792,7 +1836,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 196293,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
@@ -1918,7 +1962,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 187058,
       "name": "Don\u2019t go home",
       "url": "https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3"
@@ -2114,7 +2158,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 298307,
       "name": "Endless Dance",
       "url": "https://open.spotify.com/track/6ufG57VUdOTV9OBh7Uvs0v"
@@ -3170,7 +3214,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 204000,
       "name": "GRIPPIN\u2019THEGREEN",
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
@@ -3348,6 +3392,24 @@
       "duration_ms": 233416,
       "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
+    },
+    {
+      "album": {
+        "name": "Hide into Night",
+        "url": "https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV"
+      },
+      "artists": [
+        {
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Hide into Night",
+      "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
     },
     {
       "album": {
@@ -4770,7 +4832,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
@@ -5764,7 +5826,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
@@ -5844,6 +5906,24 @@
       "duration_ms": 199802,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/11rJRAomEEOWMz3rIicKRO"
+    },
+    {
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP"
+      },
+      "artists": [
+        {
+          "name": "PO.U.RYU",
+          "url": "https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222457,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz"
     },
     {
       "album": {
@@ -7837,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/3omf0gHwXSqEIIO6XXfi3z"
+      },
+      "artists": [
+        {
+          "name": "Gogang",
+          "url": "https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234351,
+      "name": "Stain",
+      "url": "https://open.spotify.com/track/2G1BW0nYmGv6NasnpVl2Hp"
+    },
+    {
+      "album": {
         "name": "Stairs",
         "url": "https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx"
       },
@@ -8742,6 +8840,24 @@
     {
       "album": {
         "name": "Underwater",
+        "url": "https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0"
+      },
+      "artists": [
+        {
+          "name": "coldnight",
+          "url": "https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9"
+    },
+    {
+      "album": {
+        "name": "Underwater",
         "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
       },
       "artists": [
@@ -9182,6 +9298,24 @@
       "duration_ms": 201576,
       "name": "where it hurts",
       "url": "https://open.spotify.com/track/15QOQ6K93vx2azVqcSfSeK"
+    },
+    {
+      "album": {
+        "name": "wintersleep",
+        "url": "https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180061,
+      "name": "white",
+      "url": "https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ"
     },
     {
       "album": {
@@ -9730,7 +9864,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 361426,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
@@ -9845,6 +9979,24 @@
     },
     {
       "album": {
+        "name": "\ub9c8\ub124\ud0a8 Mannequin",
+        "url": "https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv"
+      },
+      "artists": [
+        {
+          "name": "The ASIANIC",
+          "url": "https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "\ub9c8\ub124\ud0a8 Mannequin",
+      "url": "https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2"
+    },
+    {
+      "album": {
         "name": "\ubd04\ubc24 (Feat. \uc9c0\ud61c\ub9ac)",
         "url": "https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK"
       },
@@ -9864,6 +10016,24 @@
       "duration_ms": 222666,
       "name": "\ubd04\ubc24 (Feat. \uc9c0\ud61c\ub9ac)",
       "url": "https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ud574 \uc918",
+        "url": "https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D"
+      },
+      "artists": [
+        {
+          "name": "JUROKEY",
+          "url": "https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "\uc0ac\ub791\ud574 \uc918",
+      "url": "https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV"
     },
     {
       "album": {

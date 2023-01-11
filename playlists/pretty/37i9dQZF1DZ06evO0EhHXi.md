@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,375 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,465 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 18 | [Surfin' Bird \- 2017 Remaster](https://open.spotify.com/track/3GgYsEaTyCeTH3e5JyEyXf) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:37 |
 | 19 | [Commando \- 2017 Remaster](https://open.spotify.com/track/7bmHNcuflaGgUgEV4CuDCA) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:53 |
 | 20 | [Judy Is a Punk \- 2016 Remaster](https://open.spotify.com/track/0vGCxnTwYZFtOAW3oz28kd) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:32 |
-| 21 | [Durango 95 \- Live](https://open.spotify.com/track/2o8YxKjziubadspvVN20eS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ) | 0:46 |
-| 22 | [She's a Sensation \- 2002 Remaster](https://open.spotify.com/track/1BtZZWaQSLO24CFyi5Wttf) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 3:25 |
+| 21 | [She's a Sensation \- 2002 Remaster](https://open.spotify.com/track/1BtZZWaQSLO24CFyi5Wttf) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 3:25 |
+| 22 | [Durango 95 \- Live](https://open.spotify.com/track/2o8YxKjziubadspvVN20eS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ) | 0:46 |
 | 23 | [Cretin Hop \- 2017 Remaster](https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 1:55 |
 | 24 | [Havana Affair \- 2016 Remaster](https://open.spotify.com/track/2A0zKcpBgK7v9G2gsimPIY) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:57 |
 | 25 | [Strength to Endure](https://open.spotify.com/track/1iOqQucADvs4hFX6YpflHO) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:59 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 40 | [I'm Against It \- 2018 Remaster](https://open.spotify.com/track/0VPvLrFJby7clnTauyU8Ah) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:09 |
 | 41 | [Something to Believe In](https://open.spotify.com/track/7a6aGoKfpywaIIwSXmZkW1) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 4:07 |
 | 42 | [Now I Wanna Be a Good Boy \- 2017 Remaster](https://open.spotify.com/track/4pkBrSDnBrEU1vcyyVxiKH) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(2017 Remaster\)](https://open.spotify.com/album/1RBiytzhzGEKwqbovsjqPO) | 2:16 |
-| 43 | [It's Gonna Be Alright](https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 3:19 |
-| 44 | [The Crusher](https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:27 |
+| 43 | [The Crusher](https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:27 |
+| 44 | [It's Gonna Be Alright](https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 3:19 |
 | 45 | [Sitting in My Room \- 2002 Remaster](https://open.spotify.com/track/1blICmgnN2WxGjsdo0NQAa) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 2:31 |
 | 46 | [Questioningly \- 2018 Remaster](https://open.spotify.com/track/75NgAgzuJ40YmzULzvtUiz) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 3:22 |
 | 47 | [We're a Happy Family \- 2017 Remaster](https://open.spotify.com/track/0mdK3JX6alyYa5jMrgSiip) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [You Sound Like You're Sick \- 2002 Remaster](https://open.spotify.com/track/47tVRotmsKNeNqO7xU5og2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 2:41 |
 | 50 | [Go Mental \- 2018 Remaster](https://open.spotify.com/track/6HRoLDxi1mMJQmNMC98HCH) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:42 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAzNzUwM2JjMGI2N2JmNDcwZmJmNThmYTA3ZTRjZDJjMg==`
+Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDA5NjYyYjQ4NDNlY2NmZTUzZDFkNjUyMWUwMzUzYzA0ZQ==`

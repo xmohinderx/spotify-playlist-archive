@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Limi\-T 21
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,722 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,758 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 35 | [Buscando Tus Besos](https://open.spotify.com/track/5hCfmqE3kJrIIA4bacK7gx) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 3:55 |
 | 36 | [Pegadito Suavecito](https://open.spotify.com/track/7FFpxe3RMrRhG63dFtgRed) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [One Flag](https://open.spotify.com/album/6IDeGLzTfjld3DzSbgnSUt) | 3:46 |
 | 37 | [La Quiero a Morir](https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Hijos Del Rey](https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal) | 5:06 |
-| 38 | [Morena Ven](https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39) | 4:21 |
-| 39 | [Ay! Mujer](https://open.spotify.com/track/2kChamLTSM0Oxg4o9My5dH) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:08 |
+| 38 | [Ay! Mujer](https://open.spotify.com/track/2kChamLTSM0Oxg4o9My5dH) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:08 |
+| 39 | [Morena Ven](https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39) | 4:21 |
 | 40 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
 | 41 | [Mi Reina](https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [La Makina..\. A Mil](https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn) | 4:10 |
 | 42 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 85 | [La Faldita](https://open.spotify.com/track/5ghOXrXO9BF76gIkIXcrmT) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Merengue Party, Vol\. 2](https://open.spotify.com/album/2ZWW5nUJ4QfnpXNBi259wO) | 3:50 |
 | 86 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
 | 87 | [Una Fotografía](https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Jn Music Group 40 Años de Merengue Deluxe Edition, Vol\. 2](https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg) | 4:04 |
-| 88 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
-| 89 | [Eras Así](https://open.spotify.com/track/19yfOVNBk5X0xNW9sAfkoB) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:47 |
+| 88 | [Eras Así](https://open.spotify.com/track/19yfOVNBk5X0xNW9sAfkoB) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:47 |
+| 89 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
 | 90 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
 | 91 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 |
 | 92 | [No Vale la Pena Sufrir \- Pop Version](https://open.spotify.com/track/4f8zYSaFyVA3kd9Bdbk0kK) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [No Vale la Pena Sufrir \(Pop Version\)](https://open.spotify.com/album/6oCXgAq3JmEjDyz9XksiCW) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 |
 | 100 | [Ñangala Fuangala](https://open.spotify.com/track/2bkIe2K7qMJO7Ai5OVPdBI) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Ñangala Fuangala](https://open.spotify.com/album/0k2ttHsnz3o8Xjt9Fi44sU) | 3:48 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGMyNDEzZTBiMTQ3ZjkwMTcyYjI3ZDlmMDU3MGI0YmEx`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDZjNTU1MDVmNjVmYTEwYmQyY2U4Zjc0MGI4ZDg1MDJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,522,474 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,523,092 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 27 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
 | 28 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 29 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 |
-| 30 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 |
-| 31 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
+| 30 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
+| 31 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 |
 | 32 | [Norwegian Wood \(This Bird Has Flown\) \- Remastered 2009](https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:04 |
 | 33 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
 | 34 | [Layla \- Acoustic Live](https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Live\)](https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy) | 4:49 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 71 | [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 |
 | 72 | [If](https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 2:35 |
 | 73 | [Clay Pigeons](https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 4:27 |
-| 74 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
-| 75 | [Here Comes The Sun](https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Live At The Cellar Door and at the Santa Monica Civic Auditorium](https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2) | 4:14 |
+| 74 | [Here Comes The Sun](https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Live At The Cellar Door and at the Santa Monica Civic Auditorium](https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2) | 4:14 |
+| 75 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
 | 76 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 6:31 |
 | 77 | [Me & Magdalena](https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 3:33 |
 | 78 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 100 | [Let Him Fly](https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 3:11 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDIyYzYxZDNlODJjNTQ0ZTczZDQyZjhhZTZmZmE5OGNj`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDBmODZiYzMwZGM5YWE4YTZlZWQyYWMzMTk0NzEzNGVj`

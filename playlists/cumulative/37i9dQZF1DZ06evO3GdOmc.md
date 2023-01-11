@@ -4,7 +4,7 @@
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 30 min
+64 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Broken Together](https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 4:41 | 2022-09-14 |  |
 | [Courageous](https://open.spotify.com/track/28Bao9cmaIMsqxragOM8ba) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:59 | 2022-09-14 |  |
 | [Crazy People](https://open.spotify.com/track/2WCHNPQYkjeuoVzcuEBaFF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 2:28 | 2022-09-14 |  |
-| [Desert Road](https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:38 | 2022-09-14 |  |
+| [Desert Road](https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:38 | 2022-09-14 | 2023-01-11 |
+| [Desert Road](https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Desert Road](https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5) | 3:38 | 2023-01-10 |  |
 | [Does Anybody Hear Her](https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:28 | 2022-09-14 |  |
 | [East To West](https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Altar and The Door](https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL) | 4:26 | 2022-09-14 |  |
 | [Every Man](https://open.spotify.com/track/7gO6lB3vqU96BPwhvVCJG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Altar and The Door](https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL) | 4:46 | 2022-09-14 | 2022-10-13 |

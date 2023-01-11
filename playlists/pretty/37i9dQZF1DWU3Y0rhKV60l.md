@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 50 | [Summer Ocean Waves](https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:45 |
 | 51 | [Smooth Waves](https://open.spotify.com/track/1EoIIM5NUOuRUmT8nS6X7Q) | [The Noise Generator](https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj) | [Soft Green Noise](https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w) | 2:06 |
 | 52 | [Watching Heavy Ocean Waves](https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk) | [EarthMovies](https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe) | [Crashing Ocean Waves](https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB) | 2:40 |
-| 53 | [Relaxing Wave Sounds](https://open.spotify.com/track/7sdoVOZWSmSJGZMqKUUsu5) | [Ilmium](https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8) | [Sleep Sound Green Noise](https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb) | 2:00 |
+| 53 | [Gentle Waves](https://open.spotify.com/track/1Yq8mLKvdhdos3bkfNRBdC) | [Ilmium](https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8) | [Sleep Sound Green Noise](https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb) | 1:55 |
 | 54 | [Sleepy Rolling Depths \(Ocean\)](https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:31 |
 | 55 | [Sandy Gulf \(Ocean\)](https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:40 |
 | 56 | [Waves After Midnight](https://open.spotify.com/track/1Zj4Br0NYdvldwqS2vPXOJ) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 59 | [Heavy Ocean Waves](https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 1:59 |
 | 60 | [Thunderous Ocean \- Seamless](https://open.spotify.com/track/0IY1lXJOW9g5Lt0HiVBqiB) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Thunderous Ocean](https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX) | 2:54 |
 
-Snapshot ID: `MTY2OTIxNTMwNywwMDAwMDAwMGE5YjQ4NzczMDVhYWZlNjUyNWI0YTY5NTRhMmEwYWEz`
+Snapshot ID: `MTY2OTIxNTMwNywwMDAwMDAwMDEyZWU1NTU4YTI1NjRlYTY4NTFmNGE2NWZlMzczYjc1`

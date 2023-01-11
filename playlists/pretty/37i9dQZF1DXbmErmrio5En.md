@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: brakence
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,138 likes - 58 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,229 likes - 58 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 3 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 4 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 |
 | 5 | [offense mechanism](https://open.spotify.com/track/4Rgb4JMqW2WyTkseioLXi7) | [defsharp](https://open.spotify.com/artist/5fUV5J5Y5iGx9loIfKgRom) | [offense mechanism](https://open.spotify.com/album/3GVG5tPERhnalSNGlrxfyD) | 4:19 |
-| 6 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:31 |
+| 6 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:32 |
 | 7 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 |
 | 8 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 |
 | 9 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 |

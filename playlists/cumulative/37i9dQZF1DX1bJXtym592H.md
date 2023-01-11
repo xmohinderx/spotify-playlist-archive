@@ -2,7 +2,7 @@
 
 ### [Level Up Lofi](https://open.spotify.com/playlist/37i9dQZF1DX1bJXtym592H)
 
-> n3xt l3v3l beats.
+> n3xt l3v3l gaming beats.
 
 140 songs - 5 hr 50 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [50 Rounds](https://open.spotify.com/track/3hfGAbtOV4ans11A6c8wdi) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [For Real Tho](https://open.spotify.com/album/0DXvVv0k7XqxIfmYyEUTrm) | 3:04 | 2022-12-09 |  |
 | [50 Spokes](https://open.spotify.com/track/4ntUXTJulGoWLTvKmWGtee) | [Elenja](https://open.spotify.com/artist/3BdWZWn9zFZxBgamS91DJ8) | [Above And Under](https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa) | 2:00 | 2022-04-22 |  |
-| [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 | 2022-04-22 |  |
+| [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 | 2022-04-22 | 2023-01-11 |
 | [a higher power!](https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9) | [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [u need a light?](https://open.spotify.com/album/6LROFFR1pIhCt2DLcGzw8P) | 2:56 | 2022-12-23 |  |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-04-22 |  |
 | [Abba](https://open.spotify.com/track/3rrcWNb8zdObzj3W7Mz2Ws) | [Suz Tain](https://open.spotify.com/artist/5B57n0v18MD9SHsENLABP8) | [Abba](https://open.spotify.com/album/0kx4sIkgz3fSLtWmUXMLKX) | 2:10 | 2022-04-22 |  |
@@ -21,7 +21,7 @@
 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 | 2022-04-22 |  |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2022-04-22 |  |
 | [Animal Lounge](https://open.spotify.com/track/0NksmvvLWEDGbMBfl2Uyqi) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Marble Man](https://open.spotify.com/album/6NEtdVFyAVtH2IJJz1YGOa) | 2:51 | 2022-04-22 |  |
-| [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-22 |  |
+| [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-22 | 2023-01-11 |
 | [behind the hill](https://open.spotify.com/track/4ymiPIQcRZgppsh4ocLfps) | [kenshin kai](https://open.spotify.com/artist/62UDyIYUmhoCAVbC8huIyS) | [behind the hill](https://open.spotify.com/album/5xQO5k3msz12al8SmyxZQv) | 2:12 | 2022-04-22 |  |
 | [Blossoming](https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z) | [Virg0h](https://open.spotify.com/artist/2S0EDk8weYYWFGrmSOmyWd) | [Blossoming](https://open.spotify.com/album/6w0x2RyieeP3q7i3HX335x) | 2:09 | 2022-04-22 |  |
 | [Blunt](https://open.spotify.com/track/74azkm1oJ7QdoYz8UOa590) | [Dilly the Great](https://open.spotify.com/artist/4FWZ21Ecu54GTSmdWUutVG) | [Blunt](https://open.spotify.com/album/3zWxZYmlPTJfC1a35Qr4O4) | 3:08 | 2022-04-22 |  |
@@ -133,7 +133,7 @@
 | [The Pappas](https://open.spotify.com/track/0n7UVP6hEStbS96Uugnyzs) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 3:44 | 2022-04-22 |  |
 | [times two](https://open.spotify.com/track/7w3cLPdim2RnadPnIpvhMZ) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [times two](https://open.spotify.com/album/3wTbVXU1Rqe9f2YXzUVs2v) | 2:42 | 2022-04-22 |  |
 | [Trippy](https://open.spotify.com/track/5ptaiocEr3tO4jk4HGEm7E) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Trippy](https://open.spotify.com/album/7LDh5wRNAFQK8UkE61z0fn) | 2:54 | 2022-04-22 |  |
-| [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 | 2022-04-22 |  |
+| [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 | 2022-04-22 | 2023-01-11 |
 | [Twenty Ten](https://open.spotify.com/track/6GfH6Y1L94563PL4sQxmzk) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:31 | 2022-04-22 |  |
 | [Uhmbiguity](https://open.spotify.com/track/7LOeVEchwpe7YrHSh462GT) | [shrub.beats](https://open.spotify.com/artist/0dt71cdGRvCiEqq9tlpEXj) | [Uhmbiguity](https://open.spotify.com/album/0fBQnVnp16u9GimMs5ZHc9) | 1:54 | 2022-04-22 |  |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-04-22 |  |

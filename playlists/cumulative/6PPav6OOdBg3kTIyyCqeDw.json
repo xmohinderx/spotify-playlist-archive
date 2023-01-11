@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
+    },
+    {
+      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },

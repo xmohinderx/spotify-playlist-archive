@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,388 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,493 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 20 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 |
 | 21 | [Porcelain](https://open.spotify.com/track/2ngVZZGrIYAxyxaA2QcWTB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:32 |
 | 22 | [Days](https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz) | 5:20 |
-| 23 | [Our Past Lives](https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 3:45 |
-| 24 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 |
+| 23 | [Plum](https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:24 |
+| 24 | [Our Past Lives](https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 3:45 |
 | 25 | [Tenderness](https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 4:01 |
 | 26 | [Lean Into Life](https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 5:27 |
 | 27 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 60 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 |
 | 61 | [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 |
 | 62 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 |
-| 63 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
-| 64 | [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 |
+| 63 | [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 |
+| 64 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
 | 65 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
-| 66 | [Élan Vital \(feat\. 久保田リョウヘイ\)](https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [Ryohei Kubota](https://open.spotify.com/artist/0sL6JedafeDm1h0jxhwaPx) | [loom](https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz) | 3:24 |
-| 67 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
+| 66 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
+| 67 | [Élan Vital \(feat\. 久保田リョウヘイ\)](https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [Ryohei Kubota](https://open.spotify.com/artist/0sL6JedafeDm1h0jxhwaPx) | [loom](https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz) | 3:24 |
 | 68 | [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 |
 | 69 | [Irrational](https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Irrational](https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF) | 3:23 |
 | 70 | [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 76 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
 | 77 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 |
 | 78 | [never had a place](https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [never had a place](https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX) | 2:53 |
-| 79 | [Where The Light Used To Lay](https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:36 |
-| 80 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 |
+| 79 | [come over x](https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [monochrome blue](https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a) | 4:16 |
+| 80 | [Where The Light Used To Lay](https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:36 |
 
-Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMDBlMDJhODEwOWRmODQ5M2VlMWRmYzE0MWFmMTgwMDA2`
+Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMGIyMWRmMmVlN2FhNzg3NDhjMWM5NjcwMGU4ODk4YjM5`

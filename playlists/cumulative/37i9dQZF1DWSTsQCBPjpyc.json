@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240605,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
+    },
+    {
+      "album": {
         "name": "Satisfaction Guaranteed",
         "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 231026,
       "name": "I Smell Smoke",
       "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"

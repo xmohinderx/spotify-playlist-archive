@@ -4,13 +4,13 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-408 songs - 1 day 1 hr 36 min
+410 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-28 | 2022-10-08 |
 | [A Clean Record](https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Clean Record](https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA) | 3:16 | 2022-12-08 |  |
-| [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2022-06-28 |  |
+| [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2022-06-28 | 2023-01-11 |
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 |  |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-06-28 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1sp7bA5S2pxf2mNsVLCjuU) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj) | 3:36 | 2022-08-30 |  |
@@ -176,6 +176,7 @@
 | [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 | 2022-06-28 | 2022-10-08 |
 | [In The Wee Small Hours of the Morning](https://open.spotify.com/track/6E1m3l49ocTr2gKzl3lFvT) | [The Andy Love Band](https://open.spotify.com/artist/4psWzLHJ7pHepkJn6euY1S) | [Sidewinder](https://open.spotify.com/album/1Oni0D0iiqXbix69OQ0Cot) | 4:22 | 2022-06-28 | 2022-10-08 |
 | [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2022-06-28 | 2022-10-08 |
+| [Incognito](https://open.spotify.com/track/5hQBsGeVd6IwmuNXG744pg) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Incognito](https://open.spotify.com/album/4jKkbMMvsn6hmFKYukCTLR) | 4:32 | 2023-01-11 |  |
 | [Independence Road](https://open.spotify.com/track/5N0y8OEkKUkiC8IhAWsFpm) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:02 | 2022-06-28 |  |
 | [Infinite Love](https://open.spotify.com/track/05TyTjyZ4mouBU8W4hSY5s) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Infinite Love](https://open.spotify.com/album/7hSXgTzVsJpbbYYAPLPi9f) | 4:11 | 2022-06-28 | 2022-11-17 |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-06-28 |  |
@@ -226,7 +227,7 @@
 | [Long Ago And Far Away](https://open.spotify.com/track/4E8iJLPtZiIHvquh0rf0f5) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Long Ago And Far Away](https://open.spotify.com/album/579pCXCY423zV2a3ReVko9) | 3:25 | 2022-10-27 |  |
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-06-28 |  |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-28 | 2022-12-03 |
-| [Love by the Shore](https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4) | [Aurelius Markus Trio](https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf) | [Love by the Shore](https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0) | 4:53 | 2022-06-28 |  |
+| [Love by the Shore](https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4) | [Aurelius Markus Trio](https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf) | [Love by the Shore](https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0) | 4:53 | 2022-06-28 | 2023-01-11 |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2022-06-28 | 2022-10-08 |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2022-08-30 |  |
@@ -353,6 +354,7 @@
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-28 |  |
 | [That's When We'll Part](https://open.spotify.com/track/4GlTpFacX7Vgz0J1vMnKki) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [That's When We'll Part](https://open.spotify.com/album/6fF8wIlGMfdYta5wd2EiU0) | 2:39 | 2022-12-08 |  |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-30 | 2022-11-19 |
+| [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-11 |  |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-06-28 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/7K0RtjPEyD4djyUJUQUiNG) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Soon](https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu) | 6:17 | 2022-06-28 | 2022-10-08 |
 | [The Fairies](https://open.spotify.com/track/0IaY3Z8XKbNFMxMxBa5WeM) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [The Fairies](https://open.spotify.com/album/1OLkOGh5LyyqoYFlY0tvSL) | 3:00 | 2022-06-28 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,949 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,031 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 37 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 | 38 | [Worldwide Beautiful](https://open.spotify.com/track/431M98gFekRc9HdNfgWc7N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worldwide Beautiful](https://open.spotify.com/album/30mVH408jo6oYaMduiwX66) | 3:28 |
 | 39 | [Hometown](https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:24 |
-| 40 | [Setting the Night On Fire \(with Chris Young\)](https://open.spotify.com/track/2OeyphE568es62xmmJTt1z) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:20 |
-| 41 | [Believe \- with Kane Brown](https://open.spotify.com/track/5qOCmP9qU3AmeCIZ4hjimg) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 5:11 |
+| 40 | [Believe \- with Kane Brown](https://open.spotify.com/track/5qOCmP9qU3AmeCIZ4hjimg) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 5:11 |
+| 41 | [Setting the Night On Fire \(with Chris Young\)](https://open.spotify.com/track/2OeyphE568es62xmmJTt1z) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:20 |
 | 42 | [Last Minute Late Night](https://open.spotify.com/track/3Sso0f19u0o5HavJErdZEN) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Last Minute Late Night \- Single](https://open.spotify.com/album/4XUkagfCTG1jc1dpUemE23) | 2:49 |
 | 43 | [Better Place](https://open.spotify.com/track/0vtKLjkpdHoysT5ZPcwgA7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:42 |
 | 44 | [Excuses](https://open.spotify.com/track/27c2kdskfeM1j3keQ6z4hB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 3:01 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 50 | [Cold Spot](https://open.spotify.com/track/3FbfTn3qdwNx9uKiefB9N9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:37 |
 | 51 | [Learning](https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:22 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBiNmIzNjU1MWFlMDhmYzAzNmI4MzU1MGZjMDJjOGU3MQ==`
+Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDBiNzQ4OTVlNTllYWM4YmQ4MTI4OTEyMWE4ZjliN2RjZA==`

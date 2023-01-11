@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alejandro Fern\u00e1ndez",
-  "num_followers": 63233,
+  "num_followers": 63289,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAzMzk0NSwwMDAwMDAwMDFkOWFjMjAxYjJmNWQ3MDI2ZTEwMDY4YTIxMWMwOGRi",
+  "snapshot_id": "MTY3MzAzMzk0NSwwMDAwMDAwMDAwMDdhMjA5NDJjMmQyMjQxMmJlZWIyNGUwZTY1OGVl",
   "tracks": [
     {
       "added_at": "2023-01-06 19:39:05",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-01-06 19:39:05",
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Quiero Un Amor",
+      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
+    },
+    {
+      "added_at": "2023-01-06 19:39:05",
+      "album": {
         "name": "X Personas Como T\u00fa",
         "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 173016,
       "name": "X Personas Como T\u00fa",
       "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
-    },
-    {
-      "added_at": "2023-01-06 19:39:05",
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Quiero Un Amor",
-      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
     },
     {
       "added_at": "2023-01-06 19:39:05",
@@ -927,22 +927,18 @@
     {
       "added_at": "2023-01-06 19:39:05",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186640,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2023-01-06 19:39:05",
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-01-06 19:39:05",
       "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
+      "duration_ms": 186640,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
     },
     {
       "added_at": "2023-01-06 19:39:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,049 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,150 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 23 | [Urlaub fürs Gehirn](https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Urlaub fürs Gehirn](https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR) | 4:01 |
 | 24 | [Jein](https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Außen Top Hits, innen Geschmack](https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH) | 5:54 |
 | 25 | [Dickes B \(feat\. Black Kappa\)](https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV), [Black Kappa](https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6) | [New Dubby Conquerors](https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le) | 4:44 |
-| 26 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
-| 27 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
+| 26 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
+| 27 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
 | 28 | [Weck mich auf](https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 5:43 |
 | 29 | [Im Ascheregen](https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 4:59 |
 | 30 | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4) | 10:01 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 33 | [Walpurgisnacht](https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:01 |
 | 34 | [Prison Break Anthem \(Ich glaub an Dich\) \(feat\. Adel Tawil\) \- Single Version](https://open.spotify.com/track/1ISVPhtR7F0DMluQkhq3mT) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Blockschrift](https://open.spotify.com/album/4Rzr6mHoq3nUppphdbmxwj) | 4:04 |
 | 35 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
-| 36 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
-| 37 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
+| 36 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
+| 37 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
 | 38 | [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 |
 | 39 | [Bon Voyage \(feat\. Nina\)](https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte ziehen sie durch](https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW) | 3:24 |
 | 40 | [CLA$$IC](https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CLA$$IC](https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 | 50 | [Hey Du!](https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Aggro Berlin](https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr) | 4:10 |
 
-Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDE0ZTUxOWI0NzQ1MmUyMTUwOWUyODUzMDUwYTJlZTI4`
+Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDZlNTk0MGZmMTE1NjhjMmM4YjM1ZjZkMzU0YzYxZGNk`

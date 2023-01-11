@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,735 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,751 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 47 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
 | 48 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 | 49 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo) | 2:58 |
-| 50 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 |
+| 50 | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [EDNA \(Deluxe\)](https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP) | 2:53 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDljNmU0ZGU3OTliNWUwODQ5NGMzYTdjMDg5N2RlZDk0`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDVkNGI4ZTkwOWM4M2Q5ZGU1ZmI2ZTliY2FlZjBjYTJj`

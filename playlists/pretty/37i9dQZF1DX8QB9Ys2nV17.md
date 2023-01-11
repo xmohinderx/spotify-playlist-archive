@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,128 likes - 55 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,135 likes - 55 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 10 | [Save Me](https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Cry No More](https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y) | 4:35 |
 | 11 | [Simple Case of the Blues](https://open.spotify.com/track/2mqLNOkpN21ig18xli9WQV) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU) | 3:38 |
 | 12 | [Singing the Blues](https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Promise of a Brand New Day](https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q) | 3:45 |
-| 13 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 |
+| 13 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 14 | [What's the Matter with You](https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:52 |
 | 15 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 |
 | 16 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 |
-| 17 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
+| 17 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 |
 | 18 | [Kill Or Be Kind](https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:45 |
 | 19 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 20 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 36 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 |
 | 37 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 38 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
-| 39 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
-| 40 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml) | 3:17 |
+| 39 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml) | 3:17 |
+| 40 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
 | 41 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
 | 42 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
 | 43 | [Life Of The Party](https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd) | 3:51 |
-| 44 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
-| 45 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
-| 46 | [Fly Away](https://open.spotify.com/track/1j8CRRMzesefIQaVh1y4R1) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:30 |
+| 44 | [Fly Away](https://open.spotify.com/track/1j8CRRMzesefIQaVh1y4R1) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:30 |
+| 45 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
+| 46 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
 | 47 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 |
 | 48 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 | 49 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
 | 55 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
 
-Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGJmNGNmZGMxODI2Njk3ZWM0ODZmYjNjMWU1M2YzZjhk`
+Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMDE0ZjZiYTlhMzhiNTJkYjQxOTNkMDM4OGYyM2Y0NmI3`

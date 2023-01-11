@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,430 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,496 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 40 | [Clash City Rockers](https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:56 |
 | 41 | [All the Young Punks \(New Boots and Contracts\) \- Remastered](https://open.spotify.com/track/153E8CZ5kCe6KkCHS8mZtS) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 4:58 |
 | 42 | [He Who Dares or Is Tired](https://open.spotify.com/track/5qDs46EokLqDHpQ7sqcHWE) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:53 |
-| 43 | [Kosmo Vinyl Introduction \(Live at Shea Stadium\) \[Remastered\]](https://open.spotify.com/track/4ADBECleY1W07PUKeKbsBN) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Live at Shea Stadium \(Remastered\)](https://open.spotify.com/album/4dMWTj1OkiCKFN5yBMP1vS) | 1:10 |
-| 44 | [We are the Clash](https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:02 |
+| 43 | [We are the Clash](https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:02 |
+| 44 | [Kosmo Vinyl Introduction \(Live at Shea Stadium\) \[Remastered\]](https://open.spotify.com/track/4ADBECleY1W07PUKeKbsBN) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Live at Shea Stadium \(Remastered\)](https://open.spotify.com/album/4dMWTj1OkiCKFN5yBMP1vS) | 1:10 |
 | 45 | [Time is Tight](https://open.spotify.com/track/43IQfe1PKIKocv7SUky7xy) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 4:04 |
 | 46 | [First Night Back in London](https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:11 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAzZTRjOWM2MmJiYWNmYjg5MzVjNDJkZmY1NGQ4ZjEzOA==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDA1NWJhZjM5ZTc4YzY4OTljYjQ5YjE1MDNmZmQ0NmFiYw==`

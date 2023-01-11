@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,369 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,469 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 45 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
 | 46 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 |
 | 47 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
-| 48 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
-| 49 | [It Must Be True Love](https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:24 |
+| 48 | [It Must Be True Love](https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:24 |
+| 49 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
 | 50 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of / 20th Century Masters](https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA) | 3:13 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGFkNDFlYzQxYzcyNTVlMzA4Yjg3NWNhMjdlYmYwYTUw`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGMwYmVhNDkzYzRkODY1ODRiYTAwY2Q0NGUxMDgwN2Uz`

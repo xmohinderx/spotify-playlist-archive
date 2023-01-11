@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,715 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,021 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 23 | [Il n'est jamais trop tard](https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 4:30 |
 | 24 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
 | 25 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
-| 26 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
-| 27 | [Haiyu](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
+| 26 | [Haiyu](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
+| 27 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
 | 28 | [Achinkad](https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Achinkad](https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr) | 4:16 |
 | 29 | [Mirage](https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Sequana](https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN) | 4:17 |
 | 30 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 36 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
 | 37 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
 | 38 | [Alasidi](https://open.spotify.com/track/5RhFZ82NnuUrRxQOWphUI3) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Alkibar](https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV) | 4:34 |
-| 39 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
-| 40 | [Be Ki Don](https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Albala](https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH) | 5:11 |
+| 39 | [Be Ki Don](https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Albala](https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH) | 5:11 |
+| 40 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
 | 41 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 | 42 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |
 | 43 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Zalina](https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX) | [Balkan Taksim](https://open.spotify.com/artist/70oqqBR2WFsDZP6JhLvYpm) | [Zalina](https://open.spotify.com/album/1sAs3dT1gJQJqKuKHCyg31) | 3:45 |
 | 50 | [Ghlana](https://open.spotify.com/track/3PD3dEs0ZADzjDi71v67dY) | [Noura Mint Seymali](https://open.spotify.com/artist/2HnmTIZBaC6upua76nuGIY) | [Arbina](https://open.spotify.com/album/6JBjWrsydl3DkCJDA6Q8JU) | 3:44 |
 
-Snapshot ID: `MTY3MDgzMDA0MywwMDAwMDAwMGMxOTIzYmYzNzc1ZTUzMzYwMGIyMDAzOTE5NWZiN2Ex`
+Snapshot ID: `MTY3MDgzMDA0MywwMDAwMDAwMDg2MDcwM2IwODMwYjFlM2QzY2EyNjIxMzdjODIyY2I1`

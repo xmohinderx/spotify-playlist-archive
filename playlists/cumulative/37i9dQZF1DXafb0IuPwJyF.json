@@ -5458,7 +5458,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 305509,
       "name": "Subtitle",
       "url": "https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB"
@@ -7355,6 +7355,24 @@
     },
     {
       "album": {
+        "name": "\u307e\u3076\u305f",
+        "url": "https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256303,
+      "name": "\u307e\u3076\u305f",
+      "url": "https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN"
+    },
+    {
+      "album": {
         "name": "\u307e\u308b\u3054\u3068",
         "url": "https://open.spotify.com/album/0do13T8rlL2pjpvWCpx9R7"
       },
@@ -8752,6 +8770,24 @@
       "duration_ms": 274860,
       "name": "\u30db\u30ef\u30a4\u30c8\u30ad\u30b9",
       "url": "https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo"
+    },
+    {
+      "album": {
+        "name": "\u30db\u30ef\u30a4\u30c8\u30ce\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254838,
+      "name": "\u30db\u30ef\u30a4\u30c8\u30ce\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo"
     },
     {
       "album": {
@@ -10962,7 +10998,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 279323,
       "name": "\u751f\u6d3b",
       "url": "https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae"
@@ -11290,7 +11326,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 239072,
       "name": "\u7f6e\u304d\u624b\u7d19",
       "url": "https://open.spotify.com/track/30qO2rZlw1ZTLWOpCGuuGI"
@@ -11810,6 +11846,24 @@
       "duration_ms": 177497,
       "name": "\u9858\u3044\u3054\u3068",
       "url": "https://open.spotify.com/track/7Lk3bl1VFAcW9KFfXqL4S7"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
+        "url": "https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
+      "url": "https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e"
     },
     {
       "album": {

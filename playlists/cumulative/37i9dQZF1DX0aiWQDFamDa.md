@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-249 songs - 21 hr 10 min
+250 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2022-05-18 | 2022-07-29 |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Presenting Ray Bryant](https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq) | 3:26 | 2022-06-29 |  |
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2022-11-10 |  |
+| [Aesthete](https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Aesthete](https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q) | 3:42 | 2023-01-05 |  |
 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 | 2022-05-18 |  |
 | [Alba](https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 4:24 | 2022-05-18 |  |
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-11-10 | 2022-12-08 |
@@ -111,7 +112,7 @@
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-11-10 |  |
 | [I Wish I Knew](https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 4:40 | 2022-05-18 | 2022-09-26 |
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2022-05-18 | 2022-06-23 |
-| [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2022-05-18 |  |
+| [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2022-05-18 | 2023-01-11 |
 | [I'll Never Smile Again](https://open.spotify.com/track/4KdBR604ZOeCZvY8rA3i2N) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Sentimental Journey](https://open.spotify.com/album/39obEXynFOmw6sFXI4qhVl) | 2:59 | 2022-05-18 | 2022-08-27 |
 | [I'm A Fool To Want You](https://open.spotify.com/track/6tHYmn2CeK7I34u9F6Y7IL) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Dream Of You](https://open.spotify.com/album/3SnxfdE15llplL5YMxQhGY) | 4:07 | 2022-05-18 | 2022-08-27 |
 | [I'm Gonna Laugh You Right Out Of My Life](https://open.spotify.com/track/2rSVktwe87akiljBLsl0IC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 3:18 | 2022-05-18 | 2022-08-27 |

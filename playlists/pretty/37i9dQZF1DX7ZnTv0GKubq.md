@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,423 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,457 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 45 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 |
 | 46 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
 | 47 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
-| 48 | [Cigarettes & Alcohol](https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Cigarettes & Alcohol](https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT) | 3:04 |
-| 49 | [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 |
+| 48 | [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 |
+| 49 | [Cigarettes & Alcohol](https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Cigarettes & Alcohol](https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT) | 3:04 |
 | 50 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
 
-Snapshot ID: `MTY3MzI2MTU4OCwwMDAwMDAwMDZiMWI0Zjc2MzZlNGM4YjllNmNhMDMwYjljN2Y5Njk1`
+Snapshot ID: `MTY3MzI2MTU4OCwwMDAwMDAwMDRlMGQ0N2I3NjgyZGJkNjkyYjNlYWYzNTM0NmY0YzUx`

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-401 songs - 15 hr 54 min
+402 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,8 @@
 | [WALK](https://open.spotify.com/track/4vrWGJqlDNqQqmdODbYRG9) | [wex](https://open.spotify.com/artist/6TNhBCROl8UtT191VE96Kt) | [WALK](https://open.spotify.com/album/22AsPWcC9G6fjNYZ9vymKi) | 2:52 | 2021-05-12 | 2022-05-14 |
 | [WARLOCK](https://open.spotify.com/track/49jvy8buA2J6XGi0oPNaJy) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [WARLOCK](https://open.spotify.com/album/2lMr0UvbN1RGP0gjnTTCPk) | 2:19 | 2021-11-12 | 2022-06-04 |
 | [WAVE](https://open.spotify.com/track/20DxqBWSmwklx4A5aQX9v7) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [WAVE](https://open.spotify.com/album/3SmBkuj0WCN6qSH3lxCTEY) | 2:03 | 2021-09-10 | 2022-07-09 |
-| [WAVESTAR](https://open.spotify.com/track/1bw61wr9TDCRtCMeBX3Ml3) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml), [Diambu](https://open.spotify.com/artist/4a76EDYmK1MYYedIZ0dzzG) | [GEMS](https://open.spotify.com/album/2P2mU3zsMot08btsVNXGJD) | 2:28 | 2022-12-23 |  |
+| [WAVESTAR](https://open.spotify.com/track/1bw61wr9TDCRtCMeBX3Ml3) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml), [Diambu](https://open.spotify.com/artist/4a76EDYmK1MYYedIZ0dzzG) | [GEMS](https://open.spotify.com/album/2P2mU3zsMot08btsVNXGJD) | 2:28 | 2022-12-23 | 2023-01-11 |
+| [WAVESTAR](https://open.spotify.com/track/5rw6oPaeAN0ySL7DggrLAm) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml), [Diambu](https://open.spotify.com/artist/4a76EDYmK1MYYedIZ0dzzG) | [GEMS](https://open.spotify.com/album/1Oe4Gjkb2JXEMYiZKcDTHq) | 2:28 | 2022-12-23 |  |
 | [WELCOME TO THE GRAVE](https://open.spotify.com/track/5h2i2K6RC8aPADhm16c051) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Cloudymane](https://open.spotify.com/artist/1GReDlj4QCzHLKfWxh3ySm) | [WELCOME TO THE GRAVE](https://open.spotify.com/album/4cE2Wxwh8fwHhmRABIcyyi) | 2:15 | 2022-02-18 | 2022-05-21 |
 | [WHAT THE FUCK U GONNA DO?](https://open.spotify.com/track/7g0E3ydb9GVNq5ibxsAL17) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [WHAT THE FUCK U GONNA DO?](https://open.spotify.com/album/4cXqPU2h6HNF1LXyEi3Rqn) | 2:48 | 2021-09-10 | 2022-05-14 |
 | [WHATDOYOUNEED!](https://open.spotify.com/track/0Ae8mL3jmEVedZaPMaCZqo) | [Ctrlgang](https://open.spotify.com/artist/4bMX90q14BwLcwOZPe9hZV), [svlient](https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52) | [WHATDOYOUNEED!](https://open.spotify.com/album/1OArocWuGUyYtIA54UWVlZ) | 1:36 | 2022-07-15 | 2022-09-17 |

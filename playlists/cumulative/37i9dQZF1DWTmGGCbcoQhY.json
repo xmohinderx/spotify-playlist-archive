@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Enamorado",
+        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300840,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
+    },
+    {
+      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
@@ -858,7 +880,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 230103,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/1JcHIgVQUT1HLFzU4GFQoU"
@@ -1804,7 +1826,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 211533,
       "name": "Fue En Diciembre",
       "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
@@ -2081,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Un Monton De Estrellas",
+        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ju-Juy",
+          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283678,
+      "name": "La Triste Despedida",
+      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
+    },
+    {
+      "album": {
         "name": "Los Exitos de Tiberio y Sus Gatos Negros",
         "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
       },
@@ -2240,6 +2280,24 @@
       "duration_ms": 223160,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/74Z5qPgObksbUqTLsMetwO"
+    },
+    {
+      "album": {
+        "name": "Lo Har\u00e9 por Ti",
+        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228646,
+      "name": "Lo Har\u00e9 por Ti",
+      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
     },
     {
       "album": {
@@ -2663,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
+    },
+    {
+      "album": {
         "name": "Simplemente los Mejores Exitos",
         "url": "https://open.spotify.com/album/4hJYuuS30Tu6vKUepJlWWm"
       },
@@ -3044,7 +3120,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 231105,
       "name": "Que Lastima",
       "url": "https://open.spotify.com/track/7lBAwDdNz4aui6HPLWmnBF"
@@ -3322,7 +3398,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 206250,
       "name": "Sin Censura",
       "url": "https://open.spotify.com/track/1lAqzEHhPQdTPOIPfYOfjc"

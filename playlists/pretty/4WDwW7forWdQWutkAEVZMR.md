@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,336 likes - 17 songs - 48 min 53 sec
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,338 likes - 17 songs - 48 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

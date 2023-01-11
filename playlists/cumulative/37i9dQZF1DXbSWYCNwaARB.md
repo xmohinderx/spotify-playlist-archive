@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: HUH YUNJIN\(허윤진\)
 
-331 songs - 17 hr 52 min
+332 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2020-11-09 | 2021-03-01 |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:13 | 2021-09-25 | 2022-04-18 |
 | [Baby You're Mine](https://open.spotify.com/track/4Kib4w0Np0GtUEWrzn9z2T) | [High School](https://open.spotify.com/artist/37v9QTtJDchfWTji6Nlbk7) | [Baby You're Mine](https://open.spotify.com/album/6bLh16mgcrxxe3jNMwqEmu) | 3:43 | 2021-02-02 | 2022-04-15 |
-| [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2020-10-20 | 2023-01-06 |
+| [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2020-10-20 |  |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2021-11-10 | 2022-04-17 |
 | [BAD SAD AND MAD](https://open.spotify.com/track/0zPbUxvYRlCGwruakkXPLI) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Life is a Bi…](https://open.spotify.com/album/0VDb4oas0usbuPljrSZH5s) | 2:34 | 2021-04-30 | 2022-04-19 |
 | [BARCODE](https://open.spotify.com/track/1ZThXKcKkKkZRQGYGd8UU4) | [lilli lilli](https://open.spotify.com/artist/5jPgE32O5ejQyRJXiiy52V) | [BARCODE](https://open.spotify.com/album/0IZZIwintx6HphavroWxdN) | 3:36 | 2021-11-14 | 2022-07-22 |
@@ -55,6 +55,7 @@
 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 | 2022-03-29 | 2022-04-13 |
 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-12-01 |  |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-02-28 | 2022-04-18 |
+| [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-11 |  |
 | [CLASSY](https://open.spotify.com/track/7LEupZwTQBhbvvHmxttUeP) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LIVES ACROSS](https://open.spotify.com/album/13wsV6lqeOiPzIRwCv7Ugw) | 2:48 | 2022-06-09 | 2022-06-11 |
 | [Close to Me](https://open.spotify.com/track/1wzP4k1w8nprsfb6n8wpoz) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Close to Me](https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt) | 3:17 | 2021-12-20 | 2022-06-09 |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-11-14 | 2022-08-13 |
@@ -149,7 +150,7 @@
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2020-10-20 | 2022-07-13 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-12 | 2022-07-29 |
-| [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 | 2022-07-25 |  |
+| [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 | 2022-07-25 | 2023-01-11 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 |  |
 | [J.us.T](https://open.spotify.com/track/2DUIPSrKvyzLb2o1qd4xjg) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [J.us.T](https://open.spotify.com/album/3nqAJTisL4LzoF0AO4w8Ph) | 3:03 | 2021-03-10 | 2022-04-19 |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2020-10-20 | 2022-04-15 |
@@ -310,7 +311,7 @@
 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 | 2021-03-18 | 2022-04-23 |
 | [What You Waiting For](https://open.spotify.com/track/1Gw2MVjOeA29OIwt4k7PZ4) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/1JN6jZ6tFqVojR27UZc9QB) | 2:55 | 2020-10-13\* | 2022-07-25 |
 | [Whatta Man \(Good man\)](https://open.spotify.com/track/754PhkDUWZUkHbM7zfiLKm) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Whatta Man \(Good Man\)](https://open.spotify.com/album/7auH2HGIx0QeFEVoxCPmHm) | 3:13 | 2021-03-01 | 2022-04-17 |
-| [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 |  |
+| [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 | 2023-01-11 |
 | [Who Dat B](https://open.spotify.com/track/46V9JhCtDffP2AQB09zK5L) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Who Dat B](https://open.spotify.com/album/6Ns70xWE643K2d4uVASXYc) | 3:17 | 2021-02-26 | 2021-03-18 |
 | [Who Dis?](https://open.spotify.com/track/6loyhEAW2QFgQnvorXzsXn) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Who Dis?](https://open.spotify.com/album/38QTDwD7IM2EZuiUMII6uA) | 3:14 | 2020-10-13\* | 2021-03-15 |
 | [Why \(Feat\. Gaeko\)](https://open.spotify.com/track/0877whPAoQZIQw1u0r7YgM) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Why](https://open.spotify.com/album/4JILWoE6FaQltScDKW4kbO) | 3:30 | 2022-03-29 | 2022-04-10 |

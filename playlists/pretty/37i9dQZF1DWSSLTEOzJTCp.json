@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 4739,
+  "num_followers": 4858,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMDM2ZWViNTljNTBlMTc5MDk2MzFmZjc4ZjUyMTVhZDQ3",
+  "snapshot_id": "MTY2OTgxOTgzOCwwMDAwMDAwMGZlYzA5ZWVkMzAwODliYTg2MmY3MThlZTgxMDQxYjMx",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Kill Me With Your Love",
+        "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 174736,
+      "name": "Kill Me With Your Love",
+      "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "DISRUPTOR LP",
         "url": "https://open.spotify.com/album/2N9vEGNuEuqxG5rGBIKIME"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 166896,
       "name": "IMY",
       "url": "https://open.spotify.com/track/1AMhHu4zL3CGHHHqJhOyhV"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Kill Me With Your Love",
-        "url": "https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 174736,
-      "name": "Kill Me With Your Love",
-      "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -967,26 +967,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW"
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
         },
         {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        },
-        {
-          "name": "Donna Tella",
-          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
         }
       ],
-      "duration_ms": 222426,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
     }
   ],
   "unique_name": "dance tracks we smashed our controllers to in 2022",

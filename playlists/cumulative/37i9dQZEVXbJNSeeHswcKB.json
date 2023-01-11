@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
@@ -5438,7 +5438,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 198571,
       "name": "Geen Tranen Meer Over",
       "url": "https://open.spotify.com/track/1SBBqkpgv93ITwS6tf7DGm"
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -6790,6 +6790,24 @@
       "duration_ms": 264826,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
+    },
+    {
+      "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
     },
     {
       "album": {
@@ -9158,7 +9176,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -11935,6 +11953,24 @@
     },
     {
       "album": {
+        "name": "Push Up EP",
+        "url": "https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Push Up - Original Mix",
+      "url": "https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -14024,7 +14060,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -15154,7 +15190,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

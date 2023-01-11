@@ -4,7 +4,7 @@
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 21 min
+63 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [La Suavecita](https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [17 Exitos en Honor a Mi Padre](https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU) | 3:15 | 2022-06-01 |  |
 | [La Tambora Va A Sonar](https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [La Mejor Colección De Corridos](https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ) | 2:37 | 2022-10-12 |  |
 | [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 | 2022-06-01 | 2023-01-10 |
+| [La Tambora Va A Sonar](https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:39 | 2023-01-10 |  |
 | [La Yaquesita](https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Se Les Pelo Baltazar](https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW) | 3:58 | 2022-06-01 |  |
 | [La Yaquesita Popurrí \- En Vivo Desde Los Angeles, CA / 2006](https://open.spotify.com/track/0odqSYHLOpCGzRKFrLpJvL) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Sin Censura Su Último Concierto \(En Vivo Desde Los Angeles CA, 2006\)](https://open.spotify.com/album/65hKWFUh570PVFBopSgfaa) | 9:10 | 2022-06-01 | 2022-10-13 |
 | [Lobo Domesticado](https://open.spotify.com/track/21dO2n3oshsn3FkbB6Y5Mm) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lobo Domesticado](https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP) | 2:50 | 2022-06-01 |  |
@@ -64,7 +65,7 @@
 | [Tiburón A La Vista](https://open.spotify.com/track/7CUz1DOUHIWyhEacFwp7gO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 2:51 | 2022-06-01 | 2022-09-30 |
 | [Vencedor](https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:03 | 2022-06-01 |  |
 | [Vete Con Él](https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 3:06 | 2022-06-01 |  |
-| [Vete Ya](https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 2:38 | 2022-12-12 |  |
+| [Vete Ya](https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 2:38 | 2022-12-12 | 2023-01-11 |
 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 | 2022-06-01 |  |
 | [Volvere A Amar](https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 3:51 | 2022-06-01 |  |
 | [Vuelve Cariñito](https://open.spotify.com/track/2WwkIeLHly6VJuOb1ihhzG) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:36 | 2022-06-01 |  |

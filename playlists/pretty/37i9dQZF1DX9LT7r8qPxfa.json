@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 247724,
+  "num_followers": 247780,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDU3MGQ3YTkzM2FmMmFlZjQwMmJjYzc0YTVjY2JmNTlm",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGRlMTQ1NWYwYzZkYzllZmM5NGRiZDhmZDdkYTQ0ZGQz",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 188615,
-      "name": "Mortals",
-      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/7FHjrtERXl5ia51dPmcxBq"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 290613,
-      "name": "Tarifa",
-      "url": "https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu"
+      "duration_ms": 188615,
+      "name": "Mortals",
+      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 252291,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Tarifa",
+      "url": "https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "New Conditions",
-        "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
+        "name": "Flora Fauna",
+        "url": "https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx"
       },
       "artists": [
         {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 187185,
-      "name": "The Impossible Task of Feeling Complete",
-      "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
+      "duration_ms": 199480,
+      "name": "Garden of Eden",
+      "url": "https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Flora Fauna",
-        "url": "https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx"
+        "name": "New Conditions",
+        "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Garden of Eden",
-      "url": "https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud"
+      "duration_ms": 187185,
+      "name": "The Impossible Task of Feeling Complete",
+      "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 192106,
       "name": "wish you the best (feat. Jensen McRae)",
       "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 308706,
-      "name": "If It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Planet (i)",
         "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 236610,
       "name": "I\u2019ll Go Running",
       "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 308706,
+      "name": "If It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "This Is What Our Love Looks Like Now",
+        "url": "https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh"
+      },
+      "artists": [
+        {
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
+        }
+      ],
+      "duration_ms": 243242,
+      "name": "This Is What Our Love Looks Like Now",
+      "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "I Don't Want To Let You Down b/w All Over Again",
         "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 243266,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "This Is What Our Love Looks Like Now",
-        "url": "https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh"
-      },
-      "artists": [
-        {
-          "name": "Ainslie Wills",
-          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
-        }
-      ],
-      "duration_ms": 243242,
-      "name": "This Is What Our Love Looks Like Now",
-      "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Soft Drop",
-        "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 196756,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 267148,
       "name": "Moment Feed",
       "url": "https://open.spotify.com/track/6JsUqtsVNboWCl8fWZMX1o"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Soft Drop",
+        "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 196756,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
     },
     {
       "added_at": "2022-09-16 04:00:00",

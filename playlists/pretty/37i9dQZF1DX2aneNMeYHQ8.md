@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Larkin Poe
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,371 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,400 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 54 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 |
 | 55 | [The Tipping Point](https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:13 |
 | 56 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
-| 57 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
-| 58 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
+| 57 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
+| 58 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 59 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
 | 60 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
 | 61 | [What's Coming To Me](https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [What's Coming To Me](https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs) | 3:34 |
 | 62 | [BAD AT LOVE](https://open.spotify.com/track/2vwqyWdxdZjQUUXHIWfqYD) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [Volume 2](https://open.spotify.com/album/5wyVzouWjgJhtcBSjrqZiM) | 3:27 |
 | 63 | [Speeding 72](https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:58 |
 | 64 | [U&ME](https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [U&ME](https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK) | 3:18 |
-| 65 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 |
-| 66 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
+| 65 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
+| 66 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 |
 | 67 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 |
 | 68 | [Hanging by a Thread](https://open.spotify.com/track/1WF8P42fDZKPdsbG6eb6cl) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/5mDuvmrgSQYH5m54GoM5GC) | 3:18 |
 | 69 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 90 | [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 |
 | 91 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 |
 | 92 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 |
-| 93 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Downey](https://open.spotify.com/artist/1KTM0UKpVn91mU6LlVa7Tm) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
+| 93 | [Geometry](https://open.spotify.com/track/6vR6PqBvhUFM0lFJtfJm79) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 4:25 |
 | 94 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
-| 95 | [Geometry](https://open.spotify.com/track/6vR6PqBvhUFM0lFJtfJm79) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 4:25 |
+| 95 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Downey](https://open.spotify.com/artist/1KTM0UKpVn91mU6LlVa7Tm) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
 | 96 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 |
 | 97 | [Chrysanthemums](https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Chrysanthemums](https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6) | 4:00 |
-| 98 | [Hope in Hell](https://open.spotify.com/track/1V7pwuAxWG48J7RATlPT80) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Hope in Hell](https://open.spotify.com/album/2shbDisrB4NwvQMQBy488T) | 4:27 |
-| 99 | [Dangerous](https://open.spotify.com/track/58NjL8ZMpbHv5TVkpANrKO) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Stripped\)](https://open.spotify.com/album/1LOfXz54bNrKElqqUOTIGc) | 3:07 |
+| 98 | [Dangerous](https://open.spotify.com/track/58NjL8ZMpbHv5TVkpANrKO) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Stripped\)](https://open.spotify.com/album/1LOfXz54bNrKElqqUOTIGc) | 3:07 |
+| 99 | [Hope in Hell](https://open.spotify.com/track/1V7pwuAxWG48J7RATlPT80) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Hope in Hell](https://open.spotify.com/album/2shbDisrB4NwvQMQBy488T) | 4:27 |
 | 100 | [Blows](https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Strength](https://open.spotify.com/album/2lYnlOOGFCd0hzkUoSnFNK) | 3:09 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGRkOGE2ZGJmOTVjNDUxYzUwNDUzMTM0YmUyZjA3Njgw`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGQ0NjEwZjdjNThjYmUyN2E3MWI4OGU5OTExMmVlYmFj`

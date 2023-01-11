@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Japanese Breakfast. ",
-  "num_followers": 98414,
+  "num_followers": 98438,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwODAxNiwwMDAwMDAwMGEwNjJmODI1ZGJkZjA1OTc4Mzk3ZmY5OWI2ZmE4OWIx",
+  "snapshot_id": "MTY2NjgwODAxNiwwMDAwMDAwMGI2NWQxM2Y4ZWM2YjU2Yjc3MzE4ZDRiM2RlNzM3NTNh",
   "tracks": [
     {
       "added_at": "2022-10-26 18:13:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-26 18:13:36",
       "album": {
-        "name": "hey! - Spotify Singles",
-        "url": "https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 133762,
-      "name": "hey! - Spotify Singles",
-      "url": "https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo"
-    },
-    {
-      "added_at": "2022-10-26 18:13:36",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
+    },
+    {
+      "added_at": "2022-10-26 18:13:36",
+      "album": {
+        "name": "hey! - Spotify Singles",
+        "url": "https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 133762,
+      "name": "hey! - Spotify Singles",
+      "url": "https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -592,22 +592,6 @@
       "added_at": "2022-10-26 18:13:36",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 274968,
-      "name": "Four Out Of Five - Recorded at Electric Lady Studios, New York",
-      "url": "https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n"
-    },
-    {
-      "added_at": "2022-10-26 18:13:36",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
       },
       "artists": [
@@ -624,17 +608,17 @@
       "added_at": "2022-10-26 18:13:36",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
+        "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 315953,
-      "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
-      "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
+      "duration_ms": 274968,
+      "name": "Four Out Of Five - Recorded at Electric Lady Studios, New York",
+      "url": "https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -651,6 +635,22 @@
       "duration_ms": 239487,
       "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
+    },
+    {
+      "added_at": "2022-10-26 18:13:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 315953,
+      "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
+      "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -1456,22 +1456,6 @@
       "added_at": "2022-10-26 18:13:36",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 192332,
-      "name": "About a Bruise - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1w8zbsApexRU0IC8zt6OMe"
-    },
-    {
-      "added_at": "2022-10-26 18:13:36",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
       },
       "artists": [
@@ -1483,6 +1467,22 @@
       "duration_ms": 231729,
       "name": "Born Again - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
+    },
+    {
+      "added_at": "2022-10-26 18:13:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 192332,
+      "name": "About a Bruise - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1w8zbsApexRU0IC8zt6OMe"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -1732,6 +1732,22 @@
       "added_at": "2022-10-26 18:13:36",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 218474,
+      "name": "Higher - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7JDqyb4SkgzrSCeBtYS3L8"
+    },
+    {
+      "added_at": "2022-10-26 18:13:36",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH"
       },
       "artists": [
@@ -1743,22 +1759,6 @@
       "duration_ms": 175573,
       "name": "Shades of Blue - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1"
-    },
-    {
-      "added_at": "2022-10-26 18:13:36",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Hot Thoughts - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/5CdH283hajBcB2V6RHIKul"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -1780,17 +1780,17 @@
       "added_at": "2022-10-26 18:13:36",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5"
+        "url": "https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6"
       },
       "artists": [
         {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 218474,
-      "name": "Higher - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7JDqyb4SkgzrSCeBtYS3L8"
+      "duration_ms": 218810,
+      "name": "Hot Thoughts - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/5CdH283hajBcB2V6RHIKul"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2022-10-26 18:13:36",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2fDaqqrHSc4gfy8sAu8MXg"
       },
       "artists": [
         {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+          "name": "Ra Ra Riot",
+          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Guru (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/7ekf5B6Srz3XTNuBQrUWOC"
+      "duration_ms": 259063,
+      "name": "Water - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/2wufv9jAZvrEVq5vTyTril"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2022-10-26 18:13:36",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2fDaqqrHSc4gfy8sAu8MXg"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt"
       },
       "artists": [
         {
-          "name": "Ra Ra Riot",
-          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 259063,
-      "name": "Water - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/2wufv9jAZvrEVq5vTyTril"
+      "duration_ms": 195480,
+      "name": "Guru (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/7ekf5B6Srz3XTNuBQrUWOC"
     },
     {
       "added_at": "2022-10-26 18:13:36",
@@ -1972,22 +1972,6 @@
       "added_at": "2022-10-26 18:13:36",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Night So Long - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c"
-    },
-    {
-      "added_at": "2022-10-26 18:13:36",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS"
       },
       "artists": [
@@ -1999,6 +1983,22 @@
       "duration_ms": 254880,
       "name": "Houses - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa"
+    },
+    {
+      "added_at": "2022-10-26 18:13:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Night So Long - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c"
     },
     {
       "added_at": "2022-10-26 18:13:36",

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-287 songs - 16 hr 31 min
+288 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bakin'](https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [YKES](https://open.spotify.com/artist/1qHnyADaXNasNXl7aJn3op), [Peytn](https://open.spotify.com/artist/5Liz6tTU5sIQkKCDwQonov) | [Bakin'](https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9) | 2:56 | 2021-12-17 | 2022-07-28 |
 | [Better Off Alone](https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Better Off Alone](https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5) | 4:51 | 2021-12-17 |  |
 | [Black And Blue](https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Black And Blue](https://open.spotify.com/album/1Yd0NddTgPRW1iyWsUkWgY) | 3:36 | 2022-09-02 | 2022-11-17 |
+| [BLACKED OUT](https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [BLACKED OUT](https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O) | 2:08 | 2023-01-06 |  |
 | [Blackout](https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Blackout](https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl) | 3:00 | 2021-12-17 | 2022-03-12 |
 | [Blicky](https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Blicky](https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1) | 3:32 | 2022-08-05 |  |
 | [Blindfold](https://open.spotify.com/track/5rkJBRvyemuXYBffHZCdPa) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Blindfold](https://open.spotify.com/album/72gsKOBsJ129zrsETPrnmH) | 2:37 | 2021-12-17 |  |
@@ -260,7 +261,7 @@
 | [Technicolour Psychic Vision](https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Technicolour Psychic Vision](https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ) | 2:54 | 2022-11-18 |  |
 | [Tekno](https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 3](https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr) | 2:58 | 2022-04-15 | 2022-11-19 |
 | [The Blood \(VIP\)](https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Shadow Cliq](https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu) | [The Blood \(VIP\)](https://open.spotify.com/album/1EOCEm6RPojx6UVxfHoqk4) | 4:36 | 2022-11-18 |  |
-| [The Depths](https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [The Depths](https://open.spotify.com/album/20uXQqHoLGJzOKvFNoDYPU) | 4:07 | 2022-10-28 |  |
+| [The Depths](https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [The Depths](https://open.spotify.com/album/20uXQqHoLGJzOKvFNoDYPU) | 4:07 | 2022-10-28 | 2023-01-11 |
 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 |  |
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-12-17 | 2022-03-05 |
 | [The Pit](https://open.spotify.com/track/03h5bKCEQszowW4jo7fxfN) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [The Pit](https://open.spotify.com/album/0H5c8x30XclLLXZTVvRf0Y) | 3:48 | 2021-12-17 | 2022-05-07 |

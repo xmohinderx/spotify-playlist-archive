@@ -1,12 +1,12 @@
 {
   "description": "Home is where the heart is.",
-  "num_followers": 802556,
+  "num_followers": 802578,
   "original_name": "Home Sweet Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDI5NywwMDAwMDAwMDE0ZDhlMzJmNDEyNjgxNDliNjE3OTIxNGFlMmJmNDVi",
+  "snapshot_id": "MTY3MjQyNDI5NywwMDAwMDAwMGM0ZjYyZWE1NmQxOWExOTAxMjU3OTI4M2QwNGY1MThh",
   "tracks": [
     {
       "added_at": "2022-12-01 15:49:02",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
       "added_at": "2022-12-01 15:49:02",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-01 15:49:02",
       "album": {
-        "name": "Cheating on You",
-        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Cheating on You",
-      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
-    },
-    {
-      "added_at": "2022-12-01 15:49:02",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2022-12-01 15:49:02",
+      "album": {
+        "name": "Cheating on You",
+        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 196606,
+      "name": "Cheating on You",
+      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
     },
     {
       "added_at": "2022-12-01 15:49:02",

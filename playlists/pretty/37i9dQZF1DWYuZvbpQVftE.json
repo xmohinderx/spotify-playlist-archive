@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 13547,
+  "num_followers": 13568,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg0MTI0OCwwMDAwMDAwMDE1MzUxOWU0NmI4NjYxMWI3OTU3MzQ1ZGMxYjY3MTli",
+  "snapshot_id": "MTY3Mjg0MTI0OCwwMDAwMDAwMGI1OWQ1ZTA0ZTdkZjI3MDMzYjJiZGJmYzJmYmMwOThj",
   "tracks": [
     {
       "added_at": "2023-01-04 14:07:28",
@@ -239,8 +239,8 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2023-01-04 14:07:28",
@@ -363,8 +363,8 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2023-01-04 14:07:28",
@@ -559,18 +559,22 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
       "artists": [
         {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 379400,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
+      "duration_ms": 246466,
+      "name": "Isn't It Romantic",
+      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
     },
     {
       "added_at": "2023-01-04 14:07:28",
@@ -591,22 +595,18 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
       "artists": [
         {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Isn't It Romantic",
-      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
+      "duration_ms": 379400,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
     },
     {
       "added_at": "2023-01-04 14:07:28",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
-        "name": "Westward Bound! (Live)",
-        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
-      },
-      "artists": [
-        {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
-        },
-        {
-          "name": "Carmell Jones",
-          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Happily Dancing / Deep Harmonies Falling - Live",
-      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
-    },
-    {
-      "added_at": "2023-01-04 14:07:28",
-      "album": {
         "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
         "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
+    },
+    {
+      "added_at": "2023-01-04 14:07:28",
+      "album": {
+        "name": "Westward Bound! (Live)",
+        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
+      },
+      "artists": [
+        {
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+        },
+        {
+          "name": "Carmell Jones",
+          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Happily Dancing / Deep Harmonies Falling - Live",
+      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
     },
     {
       "added_at": "2023-01-04 14:07:28",

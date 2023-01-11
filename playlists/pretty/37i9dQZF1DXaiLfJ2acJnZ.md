@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,992 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,006 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 20 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 |
 | 21 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 |
 | 22 | [Charlie Be Quiet!](https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:08 |
-| 23 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
-| 24 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
+| 23 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
+| 24 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
 | 25 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
 | 26 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 |
 | 27 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 |
@@ -63,17 +63,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 53 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
 | 54 | [have a great day](https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:22 |
 | 55 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
-| 56 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
-| 57 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 |
+| 56 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 |
+| 57 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
 | 58 | [My 100](https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [My 100](https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm) | 2:53 |
 | 59 | [Ain't Got No Friends](https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Ain't Got No Friends](https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok) | 2:27 |
 | 60 | [Grow](https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3) | 2:51 |
 | 61 | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS) | 2:39 |
 | 62 | [New Wave](https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [New Wave EP](https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte) | 3:10 |
-| 63 | [Godlight](https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Godlight](https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N) | 4:07 |
-| 64 | [Through the Phone](https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Through the Phone](https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2) | 3:24 |
-| 65 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
-| 66 | [Never Get It Right](https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Never Get It Right](https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe) | 3:20 |
+| 63 | [Never Get It Right](https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Never Get It Right](https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe) | 3:20 |
+| 64 | [Godlight](https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Godlight](https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N) | 4:07 |
+| 65 | [Through the Phone](https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Through the Phone](https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2) | 3:24 |
+| 66 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
 | 67 | [Green Grass](https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Green Grass](https://open.spotify.com/album/7aCF5YOCtZYyiJOnrK4ESH) | 3:05 |
 | 68 | [Good Enough](https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 3:08 |
 | 69 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 71 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 |
 | 72 | [Thinking About You](https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Thinking About You](https://open.spotify.com/album/138lSNAApov9p0YikNh5gh) | 3:21 |
 | 73 | [unbreak ur heart](https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [unbreak ur heart](https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt) | 3:23 |
-| 74 | [Summer Fling](https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Summer Fling](https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE) | 3:35 |
-| 75 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
-| 76 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 |
+| 74 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 |
+| 75 | [Summer Fling](https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Summer Fling](https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE) | 3:35 |
+| 76 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
 | 77 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
 | 78 | [You Give Me More](https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:58 |
 | 79 | [You Got](https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [You Got](https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r) | 3:26 |
 | 80 | [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 |
 
-Snapshot ID: `MTY3MzAyNTc3NywwMDAwMDAwMGRiNDg2NzQ1NmI5MjYyZjNmYTFjMDM0MzdlNjQ5MjAy`
+Snapshot ID: `MTY3MzAyNTc3NywwMDAwMDAwMGVjZWJjYjIxZWVjZTFhYmQxMjNkYTJmNGI0OGYwZDhi`

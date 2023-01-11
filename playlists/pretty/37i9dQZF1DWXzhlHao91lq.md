@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,526 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,536 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 39 | [—star.](https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [—star.](https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP) | 2:33 |
 | 40 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 41 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
-| 42 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 |
-| 43 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 42 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
+| 43 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 |
 | 44 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 |
 | 45 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
 | 46 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 48 | [Mostly](https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Northern Anthems](https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr) | 1:42 |
 | 49 | [Settle](https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Fingertips](https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO) | 3:38 |
 | 50 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
-| 51 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 |
-| 52 | [Morning Coffee](https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc), [Nalba](https://open.spotify.com/artist/7Dzf4xL1daaeiFXaz4SWXp) | [Morning Coffee](https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF) | 2:22 |
+| 51 | [Morning Coffee](https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc), [Nalba](https://open.spotify.com/artist/7Dzf4xL1daaeiFXaz4SWXp) | [Morning Coffee](https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF) | 2:22 |
+| 52 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 |
 | 53 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 |
 | 54 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 |
 | 55 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 |
-| 56 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 |
-| 57 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
+| 56 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
+| 57 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 |
 | 58 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 |
 | 59 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
 | 60 | [3 Rounds and a Sound](https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [3 Rounds and a Sound](https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1) | 4:26 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 69 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
 | 70 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 |
 | 71 | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8) | 4:23 |
-| 72 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
-| 73 | [Light](https://open.spotify.com/track/0imuQm7CnK74UdorFpC2Eg) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:27 |
+| 72 | [Light](https://open.spotify.com/track/0imuQm7CnK74UdorFpC2Eg) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:27 |
+| 73 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
 | 74 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 |
 | 75 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 
-Snapshot ID: `MTY3MzI0MjgyNiwwMDAwMDAwMDkwYzkyMWYyZGQxOTJmNDI2OWI1YTRjMTAzNDNhY2Rl`
+Snapshot ID: `MTY3MzI0MjgyNiwwMDAwMDAwMGE4YWE3MzdhZGY4MTY3MWQ5YmIwN2YzOWY3NzA2NzY0`

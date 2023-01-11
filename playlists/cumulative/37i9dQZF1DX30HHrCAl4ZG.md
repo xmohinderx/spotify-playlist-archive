@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-772 songs - 1 day 17 hr 59 min
+773 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [biteback](https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [biteback](https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP) | 2:02 | 2022-12-02 | 2022-12-08 |
 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 | 2021-06-07 | 2022-02-12 |
 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-09-23 | 2022-11-19 |
+| [Blink](https://open.spotify.com/track/22rEAnPqaPscewQeBHVUX4) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Blink](https://open.spotify.com/album/5w2sFmpSZoeWlOtMYj3qUD) | 4:25 | 2022-12-16 |  |
 | [Blocked](https://open.spotify.com/track/6jOE4zzFlCUb0zFmxLzNH2) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Blocked](https://open.spotify.com/album/23MqUFP7C2H1cY1WWKVfBw) | 2:38 | 2021-06-07 | 2021-12-22 |
 | [Blood Sucking Vampires](https://open.spotify.com/track/6L92tqLaS23nJNrO9pTw8K) | [RealLiveAnimals](https://open.spotify.com/artist/2ctGMLYVzbPMC44eK8ECuO) | [Blood Sucking Vampires](https://open.spotify.com/album/3naWho0m79jCGWKcQoUrBQ) | 2:53 | 2022-09-23 | 2022-10-08 |
 | [Blood Thinner](https://open.spotify.com/track/0ch5xWFrwtsVI6XleeQe9y) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Blood Thinner](https://open.spotify.com/album/1WTJdxX4p421JGuEl2a8Vj) | 2:17 | 2021-06-18 | 2022-04-21 |
@@ -552,7 +553,7 @@
 | [purgatory](https://open.spotify.com/track/7vIW48A9n1kDD14DI98lsc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [purgatory](https://open.spotify.com/album/4YPPEhZL6jnJRyCYWu6UaU) | 4:08 | 2022-04-08 | 2022-04-21 |
 | [Quota](https://open.spotify.com/track/0u6e9PEJjRHWXklORJibwd) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Quota](https://open.spotify.com/album/543i7ziEJtqS4LDsEBQm7g) | 3:09 | 2022-09-30 | 2022-10-15 |
 | [Randall Flagg](https://open.spotify.com/track/4eRoGhykyQCIzhOaFf35zX) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Magic Hour](https://open.spotify.com/album/4SjIdmDhVUA1eunwERtgPv) | 3:39 | 2022-10-07 | 2022-11-19 |
-| [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 | 2022-11-18 |  |
+| [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 | 2022-11-18 | 2023-01-11 |
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-14 | 2022-12-08 |
 | [Real Pain](https://open.spotify.com/track/0vqpshPaEpF3BKnUuvrVEf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Real Pain](https://open.spotify.com/album/18FnwNR5eZ5RF1jRFnM7IB) | 4:50 | 2021-08-13 | 2022-02-07 |
 | [Really Want to See You Again](https://open.spotify.com/track/7z5v8TAMxPtBgWaIlAyqri) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [Really Want to See You Again](https://open.spotify.com/album/06TWxGHNgdSYYlLa69FMln) | 3:57 | 2022-03-22 | 2022-07-30 |

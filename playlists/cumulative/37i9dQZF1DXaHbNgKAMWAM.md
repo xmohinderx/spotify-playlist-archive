@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-207 songs - 12 hr 35 min
+208 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 |  |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
 | [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 | 2022-08-22 |
+| [Especially For You](https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [Especially For You](https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl) | 2:34 | 2022-12-26 |  |
 | [Even if time passes](https://open.spotify.com/track/41AtZo3oUoJfyvgbPRoh8H) | [CHILDDIAHN](https://open.spotify.com/artist/2xIwnQi8JNCYpJjPivvKBr) | [Even if time passes](https://open.spotify.com/album/18sJ1IXGO8jjFzdFv1hxwX) | 4:14 | 2022-05-11 | 2022-07-05 |
 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 | 2022-08-01 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2022-05-11 |  |
@@ -211,7 +212,7 @@
 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 | 2022-07-08 |  |
 | [사랑이 피어난다](https://open.spotify.com/track/0Lp6horxxlv8hBBD41LUj8) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [사랑이 피어난다](https://open.spotify.com/album/2ejNHqQU9UieGLCByVA59Y) | 2:50 | 2022-06-13 | 2022-06-16 |
 | [선물](https://open.spotify.com/track/3SCQhlyxIji4Vc8ALcudLU) | [김대연](https://open.spotify.com/artist/4v4JtLI2eFhyunnMBtUo0y), [필](https://open.spotify.com/artist/1JXR9nuTiwl1JRMpf8wTrF) | [너의 이름을 그리워해 본다](https://open.spotify.com/album/5o4V0rixhZTpXxNCoE4AXp) | 3:54 | 2022-05-11 | 2022-06-11 |
-| [오늘의 너](https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [오늘의 웹툰 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk) | 3:09 | 2022-08-19 |  |
+| [오늘의 너](https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [오늘의 웹툰 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk) | 3:09 | 2022-08-19 | 2023-01-11 |
 | [우리의 장면](https://open.spotify.com/track/4CvjZCd1zcV8JwiyjgL0Xt) | [마리슈](https://open.spotify.com/artist/3K4yL5c5UlQW5Tx2PDRvVi) | [우리의 장면](https://open.spotify.com/album/6jwiUoE3Ud6oQRb7Mpxazr) | 3:10 | 2022-06-20 | 2022-06-26 |
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-08-01 | 2022-09-26 |
 | [이름](https://open.spotify.com/track/2XMmJ6JAPkRualhBjpziCr) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 3:04 | 2022-05-11 | 2022-07-29 |

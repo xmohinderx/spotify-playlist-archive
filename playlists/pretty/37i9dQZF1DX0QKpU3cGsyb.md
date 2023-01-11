@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,692,146 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,692,981 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 47 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 |
 | 48 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
 | 49 | [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 |
-| 50 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 |
+| 50 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGMwMjUxOGNmOGJlNzhhNjg0Mzk1NTVmNTc5MzVjNTcw`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDc2NWNhZDJiZjE5ODA4OTZkMWQ3MGVmYjIwZTVkMzhi`

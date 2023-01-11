@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 195317,
       "name": "boyhood",
       "url": "https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga"
@@ -548,6 +548,24 @@
       "duration_ms": 222786,
       "name": "Call Me Now",
       "url": "https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI"
+    },
+    {
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS"
+      },
+      "artists": [
+        {
+          "name": "COLL!N",
+          "url": "https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP"
     },
     {
       "album": {
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t go home",
+        "url": "https://open.spotify.com/album/5Z2DV5deJlPtSIgLPta6Hb"
+      },
+      "artists": [
+        {
+          "name": "seoseo",
+          "url": "https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Don\u2019t go home",
+      "url": "https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 195667,
       "name": "Flying (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/7gJcMXrSgaj0L9HN65Hkdd"
@@ -1272,7 +1308,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 229570,
       "name": "LA VIE",
       "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 213984,
       "name": "Loner (Feat. g0nny)",
       "url": "https://open.spotify.com/track/5z71sbduBfZcSWdgdx4Gfk"
@@ -2333,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Thorn",
+        "url": "https://open.spotify.com/album/2ESqLtziuxHNUc71jCTHKZ"
+      },
+      "artists": [
+        {
+          "name": "K.vsh",
+          "url": "https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Thorn",
+      "url": "https://open.spotify.com/track/5oApK38Fycj7FemmYnpJm3"
+    },
+    {
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx"
       },
@@ -2806,6 +2860,24 @@
       "duration_ms": 239142,
       "name": "\uaca8\uc6b8\uae38 (feat. \uc601\uc900)",
       "url": "https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9"
+    },
+    {
+      "album": {
+        "name": "\uc0c1\uc790 Box",
+        "url": "https://open.spotify.com/album/0omnobec3mXOettF99CQTu"
+      },
+      "artists": [
+        {
+          "name": "leanon",
+          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "\uc0c1\uc790 Box",
+      "url": "https://open.spotify.com/track/5G9tvHT1pkXLuBoSkBWZkm"
     },
     {
       "album": {

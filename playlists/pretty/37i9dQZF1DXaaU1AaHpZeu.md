@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Alice Wonder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,383 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,417 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Día Antes del Día](https://open.spotify.com/track/18axCHKPFXf34au5APxdIR) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [El Día Antes del Día](https://open.spotify.com/album/5UqN58jW4i5hndRBlmcXAg) | 3:32 |
-| 2 | [Si no es contigo \(feat\. Rafa Val\)](https://open.spotify.com/track/2daEY7bqARD03KqUxRNdRn) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO), [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Rafa Val](https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F) | [Si no es contigo \(feat\. Rafa Val\)](https://open.spotify.com/album/0qE1KDzIhHwsTho0bZZ0SA) | 3:19 |
+| 2 | [Si no es contigo \(feat\. Rafa Val, Viva Suecia\)](https://open.spotify.com/track/2daEY7bqARD03KqUxRNdRn) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO), [Rafa Val](https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F), [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Si no es contigo \(feat\. Rafa Val, Viva Suecia\)](https://open.spotify.com/album/0qE1KDzIhHwsTho0bZZ0SA) | 3:19 |
 | 3 | [Ya No Te Quiero](https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Ya No Te Quiero](https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy) | 3:17 |
 | 4 | [La gran novela rusa](https://open.spotify.com/track/0C5i4fqpqPPK0a2ypcdQSY) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [La gran novela rusa](https://open.spotify.com/album/7rfy7xEcqjfZpH9xvZagQm) | 2:58 |
 | 5 | [\#kiero](https://open.spotify.com/track/1xKeZ81xueH3YDv6UYomhK) | [Carlo Frio](https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc), [naxito jüeves](https://open.spotify.com/artist/38y63ICG47Pee4vUkYlSET) | [\#kiero](https://open.spotify.com/album/6yleLldHHyxeqTlII0DCPK) | 2:31 |

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 82022,
+  "num_followers": 82082,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGQ2Y2RjMTEzZWI2OWNlMDI2YmE1ZDJlOGJkMjViZTI4",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDg2Zjg3MzcwMjllNzFlNjc1Y2M3ZDEyMTJjYWQ5YjFm",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
-      },
-      "artists": [
-        {
-          "name": "Adzmilli",
-          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195558,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
+      },
+      "artists": [
+        {
+          "name": "Adzmilli",
+          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
-      },
-      "artists": [
-        {
-          "name": "Noaah",
-          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
+      },
+      "artists": [
+        {
+          "name": "Noaah",
+          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love & Attention",
-        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
-      },
-      "artists": [
-        {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Love & Attention",
-      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 153089,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love & Attention",
+        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Love & Attention",
+      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
-      },
-      "artists": [
-        {
-          "name": "KS",
-          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
-        }
-      ],
-      "duration_ms": 146729,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 110759,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
+      },
+      "artists": [
+        {
+          "name": "KS",
+          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
+        }
+      ],
+      "duration_ms": 146729,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1652,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     }
   ],
   "unique_name": "lofi rap",

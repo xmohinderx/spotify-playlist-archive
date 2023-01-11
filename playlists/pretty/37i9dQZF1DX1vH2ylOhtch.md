@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 
 > uh\-oh?
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,464 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,630 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 20 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 21 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 |
 | 22 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 |
-| 23 | [I.F.L.Y.](https://open.spotify.com/track/4a6q8CR2hzLk2plDkSxkfD) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW) | 2:45 |
-| 24 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 |
+| 23 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 |
+| 24 | [I.F.L.Y.](https://open.spotify.com/track/4a6q8CR2hzLk2plDkSxkfD) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW) | 2:45 |
 | 25 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 26 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
 | 27 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 47 | [Dos X Tres \(Demo\)](https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Dos X Tres \(Demo\)](https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ) | 2:30 |
 | 48 | [Báilame](https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 4:11 |
 | 49 | [Part of Me](https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 3:48 |
-| 50 | [Planeando Madrid](https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7) | 4:12 |
+| 50 | [cómo quieres que me enfade](https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [ROJAZ](https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6) | [cómo quieres que me enfade](https://open.spotify.com/album/1zVgjMZ9dOV8deVpLNxqeD) | 2:40 |
 | 51 | [Nada Y Nadie](https://open.spotify.com/track/5jpYOzDqu7xv75FHk0KIw2) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Nada Y Nadie](https://open.spotify.com/album/5EuXUizMNBLhrMKtSUMLkb) | 3:24 |
 | 52 | [Solo Me Gustas Tú](https://open.spotify.com/track/5SRMV6nJtnSGXa3wgqoNwS) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Casky](https://open.spotify.com/artist/6C9VbzkpOtldLCPCImRuQa) | [Solo Me Gustas Tú](https://open.spotify.com/album/2Vc8V7UgW7r2LUdd2J8rHJ) | 2:24 |
-| 53 | [cómo quieres que me enfade](https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [ROJAZ](https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6) | [cómo quieres que me enfade](https://open.spotify.com/album/1zVgjMZ9dOV8deVpLNxqeD) | 2:40 |
+| 53 | [Planeando Madrid](https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7) | 4:12 |
 | 54 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 55 | [No Sé Decirte No](https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:54 |
 | 56 | [Lo Que Quieras](https://open.spotify.com/track/2HdH6NjrNohunHNBpWpq6C) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Lo Que Quieras](https://open.spotify.com/album/3dFWF6oT1yyze66ZP2NBmC) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 59 | [arcade](https://open.spotify.com/track/3YUrTgRbFtmaSHQRa8S4tj) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [arcade](https://open.spotify.com/album/3znNGjAnJQMoOAmWJWmzW8) | 1:40 |
 | 60 | [me gusta que me gustes](https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [me gusta que me gustes](https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv) | 2:35 |
 
-Snapshot ID: `MTY3MjQyNzY1NCwwMDAwMDAwMDVkYWU5NWI5ZWM5NGEyNjJjNTgzYjliODYxYjlhYWMx`
+Snapshot ID: `MTY3MjQyNzY1NCwwMDAwMDAwMDU1NGEwM2E3ZDk2OGUzODE0Y2E3OGQ0NjM1ZTZmNzY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Gemelos de Sinaloa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,718 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,837 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 54 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 |
 | 55 | [El Baleado](https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Baleado](https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX) | 3:39 |
 | 56 | [Dejalo Ir](https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 2:57 |
-| 57 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
+| 57 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 |
 | 58 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 |
-| 59 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 |
+| 59 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
 | 60 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 |
 | 61 | [Okay](https://open.spotify.com/track/61wFYRQjmlHr9CZSJdNOoA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Okay](https://open.spotify.com/album/3eK7UxndGddxgi819TiiUY) | 2:50 |
 | 62 | [El Plumas \- En Vivo](https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Plumas \(En Vivo\)](https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 |
 | 100 | [El Mal Camino](https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Mal Camino](https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38) | 3:58 |
 
-Snapshot ID: `MTY3MzI0NDMzNSwwMDAwMDAwMDRmYjc0MGYxNWEyYWEwOTMzZDFlNzY5Y2NhYTUzNGMw`
+Snapshot ID: `MTY3MzI0NDMzNSwwMDAwMDAwMGYzZjBmZDM2YTNkYTQ5YzU3YjA3OTU5ZjFkNjc2MWY1`

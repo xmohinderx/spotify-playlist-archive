@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,842 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,846 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 21 | [Relicário](https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Relicário](https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR) | 3:11 |
 | 22 | [Convoque Seu Buda](https://open.spotify.com/track/2FtVRCIZmGxORMNVyHKLbg) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Convoque Seu Buda](https://open.spotify.com/album/48k5IgjoER3755RUTy5EHh) | 3:51 |
 | 23 | [Hoje Cedo](https://open.spotify.com/track/2C9LPYpH9YUgROQDHfRXrU) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 3:14 |
-| 24 | [Muleque De Vila](https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 4:34 |
+| 24 | [Raplord](https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Jonas Bento](https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN) | [Teto Baixo](https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q) | 4:23 |
 | 25 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 |
-| 26 | [Raplord](https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Jonas Bento](https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN) | [Teto Baixo](https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q) | 4:23 |
+| 26 | [Muleque De Vila](https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 4:34 |
 | 27 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
 | 28 | [Irmão DQbrada!](https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Irmão Dqbrada!](https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc) | 6:00 |
 | 29 | [Mandona \- Acústico](https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Mandona \(Acústico\)](https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Vem Tranquilo](https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Santzu](https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Mixtape: O Homem Não para Nunca, Vol\. 1](https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF) | 4:54 |
 | 60 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
 
-Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDg0MWMwMjE5YWQzN2NhNmU4M2M2OTg4ZDdmM2U1OTg3`
+Snapshot ID: `MTY3MTU3MDg3MCwwMDAwMDAwMDZkNWE4MGE1MTI3NTQzNTBkYjdiODk4MWYzMzhiMjFj`

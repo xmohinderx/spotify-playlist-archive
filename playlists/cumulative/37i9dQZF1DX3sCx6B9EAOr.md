@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-591 songs - 1 day 8 hr 56 min
+592 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-12-19 |  |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-12-07 | 2022-06-21 |
 | [Chronograph](https://open.spotify.com/track/1qHBk92AaOQR4w5uzBfFGb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chronograph](https://open.spotify.com/album/0BZsGRXuCwTB0FpbuWLXCV) | 3:00 | 2022-03-24 | 2022-04-19 |
+| [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-11 |  |
 | [Cinema](https://open.spotify.com/track/1AXQA5Rl0YxF17fCLs1yT8) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 4th EP Album \`HELLO' Chapter Ø\. Hello, Strange Dream](https://open.spotify.com/album/0OUZ7Sv3x2SEECD3uUTRuX) | 3:12 | 2021-12-07 | 2022-07-12 |
 | [Cinema](https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 4th EP Album ‘HELLO’ Chapter Ø\. Hello, Strange Dream](https://open.spotify.com/album/6uQFA464X4qBT7QOEmZlBm) | 3:12 | 2021-12-07 | 2022-07-27 |
 | [city](https://open.spotify.com/track/5XXifFTMLzLyO5M5UTR8qm) | [BBAhn](https://open.spotify.com/artist/3WAl6fRK6T9akrM3Cdl4ki) | [city](https://open.spotify.com/album/6rV3ni3Q8TjbYM1QKfhLks) | 2:55 | 2022-03-24 | 2022-04-15 |
@@ -455,7 +456,7 @@
 | [Runaway](https://open.spotify.com/track/36U4lQvAwQUlw2i5h9rohr) | [MAGO](https://open.spotify.com/artist/7Bot84kmw6HboO5cTVSLXP) | [200913](https://open.spotify.com/album/0pBEobF5VSksQifBgdw1eA) | 3:04 | 2022-03-24 | 2022-07-24 |
 | [Runner \(feat\. CHANGMO\)](https://open.spotify.com/track/5QwLHJDelqEuMEEOT4oLy9) | [T1](https://open.spotify.com/artist/4EilAKej00Ih2NLMbYqQyI), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Runner \(feat\. CHANGMO\)](https://open.spotify.com/album/5R1Tccp8xtfsvohFWvEPqi) | 2:51 | 2022-01-03 | 2022-04-21 |
 | [Runners](https://open.spotify.com/track/6VMxqM227Y8uKAbo6bqRXm) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S) | [Tocca Brown : Highteen Rockstars](https://open.spotify.com/album/2LptDqL5Qvf5LsHxNksrub) | 2:52 | 2022-01-03 | 2022-04-13 |
-| [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2021-12-07 |  |
+| [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2021-12-07 | 2023-01-11 |
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2022-02-14 | 2022-04-21 |
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2022-03-24 | 2022-04-13 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-07 |  |

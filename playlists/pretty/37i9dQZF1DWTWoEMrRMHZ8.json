@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Toquinho",
-  "num_followers": 330748,
+  "num_followers": 330830,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDAxNzYzNjExMDk1OTUyZDVlMzkzYmFhZGUyZTEzZGRl",
+  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMGFlZDJiMGI4NjNkODc2Yjc2Y2ZiNzNmZGQ4YmIyOTFh",
   "tracks": [
     {
       "added_at": "2023-01-06 03:00:00",
@@ -215,18 +215,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+        "name": "No Escuro",
+        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+      "duration_ms": 238384,
+      "name": "No Escuro",
+      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -251,22 +255,18 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "No Escuro",
-        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 238384,
-      "name": "No Escuro",
-      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "O Caderno",
         "url": "https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "A fila",
+        "url": "https://open.spotify.com/album/6koEshxvrVQc4Dc1HZb7bE"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 201486,
+      "name": "A fila",
+      "url": "https://open.spotify.com/track/7AWjDlpdAML5IQxXY3dHpa"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -1079,22 +1099,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "A fila",
-        "url": "https://open.spotify.com/album/6koEshxvrVQc4Dc1HZb7bE"
+        "name": "Preciso Me Encontrar",
+        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
         },
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Pl\u00ednio Profeta",
+          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
         }
       ],
-      "duration_ms": 201486,
-      "name": "A fila",
-      "url": "https://open.spotify.com/track/7AWjDlpdAML5IQxXY3dHpa"
+      "duration_ms": 168681,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1115,22 +1135,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Preciso Me Encontrar",
-        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
       },
       "artists": [
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "Pl\u00ednio Profeta",
-          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 168681,
-      "name": "Preciso Me Encontrar",
-      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1199,26 +1219,6 @@
       "duration_ms": 156250,
       "name": "Sem Pensar No Amanh\u00e3",
       "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "A Palo Seco (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "A Palo Seco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "A Palo Seco (Radio Edit)",
-        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "A Palo Seco - Radio Edit",
-      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Twoth Pick",
+        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
+      },
+      "artists": [
+        {
+          "name": "RodCebrian",
+          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Essa Menina",
+      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Alagados",
         "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Twoth Pick",
-        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
-      },
-      "artists": [
-        {
-          "name": "RodCebrian",
-          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Essa Menina",
-      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "On",
+        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
+      },
+      "artists": [
+        {
+          "name": "Helena Elis",
+          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "On",
+      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
-      },
-      "artists": [
-        {
-          "name": "Helena Elis",
-          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "On",
-      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
     },
     {
       "added_at": "2023-01-06 03:00:00",

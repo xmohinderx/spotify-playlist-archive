@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,571 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,574 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 23 | [Hulahoop Wounds](https://open.spotify.com/track/3uwAwOdZubXp2xdN8t85cw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:24 |
 | 24 | [Ursa Minor](https://open.spotify.com/track/6xfIRp2iifXKbNYOUsLY76) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:22 |
 | 25 | [Continuum](https://open.spotify.com/track/5z5DVvRd8Wkr9fWz8Pb64A) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 4:02 |
-| 26 | [Schaffino](https://open.spotify.com/track/1dYBzV2cObLLx8SLqx4hWT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:48 |
+| 26 | [Communication Drive\-in](https://open.spotify.com/track/3F3kBSAsSongfPxmwF83ln) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 1:44 |
 | 27 | [Catacomb](https://open.spotify.com/track/57ZTyoRXlwQrhXZuq0cfCQ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Catacomb](https://open.spotify.com/album/6rMTnk6gBiqzqKIvn1Ruj1) | 3:44 |
 | 28 | [Point Of Demarkation](https://open.spotify.com/track/6v3MSw7N5mKTgKFjXtTwFo) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 4:21 |
 | 29 | [Hostage Stamps](https://open.spotify.com/track/2brkhCo9HHjt3Z2ThG8eel) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:53 |
-| 30 | [Communication Drive\-in](https://open.spotify.com/track/3F3kBSAsSongfPxmwF83ln) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 1:44 |
+| 30 | [Schaffino](https://open.spotify.com/track/1dYBzV2cObLLx8SLqx4hWT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:48 |
 | 31 | [Ebroglio](https://open.spotify.com/track/6lXXFgQwctMBep5lEWX7Ei) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:47 |
 | 32 | [Ticklish](https://open.spotify.com/track/2mNBIB5IaWgCl9HPYrr5YM) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 4:35 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA2Y2RjNzg3ZDZiMTQ1ZjFkODgwZTFlMjU2ZGUwNmI4Ng==`
+Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDAwMWEyMzk2YzFjOTAyOWFkM2IwMmFjODFhMzQyODU2Yw==`

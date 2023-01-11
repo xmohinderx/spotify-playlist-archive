@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > \#ootd
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,535 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,854 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 34 | [Palace/Curse \(feat\. Tyler, The Creator & Steve Lacy\)](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 7:20 |
 | 35 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 36 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
-| 37 | [FOMF](https://open.spotify.com/track/1q9huadusReYqEjnENS3uw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:40 |
-| 38 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 |
+| 37 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 |
+| 38 | [FOMF](https://open.spotify.com/track/1q9huadusReYqEjnENS3uw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 2:40 |
 | 39 | [You Never Visit Me](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
 | 40 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 |
 | 41 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 49 | [Milkshake](https://open.spotify.com/track/6OYt65uojulET7Kv7BRRrP) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Milkshake](https://open.spotify.com/album/683wuaSrwpMQHUDfhPtYun) | 1:49 |
 | 50 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 |
 
-Snapshot ID: `MTY3Mjc1NzEzOSwwMDAwMDAwMDQ1MDVlZGYwYzQ0MGY5ZjY3OWE5ZjM1YThlNDZlN2Vh`
+Snapshot ID: `MTY3Mjc1NzEzOSwwMDAwMDAwMDVlODExNDg1NzFkYzJjYmVhOGZiNmYyMDNiZjkyODBl`

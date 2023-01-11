@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,119 likes - 43 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,120 likes - 43 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
-| 2 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
+| 2 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 |
 | 3 | [Ever Fallen In Love](https://open.spotify.com/track/1UHmaVttRXoEd1ADmLgRIx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0) | 2:52 |
 | 4 | [Counting 5\-4\-3\-2\-1](https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:19 |
 | 5 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 |
-| 6 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 |
+| 6 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
 | 7 | [Jet Black New Year](https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Five Stories Falling](https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj) | 4:49 |
 | 8 | [Running From The Rain](https://open.spotify.com/track/4CRaYUB98nYPtL5P9TxMnD) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 4:00 |
 | 9 | [Concealer](https://open.spotify.com/track/3EPVk0rM704NDj9hWDne63) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 2:19 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 25 | [Magnets Caught in a Metal Heart](https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:41 |
 | 26 | [Sugar In The Sacrament](https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 5:10 |
 | 27 | [Streaks in the Sky](https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:26 |
-| 28 | [Resuscitation of a Dead Man](https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:22 |
+| 28 | [Friends In The Armed Forces](https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:10 |
 | 29 | [No Answers](https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:52 |
 | 30 | [Voices On A String](https://open.spotify.com/track/1x4hsESxhGafiTFQDIAsCx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 3:32 |
 | 31 | [Porcelain](https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:36 |
-| 32 | [Friends In The Armed Forces](https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:10 |
+| 32 | [Resuscitation of a Dead Man](https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:22 |
 | 33 | [Sparks Against the Sun](https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:45 |
 | 34 | [Ladies And Gentlemen: My Brother, The Failure](https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 4:12 |
 | 35 | [Introduction](https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 1:58 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 42 | [You Were The Cancer](https://open.spotify.com/track/5T3aOfEHkhipnFkPqBADjj) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 5:49 |
 | 43 | [Beyond The Visible Spectrum](https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:59 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA3MTA2ZjYyOWE0ZmFkYzFmNGYyMGM3NmQ1YmViNGM5ZA==`
+Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDBhMGJkMDZiZjU0NmMyYjE2YzVkNTQyNjkxODczOTE5MA==`

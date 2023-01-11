@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Let's Talk About It",
+        "url": "https://open.spotify.com/album/0J0aCszy6epzsN60DXaR2k"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "Let's Talk About It",
+      "url": "https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 414106,
       "name": "Trigger Protection Mantra",
       "url": "https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP"

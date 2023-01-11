@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Queen Naija
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,239 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,543 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

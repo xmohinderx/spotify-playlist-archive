@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 42234,
+  "num_followers": 42315,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGY4ODQ0ZmFjMzMyNWNmNTJlNGE4MWIwYTQ5OGYzMWIx",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDFjZTc4Yjk1MDg3ZjlhM2Y4M2VhNTY2M2FhNTNmYTdj",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
-    },
-    {
       "added_at": "2022-02-14 15:14:54",
       "album": {
         "name": "A Midnight Rendezvous",
@@ -459,6 +443,22 @@
       "duration_ms": 237586,
       "name": "Pioneer Town",
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 224237,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 261562,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Summer in Blue",
@@ -529,20 +513,20 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
       },
       "artists": [
         {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -565,20 +549,20 @@
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
         }
       ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -601,6 +585,38 @@
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "SHINE!",
@@ -619,22 +635,6 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Chicago Morning",
+        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
+      },
+      "artists": [
+        {
+          "name": "Spontaneous Groovin' Combustion",
+          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Chicago Morning",
+      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
+    },
+    {
       "added_at": "2022-01-28 05:02:00",
       "album": {
         "name": "Soul to Soul",
@@ -687,38 +703,6 @@
       "duration_ms": 229237,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
-      },
-      "artists": [
-        {
-          "name": "Marco Giubileo",
-          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
-        },
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        },
-        {
-          "name": "Kim Stone",
-          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
-        },
-        {
-          "name": "Roberto Soggetti",
-          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
-        },
-        {
-          "name": "Simone Boffa",
-          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "III",
-      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -745,22 +729,6 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Piano Tales",
-        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 248712,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -781,20 +749,20 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Chicago Morning",
-        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
+        "name": "Piano Tales",
+        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
       },
       "artists": [
         {
-          "name": "Spontaneous Groovin' Combustion",
-          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
         }
       ],
-      "duration_ms": 260398,
-      "name": "Chicago Morning",
-      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
+      "duration_ms": 248712,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -833,6 +801,38 @@
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
+      },
+      "artists": [
+        {
+          "name": "Marco Giubileo",
+          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
+        },
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        },
+        {
+          "name": "Kim Stone",
+          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
+        },
+        {
+          "name": "Roberto Soggetti",
+          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
+        },
+        {
+          "name": "Simone Boffa",
+          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
+        }
+      ],
+      "duration_ms": 231267,
+      "name": "III",
+      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
+    },
+    {
       "added_at": "2022-10-17 15:45:13",
       "album": {
         "name": "Unspeakable",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
     },
     {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Driving All Night",
+        "url": "https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz"
+      },
+      "artists": [
+        {
+          "name": "Igor Gerzina",
+          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
+        }
+      ],
+      "duration_ms": 210714,
+      "name": "Driving All Night",
+      "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
+    },
+    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Donut Jam",
@@ -863,22 +879,6 @@
       "duration_ms": 216437,
       "name": "Donut Jam",
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     }
   ],
   "unique_name": "New Smooth Jazz",

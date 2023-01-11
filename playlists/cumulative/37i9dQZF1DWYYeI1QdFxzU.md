@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-110 songs - 8 hr 3 min
+111 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Feel](https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG) | 5:54 | 2021-10-15 |  |
 | [Feelings Of Unreality](https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/3N0eERc3grlFcQGwWF3J70) | 3:55 | 2021-10-15 | 2022-11-09 |
 | [Feelings Of Unreality](https://open.spotify.com/track/6DNUm6RHHd9LzPSNC0SaBD) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/2I32leZu15Vr0HQSyqXbtU) | 3:55 | 2021-10-15 | 2022-07-06 |
+| [Fires](https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo) | 4:39 | 2021-10-15 |  |
 | [Fires](https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 4:39 | 2021-10-15 | 2023-01-05 |
 | [Fires](https://open.spotify.com/track/4UBvcf6BZhHTNyizI9R1jf) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Fires](https://open.spotify.com/album/6iM6VTixlzgFqRR0L2oqZI) | 4:39 | 2021-10-15 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 | 2021-10-15 |  |
@@ -63,7 +64,7 @@
 | [Joyfulness \- Elkka Remix](https://open.spotify.com/track/5fNtRyUHsHo3MxOJjLbUZy) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4), [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Joyfulness \(Elkka Remix\)](https://open.spotify.com/album/7CCMZG6G3DVWhmWuUV79cX) | 5:14 | 2021-10-15 | 2022-07-29 |
 | [Landing](https://open.spotify.com/track/7pEHO7i3BEC6v0CF8XC2VX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Landing](https://open.spotify.com/album/3IVFO2nbKNWY1rmxtJdNfz) | 4:13 | 2021-10-15 | 2022-07-28 |
 | [Liquid](https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Foundations](https://open.spotify.com/album/72fLE2pqPY9MPpA9FS2E39) | 5:37 | 2021-10-15 | 2022-07-29 |
-| [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 | 2021-10-15 |  |
+| [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 | 2021-10-15 | 2023-01-11 |
 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 | 2021-10-15 |  |
 | [Magic\-\-Pearl](https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 3:20 | 2021-10-15 |  |
 | [Magic\-\-Pearl](https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 3:20 | 2021-10-15 | 2022-10-26 |

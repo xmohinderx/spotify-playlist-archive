@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Danny Schiller",
+  "description": "",
   "name": "Mixto",
   "tracks": [
+    {
+      "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "18+1",
+      "url": "https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe"
+    },
     {
       "album": {
         "name": "22/2/22 (feat. Paula Cendejas)",
@@ -74,7 +96,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -96,6 +118,28 @@
       "duration_ms": 182500,
       "name": "Acl\u00e1rate",
       "url": "https://open.spotify.com/track/2LewcRYN0lmAPcqzhPiDnx"
+    },
+    {
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167218,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
     },
     {
       "album": {
@@ -363,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168828,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
+    },
+    {
+      "album": {
         "name": "NUEVE",
         "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
       },
@@ -515,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164708,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
       },
@@ -584,7 +664,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 160408,
       "name": "best damn thing",
       "url": "https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF"
@@ -1432,7 +1512,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 196231,
       "name": "Del Amor Al Odio",
       "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
@@ -1450,7 +1530,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 166548,
       "name": "Demasiado Loco",
       "url": "https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM"
@@ -2175,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Frekes",
+        "url": "https://open.spotify.com/album/55NHIcm8F6nBjXnILMX6h8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202393,
+      "name": "Frekes",
+      "url": "https://open.spotify.com/track/1bmc5LVO2Bo2zWXQY9wV7A"
+    },
+    {
+      "album": {
         "name": "Fresh Water",
         "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
       },
@@ -2560,7 +2658,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 180000,
       "name": "Hate Being In Love",
       "url": "https://open.spotify.com/track/1lCOpGK9fuqFb7Obfxk6jn"
@@ -2738,7 +2836,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 148490,
       "name": "I Love You Bitch",
       "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
@@ -2818,6 +2916,24 @@
       "duration_ms": 244666,
       "name": "If I Should Die",
       "url": "https://open.spotify.com/track/7brlxQj9clMkwWtnd5gguZ"
+    },
+    {
+      "album": {
+        "name": "In the Essence",
+        "url": "https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "In the Essence",
+      "url": "https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4"
     },
     {
       "album": {
@@ -3192,7 +3308,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 203546,
       "name": "LENTITO",
       "url": "https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb"
@@ -3323,6 +3439,54 @@
     },
     {
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185522,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX"
+    },
+    {
+      "album": {
+        "name": "ALL-YOU-CAN-EAT VOL.1",
+        "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196764,
+      "name": "Los Gatos",
+      "url": "https://open.spotify.com/track/4S7W08Iiv31ukWIwkXH1NS"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -3418,7 +3582,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 213977,
       "name": "Made of Gold - Edit",
       "url": "https://open.spotify.com/track/3pMtWCYO44ow0AOj1RL99O"
@@ -3904,6 +4068,24 @@
       "duration_ms": 140440,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "album": {
@@ -4644,7 +4826,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 155612,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/1rIsbHS2pHFa1mOxJ9xG6k"
@@ -4946,7 +5128,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 169247,
       "name": "Si Estuvi\u00e9semos Juntos",
       "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
@@ -5670,7 +5852,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 170095,
       "name": "TU SI K TA LOKO",
       "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
@@ -5696,6 +5878,28 @@
       "duration_ms": 185112,
       "name": "Tuve (feat. Gabriel Garz\u00f3n-Montano)",
       "url": "https://open.spotify.com/track/2oDo7wcuPdioyVCCku2ITh"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "album": {
@@ -5986,6 +6190,24 @@
       "duration_ms": 240653,
       "name": "Will I See You Again?",
       "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
+    },
+    {
+      "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
       "album": {

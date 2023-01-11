@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 448381,
+  "num_followers": 448413,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2MzQ5MiwwMDAwMDAwMDA0MjE1ZjQzN2RhODJmZWNkOTZjNjlmOGRkNDQxNDI5",
+  "snapshot_id": "MTY3MzA2MzQ5MiwwMDAwMDAwMGIyMGJmMDZlOGYyMTJmODA0ZDI1NzFlM2YxMmVmMzBl",
   "tracks": [
     {
       "added_at": "2023-01-04 00:23:28",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
+      "added_at": "2022-03-30 04:42:42",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -459,22 +475,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2022-07-28 05:59:17",
@@ -525,38 +525,6 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
-      "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -589,6 +557,38 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
       "added_at": "2022-08-03 02:49:15",
       "album": {
         "name": "Shallots",
@@ -603,26 +603,6 @@
       "duration_ms": 221298,
       "name": "Shallots",
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
-    },
-    {
-      "added_at": "2022-03-11 06:17:20",
-      "album": {
-        "name": "The Vaulting Sky",
-        "url": "https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje"
-      },
-      "artists": [
-        {
-          "name": "Eli Keszler",
-          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
-        },
-        {
-          "name": "Kode9",
-          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
-        }
-      ],
-      "duration_ms": 333279,
-      "name": "Static Doesn't Exist - Kode9 Remix",
-      "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
     },
     {
       "added_at": "2022-07-08 04:48:31",
@@ -643,6 +623,26 @@
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
+    },
+    {
+      "added_at": "2022-03-11 06:17:20",
+      "album": {
+        "name": "The Vaulting Sky",
+        "url": "https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        },
+        {
+          "name": "Kode9",
+          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
+        }
+      ],
+      "duration_ms": 333279,
+      "name": "Static Doesn't Exist - Kode9 Remix",
+      "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f"
     },
     {
-      "added_at": "2022-03-18 05:02:00",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
       "added_at": "2022-08-31 03:28:18",
       "album": {
         "name": "Solar Plexus",
@@ -827,6 +811,22 @@
       "duration_ms": 229090,
       "name": "Solar Plexus",
       "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
+    },
+    {
+      "added_at": "2022-03-18 05:02:00",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
       "added_at": "2022-03-11 06:33:02",

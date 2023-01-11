@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits! Foto: OneRepublic",
-  "num_followers": 6297930,
+  "num_followers": 6299305,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDA4OTRjNWY2YzY4NGE0ZWZmNDJkNzU3OTZkODhlZDcw",
+  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDQwNWM4ZmUzODllZjY4YWQ3N2M2MzdkMmViZjljOTQy",
   "tracks": [
     {
       "added_at": "2023-01-06 03:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 267504,
+      "name": "Nothing Is Lost (You Give Me Strength)",
+      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 267504,
-      "name": "Nothing Is Lost (You Give Me Strength)",
-      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
     },
     {
       "added_at": "2023-01-06 03:00:00",

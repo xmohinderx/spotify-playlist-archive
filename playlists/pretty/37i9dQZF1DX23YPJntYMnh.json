@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 455323,
+  "num_followers": 455374,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMDhhZWE4MGI1NDgzZGQ4NjgxODU5NzAyMjQ2NWVmMTc0",
+  "snapshot_id": "MTY3MTc3MTYwMCwwMDAwMDAwMGQ4NzU3ZTMwY2U5NmY3ZWFmNjYzMjRlZmJiMmJjOTll",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -561,10 +561,10 @@
       "url": "https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Return of the Dream Canteen",
-        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 202888,
-      "name": "The Drummer",
-      "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
+      "duration_ms": 217133,
+      "name": "Suck My Kiss",
+      "url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "The Best of Eric Burdon & War",
         "url": "https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 237400,
       "name": "Tobacco Road",
       "url": "https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"
     },
     {
       "added_at": "2022-02-04 05:02:00",

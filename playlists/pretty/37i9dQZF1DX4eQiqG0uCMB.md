@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,561 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,599 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 17 | [Again](https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 2:36 |
 | 18 | [Confession](https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Confession](https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF) | 3:08 |
 | 19 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
-| 20 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 20 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
 | 21 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
-| 22 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
+| 22 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 23 | [Contraband](https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:43 |
 | 24 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 |
 | 25 | [Thug Love](https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Thug Love](https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 49 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 |
 | 50 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
 
-Snapshot ID: `MTY2OTk1NjgxMiwwMDAwMDAwMGU1MzI4ZDkyNmM0ZmRlODkwOTRkYzZmMDI3OTc4MmE5`
+Snapshot ID: `MTY2OTk1NjgxMiwwMDAwMDAwMDEwMmViNDQyMzVkZmQ0MTE1Nzc3ZTE4NDBlNDA5MjNk`

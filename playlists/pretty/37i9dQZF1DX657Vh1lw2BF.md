@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف: ياسر عبدالوهاب و زيد الحبيب
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,142 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,190 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 48 | [Alqut3a Alswda](https://open.spotify.com/track/5fV0f2vcMl8LWi9Y1U5sK4) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Alqut3a Alswda](https://open.spotify.com/album/0vIyyR9V6vFBYvnmulhY22) | 3:59 |
 | 49 | [Baad Nerga Ma Areed](https://open.spotify.com/track/4mdAb5pWJd5B6bs4tH19zZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Baad Nerga Ma Areed](https://open.spotify.com/album/5d3CnENBiFVZBUwBGNHlEY) | 3:52 |
 | 50 | [Arahen Bek](https://open.spotify.com/track/2CxAQ1mdOJLcYjriAucuTr) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Ghassan Barsim](https://open.spotify.com/artist/7DotftTLVBmBRACF8K1hK4) | [Arahen Bek](https://open.spotify.com/album/3JHnfBjf3BOkhL8QahUcVE) | 4:00 |
-| 51 | [Awel Mara](https://open.spotify.com/track/5PIUdhw0npMzWozHZzC7Dg) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Awel Mara](https://open.spotify.com/album/2j8kRtxQ6mzA5TsWFMTWj8) | 4:03 |
 
-Snapshot ID: `MTY3MzAxMzc4MCwwMDAwMDAwMDE0YmRkMTQ0NmQ1ODQ1NzVmNzI2MmMwZjA5OTBhNTQy`
+Snapshot ID: `MTY3MzMzNjY1OCwwMDAwMDAwMGNjYWE3YzgxY2E3MjA4ZGM3OThiZGZlOWZiYmJiMmZi`

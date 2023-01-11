@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,108 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,275 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 64 | [I Was Only Joking](https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Foot Loose & Fancy Free](https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg) | 6:07 |
 | 65 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
 | 66 | [Chevy Van](https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw) | [Sammy Johns](https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH) | [Sammy Johns](https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z) | 2:59 |
-| 67 | [Oh Lori](https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:19 |
-| 68 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 |
+| 67 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 |
+| 68 | [Oh Lori](https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:19 |
 | 69 | [Make Believe](https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 3:43 |
 | 70 | [Burn Down The Mission](https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:22 |
 | 71 | [This Night Won't Last Forever](https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [Dialogue](https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK) | 4:01 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 73 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
 | 74 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
 | 75 | [Fountain of Sorrow \- Remastered](https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Late for the Sky \(Remastered\)](https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP) | 6:52 |
-| 76 | [Imaginary Lover](https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 5:07 |
-| 77 | [He Got You](https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:31 |
-| 78 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
+| 76 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
+| 77 | [Imaginary Lover](https://open.spotify.com/track/3qxBN4nWvSDibXmEq5of9E) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 5:07 |
+| 78 | [He Got You](https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:31 |
 | 79 | [Little Jeannie](https://open.spotify.com/track/7pgAdesi3gGZO8lAyzOTvu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6di4cgOMxTkS0tUx5l07WW) | 5:17 |
 | 80 | [Somebody's Watching You](https://open.spotify.com/track/6xTCqwREMciIQl8PB3JGT8) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Seabra](https://open.spotify.com/album/3H7gm0dHWQ4CwHWItkQqIe) | 3:34 |
 
-Snapshot ID: `MTY1NzA0OTA1NywwMDAwMDAwMGQ3ZGE5Y2ZlOTAzYWU5OWM5OWFkMzlhOGVjMzc1YmNj`
+Snapshot ID: `MTY1NzA0OTA1NywwMDAwMDAwMDViMzYzOWU1NzVhY2JjMDkyN2Y0MGVmYWI5ZDcwNjQ5`

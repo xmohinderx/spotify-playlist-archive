@@ -4,7 +4,7 @@
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
 
-131 songs - 7 hr 40 min
+132 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Negro](https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:02 | 2021-08-13 |  |
 | [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 | 2022-07-15 |  |
 | [No Es Justo](https://open.spotify.com/track/1RTlTuLOdnmgbe11ynwR7c) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [No Es Justo](https://open.spotify.com/album/3CjbO5ZFF7fPc3XFxONAE6) | 4:11 | 2021-08-13 |  |
-| [No Me Conoce \- Remix](https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Me Conoce \(Remix\)](https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U) | 5:07 | 2021-08-13 |  |
+| [No Me Conoce \- Remix](https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Me Conoce \(Remix\)](https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U) | 5:07 | 2021-08-13 | 2023-01-11 |
+| [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2022-12-07 |  |
 | [No Te Vayas](https://open.spotify.com/track/3nowY0ZuWMuAmmAu1plEBP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:47 | 2021-08-13 |  |
 | [Noches Pasadas](https://open.spotify.com/track/66XlMyAfZjJ24GVa2qPF9c) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:42 | 2021-08-13 |  |
 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 | 2021-08-13 |  |

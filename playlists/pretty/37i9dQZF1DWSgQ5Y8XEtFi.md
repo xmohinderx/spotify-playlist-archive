@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,484 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,071 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 |
 | 2 | [Chirp](https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Chirp](https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo) | 2:14 |
-| 3 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
-| 4 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
+| 3 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
+| 4 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
 | 5 | [KICKFLIP](https://open.spotify.com/track/1cIIfWEkU5qLyspAGQD8ZA) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [KICKFLIP](https://open.spotify.com/album/4PhvQty4MaVQyuOezMov3z) | 2:22 |
 | 6 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 |
 | 7 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 20 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
 | 21 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 22 | [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 |
-| 23 | [Doja](https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:51 |
-| 24 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 |
+| 23 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 |
+| 24 | [Doja](https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:51 |
 | 25 | [If Self\-Destruction Was an Olympic Event, I’d Be Tonya Harding](https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:22 |
 | 26 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
 | 27 | [deadman \(feat\. Lil Toe\)](https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [bag or die](https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [Leglock](https://open.spotify.com/track/0hSJiWkzBTvJKrX5yHHBeJ) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [Big Juice tha Sip](https://open.spotify.com/album/3f5bEgjYmMGvUmXzUv9K2d) | 2:03 |
 | 50 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
 
-Snapshot ID: `MTY3MzAyMjgwNiwwMDAwMDAwMDk1ZGU3ZTllYzMxNWE1ZDY4MzQ1ZGUyZTZjODhkY2M4`
+Snapshot ID: `MTY3MzAyMjgwNiwwMDAwMDAwMDllZGI5ZjJiNTE4NGM4YWM4ODgzZjA3NTY4MDFjOWJl`

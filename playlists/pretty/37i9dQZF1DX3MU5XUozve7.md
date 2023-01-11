@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,688 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,138 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 71 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 72 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
 | 73 | [Dig Up Her Bones](https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [American Psycho](https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF) | 3:01 |
-| 74 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
+| 74 | [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 |
 | 75 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
-| 76 | [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 |
+| 76 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
 | 77 | [I Was a Teenage Anarchist](https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [White Crosses](https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ) | 3:15 |
 | 78 | [The Separation of Church and Skate](https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:09 |
 | 79 | [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Diamonds And Guns](https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ) | 4:01 |
 | 100 | [Six Years on Dope](https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 1:32 |
 
-Snapshot ID: `MTY1ODg1Mzk3MiwwMDAwMDAwMDNjZTQ2YTc3MTg4NGYwNTExYjY4NDVlNjU2M2U1Nzk0`
+Snapshot ID: `MTY1ODg1Mzk3MiwwMDAwMDAwMDliMGQ4ZThjYzI1MTlhMmY0Mzg2ZDJlZWQ4NDYyYTcx`

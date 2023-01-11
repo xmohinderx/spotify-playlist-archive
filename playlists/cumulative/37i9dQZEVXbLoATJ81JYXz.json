@@ -9489,6 +9489,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
       },
@@ -9500,7 +9518,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 172547,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
@@ -11942,7 +11960,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 163886,
       "name": "LIVET P\u00c5 EN PINNE",
       "url": "https://open.spotify.com/track/5fvrpWPEDhM6IDyKb56ySV"
@@ -17652,7 +17670,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -18032,7 +18050,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/6oEfLCekbv7T0ERha5IQO9"
@@ -21262,6 +21280,24 @@
       "duration_ms": 212453,
       "name": "V\u00e4lkommen in",
       "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"
+    },
+    {
+      "album": {
+        "name": "V\u00c4LKOMMEN TILL S\u00d6DRA",
+        "url": "https://open.spotify.com/album/6Ov9IoG4DndKVgilC20UY3"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "V\u00c4LKOMMEN TILL S\u00d6DRA",
+      "url": "https://open.spotify.com/track/4ygFhEjbNInflnSHfCOOxE"
     },
     {
       "album": {

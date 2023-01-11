@@ -4,7 +4,7 @@
 
 > ☀️
 
-265 songs - 13 hr 24 min
+266 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Horse Girl](https://open.spotify.com/track/6xaTMOrUsaTl96eGYZh6fB) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:06 | 2022-11-11 |  |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-05-06 |  |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-09-23 | 2022-10-05 |
+| [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 | 2023-01-11 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-05-06 |  |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-05-06 | 2022-07-18 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-10-14 | 2022-11-08 |
@@ -185,7 +186,7 @@
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-09-02 | 2022-09-24 |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2022-07-26 |  |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 | 2022-10-22 |
-| [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2022-12-02 |  |
+| [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2022-12-02 | 2023-01-11 |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-05-06 | 2022-09-26 |
 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 | 2022-07-15 | 2022-10-22 |
 | [Missili](https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Lungolinea.](https://open.spotify.com/album/7LnHiIlbFFtkaKdv1DTEYh) | 3:15 | 2022-07-15 | 2022-07-29 |

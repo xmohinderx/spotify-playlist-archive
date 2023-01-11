@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Prim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,212 likes - 107 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,303 likes - 107 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 27 | [i'd probably die in my bed](https://open.spotify.com/track/0Tc3VFHylUypUKv8xksgzM) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i'd probably die in my bed](https://open.spotify.com/album/0pLSKAQGMVVCsz6rYW9XH2) | 2:50 |
 | 28 | [Nonexistent](https://open.spotify.com/track/1GRmVddppX4bjnReG9um8b) | [Tappahall](https://open.spotify.com/artist/3Ghzgg4CEzt9wNdNfKcndW) | [Nonexistent](https://open.spotify.com/album/5aSbykZgfxUhDJMJIuxjfT) | 3:44 |
 | 29 | [Corazón Roto](https://open.spotify.com/track/5rBKKmiqq4PkU4eaQHuW6m) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW), [Carlotta Cosials](https://open.spotify.com/artist/3npNxahICTnLgXUWuw2ZAC) | [Corazón Roto](https://open.spotify.com/album/7j0hVxaar4vsfLMVDIqZLU) | 2:50 |
-| 30 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 |
+| 30 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 |
 | 31 | [stuck in the cloud](https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [stuck in the cloud](https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex) | 2:47 |
 | 32 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 33 | [Carillon](https://open.spotify.com/track/5y56Tx9WJ6YvNC9WBaEDND) | [FLORA](https://open.spotify.com/artist/1Dj2I2i4eF3Fznn8Lbzirs) | [Retrò](https://open.spotify.com/album/2MKsrra3k7cppOOp9Ncm86) | 3:33 |

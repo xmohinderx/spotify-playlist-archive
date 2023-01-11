@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-163 songs - 8 hr 40 min
+164 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 |  |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-28 | 2022-10-01 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-07 | 2022-11-26 |
-| [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 | 2022-11-18 |  |
+| [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 | 2022-11-18 | 2023-01-11 |
 | [All Night](https://open.spotify.com/track/1MQaVZyTK4Fqm8OZy3wE6q) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:23 | 2022-06-24 | 2022-08-09 |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-06-24 |  |
 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 | 2022-12-08 |  |
@@ -72,6 +72,7 @@
 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 | 2022-08-26 | 2022-09-10 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-06-24 | 2022-08-23 |
 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-07-22 | 2023-01-01 |
+| [If I Get Caught](https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2022-07-22 |  |
 | [If I Tried](https://open.spotify.com/track/2B3PNPir3BzpEigu0YMbFt) | [Valerie Omari](https://open.spotify.com/artist/3N98mfZLBy9b9LjkhByak6), [The Rabbi Himself](https://open.spotify.com/artist/7o1o0zPFCBM0otuAEdjW1W) | [If I Tried](https://open.spotify.com/album/2K7sXFXwxw2SpgDUCFPdC0) | 3:20 | 2022-12-02 | 2022-12-09 |
 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 | 2022-06-24 |  |
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-08-26 | 2022-11-26 |

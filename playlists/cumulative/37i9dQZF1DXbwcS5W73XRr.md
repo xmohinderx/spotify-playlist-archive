@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-82 songs - 8 hr 5 min
+83 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [This is Acid](https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl) | [Maurice](https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 4:37 | 2018-06-21 |  |
 | [Washing Machine](https://open.spotify.com/track/3p25Zh4Nt1pyvX8h2oCD9H) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 4:18 | 2018-06-21 |  |
 | [Weekend \(Wam Bam 12" Mix\)](https://open.spotify.com/track/0KZWKfZ22SUr9QVLZK2LEg) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekender \(Music From The Motion Picture & Further Inspiration\)](https://open.spotify.com/album/5wfCtpuibRW2GNWIr2hk7O) | 5:47 | 2018-06-21 | 2022-07-29 |
-| [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/3xvkdpv7lQuJVs11NYrVil) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend](https://open.spotify.com/album/2Mj7L02euCpY6T1IElCrBp) | 5:46 | 2018-06-21 |  |
+| [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/3xvkdpv7lQuJVs11NYrVil) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend](https://open.spotify.com/album/2Mj7L02euCpY6T1IElCrBp) | 5:46 | 2018-06-21 | 2023-01-11 |
+| [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/442N1OpSz4uRTJnMY7v1QS) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend / Just Wanna Dance](https://open.spotify.com/album/3SIKoJBWHk6hI4lrTMxSQl) | 5:46 | 2018-06-21 |  |
 | [You Used to Hold Me](https://open.spotify.com/track/02ePVbyZRQs0LQB5XrofKa) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 4:59 | 2018-06-21 |  |
 | [You Used to Hold Me](https://open.spotify.com/track/3hVnJ8rRSVa1tfgaYswfYn) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Ralphi Rosario's Greatest Hits](https://open.spotify.com/album/1X1NgiMTByMIIZkjvoAtXh) | 4:59 | 2018-06-21 | 2022-07-29 |
 | [Your Love](https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 6:43 | 2018-06-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1059100,
+  "num_followers": 1059041,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDY3ODFmZjQ2YjU1ZGUwNDgwZWVjM2UzODY4YTExNmNk",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDdlNDQxN2UyMzdmYjY4NzFlMjM5MTU0OTg2OThhYWU1",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 203653,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
     },
     {
       "added_at": "2020-08-27 16:10:25",

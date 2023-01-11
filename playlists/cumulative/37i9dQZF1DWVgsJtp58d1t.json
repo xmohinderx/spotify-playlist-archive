@@ -30300,10 +30300,32 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 143341,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/4DfFAEusF6M31qf6lgD0VA"
+    },
+    {
+      "album": {
+        "name": "Album Mode, Vol. 2",
+        "url": "https://open.spotify.com/album/4A8f0Z1JyDl02Okgp2niSH"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143341,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5JRIGWsLgnhW34XetrhbRB"
     },
     {
       "album": {

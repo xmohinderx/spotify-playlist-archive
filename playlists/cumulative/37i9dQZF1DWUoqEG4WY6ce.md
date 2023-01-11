@@ -4,7 +4,7 @@
 
 > Hop in.
 
-302 songs - 19 hr 25 min
+303 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 | 2020-10-29\* | 2022-07-29 |
 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-09-27 |  |
 | [Ophelia](https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Ophelia](https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh) | 2:40 | 2021-10-10 | 2021-10-16 |
-| [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2022-05-04 |  |
+| [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2022-05-04 | 2023-01-11 |
 | [Oxford Comma](https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 3:15 | 2022-05-04 | 2022-07-29 |
 | [Packed Powder](https://open.spotify.com/track/4JbKTG0iQ41As64aMNKkit) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [Packed Powder](https://open.spotify.com/album/7n5cBc4GxUh8ZAzzkWcNgS) | 3:36 | 2021-01-15 | 2022-05-22 |
 | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/4onPyHor2yOlVxCsIaGyHH) | 3:03 | 2020-10-29\* | 2022-07-29 |
@@ -205,6 +205,7 @@
 | [placeholder](https://open.spotify.com/track/6ABQcgTtAPCUyMkVwdRNJo) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/7y3l8rXPVyAspEngY1Beev) | 3:50 | 2020-10-29\* | 2021-10-16 |
 | [Potions](https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Potions](https://open.spotify.com/album/3b5PbgWTo7i4S00wFekoiV) | 3:10 | 2020-10-29\* | 2022-07-29 |
 | [Pressure To Party](https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:02 | 2020-10-29\* | 2022-07-29 |
+| [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2022-11-29 |  |
 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 | 2021-01-15 | 2022-11-25 |
 | [QB Sneak](https://open.spotify.com/track/15unSgWwOrLUUv8EhaXBij) | [Active Bird Community](https://open.spotify.com/artist/52atJIClJ4KZuYaIBLbNbH) | [QB Sneak](https://open.spotify.com/album/6hL4yMntwTQ53G2BUBkoTD) | 2:24 | 2021-01-27 | 2021-10-13 |
 | [Ragged Wood](https://open.spotify.com/track/5gXF3XyUkM9BVA8QW7uYUg) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 5:07 | 2021-01-15 | 2022-07-29 |

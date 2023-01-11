@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-159 songs - 9 hr 7 min
+161 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Giving Up](https://open.spotify.com/track/0oTz1tAimsacngMWagNdfB) | [sadHAPPY](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Giving Up](https://open.spotify.com/album/6YSG96DO3ly6aSALcvSVqL) | 3:04 | 2022-02-14 | 2022-11-09 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-27 |  |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-01-12 |  |
-| [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-09-06 |  |
+| [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-09-06 | 2023-01-11 |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2021-12-16 | 2022-10-29 |
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-09-06 |  |
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2021-12-16 | 2022-03-30 |
@@ -77,7 +77,7 @@
 | [hurt so bad](https://open.spotify.com/track/5c1gKtJkR8dPjki25BU7Qz) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [hurt so bad](https://open.spotify.com/album/2btlqRkfHY0u4IZdKk1lcC) | 4:02 | 2021-12-16 | 2022-04-12 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-04 |  |
 | [Hurts The Most](https://open.spotify.com/track/6SO2o0mJhtbsfwdwJfXKkk) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Hurts The Most](https://open.spotify.com/album/0IgxGIwmn9h0w5hepke0x8) | 3:22 | 2022-09-20 |  |
-| [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 | 2022-09-06 |  |
+| [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 | 2022-09-06 | 2023-01-11 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/0BxUvT1nQ9ufHlxEblueWx) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Power Pop Ballads](https://open.spotify.com/album/4qYoNCEXDoJkHpHHNflxpB) | 3:21 | 2022-11-08 | 2022-11-14 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-14 | 2022-10-28 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-14 |  |
@@ -93,6 +93,8 @@
 | [If We're Being Honest](https://open.spotify.com/track/6CfAtjogau9v9kmtZVrNG8) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [If We're Being Honest](https://open.spotify.com/album/6fktnVCm6NnlMd7pVcvweN) | 3:55 | 2021-12-16 | 2022-04-05 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-11-08 |  |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-03-29 |  |
+| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2023-01-10 |  |
+| [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2023-01-10 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-09-06 |  |
 | [Innocence and Sadness](https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 4:12 | 2022-11-22 |  |
 | [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-14 | 2022-11-24 |

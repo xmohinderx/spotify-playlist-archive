@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: VEDO",
-  "num_followers": 38698,
+  "num_followers": 38717,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDA3NzI5MzAyN2FiNDA4MDliMTU3MDFjYTQ3MDJhODIz",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM1ZWJkMmJiNDhiMzg2NDI4Yzc5OTRhZDA2ZTE3ZWVj",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "uni",
-        "url": "https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "uni",
-      "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Breezy",
@@ -1149,6 +1133,38 @@
       "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "uni",
+        "url": "https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "uni",
+      "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
+    },
+    {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Public Displays Of Affection: The Album",
@@ -1163,26 +1179,6 @@
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Forfeit. (ft. Lucky Daye)",
-      "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
     },
     {
       "added_at": "2022-09-09 04:09:30",
@@ -1205,20 +1201,24 @@
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 163700,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+      "duration_ms": 242400,
+      "name": "Forfeit. (ft. Lucky Daye)",
+      "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1255,22 +1255,6 @@
       "duration_ms": 200472,
       "name": "You Don\u2019t Know Me",
       "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
     },
     {
       "added_at": "2022-09-23 04:09:12",
@@ -1393,6 +1377,22 @@
       "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Feelings 4 You",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Um, Hello",
+        "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Crazy Down",
+      "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
+    },
+    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Dreams 2 Reality",
@@ -1441,20 +1457,20 @@
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Um, Hello",
-        "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
+        "name": "B.E.D",
+        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Crazy Down",
-      "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
+      "duration_ms": 173887,
+      "name": "B.E.D",
+      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1493,22 +1509,6 @@
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "B.E.D",
-        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "B.E.D",
-      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Love Letterz (Deluxe)",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "SCORPIO MOON - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc"
-      },
-      "artists": [
-        {
-          "name": "Phabo",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "SCORPIO MOON - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -1575,6 +1559,22 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "SCORPIO MOON - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1rqrKsQxo2QEjN4IwW0bbc"
+      },
+      "artists": [
+        {
+          "name": "Phabo",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "SCORPIO MOON - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1697,24 +1697,20 @@
       "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Late Night",
-        "url": "https://open.spotify.com/album/2aO2w1pK8fyvgTyJb4Q4SV"
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
       "artists": [
         {
-          "name": "DJ Spinz",
-          "url": "https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
         }
       ],
-      "duration_ms": 158228,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/3wieNkso3b4ctBodn0xUlQ"
+      "duration_ms": 194679,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz"
     },
     {
       "added_at": "2022-07-15 04:00:00",

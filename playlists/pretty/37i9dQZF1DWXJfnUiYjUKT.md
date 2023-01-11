@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Skrillex
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,266 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,439 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 30 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 |
 | 31 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 |
 | 32 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 |
-| 33 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Blowsom & Friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
+| 33 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
 | 34 | [Me For Me](https://open.spotify.com/track/2hA8TVIYUUNasI0lOMTy24) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Me For Me](https://open.spotify.com/album/51uOglEqOMOUyg2eVcJfgA) | 2:54 |
 | 35 | [one night](https://open.spotify.com/track/1aWXdwrRg1LahBt4Wn7yWZ) | [csurf](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [one night](https://open.spotify.com/album/6nyLLsYqQPX68hNag7N6tY) | 2:46 |
 | 36 | [Don't Love Me Now \(feat\. charlieonnafriday\)](https://open.spotify.com/track/1uWHol8i8GaYEDFq2MsH1p) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Don't Love Me Now \(feat\. charlieonnafriday\)](https://open.spotify.com/album/0pXAMS6EMJqb8mKIvQhxKd) | 2:02 |

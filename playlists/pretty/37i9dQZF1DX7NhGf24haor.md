@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: Sickmode & Rooler
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,614 likes - 106 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,773 likes - 106 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 10 | [Roll The Dice](https://open.spotify.com/track/4jTrgcQaRSDKTF5iBaq4yU) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ), [Jesse Jax](https://open.spotify.com/artist/1PYQj2h0huAOD01p2Bhn1O) | [Roll The Dice](https://open.spotify.com/album/5Kz7m9hUnPcOE5qjfXv6c6) | 3:43 |
 | 11 | [Luv with U](https://open.spotify.com/track/0g1DHfhX6B4RKqWF5nQVYh) | [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Luv with U](https://open.spotify.com/album/5cI3iGYRx5fGEVF7g7pSHm) | 2:33 |
 | 12 | [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 |
-| 13 | [Impossible \- Hardstyle Remix](https://open.spotify.com/track/506t1tFJOG0LhwuPkCiFP2) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Denis Kalytovskyi](https://open.spotify.com/artist/2TdyIW2Ol7vpofth27iAZi) | [Impossible \- Hardstyle Remix](https://open.spotify.com/album/4h5oicpFQZ7nipgbVoTOiF) | 2:41 |
+| 13 | [Impossible \- Hardstyle Remix](https://open.spotify.com/track/506t1tFJOG0LhwuPkCiFP2) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Denis Kalytovskyi](https://open.spotify.com/artist/2TdyIW2Ol7vpofth27iAZi) | [Impossible \(Hardstyle Remix\)](https://open.spotify.com/album/4h5oicpFQZ7nipgbVoTOiF) | 2:41 |
 | 14 | [Hold Me Close](https://open.spotify.com/track/4yjYEW0FRkMbQxSUd5BVSw) | [Physika](https://open.spotify.com/artist/52NpY0nQvHw021b9j9Ke3y) | [Hold Me Close](https://open.spotify.com/album/2etvn8vl09zowXj5pzSfu7) | 2:38 |
 | 15 | [H.M.K \- Spitfire Remix](https://open.spotify.com/track/4bwLgFDVGIYlbVkLx2AgoU) | [Re\-Mind](https://open.spotify.com/artist/3TDUb3qiPduMbQXp8ztZv7), [Spitfire](https://open.spotify.com/artist/0R24GpElISFAat9cNHEPLw) | [H.M.K \(Spitfire Remix\)](https://open.spotify.com/album/7CfkqsQFEY6KtYmZlHoaUU) | 3:14 |
 | 16 | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/track/4PnRDsx6405Mn5DeY25J5t) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Ecuador \(Hardstyle Mix\)](https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7) | 2:10 |

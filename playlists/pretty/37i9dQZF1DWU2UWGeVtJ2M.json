@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 140605,
+  "num_followers": 140648,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0MjIzMCwwMDAwMDAwMDcyNTIxOTAyMTg3ZGFmNjlhMTNjMzI2N2MzZWI2ZmMy",
+  "snapshot_id": "MTY3MzI0MjIzMCwwMDAwMDAwMDViMzFjMTcyNTI0NGEwYTY5ZWIyYTE0NTdmZjFhNTRi",
   "tracks": [
     {
       "added_at": "2023-01-09 05:30:30",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Firebabe",
-        "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "Firebabe",
-      "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "Firebabe",
+        "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "Firebabe",
+      "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 172354,
-      "name": "always",
-      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+      "duration_ms": 172354,
+      "name": "always",
+      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 155845,
+      "name": "daydreams",
+      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 194253,
       "name": "Live or Die",
       "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 155845,
-      "name": "daydreams",
-      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "Soft Sounds from Another Planet",
         "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 177206,
       "name": "Till Death",
       "url": "https://open.spotify.com/track/3wJVQr9ZfLZfcj19aIfjub"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2023-01-09 05:30:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,385 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,392 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 38 | [Un Gatito](https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Un Gatito](https://open.spotify.com/album/37mDIREfofAksvorhbC64M) | 3:05 |
 | 39 | [Vigilantes del Espejo](https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m) | 3:22 |
 | 40 | [Serenidad](https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs) | 3:28 |
-| 41 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
-| 42 | [Si te vas](https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:43 |
+| 41 | [Si te vas](https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:43 |
+| 42 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 43 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
 | 44 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
 | 45 | [No Sentir Nada](https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [No Sentir Nada](https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3) | 3:44 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 50 | [7 O 9 \- Ep\. 11: Las vidas de los gato](https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Rod Peralta](https://open.spotify.com/artist/60ESJBF6qMVrZZU9y0reU5), [BLĀCIO](https://open.spotify.com/artist/3GnKd9mY5vfxcIUMdEpyab) | [AZULÆ](https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo) | 3:40 |
 | 51 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 52 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 |
-| 53 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
-| 54 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
-| 55 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
+| 53 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
+| 54 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
+| 55 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 56 | [Cuando Quieres Jugar Conmigo](https://open.spotify.com/track/7w7FKUvuYrXojcMjHyQbgc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Verte Antes de Fin de Año](https://open.spotify.com/album/7koEe8boQfsuzueElXW1bb) | 3:38 |
 | 57 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 |
 | 58 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 88 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 | 89 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGM3NTIwMDliOGNiNzFlMDE3NjZmOGZiYmI3ZDI1MGRj`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGMwMDg0ODRjNTlkZDc2MzZjYmY5YTIyYTFiNzMwMWRk`

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 71466,
+  "num_followers": 71733,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY3MzcxMiwwMDAwMDAwMDY3NWQ5YjI5M2ZkMmNmMDkwMmU5YWQzYzc2NjAyYWNk",
+  "snapshot_id": "MTY3MzM1OTg3MiwwMDAwMDAwMGQ1NmQ0MjYzMzI0ZTgzMWFlZTVmYTk2Mjk0NzU4ODhm",
   "tracks": [
     {
       "added_at": "2023-01-02 15:35:12",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
-        "name": "Force Field",
-        "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Revelation Of The Heart",
-      "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
         "name": "Fuzzy Logic",
         "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+        "name": "Force Field",
+        "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
         }
       ],
-      "duration_ms": 270840,
-      "name": "West Coast Coolin'",
-      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
+      "duration_ms": 309826,
+      "name": "Revelation Of The Heart",
+      "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
     },
     {
       "added_at": "2023-01-02 15:35:12",
@@ -327,6 +311,22 @@
       "duration_ms": 318266,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/29EWQFBFg70fC4rIbknyrI"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "West Coast Coolin'",
+      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
     },
     {
       "added_at": "2023-01-02 15:35:12",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
+        "name": "Just What You Need",
+        "url": "https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "duration_ms": 277437,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/621sF1DBkZAr5mtbtjE8El"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
         "name": "Urban Knights III",
         "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 249226,
       "name": "Always Thinkin' Of You",
       "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
-        "name": "Just What You Need",
-        "url": "https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Jonathan Butler",
-          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
-        }
-      ],
-      "duration_ms": 277437,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/621sF1DBkZAr5mtbtjE8El"
     },
     {
       "added_at": "2023-01-02 15:35:12",
@@ -711,6 +711,38 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
         "name": "Soul To Souls",
         "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
       },
@@ -739,38 +771,6 @@
       "duration_ms": 303106,
       "name": "Ocean Way",
       "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"
     },
     {
       "added_at": "2023-01-02 15:35:12",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
         "name": "Love and Paragraphs",
         "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 243560,
       "name": "Have Your Cake And Eat It",
       "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2023-01-02 15:35:12",
@@ -887,6 +887,38 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
+        "name": "Kickin' It Up",
+        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "To The Max",
+      "url": "https://open.spotify.com/track/5fZWvZlO3SddhtKE6p57b4"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Can't Stop Now",
+      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
         "name": "White Sand",
         "url": "https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8"
       },
@@ -919,38 +951,6 @@
       "duration_ms": 287840,
       "name": "Floating in Bahia",
       "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Can't Stop Now",
-      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
-        "name": "Kickin' It Up",
-        "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "To The Max",
-      "url": "https://open.spotify.com/track/5fZWvZlO3SddhtKE6p57b4"
     },
     {
       "added_at": "2023-01-02 15:35:12",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 329346,
       "name": "Rozil",
       "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
     },
     {
       "added_at": "2023-01-02 15:35:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-01-02 15:35:12",
       "album": {
-        "name": "Smooth Jazz Radio Hits Volume Two",
-        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
-      },
-      "artists": [
-        {
-          "name": "Gota",
-          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "In The City Life",
-      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
-    },
-    {
-      "added_at": "2023-01-02 15:35:12",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 262666,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
+    },
+    {
+      "added_at": "2023-01-02 15:35:12",
+      "album": {
+        "name": "Smooth Jazz Radio Hits Volume Two",
+        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+      },
+      "artists": [
+        {
+          "name": "Gota",
+          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "In The City Life",
+      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
     },
     {
       "added_at": "2023-01-02 15:35:12",

@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 162666,
       "name": "3M",
       "url": "https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg"
@@ -1003,6 +1003,32 @@
     },
     {
       "album": {
+        "name": "Dew",
+        "url": "https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo"
+      },
+      "artists": [
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        },
+        {
+          "name": "hevel",
+          "url": "https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js"
+        },
+        {
+          "name": "DASU",
+          "url": "https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200357,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y"
+    },
+    {
+      "album": {
         "name": "To City",
         "url": "https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA"
       },
@@ -1098,6 +1124,24 @@
       "duration_ms": 160453,
       "name": "ELEVATOR FLOW",
       "url": "https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii"
+    },
+    {
+      "album": {
+        "name": "Elon Musk",
+        "url": "https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h"
+      },
+      "artists": [
+        {
+          "name": "Lov3rboi",
+          "url": "https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106086,
+      "name": "Elon Musk",
+      "url": "https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku"
     },
     {
       "album": {
@@ -1418,7 +1462,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 159735,
       "name": "GGOOM (feat. Jvcki Wai)",
       "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
@@ -1789,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "HOLLOW / MAMA",
+        "url": "https://open.spotify.com/album/2HeItRAtWsNtNdYIqGBTfq"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277948,
+      "name": "Hollow (feat. Owen)",
+      "url": "https://open.spotify.com/track/05mJDpRiOaFgkjYlzhf8xA"
+    },
+    {
+      "album": {
         "name": "space",
         "url": "https://open.spotify.com/album/2sZrEiT7qIJ07gEbldGjnB"
       },
@@ -1924,7 +1990,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 221020,
       "name": "hypnosis (feat. Terry)",
       "url": "https://open.spotify.com/track/538eP1hbGEyNAvIkeNAgk6"
@@ -2314,6 +2380,24 @@
       "duration_ms": 289090,
       "name": "khalifa (feat. Young B)",
       "url": "https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX"
+    },
+    {
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/0GJGagxsW2ICMbhu5E2rUq"
+      },
+      "artists": [
+        {
+          "name": "YEONSOO",
+          "url": "https://open.spotify.com/artist/6FmCROVFW3PQIlqoBYAocb"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247341,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/2ojPs9EOleXPZFvL7r6x6U"
     },
     {
       "album": {
@@ -4381,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0"
+      },
+      "artists": [
+        {
+          "name": "Vapo",
+          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164062,
+      "name": "Watch Out (Feat. sokodomo)",
+      "url": "https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD"
+    },
+    {
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/5k837IWARGZIaG4rQSS6hi"
       },
@@ -4716,7 +4822,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 272840,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy"
@@ -4752,7 +4858,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 132000,
       "name": "\u314e\u3137\u3137 (prod. \uc70c\ub77c)",
       "url": "https://open.spotify.com/track/2VGQZPkLknBBAVnjT25Cok"

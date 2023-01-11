@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Wiplash",
-  "num_followers": 277379,
+  "num_followers": 277401,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGUwNDc0MzNhOGJmMjQ3MjI5N2E2YjNmZDcyNWY2M2Rm",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDcyZDkwYmJiNzY2NTVmMWM1MDQ4YzZhZTI1NjE0ZGRh",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Alguien pa ti",
-        "url": "https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 179705,
-      "name": "Alguien pa ti",
-      "url": "https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Alguien pa ti",
+        "url": "https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 179705,
+      "name": "Alguien pa ti",
+      "url": "https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+        "name": "d Bien a MaL",
+        "url": "https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG"
       },
       "artists": [
         {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
         }
       ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+      "duration_ms": 182925,
+      "name": "d Bien a MaL",
+      "url": "https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "d Bien a MaL",
-        "url": "https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG"
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
       },
       "artists": [
         {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 182925,
-      "name": "d Bien a MaL",
-      "url": "https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A"
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2023-01-06 05:00:00",

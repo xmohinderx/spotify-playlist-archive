@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,600 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,912 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 16 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 |
 | 17 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
 | 18 | [Dreamer](https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:01 |
-| 19 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 |
-| 20 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 |
+| 19 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 |
+| 20 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 |
 | 21 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
 | 22 | [Hearts Don't Break Around Here](https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:08 |
 | 23 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 37 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 |
 | 38 | [I Tried](https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [After All](https://open.spotify.com/album/24gkn5s8FRrzke3fjt2GmK) | 3:15 |
 | 39 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
-| 40 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 |
+| 40 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 |
 | 41 | [Sky is the Limit](https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hello World](https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK) | 2:39 |
 | 42 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
 | 43 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 |
 | 44 | [Old Fashioned](https://open.spotify.com/track/3iI7E4AxiTf0Pmb7oWSjR0) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:19 |
-| 45 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 |
+| 45 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 |
 | 46 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 |
-| 47 | [Cruisin to the Park](https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Cruisin to the Park](https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY) | 3:32 |
-| 48 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
+| 47 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
+| 48 | [Cruisin to the Park](https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Cruisin to the Park](https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY) | 3:32 |
 | 49 | [Good In Me](https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Good In Me](https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX) | 2:28 |
 | 50 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
 | 51 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 69 | [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 |
 | 70 | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/album/6Xw2btwdvf4zFwt8XxBG0r) | 2:55 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDZlNDE0YjZlY2VjMzJjOTUxNWExNWExYTZhMTA2ODg4`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGY5OTM4NmUxNTY3NTBmYzMxMDU4NmMyZjBiZmE1MjFh`

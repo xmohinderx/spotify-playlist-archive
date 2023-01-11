@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,853 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,888 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 21 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
 | 22 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 |
 | 23 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 |
-| 24 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
-| 25 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
+| 24 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
+| 25 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
 | 26 | [Looking For Something](https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:09 |
 | 27 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
 | 28 | [Concorde](https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 6:03 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 31 | [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 |
 | 32 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
 | 33 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 |
-| 34 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
-| 35 | [Lying Through Their Teeth](https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Lying Through Their Teeth](https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24) | 2:37 |
+| 34 | [Lying Through Their Teeth](https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Lying Through Their Teeth](https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24) | 2:37 |
+| 35 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 36 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 |
 | 37 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
 | 38 | [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 42 | [heart attack](https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:26 |
 | 43 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 |
 | 44 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 |
-| 45 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
-| 46 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 |
-| 47 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
+| 45 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
+| 46 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
+| 47 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 |
 | 48 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 |
-| 49 | [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 |
+| 49 | [Blink](https://open.spotify.com/track/22rEAnPqaPscewQeBHVUX4) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Blink](https://open.spotify.com/album/5w2sFmpSZoeWlOtMYj3qUD) | 4:25 |
 | 50 | [Pretender](https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Pretender](https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP) | 2:08 |
 
-Snapshot ID: `MTY3MzAyNDgyNywwMDAwMDAwMGNhNGI3YzczMDE2MDZhNWU2NTMxODBjMGZmMTBhYThj`
+Snapshot ID: `MTY3MzAyNDgyNywwMDAwMDAwMDQ0ZjNiNGYyMmQyYzI4MmY5ZjQ5Y2E3ZTE0OGVjYTFk`

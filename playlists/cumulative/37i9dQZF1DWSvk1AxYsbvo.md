@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-143 songs - 8 hr 27 min
+144 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [iMessage \(feat\. Yeongene\)](https://open.spotify.com/track/3UASE6XnUUZnajVFc8DgBm) | [Uaieo](https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf), [Yeongene](https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL) | [iMessage](https://open.spotify.com/album/1dKIGupdr1iOs4cIqPK1JW) | 3:18 | 2022-06-18 | 2022-07-28 |
 | [Installing](https://open.spotify.com/track/5VrgEsjpYN9FS7hG5YHeGY) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Installing](https://open.spotify.com/album/4mxUPvgPxZeQ16vtxoRmEM) | 2:21 | 2022-06-18 | 2022-07-19 |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-05-03 | 2022-07-28 |
+| [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Kim Ho Yeon](https://open.spotify.com/artist/4bE7weEOII2Pjnf9wnbXT1) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 | 2023-01-10 |  |
 | [It's strange](https://open.spotify.com/track/5UUb6UXXjGhdO9gcyrjeCs) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:10 | 2022-05-03 | 2022-07-27 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2022-05-03 |  |
 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 | 2022-05-03 | 2022-07-29 |
@@ -87,7 +88,7 @@
 | [Oh I Know](https://open.spotify.com/track/4MCLG9DIQnysCNbMkfmE5V) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Oh I Know](https://open.spotify.com/album/4XLTja4mx8DMzHn8b2uMfp) | 3:42 | 2022-05-03 | 2022-07-29 |
 | [Olive](https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL) | 2:09 | 2022-10-13 |  |
 | [Olive](https://open.spotify.com/track/4npfaORHCIotPdE5pROSX8) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/4OOcKhTPbVZtDdy2WKVVEE) | 2:09 | 2022-06-18 | 2022-10-03 |
-| [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-26 |  |
+| [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-26 | 2023-01-11 |
 | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/track/3LcdUoTKft3YWEtD0kZsLm) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/album/0Z0gQleFzsGTfWQFWfq3mM) | 3:24 | 2022-05-03 | 2022-07-27 |
 | [Our love](https://open.spotify.com/track/4z5ym2rgXuOUKh7za9ktx2) | [CHOYEORAE](https://open.spotify.com/artist/0MVuyeZLOvw6KzkcO7pbqv) | [Our love](https://open.spotify.com/album/4fuN6kPyGZIDuSN1hQyqw5) | 2:56 | 2022-07-04 | 2022-07-09 |
 | [poet](https://open.spotify.com/track/0lwTmD4lQHQMzTaUiwuZAw) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 2:41 | 2022-05-03 | 2022-07-18 |

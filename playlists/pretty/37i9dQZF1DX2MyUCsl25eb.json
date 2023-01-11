@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 973990,
+  "num_followers": 974193,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDdlYzU3ZjUyNDBmZTQ4NmZlNzY1NzgwYmNmNWQ5NWJi",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDk4NjBkYmI5MmE1N2M0NjBhM2Y0YTc0ZmVhNTdmNWY4",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Long Blue Light",
@@ -483,6 +467,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "emotionally unavailable",
@@ -633,20 +617,20 @@
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
       "artists": [
         {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 193806,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 193806,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Block me out",
+        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Like All My Friends",
@@ -735,22 +751,6 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Block me out",
-        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 249494,
-      "name": "Block me out",
-      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Carry It Well",
-        "url": "https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 215048,
-      "name": "Carry It Well",
-      "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "When You Think Of Me",
@@ -831,6 +815,22 @@
       "duration_ms": 210133,
       "name": "When You Think Of Me",
       "url": "https://open.spotify.com/track/7t99DAaOhydc0GoqkiqfEi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Carry It Well",
+        "url": "https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 215048,
+      "name": "Carry It Well",
+      "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "georgia got colder",
-        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "georgia",
-      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Headlights",
@@ -927,6 +911,22 @@
       "duration_ms": 173213,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "georgia got colder",
+        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "georgia",
+      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1041,6 +1041,38 @@
       "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
     },
     {
+      "added_at": "2022-02-11 05:02:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "All The Way Over",
+        "url": "https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "All The Way Over",
+      "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
+    },
+    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Venting to Strangers",
@@ -1071,38 +1103,6 @@
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "All The Way Over",
-        "url": "https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "All The Way Over",
-      "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Love Me Like That",
+        "url": "https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pink Moon",
@@ -1175,38 +1191,6 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Love Me Like That",
-        "url": "https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Sunday Crossword",
-        "url": "https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Sunday Crossword",
-      "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 163360,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Sunday Crossword",
+        "url": "https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Sunday Crossword",
+      "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
     },
     {
       "added_at": "2022-02-11 05:02:00",

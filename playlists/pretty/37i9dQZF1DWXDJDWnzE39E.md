@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,642 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,241 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 61 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
 | 62 | [Colossvs](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN) | 3:37 |
 | 63 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
-| 64 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
-| 65 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 |
+| 64 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 |
+| 65 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
 | 66 | [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 |
-| 67 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 |
-| 68 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 |
-| 69 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
-| 70 | [Deadly Diminuendo](https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Deadly Diminuendo](https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl) | 5:00 |
-| 71 | [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 |
-| 72 | [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 |
-| 73 | [Lift Me Up](https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:29 |
-| 74 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 |
-| 75 | [Human](https://open.spotify.com/track/1ojotvJWLsbEsmLV6gl0cM) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns](https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp) | 5:09 |
+| 67 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 |
+| 68 | [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 |
+| 69 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 |
+| 70 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
+| 71 | [Lift Me Up](https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:29 |
+| 72 | [Deadly Diminuendo](https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Deadly Diminuendo](https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl) | 5:00 |
+| 73 | [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 |
+| 74 | [Human](https://open.spotify.com/track/1ojotvJWLsbEsmLV6gl0cM) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns](https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp) | 5:09 |
+| 75 | [Constance](https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Constance](https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx) | 4:30 |
 | 76 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |
 | 77 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 |
 | 78 | [Songs the Night Sings](https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr) | 5:09 |
 | 79 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 |
 | 80 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
 
-Snapshot ID: `MTY2ODczNTExMywwMDAwMDAwMDRiYmQyMmFjMDgwMjk4MzAwMmExZGU1OTk5ODE1NTIx`
+Snapshot ID: `MTY2ODczNTExMywwMDAwMDAwMGYxNDQ1ODFmZDlhNTE5OWM3YTYxZWI3MDFkZjQ4YTY5`

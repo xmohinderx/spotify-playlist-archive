@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Astronomía Interior en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,424 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,465 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 14 | [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 |
 | 15 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
 | 16 | [Los Imanes](https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:38 |
-| 17 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 |
-| 18 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
+| 17 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
+| 18 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 |
 | 19 | [Somos Ajenos](https://open.spotify.com/track/1Z6NUe88dVXBDpWiWpSpie) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:24 |
 | 20 | [La Insoportable Levedad del Final](https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle) | [THE SUPUESTOS](https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra) | [La Insoportable Levedad del Final](https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s) | 3:57 |
 | 21 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 55 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 |
 | 56 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 |
 | 57 | [Muerte en el Jardín Botánico](https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Muerte en el Jardín Botánico](https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl) | 4:26 |
-| 58 | [California](https://open.spotify.com/track/5PbpA8xmXXbau3WeeLQw0p) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [California](https://open.spotify.com/album/1ZH9F9DEd2QQlItkwwRsja) | 3:03 |
-| 59 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 |
+| 58 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 |
+| 59 | [California](https://open.spotify.com/track/5PbpA8xmXXbau3WeeLQw0p) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [California](https://open.spotify.com/album/1ZH9F9DEd2QQlItkwwRsja) | 3:03 |
 | 60 | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO) | 4:34 |
 | 61 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
 | 62 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 |
 | 63 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
-| 64 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
-| 65 | [Mi Habitación](https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 2:35 |
-| 66 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 |
-| 67 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
+| 64 | [Mi Habitación](https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 2:35 |
+| 65 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
+| 66 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
+| 67 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 |
 | 68 | [Un Impulso](https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Florencia Quinteros](https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW) | [Un Impulso](https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib) | 3:53 |
 | 69 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
 | 70 | [Solo](https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 74 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 |
 | 75 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 |
 
-Snapshot ID: `MTY3MzA1NDk1NSwwMDAwMDAwMGNjMDdmZWY3NWNhMGZjNmViYzZkOTRhYWQ5NDVjNjc4`
+Snapshot ID: `MTY3MzA1NDk1NSwwMDAwMDAwMDRmZTEyNmY2ZDM5NjUxNGE1OWVlZTMzZGNjYTE1NmJj`

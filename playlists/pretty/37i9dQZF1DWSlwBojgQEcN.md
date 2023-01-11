@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,969 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,198 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 62 | [Wind & Anchor](https://open.spotify.com/track/34fJIXIKjz8tbUwzRiD4lj) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Young](https://open.spotify.com/album/7c7WXAvGLEnfritd5ir09k) | 3:08 |
 | 63 | [Hate The Way You Love Me](https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI) | 4:03 |
 | 64 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
-| 65 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
-| 66 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 |
+| 65 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 |
+| 66 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 67 | [We'll Make It Through](https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 6:01 |
 | 68 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
 | 69 | [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 73 | [Left for America](https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod) | 2:50 |
 | 74 | [There Was a Time](https://open.spotify.com/track/1YJpxbqfN7CXNzgvL1mGtU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/6rYA2Dt9kUfW5HJR1ayNnZ) | 4:14 |
 | 75 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
-| 76 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
-| 77 | [Reunite](https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Isbells](https://open.spotify.com/album/4JGBEo8cKdsNT27JNQZ33F) | 3:55 |
+| 76 | [Reunite](https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Isbells](https://open.spotify.com/album/4JGBEo8cKdsNT27JNQZ33F) | 3:55 |
+| 77 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
 | 78 | [Does Anybody Know](https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 3:27 |
 | 79 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
-| 80 | [The One You Love](https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Kate Miller Heidke](https://open.spotify.com/artist/1ChKcTlKCWZxWAvmyUhB3t) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:02 |
-| 81 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
-| 82 | [Hold Me](https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:04 |
+| 80 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
+| 81 | [Hold Me](https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:04 |
+| 82 | [The One You Love](https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Kate Miller Heidke](https://open.spotify.com/artist/1ChKcTlKCWZxWAvmyUhB3t) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:02 |
 | 83 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 |
 | 84 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
 | 85 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 |
 | 100 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
 
-Snapshot ID: `MTY3MzAyMTY4OCwwMDAwMDAwMGM0NTQwOTI0NThjMDI1MGNiYjA0YTkwYTRlMWUwZmE4`
+Snapshot ID: `MTY3MzAyMTY4OCwwMDAwMDAwMDYwOTA3MWUyMjNlMGU1ZDVmNWI1YjNhNTAyMGVmNmUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,323 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,833 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,24 +68,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 58 | [Mia & Keira \(Days To Come\)](https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [New Estate](https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7) | 4:18 |
 | 59 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
 | 60 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 |
-| 61 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 |
-| 62 | [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 |
-| 63 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 |
-| 64 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |
-| 65 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
+| 61 | [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 |
+| 62 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 |
+| 63 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
+| 64 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 |
+| 65 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |
 | 66 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
 | 67 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 |
-| 68 | [PDLIF](https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J) | 2:57 |
-| 69 | [Rio Grande](https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Rio Grande](https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3) | 4:31 |
-| 70 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
-| 71 | [Comment Allez\-Vous?](https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Brave New Woman](https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1) | 3:19 |
+| 68 | [Rio Grande](https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Rio Grande](https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3) | 4:31 |
+| 69 | [PDLIF](https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J) | 2:57 |
+| 70 | [Comment Allez\-Vous?](https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Brave New Woman](https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1) | 3:19 |
+| 71 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
 | 72 | [A Lingering Love](https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:36 |
 | 73 | [Californian Soil](https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:41 |
 | 74 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 |
 | 75 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 76 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
-| 77 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 |
-| 78 | [Isn't Ever A Day](https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Future Perfect, Present Tense](https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS) | 4:44 |
+| 77 | [Isn't Ever A Day](https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Future Perfect, Present Tense](https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS) | 4:44 |
+| 78 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 |
 | 79 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 |
 | 80 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 |
 | 81 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 87 | [Spark](https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk) | 4:24 |
 | 88 | [I'm Around](https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [I'm Around](https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj) | 4:31 |
 | 89 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
-| 90 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 |
-| 91 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
+| 90 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
+| 91 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 |
 | 92 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
 | 93 | [Here to Stay](https://open.spotify.com/track/301ftxH8HBSL1pDTyTYn8I) | [Ian Hooper](https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG) | [Here to Stay](https://open.spotify.com/album/3gKoctpzCx3hvVR5emq5My) | 3:09 |
 | 94 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 99 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 |
 | 100 | [Tenderfoot](https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV) | 2:08 |
 
-Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMDRjMDZlODEyOWZkNTY1MGU3MmJiNWU0OWY4NjcxMTMx`
+Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMGQ1YzQ5ZWNkMDk3N2ZiNzgwYmU5ZWM5YzhmNzdjNDc1`

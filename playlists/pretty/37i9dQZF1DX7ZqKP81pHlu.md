@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The sweet sounds of Algeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,277 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,333 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 25 | [Babour Ellouh \- Waves Edit](https://open.spotify.com/track/4yTsqKht7TgflJTNAhEtm9) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Babour Ellouh \(Waves Edit\)](https://open.spotify.com/album/1rpR2Xk0gSPO48EuRFzbaA) | 3:09 |
 | 26 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 |
 | 27 | [Balak](https://open.spotify.com/track/0WQqJD52PqOmSVtEYiX4NC) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Balak](https://open.spotify.com/album/58TtNp2W6dXurKZd23H0nL) | 3:47 |
-| 28 | [Abracadabra](https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ) | 4:18 |
+| 28 | [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 |
 | 29 | [Desert Rose](https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe) | 4:45 |
 | 30 | [Manimane](https://open.spotify.com/track/6cVOmhvrfTFGw6h8bEU3Rl) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Manimane](https://open.spotify.com/album/7D3aSf7ErYyKl2OOkBCLI9) | 3:09 |
 | 31 | [Balek](https://open.spotify.com/track/6y6ogtH99BJiEiBlEIY77A) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Balek](https://open.spotify.com/album/4De1zo3rJdvKQ0XAUndtOe) | 3:41 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 35 | [LA FIN](https://open.spotify.com/track/3tYu6F0oRwqVq1TNMYU2Qe) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [LA FIN](https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD) | 3:06 |
 | 36 | [Marsilia](https://open.spotify.com/track/35hzpvo3JS4NbOMpvC9vAN) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Marsilia](https://open.spotify.com/album/077lukkBWt0j9J7PfZRM0p) | 2:49 |
 | 37 | [Jwabi](https://open.spotify.com/track/5g1Szjr5nWLKCm6P4Avyht) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/2rPedzPOYgNlH7jjwF6bSL) | 4:22 |
-| 38 | [Mali Mali](https://open.spotify.com/track/706oWNT12qKmhjMjnxcDkx) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/3Y8J4MzMdcCLeG5x7LroyP) | 3:42 |
+| 38 | [Mali Mali](https://open.spotify.com/track/7hwSdPkjoyg7JrjriaoFZ2) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/1KGDcuZAQLkzBnxBdPpuSG) | 3:44 |
 | 39 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 |
 | 40 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 |
 | 41 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 43 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 |
 | 44 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 |
 | 45 | [Entourage](https://open.spotify.com/track/1B3Ol7QWDUh2H9E12QLFXD) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Entourage](https://open.spotify.com/album/5nGn5Cpeaci7vkEJ6U4L5m) | 3:16 |
-| 46 | [El Walida](https://open.spotify.com/track/72IaF2DNQpXfYVG349uPI6) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [El Walida](https://open.spotify.com/album/6KZu4hCRZdB3dtQc8ABbE2) | 4:10 |
+| 46 | [El Walida](https://open.spotify.com/track/0WwInt3BRuOpnEp8jFddBO) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [DZ Power](https://open.spotify.com/album/2mzpUy8MENhCidI0KwT3Ed) | 4:12 |
 | 47 | [Nouveaux parrains](https://open.spotify.com/track/4ycyOBm9iFoiNVkafhb1WW) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Nouveaux parrains](https://open.spotify.com/album/6gXYP4nPpC5k6B25h3upDa) | 2:45 |
 | 48 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 |
 | 49 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 |
 | 50 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 |
 
-Snapshot ID: `MTY3MjE1NzI3NSwwMDAwMDAwMDg1N2JmMTA3MmRiZGYwZGZjNmIyZmNiZWIxNWEwNmU0`
+Snapshot ID: `MTY3MjE1NzI3NSwwMDAwMDAwMDg3ZjM0NjY3ZDNmN2EzMmIxOWRiZGI3ZjBiOGZiNTE5`

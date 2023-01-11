@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 341 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 14 | [Basheshe](https://open.spotify.com/track/494DKelh71AKorLmulm5C7) | [Zagazillions](https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Basheshe](https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to) | 2:19 |
 | 15 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 |
 | 16 | [Edoboozi Lyo](https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz) | [Slick Stuart](https://open.spotify.com/artist/2huLG8Fcc7TwaqwIQP2S62), [DJ Roja](https://open.spotify.com/artist/5Z0ug9xtGDNFaLr2fKo9Jh), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Very Wellooo](https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN) | 3:38 |
-| 17 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
-| 18 | [Boss Lady](https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf) | 2:58 |
+| 17 | [Boss Lady](https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf) | 2:58 |
+| 18 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
 | 19 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
 | 20 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
 | 21 | [Bubble Up](https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:56 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 36 | [Nkwatewa](https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Nkwatewa](https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe) | 3:01 |
 | 37 | [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 |
 | 38 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
-| 39 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
-| 40 | [Welcome](https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO) | [Ivanka](https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy) | [Welcome](https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU) | 3:13 |
+| 39 | [Welcome](https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO) | [Ivanka](https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy) | [Welcome](https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU) | 3:13 |
+| 40 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
 | 41 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 42 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
 | 43 | [Sunset](https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM) | [Cindy Sanyu](https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs) | [Kisses at Midnight](https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [FRIEND ZONE](https://open.spotify.com/track/2u2djNR80H5uTWHjYeOMhh) | [Messiah](https://open.spotify.com/artist/7C2LQXwXMQjoPj1RyRenxy), [Twist Ergain](https://open.spotify.com/artist/0GWbwhSIIMAGV0MlfzuDMC), [Arvans](https://open.spotify.com/artist/654Iw8wymQZfcidkUmXrh0), [Joe Blk](https://open.spotify.com/artist/7d0unyE3ytjoUW9AO9oexd) | [FRIEND ZONE](https://open.spotify.com/album/6lmRzDwi4k9cA35kR2JpVy) | 3:35 |
 | 50 | [Turn Up](https://open.spotify.com/track/7JQCq8TJUyA7vWmYLkP73Y) | [Nevo Aix](https://open.spotify.com/artist/1fU6WsBUZXSOfKJT59Qxba), [Dj Stubborn Pantar](https://open.spotify.com/artist/7bJHgcS52Mec0Cj1FhUHMM), [All Stars](https://open.spotify.com/artist/4fRGKm4ipbzmlrEwM8GPVz) | [Turn Up](https://open.spotify.com/album/7BQ7Q0AFtmGvMF13XVyOID) | 4:14 |
 
-Snapshot ID: `MTY2ODcxODc0MCwwMDAwMDAwMDQwOGY0ZTYxMGNlZmE5ZTQ0NjM2YjEwM2E3ZDIxZDUx`
+Snapshot ID: `MTY2ODcxODc0MCwwMDAwMDAwMDM1NTFjNDA3YzczNTQ1ZTZkYmE4YzBiNTNjMmEyZDE3`

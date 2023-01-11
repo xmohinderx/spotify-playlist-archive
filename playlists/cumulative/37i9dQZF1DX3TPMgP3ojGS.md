@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,633 songs - 3 day 1 hr 35 min
+1,634 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Carry Me](https://open.spotify.com/track/3iKSSbjbCtMPJP7XUezBES) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Carry Me](https://open.spotify.com/album/4Xn32CUV1ymaDHYlwBIv0J) | 2:09 | 2021-03-08 | 2021-12-21 |
 | [Carry me in your Smile](https://open.spotify.com/track/325EHPjypMWyytGsNECyTB) | [Vittoria Emanuelle](https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q) | [Time to Heal](https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP) | 2:16 | 2021-03-11 | 2022-04-10 |
 | [Carry On](https://open.spotify.com/track/2e6uDYgJsa7rgIYzbNVoCi) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Carry On](https://open.spotify.com/album/68BILfzNn8IfOeQZ3Q2bcp) | 1:55 | 2021-05-09 | 2022-04-18 |
+| [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 | 2023-01-11 |  |
 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 | 2022-12-24 |  |
 | [Cashmere](https://open.spotify.com/track/14pnbkBwMKAvbU7xAaNiS5) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Cashmere](https://open.spotify.com/album/3yhV70ccTGZp4eUCPTzfNb) | 2:44 | 2021-12-13 | 2022-04-12 |
 | [Cassiopeia](https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Cassiopeia](https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18) | 2:48 | 2021-05-19 | 2021-06-04 |
@@ -613,7 +614,7 @@
 | [Horizon](https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Horizon](https://open.spotify.com/album/7hmRly9ceFMBZirRQcy8ne) | 2:15 | 2021-10-11 | 2022-07-24 |
 | [Hou je nog van mij?](https://open.spotify.com/track/4CdgsMs3Ryrv5WAxNV1Wdl) | [Bionda van der Ham](https://open.spotify.com/artist/4HAWOfDHlfyn6Iph13v6RQ) | [Hou je nog van mij?](https://open.spotify.com/album/0tEhL1PSdMxO0tkbw1pHU7) | 2:16 | 2021-03-14 | 2021-03-22 |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2021-04-22 | 2022-04-14 |
-| [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2022-12-24 |  |
+| [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2022-12-24 | 2023-01-11 |
 | [Hourglass](https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Hourglass](https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P) | 2:02 | 2022-12-24 |  |
 | [How did it Happen](https://open.spotify.com/track/5Ssia1opQ1cpUBiY0hLSUy) | [Tom Holding](https://open.spotify.com/artist/6ricPc7dXpgND8NjKLbHqg) | [How did it Happen](https://open.spotify.com/album/52NgJ1FXRHFcfDYH9EWt07) | 1:53 | 2021-04-23 | 2022-04-10 |
 | [How Did We Wind Up Here?](https://open.spotify.com/track/4HUAT9dBskTeZO4kYXRTKI) | [Jen Brook](https://open.spotify.com/artist/6ChfZgm5bM2WsypdcfCHRb) | [How Did We Wind Up Here?](https://open.spotify.com/album/3xPPZieZavJ0fUH6oYQxyS) | 2:02 | 2021-05-14 | 2022-04-11 |

@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 139776,
+  "num_followers": 139962,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDVjMjBkNDMyZTNiYjA2ODVlMDM2NjBjMDg1MTk1ZGI4",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM2ZmQyNTU5MjhjN2ZmMTYyYzFhNWM4YTlhOTgxNTU4",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "LOVERs PLAYBOOK",
-        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 269242,
-      "name": "THANK YOU 4 LOVIN\u2019 ME",
-      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Happy w u",
         "url": "https://open.spotify.com/album/3wGtsGy8caFXddQMJau2kb"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 280714,
       "name": "Happy w u",
       "url": "https://open.spotify.com/track/0EA8jl8Wje9ALRKC8Qlzyt"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Fade (English Version)",
         "url": "https://open.spotify.com/album/0KTF15ps0q5IfKX8Ec7mZR"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 262386,
       "name": "Fade - English Version",
       "url": "https://open.spotify.com/track/65fYGpikgGBtIMtuGqj9SX"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1231,6 +1231,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Seeing Other People",
         "url": "https://open.spotify.com/album/014cyjQZihVY9akGL5uoIx"
       },
@@ -1251,22 +1283,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "BEAUTiFUL",
         "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 212224,
       "name": "BEAUTiFUL",
       "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Summer Is Like a Dream",
         "url": "https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 150720,
       "name": "Whiskey Bottle",
       "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Crush(ed)",
-        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 150645,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 263592,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Crush(ed)",
+        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 150645,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1"
     },
     {
       "added_at": "2023-01-06 05:00:00",

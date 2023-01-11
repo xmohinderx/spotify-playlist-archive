@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,568 likes - 60 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,592 likes - 60 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 18 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
 | 19 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 |
 | 20 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
-| 21 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 |
-| 22 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 21 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 22 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 |
 | 23 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 |
 | 24 | [Put It On The Altar](https://open.spotify.com/track/1no67NVun0BIparrhLtPM6) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq) | 4:06 |
 | 25 | [Praise on the Inside](https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [V2...](https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
 | 60 | [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 |
 
-Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMDdiOWFmNGM0MjA3MDhlOWU3YmQ2ZTVhMDlkZGZkZWM0`
+Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMDQ5NjMxMjY3ODllMGQyZTc3ZWYyMWY3ZGQ5ZGNmOWEw`

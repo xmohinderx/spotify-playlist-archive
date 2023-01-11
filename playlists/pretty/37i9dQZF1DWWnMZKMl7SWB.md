@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,978 likes - 220 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,006 likes - 220 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 75 | [Kin](https://open.spotify.com/track/3iLSsG8nfyTvtDzqwT650M) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Kin](https://open.spotify.com/album/3eWy05xFkkGfamdEo9pBIi) | 5:24 |
 | 76 | [Portimao](https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [Portimao](https://open.spotify.com/album/4xERM1hwtquFCNTuw4e1zE) | 3:26 |
 | 77 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 |
-| 78 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
+| 78 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 |
 | 79 | [Blue Essay](https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy) | [Paralax](https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T) | [Blue Essay](https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk) | 4:56 |
 | 80 | [Breather](https://open.spotify.com/track/3EX7o6cJG9jGUJBSOLLKdP) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Pending](https://open.spotify.com/album/2SZomWDmOD84JYTbqJo6PG) | 3:26 |
 | 81 | [Over the Sky](https://open.spotify.com/track/2j2p1uJgUqqHyQPUZaRJBA) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [A Mix of Feelings](https://open.spotify.com/album/52gavUrAe1daARHrPsbq8d) | 2:11 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 219 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 220 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY3MzAxOTk5NSwwMDAwMDAwMDI3N2QwMmQyZWYwMzI2ODA4N2I1MmMyNmQzMDlkOTAx`
+Snapshot ID: `MTY3MzAxOTk5NSwwMDAwMDAwMGRmZjU4OGY4MDM2OWFkMWJmY2QwYmY2NzUwNTUxYmQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141177,
+  "num_followers": 141181,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0Mzg2NSwwMDAwMDAwMDY3YzQ5YjhiYzlmM2M5YzdkZmE5YWU1YTQxOGFmYTU4",
+  "snapshot_id": "MTY3MzI0Mzg2NSwwMDAwMDAwMGFhODdhODI1NDU1Y2I1MmJjMTZmNGNlMTkxY2I1ODZl",
   "tracks": [
     {
       "added_at": "2023-01-09 05:57:45",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sauceda Y Todo Eso",
-          "url": "https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP"
-        }
-      ],
-      "duration_ms": 231048,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "La Primavera",
         "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 192003,
       "name": "La Primavera",
       "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sauceda Y Todo Eso",
+          "url": "https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP"
+        }
+      ],
+      "duration_ms": 231048,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
+        "name": "Acu\u00e9rdate",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+      },
+      "artists": [
+        {
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
         "name": "That\u2019s All I\u2019ve Got to Say",
         "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 211750,
       "name": "That\u2019s All I\u2019ve Got to Say",
       "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
-        "name": "Acu\u00e9rdate",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
-      },
-      "artists": [
-        {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
-      },
-      "artists": [
-        {
-          "name": "Nacido",
-          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
-        }
-      ],
-      "duration_ms": 188874,
-      "name": "Desastre Natural",
-      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Final De Tu Amor",
         "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
+      },
+      "artists": [
+        {
+          "name": "Nacido",
+          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
+        }
+      ],
+      "duration_ms": 188874,
+      "name": "Desastre Natural",
+      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
     },
     {
       "added_at": "2023-01-09 05:57:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Instrumental, ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,724 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,806 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 4 | [Don't Let Go](https://open.spotify.com/track/6Hd9NrmQESrXDeKrUljmkh) | [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Don't Let Go](https://open.spotify.com/album/3Oq4xEC1Pw02QzHxNUsaWB) | 4:06 |
 | 5 | [Finding solace in the stars](https://open.spotify.com/track/41i2D4bw19DJy331n7d2cj) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/3BvgQP7CmrTLG3CplyXcZF) | 2:58 |
 | 6 | [Bristol](https://open.spotify.com/track/4qw82RcMFJYUS974Fy1fPY) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH) | [Ciara](https://open.spotify.com/album/5yULnACBq3ExHSl3ppyFz6) | 3:50 |
-| 7 | [Don't Go](https://open.spotify.com/track/31SPIpjKb1YlvY6FDCBUrm) | [Chris Coleman](https://open.spotify.com/artist/2mXB4WRGKaH89fJFSyK4M8) | [Don't Go](https://open.spotify.com/album/2DkwNU0M0BUVh9qPA0CBmf) | 2:54 |
+| 7 | [Don't Go](https://open.spotify.com/track/31SPIpjKb1YlvY6FDCBUrm) | [Christopher Dennis Coleman](https://open.spotify.com/artist/1mM9perSjGuMbNejzFhi1U) | [Don't Go](https://open.spotify.com/album/2DkwNU0M0BUVh9qPA0CBmf) | 2:54 |
 | 8 | [Psychogeography](https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 6:53 |
 | 9 | [For Leah](https://open.spotify.com/track/1PVSCJHI5Q0jAyvu0qSKXm) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [For Leah](https://open.spotify.com/album/74tyKTLDk3ebFMoV0S16NL) | 3:13 |
 | 10 | [By The Sea](https://open.spotify.com/track/0me5C80h3FkszIevDs3k8Y) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod) | [Sea Souls](https://open.spotify.com/album/3f5kumRo2ebAQYThbB1v0D) | 4:36 |

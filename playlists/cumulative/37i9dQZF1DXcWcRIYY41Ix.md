@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Zoe Gotusso.
 
-333 songs - 20 hr 28 min
+334 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 | 2021-12-24 |  |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:41 | 2021-12-24 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2022-07-22 | 2022-10-14 |
-| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 |  |
+| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 | 2023-01-11 |
 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 | 2021-12-24 | 2022-07-23 |
 | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw) | 3:14 | 2021-12-24 |  |
 | [Alma Mantra](https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Grupo Cluster](https://open.spotify.com/artist/6UaPnqedipLYiyEIj4edj6) | [El Viejo Comunista \(+ Adelantos\)](https://open.spotify.com/album/5SCD19jQdSs6g7RtJup5Po) | 3:09 | 2021-12-24 | 2022-07-29 |
@@ -133,6 +133,7 @@
 | [Green Grass](https://open.spotify.com/track/6neqcz52m0e5YvRZuKacys) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Caliu](https://open.spotify.com/album/5zli6Q5OHFwp7ACOI9bc9z) | 4:05 | 2022-04-01 | 2022-04-20 |
 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 | 2021-12-24 | 2022-02-07 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-12-24 |  |
+| [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-01-06 |  |
 | [Hay un Camino](https://open.spotify.com/track/6t0sjM2OIAdGs50EmFGu9X) | [Nando Agüeros](https://open.spotify.com/artist/6ABav84uUmY0ykSMNJ1bQ5), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Hay un Camino](https://open.spotify.com/album/4W0tG8gS7GrpI34322mw1t) | 3:36 | 2021-12-24 | 2022-03-02 |
 | [Herba de Namorar](https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Herba de Namorar](https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB) | 2:59 | 2021-12-24 | 2022-07-29 |
 | [Hierbas](https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Hierbas Para la Tristeza](https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK) | 2:46 | 2022-11-25 | 2022-12-20 |

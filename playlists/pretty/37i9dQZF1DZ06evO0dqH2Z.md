@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,049 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,051 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 22 | [Favorite](https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 2:03 |
 | 23 | [Commit](https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:33 |
 | 24 | [Slow Come On](https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 3:15 |
-| 25 | [Waltz](https://open.spotify.com/track/5NTGujjjnZH83kbSW1KvK5) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:19 |
+| 25 | [Safe In Your Skin / Where Am I?](https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK) | 4:12 |
 | 26 | [Guardian](https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 4:12 |
 | 27 | [New Detroit](https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:44 |
 | 28 | [Frame You](https://open.spotify.com/track/0pIOxvTWGHz6noPi8AJE9w) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:11 |
-| 29 | [Safe In Your Skin / Where Am I?](https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Studio 4 Acoustic Session](https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK) | 4:12 |
+| 29 | [Waltz](https://open.spotify.com/track/5NTGujjjnZH83kbSW1KvK5) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:19 |
 | 30 | [Window](https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 4:04 |
 | 31 | [Return](https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:42 |
 | 32 | [Nervous Kids](https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:55 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 39 | [Two Worlds](https://open.spotify.com/track/36XjpC5U6QNIvIFA6AUrtp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 2:28 |
 | 40 | [Coil/Recoil](https://open.spotify.com/track/0vvFaa0HSRU0Lrx0GphltU) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 2:01 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA1MmY4ZTUxMjhmOTZhNjg4MmRiNTYyMjJhZTQ1NDU5OQ==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDAxNGQwMDlhYTI0ZDczZGE2NzgyOGIwMzJmYWJhNzk3MQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,998 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,132 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 64 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 |
 | 65 | [Ambience](https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 2:48 |
 | 66 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 |
-| 67 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
-| 68 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 |
+| 67 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 |
+| 68 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
 | 69 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 |
 | 70 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 |
 | 71 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 74 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
 | 75 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDg2YzliYmY4NmZmZWNjZGQ5NWY1ZWZiMWJiMzRjNGM4`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGEwMTA4MjE3Y2Y5YzAwNmJhZTI1ODk2MjcyMjM1ODE0`

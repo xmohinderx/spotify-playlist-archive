@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,071 likes - 118 songs - 6 hr 30 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,072 likes - 118 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 114 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 | 115 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 |
 | 116 | [Don't Speak \- Acoustic](https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Don't Speak \(Acoustic\)](https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy) | 2:20 |
-| 117 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
+| 117 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/0m9nKGnG8cNXwRPstQ7wGc), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 118 | [Iris \- Acoustic](https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Iris \(Acoustic\)](https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY) | 2:35 |
 
 Snapshot ID: `NzkxLDg4ZDIwNzNhNWNiMThmODlkMjEwZDE2MTU0ZWZhOGJkYjBlMDY1MGQ=`

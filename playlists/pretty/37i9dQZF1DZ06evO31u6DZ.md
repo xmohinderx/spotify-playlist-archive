@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,694 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,697 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 47 | [Saint Anthony](https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:15 |
 | 48 | [Lifeboats](https://open.spotify.com/track/2Ni3cDRGxDysPNq6DQypAM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:32 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDA5NmVjODAyYzJkMDJmZTcxOGUwOGI0NTdlODNiNGNlOA==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDBlNDU0MTMzNDExYjBhZWFmMmM2MGQxMTk3MTVkNTg0Yg==`

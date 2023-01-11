@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "Spread The Love",
+        "url": "https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "Blues For Bill",
+      "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
+    },
+    {
+      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -908,7 +930,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 139413,
       "name": "Jukebox Shuffle",
       "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"

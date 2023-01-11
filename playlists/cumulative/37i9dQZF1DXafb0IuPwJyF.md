@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  米津玄師
 
-626 songs - 1 day 15 hr 12 min
+629 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 | 2021-12-26 | 2022-01-03 |
 | [STEP IT](https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP) | 3:40 | 2022-03-21 | 2022-04-18 |
 | [Strawberry Margarita](https://open.spotify.com/track/6TsRIgK1wGPQDy5dsv36AF) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Strawberry Margarita](https://open.spotify.com/album/5BLIyjQJxYW09jh0qh4QUQ) | 3:08 | 2022-11-02 | 2022-12-26 |
-| [Subtitle](https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV) | 5:05 | 2022-10-11 |  |
+| [Subtitle](https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV) | 5:05 | 2022-10-11 | 2023-01-11 |
 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 | 2022-10-30 |  |
 | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/track/7oXFJ9YPy0KXKA4IhrCDXG) | [Minami](https://open.spotify.com/artist/5vzP98uJshmJE7tpNwYIgX), [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/album/2rQT69zCV0SKyFZ0YoMkpR) | 3:56 | 2022-12-04 |  |
 | [Suki](https://open.spotify.com/track/4EwFfgL6ljn9ihPw82uENo) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Suki](https://open.spotify.com/album/4FSCl70qEsQocSVjyuvE6v) | 2:52 | 2022-07-31 | 2022-08-22 |
@@ -385,6 +385,7 @@
 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 | 2022-05-15 | 2022-06-20 |
 | [また夏を追う](https://open.spotify.com/track/4JyWjpfWLFqdbqPzhpLhzC) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [また夏を追う](https://open.spotify.com/album/5p5ssxTw4ifdGrhjq4Q6pN) | 4:47 | 2022-08-28 | 2022-09-12 |
 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2022-03-21 | 2022-05-23 |
+| [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-10 |  |
 | [まるごと](https://open.spotify.com/track/5i0AInYjZh8TuG16HyJDMZ) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [まるごと](https://open.spotify.com/album/0do13T8rlL2pjpvWCpx9R7) | 2:52 | 2022-01-16 | 2022-01-24 |
 | [もしも、僕がいなくても。](https://open.spotify.com/track/0dCZIpFLi9I0Cu5cYbGpKX) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [もしも、僕がいなくても。](https://open.spotify.com/album/3kapfx20XdwMIcdH2oKEk2) | 3:18 | 2022-01-30 | 2022-02-21 |
 | [もしも命が描けたら](https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:21 | 2021-12-19 | 2022-02-16 |
@@ -461,6 +462,7 @@
 | [ベルベットの詩](https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ベルベットの詩](https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8) | 4:14 | 2022-08-28 | 2022-10-24 |
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-10 | 2022-07-18 |
 | [ホワイトキス](https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo) | [鈴木鈴木](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev) | [ホワイトキス](https://open.spotify.com/album/6cHRZiDktZjUR4LUT0q3jf) | 4:34 | 2021-12-19 | 2022-01-24 |
+| [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 |  |
 | [マイレージ](https://open.spotify.com/track/5ImfF6RN03TFLydPXzDs2B) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [マイレージ](https://open.spotify.com/album/35laLoJhOxEz0cTpXVWxAf) | 2:50 | 2022-11-20 | 2022-11-29 |
 | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [にゃん北朝時代](https://open.spotify.com/artist/42ANsGZCydh06cNyDJTZHf) | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on) | 4:36 | 2022-03-06 | 2022-04-11 |
 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 | 2022-02-15 | 2022-05-30 |
@@ -581,7 +583,7 @@
 | [狙うは君のど真ん中](https://open.spotify.com/track/18M01aXh4GEOOwsRr33SCz) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [狙うは君のど真ん中](https://open.spotify.com/album/26rqZJmMhlQRJyrC9J5yTS) | 3:30 | 2022-02-06 | 2022-03-07 |
 | [猫リセット](https://open.spotify.com/track/68TwxeHi1pyFDRIKHxSArM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [猫リセット](https://open.spotify.com/album/5UYCMMhY28GdZa56yEQGV9) | 4:07 | 2021-12-19 | 2022-01-03 |
 | [瓶に入れた手紙](https://open.spotify.com/track/7EhW8U2IXJKE9eOIOu1NEx) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:46 | 2022-12-25 | 2023-01-02 |
-| [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 | 2023-01-01 |  |
+| [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 | 2023-01-01 | 2023-01-11 |
 | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/track/2YaWdN5tieE4Ntorawbbvq) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/album/48aHoa0UvjChDUllkQZoaX) | 3:45 | 2022-07-17 | 2022-07-29 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-14 | 2022-09-26 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-04-17 | 2022-06-06 |
@@ -599,7 +601,7 @@
 | [続・Have a nice days club](https://open.spotify.com/track/2RA7VH4vZaG0A7PJ07JwkR) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [続・Have a nice days club](https://open.spotify.com/album/1IJHHM0teaej1YL2awJN3H) | 4:48 | 2022-09-04 | 2022-09-12 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-15 |  |
 | [織姫](https://open.spotify.com/track/6s747WsJxI43kAJvJmsJDz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [織姫](https://open.spotify.com/album/35hFKiDi1Qmjex9jdxxwRh) | 2:44 | 2022-05-01 | 2022-05-23 |
-| [置き手紙](https://open.spotify.com/track/30qO2rZlw1ZTLWOpCGuuGI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [置き手紙](https://open.spotify.com/album/0c0A1E5XEI1IEopfuaIgxN) | 3:59 | 2022-11-27 |  |
+| [置き手紙](https://open.spotify.com/track/30qO2rZlw1ZTLWOpCGuuGI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [置き手紙](https://open.spotify.com/album/0c0A1E5XEI1IEopfuaIgxN) | 3:59 | 2022-11-27 | 2023-01-11 |
 | [胸騒ぎ \- feat\. Chi\- from カメレオン・ライム・ウーピーパイ](https://open.spotify.com/track/7FHyKWcB49CJK1acgKMhit) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [Chi\-](https://open.spotify.com/artist/7xRcaUcszechS0LHtEbt9n), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [?](https://open.spotify.com/album/4rmjxVcCCC6lD3MGjS8hfq) | 3:03 | 2022-07-10 | 2022-07-25 |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2022-10-03 |  |
 | [花](https://open.spotify.com/track/44OxrvlXzAao1iIASR8I5j) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [花](https://open.spotify.com/album/3sho9cirh8faBkktavxD18) | 4:52 | 2022-11-27 | 2022-12-05 |
@@ -628,6 +630,7 @@
 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 | 2022-09-11 | 2022-10-24 |
 | [青藍遊泳](https://open.spotify.com/track/2jIfery4lw2abLEQ3QBBIO) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳](https://open.spotify.com/album/5dlzxOKdX0PwEvd3kfzJva) | 3:48 | 2022-06-19 | 2022-07-11 |
 | [願いごと](https://open.spotify.com/track/7Lk3bl1VFAcW9KFfXqL4S7) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [願いごと](https://open.spotify.com/album/7zzmdcW5um9kciMKX6alQo) | 2:57 | 2022-03-21 | 2022-04-18 |
+| [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 | 2023-01-10 |  |
 | [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-10-02 | 2022-11-24 |
 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-07-24 | 2022-10-12 |
 | [魔法にかけられて](https://open.spotify.com/track/03RD1XAEH7lSTrYe4zMDl9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [魔法にかけられて](https://open.spotify.com/album/52fv6XcFtPnEIp63WL2bAE) | 4:14 | 2022-03-27 | 2022-05-02 |

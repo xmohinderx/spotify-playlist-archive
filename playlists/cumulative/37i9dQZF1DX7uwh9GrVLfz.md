@@ -4,13 +4,13 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ハルカミライ\(Haruka Mirai\)
 
-485 songs - 1 day 2 hr 29 min
+487 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 |  |
 | [1986](https://open.spotify.com/track/5d0XlR9EKCpbQHX8g0JbQh) | [DOTSUITARUNEN](https://open.spotify.com/artist/3AVCjqVpripxn9rQ1sC7Vb) | [1986](https://open.spotify.com/album/61uS7DM6h3la9sI1iTuuwS) | 5:56 | 2022-05-19 | 2022-07-27 |
-| [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 |  |
+| [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 | 2023-01-11 |
 | [6: 00 pm](https://open.spotify.com/track/4uHnBIr8EmJLe5c7keR3og) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [6:00 pm / No worries](https://open.spotify.com/album/33ueflCOOXK4zaEmaI4fqA) | 2:30 | 2022-06-07 | 2022-07-29 |
 | [8月。雨あがり](https://open.spotify.com/track/6R604O6V9iNbGLZjBHcAjx) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [8月。雨あがり](https://open.spotify.com/album/5f1PLWP9lsW664RhJULH6w) | 3:57 | 2022-05-19 | 2022-07-27 |
 | [A Beautiful Place](https://open.spotify.com/track/2HxcZPXuMyL1KQzHo5iEre) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [ONE HiT TO THE BODY](https://open.spotify.com/album/2MwaOSSA0ggOvgjtZ0X2EI) | 2:23 | 2022-06-07 | 2022-07-24 |
@@ -62,6 +62,7 @@
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
 | [CLOSE MY EYES](https://open.spotify.com/track/107o82eC8ysPIwxKcp3pBZ) | [Upper](https://open.spotify.com/artist/69w8lpKIuZ07GiNtdL7SCm) | [NOT OVER YET](https://open.spotify.com/album/1Ffe5GprhhUzC8KWIUWoVt) | 3:44 | 2022-06-07 | 2022-06-26 |
+| [Colorful Hip](https://open.spotify.com/track/4FCYSyFoltl1F5pZIozd1B) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [PSIKAZUKIYAMAMORI](https://open.spotify.com/album/3vglzqT2CU1OMIypbkZB3R) | 2:25 | 2023-01-10 |  |
 | [Come On,Let's Do The Pogo](https://open.spotify.com/track/4glSDAuqHUmUZzidvMhdP9) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Ken Yokoyama VS NAMBA69](https://open.spotify.com/album/2PG2LrM2OO1F68bz5xx0li) | 2:19 | 2022-05-17 | 2022-07-16 |
 | [count](https://open.spotify.com/track/2pUrr0QCUnDn09xfiDSOs6) | [Fated Lyeno](https://open.spotify.com/artist/7o0LH2g7bxIJez5DQiZQav) | [get over trials](https://open.spotify.com/album/5cacCmIKiq9p9L77lCjNFC) | 3:37 | 2022-05-12 | 2022-07-08 |
 | [Crap! Crap! Crap!](https://open.spotify.com/track/0uVkElZjeS9ujWnMALt6T7) | [NUBO](https://open.spotify.com/artist/7slpt682HvHguesqFJjqit) | [Crap! Crap! Crap!](https://open.spotify.com/album/5Hlisacn7iiNRJmtsy422T) | 2:22 | 2022-05-12 | 2022-07-27 |
@@ -142,7 +143,7 @@
 | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH) | 3:28 | 2022-10-04 | 2022-10-26 |
 | [IT'S ONLY PUNK ROCK](https://open.spotify.com/track/50Msl98h4Yodp4HUBkMQ4C) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [FRIENDS](https://open.spotify.com/album/7yoAy5YMIW3GfFqxkdoBbH) | 2:29 | 2022-05-24 | 2022-07-26 |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2022-05-12 |  |
-| [JINJYA](https://open.spotify.com/track/2VwNxrdyl0LVnCIEMfUxi0) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [JINJYA](https://open.spotify.com/album/31UBWBFS2imNZPWrxwWvwl) | 3:22 | 2022-12-27 |  |
+| [JINJYA](https://open.spotify.com/track/2VwNxrdyl0LVnCIEMfUxi0) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [JINJYA](https://open.spotify.com/album/31UBWBFS2imNZPWrxwWvwl) | 3:22 | 2022-12-27 | 2023-01-11 |
 | [JUST MY LIFE](https://open.spotify.com/track/6KUy8S7PTSHX2WRW4drmlU) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:46 | 2022-07-14 | 2022-07-16 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2022-12-20 |  |
 | [Ka Waii Inu](https://open.spotify.com/track/5AIstB4OJX9BmqLbiG6766) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [Ka Waii Inu](https://open.spotify.com/album/36Ekc9YFr5GhzqLusz4IcJ) | 1:44 | 2022-06-07 | 2022-07-20 |
@@ -209,6 +210,7 @@
 | [oiの中の蛙](https://open.spotify.com/track/0mjoRduEfRPNAfDtsuSjC0) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [THEガガガSP](https://open.spotify.com/album/2fftHCw5wj2J0qp7gr41nM) | 2:42 | 2022-05-12 | 2022-07-27 |
 | [Omotesando](https://open.spotify.com/track/2VIqACtFptv3Y1Z7rT5zpp) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/3nLvQzElvXxOBAqemV0rqo) | 2:04 | 2022-11-17 | 2022-12-21 |
 | [on my way](https://open.spotify.com/track/1pL9q42ZQuu05GaWK2KutY) | [LEGAL RUSH](https://open.spotify.com/artist/3FbEdSZOvGICjM2Qs7pQQ0) | [on my way](https://open.spotify.com/album/5ZLuPHzi4JwaSUsj6P8VDP) | 1:31 | 2022-07-14 | 2022-07-25 |
+| [On Your Mark](https://open.spotify.com/track/17rGIgGRYV5VnQ3sdP0JPm) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [On Your Mark](https://open.spotify.com/album/1RpvtPDDPBtiioiyie6j43) | 3:11 | 2023-01-10 |  |
 | [ONE](https://open.spotify.com/track/5HcNbRIQjX0aakX2hWhywA) | [MAYSON's PARTY](https://open.spotify.com/artist/3RHFm0m7Ni1vl2Lr5sLw5t) | [ONE](https://open.spotify.com/album/4sHlvEakzqFPCVz1v1mgax) | 2:39 | 2022-06-28 | 2022-07-29 |
 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 | 2022-05-12 |  |
 | [Our House](https://open.spotify.com/track/3ifwpICoKxqFIbGqkBMEVF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DIZZYLAND \-To Infinity & Beyond\-](https://open.spotify.com/album/3QZv7ZWvLzPmL0aJqx2QMM) | 1:54 | 2022-05-12 | 2022-07-28 |

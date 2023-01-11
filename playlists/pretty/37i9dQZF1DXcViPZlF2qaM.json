@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 36552,
+  "num_followers": 36623,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkzMDczMiwwMDAwMDAwMGQwODZjZDRjOWMxZWNlZDFiNzliOTg1ZDkwODI2NWEx",
+  "snapshot_id": "MTY3MjkzMDczMiwwMDAwMDAwMDFiMTllNzlkYzdiYzk0NGU0MjU5MDc0ZGU1MzAzODc1",
   "tracks": [
     {
       "added_at": "2022-12-20 21:43:10",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
     },
     {
+      "added_at": "2023-01-11 01:36:55",
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 373760,
+      "name": "Mar\u00eda la Curandera",
+      "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
+    },
+    {
       "added_at": "2022-02-17 23:02:00",
       "album": {
         "name": "El Madrile\u00f1o (La Sobremesa)",
@@ -387,22 +403,6 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
-    },
-    {
-      "added_at": "2023-01-10 01:34:06",
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 373760,
-      "name": "Mar\u00eda la Curandera",
-      "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Uno Dos Tres 1-2-3",
-        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Fried Neck Bones And Some Home Fries",
-      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
-    },
-    {
       "added_at": "2022-09-27 22:45:21",
       "album": {
         "name": "De todas las flores",
@@ -519,6 +503,22 @@
       "duration_ms": 322013,
       "name": "De todas las flores",
       "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Uno Dos Tres 1-2-3",
+        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Fried Neck Bones And Some Home Fries",
+      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
     },
     {
       "added_at": "2023-01-02 21:51:32",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Sofrito",
-        "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "Sofrito",
-      "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 231653,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Sofrito",
+        "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Sofrito",
+      "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
     },
     {
       "added_at": "2022-09-16 04:53:10",
@@ -859,26 +859,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "COMO LA PIEL",
         "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
     },
     {
       "added_at": "2022-03-30 19:53:15",
@@ -1033,20 +1033,24 @@
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-03-30 02:01:15",
       "album": {
-        "name": "Mr. Carisma",
-        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 231716,
-      "name": "Mr. Carisma",
-      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

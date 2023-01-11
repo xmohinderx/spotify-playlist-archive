@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,976 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,141 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 |
 | 2 | [Rock With Me \- Jafunk Remix](https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Rock With Me \(Jafunk Remix\)](https://open.spotify.com/album/20c9jp8MnyiEDthWVCsDYm) | 2:05 |
 | 3 | [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 |
-| 4 | [Shake It Out](https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [Prince Street Bodega](https://open.spotify.com/artist/59csLsBzBRbMMXSjKf4v1a) | [Shake It Out](https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq) | 3:45 |
+| 4 | [Shake It Out](https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Shake It Out](https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq) | 3:45 |
 | 5 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 |
 | 6 | [Fool For You](https://open.spotify.com/track/3quWT2PJG1tbS1Q7T5yLKK) | [Apollo Theo](https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Fool For You](https://open.spotify.com/album/6rc9d2SLCNCHqAsmqyfYq4) | 2:12 |
 | 7 | [AA Side Single](https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [AA Side Single](https://open.spotify.com/album/6YGh1X0EPIt3kLJV91txRN) | 4:03 |

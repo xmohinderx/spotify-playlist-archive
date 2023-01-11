@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,743 likes - 49 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,807 likes - 49 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Okay](https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/58TrLsdIgPp57favQCVRmj) | 6:05 |
-| 2 | [Legacy](https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7) | [Antoine Berjeaut](https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Legacy](https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx) | 4:29 |
+| 2 | [Legacy](https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Antoine Berjeaut](https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G) | [Legacy](https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx) | 4:29 |
 | 3 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 |
 | 4 | [Niggun](https://open.spotify.com/track/3NVhdxU8IWtnnLIs3HhTKR) | [Omer Klein](https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho), [Haggai Cohen Milo](https://open.spotify.com/artist/2fI1YlX1x0WkepdSlvLVve), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Niggun](https://open.spotify.com/album/2O6WfKYNY33szSFsARg6ia) | 7:43 |
 | 5 | [You Never Ask \- from 'Madame Sean Connery'](https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [You Never Ask \(from 'Madame Sean Connery'\)](https://open.spotify.com/album/3L0HHKhSW7fAN0jjqOsOVi) | 4:05 |

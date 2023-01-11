@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:4vXFvvWirlvTwcl184KfDc">Sillyelly</a>
+> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1rWg0CyGoCsRYYtpj5NC5P">Sillyelly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,245 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,260 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Plenilunio](https://open.spotify.com/track/6nk1EJmN8Wtm6X104qRXFA) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [DeLorean](https://open.spotify.com/album/21Wru2PDE6gegfc1RBuSyn) | 2:58 |
 | 50 | [ADRENALINFA](https://open.spotify.com/track/3ibFxXx3HhpUUdzRyXmPfx) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [ADRENALINFA](https://open.spotify.com/album/589tkGaRrkFSgJOakBJbE5) | 3:05 |
 
-Snapshot ID: `MTY3Mjk1OTY2MCwwMDAwMDAwMDE3ZDM4NzE4NjlmNzI0NDRjMjEzZThkOGU1YjY4ZDNj`
+Snapshot ID: `MTY3MzM0MTMyNCwwMDAwMDAwMGFhMWIzOTc3OTVlYTJmMDk0M2ZhNjljYWI2ZTgwMGE5`

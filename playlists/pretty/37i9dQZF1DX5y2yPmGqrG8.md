@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,846 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,961 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 46 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 47 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
 | 48 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
-| 49 | [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 |
+| 49 | [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 |
 | 50 | [Baby Steps](https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [Selected Public Works, Vol\. 5](https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn) | 1:26 |
 
-Snapshot ID: `MTY3MzA1OTMxMiwwMDAwMDAwMDk3NDE4NGJiNmRjMGNkMDViYzBjNGMxMTJhYjE4NjFj`
+Snapshot ID: `MTY3MzA1OTMxMiwwMDAwMDAwMGYyOTJhNDc1YjBiZWQ2N2RmMDIxMzIzZDljNjU4ZDVj`

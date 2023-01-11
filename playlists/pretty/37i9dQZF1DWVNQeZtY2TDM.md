@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: ZENBØ禪波
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,013 likes - 71 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,018 likes - 71 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 18 | [限時動態](https://open.spotify.com/track/2v9BGAYjSKc27k5E6Fn2fX) | [丘必信](https://open.spotify.com/artist/5xDGUfV48XCxCSo1dJB5MY) | [限時動態](https://open.spotify.com/album/6vLWx26dBwOFTU3WJzXSJ8) | 3:02 |
 | 19 | [MANBA OUT](https://open.spotify.com/track/79cPcjWiGtaJu6FFsQRxOE) | [張家瑋](https://open.spotify.com/artist/2HHuNl5MC0JrBqUdVzYvNY) | [張家瑋GAWII](https://open.spotify.com/album/6IF3yOoo2F3VAUwDtsTsRu) | 2:15 |
 | 20 | [法國麵包](https://open.spotify.com/track/6V6acy5yCCgJ8BPkJwpLnx) | [E\-R!CH](https://open.spotify.com/artist/0pzBHzC3K5m5HHGMQu7qcW) | [法國麵包](https://open.spotify.com/album/60pjJr3ZAWVcFQ3sS70ycT) | 3:17 |
-| 21 | [運鏡 Camera Movement](https://open.spotify.com/track/2ZYyfPrCb8uC8hqtsgVysv) | [謝乾](https://open.spotify.com/artist/0k5FX2v4FJxwStm40Vr8cA) | [DIRECTOR](https://open.spotify.com/album/1RSrpjBZMN4qJp1w4SYSmj) | 2:32 |
+| 21 | [運鏡](https://open.spotify.com/track/2ZYyfPrCb8uC8hqtsgVysv) | [謝乾](https://open.spotify.com/artist/0k5FX2v4FJxwStm40Vr8cA) | [DIRECTOR](https://open.spotify.com/album/1RSrpjBZMN4qJp1w4SYSmj) | 2:32 |
 | 22 | [Don't go](https://open.spotify.com/track/1yoXfV6BMWcRfg3fOqhZ7x) | [仰昭光](https://open.spotify.com/artist/1R3kmFH4Bl1hbEG9ulEE2d) | [What is Love](https://open.spotify.com/album/7iElRORom3XlsLJTpgc6ug) | 2:02 |
 | 23 | [烏有](https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo) | [同理](https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR) | 2:58 |
 | 24 | [Through The Night](https://open.spotify.com/track/3vnPw6ErvNgjYpwaEACaex) | [Keev](https://open.spotify.com/artist/2KS5HYsDqrlhrMDLcxWoAK), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [Through The Night](https://open.spotify.com/album/1C9RdQieUsv3B1L5NUjYjv) | 2:46 |

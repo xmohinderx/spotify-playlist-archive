@@ -3217,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+    },
+    {
+      "album": {
         "name": "Ethebny",
         "url": "https://open.spotify.com/album/4bg3oJHgyQ2Rsnz11T1Sba"
       },
@@ -5656,7 +5678,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -6022,7 +6044,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
@@ -7648,7 +7670,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 228442,
       "name": "Never Go Away",
       "url": "https://open.spotify.com/track/4a7wboYJARS69GtWJL0Szy"
@@ -9220,7 +9242,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr"
@@ -11024,7 +11046,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"

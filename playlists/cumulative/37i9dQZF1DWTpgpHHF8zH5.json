@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 177866,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/7t6Vx0UfiaMfDougM4EtAk"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 144533,
       "name": "Glad You Exist",
       "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
@@ -1850,6 +1850,28 @@
       "duration_ms": 170813,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
+    },
+    {
+      "album": {
+        "name": "Hundred Miles",
+        "url": "https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde"
+      },
+      "artists": [
+        {
+          "name": "Yall",
+          "url": "https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg"
+        },
+        {
+          "name": "Gabriela Richardson",
+          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172414,
+      "name": "Hundred Miles",
+      "url": "https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ"
     },
     {
       "album": {
@@ -2486,7 +2508,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
@@ -4294,7 +4316,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
@@ -4562,7 +4584,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 194890,
       "name": "What Other People Say",
       "url": "https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9"

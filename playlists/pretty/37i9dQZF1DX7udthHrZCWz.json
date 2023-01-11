@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 257788,
+  "num_followers": 257891,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNTU4NywwMDAwMDAwMDVjYzk5ZjMzNWU0MDc4NTI5NTRlNGExMjg2ZTE0NGRl",
+  "snapshot_id": "MTY0MjUwNTU4NywwMDAwMDAwMGY1NThmOWU5NzYxOWE3MTIzNjEwNDUwNmRhZjViZjk3",
   "tracks": [
     {
       "added_at": "2020-07-08 17:53:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
         "name": "Politics of Living",
         "url": "https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 203186,
       "name": "Brother",
       "url": "https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Lazarus",
-        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
       "artists": [
         {
-          "name": "Travie McCoy",
-          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
         },
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Billionaire (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+        "name": "Lazarus",
+        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
       },
       "artists": [
         {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
         },
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+      "duration_ms": 211160,
+      "name": "Billionaire (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "History",
-      "url": "https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso"
     },
     {
       "added_at": "2020-07-08 17:53:44",

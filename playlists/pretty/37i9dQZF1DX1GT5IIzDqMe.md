@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,546 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,599 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 37 | [Q](https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 6:23 |
 | 38 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 | 39 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
-| 40 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 |
+| 40 | [Throw](https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [Best of Techno \(Compilation Tracks\)](https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK) | 3:43 |
 | 41 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
 | 42 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
-| 43 | [Throw](https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [Best of Techno \(Compilation Tracks\)](https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK) | 3:43 |
+| 43 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 |
 | 44 | [Just Want Another Chance \- Original Mix](https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j) | [Reese](https://open.spotify.com/artist/4VUUiDoySoS7LDboUOX5mv), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Just Want Another Chance](https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH) | 5:12 |
 | 45 | [Into The Groove \- Extended Mix](https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Abe Duque](https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp) | [Into The Groove](https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf) | 6:36 |
 | 46 | [Ancelyn](https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf) | [Claude Young](https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7) | [Patterns the Album](https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
 | 50 | [Savage & Beyond](https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:29 |
 
-Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMGUzNjNiZDAzNzQ3NzA3ZTI5YzhlMzZiYzI3MTcxODk4`
+Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMDE5MmNlNmFmOGIxMzFhOWUxMzZkZDlkY2FjZmRlMDEz`

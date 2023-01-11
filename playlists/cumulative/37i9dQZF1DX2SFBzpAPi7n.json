@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
@@ -2905,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+    },
+    {
+      "album": {
         "name": "I \u2260 DOLL",
         "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
       },
@@ -3050,7 +3068,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 185773,
       "name": "In your time",
       "url": "https://open.spotify.com/track/2ZhVUSHsj08XhWsPmewal1"
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 185000,
       "name": "Knight (Knight for Fight)",
       "url": "https://open.spotify.com/track/1GgqaOfzfi0Aa3xWfcFATl"
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 220360,
       "name": "Me, the Protagonist (Feat. Love X Stereo)",
       "url": "https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3"
@@ -5844,7 +5862,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 218720,
       "name": "Slainte!",
       "url": "https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8"
@@ -7433,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "2022 INCHEON CITY POP Vol.3",
+        "url": "https://open.spotify.com/album/60kYnFNsy97x2BN9295Dku"
+      },
+      "artists": [
+        {
+          "name": "916",
+          "url": "https://open.spotify.com/artist/69e4PsUn8YbvkIaBxKgtFM"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245202,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0oWMvi59by659nHiCD7MlB"
+    },
+    {
+      "album": {
         "name": "WOODY",
         "url": "https://open.spotify.com/album/0secYErmr26myE8T2RMdGf"
       },
@@ -7856,6 +7892,24 @@
       "duration_ms": 218737,
       "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
       "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+    },
+    {
+      "album": {
+        "name": "\ub9c8\ub124\ud0a8 Mannequin",
+        "url": "https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv"
+      },
+      "artists": [
+        {
+          "name": "The ASIANIC",
+          "url": "https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "\ub9c8\ub124\ud0a8 Mannequin",
+      "url": "https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2"
     },
     {
       "album": {

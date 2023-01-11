@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-946 songs - 2 day 4 hr 21 min
+947 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [7elmat \- ado 5](https://open.spotify.com/track/3ChKrdfRwVXo6XdeUYKAIh) | [Hamsik\_34](https://open.spotify.com/artist/02gJ8FjIC3Jx3nVbFrSVd5) | [7elmat \- ado 5](https://open.spotify.com/album/61nJHW7RxtEmpIVV381zNg) | 5:06 | 2022-01-08 | 2022-01-10 |
 | [7elmet Ado 5](https://open.spotify.com/track/6N6VxHim4ywblJrVI1h0UW) | [eArtist](https://open.spotify.com/artist/18ssWsvGGmgZk07LyGYUg9) | [7elmet Ado 5](https://open.spotify.com/album/5NSmzSS5Yl0HKFJ9OCLZAr) | 5:06 | 2022-01-04 | 2022-01-08 |
 | [7elmet Ado 5](https://open.spotify.com/track/6MvBKF1zyjUnnUUgfndWjF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [7elmet Ado 5](https://open.spotify.com/album/2CDQGSeTetaCBUJFEev8bC) | 6:36 | 2022-01-15 | 2022-12-31 |
+| [7elmet ado 6](https://open.spotify.com/track/5isvUTOCs9UNdwBR8e8oGE) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [7elmet ado 6](https://open.spotify.com/album/5RgB11Zv214PJXaI37jYrU) | 7:43 | 2023-01-10 |  |
 | [7elmetAdo 6](https://open.spotify.com/track/3zwyy5k02gQJ6QjA2S78qE) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [7elmetAdo 6](https://open.spotify.com/album/7taTjootisSbnt336bke3d) | 7:42 | 2023-01-01 | 2023-01-10 |
 | [7jab](https://open.spotify.com/track/6kyMIEOOPOb9NAbHid5I5B) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 3:04 | 2022-05-28 | 2022-05-30 |
 | [999](https://open.spotify.com/track/1z5GERONTAixk3yYhxMyg3) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:14 | 2023-01-07 |  |
@@ -146,7 +147,7 @@
 | [Boy In Luv](https://open.spotify.com/track/17AFcTj1bj9qhWrHbsLDSb) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:52 | 2022-03-02 | 2022-10-07 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-02-22 | 2022-12-02 |
 | [Bpm](https://open.spotify.com/track/2Os7R405bpt64GZaHGZZBU) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:14 | 2021-09-15 | 2021-09-17 |
-| [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-01-31 | 2023-01-07 |
+| [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-01-31 |  |
 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 | 2022-11-05 | 2022-11-07 |
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2021-12-29 | 2022-05-26 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-12-16 |
@@ -539,7 +540,7 @@
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-12 |
 | [Makayn Tahed](https://open.spotify.com/track/11OjsATzjmJr2LjiOTGlog) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Makayn Tahed](https://open.spotify.com/album/6cvq9NCNS1eZqtTh32Chrt) | 3:10 | 2021-09-12 | 2021-11-22 |
 | [Make It Right](https://open.spotify.com/track/3LSjYk6sFQaLi0MjtWcm8P) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:46 | 2022-02-23 | 2022-02-25 |
-| [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-07-02 |  |
+| [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-07-02 | 2023-01-11 |
 | [Malinwa](https://open.spotify.com/track/5Y1laC2nJS1pRVCQ7vuY19) | [L'kreen](https://open.spotify.com/artist/2CGubSpZlD5qXMo8Zgwyrx), [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [حيوانات](https://open.spotify.com/album/5mLtG8fY7EtRe4w17rafzq) | 2:49 | 2022-10-04 | 2022-10-06 |
 | [Malna haka ?](https://open.spotify.com/track/1oRqzXVdTqofua7MDSmJZn) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Malna haka ?](https://open.spotify.com/album/3kVqflkL3lAXJDjBhuYa7n) | 3:06 | 2021-03-27\* | 2021-09-22 |
 | [Mannschaft \(feat\. Freeze Corleone\)](https://open.spotify.com/track/03cOUvF1fyW60AuUfUNiDc) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:47 | 2021-03-27\* | 2021-03-27 |
@@ -869,7 +870,7 @@
 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 | 2022-02-25 | 2022-02-27 |
 | [Umbrella](https://open.spotify.com/track/4qhZCn7IiMjL49x2zlD9w1) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:36 | 2022-07-17 | 2022-07-23 |
 | [UN RÊVE ÉTRANGE](https://open.spotify.com/track/0L1JUpc6bjrBvK9pqMTGcb) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:56 | 2021-07-18 | 2021-07-19 |
-| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-29 |  |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-29 | 2023-01-11 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-24 | 2023-01-07 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-27 |
 | [Uno](https://open.spotify.com/track/5uGCH8QGnH3n2i7KD7ROPb) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 2:24 | 2021-03-29 | 2021-04-02 |

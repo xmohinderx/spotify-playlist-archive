@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 19319,
+  "num_followers": 19387,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgwMDU2MSwwMDAwMDAwMDFhNTExMzc3NmNmZjMyZjQ1ZTExZGM1Njk3MGM3MmQx",
+  "snapshot_id": "MTY3MDgwMDU2MSwwMDAwMDAwMDZiNzAxN2MwMDYwODFmN2FhMmE0YTRmNjljMzdmMjUx",
   "tracks": [
     {
       "added_at": "2022-12-11 23:16:01",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 302811,
+      "name": "Ghetto Blaster",
+      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 366417,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
-        "name": "4 AM",
-        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 302811,
-      "name": "Ghetto Blaster",
-      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
-      },
-      "artists": [
-        {
-          "name": "MSS FRNCE",
-          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
-        }
-      ],
-      "duration_ms": 107456,
-      "name": "Pas la peine",
-      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "HLA-11TF",
         "url": "https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 256521,
       "name": "Eleven the Fair",
       "url": "https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
+      },
+      "artists": [
+        {
+          "name": "MSS FRNCE",
+          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
+        }
+      ],
+      "duration_ms": 107456,
+      "name": "Pas la peine",
+      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Random Acts of Total Control",
-        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
-      },
-      "artists": [
-        {
-          "name": "Unschooling",
-          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
-        }
-      ],
-      "duration_ms": 232895,
-      "name": "NYE",
-      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "The Midnight Sons",
         "url": "https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 209893,
       "name": "The Midnight Son",
       "url": "https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Random Acts of Total Control",
+        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
+      },
+      "artists": [
+        {
+          "name": "Unschooling",
+          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
+        }
+      ],
+      "duration_ms": 232895,
+      "name": "NYE",
+      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "AqME",
         "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+      },
+      "artists": [
+        {
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+        }
+      ],
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
         "name": "Garage Is Dead",
         "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 224640,
       "name": "My time",
       "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Can't Wait to Be Fine",
+        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 358080,
+      "name": "Can't Wait to Be Fine",
+      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -963,22 +979,6 @@
       "duration_ms": 186160,
       "name": "Second To None",
       "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
-        "name": "Can't Wait to Be Fine",
-        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 358080,
-      "name": "Can't Wait to Be Fine",
-      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "Slot Logic",
         "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 204866,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Survived the Great Flood",
-        "url": "https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4"
-      },
-      "artists": [
-        {
-          "name": "Man Is Not a Bird",
-          "url": "https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw"
-        }
-      ],
-      "duration_ms": 222627,
-      "name": "Survived the Great Flood",
-      "url": "https://open.spotify.com/track/7GURR3G9Me29ZusRHTOrGH"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "Full Circle Back",
         "url": "https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 226506,
       "name": "Full Circle Back",
       "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Survived the Great Flood",
+        "url": "https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4"
+      },
+      "artists": [
+        {
+          "name": "Man Is Not a Bird",
+          "url": "https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw"
+        }
+      ],
+      "duration_ms": 222627,
+      "name": "Survived the Great Flood",
+      "url": "https://open.spotify.com/track/7GURR3G9Me29ZusRHTOrGH"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Shreds of Tales",
-        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
-      },
-      "artists": [
-        {
-          "name": "Grit",
-          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
-        }
-      ],
-      "duration_ms": 211505,
-      "name": "Others",
-      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "Mood Disorders",
         "url": "https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 201706,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Shreds of Tales",
+        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
+      },
+      "artists": [
+        {
+          "name": "Grit",
+          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
+        }
+      ],
+      "duration_ms": 211505,
+      "name": "Others",
+      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Salvation Prayer",
-        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
-      },
-      "artists": [
-        {
-          "name": "You Said Strange",
-          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
-        }
-      ],
-      "duration_ms": 294594,
-      "name": "Cold Crusader",
-      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "Houses Are Built The Same",
         "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
       },
@@ -1299,22 +1283,6 @@
       "duration_ms": 190508,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
-        "name": "Fall Away",
-        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
-      },
-      "artists": [
-        {
-          "name": "Hype Lights",
-          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1339,6 +1307,38 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
+        "name": "Salvation Prayer",
+        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
+      },
+      "artists": [
+        {
+          "name": "You Said Strange",
+          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
+        }
+      ],
+      "duration_ms": 294594,
+      "name": "Cold Crusader",
+      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Fall Away",
+        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
+      },
+      "artists": [
+        {
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
         "name": "Stepping On Snails",
         "url": "https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7ul2sk365XBQ1EraPxkvaB"
-      },
-      "artists": [
-        {
-          "name": "AqME",
-          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "Enfer",
-      "url": "https://open.spotify.com/track/3zn53uPgY6yn6m49wAt5x8"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "Songs / Revolving",
         "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 340004,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7ul2sk365XBQ1EraPxkvaB"
+      },
+      "artists": [
+        {
+          "name": "AqME",
+          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "Enfer",
+      "url": "https://open.spotify.com/track/3zn53uPgY6yn6m49wAt5x8"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Thousand Shadows Vol.1",
-        "url": "https://open.spotify.com/album/6QWuE2Js1brZVSvtzlriH3"
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/25Xl9oZ6mOj8jJt2qzFSmu"
       },
       "artists": [
         {
-          "name": "You Said Strange",
-          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
         }
       ],
-      "duration_ms": 201290,
-      "name": "So Sorry",
-      "url": "https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9"
+      "duration_ms": 339440,
+      "name": "Evening",
+      "url": "https://open.spotify.com/track/0OFkQIKbgZyU9Ah9ipkGMp"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Evening",
-        "url": "https://open.spotify.com/album/25Xl9oZ6mOj8jJt2qzFSmu"
+        "name": "Thousand Shadows Vol.1",
+        "url": "https://open.spotify.com/album/6QWuE2Js1brZVSvtzlriH3"
       },
       "artists": [
         {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+          "name": "You Said Strange",
+          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
         }
       ],
-      "duration_ms": 339440,
-      "name": "Evening",
-      "url": "https://open.spotify.com/track/0OFkQIKbgZyU9Ah9ipkGMp"
+      "duration_ms": 201290,
+      "name": "So Sorry",
+      "url": "https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1495,6 +1495,38 @@
       "duration_ms": 195364,
       "name": "The Party",
       "url": "https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Living Hell",
+        "url": "https://open.spotify.com/album/6yZGO09kc7XJ863zH5UocO"
+      },
+      "artists": [
+        {
+          "name": "Dead Myth",
+          "url": "https://open.spotify.com/artist/6KSJGowqCABXcXI9bmGVFC"
+        }
+      ],
+      "duration_ms": 181596,
+      "name": "Living Hell",
+      "url": "https://open.spotify.com/track/0FtVjdaaXEtdkELALSHsAC"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Anabasis",
+        "url": "https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5"
+      },
+      "artists": [
+        {
+          "name": "L'Effondras",
+          "url": "https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y"
+        }
+      ],
+      "duration_ms": 433466,
+      "name": "Anhedonia",
+      "url": "https://open.spotify.com/track/3xJ6sQfC3quybJBBal9ojN"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1531,22 +1563,6 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Living Hell",
-        "url": "https://open.spotify.com/album/6yZGO09kc7XJ863zH5UocO"
-      },
-      "artists": [
-        {
-          "name": "Dead Myth",
-          "url": "https://open.spotify.com/artist/6KSJGowqCABXcXI9bmGVFC"
-        }
-      ],
-      "duration_ms": 181596,
-      "name": "Living Hell",
-      "url": "https://open.spotify.com/track/0FtVjdaaXEtdkELALSHsAC"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu"
       },
@@ -1559,38 +1575,6 @@
       "duration_ms": 269293,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
-        "name": "Anabasis",
-        "url": "https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5"
-      },
-      "artists": [
-        {
-          "name": "L'Effondras",
-          "url": "https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y"
-        }
-      ],
-      "duration_ms": 433466,
-      "name": "Anhedonia",
-      "url": "https://open.spotify.com/track/3xJ6sQfC3quybJBBal9ojN"
-    },
-    {
-      "added_at": "2022-12-11 23:16:01",
-      "album": {
-        "name": "Freakenstein",
-        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
-      },
-      "artists": [
-        {
-          "name": "Th Da Freak",
-          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Peeling the Onion",
-      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
     },
     {
       "added_at": "2022-12-11 23:16:01",
@@ -1611,18 +1595,34 @@
     {
       "added_at": "2022-12-11 23:16:01",
       "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/0Sgit9uSQBgKTL1XoiN9SQ"
+        "name": "Freakenstein",
+        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
       },
       "artists": [
         {
-          "name": "Laura Cox",
-          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+          "name": "Th Da Freak",
+          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
         }
       ],
-      "duration_ms": 232693,
-      "name": "Fire Fire",
-      "url": "https://open.spotify.com/track/0mjEltYGiBBdJv0RKCWnke"
+      "duration_ms": 223421,
+      "name": "Peeling the Onion",
+      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
+    },
+    {
+      "added_at": "2022-12-11 23:16:01",
+      "album": {
+        "name": "Back Garden Light",
+        "url": "https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT"
+      },
+      "artists": [
+        {
+          "name": "Back Garden Light",
+          "url": "https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9"
     }
   ],
   "unique_name": "French Noise",

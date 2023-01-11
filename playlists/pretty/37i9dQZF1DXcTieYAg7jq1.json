@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: WILSN",
-  "num_followers": 402735,
+  "num_followers": 402744,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGIyNjlmYzM2ZjdlMTgyOTMzNTNhZmRmOThmMmIwNTUy",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGRiOTBkODFkNGQ5NzM3M2VkMmZlYmU2YTcwNGVhOTUx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 178289,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Everything I Know About Love",
@@ -563,6 +547,22 @@
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -677,38 +677,6 @@
       "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Maybe We Could Be a Thing",
@@ -731,6 +699,38 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 180807,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 291568,
-      "name": "Money (with Tom Misch)",
-      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Building Balance",
         "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 247266,
       "name": "Hot Tears",
       "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 291568,
+      "name": "Money (with Tom Misch)",
+      "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Back the Way We Came: Vol. 1 (2011 - 2021)",
-        "url": "https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr"
-      },
-      "artists": [
-        {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "We're On Our Way Now",
-      "url": "https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk"
-    },
-    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Greatest Hits",
@@ -1059,6 +1043,22 @@
       "duration_ms": 240053,
       "name": "Precious Love (Refreshed)",
       "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Back the Way We Came: Vol. 1 (2011 - 2021)",
+        "url": "https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "We're On Our Way Now",
+      "url": "https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 181535,
-      "name": "I Don't Wanna Lie",
-      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Black Is Golden",
         "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 184848,
       "name": "Dancing My Way",
       "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 181535,
+      "name": "I Don't Wanna Lie",
+      "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
     },
     {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
-      },
-      "artists": [
-        {
-          "name": "Spencer Sutherland",
-          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
-        }
-      ],
-      "duration_ms": 197290,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Holy Water",
@@ -1399,6 +1383,22 @@
       "duration_ms": 165253,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
+    },
+    {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "duration_ms": 197290,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb"
-      },
-      "artists": [
-        {
-          "name": "Mica Millar",
-          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Flashlights",
-      "url": "https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "AM Gold",
@@ -1479,6 +1463,22 @@
       "duration_ms": 169228,
       "name": "AM Gold",
       "url": "https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb"
+      },
+      "artists": [
+        {
+          "name": "Mica Millar",
+          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Flashlights",
+      "url": "https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf"
     },
     {
       "added_at": "2022-03-25 04:01:00",

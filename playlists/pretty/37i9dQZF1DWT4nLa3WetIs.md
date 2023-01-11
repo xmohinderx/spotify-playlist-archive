@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,989 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,981 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 59 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
 | 60 | [Dance for Me](https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance for Me](https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME) | 3:24 |
 | 61 | [Bundelele](https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Bundelele](https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5) | 3:25 |
-| 62 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
-| 63 | [Bumper To Bumper](https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66) | 3:45 |
+| 62 | [Bumper To Bumper](https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66) | 3:45 |
+| 63 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 64 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
 | 65 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 66 | [First of All](https://open.spotify.com/track/6aWJGYvtifenSm5hYVYqii) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [YBNL](https://open.spotify.com/album/0mBEVecZUhNn4sD2nHvJTX) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Couper décaler](https://open.spotify.com/track/6YrUPrGLY5CzrgyleP5kgG) | [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Retro Zouk Tunes](https://open.spotify.com/album/3LKSt5p2jPVO93JwgllpXP) | 5:29 |
 | 80 | [Waist & Power](https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Waist & Power](https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn) | 5:05 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDJiMTZkOTViZDJjNDAxMDRmNzExZmNjOTA4YTJhMDZj`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDM4NGVlMzIwYTkzMDA4ODNmMzM2OWNhYzkyYmRiMDIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Mount Westmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,513 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,023 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 34 | [The Nigga Ya Love To Hate](https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [AmeriKKKa's Most Wanted](https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc) | 3:13 |
 | 35 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 36 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
-| 37 | [Tonite](https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 5:23 |
-| 38 | [Straight Up Menace](https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO) | [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [The Best of MC Eiht](https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB) | 4:34 |
+| 37 | [Straight Up Menace](https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO) | [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [The Best of MC Eiht](https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB) | 4:34 |
+| 38 | [Tonite](https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 5:23 |
 | 39 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
 | 40 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 41 | [Jackin' For Beats](https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Kill At Will](https://open.spotify.com/album/7oeFV70h2fDapspboicRP5) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Same Song \- Edit Version](https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 3:57 |
 | 50 | [Black Superman](https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT) | [Above The Law](https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N) | [Uncle Sam's Curse](https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb) | 4:27 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGExZDQzZTc3ZGUzYjBmNGJiNDg1Yjk2ODU1ZmMzYjI0`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGJmOWM1NzM2MjJlNjRjZDNmYmJhNzk2YjUwMDJlY2Y4`

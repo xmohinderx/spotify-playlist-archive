@@ -2,7 +2,7 @@
 
 ### [Alternative 10s](https://open.spotify.com/playlist/37i9dQZF1DX873GaRGUmPl)
 
-> The best alternative songs of the decade so far\. Cover: Grimes
+> The best alternative songs of the decade\. Cover: The 1975
 
 315 songs - 21 hr 5 min
 

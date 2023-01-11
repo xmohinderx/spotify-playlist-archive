@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-109 songs - 7 hr 46 min
+110 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Ye Chilipi](https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 5:15 | 2022-10-13 |  |
 | [Ye Chota Nuvvunna \(From "Saaho"\) \(feat\. Tulsi Kumar, Haricharan Seshadri\)](https://open.spotify.com/track/499rs8fMaltXk2BOlq9P0m) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Ye Chota Nuvvunna \(From "Saaho"\)](https://open.spotify.com/album/3ZrZpzTnY2dG9j6deMtuRq) | 3:14 | 2021-10-21 | 2022-10-14 |
 | [Ye Manishike Majiliyo](https://open.spotify.com/track/6yfEswWlijoaqCh4awvtJV) | [Arun Gopan](https://open.spotify.com/artist/5OAYaHDcHFCxxg4xkkzNrU), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Baby Anusha](https://open.spotify.com/artist/4vFKx0H0VA1QXc5TV7sqSj) | [Majili](https://open.spotify.com/album/0SJwTqboAS7rX85m11nMTn) | 4:05 | 2021-10-21 | 2022-10-14 |
+| [Yentha Sakkagunnave](https://open.spotify.com/track/6nhLm8GEkkH9kunfqdAFcO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Rangasthalam](https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP) | 4:22 | 2023-01-10 |  |
 | [Yenti Yenti](https://open.spotify.com/track/4KOG5lRsY1Ja55bids06vB) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S7yFArvQ3gpnuiza1o3s1) | 3:19 | 2021-10-21 | 2022-07-29 |
 | [Yenti Yenti](https://open.spotify.com/track/7tyNbBsDOWmyLV3bWAmqQt) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Expectional Music Of Gopi Sundar](https://open.spotify.com/album/2YjU5LftLFtIiKDLa7cJ33) | 3:19 | 2021-10-21 | 2022-10-14 |
 | [Zindabad Zindabad](https://open.spotify.com/track/2QYaPFQkOcUZYfylyJHiH6) | [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Zindabad Zindabad \(From "Ismart Shankar"\)](https://open.spotify.com/album/2nd58tEypZXdmfQ0Ilqe6g) | 3:09 | 2021-10-21 | 2022-10-14 |

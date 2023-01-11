@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Sara James.
 
-384 songs - 23 hr 41 min
+385 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [El Paso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7AhhqaHd3ad4qgr6GZ39sg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 5:21 | 2022-03-24 | 2022-04-21 |
 | [Elvira \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 3:33 | 2022-03-24 | 2022-04-20 |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-09-24 |  |
+| [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 | 2022-10-03 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-09-24 | 2022-07-29 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-10-13 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-10-03 |  |
@@ -153,7 +154,7 @@
 | [Heavenly Father \(feat\. Noah Kahan\) \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/2OZhWugxgM4wvjI3MXRhJg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL) | 3:45 | 2021-09-24 |  |
 | [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 | 2022-10-03 |  |
 | [Help \- Recorded at East West Studios](https://open.spotify.com/track/5FY4iA2mqnJiYwWh3JB2gA) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 3:42 | 2021-09-24 | 2022-07-29 |
-| [Here You Come Again \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/0CBzDJMAkJ6aVPZRHosTod) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/0Qa7Ch1yrrx9nNxSJE9Oaf) | 3:09 | 2022-06-07 |  |
+| [Here You Come Again \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/0CBzDJMAkJ6aVPZRHosTod) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/0Qa7Ch1yrrx9nNxSJE9Oaf) | 3:09 | 2022-06-07 | 2023-01-11 |
 | [Here You Come Again \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/5fpymVNyujJ2UohIX5ujxw) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa) | 3:09 | 2021-09-24 | 2022-07-29 |
 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 | 2022-03-24 | 2022-04-20 |
 | [High Tide or Low Tide \- Live from Spotify Studios NYC](https://open.spotify.com/track/2WAgH8swV4cTXaSPeo1k7w) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 4:16 | 2021-09-24 | 2022-07-29 |

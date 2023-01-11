@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/">Jesus Culture</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,980 likes - 80 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,366 likes - 80 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 59 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 |
 | 60 | [Another In The Fire \- Studio](https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 4:25 |
 | 61 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
-| 62 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 |
-| 63 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 |
+| 62 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 |
+| 63 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 |
 | 64 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 | 65 | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t) | 4:47 |
 | 66 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 77 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |
 | 78 | [We Praise You \- Studio Version](https://open.spotify.com/track/0lDktJqWHM5ecoJgYPRNwd) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [We Praise You \(Studio Version\)](https://open.spotify.com/album/5ZpfqJMGrfPKZOhoI8AruW) | 3:40 |
 | 79 | [Lord Send Revival \- Live](https://open.spotify.com/track/2bwhBn3W0xFftyRu6mBdDZ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 6:44 |
-| 80 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
+| 80 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 |
 
-Snapshot ID: `MTYxMDY5MTkzNSwwMDAwMDAwMDBhZDEwMmNlYWNjYTdiM2I2MDM1ZmY0OGZiNTQ5YWFm`
+Snapshot ID: `MTYxMDY5MTkzNSwwMDAwMDAwMDNkZjlkZjZkMjFlODljZTc3YzM1OWRkOTI2YzA5YmJk`

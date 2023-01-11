@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 17278,
+  "num_followers": 17314,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU3MzAzMSwwMDAwMDAwMGM4OTJjY2I3ZWQyNmMyZjIxMjMwZTFlN2RmY2Y2MDk4",
+  "snapshot_id": "MTY3MDU3MzAzMSwwMDAwMDAwMDViNTU2M2RjMWIyNGRiMThjMzllNTRmNTE3YzE5ZTkw",
   "tracks": [
     {
       "added_at": "2022-12-09 08:03:51",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
         "name": "Sorcerer",
         "url": "https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 313613,
       "name": "The Sorcerer (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)",
       "url": "https://open.spotify.com/track/6RWbLrCrv9OwsPgHp7hH0A"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
+        "name": "The Best Of Lee Morgan",
+        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
       },
       "artists": [
         {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 340840,
-      "name": "Three-Four vs. Six-Eight Four-Four Ways",
-      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
+      "duration_ms": 332373,
+      "name": "Speedball",
+      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -995,34 +995,18 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "The Best Of Lee Morgan",
-        "url": "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 332373,
-      "name": "Speedball",
-      "url": "https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
-        "name": "Down With It",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Perception - Remastered",
-      "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
+      "duration_ms": 340840,
+      "name": "Three-Four vs. Six-Eight Four-Four Ways",
+      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1039,6 +1023,22 @@
       "duration_ms": 504426,
       "name": "Hub-Tones - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Down With It",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Perception - Remastered",
+      "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Contours",
-        "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivers",
-          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
-        }
-      ],
-      "duration_ms": 563920,
-      "name": "Point Of Many Returns",
-      "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Adam's Apple (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
       },
@@ -1107,18 +1091,34 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
+        "name": "Contours",
+        "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
         }
       ],
-      "duration_ms": 482186,
-      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
+      "duration_ms": 563920,
+      "name": "Point Of Many Returns",
+      "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "The Procrastinator",
+        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Stop-Start",
+      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "The Procrastinator",
-        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Stop-Start",
-      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
+      "duration_ms": 482186,
+      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Trompeta Toccata (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 480053,
-      "name": "The Fox - Remastered 2014",
-      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
-    },
-    {
-      "added_at": "2022-12-09 08:03:51",
-      "album": {
         "name": "Total Eclipse",
         "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-12-09 08:03:51",
       "album": {
-        "name": "Peacemeal",
-        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
+        "name": "Trompeta Toccata (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
       },
       "artists": [
         {
-          "name": "Lee Konitz Quintet",
-          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Thumb Under",
-      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
+      "duration_ms": 480053,
+      "name": "The Fox - Remastered 2014",
+      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
     },
     {
       "added_at": "2022-12-09 08:03:51",
@@ -1263,6 +1247,22 @@
       "duration_ms": 569453,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
+    },
+    {
+      "added_at": "2022-12-09 08:03:51",
+      "album": {
+        "name": "Peacemeal",
+        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz Quintet",
+          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Thumb Under",
+      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
     }
   ],
   "unique_name": "Post Bop Essentials",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Tokischa & Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,300 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,316 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 47 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 |
 | 48 | [Enfermo de Riqueza](https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Enfermo de Riqueza](https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr) | 3:54 |
 | 49 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2VedKSBZCY9ucVSlXNnxGc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:12 |
-| 50 | [El Cambio \(Feat\. Grupo Firme\) \- Mariachi](https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\)](https://open.spotify.com/album/4ItI7oj36fak3R4zT2mdFg) | 3:00 |
-| 51 | [Glopeta y Dios](https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [DELUXE](https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk) | 3:46 |
+| 50 | [Glopeta y Dios](https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [DELUXE](https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk) | 3:46 |
+| 51 | [El Cambio \(Feat\. Grupo Firme\) \- Mariachi](https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\)](https://open.spotify.com/album/4ItI7oj36fak3R4zT2mdFg) | 3:00 |
 | 52 | [DEL Barrio a la Ciudad](https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [DEL Barrio a la Ciudad](https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx) | 3:37 |
 | 53 | [Corrido Tumbero](https://open.spotify.com/track/56Mx6yWQj6UWk37LHMHqI4) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Corrido Tumbero](https://open.spotify.com/album/0sfDrji2Qr5KJPAvVzMVT8) | 3:32 |
 | 54 | [Eres la Persona Correcta en el Momento Equivocado \(feat\. Luis Coronel & Espinoza Paz\)](https://open.spotify.com/track/0MKRo7E8MaLketrDrtIqnE) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Eres la Persona Correcta en el Momento Equivocado \(feat\. Luis Coronel & Espinoza Paz\)](https://open.spotify.com/album/64Cku1ubYVNse8ZPaKuDM6) | 3:59 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 56 | [Para Todos Mis Paisanos](https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [La Maxima Banda de Mazatlan Sinaloa](https://open.spotify.com/artist/1jrlmT3OMCawrjyH20uoHf) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:13 |
 | 57 | [No Lo Vi Venir](https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 |
 
-Snapshot ID: `MTY3MzI0NDQyMCwwMDAwMDAwMGU2NTRhMDBiMDI5NGFiMzBlZDEyZGRkOWE1NjAxNzJh`
+Snapshot ID: `MTY3MzI0NDQyMCwwMDAwMDAwMDcyYTU2YjYxY2I5Njc3Mjk1NzI2YWNmODM5YTRmNzcw`

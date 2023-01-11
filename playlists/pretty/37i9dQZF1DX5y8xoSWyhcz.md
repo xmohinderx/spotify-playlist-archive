@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,878 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,916 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Blowsom & Friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
+| 1 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
 | 2 | [LEMON LIME](https://open.spotify.com/track/1kiQfpmbMrcDO7o9e7GBH6) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [LEMON LIME](https://open.spotify.com/album/4wZ5SnY6NjtiCf4NycJxSZ) | 2:58 |
 | 3 | [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 |
 | 4 | [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 84 | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/album/1nzeHtYhJ5vVJ0EvhoJ3JT) | 2:51 |
 | 85 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 |
 | 86 | [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 |
-| 87 | [Himalayas](https://open.spotify.com/track/0msnlSoBXzmrHWgJ00VIh5) | [Elijah Blond](https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt), [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Himalayas](https://open.spotify.com/album/47W2kTtdyTFgNxOeG0jNE4) | 3:04 |
+| 87 | [Himalayas](https://open.spotify.com/track/0msnlSoBXzmrHWgJ00VIh5) | [Elijah Blond](https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt), [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Himalayas](https://open.spotify.com/album/47W2kTtdyTFgNxOeG0jNE4) | 3:04 |
 | 88 | [21](https://open.spotify.com/track/49RhtS6ytYNTNBWZTCim9W) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [21](https://open.spotify.com/album/2F93FcT55nGgGrRFGndqCc) | 2:40 |
 | 89 | [Failed English](https://open.spotify.com/track/16BnRyqzdVcurz038JKdje) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [DROWNING IN THE CULTURE](https://open.spotify.com/album/777rLqZdiuGhPNvkpzpfkx) | 2:43 |
 | 90 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 |

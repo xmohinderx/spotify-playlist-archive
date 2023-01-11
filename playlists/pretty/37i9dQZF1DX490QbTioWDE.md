@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,948 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,529 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 34 | [Mi Cama No Habla](https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Suena?](https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK) | 3:29 |
 | 35 | [Como Si No Importara](https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Como Si No Importara](https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu) | 1:47 |
 | 36 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 |
-| 37 | [Llegó Tu Papi](https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Sabroso](https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln) | 3:43 |
+| 37 | [Q' Tal](https://open.spotify.com/track/6KaxyYZhOU04b8IlJk7qOl) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yws1EOBYGXGK2kxgdUopP) | 3:10 |
 | 38 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
 | 39 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 |
-| 40 | [Q' Tal](https://open.spotify.com/track/6KaxyYZhOU04b8IlJk7qOl) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yws1EOBYGXGK2kxgdUopP) | 3:10 |
+| 40 | [Llegó Tu Papi](https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Sabroso](https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln) | 3:43 |
 | 41 | [Respetemos el duelo](https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dos Amantes](https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2) | 2:54 |
 | 42 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 |
 | 43 | [Extrañándote](https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:52 |
 | 44 | [Ramito de violetas](https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 5:31 |
 | 45 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 |
-| 46 | [Te pido que la dejes](https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9) | 4:43 |
-| 47 | [Amor Secreto](https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [Amor Secreto](https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2) | 3:04 |
+| 46 | [Amor Secreto](https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [Amor Secreto](https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2) | 3:04 |
+| 47 | [Te pido que la dejes](https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9) | 4:43 |
 | 48 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 49 | [Monotonia](https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Monotonia](https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR) | 2:22 |
 | 50 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 92 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 |
 | 93 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
 | 94 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
-| 95 | [Ojala Que No Puedas / Me Parece Que \- En Vivo](https://open.spotify.com/track/2RUq39ldhpIla3CoYTfYbw) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Ojalá Que No Puedas / Me Parece Que \(En Vivo\)](https://open.spotify.com/album/36oVWVE59SadLSJSxV6Uul) | 5:15 |
-| 96 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
+| 95 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
+| 96 | [Ojala Que No Puedas / Me Parece Que \- En Vivo](https://open.spotify.com/track/2RUq39ldhpIla3CoYTfYbw) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Ojalá Que No Puedas / Me Parece Que \(En Vivo\)](https://open.spotify.com/album/36oVWVE59SadLSJSxV6Uul) | 5:15 |
 | 97 | [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 |
 | 98 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 |
 | 99 | [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 |
 | 100 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 |
 
-Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMDI2NWQ5MjVhNTk4YThjZDkxNTc0ZTVmOWI1NjZjNjc2`
+Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMDk3YTRkYWI5YzVhNjgyZWU2NjYyZWRkMWUyNWNlM2M3`

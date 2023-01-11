@@ -4363,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "No Horse To Ride",
+        "url": "https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133873,
+      "name": "No Horse To Ride",
+      "url": "https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3"
+    },
+    {
+      "album": {
         "name": "No Mistakes",
         "url": "https://open.spotify.com/album/2NOEHe54jdS5JgyaVoggqd"
       },

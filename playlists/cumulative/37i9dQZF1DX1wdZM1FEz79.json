@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "A Common Word",
+        "url": "https://open.spotify.com/album/1HUu5oC18wuBxXP94AoYSk"
+      },
+      "artists": [
+        {
+          "name": "Youth Like A Dream",
+          "url": "https://open.spotify.com/artist/0O07UU1GecVRKrnl2tviPy"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "A Common Word",
+      "url": "https://open.spotify.com/track/4InyptNd98tGVH9QCP71eB"
+    },
+    {
+      "album": {
         "name": "Uncontrollably Fond OST Part.14",
         "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
       },
@@ -580,7 +598,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 176190,
       "name": "be around me",
       "url": "https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 183440,
       "name": "Calling Your Name (Feat. Jeong hae il)",
       "url": "https://open.spotify.com/track/30koQ2yWTshLUqx0d4xGLG"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 287523,
       "name": "Dozy Dozy",
       "url": "https://open.spotify.com/track/3WKdOdaC8iHUxmMdH3wCtx"
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 173997,
       "name": "HOME",
       "url": "https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H"
@@ -2650,6 +2668,24 @@
       "duration_ms": 219496,
       "name": "Hug me",
       "url": "https://open.spotify.com/track/089QvCGproM6tZgdaszIBO"
+    },
+    {
+      "album": {
+        "name": "Taepung's Bride (Original Soundtrack), Pt.16",
+        "url": "https://open.spotify.com/album/22JRozoTvxuojR9NsEkfmj"
+      },
+      "artists": [
+        {
+          "name": "Oneyears",
+          "url": "https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "I can feel you",
+      "url": "https://open.spotify.com/track/4ObaWDh9Kif34bIucjOnTR"
     },
     {
       "album": {
@@ -4195,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+    },
+    {
+      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -4576,7 +4630,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 239853,
       "name": "Once again",
       "url": "https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI"
@@ -5856,7 +5910,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
@@ -5932,6 +5986,24 @@
       "duration_ms": 192000,
       "name": "Stars appear",
       "url": "https://open.spotify.com/track/4SOp0pG2eVeW3aypcMacXl"
+    },
+    {
+      "album": {
+        "name": "Missing: The Other Side 2 (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/4ebeZziAY8xysG8bHhHljX"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1Idbih6qYZUXzL5I4Wq6Hn"
     },
     {
       "album": {
@@ -6156,6 +6228,24 @@
       "duration_ms": 153506,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/59sio2uP1zKQu0SSmXtmqt"
+    },
+    {
+      "album": {
+        "name": "THANK YOU",
+        "url": "https://open.spotify.com/album/1EBJSo4XSiKOIpzfPor1T5"
+      },
+      "artists": [
+        {
+          "name": "Jang Pill Soon",
+          "url": "https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279843,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6FlCuZG1bp05Peno7KzYdK"
     },
     {
       "album": {
@@ -7658,6 +7748,24 @@
       "duration_ms": 173856,
       "name": "\uaca8\uc6b8\uc774 \uc628 \uac83\ucc98\ub7fc \ub9d0\uc774\uc9c0 - From 'Hidden Track No.V' Vol.4",
       "url": "https://open.spotify.com/track/0w3kQmZr2nNZNNWBSI8lE2"
+    },
+    {
+      "album": {
+        "name": "\uacc4\uc808\uc740 \ud551\uacc4 Season is an excuse",
+        "url": "https://open.spotify.com/album/3KoQlMZ9ECns52XeGCfmur"
+      },
+      "artists": [
+        {
+          "name": "Cosmos Hippie",
+          "url": "https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "\uacc4\uc808\uc740 \ud551\uacc4 Season is an excuse",
+      "url": "https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD"
     },
     {
       "album": {

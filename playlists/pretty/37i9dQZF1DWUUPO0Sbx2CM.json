@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 114015,
+  "num_followers": 114148,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGU3NjVkOGQzY2NkMTFhN2M2Y2FjYTRiNDQ4YjEyMGQ2",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDQ0ODFjZTI1NzJjMDhiYjUzMWY2MzUxZjE3YjliODU4",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 188473,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -771,34 +787,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
       "artists": [
         {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 188473,
-      "name": "Stages",
-      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "BUENA ONDA",
-      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
+      "duration_ms": 201093,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -827,34 +827,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Lifer",
-      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
+      "duration_ms": 160874,
+      "name": "BUENA ONDA",
+      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -871,6 +855,22 @@
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Every Move I Make",
-        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
-      },
-      "artists": [
-        {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
-        }
-      ],
-      "duration_ms": 132255,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Every Move I Make",
+        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
+      },
+      "artists": [
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        }
+      ],
+      "duration_ms": 132255,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 211182,
-      "name": "Won't He Do It (Remix)",
-      "url": "https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
       },
@@ -1291,18 +1275,34 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
       "artists": [
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 205706,
-      "name": "Influencer",
-      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+      "duration_ms": 211182,
+      "name": "Won't He Do It (Remix)",
+      "url": "https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 223308,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG"
     }
   ],
   "unique_name": "Christian Dance Party",

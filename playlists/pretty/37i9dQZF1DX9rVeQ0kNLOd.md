@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,847 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,851 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 32 | [without a word](https://open.spotify.com/track/4zefF6Sz5tyALMS8eVetPC) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [SIGN](https://open.spotify.com/album/3UnGVlmqObAzmtrFFBMXcF) | 2:37 |
 | 33 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 |
 | 34 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
-| 35 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
-| 36 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
-| 37 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
-| 38 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
-| 39 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 |
-| 40 | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/track/7oXFJ9YPy0KXKA4IhrCDXG) | [Minami](https://open.spotify.com/artist/5vzP98uJshmJE7tpNwYIgX), [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/album/2rQT69zCV0SKyFZ0YoMkpR) | 3:56 |
-| 41 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 |
-| 42 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
-| 43 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 |
-| 44 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
-| 45 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 |
-| 46 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
-| 47 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 |
-| 48 | [wish](https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [wish](https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO) | 4:24 |
-| 49 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
-| 50 | [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 |
+| 35 | [Alice](https://open.spotify.com/track/6lNoFGUr7bXvHRF8TM92gr) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Alice](https://open.spotify.com/album/2zjDNX7u3kuY2FFbiNgJ5p) | 3:33 |
+| 36 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
+| 37 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
+| 38 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
+| 39 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
+| 40 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 |
+| 41 | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/track/7oXFJ9YPy0KXKA4IhrCDXG) | [Minami](https://open.spotify.com/artist/5vzP98uJshmJE7tpNwYIgX), [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [Suisei × Konyawa Boogie Back nice vocal meets Yuri on ICE](https://open.spotify.com/album/2rQT69zCV0SKyFZ0YoMkpR) | 3:56 |
+| 42 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 |
+| 43 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
+| 44 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 |
+| 45 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
+| 46 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 |
+| 47 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
+| 48 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 |
+| 49 | [wish](https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [wish](https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO) | 4:24 |
+| 50 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
 
-Snapshot ID: `MTY3MTcyMTIwMCwwMDAwMDAwMGJjYjY4ZjNkMTBhZjBmMjlmZDYyMzhjODE1YzMzYTFh`
+Snapshot ID: `MTY3MzM2MjgwMCwwMDAwMDAwMGNmZDg0MzA0OGE0OGFiZGE4NDMwMTQ0NTc4ODdkOGE2`

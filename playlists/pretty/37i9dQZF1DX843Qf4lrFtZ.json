@@ -1,12 +1,12 @@
 {
   "description": "that\u2019s how it's supposed to be. living young, wild and free!!!!!",
-  "num_followers": 2763783,
+  "num_followers": 2763810,
   "original_name": "young, wild & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkyOTc2MCwwMDAwMDAwMDE4MGU1ZmQ0N2VjZDUwODcxNmMyZWVmNzhhMzIxOTlk",
+  "snapshot_id": "MTY3MjkyOTc2MCwwMDAwMDAwMDEzNTYxOTVmYmIzMGQ2NmZiYzUyZDQ2YjBjNjhiYmQ1",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
     },
     {
-      "added_at": "2023-01-10 00:48:35",
+      "added_at": "2023-01-11 01:05:30",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -367,22 +351,6 @@
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -403,6 +371,38 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Down In Atlanta",
         "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 164041,
       "name": "Down In Atlanta",
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -967,22 +951,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "reputation Stadium Tour Surprise Song Playlist",
-        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 247160,
-      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
-      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1007,6 +987,26 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "reputation Stadium Tour Surprise Song Playlist",
+        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Thousand Miles",
         "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
       },
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 108498,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 184294,
-      "name": "Million Dollar Baby",
-      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+      "duration_ms": 108498,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1157,6 +1157,30 @@
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
+      "added_at": "2023-01-11 01:05:30",
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
+    },
+    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "BORN PINK",
@@ -1171,6 +1195,22 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1195,22 +1235,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1263,6 +1287,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1279,46 +1319,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
-    },
-    {
-      "added_at": "2023-01-10 00:48:35",
-      "album": {
-        "name": "Rumble",
-        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1691,6 +1691,30 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Eastside (with Halsey & Khalid)",
+        "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 173799,
+      "name": "Eastside (with Halsey & Khalid)",
+      "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
         "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
       },
@@ -1719,46 +1743,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Eastside (with Halsey & Khalid)",
-        "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 173799,
-      "name": "Eastside (with Halsey & Khalid)",
-      "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1859,18 +1859,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     }
   ],
   "unique_name": "young, wild & free",

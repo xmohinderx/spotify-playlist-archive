@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best soft rock from the 2000s\. Cover: Lifehouse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,044 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,225 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 37 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
 | 38 | [Simple Man \- Acoustic](https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Leave a Whisper \(Deluxe Edition\)](https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l) | 5:20 |
 | 39 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 |
-| 40 | [Dear Agony](https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:18 |
-| 41 | [Big Yellow Taxi](https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hard Candy](https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy) | 3:45 |
+| 40 | [Big Yellow Taxi](https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hard Candy](https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy) | 3:45 |
+| 41 | [Dear Agony](https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:18 |
 | 42 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 |
 | 43 | [Here I Am \- End Title](https://open.spotify.com/track/0gJBPDy458wPeWGHei3TvO) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Spirit: Stallion Of The Cimarron \(Music From The Original Motion Picture\)](https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8) | 4:44 |
 | 44 | [Closer](https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Boy With No Name](https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR) | 4:00 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 48 | [Shut Your Eyes](https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:17 |
 | 49 | [Heartbreak Warfare](https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 4:29 |
 | 50 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
-| 51 | [My Kind Of Scene](https://open.spotify.com/track/3GcvxghJMdrNH92Rp2oMtV) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:37 |
-| 52 | [Cat And Mouse](https://open.spotify.com/track/4aZirFFDJlUUuvhpjY5cAH) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:28 |
+| 51 | [Cat And Mouse](https://open.spotify.com/track/4aZirFFDJlUUuvhpjY5cAH) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:28 |
+| 52 | [My Kind Of Scene](https://open.spotify.com/track/3GcvxghJMdrNH92Rp2oMtV) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:37 |
 | 53 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:31 |
 | 54 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
 | 55 | [The End](https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 79 | [Roadside](https://open.spotify.com/track/2Lw8a712bXz7xa0DyxHkIP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:21 |
 | 80 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/1AKfLYTm4RqfLKqgQmv9V2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:08 |
 
-Snapshot ID: `MTY2ODcwMDQ2NiwwMDAwMDAwMDg1MGMzZDc3YmQ2ZTcyYzAyNjYwMWYwOWQ1ZmU1M2Y0`
+Snapshot ID: `MTY2ODcwMDQ2NiwwMDAwMDAwMGRkM2RjYjE0YjNmYWIyMDFmOWE1NWYyOTY3NmU4NWQw`

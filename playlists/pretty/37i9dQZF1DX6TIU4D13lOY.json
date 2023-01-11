@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 199108,
+  "num_followers": 199275,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMGQ3ZGE5Y2ZlOTAzYWU5OWM5OWFkMzlhOGVjMzc1YmNj",
+  "snapshot_id": "MTY1NzA0OTA1NywwMDAwMDAwMDViMzYzOWU1NzVhY2JjMDkyN2Y0MGVmYWI5ZDcwNjQ5",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Best Of The Alessi Brothers",
-        "url": "https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY"
-      },
-      "artists": [
-        {
-          "name": "Alessi Brothers",
-          "url": "https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Oh Lori",
-      "url": "https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 233676,
       "name": "Shannon",
       "url": "https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "The Best Of The Alessi Brothers",
+        "url": "https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY"
+      },
+      "artists": [
+        {
+          "name": "Alessi Brothers",
+          "url": "https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Oh Lori",
+      "url": "https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "Champagne Jam",
         "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 211533,
       "name": "He Got You",
       "url": "https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
     },
     {
       "added_at": "2020-01-07 15:31:11",

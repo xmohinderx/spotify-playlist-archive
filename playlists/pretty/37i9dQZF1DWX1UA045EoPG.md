@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,569 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,566 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 19 | [Mona Lisa Bonet](https://open.spotify.com/track/06I2oTgzyWBjw6qJcKGMkk) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Mona Lisa Bonet](https://open.spotify.com/album/6t3OXIO6WN2k24g8xRsam6) | 2:05 |
 | 20 | [Dangerous](https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [This Time](https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn) | 3:51 |
 | 21 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
-| 22 | [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 |
+| 22 | [Rollercoaster](https://open.spotify.com/track/4TPzZlQvwNwO8tI3f6lsY2) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Overgrown](https://open.spotify.com/album/3FBY8CnuZ6aD3pzfSodd3W) | 3:17 |
 | 23 | [La Piña](https://open.spotify.com/track/3fmIXrnXgt6ZzXWHewbvSC) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [La Piña](https://open.spotify.com/album/4Ur27mAxzS8CzHr942EuGE) | 3:39 |
 | 24 | [Keep the Spark Alive](https://open.spotify.com/track/4ortOUyHPtxAmM1T0xXEhZ) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Bonus Points](https://open.spotify.com/artist/3GlCVMFRzrZ3FGtt4apejf) | [Keep the Spark Alive](https://open.spotify.com/album/2pJERUgp7pWBqhEnztIedx) | 3:01 |
 | 25 | [Fresh! \(feat\. Flamingosis\)](https://open.spotify.com/track/0xyZGdpkODxuHeitZUpHPO) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Fresh!](https://open.spotify.com/album/6osa0X7YiamMzT7mf1VBGW) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDBkNTAwMzAwMWZmYTI2ZmM1OTM2Y2QwZGVlYTI3NDNj`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDIzMGMwNThjZDMwNTA1N2JhYTJkODdkZTRiOWFiNzkz`

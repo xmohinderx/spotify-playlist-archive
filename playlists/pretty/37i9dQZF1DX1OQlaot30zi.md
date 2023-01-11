@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Vegas, Sacky e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,197 likes - 65 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,209 likes - 65 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 21 | [Barbecue & Bacon](https://open.spotify.com/track/6uSsyN88JF9ZoN2AgRdwZw) | [Fady](https://open.spotify.com/artist/1EeBagJ2amUXOSo5GQsfZN), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Barbecue & Bacon](https://open.spotify.com/album/5pAYBbAjYCIDrAg1662aSs) | 3:46 |
 | 22 | [fuori grandina](https://open.spotify.com/track/5wMiOUaoMIRamLo6kdz9eA) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [fuori grandina](https://open.spotify.com/album/1WjCIFSycMzI43lO8uSwJb) | 2:32 |
 | 23 | [Popcorn \(feat\. Gojardi\)](https://open.spotify.com/track/7aWKPzpe0dcM5267uEb0zF) | [Yungdobro](https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI), [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk) | [Popcorn \(feat\. Gojardi\)](https://open.spotify.com/album/7xASVZ2fJ6cpey88sgqs4v) | 3:01 |
-| 24 | [Manches](https://open.spotify.com/track/5yGmutgQ9WGdRyWKqEgyfc) | [Sono Isa](https://open.spotify.com/artist/1fpDunFDS72TnBAad3A5nt), [Howl](https://open.spotify.com/artist/1G1nrDoMlR2K3Br9QSEAqY), [Tuxxy](https://open.spotify.com/artist/4ffyvJgR5OhjbMoG3TwuLn) | [Manches](https://open.spotify.com/album/1I12J1f0DPiGOKhYDzON3Q) | 3:20 |
+| 24 | [Manches](https://open.spotify.com/track/5yGmutgQ9WGdRyWKqEgyfc) | [Moixlavie](https://open.spotify.com/artist/3fs1vREIJuuJKK9x507311), [Howl](https://open.spotify.com/artist/1G1nrDoMlR2K3Br9QSEAqY), [Tuxxy](https://open.spotify.com/artist/4ffyvJgR5OhjbMoG3TwuLn) | [Manches](https://open.spotify.com/album/1I12J1f0DPiGOKhYDzON3Q) | 3:20 |
 | 25 | [La frappe](https://open.spotify.com/track/1jWcKHWj89EdYllfpVvops) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [La frappe](https://open.spotify.com/album/1yzeZKSK0huK56Xa1G5q7T) | 2:54 |
 | 26 | [Sexy Jersey](https://open.spotify.com/track/2ITfoGfIJOZ6iyu4C5GFvh) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [Sexy Jersey](https://open.spotify.com/album/1zY0TsrS9Eqn6g36f2wUoH) | 2:45 |
 | 27 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 2:40 |

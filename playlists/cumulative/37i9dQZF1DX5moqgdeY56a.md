@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-79 songs - 4 hr 45 min
+80 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 | 2021-12-13 |  |
 | [Albur De Amor](https://open.spotify.com/track/4VCuUyLW4lHvVsAgR1cNZd) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 2:36 | 2022-09-22 | 2022-11-13 |
 | [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 | 2022-09-22 |  |
+| [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 | 2022-09-22 |  |
 | [Amigos Nada Más](https://open.spotify.com/track/56flGLpXk65jcXDKirq75B) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [De Plaza En Plaza \(Cumbia Sinfónica/Deluxe\)](https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M) | 3:31 | 2021-12-13 |  |
 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 | 2021-12-13 |  |
 | [Ando Que Me Lleva](https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:22 | 2021-12-13 |  |
 | [Anillo Grabado](https://open.spotify.com/track/4M3A1xOY409r0cGLEKSDmf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 2:27 | 2021-12-13 | 2023-01-05 |
-| [Así Es La Vida](https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Es La Vida](https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp) | 3:07 | 2021-12-13 |  |
+| [Así Es La Vida](https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Es La Vida](https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp) | 3:07 | 2021-12-13 | 2023-01-11 |
 | [Ay, Chabela](https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 | 2022-09-22 | 2022-11-13 |
 | [Bandido De Amores](https://open.spotify.com/track/2GmQrkLViOY0hJUn0bolVT) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Duetos Famosos](https://open.spotify.com/album/2iC2yfvmZHl8Tnkx3FS7XU) | 2:58 | 2022-09-22 | 2022-11-13 |
 | [Bandido De Amores](https://open.spotify.com/track/5gbThduFQLh53m500xE54t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 2:58 | 2021-12-13 |  |

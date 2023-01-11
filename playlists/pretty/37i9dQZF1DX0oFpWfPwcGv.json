@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 35806,
+  "num_followers": 35882,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGVhMTc1OGU5YWIzMjM4ZDZlODg0MmRmMmNkOWI5MTQy",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGY0YjkwNjc3MzhiODZiNGRhOWVlNTM2NTc5MTAyNzVm",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "I'm Caught Up (In a One Night Love Affair)",
         "url": "https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 446013,
       "name": "I'm Caught up (In a One Night Love Affair) - 12\u201d Edit",
       "url": "https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "I Need A Man",
-      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 274960,
       "name": "My Forbidden Lover - 2018 Remaster",
       "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "I Need A Man",
+      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
     },
     {
       "added_at": "2022-12-31 00:39:45",

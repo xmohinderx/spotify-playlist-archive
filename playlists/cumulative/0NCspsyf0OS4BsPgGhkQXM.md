@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-630 songs - 1 day 10 hr 13 min
+631 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [MOVE](https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [MOVE](https://open.spotify.com/album/1tKXqkiVYgkkfFicEFPjqy) | 2:47 | 2022-01-14 | 2022-09-15 |
 | [Multicolore](https://open.spotify.com/track/6KEQoLLr2kXLFKjiAFcxlW) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Multicolore](https://open.spotify.com/album/71FiFt0GL3GWW7FQkvTQfS) | 2:04 | 2022-08-05 | 2022-09-07 |
 | [My Circle](https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [My Circle](https://open.spotify.com/album/4kZIQPP4EbHyEuSBzhnbUi) | 2:39 | 2022-01-28 | 2022-02-26 |
+| [MYSELF AGAIN](https://open.spotify.com/track/3W71reebo9HFakaEpmcPS4) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [MYSELF AGAIN](https://open.spotify.com/album/3cn5Z5LRrC0omDyqj1t9Of) | 5:01 | 2023-01-10 |  |
 | [Neck And Neck \- DNMO Remix](https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Northern Lights \(Remixes\)](https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe) | 3:02 | 2022-11-22 |  |
 | [Need You Back](https://open.spotify.com/track/1KwIrJg96RHokyebJ0cn5i) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [ben haydn](https://open.spotify.com/artist/6hhSMFSre2tzsoKtm3slxB) | [Need You Back](https://open.spotify.com/album/6bgSbajtMejBA4yHlbb8HA) | 2:27 | 2022-09-09 | 2022-10-22 |
 | [Nemesis Pt\. II](https://open.spotify.com/track/6F6VliXzfgjCsDMAQ37cTQ) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Nemesis Pt\. II](https://open.spotify.com/album/1zePUd3vBR4TDum2iDRhlG) | 2:55 | 2022-11-15 | 2022-11-24 |

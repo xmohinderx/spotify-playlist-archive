@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,506 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,571 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 12 | [Like Whoa](https://open.spotify.com/track/27uLq3wrOYZYPAtNkOFBE3) | [Nbhd Nick](https://open.spotify.com/artist/0bVFLYmOtn6jqiRlmVnz9w) | [Going Global](https://open.spotify.com/album/1xKUjFay6tnaFvcVbLwLfJ) | 2:10 |
 | 13 | [1987](https://open.spotify.com/track/3MVNjBeejT21nOXQuLkkYN) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [2AM](https://open.spotify.com/album/1BV9NiFeRP50Dmt6JBqsWz) | 8:27 |
 | 14 | [Ten Girls](https://open.spotify.com/track/74XDe6nEQtExQUvrWcs1cW) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [She's Made Of Saints](https://open.spotify.com/album/7dQQoDm0OsVTktVbIqF0W4) | 3:13 |
-| 15 | [Push](https://open.spotify.com/track/4d3ltLyciH816ekGMM3VbK) | [ALTA](https://open.spotify.com/artist/4dH7zjreLGJ4dcBfpHIg0L), [Hannah Lesser](https://open.spotify.com/artist/0IsMFEnd2vqcciDqoiYsB8), [Julius Dowson](https://open.spotify.com/artist/38rnAZvWkFctxFzce72788) | [Push](https://open.spotify.com/album/1BP7s8VMSNi0uH2g0sBh7X) | 3:14 |
+| 15 | [Push](https://open.spotify.com/track/4d3ltLyciH816ekGMM3VbK) | [ALTA](https://open.spotify.com/artist/4dH7zjreLGJ4dcBfpHIg0L) | [Push](https://open.spotify.com/album/1BP7s8VMSNi0uH2g0sBh7X) | 3:14 |
 | 16 | [Sun Skin Air](https://open.spotify.com/track/1hbhPTc1daDTwZHddvXyCE) | [SUN SILVA](https://open.spotify.com/artist/5f84MJAiHgRVmGpDOQI1fU) | [Sun Skin Air](https://open.spotify.com/album/6NRyjVUbyvQgr1n1cbTUyT) | 4:45 |
 | 17 | [Estrellica](https://open.spotify.com/track/1uFsbYxgTWZZ5QdAEoVRmr) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Estrellica](https://open.spotify.com/album/3uCeRLWnh6N5J8641dUj89) | 3:25 |
 | 18 | [Mystère \(Misterio\)](https://open.spotify.com/track/4v2xnfC879xqiptgMadrlw) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Mystère \(Misterio\)](https://open.spotify.com/album/7Hxwx2frOeDcqnlOPSYaOL) | 3:02 |

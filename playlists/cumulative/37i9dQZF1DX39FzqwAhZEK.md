@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-321 songs - 16 hr 8 min
+322 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Fuente](https://open.spotify.com/track/1zr2aJnCXgWgLhb4kFNubA) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Fuente](https://open.spotify.com/album/5Z8F9CL9vVuFBnhez2Sr1E) | 1:52 | 2022-07-05 |  |
 | [Fuente](https://open.spotify.com/track/4CCWyLNhLgewpetjkfJxd3) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Fuente](https://open.spotify.com/album/1QXo3GwRCtZiaT41v6czcI) | 1:52 | 2022-07-05 | 2022-07-29 |
 | [Futura](https://open.spotify.com/track/7j83x36QxOmDoTFUY0yDLj) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Tempus](https://open.spotify.com/album/2xgrk9jAxXh5HxlgzQl3MV) | 3:48 | 2022-07-05 | 2022-08-16 |
-| [Gentle Mindset](https://open.spotify.com/track/4aItgjNbNcSS2jtkgg1Ywm) | [Musica Para Estudiar Academy](https://open.spotify.com/artist/6aar96zCc3ms96eBkMkU6C) | [Tranquillity Calls](https://open.spotify.com/album/5v1QNkuDMf85YobiT4kCyj) | 3:14 | 2022-07-05 |  |
+| [Gentle Mindset](https://open.spotify.com/track/4aItgjNbNcSS2jtkgg1Ywm) | [Musica Para Estudiar Academy](https://open.spotify.com/artist/6aar96zCc3ms96eBkMkU6C) | [Tranquillity Calls](https://open.spotify.com/album/5v1QNkuDMf85YobiT4kCyj) | 3:14 | 2022-07-05 | 2023-01-11 |
 | [Gentle Slumber](https://open.spotify.com/track/1bdMHdYbxbqNaGJxnccSku) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Gentle Slumber](https://open.spotify.com/album/3nTYekMypovZwXjGN1AtSQ) | 3:15 | 2022-07-05 | 2022-07-29 |
 | [Gentle Slumber](https://open.spotify.com/track/5qOzLAV4i75syqr5NMxJHx) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Gentle Slumber](https://open.spotify.com/album/62cHxjlJtRR5lBgQhFbNbj) | 3:15 | 2022-07-05 |  |
 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2022-07-05 |  |
@@ -266,6 +266,7 @@
 | [Softness](https://open.spotify.com/track/4Ph8ixycBuZIqhY9vfKjNf) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Softness](https://open.spotify.com/album/2RRGo8KbdsjYicoP3l3pZy) | 2:34 | 2022-07-05 | 2022-07-29 |
 | [Softness](https://open.spotify.com/track/4bUPUoSgMRSRrUJTXEkvOk) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Softness](https://open.spotify.com/album/59POBHkbmazBWdgaaO2XuS) | 2:34 | 2022-07-05 |  |
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-07-05 |  |
+| [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-10 |  |
 | [Solaris](https://open.spotify.com/track/5vhW2jwyTXXJUiujWBZMSQ) | [OD Lark](https://open.spotify.com/artist/20vUXXQpEmqcgEIP6Q4QCE) | [Solaris](https://open.spotify.com/album/1tRU9fkO0PYQpFKDXCMHnU) | 3:48 | 2022-07-05 |  |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Something Sends Me to Sleep](https://open.spotify.com/track/0yBUFL9DZRhhg18XuaaJ3S) | [Aquarium Haze](https://open.spotify.com/artist/2F5h2SNluMoGRPAeBh2068) | [Something Sends Me to Sleep](https://open.spotify.com/album/4CfXMmmghsc1QOFPKwGIGL) | 2:12 | 2022-07-05 | 2022-07-29 |

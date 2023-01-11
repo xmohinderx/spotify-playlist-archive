@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "album": {
         "name": "anodyne",
         "url": "https://open.spotify.com/album/430mXLx0T9y9u0EtFqy4xY"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 126959,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
@@ -1480,6 +1498,24 @@
       "duration_ms": 269149,
       "name": "Glue",
       "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
+    },
+    {
+      "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
       "album": {
@@ -1872,7 +1908,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X"
@@ -2126,6 +2162,24 @@
       "duration_ms": 104703,
       "name": "JV Movie Score",
       "url": "https://open.spotify.com/track/64QM0cb9rdn78CsAxrswjp"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "album": {
@@ -2404,6 +2458,24 @@
       "duration_ms": 195470,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/15PQ1AVMbWalxyPJbI1fYi"
+    },
+    {
+      "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
     },
     {
       "album": {
@@ -3876,7 +3948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"

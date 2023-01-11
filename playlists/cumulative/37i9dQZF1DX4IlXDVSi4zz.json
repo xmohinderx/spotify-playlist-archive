@@ -2530,10 +2530,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 239417,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239417,
+      "name": "You Were Right",
+      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
     },
     {
       "album": {

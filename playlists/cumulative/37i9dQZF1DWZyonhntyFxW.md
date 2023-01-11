@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/> ! غلاف: فليكس
 
-135 songs - 6 hr 59 min
+136 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-06-07 |  |
 | [Deep](https://open.spotify.com/track/58FNOZG0cfPdnnqTPdjirs) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Deep](https://open.spotify.com/album/7b9Om4YTB1qXMAzjcDtRbb) | 2:05 | 2022-05-10 | 2022-09-28 |
 | [Double Face](https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Double Face](https://open.spotify.com/album/2YbDf25DxNHXRnP5wm9G2i) | 3:00 | 2022-05-10 | 2022-06-21 |
+| [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 |  |
 | [EL BABA](https://open.spotify.com/track/5hqTZ3iZFOZAeojDVC9QPJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [EL BABA](https://open.spotify.com/album/5aXEcbeROqVWPx9zYCYeBJ) | 3:23 | 2022-05-10 | 2022-06-21 |
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 |  |
 | [El QOWA](https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:17 | 2022-05-10 | 2022-10-11 |
@@ -126,7 +127,7 @@
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-05-10 | 2022-06-15 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2022-05-10 | 2022-07-07 |
 | [جيزة](https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [جيزة](https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ) | 2:58 | 2022-09-27 | 2022-10-14 |
-| [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-08-08 |  |
+| [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-08-08 | 2023-01-11 |
 | [خالصة معايا](https://open.spotify.com/track/0XG6VRiFwF74vnEuMfr6hB) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [خالصة معايا](https://open.spotify.com/album/1ZqcAeqFDFXhNZilGrnEqv) | 3:23 | 2022-10-25 |  |
 | [خلصانة](https://open.spotify.com/track/0UEVzjzh4cdVdseez14q1G) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [خلصانة](https://open.spotify.com/album/1NfFVrdOU9l6xHvNRG8Zw0) | 3:02 | 2022-10-10 |  |
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-10-25 | 2022-12-24 |

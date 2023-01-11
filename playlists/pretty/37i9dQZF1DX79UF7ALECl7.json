@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 116043,
+  "num_followers": 116059,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGJkN2E5MzQ0YTVmOTdjNmVhNWY5MjhhZGUwODA1NjFm",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDNlYjQ4YTMwMDc1OGQzMTI1MzM1NGNjMjMyNjhmNWI5",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Manhattan at Dusk",
-        "url": "https://open.spotify.com/album/76uUq4SUSmFtQty2xBycYZ"
-      },
-      "artists": [
-        {
-          "name": "Tullio",
-          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Manhattan At Dusk",
-      "url": "https://open.spotify.com/track/6LvlfzN3FIx5vYJIyH5X1S"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Swan Lake (Someone Rework)",
         "url": "https://open.spotify.com/album/1CnLwouBrnGAqYbvaN8Q90"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 203502,
       "name": "Swan Lake - Someone Rework",
       "url": "https://open.spotify.com/track/4PuyLqIsvrVA29KO3ktsvP"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Manhattan at Dusk",
+        "url": "https://open.spotify.com/album/76uUq4SUSmFtQty2xBycYZ"
+      },
+      "artists": [
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Manhattan At Dusk",
+      "url": "https://open.spotify.com/track/6LvlfzN3FIx5vYJIyH5X1S"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -243,6 +243,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/5WiPDSMPC7kSi0UxssC9qQ"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 250430,
       "name": "Tom's Bar",
       "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Profound EP",
-        "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
-      },
-      "artists": [
-        {
-          "name": "Malik Faquir",
-          "url": "https://open.spotify.com/artist/1DFahMH74byTBAyyn1vn2z"
-        },
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        }
-      ],
-      "duration_ms": 392347,
-      "name": "Harmonic Dreams",
-      "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Socorro & J\u00fcpiter",
         "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
       },
@@ -447,34 +427,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
+        "name": "Profound EP",
+        "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
       "artists": [
         {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 223682,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
-      },
-      "artists": [
+          "name": "Malik Faquir",
+          "url": "https://open.spotify.com/artist/1DFahMH74byTBAyyn1vn2z"
+        },
         {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+      "duration_ms": 392347,
+      "name": "Harmonic Dreams",
+      "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -499,22 +467,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Finds You Well",
-        "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
-      },
-      "artists": [
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Groove 32",
-      "url": "https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -531,6 +483,54 @@
       "duration_ms": 415903,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 223682,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Finds You Well",
+        "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Groove 32",
+      "url": "https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
       },
@@ -599,26 +583,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Fidelity Radio Club",
-        "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
       },
       "artists": [
         {
-          "name": "S. Fidelity",
-          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
-        },
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
         }
       ],
-      "duration_ms": 236671,
-      "name": "Love International Inc.",
-      "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -647,18 +623,42 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+        "name": "Fidelity Radio Club",
+        "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
       },
       "artists": [
         {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+          "name": "S. Fidelity",
+          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
+        },
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
         }
       ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+      "duration_ms": 236671,
+      "name": "Love International Inc.",
+      "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
       },
       "artists": [
         {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
         }
       ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -819,22 +819,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Speak Like the Hurricane",
-        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
+        "name": "Gotta Dance",
+        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
       },
       "artists": [
         {
-          "name": "Marc Bianco",
-          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 417391,
-      "name": "Pelicanism",
-      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
+      "duration_ms": 197796,
+      "name": "Gotta Dance",
+      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -863,6 +859,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "You're Beautiful",
+        "url": "https://open.spotify.com/album/7nEBgm3FMtdY1XNRijKkS3"
+      },
+      "artists": [
+        {
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "Paul Kostick",
+          "url": "https://open.spotify.com/artist/36CfCKvycNlh3Bp67K1Uip"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/5dB4ktNiRIGBBnPIZ2y0Py"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Just for a Moment",
         "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 193200,
       "name": "Just for a Moment",
       "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Gotta Dance",
-        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Gotta Dance",
-      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Speak Like the Hurricane",
+        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
+      },
+      "artists": [
+        {
+          "name": "Marc Bianco",
+          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 417391,
+      "name": "Pelicanism",
+      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
       },
@@ -939,26 +959,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "You're Beautiful",
-        "url": "https://open.spotify.com/album/7nEBgm3FMtdY1XNRijKkS3"
-      },
-      "artists": [
-        {
-          "name": "Krono",
-          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
-        },
-        {
-          "name": "Paul Kostick",
-          "url": "https://open.spotify.com/artist/36CfCKvycNlh3Bp67K1Uip"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/5dB4ktNiRIGBBnPIZ2y0Py"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Tell Me Who I Am",
         "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
       },
@@ -1031,86 +1031,6 @@
       "duration_ms": 217948,
       "name": "Tell Me Who I Am",
       "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Echo Of Youth Remodel",
-        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
-      },
-      "artists": [
-        {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 298440,
-      "name": "Youth - Satin Jackets Remix",
-      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Somewhere In Nirvana",
-        "url": "https://open.spotify.com/album/4V3ClACArpBjii3B7f5xwr"
-      },
-      "artists": [
-        {
-          "name": "LONO",
-          "url": "https://open.spotify.com/artist/49LIV2bIzzfbBbP1qL6UMP"
-        },
-        {
-          "name": "AVY X",
-          "url": "https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px"
-        },
-        {
-          "name": "Kid On The Block",
-          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
-        }
-      ],
-      "duration_ms": 138169,
-      "name": "Somewhere In Nirvana",
-      "url": "https://open.spotify.com/track/6bZFIemcJk5aTAlscgz6T9"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1135,6 +1055,86 @@
       "duration_ms": 410483,
       "name": "Blue Ridge - Artphorm Remix",
       "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Echo Of Youth Remodel",
+        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 298440,
+      "name": "Youth - Satin Jackets Remix",
+      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Somewhere In Nirvana",
+        "url": "https://open.spotify.com/album/4V3ClACArpBjii3B7f5xwr"
+      },
+      "artists": [
+        {
+          "name": "LONO",
+          "url": "https://open.spotify.com/artist/49LIV2bIzzfbBbP1qL6UMP"
+        },
+        {
+          "name": "AVY X",
+          "url": "https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        }
+      ],
+      "duration_ms": 138169,
+      "name": "Somewhere In Nirvana",
+      "url": "https://open.spotify.com/track/6bZFIemcJk5aTAlscgz6T9"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
-      },
-      "artists": [
-        {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -1303,34 +1287,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
       },
       "artists": [
         {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
         }
       ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1355,18 +1323,34 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
+      "duration_ms": 165600,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
       },
       "artists": [
         {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "After Midnyte",
         "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 191819,
       "name": "Got to Fall Out",
       "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
     },
     {
       "added_at": "2022-12-22 23:00:00",

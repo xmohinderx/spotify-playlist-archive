@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,417 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,651 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 24 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
 | 25 | [Favorite Mistake](https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:52 |
 | 26 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
-| 27 | [Let Me](https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:05 |
-| 28 | [CORSO](https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 |
+| 27 | [CORSO](https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 |
+| 28 | [Let Me](https://open.spotify.com/track/2cEmWBBlCfR9wWrY9JmTyt) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh) | 3:05 |
 | 29 | [Replay](https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 2:59 |
 | 30 | [Kody Blu 31](https://open.spotify.com/track/6ZGoFntcQUWTPGGQPQmecY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:44 |
 | 31 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
-| 32 | [Green Light](https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:01 |
-| 33 | [III\. Telegraph Ave\. \("Oakland" by Lloyd\)](https://open.spotify.com/track/3hyyG3Rm7DdmDwG2ZHfxFR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:30 |
+| 32 | [III\. Telegraph Ave\. \("Oakland" by Lloyd\)](https://open.spotify.com/track/3hyyG3Rm7DdmDwG2ZHfxFR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:30 |
+| 33 | [Green Light](https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:01 |
 | 34 | [Tryna Be](https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:50 |
 | 35 | [Land Of The Snakes](https://open.spotify.com/track/0hW72l6tZgSY7Od2OUVDIC) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:14 |
 | 36 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 49 | [Terrified](https://open.spotify.com/track/6UKb1qcw5jqmoVeln2i3ZL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 4:15 |
 | 50 | [Retrograde \(feat\. 6LACK & Lucky Daye\)](https://open.spotify.com/track/3v5WRAItrZgr5vCdW3vTmz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:40 |
 
-Snapshot ID: `MTY2NDc2OTYwMCwwMDAwMDAwMDU1ZTZlMmRkNjFmMjZiOWYzYjAzZDVlODEyZjg2MDBh`
+Snapshot ID: `MTY2NDc2OTYwMCwwMDAwMDAwMGI2Njg3YjRiYWMzNjU2M2I2NzY0YWRjNTk1OGFkMzU4`

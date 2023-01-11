@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 ### [Blues Standards](https://open.spotify.com/playlist/37i9dQZF1DXcu3QLJudo4X)
 
-> Classic songs from the Blues songbook\. Cover: Muddy Waters.
+> 
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,967 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,050 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 4 | [Born Under A Bad Sign \- Mono Mix](https://open.spotify.com/track/3ocm1Cf1Dk1ODrdBdybh82) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:49 |
 | 5 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 |
 | 6 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
-| 7 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 |
-| 8 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
-| 9 | [The Thrill Is Gone](https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 5:01 |
-| 10 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:38 |
-| 11 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 |
-| 12 | [Catfish Blues \- Live](https://open.spotify.com/track/2CU9pGd7lq4fSHiFwjs842) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 8:00 |
-| 13 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
-| 14 | [Rollin' And Tumblin'](https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Canned Heat](https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8) | 3:11 |
-| 15 | [Baby, Please Don't Go](https://open.spotify.com/track/1jyznfH2Lp3TrIHx5cFQwv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | ['74 Jailbreak](https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y) | 5:00 |
+| 7 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
+| 8 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 |
+| 9 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
+| 10 | [The Thrill Is Gone](https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 5:01 |
+| 11 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:38 |
+| 12 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 |
+| 13 | [Catfish Blues \- Live](https://open.spotify.com/track/2CU9pGd7lq4fSHiFwjs842) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 8:00 |
+| 14 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
+| 15 | [Rollin' And Tumblin'](https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Canned Heat](https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8) | 3:11 |
 | 16 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 17 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 18 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
@@ -58,5 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 48 | [Everyday I Have The Blues](https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:49 |
 | 49 | [Trouble In Mind](https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:53 |
 | 50 | [Crosscut Saw](https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 2:34 |
+| 51 | [\(You've Got To\) Love Her With A Feeling](https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Blues With A Feeling](https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB) | 3:45 |
+| 52 | [Driftin' Blues](https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [The Anthology](https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM) | 3:26 |
+| 53 | [Caldonia](https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:54 |
+| 54 | [One Night \- Remastered](https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:27 |
+| 55 | [Kansas City](https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53) | 2:31 |
+| 56 | [Sitting On Top Of The World](https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 3:36 |
+| 57 | [Ain't Nobody's Business](https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v) | [Jimmy Whiterspoon](https://open.spotify.com/artist/6Jsv53pu1yK3Q9ZuHcfhsH) | [Presenting Jimmy Whitherspoon](https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf) | 3:38 |
+| 58 | [I Can't Quit You Baby](https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Can't Quit You Baby / Sit Down Baby](https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV) | 3:07 |
+| 59 | [See See Rider Blues](https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G) | [Bea Booze](https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk) | [Country Blues 101](https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ) | 3:09 |
+| 60 | [Goin' Down Slow](https://open.spotify.com/track/4DIg6Cu5kWVQA3KO2NQpAM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Best Of B.B\. King & Bobby Bland](https://open.spotify.com/album/6cQSY6ltotFuFXEG4ZOAkm) | 4:41 |
 
-Snapshot ID: `MTY2OTk4MTQ3MCwwMDAwMDAwMDhjNzZjMzAxZDBkNmEyODdiN2U3NzU0OTYxNWY3YTBm`
+Snapshot ID: `MTY3MzM3MTk2NiwwMDAwMDAwMDBlNjEwOWYxNWE1NzQ5NTY3MDllNzEzNjJiYTA5MmJh`

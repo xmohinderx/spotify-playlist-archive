@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
-  "num_followers": 53527,
+  "num_followers": 53532,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg3MSwwMDAwMDAwMGIzODE0YmU0OWMxNjdiNjI5YjA0Zjg2YzJkOTBlMWNh",
+  "snapshot_id": "MTY3MzA2Mjg3MSwwMDAwMDAwMDVkMGNiYWY1NWNkYWQ1ZjZiMmY3ZDYxNDFiMDZkNTI3",
   "tracks": [
     {
       "added_at": "2022-11-07 20:40:52",
@@ -303,22 +303,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Tomaza",
-        "url": "https://open.spotify.com/album/1uyLzDA4rSRLuB1BkGEDtd"
+        "name": "Morenito",
+        "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
       "artists": [
         {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+          "name": "Chile",
+          "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
         },
         {
-          "name": "Piq Montano",
-          "url": "https://open.spotify.com/artist/1nRQgqSXHnkam4AkIk1ou1"
+          "name": "Mystic Natives",
+          "url": "https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY"
+        },
+        {
+          "name": "Aynes",
+          "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
         }
       ],
-      "duration_ms": 193414,
-      "name": "Tomaza",
-      "url": "https://open.spotify.com/track/5myXZpBUJCh0OQv3ix6bLs"
+      "duration_ms": 190819,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -343,26 +347,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Morenito",
-        "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
+        "name": "Tomaza",
+        "url": "https://open.spotify.com/album/1uyLzDA4rSRLuB1BkGEDtd"
       },
       "artists": [
         {
-          "name": "Chile",
-          "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
         },
         {
-          "name": "Mystic Natives",
-          "url": "https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY"
-        },
-        {
-          "name": "Aynes",
-          "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
+          "name": "Piq Montano",
+          "url": "https://open.spotify.com/artist/1nRQgqSXHnkam4AkIk1ou1"
         }
       ],
-      "duration_ms": 190819,
-      "name": "Morenito",
-      "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
+      "duration_ms": 193414,
+      "name": "Tomaza",
+      "url": "https://open.spotify.com/track/5myXZpBUJCh0OQv3ix6bLs"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/1d1vnzF7rbEKA7Csc4OPo0"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Qu\u00e9 Bonito Es Volar",
         "url": "https://open.spotify.com/album/4fgZBK1GH5IaSwSyfl9BZ9"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 236129,
       "name": "Qu\u00e9 Bonito Es Volar",
       "url": "https://open.spotify.com/track/0geNME4Udpb3Ph0PNL3v0D"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1103,22 +1119,6 @@
       "duration_ms": 185628,
       "name": "Cucu",
       "url": "https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Nocturno",
-        "url": "https://open.spotify.com/album/4SmO2ZcJDCs94LSsi86etw"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Manuel Coe",
-          "url": "https://open.spotify.com/artist/40pq51Z6FH37qgondDHDy2"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Nocturno",
-      "url": "https://open.spotify.com/track/4lnjB1wmSnLO8SWJgiMADy"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 155224,
       "name": "The King Is Dead",
       "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Nocturno",
+        "url": "https://open.spotify.com/album/4SmO2ZcJDCs94LSsi86etw"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Manuel Coe",
+          "url": "https://open.spotify.com/artist/40pq51Z6FH37qgondDHDy2"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/4lnjB1wmSnLO8SWJgiMADy"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Quem\u00e1",
         "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1743,6 +1743,34 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "\u00a1Bang Bang!",
+        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
+      },
+      "artists": [
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "\u00a1Bang Bang!",
+      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
       },
@@ -1775,6 +1803,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
+      },
+      "artists": [
+        {
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
+        },
+        {
+          "name": "Danno Summer",
+          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
+        }
+      ],
+      "duration_ms": 181726,
+      "name": "No Vas A Volver",
+      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
       },
@@ -1795,54 +1843,6 @@
       "duration_ms": 174735,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "\u00a1Bang Bang!",
-        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
-      },
-      "artists": [
-        {
-          "name": "Garena Free Fire",
-          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
-        },
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "Barovier",
-          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "\u00a1Bang Bang!",
-      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
-      },
-      "artists": [
-        {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
-        },
-        {
-          "name": "Danno Summer",
-          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
-        }
-      ],
-      "duration_ms": 181726,
-      "name": "No Vas A Volver",
-      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1903,26 +1903,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
-        },
-        {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
         }
       ],
-      "duration_ms": 154687,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1951,18 +1943,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+        "name": "cielo",
+        "url": "https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+      "duration_ms": 274716,
+      "name": "cielo",
+      "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1983,18 +1975,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "cielo",
-        "url": "https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3"
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
       },
       "artists": [
         {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "ML3NNON",
+          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+        },
+        {
+          "name": "GeeKan",
+          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
         }
       ],
-      "duration_ms": 274716,
-      "name": "cielo",
-      "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
+      "duration_ms": 154687,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
     },
     {
       "added_at": "2022-08-02 18:48:01",

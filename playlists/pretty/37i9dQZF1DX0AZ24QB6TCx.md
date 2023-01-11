@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,021 likes - 70 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,201 likes - 70 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,19 +64,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 54 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
 | 55 | [Goodbye](https://open.spotify.com/track/6bM8DrDD0hOuU0e06LKehN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:03 |
 | 56 | [The Center Will Not Hold](https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [The Center Will Not Hold](https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S) | 3:50 |
-| 57 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 |
-| 58 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
+| 57 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
+| 58 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 |
 | 59 | [Forever](https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Forever](https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X) | 3:12 |
 | 60 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
 | 61 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 |
 | 62 | [Message](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Perspective EP](https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh) | 5:04 |
 | 63 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
-| 64 | [Don't Go Asking \- Radio Edit](https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb) | [Roswitha Nash](https://open.spotify.com/artist/1FbEK4vAkcgk8Iraf75d6S), [Roswitha](https://open.spotify.com/artist/3S7xRyDELQRBHJwdqC25ZT), [Nash \(NL\)](https://open.spotify.com/artist/1oZ9VaYo9aRLk0myoEr0Je) | [Don't Go Asking](https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt) | 3:17 |
-| 65 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
+| 64 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
+| 65 | [Don't Go Asking \- Radio Edit](https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb) | [Roswitha Nash](https://open.spotify.com/artist/1FbEK4vAkcgk8Iraf75d6S), [Roswitha](https://open.spotify.com/artist/3S7xRyDELQRBHJwdqC25ZT), [Nash \(NL\)](https://open.spotify.com/artist/1oZ9VaYo9aRLk0myoEr0Je) | [Don't Go Asking](https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt) | 3:17 |
 | 66 | [Closer](https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Closer](https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF) | 5:28 |
 | 67 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
 | 68 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
 | 69 | [Hold On](https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [LUZ](https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98) | 3:37 |
-| 70 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
+| 70 | [Unconditional Love](https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V) | [Umami](https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv), [Headwaters](https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm) | [Unconditional Love](https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H) | 6:17 |
 
-Snapshot ID: `MTY3MTIxMTQwNSwwMDAwMDAwMDcxMjhlNDIwNjcwNmRhMjExMTg1YmRkNjNlNTZhOTMx`
+Snapshot ID: `MTY3MTIxMTQwNSwwMDAwMDAwMDMyMWI3ZGYyODQ0ZThkNmQwZGZjODQ5ZmU4MDFkNjQ3`

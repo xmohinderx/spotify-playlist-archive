@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 3494,
+  "num_followers": 3533,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGVkZmNiN2UyZTIwMjRjMGI1NDNjZjFiNjY2NGVkZWVk",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGM2NzFmMDliMzgzNThiZTk5ZWEyNTFjYmU4ZDQ2NTRl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 174426,
       "name": "Marcy Me",
       "url": "https://open.spotify.com/track/5oynsOy80DnodTslgaj3cr"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
     },
     {
       "added_at": "2022-10-01 16:57:49",

@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 112479,
+  "num_followers": 112790,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMGU3OWQyOTg4NTE1OWE2ZDc3MGE0Y2UzN2M2NTA2ZTcw",
+  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMDY1NTAyOTYxN2U3NzgwZWNmYTQ0Zjg5NmQxODE3NDQ2",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "But Not for Me",
+        "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
+      },
+      "artists": [
+        {
+          "name": "Jonny Libonate",
+          "url": "https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba"
+        }
+      ],
+      "duration_ms": 188650,
+      "name": "Cleopatra's Dream",
+      "url": "https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "But Not for Me",
-        "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
       },
       "artists": [
         {
-          "name": "Jonny Libonate",
-          "url": "https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 188650,
-      "name": "Cleopatra's Dream",
-      "url": "https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V"
+      "duration_ms": 169066,
+      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
-      "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
         "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
       },
@@ -1075,38 +1075,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Aquele Frevo Ax\u00e9",
-        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
+        "name": "Jo\u00e3o Gilberto: A Night of Music",
+        "url": "https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 232293,
-      "name": "Aquele Frevo Ax\u00e9",
-      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Greatest Hits Series--Paul Desmond",
-        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "O Gato",
-      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
+      "duration_ms": 185506,
+      "name": "Sorriu Para Mim",
+      "url": "https://open.spotify.com/track/2ZLrEr1rXFmDb9see85T08"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1151,18 +1131,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Jo\u00e3o Gilberto: A Night of Music",
-        "url": "https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6"
+        "name": "Aquele Frevo Ax\u00e9",
+        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Sorriu Para Mim",
-      "url": "https://open.spotify.com/track/2ZLrEr1rXFmDb9see85T08"
+      "duration_ms": 232293,
+      "name": "Aquele Frevo Ax\u00e9",
+      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1183,22 +1163,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 330546,
-      "name": "Morning Of The Carnival - From \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "River of Dreams",
         "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
       },
@@ -1211,6 +1175,42 @@
       "duration_ms": 183082,
       "name": "River of Dreams",
       "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Greatest Hits Series--Paul Desmond",
+        "url": "https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "O Gato",
+      "url": "https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 330546,
+      "name": "Morning Of The Carnival - From \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Lembran\u00e7as",
-        "url": "https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW"
-      },
-      "artists": [
-        {
-          "name": "Vitor Jos\u00e9 Fonseca",
-          "url": "https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu"
-        }
-      ],
-      "duration_ms": 244711,
-      "name": "Lembran\u00e7as",
-      "url": "https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For",
         "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 205502,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Lembran\u00e7as",
+        "url": "https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW"
+      },
+      "artists": [
+        {
+          "name": "Vitor Jos\u00e9 Fonseca",
+          "url": "https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu"
+        }
+      ],
+      "duration_ms": 244711,
+      "name": "Lembran\u00e7as",
+      "url": "https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Mestre Sala",
+        "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
+        }
+      ],
+      "duration_ms": 305006,
+      "name": "Maua",
+      "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Sunset Martini",
         "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 133093,
       "name": "Cavaquinho",
       "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Mestre Sala",
-        "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Olivieira",
-          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
-        }
-      ],
-      "duration_ms": 305006,
-      "name": "Maua",
-      "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Composer Of Black Orpheus Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ"
       },
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "Que Reste-t-il de nos Amours",
-      "url": "https://open.spotify.com/track/4p0UoEtE573xvUQclWvJoU"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Rio Bahia",
         "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
       },
@@ -1615,6 +1583,38 @@
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 233499,
+      "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Que Reste-t-il de nos Amours",
+      "url": "https://open.spotify.com/track/4p0UoEtE573xvUQclWvJoU"
     },
     {
       "added_at": "2023-01-05 23:00:00",

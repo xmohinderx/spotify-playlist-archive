@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,685 likes - 150 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,847 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 84 | [Here With Me](https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Here With Me](https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo) | 3:16 |
 | 85 | [Fade](https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 4:06 |
 | 86 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
-| 87 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 |
-| 88 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
+| 87 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
+| 88 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 |
 | 89 | [Midnight Train](https://open.spotify.com/track/6hPFEpT7bVguj9aCFLOmiz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:27 |
 | 90 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
 | 91 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 95 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 |
 | 96 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
 | 97 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
-| 98 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 |
+| 98 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
 | 99 | [Palace](https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:07 |
-| 100 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
+| 100 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 |
 | 101 | [Read All About It, Pt\. III](https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3) | 4:43 |
 | 102 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 |
 | 103 | [Memories](https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:35 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 147 | [Darlin'](https://open.spotify.com/track/2gy3giTHyomIx4jps8VHjl) | [Susie Mills](https://open.spotify.com/artist/2QmjpcdPJqL67ovh59ZAUZ), [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Darlin'](https://open.spotify.com/album/3zEx0nbpsh47AsKDlw8ofp) | 3:07 |
 | 148 | [Say Less](https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Say Less](https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS) | 4:03 |
 | 149 | [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 |
-| 150 | [Sex + Hennessy](https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor) | [Eimizah](https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM) | [Sex + Hennessy](https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK) | 2:35 |
+| 150 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 |
 
-Snapshot ID: `MTY3MzI2MzE1MCwwMDAwMDAwMDg5MDA2MzBmNzMwNzY4ZmJhZTVkOGNlOWZmYmM1NDAx`
+Snapshot ID: `MTY3MzI2MzE1MCwwMDAwMDAwMGQ1YjM2OGU0OGIzZmNjMTIxOGE1Zjk1M2U2OTgwZmQ3`

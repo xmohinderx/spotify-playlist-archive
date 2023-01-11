@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-95 songs - 6 hr 11 min
+96 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blues After Hours](https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues On Blues](https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V) | 3:03 | 2022-11-24 |  |
 | [Blues After Hours](https://open.spotify.com/track/0RDC5acwFJydRC4MYHRi7S) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [The Modern Legacy](https://open.spotify.com/album/5KYO0eRr8nZwQESUhUreBy) | 3:04 | 2022-05-25 | 2022-07-29 |
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-05-25 |  |
+| [Blues For Bill](https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 3:11 | 2023-01-06 |  |
 | [Blues For Duke Robillard](https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 7:43 | 2022-05-25 |  |
 | [Blues for Nothing](https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv), [Steve Stills](https://open.spotify.com/artist/0dfXKGyyW8BPJ4QBS95tMY) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:15 | 2022-05-25 |  |
 | [Blues For Otis Rush](https://open.spotify.com/track/1pFnWumJB5ruhvlonhEz7G) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 8:29 | 2022-06-29 | 2022-07-25 |
@@ -56,7 +57,7 @@
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/2ukRDdimXaalohB9F4bAXb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 1:34 | 2022-05-25 | 2022-07-28 |
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 | 2022-07-29 |  |
 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 | 2022-05-25 |  |
-| [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 | 2022-11-24 |  |
+| [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 | 2022-11-24 | 2023-01-11 |
 | [Little Johnny Lee](https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 6:33 | 2022-11-24 |  |
 | [Little Johnny Lee](https://open.spotify.com/track/5xYNNVevngzChjz5l8vZsj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 6:33 | 2022-05-25 | 2022-07-29 |
 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,752 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,799 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [Villainy Thrives](https://open.spotify.com/track/7LUxLggr0vvXXGS9o8Xq80) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:54 |
 | 50 | [Pillars of Serpents \- 2019 Version](https://open.spotify.com/track/4mTV3JOltmiOgDAtTCkZMz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Pillars of Serpents \(2019 Version\)](https://open.spotify.com/album/3jqNwVmVa0spWGEyLRwHim) | 5:03 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAwMDZiM2VmMmY5YjEyYjNiODI1Mjg2MDAyZWRlYjgxMA==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDBhNTI5N2ZjMmY4ZTllZTI5NjBiMWE0NWVmYzBhZDhmMw==`

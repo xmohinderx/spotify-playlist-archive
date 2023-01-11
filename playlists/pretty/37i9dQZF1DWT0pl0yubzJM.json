@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 12428,
+  "num_followers": 12436,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGE2ZGIwNjg2OTcxY2E2MjFhMWExZDc3YzZhMzhlN2Q0",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMDdiZDIyZmI5ZTRkMTJiMWUzY2EwODkzYjJiNjdiZTY5",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Post Crucifixion",
-      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 234613,
       "name": "Microman",
       "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Post Crucifixion",
+      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
     },
     {
       "added_at": "2020-03-13 13:21:28",

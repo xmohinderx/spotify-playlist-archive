@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: HARDY",
-  "num_followers": 498700,
+  "num_followers": 499025,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTY4NCwwMDAwMDAwMGE1MDhkMjJmNTRkZTZkOTU0ZDZhZjA5YTgyM2Y4MzM2",
+  "snapshot_id": "MTY3MjY5NTY4NCwwMDAwMDAwMDAxZjA0YTA2MjE1YjhjZWZlNmUzMTgzMmE3MjVkNGU5",
   "tracks": [
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "4 X 4 Play",
-        "url": "https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW"
-      },
-      "artists": [
-        {
-          "name": "Blackjack Billy",
-          "url": "https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7"
-        }
-      ],
-      "duration_ms": 201711,
-      "name": "4 X 4 Play",
-      "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
         "name": "Year to Be Young 1994",
         "url": "https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 200898,
       "name": "Year to Be Young 1994",
       "url": "https://open.spotify.com/track/189qLE479B11BbwQlOFxQO"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
+        "name": "4 X 4 Play",
+        "url": "https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW"
+      },
+      "artists": [
+        {
+          "name": "Blackjack Billy",
+          "url": "https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7"
+        }
+      ],
+      "duration_ms": 201711,
+      "name": "4 X 4 Play",
+      "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
+        "name": "These Old Boots",
+        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        }
+      ],
+      "duration_ms": 206307,
+      "name": "These Old Boots",
+      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+    },
+    {
+      "added_at": "2023-01-02 21:41:24",
+      "album": {
         "name": "To Whom ...",
         "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "These Old Boots",
-        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+        "name": "My Ex Came Over",
+        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
       },
       "artists": [
         {
-          "name": "Seth Anthony",
-          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+          "name": "Trey Lewis",
+          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
         }
       ],
-      "duration_ms": 206307,
-      "name": "These Old Boots",
-      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+      "duration_ms": 175000,
+      "name": "My Ex Came Over",
+      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "My Ex Came Over",
-        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
+        "name": "No Reservations",
+        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
       },
       "artists": [
         {
-          "name": "Trey Lewis",
-          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
         }
       ],
-      "duration_ms": 175000,
-      "name": "My Ex Came Over",
-      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
+      "duration_ms": 224733,
+      "name": "No Reservations",
+      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1527,22 +1543,6 @@
       "duration_ms": 188400,
       "name": "Stronger Than You",
       "url": "https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc"
-    },
-    {
-      "added_at": "2023-01-02 21:41:24",
-      "album": {
-        "name": "No Reservations",
-        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
-      },
-      "artists": [
-        {
-          "name": "Alex Williams",
-          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "No Reservations",
-      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
     },
     {
       "added_at": "2023-01-02 21:41:24",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-01-02 21:41:24",
       "album": {
-        "name": "You Hear Georgia",
-        "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
+        "name": "Dodge Out Of Hell",
+        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
         }
       ],
-      "duration_ms": 245838,
-      "name": "You Hear Georgia",
-      "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
+      "duration_ms": 192226,
+      "name": "Dodge Out Of Hell",
+      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
     }
   ],
   "unique_name": "Country Rocks",

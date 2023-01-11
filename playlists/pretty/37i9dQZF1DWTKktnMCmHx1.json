@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 90872,
+  "num_followers": 90868,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwNTYyNywwMDAwMDAwMDVlNmIzNjIyYTU2NmIzNTQwYzlkY2FkNTU3MGIwNzNj",
+  "snapshot_id": "MTY2ODAwNTYyNywwMDAwMDAwMGRkOGNkOGEyZTcxZjgyYWQyNmNlMTU3MzE2NWExZmMz",
   "tracks": [
     {
       "added_at": "2022-11-09 14:53:47",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-11-09 14:53:47",
       "album": {
+        "name": "Blueberry Faygo",
+        "url": "https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Blueberry Faygo",
+      "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
+    },
+    {
+      "added_at": "2022-11-09 14:53:47",
+      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 143375,
       "name": "Spicy (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
-    },
-    {
-      "added_at": "2022-11-09 14:53:47",
-      "album": {
-        "name": "Blueberry Faygo",
-        "url": "https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Blueberry Faygo",
-      "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
     },
     {
       "added_at": "2022-11-09 14:53:47",

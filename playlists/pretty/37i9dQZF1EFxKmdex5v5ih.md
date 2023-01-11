@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654 likes - 209 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,656 likes - 209 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 73 | [Lonely Eyes](https://open.spotify.com/track/0r4l1Eco6JEbeexC8dEawI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:16 |
 | 74 | [MOONLIGHT](https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:39 |
 | 75 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
-| 76 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 |
-| 77 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 76 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 77 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 |
 | 78 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
 | 79 | [Not 20 Anymore](https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Not 20 Anymore](https://open.spotify.com/album/50fjXOO6vhakOGaz3ATZlM) | 3:03 |
 | 80 | [Imperfections](https://open.spotify.com/track/2d6wvZdvJ0bGJ4Olfm1lsp) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:59 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 92 | [Older](https://open.spotify.com/track/0hyVcO1sh9NkHmKHs3veRz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:27 |
 | 93 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
 | 94 | [Out Of My Head](https://open.spotify.com/track/6ovkLF42qFLN7VqKX0r0jT) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [single.](https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak) | 3:34 |
-| 95 | [Button \(feat\. Anuel AA & Tainy\)](https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:44 |
-| 96 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 |
+| 95 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 |
+| 96 | [Button \(feat\. Anuel AA & Tainy\)](https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:44 |
 | 97 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 |
 | 98 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 |
 | 99 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:06 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 208 | [Lied on Me](https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL) | [Mike Riches Ross](https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT) | [Collected Thoughts](https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T) | 4:31 |
 | 209 | [Heaven](https://open.spotify.com/track/0t0Dqao4DNlyZkhjA8MLbh) | [Michael Wills](https://open.spotify.com/artist/2EXbEUh36k3Qjh48mcXvpf) | [Fire](https://open.spotify.com/album/7fT0kivs4DxyxoeSk7KphV) | 3:20 |
 
-Snapshot ID: `Mjc4ODg1NDcsMDAwMDAwMDBiZjAxZDcxNTgzMGEwM2RiNGFkMDY4NTdiZWE0ZWY4MA==`
+Snapshot ID: `Mjc4ODk5ODcsMDAwMDAwMDBkYWI1ZGI2MTUwYWUyZjAyNTUxOTNiNTlmOTg5YmZiZQ==`

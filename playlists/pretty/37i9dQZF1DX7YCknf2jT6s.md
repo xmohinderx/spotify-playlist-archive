@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Esperanza Spalding & Fred Hersch
 
-[Spotify](https://open.spotify.com/user/spotify) - 857,959 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,083 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 8 | [Resonance](https://open.spotify.com/track/5i7jFc90XNuTFfDNIhyfhw) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [Resonance](https://open.spotify.com/album/51Y9W3uAwSwbeO8WWPgyiz) | 5:35 |
 | 9 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 |
 | 10 | [Layers](https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Layers](https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97) | 2:44 |
-| 11 | [Legacy](https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7) | [Antoine Berjeaut](https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Legacy](https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx) | 4:29 |
+| 11 | [Legacy](https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Antoine Berjeaut](https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G) | [Legacy](https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx) | 4:29 |
 | 12 | [A Night In Tunisia](https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [A Night in Tunisia](https://open.spotify.com/album/3mW1oqsOSmA7kaRPJ8wDZp) | 4:14 |
 | 13 | [Us \- A COLORS SHOW](https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Us \- A COLORS SHOW](https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a) | 6:13 |
 | 14 | [This Masquerade](https://open.spotify.com/track/2ine8xQKsWCLDYSfLTaXoV) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [This Masquerade](https://open.spotify.com/album/1beCKoEjJcFKjXy72TNRes) | 7:37 |

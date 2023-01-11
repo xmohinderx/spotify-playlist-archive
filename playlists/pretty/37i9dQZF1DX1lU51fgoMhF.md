@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,210 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,226 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 89 | [NOT THE END](https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:38 |
 | 90 | [OCEAN VIEW \(Feat.CHANYEOL\)](https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [OCEAN VIEW](https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF) | 3:07 |
 | 91 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 |
-| 92 | [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 |
+| 92 | [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 |
 | 93 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 |
-| 94 | [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 |
+| 94 | [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 |
 | 95 | [DREAMLIKE](https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:46 |
 | 96 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 |
 | 97 | [Love & hate \(Feat\. BIBI\)](https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 99 | [ARIA](https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [ARIA](https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW) | 2:27 |
 | 100 | [Pool Party\(Rollin’ right now\)](https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:00 |
 
-Snapshot ID: `MTY2NTExODAxMiwwMDAwMDAwMDQ4NzQ1YTE4MTA5OTA0MjVhNmQ0MTYwNmQ0OTY2YjA5`
+Snapshot ID: `MTY3MzM2NTM4MSwwMDAwMDAwMDIwMzg1ODVkZWRkMTY5NmMzZTVmZTAzZDNmOTY3ZDEw`

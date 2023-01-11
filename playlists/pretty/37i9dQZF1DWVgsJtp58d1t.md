@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The first This is Frequency of 2023\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,146 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,286 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 44 | [Need To Talk \(Bend Over\)](https://open.spotify.com/track/3vqsHc1AoxjmOlKDujOzAC) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq) | [Need To Talk \(Bend Over\)](https://open.spotify.com/album/0xRliIEBASpAO29Gmxg2F0) | 2:31 |
 | 45 | [1st Class](https://open.spotify.com/track/0zSVUiOkjaVuQqoVKqakuC) | [NASCAR P 13k](https://open.spotify.com/artist/06tQPaqB8PniGzJoXlby0R), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [1st Class](https://open.spotify.com/album/01DtqZWxg074Cq6H7RqTXv) | 1:45 |
 | 46 | [Dance Nop](https://open.spotify.com/track/0odZBKJFxkPNuQ28UkiNJU) | [DJ LAWY](https://open.spotify.com/artist/5pmlSgc3CuoZOPdDdR2U6M), [Hypeman Tiz](https://open.spotify.com/artist/3kx5AuIabbgkoXqCXWypos) | [FIRE ON THE MIX VOL 09](https://open.spotify.com/album/7p4CwUAYV8cWrAhRp7plp1) | 14:37 |
-| 47 | [Yuck](https://open.spotify.com/track/4DfFAEusF6M31qf6lgD0VA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode Vol\. 2](https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH) | 2:23 |
+| 47 | [Yuck](https://open.spotify.com/track/5JRIGWsLgnhW34XetrhbRB) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode, Vol\. 2](https://open.spotify.com/album/4A8f0Z1JyDl02Okgp2niSH) | 2:23 |
 | 48 | [Special](https://open.spotify.com/track/6EwEpgpGiOeKJ4Kk0j96aa) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Designer Doubt](https://open.spotify.com/artist/4y9SNwbk1TwNJdgRF3f5o8) | [Raydemption](https://open.spotify.com/album/45j7Fr1nkOID09Mz5CbirQ) | 3:20 |
 | 49 | [Everywhere \(feat\. Torii Wolf & Tre' Amani\)](https://open.spotify.com/track/0wNRluEvtINBBG3orMNvgA) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz), [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Everywhere \(feat\. Torii Wolf & Tre' Amani\)](https://open.spotify.com/album/08CsDdgFQ8S5DGO7BsA1R0) | 2:28 |
 | 50 | [The Floor Is Ours](https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [The Floor Is Ours](https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 |
 | 100 | [It Ain't My Fault](https://open.spotify.com/track/7BQkupVjSN5fDbESwX8xKv) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich \(Complete Edition\)](https://open.spotify.com/album/1Czu4sLTqiIh9gz2valbYx) | 3:15 |
 
-Snapshot ID: `MTY3Mjk4Mjg3OSwwMDAwMDAwMDYyZDZlYTY0MWJhYzk5OWQzMWQ2YTNiMzFmNmMxYmFl`
+Snapshot ID: `MTY3Mjk4Mjg3OSwwMDAwMDAwMDZjNzk5ZDY3Y2I5NjcwNDg1NTY2YTkxOTFjNDRmZjA4`

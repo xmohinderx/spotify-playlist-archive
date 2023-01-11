@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,370 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,004 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 38 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
 | 39 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 40 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
-| 41 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
-| 42 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
+| 41 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
+| 42 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
 | 43 | [Cooks](https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Cooks](https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz) | 2:54 |
 | 44 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 45 | [pouring outside](https://open.spotify.com/track/7g1251d41qVR8kq6yz9XXa) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [pouring outside](https://open.spotify.com/album/6P5mONYxeYoklwHZa8VLFx) | 2:36 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 68 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 | 69 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 |
 | 70 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
-| 71 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
-| 72 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
+| 71 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
+| 72 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
 | 73 | [Talk to You](https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:34 |
 | 74 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 | 75 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 99 | [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 |
 | 100 | [Six Speed](https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Six Speed](https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9) | 2:00 |
 
-Snapshot ID: `MTY3MzAwNTA4MCwwMDAwMDAwMGM4ZDJjOTZiNDMyZWQyNWNkODFlMGM3YTQ5NzAyMjMz`
+Snapshot ID: `MTY3MzAwNTA4MCwwMDAwMDAwMGEwMzlmN2RmZTZjOWQwY2YzOTk4NmQ4YmI4N2FmNDVk`

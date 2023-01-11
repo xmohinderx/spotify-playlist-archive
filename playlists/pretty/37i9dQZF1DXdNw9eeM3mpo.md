@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Auténticos Decadentes y Andrea Echeverri en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,304 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,340 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 82 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 |
 | 83 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 | 84 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
-| 85 | [Song Bomb](https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:42 |
-| 86 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
+| 85 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
+| 86 | [Song Bomb](https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:42 |
 | 87 | [Ste Ska](https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q), [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 2:23 |
 | 88 | [Bailando Como Mono](https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 3:06 |
 | 89 | [Solo un Minuto](https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:59 |
 | 90 | [Morocha](https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Morocha](https://open.spotify.com/album/09e12okaJoA5p30Cj18XMP) | 2:36 |
 | 91 | [Como Saber](https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7) | [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY), [Jorge Serrano De Los Auténticos Decadentes](https://open.spotify.com/artist/2URqV9qzDLQghUs8FcWPBY) | [Contra El Viento](https://open.spotify.com/album/7s2OSu8SOC2BCvyzJ5pr5k) | 3:33 |
-| 92 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
-| 93 | [Jaia](https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [1997\-2002](https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci) | 3:41 |
-| 94 | [Resistiré](https://open.spotify.com/track/2yV2H6tLETd64BapUezE95) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Jaula De Grillos](https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82) | 4:17 |
+| 92 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
+| 93 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
+| 94 | [Jaia](https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [1997\-2002](https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci) | 3:41 |
 | 95 | [Te Necesito](https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Mi Vida En Otro Lado](https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX) | 4:09 |
-| 96 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
+| 96 | [Resistiré](https://open.spotify.com/track/2yV2H6tLETd64BapUezE95) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Jaula De Grillos](https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82) | 4:17 |
 | 97 | [No Te Calles](https://open.spotify.com/track/1lDVKcpFlMASlz6ysYmINg) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Jungla Ska](https://open.spotify.com/album/6qhfDuhY3DPyeELLp6KFce) | 3:01 |
-| 98 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
-| 99 | [Música Guerrera](https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Leones Negros & Atletas Campesinos](https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm) | [Música Guerrera](https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK) | 3:06 |
-| 100 | [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 |
+| 98 | [Música Guerrera](https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Leones Negros & Atletas Campesinos](https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm) | [Música Guerrera](https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK) | 3:06 |
+| 99 | [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 |
+| 100 | [Vicio](https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV) | [Sonora de Llegar](https://open.spotify.com/album/1giTHiLOSaaB8TqchemtJf) | 2:46 |
 
-Snapshot ID: `MTY3MTE1ODE0MywwMDAwMDAwMDRjMTZjNDkwZjkzMDg4Mjk5ZmQ4ODVkMDkxM2RlZWRl`
+Snapshot ID: `MTY3MTE1ODE0MywwMDAwMDAwMDBjNjBlMzUwMzZkN2UwNjk2NTEyZDNjYzczMTM3Yjgx`

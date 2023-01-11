@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 80. \n\n",
-  "num_followers": 61926,
+  "num_followers": 62157,
   "original_name": "Rock en Espa\u00f1ol: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMDdkMTJjMWRiZmE1ZDM5ZWRiNGQ3Y2RmZjNjODVmY2I3",
+  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMDhjMmQ4OWZmNjZlNWZhMmQ4NDEzYWVjYjQ1MjU3OWMz",
   "tracks": [
     {
       "added_at": "2022-03-29 18:50:52",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 168344,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 161440,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 168344,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
     },
     {
       "added_at": "2022-03-29 18:50:52",

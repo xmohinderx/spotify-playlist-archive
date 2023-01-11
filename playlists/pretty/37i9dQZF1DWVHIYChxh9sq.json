@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Luis Alfonso Partida El Yaki",
-  "num_followers": 47219,
+  "num_followers": 47244,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAzMzYxMSwwMDAwMDAwMDE0NWMxYjBhNjQ2M2ZhODNmMzI2OWE2NDhlODExYzk1",
+  "snapshot_id": "MTY3MzAzMzYxMSwwMDAwMDAwMGZlMGExYWYzOTBhYjc3N2FmZTA5NGFiYjMyYzdhNjE5",
   "tracks": [
     {
       "added_at": "2022-12-08 01:10:39",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "Estilo Sinaloa",
-        "url": "https://open.spotify.com/album/4Ag5vtuhhrVjHwPMZvYmJH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "Estilo Sinaloa",
-      "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"
-    },
-    {
-      "added_at": "2022-12-08 01:10:39",
-      "album": {
         "name": "La Chapiza (En Vivo)",
         "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "En Vivo Desde Hacienda Heights",
-        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+        "name": "Estilo Sinaloa",
+        "url": "https://open.spotify.com/album/4Ag5vtuhhrVjHwPMZvYmJH"
       },
       "artists": [
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 522409,
-      "name": "Popurri De Cumbias (En Vivo)",
-      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
+      "duration_ms": 248208,
+      "name": "Estilo Sinaloa",
+      "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -1207,6 +1191,22 @@
       "duration_ms": 173053,
       "name": "Chingo A Mi Madre - En Vivo",
       "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
+    },
+    {
+      "added_at": "2022-12-08 01:10:39",
+      "album": {
+        "name": "En Vivo Desde Hacienda Heights",
+        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 522409,
+      "name": "Popurri De Cumbias (En Vivo)",
+      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
+        "name": "Puras de Servandozl",
+        "url": "https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 172153,
+      "name": "El Bolas - En Vivo",
+      "url": "https://open.spotify.com/track/4lhldlzpzmMeKGNpqCywp3"
+    },
+    {
+      "added_at": "2022-12-08 01:10:39",
+      "album": {
         "name": "Los Piratitas (En Vivo)",
         "url": "https://open.spotify.com/album/6f7KY61tzg61KZq8Ac46dK"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 206216,
       "name": "Los Piratitas (En Vivo)",
       "url": "https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG"
-    },
-    {
-      "added_at": "2022-12-08 01:10:39",
-      "album": {
-        "name": "Puras de Servandozl",
-        "url": "https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 172153,
-      "name": "El Bolas - En Vivo",
-      "url": "https://open.spotify.com/track/4lhldlzpzmMeKGNpqCywp3"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "El Escudo Del Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/6CWLYSGhQZPoeZ1HVmpLSh"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "El Escudo Del Chavo - En Vivo",
-      "url": "https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD"
-    },
-    {
-      "added_at": "2022-12-08 01:10:39",
-      "album": {
         "name": "El Cholo 50 (En Vivo)",
         "url": "https://open.spotify.com/album/1HtsFWoKVgq5eZfxOVGiL9"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 149120,
       "name": "El Cholo 50 - En Vivo",
       "url": "https://open.spotify.com/track/1irSoosb7Gk5UtfhL4rOGk"
+    },
+    {
+      "added_at": "2022-12-08 01:10:39",
+      "album": {
+        "name": "El Escudo Del Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/6CWLYSGhQZPoeZ1HVmpLSh"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "El Escudo Del Chavo - En Vivo",
+      "url": "https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -1999,18 +1999,22 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "Julio Beltr\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/5UwcbFsSXEbqWdQJy94Z0S"
+        "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
+        "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
       },
       "artists": [
         {
-          "name": "Grupo Delta Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Julio Beltr\u00e1n - En Vivo",
-      "url": "https://open.spotify.com/track/6rQ00f1u2zb5l1dPsgUtha"
+      "duration_ms": 142240,
+      "name": "El Flaquito",
+      "url": "https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -2035,22 +2039,18 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
-        "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
+        "name": "Julio Beltr\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/5UwcbFsSXEbqWdQJy94Z0S"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Grupo Delta Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
         }
       ],
-      "duration_ms": 142240,
-      "name": "El Flaquito",
-      "url": "https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK"
+      "duration_ms": 204880,
+      "name": "Julio Beltr\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/6rQ00f1u2zb5l1dPsgUtha"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
+      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
+    },
+    {
+      "added_at": "2022-12-08 01:10:39",
+      "album": {
         "name": "50 Guerreros (En Vivo)",
         "url": "https://open.spotify.com/album/5bTlsmTczzSVsjulAnIep7"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 161853,
       "name": "50 Guerreros - En Vivo",
       "url": "https://open.spotify.com/track/3Ny7oh2RrtcNzYCGZHHrdJ"
-    },
-    {
-      "added_at": "2022-12-08 01:10:39",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
-      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "La OB \u201cOperaci\u00f3n B\u00e9lica\u201d (En Vivo)",
-        "url": "https://open.spotify.com/album/1iaZKDqV66FaFAc7qEUeor"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "La OB \u201cOperaci\u00f3n B\u00e9lica\u201d (En Vivo)",
-      "url": "https://open.spotify.com/track/6HKIpOujJ7ZXzSVgGlmVzB"
-    },
-    {
-      "added_at": "2022-12-08 01:10:39",
-      "album": {
         "name": "La Nueva Escuela (En Vivo)",
         "url": "https://open.spotify.com/album/5NK5nAtwVkdELrkTPGj1Ka"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 215296,
       "name": "La Nueva Escuela - En Vivo",
       "url": "https://open.spotify.com/track/0HK4v2FdgjsrHSTZtx23Ly"
+    },
+    {
+      "added_at": "2022-12-08 01:10:39",
+      "album": {
+        "name": "La OB \u201cOperaci\u00f3n B\u00e9lica\u201d (En Vivo)",
+        "url": "https://open.spotify.com/album/1iaZKDqV66FaFAc7qEUeor"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "La OB \u201cOperaci\u00f3n B\u00e9lica\u201d (En Vivo)",
+      "url": "https://open.spotify.com/track/6HKIpOujJ7ZXzSVgGlmVzB"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "La Receta (En Vivo)",
-        "url": "https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "La Receta - En Vivo",
-      "url": "https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA"
-    },
-    {
-      "added_at": "2022-12-08 01:10:39",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 223586,
       "name": "Basta Ya - En Vivo",
       "url": "https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh"
+    },
+    {
+      "added_at": "2022-12-08 01:10:39",
+      "album": {
+        "name": "La Receta (En Vivo)",
+        "url": "https://open.spotify.com/album/3LeJnT1HvvXzr93VVXAQ1m"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "La Receta - En Vivo",
+      "url": "https://open.spotify.com/track/58QkaQHFlxKTQsf9neikRA"
     },
     {
       "added_at": "2022-12-08 01:10:39",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2022-12-08 01:10:39",
       "album": {
-        "name": "Estas Se Acompa\u00f1an Con Cerveza",
-        "url": "https://open.spotify.com/album/7oL63kIHOxcxMuvtwuTiMR"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 212127,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/6QP0vTI12LG8SqiJPJx1zG"
-    },
-    {
-      "added_at": "2022-12-08 01:10:39",
-      "album": {
         "name": "Flor Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 172666,
       "name": "Flor Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
+    },
+    {
+      "added_at": "2022-12-08 01:10:39",
+      "album": {
+        "name": "Estas Se Acompa\u00f1an Con Cerveza",
+        "url": "https://open.spotify.com/album/7oL63kIHOxcxMuvtwuTiMR"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 212127,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/6QP0vTI12LG8SqiJPJx1zG"
     },
     {
       "added_at": "2022-12-08 01:10:39",

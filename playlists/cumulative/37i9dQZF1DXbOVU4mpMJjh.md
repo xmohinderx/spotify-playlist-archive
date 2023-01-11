@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-481 songs - 1 day 14 hr 18 min
+483 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-11-10 | 2023-01-05 |
 | [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 |  |
 | [Alien](https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [Alien](https://open.spotify.com/album/4wd3MrBQdLzBLd6LqwhKX2) | 5:15 | 2022-04-14 | 2022-09-15 |
+| [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
 | [All the Things You Are](https://open.spotify.com/track/1Lh7U5c3EvLBb6lSgHVFlR) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [All the Things You Are](https://open.spotify.com/album/2MswvfhuxKNK5cYoo14DVB) | 2:50 | 2022-04-14 | 2022-05-03 |
 | [All Things Considered](https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o) | [Andy Laverne](https://open.spotify.com/artist/0wHlC8tumVxWRyxKutlQUm), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p), [Mike Richmond](https://open.spotify.com/artist/4UAdAgxnybF0chEX9FXX9m), [Jason Tiemann](https://open.spotify.com/artist/4bj8k1TAVycxbk0zCHtpTR) | [Faith](https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8) | 10:52 | 2022-04-14 | 2022-09-23 |
 | [Almost Like Being In Love](https://open.spotify.com/track/6CDQBADsdzJwc3qZ3OPDHH) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:50 | 2022-04-14 | 2022-05-03 |
@@ -127,7 +128,7 @@
 | [Fall Song](https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:37 | 2022-09-15 | 2022-10-08 |
 | [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 | 2022-09-23 |
 | [Field](https://open.spotify.com/track/0cjJap1BiwjXNmjnInw1V4) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Years](https://open.spotify.com/album/1Grt1oXyERBwijZXE8li2n) | 2:17 | 2022-04-14 | 2022-10-08 |
-| [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-11 |  |
+| [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-11 | 2023-01-11 |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-24 |  |
 | [Fools Rush In](https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 2:29 | 2022-04-14 | 2022-11-11 |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2022-12-01 |  |
@@ -262,7 +263,7 @@
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-24 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
-| [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-11-10 |  |
+| [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-11-10 | 2023-01-11 |
 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 | 2022-11-24 |
 | [Maybe Some Other Time](https://open.spotify.com/track/1ih4edYGz6a5bP9vuabZM4) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [As Life Turns Around](https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3) | 3:43 | 2022-04-14 | 2022-10-08 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 |  |
@@ -277,6 +278,7 @@
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-06-22 | 2022-11-13 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-11 |  |
+| [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |
 | [My First Choice](https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [My First Choice](https://open.spotify.com/album/23DX1smryDu58RH0nxWHJx) | 3:44 | 2022-08-29 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6J973mNweqCDzoGfl2v8SA) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/3jrQgQYZ3WDW3mn55SFuUv) | 4:57 | 2022-04-14 | 2022-07-29 |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2022-06-30 | 2022-11-18 |

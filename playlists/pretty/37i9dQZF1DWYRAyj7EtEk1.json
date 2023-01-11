@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Pop Latino para que los disfrute toda la familia.",
-  "num_followers": 3656,
+  "num_followers": 3671,
   "original_name": "\u00a1Pop Latino!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2NjYwMywwMDAwMDAwMDA5MDM2ZjEzZTBjY2RiZjM1M2I1ZDQ1ZmE4M2U3MTAx",
+  "snapshot_id": "MTY2MjM2NjYwMywwMDAwMDAwMGY2Y2YzZTRiMTlmZGMxNmFlODc5YWYyMDAwMmZlOGQy",
   "tracks": [
     {
       "added_at": "2022-09-05 08:30:03",
@@ -611,26 +611,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 177533,
       "name": "Oye Pablo",
       "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
     },
     {
       "added_at": "2020-09-29 17:20:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "Aute Cuture",
-        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 147626,
-      "name": "Aute Cuture",
-      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "I Have Questions",
         "url": "https://open.spotify.com/album/5vZ3Yotbw61UDCcyIfMcrr"
       },
@@ -783,6 +767,38 @@
       "duration_ms": 221881,
       "name": "I Have Questions",
       "url": "https://open.spotify.com/track/3NgCzSW98SsqBdpYcnm4kv"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "Aute Cuture",
+        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 147626,
+      "name": "Aute Cuture",
+      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
     },
     {
       "added_at": "2020-09-29 17:20:38",
@@ -823,22 +839,6 @@
       "duration_ms": 211437,
       "name": "D\u00edganle - Tainy Remix",
       "url": "https://open.spotify.com/track/1l89iNLbzfFN9TsWJORolB"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": "2020-09-29 17:20:38",
@@ -895,22 +895,18 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "Deseo",
-        "url": "https://open.spotify.com/album/6Wh6P7tuc6F0eewCvO8nuT"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 241320,
-      "name": "Mi Nuevo Vicio",
-      "url": "https://open.spotify.com/track/3p770TQzJS3rNUHlDGV54Q"
+      "duration_ms": 202867,
+      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
     }
   ],
   "unique_name": "\u00a1Pop Latino!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Hang ten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,875 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,108 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 41 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 |
 | 42 | [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 |
 | 43 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 |
-| 44 | [Super Natural](https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq) | 4:17 |
-| 45 | [Lucky](https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ) | 2:33 |
+| 44 | [Lucky](https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ) | 2:33 |
+| 45 | [Super Natural](https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Good Nature](https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq) | 4:17 |
 | 46 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 |
 | 47 | [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 |
 | 48 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
 | 49 | [daydreams](https://open.spotify.com/track/6KdNWhoB9bpgYyfoFuhMPz) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [daydreams](https://open.spotify.com/album/4u90ynQDviPV7DKt2Lg749) | 2:14 |
 | 50 | [Taking up Space](https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 3:37 |
 
-Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMDZlZGVlNDFiZjNhNGZlZTI1NDdmMDIwYjZmYzlkYjQw`
+Snapshot ID: `MTY2OTc1MDgxNywwMDAwMDAwMDdjZDBmZDcyZDUxZWM5MjRlMWU5ZjllZjhmZjliZTg3`

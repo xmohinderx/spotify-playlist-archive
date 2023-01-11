@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Nuevo Elemento en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,409 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,428 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 42 | [Fue un Placer Amarte](https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Fue un Placer Amarte](https://open.spotify.com/album/6lkzoOCU8gJ1Vtt6cV9659) | 3:49 |
 | 43 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 44 | [Ya Lo Superé](https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Lo Superé](https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp) | 3:24 |
-| 45 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
-| 46 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
+| 45 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
+| 46 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 47 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
 | 48 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
 | 49 | [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 72 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
 | 73 | [No Me Hace Falta Nada](https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [No Me Hace Falta Nada](https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1) | 3:13 |
 | 74 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 |
-| 75 | [Por Ti Me Abrazaré](https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Ti Me Abrazaré](https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp) | 3:14 |
+| 75 | [Apuré Mi Café \- Versión Mariachi](https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:05 |
 
-Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMDAwZjcyZGJjMjllYzI0NjQzMzRjODFlMGE4ZmJhZDdm`
+Snapshot ID: `MTY3MDU2NTYwMCwwMDAwMDAwMGZmYTViMzcyODZmNzE5N2IyMjc3NDY1MzBhZDNlZGU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,650 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,811 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 16 | [Isn't She Lovely](https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 3:19 |
 | 17 | [Bad Girl](https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:21 |
 | 18 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 |
-| 19 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
-| 20 | [Bring It All to Me \(feat\. \*NSYNC\)](https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 3:38 |
+| 19 | [Bring It All to Me \(feat\. \*NSYNC\)](https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 3:38 |
+| 20 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
 | 21 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
 | 22 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
 | 23 | [Jealous Guy \- Live](https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 3:09 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 36 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 |
 | 37 | [Get MuNNY](https://open.spotify.com/track/0ZKCq8E5QS4lRjEtFvZqZX) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 5:25 |
 | 38 | [Cross My Mind](https://open.spotify.com/track/58wz6SXvLA7JjKtX5Ydq06) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 4:44 |
-| 39 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
-| 40 | [\(At Your Best\) You Are Love](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 5:23 |
+| 39 | [\(At Your Best\) You Are Love](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 5:23 |
+| 40 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
 | 41 | [Just Like Water \- Live](https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 6:09 |
 | 42 | [Ain't No Mountain High Enough](https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 2:16 |
 | 43 | [Oh, Maker](https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The ArchAndroid](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 49 | [My Imagination](https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Naked & Warm](https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY) | 4:52 |
 | 50 | [Table for One](https://open.spotify.com/track/6claa4I908IodZZkvZMvuf) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Table for One](https://open.spotify.com/album/4becwqhy3EirbJwxjDYjwq) | 6:34 |
 
-Snapshot ID: `MTY2NDY0MzI2NywwMDAwMDAwMDQ3ZWU4ODYwOTM3OTYzODYxMDM2ZTU5NjJkM2ZlMzRl`
+Snapshot ID: `MTY2NDY0MzI2NywwMDAwMDAwMGE1OGRhMTg0MzNhOWI5YWVlMjRlZjM0NGJjZDA5Y2Qw`

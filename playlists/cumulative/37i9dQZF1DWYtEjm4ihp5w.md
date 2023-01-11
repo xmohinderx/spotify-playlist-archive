@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: 7ARI
 
-77 songs - 4 hr 10 min
+79 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2022-11-14 |  |
 | [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-11-14 |  |
 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 | 2022-11-28 |  |
+| [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 |  |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-06 |  |
 | [Eufury](https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Eufury](https://open.spotify.com/album/6SOAaopbpAVjiUE80HA1X5) | 2:34 | 2022-12-26 |  |
 | [Faux Départ](https://open.spotify.com/track/26Skmv785i0ql4T3vJHgLe) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Faux Départ](https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM) | 2:45 | 2022-11-14 |  |
@@ -63,6 +64,7 @@
 | [Ndokk\-ha](https://open.spotify.com/track/3dovliAqBRD4CIhCD2uYyH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:04 | 2022-11-14 | 2022-11-18 |
 | [NO MERCY](https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 4:19 | 2022-11-14 |  |
 | [Numero Uno \- V2](https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero Uno \(V2\)](https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv) | 3:37 | 2022-11-14 |  |
+| [Problems](https://open.spotify.com/track/2xEL0trcV0pHf7CA2tnwRH) | [Wolf Trapzilla](https://open.spotify.com/artist/4SSbv9vJGY0iLY9GZ0bUTm) | [Problems](https://open.spotify.com/album/1sDRbTvpaLtUcDOcpbljIe) | 3:37 | 2023-01-10 |  |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 |  |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
 | [Siba](https://open.spotify.com/track/2uqByr5b5Aci3ZQsAlMKN9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:54 | 2022-12-21 | 2023-01-04 |

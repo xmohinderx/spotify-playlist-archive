@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,811 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,945 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 33 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 |
 | 34 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 |
 | 35 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 |
-| 36 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
-| 37 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
+| 36 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
+| 37 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
 | 38 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 |
 | 39 | [Help Me God](https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [EGOT the EP](https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ) | 5:12 |
 | 40 | [Decoded \(feat\. Scarface\)](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Theme For The People](https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 1:56 |
 | 50 | [Skegee](https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Skegee](https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL) | 3:06 |
 
-Snapshot ID: `MTY3MTI0MDQ2MywwMDAwMDAwMDY3MmY1ZWRlNGJhMmYyYmVjNjJlMTJjNzVjMWYwNTIz`
+Snapshot ID: `MTY3MTI0MDQ2MywwMDAwMDAwMDA5N2ZlMzZlZjYzNGFhOTcxOWE0YjFhYWU4ZjYyYzk4`

@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "All Over The Place",
+        "url": "https://open.spotify.com/album/5JTUVNStfRVPulGjpTpuW6"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Bhaskar",
+          "url": "https://open.spotify.com/artist/5FxITpVzF7lxGwOKVp4tXF"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213698,
+      "name": "All Over The Place",
+      "url": "https://open.spotify.com/track/5jKqNh6ItrjIVTbmiwxs5j"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0PCAqc7wXGiphch4QcnKZS"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 216428,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/688W2i53mwx90PvfsCxW29"
@@ -1318,6 +1336,28 @@
       "duration_ms": 189333,
       "name": "In Denial",
       "url": "https://open.spotify.com/track/5edvBrslsD6xcBK3fWnQ75"
+    },
+    {
+      "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/5u5UQEwrlo0XtEYYO93bEP"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        },
+        {
+          "name": "Pranay Parti",
+          "url": "https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165375,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/51JtkaZ5scmC6VH4PIZNQ1"
     },
     {
       "album": {

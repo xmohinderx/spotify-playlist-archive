@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-172 songs - 10 hr 14 min
+173 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [starry night](https://open.spotify.com/track/2Ngtq0z4NF96LsW5x0O5sP) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw), [WOORIZARI 우리자리](https://open.spotify.com/artist/4wSK8ZJdJbAcWLwMcUXIFb) | [BLACKYPLATFORM](https://open.spotify.com/album/68M29UPBO2BxSIIxNBZmLg) | 3:41 | 2021-12-21 |  |
 | [Sweater \- Orchestral Version](https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Sweater \(Orchestral Version\)](https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb) | 3:57 | 2021-12-21 |  |
 | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9) | 3:26 | 2021-12-21 |  |
-| [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 | 2021-12-21 |  |
+| [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 | 2021-12-21 | 2023-01-11 |
 | [The First Noel + Oh Holy Night](https://open.spotify.com/track/0ZZk4Jkdp1Zb98dZ1fyQKQ) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Season](https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi) | 3:27 | 2021-12-21 | 2022-11-11 |
 | [The First Noel + Oh Holy Night](https://open.spotify.com/track/5dy4boImHwApBOQQxdO5QJ) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Winter](https://open.spotify.com/album/3Sv9Di6p9mZbJAuYFt8Ado) | 3:27 | 2021-12-21 | 2022-07-29 |
 | [The First Snow](https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Miracles in December](https://open.spotify.com/album/7xKAWXGHTlXovWpEVu1csM) | 3:27 | 2021-12-21 |  |
@@ -179,6 +179,7 @@
 | [고백송 Confession Song](https://open.spotify.com/track/34gltOTtqFDuaPrieClQ7K) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/6T1mbOaUO00lxV0GNFlKHB) | 3:32 | 2021-12-21 | 2022-07-29 |
 | [세가지 소원 Wish Tree](https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [세가지 소원 Wish Tree \- WINTER GARDEN](https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso) | 3:58 | 2021-12-21 |  |
 | [세가지 소원 Wish Tree](https://open.spotify.com/track/5JqaJ6IfmkTygxwbOD1n3S) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [세가지 소원 Wish Tree \- WINTER GARDEN](https://open.spotify.com/album/1A2o31zgpbwqDfDLFTGxyz) | 3:58 | 2021-12-21 | 2022-07-29 |
+| [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 | 2023-01-10 |  |
 | [첫 눈](https://open.spotify.com/track/346FC1ldeWhpnXUTkY2k6I) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [12월의 기적 Miracles in December](https://open.spotify.com/album/7taKyOK4LYB8uEDoR0x2NQ) | 3:27 | 2021-12-21 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

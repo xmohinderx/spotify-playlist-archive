@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 31272,
+  "num_followers": 31318,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMDJhZTNiYWI3N2RhOTVlY2ZiNzc0NDIwMWQwMzQxMjdm",
+  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMGJjNzBmNTYwZGVlMzg4ZDhjZWY3MjViMGVhZGEyZjFh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:29:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Lupita D'Alessio",
         "url": "https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 311275,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD"
     },
     {
       "added_at": "2022-08-31 07:29:23",

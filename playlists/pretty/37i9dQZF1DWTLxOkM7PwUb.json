@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 3438,
+  "num_followers": 3537,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDdmYmM0NDNiMmY2M2M5M2FkMDZkNjRhYjNmZTcwODhi",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDU2YTJlNDY2NTE1Yzk3MDE4YTBiYzQzZjRjM2I0NWU0",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -719,6 +719,30 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "GPS (feat. French Montana)",
         "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 181554,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Nunca Me Amo",
-        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
     },
     {
       "added_at": "2022-12-09 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,975 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,983 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 8 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 9 | [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 |
 | 10 | [Famous Blue Raincoat](https://open.spotify.com/track/7tfmLHlqGt3dHvCV6GlJxf) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Songs III: Bird on the Water](https://open.spotify.com/album/5Hij7PrKCR3aqxyhuYjFAI) | 4:23 |
-| 11 | [Pequeño Vals Vienés](https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Raül Fernandez Miró](https://open.spotify.com/artist/1jIEmZJNXh1TT7hBjCMSy2) | [Granada](https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV) | 5:34 |
-| 12 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
+| 11 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
+| 12 | [Pequeño Vals Vienés](https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Raül Fernandez Miró](https://open.spotify.com/artist/1jIEmZJNXh1TT7hBjCMSy2) | [Granada](https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV) | 5:34 |
 | 13 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 |
 | 14 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 |
 | 15 | [Passing Through \- Live](https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live Songs](https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC) | 4:05 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 29 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 |
 | 30 | [Who By Fire](https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF) | 3:00 |
 | 31 | [Always](https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 8:02 |
-| 32 | [Ballad of a Runaway Horse](https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cowgirl's Prayer](https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC) | 5:35 |
-| 33 | [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 |
+| 32 | [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 |
+| 33 | [Ballad of a Runaway Horse](https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cowgirl's Prayer](https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC) | 5:35 |
 | 34 | [Heart With No Companion](https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Ron Sexsmith](https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg) | 3:09 |
 | 35 | [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 |
 | 36 | [Sisters Of Mercy](https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
 | 40 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDJlYmM5MzljMDQ1ZWU0NWNkNTE1MmVjZDliNGY2NzM3`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDg4MDc1NDc4Yjg0YmI0NjA4ZDgyOGYzNGFhYTE0OWFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,705 likes - 70 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,813 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 57 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 58 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 |
 | 59 | [Al\-Naafyish \- Time](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
-| 60 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
-| 61 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
+| 60 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
+| 61 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 | 62 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
 | 63 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
 | 64 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 67 | [Subway Theme](https://open.spotify.com/track/2vBOLn9BBERbEPIeXwn4HQ) | [Grand Wizard Theodore](https://open.spotify.com/artist/2zrfhl1NJWRE8SbDu4ekfI) | [Wild Style \(Original Motion Picture Soundtrack \- 25th Anniversary Edition\)](https://open.spotify.com/album/2e1cehaMUqiMtNp5S4fSUJ) | 2:53 |
 | 68 | [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 |
 | 69 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
-| 70 | [Jam On Revenge \(The Wikki Wikki Song\)](https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:35 |
+| 70 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
 
-Snapshot ID: `MTY3MTYyNTYyMSwwMDAwMDAwMDBmZjEwODgyNWExNDhkYjg0NTA0YjNlMGZkY2I0MWZk`
+Snapshot ID: `MTY3MTYyNTYyMSwwMDAwMDAwMGE1NDg0MDMyMzViMmUwZTZjZTg3YTJlNjU1ODYyM2Vi`

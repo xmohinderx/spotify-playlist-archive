@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,361 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,538 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 19 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
 | 20 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 |
 | 21 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
-| 22 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 4:27 |
-| 23 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
+| 22 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
+| 23 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 4:27 |
 | 24 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 |
 | 25 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
 | 26 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 58 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
 | 59 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 |
 | 60 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
-| 61 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 |
-| 62 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 |
+| 61 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 |
+| 62 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 |
 | 63 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 |
 | 64 | [Violeta](https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [20 Grandes Exitos](https://open.spotify.com/album/2m6gFPx1GNwcVNsjNSPQ6C) | 3:09 |
 | 65 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Otra Como Tú](https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 4:18 |
 | 80 | [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 |
 
-Snapshot ID: `MTY3MDI1NDg4NSwwMDAwMDAwMDBjOTAyMTk5MzkyY2U4NTZjZjU4Y2RmNzlmOTZiZjcx`
+Snapshot ID: `MTY3MDI1NDg4NSwwMDAwMDAwMDliZTIyYzhiMGQxNzFlMWUyZmI1Yzk2MjQzNDZlOWNm`

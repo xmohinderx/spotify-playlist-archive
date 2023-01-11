@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Autumn Night",
+        "url": "https://open.spotify.com/album/3eY3REfE9d7iRNLQucvcE2"
+      },
+      "artists": [
+        {
+          "name": "Joy Meyer-Williams",
+          "url": "https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Autumn Night",
+      "url": "https://open.spotify.com/track/7lbdEiLUZS41yFbWuMCEGj"
+    },
+    {
+      "album": {
         "name": "Barren Lands",
         "url": "https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 195000,
       "name": "Fractions",
       "url": "https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu"
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 168125,
       "name": "Sand Between Our Fingers",
       "url": "https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex"
@@ -6296,6 +6314,24 @@
       "duration_ms": 128000,
       "name": "Sempiternal",
       "url": "https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW"
+    },
+    {
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6"
+      },
+      "artists": [
+        {
+          "name": "Vi\u00ean Farhana",
+          "url": "https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124604,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f"
     },
     {
       "album": {

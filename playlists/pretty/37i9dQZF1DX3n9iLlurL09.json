@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 57880,
+  "num_followers": 57954,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDE1ZDg1NmNkNjI1MWFmMTg1YTBjMTg3ZTZmYjljYzZh",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDk3MDZjZjY5ZmQ2NGJhMTUyMzgxZmY0ZmFhMTc4NGFj",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Walk The Moon",
         "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 321280,
       "name": "Anna Sun",
       "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Allah-Las",
-        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 212986,
-      "name": "Catamaran",
-      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 181400,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Allah-Las",
+        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 212986,
+      "name": "Catamaran",
+      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonesome Dreams",
-        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Oshin",
         "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Man On Fire",
-      "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
         "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 209386,
       "name": "Every Single Night",
       "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Man On Fire",
+      "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
     },
     {
       "added_at": "2022-05-19 08:11:23",

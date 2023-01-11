@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,091 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,149 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 64 | [This Land \- Single Version](https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR) | 3:56 |
 | 65 | [Stand Up \(Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots\)](https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [Stand Up \(Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots\)](https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE) | 3:13 |
 | 66 | [The Culling](https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford's House of Pain](https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7) | 3:14 |
-| 67 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
-| 68 | [WRONG GENERATION](https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 2:22 |
+| 67 | [WRONG GENERATION](https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 2:22 |
+| 68 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
 | 69 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 |
 | 70 | [Polygraph Eyes](https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3) | 3:43 |
 | 71 | [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Weather Strike](https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Weather Strike](https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q) | 3:31 |
 | 75 | [Divide](https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 4:17 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDlhYzIyNGYzNTE3NDM3MzhjNjhhOTlmNTEyN2M4NTk3`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGM5MmJiZjU4YTgwNDY1NzJjYTc0MjY3NTNjYjA0MzJk`

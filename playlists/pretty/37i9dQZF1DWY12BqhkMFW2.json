@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 321988,
+  "num_followers": 322163,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDc5ZGIxNWMwMmNhOThmYzAxZjc5ZTI3Yzk3ZDMzZDkw",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDkyNTI4Y2I3OTE1M2RkMmM2YjI5OThlYmQ1ODQ5Mzk4",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 221969,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
     },
     {
       "added_at": "2021-01-15 05:01:00",

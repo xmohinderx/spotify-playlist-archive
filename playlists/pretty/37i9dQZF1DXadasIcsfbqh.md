@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Katy Perry and Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,875 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,939 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 34 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 |
 | 35 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 |
 | 36 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
-| 37 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
+| 37 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 38 | [I GUESS THEY CALL IT FALLIN'](https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 4:01 |
-| 39 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
+| 39 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 | 40 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 |
-| 41 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
+| 41 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
 | 42 | [What If I Don't](https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [What If I Don't](https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC) | 3:21 |
 | 43 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
 | 44 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 84 | [Made](https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made](https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i) | 3:15 |
 | 85 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 |
 | 86 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 |
-| 87 | [Left You For Me](https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Left You For Me](https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj) | 3:50 |
-| 88 | [Love Is Real](https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 2:42 |
+| 87 | [Love Is Real](https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 2:42 |
+| 88 | [Left You For Me](https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Left You For Me](https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj) | 3:50 |
 | 89 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 |
 | 90 | [Bottle’s Bout Dead \(feat\. ERNEST\)](https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Diplo Presents Thomas Wesley: Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:30 |
 | 91 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 |
 | 100 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDg0OTcxNTNkZTE1YWU2Nzk3MWY2MmUwODM2ZGUwZTc4`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDA4ZDE3NTg5MzBlNTc4NmRiMTVmMTQ0MjdiNzY3ZTI4`

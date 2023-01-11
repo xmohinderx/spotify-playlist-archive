@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,022 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,042 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 55 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
 | 56 | [I Died So I Could Haunt You](https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU) | 3:05 |
 | 57 | [Witches! Witches! Rest Now in the Fire](https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Rest Now, Weary Head! You Will Get Well Soon](https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF) | 3:59 |
-| 58 | [Skeleton Dance](https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl) | 3:37 |
-| 59 | [Dark and Stormy](https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk) | 4:55 |
+| 58 | [Dark and Stormy](https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk) | 4:55 |
+| 59 | [Skeleton Dance](https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl) | 3:37 |
 | 60 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
 | 61 | [Found Love in a Graveyard](https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g) | 3:59 |
 | 62 | [Superstition](https://open.spotify.com/track/4fRp8vZV2P2BNBbBuFarLR) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/6eeRBkc7lIYGX8H2Ba1zWG) | 4:40 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 64 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
 | 65 | [Skeleton Song](https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB) | [Bambi L](https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh) | [Skeleton Song](https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW) | 2:42 |
 
-Snapshot ID: `MTY2OTcyNTA2NiwwMDAwMDAwMDRlZDY3NDNmNzg4N2ZjYWIwZmFmM2MwNzJmOGIyZDNh`
+Snapshot ID: `MTY2OTcyNTA2NiwwMDAwMDAwMDg0ZDM2YTU1ODkwNTJlMDJlNTk5N2IxZTMzOWJkNmQ5`

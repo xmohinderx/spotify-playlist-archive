@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,335,082 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,339,048 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 30 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
 | 31 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
 | 32 | [Still Not a Player \(feat\. Joe\) \- Radio Version](https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Capital Punishment \(Explicit Version\)](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:56 |
-| 33 | [Hail Mary](https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ) | [Makaveli](https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8) | [The Don Killuminati: The 7 Day Theory](https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp) | 5:09 |
-| 34 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 |
+| 33 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 |
+| 34 | [Hail Mary](https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ) | [Makaveli](https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8) | [The Don Killuminati: The 7 Day Theory](https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp) | 5:09 |
 | 35 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
 | 36 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
 | 37 | [Ruff Ryders' Anthem](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 100 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 
-Snapshot ID: `MTY3MTYyNTY1MSwwMDAwMDAwMDlhNmY1Y2JjMGVhODI5MTliNjU2ZjIyNDY0OTIwNGYy`
+Snapshot ID: `MTY3MTYyNTY1MSwwMDAwMDAwMDJlNTViODllYTkyOGYzYzVmMGExYmZjY2QyMzQ2NmUy`

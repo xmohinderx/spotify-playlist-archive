@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 14842,
+  "num_followers": 14846,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMDg0MWMwMjE5YWQzN2NhNmU4M2M2OTg4ZDdmM2U1OTg3",
+  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMDZkNWE4MGE1MTI3NTQzNTBkYjdiODk4MWYzMzhiMjFj",
   "tracks": [
     {
       "added_at": "2022-12-20 21:14:29",
@@ -499,38 +499,6 @@
     {
       "added_at": "2022-12-20 21:14:29",
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 274482,
-      "name": "Muleque De Vila",
-      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
-    },
-    {
-      "added_at": "2022-12-20 21:14:29",
-      "album": {
-        "name": "Com os Neur\u00f4nios Evoluidos",
-        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 353532,
-      "name": "Chama os Mulekes",
-      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
-    },
-    {
-      "added_at": "2022-12-20 21:14:29",
-      "album": {
         "name": "Teto Baixo",
         "url": "https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 263078,
       "name": "Raplord",
       "url": "https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL"
+    },
+    {
+      "added_at": "2022-12-20 21:14:29",
+      "album": {
+        "name": "Com os Neur\u00f4nios Evoluidos",
+        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 353532,
+      "name": "Chama os Mulekes",
+      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
+    },
+    {
+      "added_at": "2022-12-20 21:14:29",
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 274482,
+      "name": "Muleque De Vila",
+      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
     },
     {
       "added_at": "2022-12-20 21:14:29",

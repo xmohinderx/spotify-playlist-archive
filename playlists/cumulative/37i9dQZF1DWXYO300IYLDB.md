@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-126 songs - 7 hr 25 min
+128 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2022-10-20 |  |
 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 | 2022-11-10 | 2022-12-15 |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-10-20 |  |
-| [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2022-10-20 |  |
+| [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2022-10-20 | 2023-01-11 |
 | [Angels](https://open.spotify.com/track/1RVpxxW4Rpy9sEMAUSZ64Y) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist \(Deluxe Edition\)](https://open.spotify.com/album/1pWbq3uze6romelU3eWtwC) | 2:51 | 2022-11-22 | 2022-12-14 |
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-11-24 |  |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-10-20 | 2022-10-26 |
@@ -46,6 +46,7 @@
 | [Hold On \(with Gone Gone Beyond\)](https://open.spotify.com/track/1Zt5xYz9Fnsoa5rkbSPJWe) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5) | [Hold On \(with Gone Gone Beyond\)](https://open.spotify.com/album/0MuMD4B9QNIapJlfNXMaod) | 3:27 | 2022-10-20 | 2022-12-14 |
 | [How Deep Is Your Love](https://open.spotify.com/track/4DDD2P6dJurAgk3IYWqK3p) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [Please Clap Your Hands](https://open.spotify.com/album/4yt5JKsDA1F6XIKt0vrNpd) | 3:24 | 2022-12-13 |  |
 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 | 2022-10-20 | 2022-12-15 |
+| [I Can't Give Everything Away](https://open.spotify.com/track/5uLtfWEqn5ngoWySZkI9ii) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [I Can't Give Everything Away](https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj) | 3:55 | 2023-01-10 |  |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2022-10-20 |  |
 | [i get high](https://open.spotify.com/track/00P85t1fMCdWweMrVvAsU3) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [i get high](https://open.spotify.com/album/6Gz2a2ybIh06fzk2pNU7Fe) | 2:04 | 2022-10-20 | 2022-12-14 |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-10-20 | 2022-12-14 |
@@ -84,7 +85,7 @@
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2022-12-14 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-12-14 |  |
 | [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:50 | 2022-10-20 |  |
-| [Red Sky](https://open.spotify.com/track/4gJYghkBmE1Qgxqqg922sV) | [TAKURO](https://open.spotify.com/artist/0yAbl3KRQ4Jxjvb8DZq9pT), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje) | [The Sound Of Life](https://open.spotify.com/album/5g7kYhSjvWLYyb6j0WuWiK) | 3:35 | 2022-12-13 |  |
+| [Red Sky](https://open.spotify.com/track/4gJYghkBmE1Qgxqqg922sV) | [TAKURO](https://open.spotify.com/artist/0yAbl3KRQ4Jxjvb8DZq9pT), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje) | [The Sound Of Life](https://open.spotify.com/album/5g7kYhSjvWLYyb6j0WuWiK) | 3:35 | 2022-12-13 | 2023-01-11 |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2022-12-14 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-10-20 |  |
 | [Rising Sun \- Acoustic](https://open.spotify.com/track/766uOGvYLSbajyNX0i5Wa5) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Rising Sun \(Acoustic\)](https://open.spotify.com/album/6H1556NY9N2joed2bSH5zn) | 2:58 | 2022-10-20 | 2022-12-14 |
@@ -99,6 +100,7 @@
 | [Sing It With Me \- Acoustic](https://open.spotify.com/track/5VoAmDgLauPPfUNcVasc6G) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Sing It With Me \(Acoustics\)](https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050) | 3:41 | 2022-12-13 |  |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-10-20 | 2022-11-23 |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-12-14 |  |
+| [Sometimes You Can't Make It On Your Own \- Radio Edit / 96 BPM](https://open.spotify.com/track/5cav4hKIQvVjzooaL3c9V4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/album/0RkQnqzf23UlcTRaA3b8eq) | 4:50 | 2023-01-10 |  |
 | [Still \(feat.KIHIRO\)](https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa) | [K](https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK), [Kihiro](https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr) | [Orange Ave.](https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD) | 3:03 | 2023-01-03 |  |
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-12-14 |  |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-10-20 |  |

@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 70 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
 | 71 | [courage](https://open.spotify.com/track/72sQjWR565TtF4yIKnoZZe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 3:29 |
 | 72 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
-| 73 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
-| 74 | [Bleach](https://open.spotify.com/track/6Z0OvGP9U9pSTSJNkNybmf) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:01 |
+| 73 | [Bleach](https://open.spotify.com/track/6Z0OvGP9U9pSTSJNkNybmf) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:01 |
+| 74 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
 | 75 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 |
 | 76 | [Céline](https://open.spotify.com/track/7qOlu9FO9p9gphX8hMnO7a) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:25 |
 | 77 | [For Her](https://open.spotify.com/track/62qXENYDqMT6CLE6Ri6WHp) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 5:26 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 115 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 116 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc4ODg1NTEsMDAwMDAwMDAwYzQwMWU4ZWMxZDA1YTc2ZjIyMzVmMTJiNjhmMGM5Mw==`
+Snapshot ID: `Mjc4ODk5OTEsMDAwMDAwMDBhOTgwMDYzMDU2OTQ5NDIyNTFlMzNiMGIxMTUyZDE3Zg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,955 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,713 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 43 | [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 |
 | 44 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 | 45 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
-| 46 | [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 |
-| 47 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
+| 46 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
+| 47 | [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 |
 | 48 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
 
-Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMDAxN2M4ZWVmOTVhYWRlMGZjODZhYWFlMDIzZmU3OTQ2`
+Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMDQyZDlmNWMyYWM4NmM2NzA0MDVmYmJmYjVlMWY1Y2Ji`

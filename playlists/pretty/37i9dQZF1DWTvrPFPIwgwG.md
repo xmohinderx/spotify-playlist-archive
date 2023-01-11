@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Eliane Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,406 likes - 85 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,457 likes - 85 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 45 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 |
 | 46 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 |
 | 47 | [Jesus Está Voltando](https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Jesus Está Voltando](https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi) | 4:28 |
-| 48 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 |
-| 49 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 |
+| 48 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 |
+| 49 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 |
 | 50 | [Tá Gerando](https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8) | [Joyce Queiroz](https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Tá Gerando](https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE) | 4:34 |
-| 51 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 |
-| 52 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 |
+| 51 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 |
+| 52 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 |
 | 53 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 |
 | 54 | [Aguenta Firme](https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Aguenta Firme](https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr) | 4:38 |
 | 55 | [Jesus Está no Barco](https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco](https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs) | 4:18 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 58 | [Ele É](https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Ele É](https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ) | 6:35 |
 | 59 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 |
 | 60 | [Sou Teu Deus](https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Sou Teu Deus](https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn) | 5:27 |
-| 61 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
-| 62 | [Eu Te Toquei \- Ao Vivo](https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Eu Te Toquei \(Ao Vivo\)](https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn) | 5:19 |
+| 61 | [Eu Te Toquei \- Ao Vivo](https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Eu Te Toquei \(Ao Vivo\)](https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn) | 5:19 |
+| 62 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
 | 63 | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7) | 4:27 |
 | 64 | [O Desfecho](https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [O Desfecho](https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU) | 5:08 |
 | 65 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 76 | [Aquietai\-Vos](https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Aquietai\-Vos](https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o) | 3:46 |
 | 77 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 |
 | 78 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
-| 79 | [Grande](https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Grande](https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI) | 4:13 |
+| 79 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
 | 80 | [Ele Te Escolheu](https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu](https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn) | 4:00 |
-| 81 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
+| 81 | [Grande](https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Grande](https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI) | 4:13 |
 | 82 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 |
 | 83 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 |
 | 84 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3MTgxNTc1NywwMDAwMDAwMGUwMmM5MjAxYjdiN2JjMGI2ZDYyZDliZDc2YmFiODRi`
+Snapshot ID: `MTY3MTgxNTc1NywwMDAwMDAwMDFlMjI2NWNkODBlZDAzYTI1ZmJiZmRiYzliNzJhNDk1`

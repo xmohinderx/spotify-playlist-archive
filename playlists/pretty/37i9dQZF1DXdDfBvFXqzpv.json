@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 86181,
+  "num_followers": 86255,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMGNiZDM0N2Y5NThmZjIwNzUyMGJmM2YwYzJiY2YxMmRh",
+  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMGY1NTlkMzg0OTYxMTAyMDM5M2M0ZDlmMjYzMzU2Mzkx",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Blue World",
+      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Blue World",
-      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 186805,
       "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
       "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Que Calor (feat. J Balvin & El Alfa)",
         "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1343,38 +1343,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
-      },
-      "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Cobrastyle",
-      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
@@ -1387,6 +1355,22 @@
       "duration_ms": 298520,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Cobrastyle",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "Send Them Off!",
+      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "Send Them Off!",
-      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
     },
     {
       "added_at": "2022-11-02 14:00:00",

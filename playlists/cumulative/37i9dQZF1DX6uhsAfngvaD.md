@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-326 songs - 20 hr 12 min
+327 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Collar de Perlas](https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Collar de Perlas](https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM) | 4:29 | 2022-04-01 | 2022-04-21 |
 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 | 2022-02-24 |  |
 | [come over x](https://open.spotify.com/track/1wRiX5K2p8mKRZlNAPgRv7) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [come over x](https://open.spotify.com/album/75EJhhhNbIVjlpkd3Sy49e) | 4:16 | 2021-10-09 | 2022-07-25 |
+| [come over x](https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [monochrome blue](https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a) | 4:16 | 2022-07-06 |  |
 | [conventional ride](https://open.spotify.com/track/2s30KXFLxnyH9CHKoO3Yum) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF) | 4:10 | 2019-11-19\* | 2020-08-09 |
 | [Conversaciones](https://open.spotify.com/track/2JoIsTLmlVGiY2y602IkZN) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Conversaciones](https://open.spotify.com/album/5JO7X3vUSFQpo91NibWW5G) | 3:17 | 2020-11-06 | 2020-12-22 |
 | [cool kid](https://open.spotify.com/track/7Iq3WKDjRaGyYjaAZr0Lcx) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [cool kid](https://open.spotify.com/album/2AXY3PdfKoLLcIHtEfPSZN) | 4:02 | 2021-07-04 | 2022-07-28 |
@@ -162,7 +163,7 @@
 | [Jennifer](https://open.spotify.com/track/6uFXA44CcLLWbNY5kYSOK6) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/3uAXs9TF2jfh92uXLFOwLv) | 4:00 | 2020-09-19 | 2022-07-28 |
 | [Jeune](https://open.spotify.com/track/3HV9YnoYACjlrJ5CiZ3hLj) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Jeune](https://open.spotify.com/album/0ra3Nkh7kqEUEtReZ6rbEY) | 4:18 | 2019-11-19\* | 2022-07-29 |
 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 | 2022-07-06 |  |
-| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 |  |
+| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 | 2023-01-11 |
 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 | 2020-12-22 |  |
 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 | 2020-08-09 |  |
 | [Kid](https://open.spotify.com/track/3JZHzeKukmftdMKUoI87Jj) | [lostboy](https://open.spotify.com/artist/04f7oedbbC2KFDfqt8tGX5) | [Kid](https://open.spotify.com/album/7EY8Lrp6ttJuhUDMpJTdkz) | 3:13 | 2020-12-11 | 2021-03-06 |

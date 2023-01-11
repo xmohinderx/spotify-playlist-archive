@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-121 songs - 8 hr 47 min
+122 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Who Loves The Sun feat\. Jo.Ke \- Edit](https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [We Love The Sun \(Edit\)](https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt) | 4:16 | 2022-03-29 | 2022-07-29 |
 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-03-29 |  |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-25 |  |
-| [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 | 2022-07-26 |  |
+| [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 | 2022-07-26 | 2023-01-11 |
+| [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 | 2022-10-12 |  |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-03-29 |  |
 
 \*This playlist was first scraped on 2022-04-23. Prior content cannot be recovered.

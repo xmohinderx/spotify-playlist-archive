@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 166210,
+  "num_followers": 166253,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGViODhmODc3ODFlYTI4NWU2NzA2YTNlY2FhMGE3NWZj",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDVmZjE4MTFiNzkxNDE3ODRiOGMyYmJlOTIxN2NmODRl",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Amidst",
-        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Erica Bostick",
-          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 147604,
       "name": "Has anyone ever left you high and dry?",
       "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Amidst",
+        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Erica Bostick",
+          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5"
-      },
-      "artists": [
-        {
-          "name": "Anthony David",
-          "url": "https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S"
-        },
-        {
-          "name": "Algebra Blessett",
-          "url": "https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP"
-        }
-      ],
-      "duration_ms": 255008,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Tell That (feat. Mr. Talkbox)",
         "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 179840,
       "name": "Tell That (feat. Mr. Talkbox)",
       "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5"
+      },
+      "artists": [
+        {
+          "name": "Anthony David",
+          "url": "https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S"
+        },
+        {
+          "name": "Algebra Blessett",
+          "url": "https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP"
+        }
+      ],
+      "duration_ms": 255008,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 180678,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "What Would I Gain?",
         "url": "https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 234000,
       "name": "What Would I Gain?",
       "url": "https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 180678,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "God Made",
-        "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "God Made",
-      "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Vol 3",
         "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+        "name": "God Made",
+        "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
       },
       "artists": [
         {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+      "duration_ms": 200140,
+      "name": "God Made",
+      "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1567,6 +1551,22 @@
       "duration_ms": 205618,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "GRACE",
+        "url": "https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 255761,
+      "name": "GRACE",
+      "url": "https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "GRACE",
-        "url": "https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 255761,
-      "name": "GRACE",
-      "url": "https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob"
     },
     {
       "added_at": "2022-07-17 05:38:31",

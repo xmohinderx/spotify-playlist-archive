@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: NewJeans\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-298 songs - 16 hr 59 min
+299 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cheers \(ZZAN\)](https://open.spotify.com/track/3eAI3CXukjPxjXdzGMmeih) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Just One Bite 2](https://open.spotify.com/album/0Fgu7agMrAXcHyw4dFh70c) | 2:59 | 2022-03-22 | 2022-04-19 |
 | [Chica](https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:12 | 2021-11-21 | 2022-03-05 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-07 | 2022-07-28 |
+| [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-10 |  |
 | [Comfort for me 물음표가 가득한 나의 밤](https://open.spotify.com/track/0p0bxSUnzKGT08qq1luWG4) | [조소정 Jo SoJeong](https://open.spotify.com/artist/5oZ0cR8xbAQyt85ZzwWs3H) | [A diary for me 들켜버려도 좋은\(일기\)](https://open.spotify.com/album/6r63fND2KfLsB3Ky5D8yDV) | 2:59 | 2022-03-22 | 2022-04-21 |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-18 |  |
 | [Could You Be My Song 새벽☆](https://open.spotify.com/track/2N1m67XDI7V3OQ6alngjRl) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Could You Be My Song 새벽☆](https://open.spotify.com/album/2XL5uo1GvWxyUnOEyN5vmX) | 3:51 | 2021-11-21 | 2022-07-13 |
@@ -109,7 +110,7 @@
 | [Hide And Seek](https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hide And Seek \(Full Version\)](https://open.spotify.com/album/0Twooiwlv1TjdY9Fe8VfsP) | 2:57 | 2021-11-21 | 2022-07-03 |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-01-19 | 2022-04-21 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-09-19 |
-| [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-05-31 |  |
+| [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-05-31 | 2023-01-11 |
 | [How Do You Feel 어떨 것 같아](https://open.spotify.com/track/13TsBlKDFHcBrxCzAZv3qy) | [HAIL](https://open.spotify.com/artist/6ay9YyFyAgf6eORHdLKKDf) | [How Do You Feel 어떨 것 같아](https://open.spotify.com/album/6L5ThzBw0itTXnaj2AzyTk) | 5:18 | 2021-11-21 | 2022-07-22 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-18 |  |
 | [I Don't Want](https://open.spotify.com/track/3aNsBkmdh6MO8UkLd42BUA) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:43 | 2022-03-29 | 2022-04-20 |

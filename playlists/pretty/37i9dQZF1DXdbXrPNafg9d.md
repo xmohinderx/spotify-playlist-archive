@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Cuco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,026 likes - 175 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,213 likes - 175 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 5 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 |
 | 6 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
 | 7 | [Moneymaker \- Phantogram Remix](https://open.spotify.com/track/3my7cJz3T7iXwDbiWh553p) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Moneymaker \(Phantogram Remix\)](https://open.spotify.com/album/09FPpD9syTm2cwQWTTH5kn) | 3:14 |
-| 8 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Blowsom & Friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
+| 8 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
 | 9 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 |
 | 10 | [Death in a Constellation](https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu), [Levingtquatre](https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA) | [Death in a Constellation](https://open.spotify.com/album/4noSmDY9LL8oRSCXaHti9A) | 4:29 |
 | 11 | [Nobody](https://open.spotify.com/track/2hU16xaNHHOKNUIADaIdpe) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Nobody](https://open.spotify.com/album/22uCaua7BUok7dpF9OUJuV) | 4:46 |

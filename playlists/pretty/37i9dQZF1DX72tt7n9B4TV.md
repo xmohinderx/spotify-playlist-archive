@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,322 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,339 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 19 | [concert for aliens](https://open.spotify.com/track/7os53rdrgA0OU6xC5xJruX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:40 |
 | 20 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 |
 | 21 | [No Love In LA](https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:22 |
-| 22 | [Radioactive](https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Come Around Sundown \(Expanded Edition\)](https://open.spotify.com/album/5xFZ4iElFbUFtOGX4lvdTM) | 3:26 |
-| 23 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
+| 22 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
+| 23 | [Radioactive](https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Come Around Sundown \(Expanded Edition\)](https://open.spotify.com/album/5xFZ4iElFbUFtOGX4lvdTM) | 3:26 |
 | 24 | [cotton candy](https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:47 |
 | 25 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 26 | [nihilist blues \(feat\. Grimes\)](https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 5:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [Anything](https://open.spotify.com/track/6gjiOko3nMCSgZciFm7zpX) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:48 |
 | 80 | [Straight to My Head](https://open.spotify.com/track/0J870c2hR9AjjtQsZh42iI) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [VI](https://open.spotify.com/album/7ttrc4ughOmz3dWMkpIrQv) | 3:37 |
 
-Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDhmMzdkMjZkNmM2MmIxZTYxNjJiNDNmOTA4NDU0Zjc4`
+Snapshot ID: `MTY1NjkyOTIyNCwwMDAwMDAwMDJkZmFkMGQ5Y2ZhNDJjYzM1NDc5MzkyNjdhMGUyNWMy`

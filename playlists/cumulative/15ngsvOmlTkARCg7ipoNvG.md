@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-855 songs - 20 hr 2 min
+856 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [While You Sleep](https://open.spotify.com/track/2nypJMBPC3NoBdQDJL1PRX) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:17 | 2022-01-12 |  |
 | [Winding Down](https://open.spotify.com/track/4a1OHxZdT08sWqyzKSjlbb) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:12 | 2022-01-12 |  |
 | [Windows](https://open.spotify.com/track/7sTubWWRJiQsGDKhxzRGuB) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Twin](https://open.spotify.com/album/08alG4ZQrDZj6mq77Jj7AJ) | 1:19 | 2022-01-12 |  |
+| [Winter Afternoon Dreams](https://open.spotify.com/track/7oiZPTvoNEMu74wh3jYkAg) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Winter Afternoon Dreams](https://open.spotify.com/album/77yTybaDwDuOSKBEdzEl8B) | 1:01 | 2023-01-10 |  |
 | [Winter Dreams](https://open.spotify.com/track/7x9qvMCDgjmTP9pbIsmJKj) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Winter Dreams](https://open.spotify.com/album/2QAa1S8RsaQ2GQwBfQPgO7) | 2:26 | 2022-01-12 |  |
 | [Winter Dreamscape](https://open.spotify.com/track/7o01Hme8cCzNcFPqUcFC7K) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:04 | 2022-02-21 |  |
 | [Winter Night Dreaming](https://open.spotify.com/track/1qwNOmRur3omktx18WaMLP) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Night Dreaming](https://open.spotify.com/album/7IARHzklJ27xLT4SanosIv) | 1:01 | 2022-11-26 |  |

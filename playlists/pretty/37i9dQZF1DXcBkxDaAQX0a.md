@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,706 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,819 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 63 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
 | 64 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
 | 65 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
-| 66 | [Disarm](https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Disarm](https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq) | 3:19 |
-| 67 | [Send Help](https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Attack on Robot Pirate Island](https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6) | 3:23 |
+| 66 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
+| 67 | [Disarm](https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Disarm](https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq) | 3:19 |
 | 68 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
-| 69 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
+| 69 | [Send Help](https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Attack on Robot Pirate Island](https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6) | 3:23 |
 | 70 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
 | 71 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 |
 | 72 | [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 |
 | 75 | [Back Together](https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Back Together](https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ) | 4:24 |
 
-Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMDU0OWM5NjI4OWE0OTk4MTgyYTA5ZTNlNDVmZDQwNDcy`
+Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMDBmYTg2NjBmODQ1ZWU1ZjM2N2UyZjU3MWUyMTRmNmM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' sacar las chelas y el tequila!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,250 likes - 150 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,271 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 33 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
 | 34 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
 | 35 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 |
-| 36 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
-| 37 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
+| 36 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
+| 37 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
 | 38 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 |
 | 39 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
 | 40 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 73 | [Ni Lo Intentes](https://open.spotify.com/track/3WiU6ZeOD7UFjTSPraQMPl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:16 |
 | 74 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 |
 | 75 | [Yo Sé Que Te Acordarás](https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 3:11 |
-| 76 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
-| 77 | [El Sillón](https://open.spotify.com/track/4ORwLXI423yg5dSq8bHBH2) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Sillón](https://open.spotify.com/album/4icpOgfnYMyrJTFRGYWif0) | 3:19 |
+| 76 | [El Sillón](https://open.spotify.com/track/4ORwLXI423yg5dSq8bHBH2) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Sillón](https://open.spotify.com/album/4icpOgfnYMyrJTFRGYWif0) | 3:19 |
+| 77 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
 | 78 | [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 |
 | 79 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
 | 80 | [El Baleado](https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Baleado](https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX) | 3:39 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 131 | [El Disgusto](https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 2:27 |
 | 132 | [Brindo](https://open.spotify.com/track/6Ai9GfC9AxXfSLaqfcPTX5) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Directo a los Exitos](https://open.spotify.com/album/5egsE5XWZskkzNwZ32KJqW) | 2:20 |
 | 133 | [Se Me Olvidó](https://open.spotify.com/track/44kCjKg7BV3AnqF2brVIME) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL) | 2:38 |
-| 134 | [Nomas Por Tu Culpa](https://open.spotify.com/track/2z3YMDoay4i17qy1QiNcuy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [En El Tiempo](https://open.spotify.com/album/5lUF7dc1FSAWTL1hEAD4uA) | 3:42 |
-| 135 | [El Karma](https://open.spotify.com/track/5OcWYcPLTtLQNsfuBAb9vS) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/157AfgOIg4Tq7m5sEO7ps5) | 3:15 |
+| 134 | [El Karma](https://open.spotify.com/track/5OcWYcPLTtLQNsfuBAb9vS) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/157AfgOIg4Tq7m5sEO7ps5) | 3:15 |
+| 135 | [Nomas Por Tu Culpa](https://open.spotify.com/track/2z3YMDoay4i17qy1QiNcuy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [En El Tiempo](https://open.spotify.com/album/5lUF7dc1FSAWTL1hEAD4uA) | 3:42 |
 | 136 | [Mi Primer Derrota](https://open.spotify.com/track/4Ld21k19Z6tMuwRcKGM4Sd) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [En Contra De Mi Voluntad](https://open.spotify.com/album/2aN7waichOQyWVoEECWerE) | 3:23 |
 | 137 | [Estas Ganas de Tomar](https://open.spotify.com/track/7bEvMxjakpTmanjdG4B64e) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Estas Ganas de Tomar](https://open.spotify.com/album/3BrEdup9BnOWYKPYsrNdrM) | 2:35 |
 | 138 | [Dos Gotas de Agua](https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:53 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 149 | [El Pisto Es Primero](https://open.spotify.com/track/4u4ySbVVXWLIjjTS2XlDaM) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [El Favorito](https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4) | 2:35 |
 | 150 | [Una Pagina Mas](https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Página Más](https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN) | 2:35 |
 
-Snapshot ID: `MTY3Mjg5MzY1OCwwMDAwMDAwMDdjNjNmMDkxYmY4Y2YwZmZjOWYxODFjMjY2NzVjNDgy`
+Snapshot ID: `MTY3Mjg5MzY1OCwwMDAwMDAwMGE3ZjIyMzQ1NjVhYTg1NjkwZDI0YmVjYzUzZjUzODEz`

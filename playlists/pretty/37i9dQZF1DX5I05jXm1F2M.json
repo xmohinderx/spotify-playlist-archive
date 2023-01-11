@@ -1,12 +1,12 @@
 {
   "description": "Take that last call karaoke to go.",
-  "num_followers": 86426,
+  "num_followers": 86491,
   "original_name": "Pub Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5ODM3OCwwMDAwMDAwMGM3ZmYyMzExYjYxNzU4ZjRjZTYzMGIyNjEyNTgyZDA5",
+  "snapshot_id": "MTY0MDA5ODM3OCwwMDAwMDAwMDFlNGE5ZDc5Nzg1ZWJlMTEzNWUxYWU2ZjM1ZGZkYjg1",
   "tracks": [
     {
       "added_at": "2021-12-21 14:52:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
-    },
-    {
-      "added_at": "2021-12-21 14:52:58",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2021-12-21 14:52:58",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
       "added_at": "2021-12-21 14:52:58",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2021-12-21 14:52:58",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2021-12-21 14:52:58",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2021-12-21 14:52:58",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
-    },
-    {
-      "added_at": "2021-12-21 14:52:58",
-      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+    },
+    {
+      "added_at": "2021-12-21 14:52:58",
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
     },
     {
       "added_at": "2021-12-21 14:52:58",

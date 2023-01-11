@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-113 songs - 6 hr 46 min
+114 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 | 2022-06-20 |  |
 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 | 2022-07-22 |  |
 | [I mean, I love you](https://open.spotify.com/track/4kGyac4sr1u0GprRRjFDTp) | [전차인](https://open.spotify.com/artist/6W1axSzsH13EFHf1pyPBlx) | [I mean, I love you](https://open.spotify.com/album/5rVmEhbUPDyUbmN7jMv04M) | 3:34 | 2022-06-20 | 2022-07-27 |
+| [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2023-01-10 |  |
 | [I'm an aeroplane](https://open.spotify.com/track/6zQ0txBHpbqBh25qjfnNeu) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [I'm an aeroplane](https://open.spotify.com/album/3ySmGnt7e8BV3zxSvKfigL) | 4:25 | 2022-06-20 | 2022-07-29 |
 | [I'm Finally a Ghost](https://open.spotify.com/track/5973GTo2ourdiDPVQuwwvf) | [Haepa](https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi) | [Playing Dead](https://open.spotify.com/album/4d2mhZN25j5zY3ErTpfOBZ) | 2:55 | 2022-07-04 | 2022-08-30 |
 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 | 2022-06-20 | 2022-07-28 |
@@ -120,6 +121,6 @@
 | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/track/56cdOy3BkffwpENEg14leP) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/album/4Nx37N6XGK64vsy9Lgfhu8) | 4:07 | 2022-06-20 | 2022-07-28 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-18 |  |
 | [설명서 Guidebook](https://open.spotify.com/track/7gJoFABLxuCaR4Quf7N73a) | [Yoil](https://open.spotify.com/artist/7pBCd2Utn0stcoyugrAc2t) | [설명서 Guidebook](https://open.spotify.com/album/1d9tXvTXaG6ylDvoFIf2yL) | 3:49 | 2022-06-20 | 2022-06-29 |
-| [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 | 2022-09-05 |  |
+| [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 | 2022-09-05 | 2023-01-11 |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

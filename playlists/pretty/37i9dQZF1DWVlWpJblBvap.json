@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/\">Jesus Culture</a>",
-  "num_followers": 452980,
+  "num_followers": 453366,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDY5MTkzNSwwMDAwMDAwMDBhZDEwMmNlYWNjYTdiM2I2MDM1ZmY0OGZiNTQ5YWFm",
+  "snapshot_id": "MTYxMDY5MTkzNSwwMDAwMDAwMDNkZjlkZjZkMjFlODljZTc3YzM1OWRkOTI2YzA5YmJk",
   "tracks": [
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "Christ Be Magnified",
+        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 302011,
+      "name": "Christ Be Magnified",
+      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 242139,
       "name": "Alive & Breathing (feat. Elle Limebear)",
       "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "Christ Be Magnified",
-        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 302011,
-      "name": "Christ Be Magnified",
-      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1411,18 +1411,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+        "name": "Holy Water (Church Sessions)",
+        "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 411733,
-      "name": "Here's My Heart - Live",
-      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
+      "duration_ms": 464809,
+      "name": "Holy Water - Church Sessions",
+      "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
     }
   ],
   "unique_name": "Songs of Glory",

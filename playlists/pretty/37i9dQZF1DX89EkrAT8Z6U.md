@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,329 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,938 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 35 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 |
 | 36 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 |
 | 37 | [af1](https://open.spotify.com/track/14piiV64kkkkPPKKcb8I9d) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1](https://open.spotify.com/album/50p7eSBfscW5XKSWbEQbD4) | 2:21 |
-| 38 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
-| 39 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
+| 38 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
+| 39 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
 | 40 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
 | 41 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
 | 42 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 57 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 |
 | 58 | [Diamond Drift](https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Diamond Drift](https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD) | 2:00 |
 | 59 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
-| 60 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
+| 60 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 |
 | 61 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
-| 62 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 |
+| 62 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
 | 63 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
 | 64 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
 | 65 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:48 |
 | 75 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 
-Snapshot ID: `MTY3MzAzMDEzMCwwMDAwMDAwMGFjNzFhZDkyN2UzNjQ5ODQyYTJlZjU0ZGZiNThmNjc4`
+Snapshot ID: `MTY3MzAzMDEzMCwwMDAwMDAwMDZmMzA3ZWUwZmNjNjFmYWYyODM3MjU2NjY5YTU5Nzg1`

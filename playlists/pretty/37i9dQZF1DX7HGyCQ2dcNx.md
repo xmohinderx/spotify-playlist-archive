@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,065 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,110 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 | 35 | [No Te Vayas](https://open.spotify.com/track/3nowY0ZuWMuAmmAu1plEBP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:47 |
 | 36 | [Blanco](https://open.spotify.com/track/2rc7BkzO8qepMFAxHtOrXc) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Blanco](https://open.spotify.com/album/5mcUbpuVL0i5q4cECQ6cV4) | 2:25 |
 | 37 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:49 |
-| 38 | [No Me Conoce \- Remix](https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Me Conoce \(Remix\)](https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U) | 5:07 |
+| 38 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 |
 | 39 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
 | 40 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 |
 | 41 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 | 107 | [Bajo Cero](https://open.spotify.com/track/4mYG9quN0JnwiXzku5aqdI) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Bajo Cero](https://open.spotify.com/album/62HvdfrJyULSlryudl5iO6) | 4:47 |
 | 108 | [Caliente \(feat\. J Balvin\)](https://open.spotify.com/track/7zjxmI7AldHmhWfFozqv3t) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Mi Movimiento](https://open.spotify.com/album/52E77HSrg85k7NrRkKTGT1) | 3:26 |
 
-Snapshot ID: `MTY3MDQ1NzUzOCwwMDAwMDAwMDI2YmM4NTFkNDNiYjA2OTcwZTUwYTU0MWRjZDExNWNi`
+Snapshot ID: `MTY3MDQ1NzUzOCwwMDAwMDAwMDM5MjBmMDcxMWE2NzhlNDk4NWZjZDMxYTE0NTNiYzc2`

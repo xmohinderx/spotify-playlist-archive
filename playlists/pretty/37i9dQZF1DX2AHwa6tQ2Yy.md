@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,452 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,477 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 27 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 |
 | 28 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 29 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 |
-| 30 | [Natural](https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:40 |
-| 31 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
+| 30 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
+| 31 | [Natural](https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:40 |
 | 32 | [Thinking Too Much](https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A) | [Thinking Too Much](https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ) | 3:28 |
 | 33 | [Spider](https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx) | 2:54 |
 | 34 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 35 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
 | 36 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 37 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
-| 38 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 |
-| 39 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
+| 38 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
+| 39 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 |
 | 40 | [Better With You](https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Better With You](https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v) | 2:17 |
 | 41 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
 | 42 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 54 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 55 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 |
 | 56 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
-| 57 | [Explore](https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:46 |
-| 58 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
-| 59 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
-| 60 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
+| 57 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
+| 58 | [Explore](https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 4:46 |
+| 59 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
+| 60 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
 | 61 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 |
 | 62 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
 | 63 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 |
 | 70 | [With You](https://open.spotify.com/track/06kvUr3p93vBQT1n1Dv3Se) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [With You](https://open.spotify.com/album/11Tq32iGErxMwUQqpYom5r) | 3:11 |
 
-Snapshot ID: `MTY3MjkyNjc3OSwwMDAwMDAwMGRmYzVmOGIwMjk4N2QyNmEwZDNmMTQ0MjVhZTk4MTM4`
+Snapshot ID: `MTY3MjkyNjc3OSwwMDAwMDAwMGMwNDNkMjNkY2QxOWJmNWRjZGVkYjEwZGFkNWJkNDEx`

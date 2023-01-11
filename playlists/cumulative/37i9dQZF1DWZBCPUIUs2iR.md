@@ -2,7 +2,7 @@
 
 ### [Country's Greatest Hits](https://open.spotify.com/playlist/37i9dQZF1DWZBCPUIUs2iR)
 
-> A compilation of the all\-time biggest hits in Country Music\. Cover: George Strait
+> A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
 129 songs - 7 hr 21 min
 

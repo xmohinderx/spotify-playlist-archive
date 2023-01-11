@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 15095,
+  "num_followers": 15103,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDdjOGI0MjdjZWM1ZjM3Y2I1Mzc3YmMxMTc4MDYyYjkw",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDBhZTNmNzc3YjdkMmY3M2YwZGY5NDJkMzE3NzFmNmQz",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -439,6 +439,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
         "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
       },
@@ -463,30 +487,6 @@
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -563,34 +563,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Follow (with Jeremih) [Dillon Francis Remix]",
-        "url": "https://open.spotify.com/album/6ORDApaeeYyezXhpGXc2HV"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Follow (with Jeremih) [Dillon Francis Remix]",
-      "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -619,6 +591,34 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Follow (with Jeremih) [Dillon Francis Remix]",
+        "url": "https://open.spotify.com/album/6ORDApaeeYyezXhpGXc2HV"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Follow (with Jeremih) [Dillon Francis Remix]",
+      "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Impact (Soulwax Remix)",
         "url": "https://open.spotify.com/album/57KnQqHMB2x5OFcvnm6G8U"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 218234,
       "name": "Impact - Soulwax Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/1bHrUhSO0HYL1bM8QeYJww"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Nobody (Devault Remix)",
         "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
@@ -2123,6 +2103,46 @@
       "duration_ms": 259286,
       "name": "Nobody - Devault Remix",
       "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2167,26 +2187,6 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",

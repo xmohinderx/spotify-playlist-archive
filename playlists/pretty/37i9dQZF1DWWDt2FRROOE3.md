@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,834 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 47 | [Don't Stop Me Now](https://open.spotify.com/track/2keKYQq7bs6WUWBsmlzSOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:40 |
 | 48 | [The Moon \(from "Duck Tales"\)](https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:44 |
 | 49 | [Firework](https://open.spotify.com/track/6HFlSRjB6k4uOU1tNJ2Wc9) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:51 |
-| 50 | [Proud Mary](https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:31 |
+| 50 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDFjMGI3NThjNGU1ZWZjMjYxNmM5NGE0MDhmZTM5YTY4`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDBiMzZjNzAxNDVkNjUyNWIyZmI3NDUzMTFkNTRhMTRi`

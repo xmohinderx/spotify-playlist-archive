@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47467,
+  "num_followers": 47494,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDkxOWQxN2FkMTdjNTAyNGU1MzI1ZjAwZDFiZjJmYzlk",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMGRlMTBkZDNmMDIwZjA3N2JhODVjNDNkNzA3MmNhNTZl",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Cu\u00f1ados y Compadres",
@@ -647,6 +631,22 @@
       "duration_ms": 230548,
       "name": "Cu\u00f1ados y Compadres",
       "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -751,22 +751,22 @@
     {
       "added_at": "2022-11-11 06:00:00",
       "album": {
-        "name": "Sigo De Pie (En Vivo)",
-        "url": "https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ"
+        "name": "Ni\u00f1o De Oro (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
       },
       "artists": [
         {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 200187,
-      "name": "Sigo De Pie (En Vivo)",
-      "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
+      "duration_ms": 197653,
+      "name": "2A",
+      "url": "https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -785,6 +785,26 @@
       "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Sigo De Pie (En Vivo)",
+        "url": "https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 200187,
+      "name": "Sigo De Pie (En Vivo)",
+      "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
+    },
+    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "Nivelado",
@@ -799,26 +819,6 @@
       "duration_ms": 248117,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Ni\u00f1o De Oro (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "2A",
-      "url": "https://open.spotify.com/track/1edM1dwb4vTMefLpgLX3mj"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -969,6 +969,26 @@
       "url": "https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg"
     },
     {
+      "added_at": "2022-12-05 23:10:14",
+      "album": {
+        "name": "Somos de la Mayiza (El Checo)",
+        "url": "https://open.spotify.com/album/1aGbaVQ2bC4F1egBPyqN04"
+      },
+      "artists": [
+        {
+          "name": "Herencia Del Cartel",
+          "url": "https://open.spotify.com/artist/5oM5epBqQmd0FZlhJcpCdH"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 143683,
+      "name": "Somos de la Mayiza (El Checo)",
+      "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
+    },
+    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Tiempos de Guerra 2",
@@ -999,26 +1019,6 @@
       "duration_ms": 186069,
       "name": "El Gallo Fino",
       "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
-    },
-    {
-      "added_at": "2022-12-05 23:10:14",
-      "album": {
-        "name": "Somos de la Mayiza (El Checo)",
-        "url": "https://open.spotify.com/album/1aGbaVQ2bC4F1egBPyqN04"
-      },
-      "artists": [
-        {
-          "name": "Herencia Del Cartel",
-          "url": "https://open.spotify.com/artist/5oM5epBqQmd0FZlhJcpCdH"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 143683,
-      "name": "Somos de la Mayiza (El Checo)",
-      "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
     },
     {
       "added_at": "2022-12-05 23:10:14",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "En Cada Trago",
-        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "En Cada Trago",
-      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Sue\u00f1o Americano",
@@ -1175,6 +1159,22 @@
       "duration_ms": 134065,
       "name": "Sue\u00f1o Americano",
       "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "En Cada Trago",
+        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "duration_ms": 172645,
+      "name": "En Cada Trago",
+      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
       "added_at": "2022-10-14 05:00:00",

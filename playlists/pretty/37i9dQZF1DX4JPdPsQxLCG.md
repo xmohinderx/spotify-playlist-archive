@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,624 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,623 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 5 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
 | 6 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 7 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 |
-| 8 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 8 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
 | 9 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
 | 10 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
-| 11 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
+| 11 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 | 12 | [The Spark](https://open.spotify.com/track/2Tw18xvENjmh7MBPCJNBcP) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/6f6IZDYwtBOGjJZxBiRUhF) | 3:59 |
 | 13 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 14 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 39 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 |
 | 40 | [Everybody Knows](https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [I'm Your Man](https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9) | 5:34 |
 | 41 | [Insensitive](https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:15 |
-| 42 | [Sleeping Sickness](https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 4:08 |
-| 43 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
+| 42 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
+| 43 | [Sleeping Sickness](https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 4:08 |
 | 44 | [Go For Soda](https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Akimbo Alogo](https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO) | 3:25 |
 | 45 | [Lay It on the Line](https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Greatest Hits Remixed \(Deluxe Edition\)](https://open.spotify.com/album/5XDjmthwOECD5BczWlBkzA) | 4:06 |
 | 46 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 |
 | 47 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
 | 48 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line \(Deluxe\)](https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV) | 4:08 |
-| 49 | [Comin' Home](https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:05 |
-| 50 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
+| 49 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
+| 50 | [Comin' Home](https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:05 |
 | 51 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 |
 | 52 | [Innocent](https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Gravity](https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd) | 3:42 |
 | 53 | [New Girl Now](https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan) | [Honeymoon Suite](https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q) | [Honeymoon Suite](https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n) | 3:36 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 67 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
 | 68 | [Raise A Little Hell](https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Thick As Thieves](https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0) | 3:42 |
 | 69 | [Mama](https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [The Union](https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa) | 3:01 |
-| 70 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
-| 71 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 |
+| 70 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 |
+| 71 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
 | 72 | [Sweet Mountain River](https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Furiosity](https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER) | 3:49 |
 | 73 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 |
 | 74 | [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 |
 | 75 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 |
 
-Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMDRiZDUxNjE5NGE0MzRhOTZiZjFhZWZhZDNiMmU2ZmJk`
+Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMGU4ZDQxNDcyZTA4ZDRmOGQ5ZTQwYjFkMDEwZDAyZDVl`

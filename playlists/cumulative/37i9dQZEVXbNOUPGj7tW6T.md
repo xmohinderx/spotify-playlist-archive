@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-343 songs - 19 hr 38 min
+344 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2022-05-07 | 2022-12-04 |
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-21 | 2022-11-29 |
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-18 | 2022-12-20 |
-| [Dulcemente Enamorada](https://open.spotify.com/track/2reDTByBpxPYO4BneOi6yJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Las Mas Románticas](https://open.spotify.com/album/7JqgF4sdHS63HZwrY7NcxI) | 2:39 | 2021-12-26 |  |
+| [Dulcemente Enamorada](https://open.spotify.com/track/2reDTByBpxPYO4BneOi6yJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Las Mas Románticas](https://open.spotify.com/album/7JqgF4sdHS63HZwrY7NcxI) | 2:39 | 2021-12-26 | 2023-01-11 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-08-21 | 2022-08-26 |
 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 | 2021-03-27\* | 2022-05-08 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-10-23 |
@@ -346,6 +346,7 @@
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:19 | 2021-09-05 | 2021-10-17 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-26 |  |
 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 | 2021-07-31 | 2021-09-20 |
+| [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-01-10 |  |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-12-11 |
 | [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/track/4ncTUgTfUV3wrjTPzKvn01) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Yet To Come \(Hyundai Ver.\)](https://open.spotify.com/album/4TMlkDHtOb8ZlrGiy57xvH) | 3:43 | 2022-09-24 | 2022-10-03 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-09-15 |

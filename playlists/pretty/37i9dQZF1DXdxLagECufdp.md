@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,755 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,781 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 20 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
 | 21 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 22 | [La Violencia](https://open.spotify.com/track/2ZSh2anXpuTLC6utOkavyb) | [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Violencia](https://open.spotify.com/album/3YgJr7L4JQGqDvA7qwkzYm) | 3:10 |
-| 23 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 |
-| 24 | [A pic](https://open.spotify.com/track/229qb30DJB2xQM4Mgt3muY) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT) | [Radio Cortex 2](https://open.spotify.com/album/43okl0zDTPNLy226YoY58X) | 3:10 |
+| 23 | [A pic](https://open.spotify.com/track/229qb30DJB2xQM4Mgt3muY) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT) | [Radio Cortex 2](https://open.spotify.com/album/43okl0zDTPNLy226YoY58X) | 3:10 |
+| 24 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 |
 | 25 | [Djelem Djelem](https://open.spotify.com/track/03nCB2bLgZMahtLTtKk0pU) | [Barcelona Gipsy Klezmer Orchestra](https://open.spotify.com/artist/3PTfq1DY4qdmJaIySsHinw) | [Imbarca](https://open.spotify.com/album/19MmbEcj7NqppcIlQaaS32) | 4:52 |
 | 26 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 27 | [Asfalt Tango](https://open.spotify.com/track/56zs50f4ZqV1TMtzkw2oTc) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Baro Biao](https://open.spotify.com/album/51fzQZ94klHH5ToOVN6Uy3) | 6:12 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 38 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
 | 39 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
 | 40 | [Bubamara \(Main Version\)](https://open.spotify.com/track/6lFMUE3wCWMxw63N0GKeUJ) | [Dr Nele Karajlic](https://open.spotify.com/artist/6S93eD0WtHS03m2IdOdlsx) | [Muzika Iz Filma "Crna Macka Beli Macor"](https://open.spotify.com/album/5IbXHF05fEGWn70rtON4ZZ) | 3:55 |
-| 41 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 |
-| 42 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 |
+| 41 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 |
+| 42 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 |
 | 43 | [Khelipe Cheasa](https://open.spotify.com/track/0ejUrxuNZlxET3wuoepkXa) | [Boban i Marko Markovic Orkestar](https://open.spotify.com/artist/45NfIph232CCNfn07NoSbs) | [Devla](https://open.spotify.com/album/1w1BcVgQEOkWma7R7NhkFx) | 3:45 |
 | 44 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
 | 45 | [Adir Adirim \(feat\. Victoria Hanna\)](https://open.spotify.com/track/6VxSZtJSur7288x4F6Ky2S) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Victoria Hanna](https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:19 |
 | 46 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
-| 47 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
-| 48 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 47 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 48 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
 | 49 | [Misourlou](https://open.spotify.com/track/5oxVimkWhxcePBKHoLGGLz) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerson](https://open.spotify.com/album/3CnREo12brFqZFotExitha) | 6:57 |
 | 50 | [International Jet Set \- 2015 Remaster](https://open.spotify.com/track/7MrViz9E9dqO44F0PIbRI1) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [More Specials \(Deluxe Version\)](https://open.spotify.com/album/6ZaAmEOGxNs0L0xeduBc3S) | 5:38 |
 
-Snapshot ID: `MTY3MzA2MTU2NCwwMDAwMDAwMDI1NDg2MzgxNWMzNWVhNTBhOTU0Zjc5YTM3MDJjY2Rk`
+Snapshot ID: `MTY3MzA2MTU2NCwwMDAwMDAwMDdkNzI0YTdkYmYxZjUyYmJhMjE5N2MwNjNiYmM3NTll`

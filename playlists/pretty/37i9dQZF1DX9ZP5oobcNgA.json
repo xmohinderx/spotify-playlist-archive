@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 101849,
+  "num_followers": 101903,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDcwZTEzYzg0MDZjNmNjZTE4ZTgyNDUxYjQzMDVhMmI4",
+  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDA3ODRlYzMyNmE2MGExZTMwYTFiMTdhNGI0ZGFhMDA4",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -487,42 +487,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Acis and Galatea",
-        "url": "https://open.spotify.com/album/67FiEJLByVu4Wp6DMc1TQV"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Kym Amps",
-          "url": "https://open.spotify.com/artist/56oDszbm45yCU64AkDCjST"
-        },
-        {
-          "name": "Angus Davidson",
-          "url": "https://open.spotify.com/artist/6HteGO0FuB2L1ldQb4IEbO"
-        },
-        {
-          "name": "Robin Doveton",
-          "url": "https://open.spotify.com/artist/79X0t1rhkujwcqUg9wV8ns"
-        },
-        {
-          "name": "David van Asch",
-          "url": "https://open.spotify.com/artist/1pkHduzgfdb8ahbhAFZQl3"
-        },
-        {
-          "name": "The Scholars Baroque Ensemble",
-          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Acis and Galatea, HWV 49b: Sinfonia",
-      "url": "https://open.spotify.com/track/71pNhBvkgw48JAyQPymLbO"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel - Messiah and other works",
         "url": "https://open.spotify.com/album/2qlWVekqnJi8P20XdwT6z4"
       },
@@ -555,6 +519,42 @@
       "duration_ms": 255693,
       "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
       "url": "https://open.spotify.com/track/4tjILrO9lD8DC5ExpE520A"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Acis and Galatea",
+        "url": "https://open.spotify.com/album/67FiEJLByVu4Wp6DMc1TQV"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Kym Amps",
+          "url": "https://open.spotify.com/artist/56oDszbm45yCU64AkDCjST"
+        },
+        {
+          "name": "Angus Davidson",
+          "url": "https://open.spotify.com/artist/6HteGO0FuB2L1ldQb4IEbO"
+        },
+        {
+          "name": "Robin Doveton",
+          "url": "https://open.spotify.com/artist/79X0t1rhkujwcqUg9wV8ns"
+        },
+        {
+          "name": "David van Asch",
+          "url": "https://open.spotify.com/artist/1pkHduzgfdb8ahbhAFZQl3"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Acis and Galatea, HWV 49b: Sinfonia",
+      "url": "https://open.spotify.com/track/71pNhBvkgw48JAyQPymLbO"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
-        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "The Scholars Baroque Ensemble",
-          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
-        }
-      ],
-      "duration_ms": 334466,
-      "name": "Dixit Dominus Domino meo",
-      "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 314066,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
       "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
+        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "duration_ms": 334466,
+      "name": "Dixit Dominus Domino meo",
+      "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1151,6 +1151,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
+        "url": "https://open.spotify.com/album/1vaSnKicMO4nHHMY77vAlv"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Czidra",
+          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
+        },
+        {
+          "name": "P\u00e1l Kelemen",
+          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
+        },
+        {
+          "name": "Zsuzsa Pertis",
+          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
+      "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Peaceful Handel",
         "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
       },
@@ -1175,6 +1203,30 @@
       "duration_ms": 180133,
       "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
       "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water & Fireworks Music",
+        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Prague Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "duration_ms": 60480,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
+      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1227,58 +1279,6 @@
       "duration_ms": 261040,
       "name": "Gideon, Pt. 3: Air. Let the Trumpet's Sound Inviting",
       "url": "https://open.spotify.com/track/3pcjGfgnGS3TKuDdTpuOh4"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water & Fireworks Music",
-        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Prague Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "duration_ms": 60480,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
-      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
-        "url": "https://open.spotify.com/album/1vaSnKicMO4nHHMY77vAlv"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "L\u00e1szl\u00f3 Czidra",
-          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
-        },
-        {
-          "name": "P\u00e1l Kelemen",
-          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
-        },
-        {
-          "name": "Zsuzsa Pertis",
-          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
-      "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
     },
     {
       "added_at": "2022-06-28 08:56:25",

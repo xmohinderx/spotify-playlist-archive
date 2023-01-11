@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: The Panhandlers
 
-390 songs - 1 day 0 hr 0 min
+391 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Movin' On](https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Movin' On](https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6) | 3:47 | 2022-09-16 |  |
 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 | 2022-02-04 | 2022-06-11 |
 | [Never Wanted To Be That Girl \- Acoustic Version](https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl \(Acoustic Version\)](https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC) | 3:31 | 2022-01-07 | 2022-02-12 |
+| [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 | 2023-01-10 |  |
 | [No Mistakes](https://open.spotify.com/track/2PXCc6js8bDejt118mTfKk) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [No Mistakes](https://open.spotify.com/album/2NOEHe54jdS5JgyaVoggqd) | 2:52 | 2021-12-17 | 2022-02-12 |
 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 | 2022-08-05 |  |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-19 |  |

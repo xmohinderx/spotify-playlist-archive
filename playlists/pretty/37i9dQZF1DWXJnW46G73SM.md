@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,098 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,188 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Enta El Asl](https://open.spotify.com/track/35wZyDR2zaKlPRhT0x3sdt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enta El Asl](https://open.spotify.com/album/7vEmSTmBgz3fUaCVnjyf6H) | 2:57 |
+| 1 | [انت الأصل](https://open.spotify.com/track/35wZyDR2zaKlPRhT0x3sdt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انت الأصل](https://open.spotify.com/album/7vEmSTmBgz3fUaCVnjyf6H) | 2:57 |
 | 2 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 |
 | 3 | [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 |
 | 4 | [شوفت](https://open.spotify.com/track/11KqopQALDho8OLRARxdcS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB) | [شوفت](https://open.spotify.com/album/21y3qgHakvFl9iRhxMFvu9) | 3:39 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 7 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 |
 | 8 | [Aleb Fel Dafater](https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Aleb Fel Dafater](https://open.spotify.com/album/6yF1BKku71kjth4L1WEMYV) | 5:06 |
 | 9 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 |
-| 10 | [Ehna Fi Heta Tanya](https://open.spotify.com/track/2qf81ena3saXA1BHE9Kbxk) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ehna Fi Heta Tanya](https://open.spotify.com/album/3R4q4R8A2zdjMF1WavLYeS) | 3:18 |
+| 10 | [احنا في حتة تانية](https://open.spotify.com/track/2qf81ena3saXA1BHE9Kbxk) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [احنا في حتة تانية](https://open.spotify.com/album/3R4q4R8A2zdjMF1WavLYeS) | 3:18 |
 | 11 | [Cigara](https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:30 |
 | 12 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 |
 | 13 | [Ya Dayra](https://open.spotify.com/track/1zeJfLgJYRjCSQGl6mxdke) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ya Dayra](https://open.spotify.com/album/12YT8SErqyPtdaoc6XMEqu) | 3:26 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 17 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 |
 | 18 | [Aala Nesbet Moshahda](https://open.spotify.com/track/2OBwqwX6CeSRQcY6ZKheMz) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Aala Nesbet Moshahda](https://open.spotify.com/album/3sljedVT9NLvlY8qzp0u42) | 3:00 |
 | 19 | [Oulo Lelly Sab](https://open.spotify.com/track/7mMKakGmTepcWPiQd1TosA) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Oulo Lelly Sab](https://open.spotify.com/album/0ue1Fe0WglapZpWvcoMgZ5) | 3:16 |
-| 20 | [Ymken Kher](https://open.spotify.com/track/70pc3FZNGfIHJ2pnU4fJBA) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ymken Kher](https://open.spotify.com/album/21ollpdRxaKYtkDRxq8E7a) | 3:36 |
+| 20 | [يمكن خير](https://open.spotify.com/track/70pc3FZNGfIHJ2pnU4fJBA) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [يمكن خير](https://open.spotify.com/album/21ollpdRxaKYtkDRxq8E7a) | 3:36 |
 | 21 | [Ya Dayra \- Message Song Version](https://open.spotify.com/track/0WYrqy3tAKpKlOShwpWfoO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ya Dayra \(Message Song Version\)](https://open.spotify.com/album/769F7hOS4J3PDMufEAKg8d) | 1:02 |
 | 22 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 |
 | 23 | [Ehna Ka Banat](https://open.spotify.com/track/1JwwUI61nWdEPP4RCEyUKS) | [Mai Selim](https://open.spotify.com/artist/19SEEQWYMtQ1spkni19CCu) | [Ehna Ka Banat](https://open.spotify.com/album/1UKboLk9wvBfFmUmAN5t6t) | 2:58 |

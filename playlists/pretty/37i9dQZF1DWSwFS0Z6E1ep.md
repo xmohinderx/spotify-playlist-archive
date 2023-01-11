@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,819 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,013 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 59 | [Oh! Carol](https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:15 |
 | 60 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 |
 | 61 | [A Teenager In Love](https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:38 |
-| 62 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 |
-| 63 | [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 |
+| 62 | [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 |
+| 63 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 |
 | 64 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
 | 65 | [Splish Splash](https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Bobby Darin](https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB) | 2:11 |
 | 66 | [Friday On My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 71 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
 | 72 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 |
 | 73 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 |
-| 74 | [Papa Loves Mambo](https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Pure Gold](https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8) | 2:42 |
-| 75 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
+| 74 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
+| 75 | [Papa Loves Mambo](https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Pure Gold](https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8) | 2:42 |
 | 76 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
 | 77 | [Baby \(You've Got What It Takes\)](https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:45 |
-| 78 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 |
-| 79 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 |
+| 78 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 |
+| 79 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 |
 | 80 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Loving / Blues In F](https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0) | 2:58 |
 | 81 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
 | 82 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:02 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 149 | [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 |
 | 150 | [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 |
 
-Snapshot ID: `MTY2OTk2NTQ1MywwMDAwMDAwMGJmYTM4NmY1ZTZhMzg2MWRkZTJlNGEwYWNiZmE2MmU2`
+Snapshot ID: `MTY2OTk2NTQ1MywwMDAwMDAwMDQyNmM5NTBhOWRhNDRlZWVhZWNkNGVhZmIyN2VhYjJi`

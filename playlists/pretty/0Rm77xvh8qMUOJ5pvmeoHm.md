@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 
 > Get your 2023 started with these party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 193,470 likes - 90 songs - 5 hr 8 min
+[Topsify](https://open.spotify.com/user/topsify) - 193,463 likes - 90 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

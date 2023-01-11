@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-386 songs - 1 day 7 hr 16 min
+387 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 |  |
 | [Based On Gustav](https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9) | [Sir Roland Hanna Trio](https://open.spotify.com/artist/0nZO7OnpC74SRJQDxTWf7O) | [Apres Un Reve](https://open.spotify.com/album/1hbf0va1E55xuy2vssn0D3) | 6:36 | 2022-02-10 | 2022-11-21 |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-11-12 |  |
-| [Being There](https://open.spotify.com/track/3Tx609w6szOPbdas8CYdSt) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:11 | 2022-02-10 |  |
+| [Being There](https://open.spotify.com/track/3Tx609w6szOPbdas8CYdSt) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:11 | 2022-02-10 | 2023-01-11 |
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-12 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
@@ -306,6 +306,7 @@
 | [Stairway to the Stars](https://open.spotify.com/track/4XfFBYtS2QlwddTWzbxGGS) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:17 | 2022-10-06 | 2022-11-24 |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-11-12 |  |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-12 |  |
+| [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/08m95knJWmtWZ4xWwAFVoX) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 5:19 | 2022-04-14 | 2022-10-26 |
 | [Story II: Early Snow](https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy) | [Heiri Känzig](https://open.spotify.com/artist/0KBHDpk6syXYfN7DItgFDF) | [Five Stories](https://open.spotify.com/album/1ZwF41qmQptzg0FKm3mDEp) | 7:18 | 2022-03-10 | 2022-11-12 |
 | [Strays](https://open.spotify.com/track/3UvkApsnwcV9pQHfU5WASz) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6) | [Awareness](https://open.spotify.com/album/1DMLil6FOSdKNzRGWCCZiw) | 5:24 | 2022-02-10 | 2022-11-12 |

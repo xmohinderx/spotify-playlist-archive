@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: NewJeans
 
-302 songs - 16 hr 38 min
+304 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Be my](https://open.spotify.com/track/2KVjYR3u7p5MYXSX2BYxmq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:34 | 2022-11-03 | 2023-01-04 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-06-03 | 2022-08-19 |
 | [Beautiful \(Part.3\)](https://open.spotify.com/track/3xQH4yPHm6qVmV0JH7iaT5) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [B\-Side](https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu) | 3:54 | 2022-04-05 | 2022-05-27 |
+| [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-01-10 |  |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-08-05 | 2022-09-02 |
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-05-26 | 2022-07-29 |
 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-09-01 | 2022-11-11 |
@@ -213,6 +214,7 @@
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 | 2023-01-10 |
 | [Priority](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [2022 Winter SMTOWN : SMCU PALACE](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 3:34 | 2023-01-03 |  |
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-26 | 2022-07-29 |
+| [Puzzle](https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE PIECE OF9](https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo) | 3:36 | 2023-01-10 |  |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2022-04-05 | 2022-08-26 |
 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 | 2022-10-03 | 2022-11-11 |
 | [RECEIPTS \(Prod\. by Slom\)](https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:01 | 2022-11-03 | 2023-01-04 |

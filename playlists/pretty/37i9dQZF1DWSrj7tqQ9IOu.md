@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: blond
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,738 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,382 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 8 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 |
 | 9 | [Septembre](https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Septembre](https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6) | 3:24 |
 | 10 | [Everynight](https://open.spotify.com/track/2RZf85DlySSEutouUtotn6) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Everynight](https://open.spotify.com/album/79rUCbCs5fikaZhd1wry5a) | 3:07 |
-| 11 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Blowsom & Friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
+| 11 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
 | 12 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 |
 | 13 | [Toupies](https://open.spotify.com/track/2OjATTlZrAxGtQVQjec1Kj) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Catastrophe](https://open.spotify.com/artist/6bcVuNO2JKqacO1ITmA6jK) | [Toupies](https://open.spotify.com/album/6VNFDjMAcI947JJhzeEFEg) | 3:43 |
 | 14 | [Folle](https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:26 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 17 | [Septembre](https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Septembre](https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K) | 2:14 |
 | 18 | [Love](https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk) | [Nusky & Vaati](https://open.spotify.com/artist/4hQg3HQhXpqDWA0xi8rplg), [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Love](https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS) | 4:10 |
 | 19 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 |
-| 20 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 |
+| 20 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 |
 | 21 | [Honey Pot](https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Honey Pot](https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z) | 3:21 |
 | 22 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 |
 | 23 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Brain empty/heart fucked](https://open.spotify.com/track/5ZKsOqztR15ukpcFGSH8VW) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Brain empty/heart fucked](https://open.spotify.com/album/72P9MbmIOjmHql5eHn0djV) | 2:39 |
 | 50 | [Laisse moi te dire](https://open.spotify.com/track/4LhmxDjGI3yY03k7J9qJbP) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Laisse moi te dire](https://open.spotify.com/album/0nrLdwuDs1lnsa7ocVdoYY) | 3:05 |
 
-Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMGQ0NTI5MmI4MWVmNzU4YWJiZDEyY2E0MTQ4ZjZhYzJl`
+Snapshot ID: `MTY3MzM2OTAwMiwwMDAwMDAwMDZmNWI3MzgwZTA0ZDU2YmU0N2NlOGRhYmEyNTAyYTE3`

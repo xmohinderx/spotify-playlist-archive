@@ -4,7 +4,7 @@
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 18 min
+68 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [broKen NIGHT](https://open.spotify.com/track/6CDkzGTESwc9huctjalPLU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [broKen NIGHT / holLow wORlD](https://open.spotify.com/album/5Xqd1QR5Qeg5COX7IqQ1Co) | 4:56 | 2022-06-09 | 2022-12-26 |
 | [cold rain](https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 3:50 | 2022-06-11 | 2022-10-01 |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-09 |  |
+| [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 | 2023-01-10 |  |
 | [Even Heaven \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/00JEeogsyMdq0RL6BoJFdM) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 7:40 | 2022-09-30 | 2022-10-08 |
 | [ever after](https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 3:56 | 2022-06-09 |  |
 | [everlasting snow](https://open.spotify.com/track/1pS8rVJSUQUB5kZOMgXaA2) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "blanc"](https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq) | 5:37 | 2022-12-25 |  |
@@ -60,7 +61,7 @@
 | [六等星の夜](https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 5:38 | 2022-06-09 |  |
 | [六等星の夜 Magic Blue ver.](https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ONE / 花の唄 / 六等星の夜 Magic Blue ver.](https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN) | 5:50 | 2022-06-09 |  |
 | [地球儀](https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [地球儀](https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA) | 3:52 | 2022-06-15 |  |
-| [季路](https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [季路](https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA) | 5:52 | 2022-07-01 |  |
+| [季路](https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [季路](https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA) | 5:52 | 2022-07-01 | 2023-01-11 |
 | [思い出は奇麗で](https://open.spotify.com/track/3ei1nNNIVqST7wbZPUIjiK) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:29 | 2022-11-16 |  |
 | [星の消えた夜に \-rit\. ver.\-](https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 6:02 | 2022-06-09 |  |
 | [星屑ビーナス](https://open.spotify.com/track/1CAhaSy2odeJoPIkFndCIB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 4:12 | 2022-06-09 |  |

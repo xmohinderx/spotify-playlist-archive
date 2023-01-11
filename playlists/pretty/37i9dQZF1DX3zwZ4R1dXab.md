@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 28 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 |
 | 29 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
 | 30 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 |
-| 31 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 |
-| 32 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 |
+| 31 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 |
+| 32 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 |
 | 33 | [Early Hours](https://open.spotify.com/track/6FDWiY1Gy0DVhvYGtkLBCa) | [Sunset Chamber](https://open.spotify.com/artist/6xdDIOgbdCLHsDX4dcnSfI) | [Early Hours](https://open.spotify.com/album/0xpzjW3KD6Dy9sRk0IxPh5) | 3:02 |
 | 34 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 |
 | 35 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 48 | [Light in the Mist](https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 4:00 |
 | 49 | [Pragmatique](https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Pragmatique](https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc) | 2:00 |
 | 50 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 |
-| 51 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
-| 52 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
+| 51 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
+| 52 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
 | 53 | [While You Were Sleeping](https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 1:45 |
 | 54 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 |
 | 55 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 60 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
 | 61 | [Silverstar](https://open.spotify.com/track/5Gcrk6EV2cErGfyBsz9sVF) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Silverstar](https://open.spotify.com/album/5bIFCJp1sNpoik82ui7CUE) | 2:08 |
 | 62 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
-| 63 | [On a Clear Day](https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 1:59 |
-| 64 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 |
+| 63 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 |
+| 64 | [On a Clear Day](https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 1:59 |
 | 65 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
 | 66 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 |
 | 67 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 74 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 |
 | 75 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 |
 
-Snapshot ID: `MTY3MTQzOTUzMCwwMDAwMDAwMDFhM2NiYTRjNDI2ZTJlM2U1MDg2MjIzZDViNDUzYTNh`
+Snapshot ID: `MTY3MTQzOTUzMCwwMDAwMDAwMDljNmIxZDZkMzQ3MTY0MmIxZmFmM2E5ZDUwNGFkNTdk`

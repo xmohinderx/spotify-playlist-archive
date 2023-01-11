@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > L'autoroute des tubes français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,205 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,278 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,21 +38,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 28 | [Le reste](https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:38 |
 | 29 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 |
 | 30 | [Ulysse](https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7) | [Ridan](https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz) | [L'Ange De Mon Démon](https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0) | 3:39 |
-| 31 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 |
-| 32 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
+| 31 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
+| 32 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 |
 | 33 | [Gabrielle](https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Derrière l'amour](https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e) | 2:53 |
 | 34 | [La belle vie](https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 2:03 |
-| 35 | [Coup de soleil](https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Coup de soleil](https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK) | 2:42 |
-| 36 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
-| 37 | [Tu me Play](https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 2:44 |
-| 38 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
+| 35 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
+| 36 | [Coup de soleil](https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Coup de soleil](https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK) | 2:42 |
+| 37 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
+| 38 | [Tu me Play](https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 2:44 |
 | 39 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 |
 | 40 | [1987](https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Liberté chérie](https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC) | 3:46 |
 | 41 | [Que Dieu me pardonne](https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 3:31 |
 | 42 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
 | 43 | [Bonne idée](https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 3:27 |
-| 44 | [À nos héros du quotidien](https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Phoenix](https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu) | 3:53 |
-| 45 | [Il est où le bonheur](https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [L'attrape\-rêves](https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI) | 4:10 |
+| 44 | [Il est où le bonheur](https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [L'attrape\-rêves](https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI) | 4:10 |
+| 45 | [À nos héros du quotidien](https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Phoenix](https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu) | 3:53 |
 | 46 | [C'est une belle journée](https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Histoires de](https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG) | 4:16 |
 | 47 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
 | 48 | [Non non rien n'a changé](https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m) | [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC) | [Les Annees Barclay](https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm) | 3:09 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 65 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
 | 66 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
 | 67 | [Le temps passe](https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 3:15 |
-| 68 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
-| 69 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
+| 68 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
+| 69 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
 | 70 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 71 | [Emmène\-moi](https://open.spotify.com/track/2Ji7vtyxrzN3ZlxDzm3MX4) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Bruxelles](https://open.spotify.com/album/5znqZbAnfZtufdkJEyMcNN) | 3:18 |
 | 72 | [Jimmy](https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B), [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 79 | [La vie ne vaut rien](https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Collection](https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol) | 3:36 |
 | 80 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
 
-Snapshot ID: `MTY3MDQwNDE1MSwwMDAwMDAwMGYyZTA1NDY4YTY1NDhlZmE0ODU0MGRkNjQ0ZTg1MzNk`
+Snapshot ID: `MTY3MDQwNDE1MSwwMDAwMDAwMGUyYzFmNTAxZjY3Zjg2NDU5NWUwN2UwZjIwZDQyYTU4`

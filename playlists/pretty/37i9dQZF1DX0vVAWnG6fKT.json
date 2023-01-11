@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 120114,
+  "num_followers": 120228,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMGEzYTY2OTE2NTA2YTU5YTFhNjI1ZmJmZTFmZjU2NDQz",
+  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMDhiNDljZDFhODJlNDRhYmEzNjI3Y2RlZTU4YzBjMzY0",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Stars Of The Midnight Range",
-      "url": "https://open.spotify.com/track/4VBC10x8gSghWkdJQ6Ygwl"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Songs Of The Brazos Valley",
         "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 164520,
       "name": "The Wild Side Of Life",
       "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Stars Of The Midnight Range",
+      "url": "https://open.spotify.com/track/4VBC10x8gSghWkdJQ6Ygwl"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Retrospective, Vol. 1",
-        "url": "https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd"
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
       },
       "artists": [
         {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
         }
       ],
-      "duration_ms": 159266,
-      "name": "Walking The Floor Over You - 1941 Edit",
-      "url": "https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9"
+      "duration_ms": 98066,
+      "name": "Headin' Down The Wrong Highway",
+      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+        "name": "Retrospective, Vol. 1",
+        "url": "https://open.spotify.com/album/3NBmNvF2zHDafsRjPejumd"
       },
       "artists": [
         {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
         }
       ],
-      "duration_ms": 98066,
-      "name": "Headin' Down The Wrong Highway",
-      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
+      "duration_ms": 159266,
+      "name": "Walking The Floor Over You - 1941 Edit",
+      "url": "https://open.spotify.com/track/7vDYwBSPs5Wpn3XI6oqMM9"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Hank Snow",
-        "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
-      },
-      "artists": [
-        {
-          "name": "Hank Snow",
-          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
-        }
-      ],
-      "duration_ms": 165453,
-      "name": "The Golden Rocket",
-      "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 148733,
       "name": "Roly-Poly",
       "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
+      },
+      "artists": [
+        {
+          "name": "Hank Snow",
+          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
+        }
+      ],
+      "duration_ms": 165453,
+      "name": "The Golden Rocket",
+      "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Kentucky Waltz",
-      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Rhythm & Booze",
         "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 164506,
       "name": "Beer Drinking Blues",
       "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Kentucky Waltz",
+      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Copasetic",
-        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Copas",
-          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Filipino Baby",
-      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "16 Great Songs of the Old West",
         "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 137856,
       "name": "Whopee Ti Yi Yo",
       "url": "https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Copasetic",
+        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Copas",
+          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Filipino Baby",
+      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
     },
     {
       "added_at": "2023-01-02 21:50:32",

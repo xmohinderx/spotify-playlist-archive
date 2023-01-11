@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 96554,
+  "num_followers": 96576,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGQ2NDlhZjcxNDI5MWQ2NWYxYzY3MGRjMzMwZTk3NGU5",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDZmMjI3ZjM5ZDlhYTg4ZjlkNWUyY2E0ZDQ2ZTc1ZjBj",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        }
+      ],
+      "duration_ms": 75813,
+      "name": "Cups - Movie Version",
+      "url": "https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Under the Influence: Holiday Edition",
         "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 160840,
       "name": "Text Me Merry Christmas (feat. Kristen Bell)",
       "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        }
-      ],
-      "duration_ms": 75813,
-      "name": "Cups - Movie Version",
-      "url": "https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Six Pack: Volume 2",
-        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
+        "name": "Full Coverage",
+        "url": "https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "On The Rocks",
+          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
         }
       ],
-      "duration_ms": 213880,
-      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
-      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
+      "duration_ms": 201080,
+      "name": "Stacey's Mom",
+      "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Full Coverage",
-        "url": "https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ"
+        "name": "Six Pack: Volume 2",
+        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
       },
       "artists": [
         {
-          "name": "On The Rocks",
-          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
         }
       ],
-      "duration_ms": 201080,
-      "name": "Stacey's Mom",
-      "url": "https://open.spotify.com/track/2REesWs353uf4aQz09I2HG"
+      "duration_ms": 213880,
+      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
+      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
     },
     {
       "added_at": "2021-12-24 05:00:00",

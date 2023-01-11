@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-377 songs - 22 hr 4 min
+378 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Aurora](https://open.spotify.com/track/0D2DNDEPGRTyCMtY5bS8Fr) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Aurora](https://open.spotify.com/album/3lURphuvwepjcCT8Dtqwwg) | 3:10 | 2022-06-22 | 2022-09-07 |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
+| [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 |  |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
 | [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 | 2022-09-23 |
 | [Bad Habits](https://open.spotify.com/track/700H13fA0yvHTxLlaTFw0X) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Mike Robert](https://open.spotify.com/artist/32CfvJx4uPDyBZ8PFzEQe8) | [Bad Habits](https://open.spotify.com/album/5gglMONUNcpPxnr7S5jpUa) | 2:58 | 2022-11-24 |  |
@@ -91,7 +92,7 @@
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
-| [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 |  |
+| [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 | 2022-12-17 |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 | 2022-08-12 | 2022-10-26 |

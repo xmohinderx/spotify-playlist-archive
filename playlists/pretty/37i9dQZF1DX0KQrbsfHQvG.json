@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 169091,
+  "num_followers": 169149,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDlhYzIyNGYzNTE3NDM3MzhjNjhhOTlmNTEyN2M4NTk3",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGM5MmJiZjU4YTgwNDY1NzJjYTc0MjY3NTNjYjA0MzJk",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "WRONG GENERATION",
+        "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "WRONG GENERATION",
+      "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Foreign Language",
         "url": "https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 112305,
       "name": "Power (feat. Frank Carter)",
       "url": "https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "WRONG GENERATION",
-        "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "WRONG GENERATION",
-      "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
     },
     {
       "added_at": "2022-11-04 04:00:00",

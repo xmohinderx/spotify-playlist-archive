@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: SZA",
-  "num_followers": 183821,
+  "num_followers": 184152,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTI2MCwwMDAwMDAwMGY1YTUzYWQ3YWNkNWEwYjY3NjVlZTI4YmU4NWUzM2Ni",
+  "snapshot_id": "MTY3Mjk4MTI2MCwwMDAwMDAwMGM0YzUwNzhjZWU4NTEzZGRjYWY4MjE0MTQxMThmMWQ3",
   "tracks": [
     {
       "added_at": "2022-12-29 03:07:01",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-12-29 03:07:01",
       "album": {
-        "name": "Wild Side (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209476,
-      "name": "Wild Side (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
-    },
-    {
-      "added_at": "2022-12-29 03:07:01",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
+    },
+    {
+      "added_at": "2022-12-29 03:07:01",
+      "album": {
+        "name": "Wild Side (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Wild Side (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
     },
     {
       "added_at": "2022-12-29 03:07:01",
@@ -1517,7 +1517,7 @@
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
     },
     {
-      "added_at": "2023-01-10 01:22:58",
+      "added_at": "2023-01-11 01:22:52",
       "album": {
         "name": "Hate Our Love (with Big Sean)",
         "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-12-29 03:07:01",
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
+    },
+    {
+      "added_at": "2022-12-29 03:07:01",
+      "album": {
         "name": "The Lead",
         "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2022-12-29 03:07:01",
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
-    },
-    {
-      "added_at": "2022-12-29 03:07:01",
-      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
       },
@@ -1711,6 +1711,26 @@
       "duration_ms": 186432,
       "name": "raw",
       "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
+    },
+    {
+      "added_at": "2022-12-29 03:07:01",
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
       "added_at": "2022-12-29 03:07:01",
@@ -1823,26 +1843,6 @@
       "duration_ms": 190111,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
-    },
-    {
-      "added_at": "2022-12-29 03:07:01",
-      "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 183219,
-      "name": "BELIEVE IT",
-      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
       "added_at": "2022-12-29 03:07:01",

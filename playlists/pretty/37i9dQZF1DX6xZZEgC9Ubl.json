@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: Pardyalone",
-  "num_followers": 1410864,
+  "num_followers": 1412118,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMGIwY2JiYjVhM2UzNzJlNmMxYTVkZDI5OGNlNDRmM2Qy",
+  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMGRiZDBiMTFkNWU4YWE3NGI1NjliNmM3YjQyMWVhZTU1",
   "tracks": [
     {
       "added_at": "2022-12-16 17:00:00",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "right here",
+        "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Horsehead",
+          "url": "https://open.spotify.com/artist/13MwFjr6LL8GwK7wlfIL6t"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Love Is the Same as Sadness",
         "url": "https://open.spotify.com/album/4JcORch57yBGLItxgest7E"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 87411,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "right here",
-        "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "Horsehead",
-          "url": "https://open.spotify.com/artist/13MwFjr6LL8GwK7wlfIL6t"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
+      },
+      "artists": [
+        {
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
+        }
+      ],
+      "duration_ms": 87408,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "why am i crying",
         "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "dream girl",
-        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
-      },
-      "artists": [
-        {
-          "name": "8percent",
-          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
-        }
-      ],
-      "duration_ms": 87408,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Can't Love Myself",
-        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
-      },
-      "artists": [
-        {
-          "name": "Monty Datta",
-          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 122723,
-      "name": "Can't Love Myself",
-      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 134608,
       "name": "Memory",
       "url": "https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Can't Love Myself",
+        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
+      },
+      "artists": [
+        {
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 122723,
+      "name": "Can't Love Myself",
+      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
     },
     {
-      "added_at": "2022-12-02 18:50:29",
-      "album": {
-        "name": "LIVE FOREVER",
-        "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 111506,
-      "name": "angeldust",
-      "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
-    },
-    {
       "added_at": "2023-01-06 06:05:00",
       "album": {
         "name": "THE WORLD IS ENDING",
@@ -1127,6 +1111,22 @@
       "duration_ms": 218859,
       "name": "THE WORLD IS ENDING",
       "url": "https://open.spotify.com/track/4EzKIwes85sqrfmhto8b6x"
+    },
+    {
+      "added_at": "2022-12-02 18:50:29",
+      "album": {
+        "name": "LIVE FOREVER",
+        "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 111506,
+      "name": "angeldust",
+      "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
-      },
-      "artists": [
-        {
-          "name": "Thekidszn",
-          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
-        }
-      ],
-      "duration_ms": 136776,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "DIE BOUT IT",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "duration_ms": 136776,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 150702,
       "name": "Sad Nibba Hours",
       "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Anarchy",
+        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
+      },
+      "artists": [
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "duration_ms": 185886,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 151318,
       "name": "Fuck Around and Find Out (feat. $NOT)",
       "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Anarchy",
-        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
-      },
-      "artists": [
-        {
-          "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
-        }
-      ],
-      "duration_ms": 185886,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
     },
     {
       "added_at": "2022-10-07 04:18:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,071 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,267 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 6 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
 | 7 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 8 | [Mr\. Vain](https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Serenity](https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO) | 5:36 |
-| 9 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
-| 10 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
+| 9 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
+| 10 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
 | 11 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 |
 | 12 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
 | 13 | [Get Get Down](https://open.spotify.com/track/4h4AEqy0iBbjdlbtWvIx5O) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/1ND1coyFl0AIA9D5OujGgg) | 6:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 47 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/1b7tJQyJvzAcbDI8I3A2Bf) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Rock The House](https://open.spotify.com/album/52UtxXOfjs1RzOyS2TKYD8) | 4:49 |
 | 48 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 |
 | 49 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da Da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 |
-| 50 | [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 |
+| 50 | [Pool Party Music](https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex) | 6:07 |
 
-Snapshot ID: `MTY2MjY1NzU5OCwwMDAwMDAwMDJmNGJiOGJmMGFjNzliZGI1OTFiZTFmNzEwNzZkOWQ3`
+Snapshot ID: `MTY2MjY1NzU5OCwwMDAwMDAwMDY3NTI5MTI2OGIzOWUwODUzYzZjZDI5NDUzZTI3ZmQx`

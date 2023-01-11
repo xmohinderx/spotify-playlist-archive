@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 111641,
+  "num_followers": 111661,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGIwZWE4NWRjNzc5NTdiZGUxMjg4ODJiMGJlYmUxNzRm",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDUxYjUyZjY1NGJhMWQwNzNkMmRmNmJmYjM4NjUxYWQw",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -431,18 +431,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Originals",
-        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
       "artists": [
         {
-          "name": "Music Travel Love",
-          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 205498,
-      "name": "Hold onto Me",
-      "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -463,6 +467,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Originals",
+        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+      },
+      "artists": [
+        {
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+        }
+      ],
+      "duration_ms": 205498,
+      "name": "Hold onto Me",
+      "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Like It Ain't (Stripped)",
         "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 156690,
       "name": "Like It Ain't - Stripped",
       "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Wild as Her (feat. Carter Faith) [Acoustic One-Take]",
         "url": "https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213600,
       "name": "Wild as Her (feat. Carter Faith) - Acoustic One-Take",
       "url": "https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Truth About You (Piano Version)",
+        "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 205663,
+      "name": "Truth About You - Piano Version",
+      "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 157143,
       "name": "Dirt Road - Nashville Session",
       "url": "https://open.spotify.com/track/7HbRlzxSl4zjaY75QNJ169"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Truth About You (Piano Version)",
-        "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 205663,
-      "name": "Truth About You - Piano Version",
-      "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Studio 900 Sessions",
-        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 185847,
-      "name": "Waiting For You - Acoustic",
-      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Slow Dance In A Parking Lot (Acoustic)",
         "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 178285,
       "name": "Slow Dance In A Parking Lot - Acoustic",
       "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Studio 900 Sessions",
+        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 185847,
+      "name": "Waiting For You - Acoustic",
+      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Take My Name (Wedding Version)",
         "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 174133,
       "name": "Take My Name - Wedding Version",
       "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "At the End of a Bar (Acoustic)",
         "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 182327,
       "name": "At the End of a Bar - Acoustic",
       "url": "https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "12/12 (Acoustic)",
-        "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
+        "name": "Just About Over You (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
       },
       "artists": [
         {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        },
-        {
-          "name": "Lauren Weintraub",
-          "url": "https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq"
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 179908,
-      "name": "I Didn't Love You",
-      "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
+      "duration_ms": 188026,
+      "name": "Just About Over You - Acoustic Version",
+      "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Just About Over You (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
+        "name": "12/12 (Acoustic)",
+        "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
       },
       "artists": [
         {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
+        {
+          "name": "Lauren Weintraub",
+          "url": "https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq"
         }
       ],
-      "duration_ms": 188026,
-      "name": "Just About Over You - Acoustic Version",
-      "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
+      "duration_ms": 179908,
+      "name": "I Didn't Love You",
+      "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1527,42 +1527,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Thought This Through",
-        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
-      },
-      "artists": [
-        {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
-        }
-      ],
-      "duration_ms": 172663,
-      "name": "Thought This Through",
-      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "What A Song Can Do (Stripped Down)",
-        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "What A Song Can Do - Stripped Down",
-      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Hard Things",
         "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
       },
@@ -1579,18 +1543,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Hood of That Car (Piano Version)",
-        "url": "https://open.spotify.com/album/12nCYe2HpuY6UY5Brn9gWu"
+        "name": "What A Song Can Do (Stripped Down)",
+        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Hood of That Car - Piano Version",
-      "url": "https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK"
+      "duration_ms": 237080,
+      "name": "What A Song Can Do - Stripped Down",
+      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1623,6 +1587,42 @@
       "duration_ms": 222352,
       "name": "Loved Me That Way (stripped)",
       "url": "https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Thought This Through",
+        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "duration_ms": 172663,
+      "name": "Thought This Through",
+      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Hood of That Car (Piano Version)",
+        "url": "https://open.spotify.com/album/12nCYe2HpuY6UY5Brn9gWu"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Hood of That Car - Piano Version",
+      "url": "https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK"
     },
     {
       "added_at": "2023-01-06 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,508 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 27 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 |
 | 28 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 |
 | 29 | [Diana](https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:52 |
-| 30 | [Balance](https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:01 |
+| 30 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
 | 31 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 |
-| 32 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
+| 32 | [Balance](https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:01 |
 | 33 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 |
 | 34 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
 | 35 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 54 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 |
 | 55 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 |
 | 56 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 |
-| 57 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
-| 58 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 |
+| 57 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 |
+| 58 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
 | 59 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 |
 | 60 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 |
 | 61 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 77 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
 | 78 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 |
 | 79 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 |
-| 80 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 |
+| 80 | [If I Get Caught](https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 |
 
-Snapshot ID: `MTY3MTM1OTIwMCwwMDAwMDAwMDdhZjM0YzJjNGI5Y2VkNDQ3MGVjOTk2NDgxMTI0Yjg0`
+Snapshot ID: `MTY3MTM1OTIwMCwwMDAwMDAwMDNjMGVlNDU3NDMxNmU5MjQ4MWZmMjQ1NTRhNThkNzNh`

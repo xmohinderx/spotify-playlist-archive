@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,354 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,531 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 92 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
 | 93 | [No Me Canso](https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Abierto](https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM) | 4:38 |
 | 94 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
-| 95 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 |
+| 95 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
 | 96 | [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 |
-| 97 | [Amor del Bo](https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Amor del Bo](https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA) | 2:19 |
-| 98 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
-| 99 | [Conviene Saber \(feat\. Rozalén\)](https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Conviene Saber \(feat\. Rozalén\)](https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU) | 4:10 |
+| 97 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 |
+| 98 | [Conviene Saber \(feat\. Rozalén\)](https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Conviene Saber \(feat\. Rozalén\)](https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU) | 4:10 |
+| 99 | [Amor del Bo](https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Amor del Bo](https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA) | 2:19 |
 | 100 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 |
 
-Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMDdkNmE0ZGYwZWIwYzkxMmI5YjZmYmZlNDM0OTgxYWQx`
+Snapshot ID: `MTY3MTc1MDAwMCwwMDAwMDAwMDQyYzFmY2IxMjA4NjhmOWI1ZTA3YWYxODQwMWM0NWVh`

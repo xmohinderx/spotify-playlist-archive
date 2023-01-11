@@ -1,12 +1,12 @@
 {
   "description": "I think my life might be better if I lived in Colorado? Cover: Rene\u00e9 Rapp",
-  "num_followers": 1446849,
+  "num_followers": 1447093,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDFjN2MyMmYzZGE2MzMzZGEyNWJhNzdhOGNjMzNjZjA1",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDZmNjBmY2JmMmVjNmZhMTZlMzE3NzFmNmViOTVkNDNl",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1nnyYFtJHwVbph84SctOtC"
     },
     {
-      "added_at": "2023-01-10 00:45:07",
+      "added_at": "2023-01-11 00:42:13",
       "album": {
         "name": "Ugly Crier",
         "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
-      "added_at": "2023-01-10 00:45:07",
+      "added_at": "2023-01-11 00:42:13",
       "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Everything To Everyone",
         "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 156631,
       "name": "Too Well",
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Rx",
-        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "neverletyougo",
-      "url": "https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "neverletyougo",
+      "url": "https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Shit Show",
-        "url": "https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Shit Show",
-      "url": "https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Cyclone",
         "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
       },
@@ -1319,50 +1303,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+        "name": "Shit Show",
+        "url": "https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
         }
       ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "madhouse",
-        "url": "https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 125720,
-      "name": "madhouse",
-      "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "happy f***ing birthday",
-        "url": "https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "happy f***ing birthday",
-      "url": "https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4"
+      "duration_ms": 200080,
+      "name": "Shit Show",
+      "url": "https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1383,6 +1335,38 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "happy f***ing birthday",
+        "url": "https://open.spotify.com/album/7AJV5iSnexDnam2InfRQNR"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "happy f***ing birthday",
+      "url": "https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Happening Again",
         "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173951,
       "name": "Happening Again",
       "url": "https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "madhouse",
+        "url": "https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 125720,
+      "name": "madhouse",
+      "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "The Problem Song",
-        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7qOX8bMACIwT1T2wGRNj08"
       },
       "artists": [
         {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+          "name": "Max Drazen",
+          "url": "https://open.spotify.com/artist/2gxdQj1Dy77p45uTuve030"
         }
       ],
-      "duration_ms": 157570,
-      "name": "The Problem Song",
-      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+      "duration_ms": 146564,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 169000,
       "name": "Self Dysmorphia",
       "url": "https://open.spotify.com/track/4XxNQ8VlWCDT6kEwWDuW4u"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7qOX8bMACIwT1T2wGRNj08"
-      },
-      "artists": [
-        {
-          "name": "Max Drazen",
-          "url": "https://open.spotify.com/artist/2gxdQj1Dy77p45uTuve030"
-        }
-      ],
-      "duration_ms": 146564,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Did It Hurt?",
-        "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
-      },
-      "artists": [
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 164566,
-      "name": "Did It Hurt?",
-      "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 212946,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Did It Hurt?",
+        "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "Did It Hurt?",
+      "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 144280,
       "name": "Into My Body",
       "url": "https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Love You When You\u2019re Gone",
-        "url": "https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "Love You When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G"
       },
@@ -1903,22 +1903,6 @@
       "duration_ms": 129343,
       "name": "ExBox",
       "url": "https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Sex In Public",
-        "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
-      },
-      "artists": [
-        {
-          "name": "Menna",
-          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
-        }
-      ],
-      "duration_ms": 143531,
-      "name": "Sex In Public",
-      "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1951,6 +1935,22 @@
       "duration_ms": 198139,
       "name": "gentle",
       "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Sex In Public",
+        "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
+      },
+      "artists": [
+        {
+          "name": "Menna",
+          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
+        }
+      ],
+      "duration_ms": 143531,
+      "name": "Sex In Public",
+      "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "ELIO'S INFERNO (deluxe)",
-        "url": "https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Rich Like That - deluxe",
-      "url": "https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "healing hurts",
         "url": "https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 178679,
       "name": "never got better",
       "url": "https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "ELIO'S INFERNO (deluxe)",
+        "url": "https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "duration_ms": 141575,
+      "name": "Rich Like That - deluxe",
+      "url": "https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/3eVCwZNAC04pBYjnx2ITLF"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 174552,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/2DhYQXK6ZkOTB1665GTagQ"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "I Hate Cardio",
         "url": "https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 209913,
       "name": "I Hate Cardio",
       "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/3eVCwZNAC04pBYjnx2ITLF"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "duration_ms": 174552,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2DhYQXK6ZkOTB1665GTagQ"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "pl4yg1rl",
-        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "pl4yg1rl",
-      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 174146,
       "name": "Mouthwash",
       "url": "https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "pl4yg1rl",
+        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "pl4yg1rl",
+      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2255,6 +2255,22 @@
       "duration_ms": 179104,
       "name": "Not Because I Loved You",
       "url": "https://open.spotify.com/track/5TYsUOzefxh91dDPsGpSrW"
+    },
+    {
+      "added_at": "2023-01-11 00:42:13",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/3qVqJaNTwXt7wKfoiodAif"
+      },
+      "artists": [
+        {
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5QgGskSF5QeTPl99cg9KFz"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2315,22 +2331,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Smoke Signal",
-        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
-      },
-      "artists": [
-        {
-          "name": "Olivia Knox",
-          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Smoke Signal",
-      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Swing!",
         "url": "https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD"
       },
@@ -2345,20 +2345,20 @@
       "url": "https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB"
     },
     {
-      "added_at": "2023-01-10 00:45:07",
+      "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/3qVqJaNTwXt7wKfoiodAif"
+        "name": "Smoke Signal",
+        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
       },
       "artists": [
         {
-          "name": "Dava",
-          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
+          "name": "Olivia Knox",
+          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
         }
       ],
-      "duration_ms": 154400,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5QgGskSF5QeTPl99cg9KFz"
+      "duration_ms": 152727,
+      "name": "Smoke Signal",
+      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
     },
     {
       "added_at": "2022-12-23 05:00:00",

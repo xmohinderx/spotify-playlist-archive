@@ -4,7 +4,7 @@
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-51 songs - 2 hr 49 min
+52 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 | 2022-11-30 |  |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-11-30 |  |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-11-30 |  |
-| [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-11-30 |  |
+| [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-11-30 | 2023-01-11 |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-11-30 |  |
 | [Fall Into Me](https://open.spotify.com/track/1iA7DyrJbukpd4X2EcT9Xd) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:51 | 2022-11-30 |  |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-11-30 |  |
@@ -59,5 +59,6 @@
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-11-30 |  |
 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 | 2022-11-30 |  |
 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 | 2022-11-30 |  |
+| [Within The Boundaries](https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 3:16 | 2022-11-30 |  |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de esta cumbia! Cover: Los Ángeles Azules.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,574 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,637 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 13 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
 | 14 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
 | 15 | [El Chico Del Apartamento 512](https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:28 |
-| 16 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
-| 17 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
+| 16 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
+| 17 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
 | 18 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
 | 19 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
 | 20 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 48 | [Mariana](https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW) | [Grupo Fragancia](https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj) | [Los Mejores Hits del Ano](https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV) | 3:17 |
 | 49 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 |
 | 50 | [Destilando Amor](https://open.spotify.com/track/4aeteklsGBPXRfZPKN4NS5) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 3:39 |
-| 51 | [Oye Traicionera](https://open.spotify.com/track/5DLCicaLhdpkDYCMmhy0pT) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Las Puertas del Cielo](https://open.spotify.com/album/2v3ywlWkUau8iq77G5rdz9) | 3:16 |
-| 52 | [Fuego](https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir) | [Fuego](https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne) | 3:39 |
+| 51 | [Fuego](https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir) | [Fuego](https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne) | 3:39 |
+| 52 | [Oye Traicionera](https://open.spotify.com/track/5DLCicaLhdpkDYCMmhy0pT) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Las Puertas del Cielo](https://open.spotify.com/album/2v3ywlWkUau8iq77G5rdz9) | 3:16 |
 | 53 | [Que nadie sepa mi sufrir \(Amor de mis amores\)](https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Zaida y su Sonora La Tremenda](https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:19 |
 | 54 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 |
 | 55 | [El Piropo \- Versión Sonidera](https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [La Cumbia de la Cerveza](https://open.spotify.com/track/12CjTBrIidxLSgam2iOw2o) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Grandes Exitos Originales](https://open.spotify.com/album/0AhjOKoGXJiGqt9MJ3PAUP) | 2:47 |
 | 100 | [Cumbia Valledupar](https://open.spotify.com/track/7r2W5f8W70eGz2DlOD7S5g) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Cumbia Valledupar](https://open.spotify.com/album/3GZ1KTKbHZ5QFAXx0Thjtp) | 4:18 |
 
-Snapshot ID: `MTY3MzI0NjEyOCwwMDAwMDAwMGZhNGFiYjkxNWU2ZDQ1ZmUxODExMjMyNWU4ZDJjNzkw`
+Snapshot ID: `MTY3MzI0NjEyOCwwMDAwMDAwMGY4ZjcwYTg0NWYxMTZhZjU4Y2RiN2NkZTI3ZjllYjkz`

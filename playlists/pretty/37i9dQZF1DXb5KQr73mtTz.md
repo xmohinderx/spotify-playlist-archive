@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,870 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,889 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 3 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 |
 | 4 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 |
 | 5 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 |
-| 6 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
-| 7 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
+| 6 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
+| 7 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
 | 8 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 9 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
 | 10 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 45 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 |
 | 46 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
 | 47 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
-| 48 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 |
-| 49 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
-| 50 | [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 |
+| 48 | [Dolls](https://open.spotify.com/track/4WgAxRROt1CI5sh3qqh2mP) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Again,Star \#01](https://open.spotify.com/album/22kTojFqWSb9RMyiFLL5YQ) | 2:58 |
+| 49 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 |
+| 50 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
 
-Snapshot ID: `MTY3MjA0Njg0MSwwMDAwMDAwMGExNDFkZmY2YTRlNmI1NzZhOWI2MGUyYzY3MmQ5OWYy`
+Snapshot ID: `MTY3MzM0MDA4NywwMDAwMDAwMDQ0NTk0NzMzNWU5NmRhMzk5NzE2NGY1MjVhMzJlOWRk`

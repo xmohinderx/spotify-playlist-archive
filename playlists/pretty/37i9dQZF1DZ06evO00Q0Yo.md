@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,774 likes - 43 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,785 likes - 42 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 21 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 |
 | 22 | [F.N.G.M.](https://open.spotify.com/track/1Dzr6fYP7xU0DHD4U7C6WG) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 1:54 |
 | 23 | [Pockets Bigger](https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 1:46 |
-| 24 | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/track/2kzEf3Bg7S43YuSFPI3462) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/album/3rNyJVQPRgctJUoonHIfNf) | 2:56 |
-| 25 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/3Icnj3FRBYCl2m2hF6cATP) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/album/23RCHE9lTRvu3mBUvemcYZ) | 2:58 |
+| 24 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/3Icnj3FRBYCl2m2hF6cATP) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/album/23RCHE9lTRvu3mBUvemcYZ) | 2:58 |
+| 25 | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/track/2kzEf3Bg7S43YuSFPI3462) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/album/3rNyJVQPRgctJUoonHIfNf) | 2:56 |
 | 26 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
 | 27 | [Like That Bitch](https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:23 |
 | 28 | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/track/206CWNlXy1wLw3nchSDWJA) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Element \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/2J48yzicpveqFUaKRWWkq1) | 3:36 |
@@ -50,6 +50,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 40 | [Blast Off \(feat\. Akbar V\) \- from the "Bruised" Soundtrack](https://open.spotify.com/track/5eNCui74eGe5ARFIMDwPFt) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw) | [Blast Off \(feat\. Akbar V\) \[from the "Bruised" Soundtrack\]](https://open.spotify.com/album/4LBjRiMnSo48P1wxUKHbqY) | 2:45 |
 | 41 | [Eat It Up](https://open.spotify.com/track/2zeHX4bX8RxeaLDgdn90RA) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Eat It Up](https://open.spotify.com/album/2DwPROREroAzr1bDDO4up8) | 2:32 |
 | 42 | [Back It Up](https://open.spotify.com/track/23LAuKGYTIW6rrCiZqvDZG) | [Trap Beckham](https://open.spotify.com/artist/5AK2gJtEA2SWI9lBywSZjN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Back It Up](https://open.spotify.com/album/5JEiyCKJvndbtLtj9fSmA3) | 3:05 |
-| 43 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDBhMmEyYzgxZTlkYzU4NDdiYzMxZDgzZTkxNTljY2RiYg==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDA3YTc4ZmMyNjBlYzQzY2ExYmQwMTA1MDc5MTk2YzFkYw==`

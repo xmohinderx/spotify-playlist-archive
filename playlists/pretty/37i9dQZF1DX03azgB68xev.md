@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,158 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,153 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,20 +55,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 45 | [You Are](https://open.spotify.com/track/31FbRIjh7s2pf3As8SSM9F) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 4:14 |
 | 46 | [Yes & No](https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 2:59 |
 | 47 | [Fight My Fight For Me](https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2) | [Fight My Fight For Me](https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB) | 2:41 |
-| 48 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
+| 48 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 |
 | 49 | [For The Ones We Love \- Axel E Remix](https://open.spotify.com/track/7fGbnIBPPAB0YPhVIrKjFU) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5), [Axel E](https://open.spotify.com/artist/1GHddwV8QFsOhnDlLlYANI) | [For The Ones We Love \(Remixes\) \- EP](https://open.spotify.com/album/1U6U8YAHvD6jsferEUQ5fl) | 3:31 |
 | 50 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 |
-| 51 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 |
+| 51 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 52 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
 | 53 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 |
 | 54 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
-| 55 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
-| 56 | [Brand New](https://open.spotify.com/track/5AjI1A5a68tyKBVjw22oWI) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Brand New](https://open.spotify.com/album/5mENIriC2u8kE7AJ5415w3) | 2:30 |
-| 57 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 |
+| 55 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
+| 56 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 |
+| 57 | [Brand New](https://open.spotify.com/track/5AjI1A5a68tyKBVjw22oWI) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Brand New](https://open.spotify.com/album/5mENIriC2u8kE7AJ5415w3) | 2:30 |
 | 58 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
 | 59 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 |
 | 60 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 |
-| 61 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
+| 61 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
 | 62 | [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 |
 | 63 | [Just Like God](https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:03 |
 | 64 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 66 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 | 67 | [When You Speak](https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy) | 2:59 |
 | 68 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
-| 69 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
-| 70 | [Roses](https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Roses](https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF) | 3:11 |
+| 69 | [Roses](https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Roses](https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF) | 3:11 |
+| 70 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 
-Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMGM4ZWRkYThkMjc5ZDU5OThhNWZiMmU1M2EzNGUwNGUx`
+Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDUxMWJmMGY3NDkyMmI1NDlhYWE4YjU0MjdlNDYyZTA1`

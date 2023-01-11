@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,133 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,545 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 31 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
 | 32 | [Talihina Sky \- Acoustic Version](https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Talihina Sky](https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG) | 3:26 |
 | 33 | [Save Me \- Acoustic](https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:22 |
-| 34 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
-| 35 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 |
+| 34 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 |
+| 35 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 36 | [Youth Of The Nation \- Acoustic Version](https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 4:22 |
 | 37 | [When You're Gone \- Acoustic Version](https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [12" Masters \- The Essential Mixes](https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT) | 3:57 |
 | 38 | [I Sat by the Ocean \- Live Acoustic](https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Cologne \(Spotify Exclusive\)](https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an) | 4:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 45 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
 | 46 | [Walk On Water \- Acoustic](https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water \(Acoustic\)](https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142) | 3:08 |
 | 47 | [7 \- Acoustic](https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX) | 4:12 |
-| 48 | [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 |
-| 49 | [Space \- Acoustic Version](https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Space \(Orchestral Version\)](https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd) | 4:05 |
+| 48 | [Space \- Acoustic Version](https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Space \(Orchestral Version\)](https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd) | 4:05 |
+| 49 | [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 |
 | 50 | [Like Suicide \- Acoustic Version](https://open.spotify.com/track/1gGzdKJX35bqZLbfmXR3ql) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 6:12 |
 
-Snapshot ID: `MTY3MDg0MzI0NiwwMDAwMDAwMDVmYmIxNjI2NjhlMjMwOGZjNGZlMjU5M2QxM2MwNzdl`
+Snapshot ID: `MTY3MDg0MzI0NiwwMDAwMDAwMGU3MGZiM2E4ZTc4MmUwZTFmYmI3NWRmYjdlZjJkMmY5`

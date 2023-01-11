@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 77394,
+  "num_followers": 77489,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDg3Mzk0MWNjOWM0NzM3YjgyOTNlM2Q5MzQyMzllNDVi",
+  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMGU4ZTNmNDMwMTAwMzA5YjliZWJlZmIyNjFjNmZkZGM1",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -955,26 +955,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
+        "name": "LHNA",
+        "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
       },
       "artists": [
         {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+          "name": "RobGz",
+          "url": "https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
+      "duration_ms": 200145,
+      "name": "LHNA",
+      "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -999,22 +995,26 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "LHNA",
-        "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
       },
       "artists": [
         {
-          "name": "RobGz",
-          "url": "https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd"
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 200145,
-      "name": "LHNA",
-      "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
+      "duration_ms": 220080,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1143,6 +1143,42 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Cambio de Clima",
+        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "No Ando Solo",
+      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
       },
@@ -1179,42 +1215,6 @@
       "duration_ms": 276013,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Cambio de Clima",
-        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "No Ando Solo",
-      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2"
     },
     {
       "added_at": "2023-01-09 06:14:13",

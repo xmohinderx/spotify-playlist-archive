@@ -4,7 +4,7 @@
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-82 songs - 6 hr 25 min
+83 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,13 +41,14 @@
 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 | 2022-06-10 |  |
 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 | 2022-06-10 |  |
 | [Free](https://open.spotify.com/track/1epnoXa2XpGrQXaKxzrfLb) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [Sound & Vision](https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG) | 3:10 | 2022-06-10 |  |
-| [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory Of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 | 2022-06-10 |  |
-| [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [DJ Peran](https://open.spotify.com/artist/5LgHUsXqZwMUZGtGQDHPjt) | [In Memory Of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 | 2022-06-10 |  |
+| [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 | 2022-06-10 |  |
+| [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [Peran](https://open.spotify.com/artist/118Lw79OE3nCByRVzSGdD9) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 | 2022-06-10 |  |
 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 | 2022-06-10 |  |
 | [Greece 2000](https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:54 | 2022-06-10 |  |
 | [Heaven](https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Heaven](https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR) | 3:53 | 2022-06-10 |  |
 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 | 2022-06-10 |  |
-| [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [Tech\-trance Essentials Part 2](https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa) | 11:15 | 2022-06-10 |  |
+| [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/2iWHVKISSU9axCE6sncM0M) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [In Silence \(Remixes\)](https://open.spotify.com/album/4raE2IqKCFUNF8KJwzhLXa) | 11:15 | 2022-06-10 |  |
+| [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/4U7thpneIYMNg88WqM28m5) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [Tech\-trance Essentials Part 2](https://open.spotify.com/album/4jCUk8MIPyCwLKwMC9VrFa) | 11:15 | 2022-06-10 | 2023-01-11 |
 | [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 | 2022-06-10 |  |
 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 | 2022-06-10 |  |
 | [Just Be \- Antillas Club Mix](https://open.spotify.com/track/5x2mMDG6AsJbAt1NN6ICGE) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kirsty Hawkshaw](https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT) | [Just Be \(Remixed\)](https://open.spotify.com/album/1V6aACkY6BiInv0fk4A9Rt) | 9:49 | 2022-06-10 |  |

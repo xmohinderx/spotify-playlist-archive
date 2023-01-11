@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariah Nala",
-  "num_followers": 415446,
+  "num_followers": 415487,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDQ2YzQyN2ZhMGMzYmE5ZWI3MmIzOGY3MTAxNDkwYWEw",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDBlOGQ0YmExODUxOGJmZjYyOTQ2NzUzMDE4OTE5MmYz",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Horizonte",
+        "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
+      },
+      "artists": [
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Mazili",
+          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
+        }
+      ],
+      "duration_ms": 194315,
+      "name": "Horizonte",
+      "url": "https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Cabelo Bagun\u00e7ado",
         "url": "https://open.spotify.com/album/6MCVay89JujxBCqEBy2vn0"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 161357,
       "name": "O Velho e a Flor",
       "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Horizonte",
-        "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
-      },
-      "artists": [
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        },
-        {
-          "name": "Mazili",
-          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
-        }
-      ],
-      "duration_ms": 194315,
-      "name": "Horizonte",
-      "url": "https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "te vi dan\u00e7ando",
         "url": "https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 78968,
       "name": "te vi dan\u00e7ando",
       "url": "https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Adoro Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 273285,
-      "name": "Adoro Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Flores Que Eu Nunca Dei",
         "url": "https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 201013,
       "name": "Flores Que Eu Nunca Dei",
       "url": "https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Adoro Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 273285,
+      "name": "Adoro Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -807,22 +807,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 190937,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
+      "duration_ms": 168204,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -919,18 +915,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ"
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 168204,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if"
+      "duration_ms": 190937,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Sem Filtro",
-        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 229032,
-      "name": "Sem Filtro",
-      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Miudinho",
         "url": "https://open.spotify.com/album/0iFchnrlmmxgKASQzNz5Ba"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 155798,
       "name": "Miudinho",
       "url": "https://open.spotify.com/track/2A59HbqCzekn6QbepGggfX"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Sem Filtro",
+        "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 229032,
+      "name": "Sem Filtro",
+      "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Unilateral",
+        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Fica l\u00e1 Com Ela",
+      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Existencial",
         "url": "https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 162237,
       "name": "Existencial",
       "url": "https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Unilateral",
-        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Fica l\u00e1 Com Ela",
-      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Passa",
-        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
-      },
-      "artists": [
-        {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
-        }
-      ],
-      "duration_ms": 176804,
-      "name": "Passa",
-      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Outubro",
         "url": "https://open.spotify.com/album/00JNMDQJR1wOpibAL1PC7F"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 237325,
       "name": "Outubro",
       "url": "https://open.spotify.com/track/5hD1qHjBX9SB3Ws6nCEwr5"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Passa",
+        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
+      },
+      "artists": [
+        {
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+        }
+      ],
+      "duration_ms": 176804,
+      "name": "Passa",
+      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
     },
     {
       "added_at": "2022-12-30 03:00:00",

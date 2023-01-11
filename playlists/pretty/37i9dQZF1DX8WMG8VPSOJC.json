@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1603171,
+  "num_followers": 1603371,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGNiMzc4OTM1YjQ5NjQ4OTIwMmE5ZGY4Y2ExOWUxZDFi",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGVlZDMxZTcwZmFmZGI0OTU3ZTI5MzBjMzhjNzQyOTZh",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb"
-      },
-      "artists": [
-        {
-          "name": "Hannah Ellis",
-          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
-        }
-      ],
-      "duration_ms": 183736,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Nothing To Do Town",
         "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 228440,
       "name": "Waves",
       "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "duration_ms": 183736,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t"
     },
     {
       "added_at": "2022-08-26 04:00:00",

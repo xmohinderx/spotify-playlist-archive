@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Kaash Paige &amp; FLO Updated weekly! Cover: Ari Lennox
 
-98 songs - 5 hr 43 min
+99 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [JUMP \(feat\. Coast Contra\)](https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [JUMP](https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1) | 3:26 | 2022-07-08 | 2022-09-25 |
 | [Karma](https://open.spotify.com/track/0gU2jK97gomLLkYuO5n26N) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Top Trending Romania \- Vara 2022](https://open.spotify.com/album/4Tg6ZaMT2psOkJEAVF5fLQ) | 3:08 | 2022-11-24 |  |
 | [Keeps On Fallin’ \(with Ella Mai\)](https://open.spotify.com/track/5bmtMLseYdVHRIMUSRT4YD) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 2:55 | 2022-12-19 |  |
+| [Let's Talk About It](https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Let's Talk About It](https://open.spotify.com/album/0J0aCszy6epzsN60DXaR2k) | 2:44 | 2023-01-10 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-31 |  |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2022-06-09 | 2022-06-30 |
 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-31 | 2022-12-20 |
@@ -99,7 +100,7 @@
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 | 2022-12-19 |  |
 | [This Christmas](https://open.spotify.com/track/4gg8cqMICsKsLBE6R36pP7) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:19 | 2022-12-19 |  |
 | [Tipsy](https://open.spotify.com/track/3rshg8fOyT2sjPZy7mnhlZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Tipsy](https://open.spotify.com/album/1ppJv1ob2g180U4mHFJ8lc) | 2:53 | 2022-11-28 |  |
-| [Trigger Protection Mantra](https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trigger Protection Mantra](https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83) | 6:54 | 2022-06-09 |  |
+| [Trigger Protection Mantra](https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trigger Protection Mantra](https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83) | 6:54 | 2022-06-09 | 2023-01-11 |
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2022-06-09 |  |
 | [What It Is \(feat\. Ari Lennox\)](https://open.spotify.com/track/4tUEHNvFibqNk0No4s7q6v) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:25 | 2022-06-09 |  |
 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 | 2022-06-09 | 2022-09-25 |

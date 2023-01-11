@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,440 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,487 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 26 | [Otro Millón](https://open.spotify.com/track/2j0CA3TrxQ78vAVMTBdcNV) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Otro Millón](https://open.spotify.com/album/0CNz1mTF0VWhhUdPF2ZEHf) | 2:36 |
 | 27 | [Ingrata](https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Ingrata](https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b) | 3:34 |
 | 28 | [PR Sessions \#4](https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF) | [Panchito Records](https://open.spotify.com/artist/6U1nvY2YuhmVZ96Af8K6qb), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [PR Sessions \#4](https://open.spotify.com/album/4Ru3IxuOccecbtIEvDxMEF) | 2:28 |
-| 29 | [Si no es contigo \(feat\. Rafa Val\)](https://open.spotify.com/track/2daEY7bqARD03KqUxRNdRn) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO), [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Rafa Val](https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F) | [Si no es contigo \(feat\. Rafa Val\)](https://open.spotify.com/album/0qE1KDzIhHwsTho0bZZ0SA) | 3:19 |
+| 29 | [Si no es contigo \(feat\. Rafa Val, Viva Suecia\)](https://open.spotify.com/track/2daEY7bqARD03KqUxRNdRn) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO), [Rafa Val](https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F), [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Si no es contigo \(feat\. Rafa Val, Viva Suecia\)](https://open.spotify.com/album/0qE1KDzIhHwsTho0bZZ0SA) | 3:19 |
 | 30 | [Recoge la Cartera](https://open.spotify.com/track/3z2npDY9CJR339i0i63xbv) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Rowell](https://open.spotify.com/artist/1escdL5681pH8ocFKdrec4) | [Recoge la Cartera](https://open.spotify.com/album/5sUhNy9Bzk6ou0p2xhtwll) | 3:12 |
 | 31 | [The Flood](https://open.spotify.com/track/5jFfjWfENzzi93F7StNTig) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [The Flood](https://open.spotify.com/album/7hKM038Ryy8bjAwkd8vTJQ) | 1:26 |
 | 32 | [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,964 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,031 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 25 | [Saku](https://open.spotify.com/track/2h8OnhWZCRGNjptZ9IurZw) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Saku](https://open.spotify.com/album/6COn93pmuLSlE66ajN3kbb) | 4:57 |
 | 26 | [Desire](https://open.spotify.com/track/5xR1NMAs89qMlE5tDh0HYR) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Desire](https://open.spotify.com/album/0VitxTKul3NXKutMMDCPBH) | 3:13 |
 | 27 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
-| 28 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
-| 29 | [You](https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Vol\. 1 \- The Mixtape](https://open.spotify.com/album/1ZZSNrohitWJIhvm4ThElN) | 3:22 |
+| 28 | [You](https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Vol\. 1 \- The Mixtape](https://open.spotify.com/album/1ZZSNrohitWJIhvm4ThElN) | 3:22 |
+| 29 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
 | 30 | [Rush](https://open.spotify.com/track/2RVbDkUFdnZcQuqHWOgZe1) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Rush / Can't Stop Thinking About](https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN) | 4:06 |
 | 31 | [GLY \- Hot Chip Remix \- Edit](https://open.spotify.com/track/1GENTgldl1ncN3MTfsEO99) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [GLY \(Hot Chip Remix\)](https://open.spotify.com/album/0YJ3NBowWAqOZ6qTEl0AQA) | 3:22 |
 | 32 | [Love Divide](https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Love Divide](https://open.spotify.com/album/16dR19lw7xsjTvpkga7Sg0) | 4:29 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 43 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 |
 | 44 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 |
 | 45 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
-| 46 | [Volca](https://open.spotify.com/track/28NpDrD2786HAM55WX21ux) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Volca](https://open.spotify.com/album/3mbTIUXfzrkP1frqjZbjY8) | 6:36 |
-| 47 | [Nisida](https://open.spotify.com/track/6rExvAWFcBNl0RGE2S7Fw2) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Nisida](https://open.spotify.com/album/3bpoKXTJmgbgYmWoNZYssg) | 7:27 |
-| 48 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 |
-| 49 | [IQarus](https://open.spotify.com/track/5xYWdZVRcU81zYwlB29uJC) | [Brain De Palma](https://open.spotify.com/artist/44VVWk4YFJFoiv7oRNt5wO) | [IQarus](https://open.spotify.com/album/1oiwy4ZjFGIIcJE4DIu1Vu) | 5:24 |
+| 46 | [IQarus](https://open.spotify.com/track/5xYWdZVRcU81zYwlB29uJC) | [Brain De Palma](https://open.spotify.com/artist/44VVWk4YFJFoiv7oRNt5wO) | [IQarus](https://open.spotify.com/album/1oiwy4ZjFGIIcJE4DIu1Vu) | 5:24 |
+| 47 | [Volca](https://open.spotify.com/track/28NpDrD2786HAM55WX21ux) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Volca](https://open.spotify.com/album/3mbTIUXfzrkP1frqjZbjY8) | 6:36 |
+| 48 | [Nisida](https://open.spotify.com/track/6rExvAWFcBNl0RGE2S7Fw2) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Nisida](https://open.spotify.com/album/3bpoKXTJmgbgYmWoNZYssg) | 7:27 |
+| 49 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 |
 | 50 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
 | 51 | [Water](https://open.spotify.com/track/7tqoivFzlTVYaRTGbIuSuc) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Water](https://open.spotify.com/album/0TKpXk55uoVWjIylRFWeYt) | 5:34 |
 | 52 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 |
 | 60 | [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 |
 
-Snapshot ID: `MTY2ODQ2NjgwMCwwMDAwMDAwMGM5NmYwODgxYmRlNzljNzI3ODVhM2ZmNzk2MDEzNTU4`
+Snapshot ID: `MTY2ODQ2NjgwMCwwMDAwMDAwMGNjYTUwNGZlYjA4OTMwMDZiMzhiZWUxYTgwM2EyZDg4`

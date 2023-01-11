@@ -4,7 +4,7 @@
 
 > The first This is Frequency of 2023\. Cover: Popcaan
 
-1,529 songs - 3 day 3 hr 49 min
+1,530 songs - 3 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1528,7 +1528,8 @@
 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 | 2022-02-11 | 2022-03-12 |
 | [YOU.](https://open.spotify.com/track/4WcrK8lbJIuo3vBTlUZ8o4) | [Mamadou.](https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK) | [YOU.](https://open.spotify.com/album/5rx3OLeBZfAIJ8ddxk4Lib) | 3:31 | 2022-12-09 | 2022-12-31 |
 | [Younger](https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ) | [Kayla Thompson](https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3) | [Younger](https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF) | 3:32 | 2022-03-11 | 2022-04-02 |
-| [Yuck](https://open.spotify.com/track/4DfFAEusF6M31qf6lgD0VA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode Vol\. 2](https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH) | 2:23 | 2022-12-30 |  |
+| [Yuck](https://open.spotify.com/track/4DfFAEusF6M31qf6lgD0VA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode Vol\. 2](https://open.spotify.com/album/5QumuLrX6eJBkQKINgH9KH) | 2:23 | 2022-12-30 | 2023-01-11 |
+| [Yuck](https://open.spotify.com/track/5JRIGWsLgnhW34XetrhbRB) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode, Vol\. 2](https://open.spotify.com/album/4A8f0Z1JyDl02Okgp2niSH) | 2:23 | 2022-12-30 |  |
 | [Yungen \(feat\. Jack Harlow\)](https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:46 | 2022-08-12 | 2022-09-10 |
 | [ZAZA](https://open.spotify.com/track/64y0NPZeOIewgF413KARfy) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [ZAZA](https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB) | 2:29 | 2022-11-18 | 2022-12-10 |
 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-15 | 2022-08-06 |

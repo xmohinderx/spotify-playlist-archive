@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Tokischa & Natanael Cano",
-  "num_followers": 18300,
+  "num_followers": 18316,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDQyMCwwMDAwMDAwMGU2NTRhMDBiMDI5NGFiMzBlZDEyZGRkOWE1NjAxNzJh",
+  "snapshot_id": "MTY3MzI0NDQyMCwwMDAwMDAwMDcyYTU2YjYxY2I5Njc3Mjk1NzI2YWNmODM5YTRmNzcw",
   "tracks": [
     {
       "added_at": "2023-01-09 06:07:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-01-09 06:07:00",
       "album": {
-        "name": "El Cambio (Mariachi) (Feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/4ItI7oj36fak3R4zT2mdFg"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "El Cambio (Feat. Grupo Firme) - Mariachi",
-      "url": "https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE"
-    },
-    {
-      "added_at": "2023-01-09 06:07:00",
-      "album": {
         "name": "DELUXE",
         "url": "https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 226473,
       "name": "Glopeta y Dios",
       "url": "https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh"
+    },
+    {
+      "added_at": "2023-01-09 06:07:00",
+      "album": {
+        "name": "El Cambio (Mariachi) (Feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/4ItI7oj36fak3R4zT2mdFg"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "El Cambio (Feat. Grupo Firme) - Mariachi",
+      "url": "https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE"
     },
     {
       "added_at": "2023-01-09 06:07:00",

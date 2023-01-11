@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover, Meech
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220 likes - 52 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221 likes - 52 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

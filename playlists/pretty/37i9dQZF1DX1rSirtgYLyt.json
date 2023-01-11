@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 17389,
+  "num_followers": 17483,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyOTM5NCwwMDAwMDAwMDQ2MTBhYTBlYmZmMGZhYmIyNDIzMWM5MjYyZjNjYzE1",
+  "snapshot_id": "MTY3MzAyOTM5NCwwMDAwMDAwMGFhZDM1MDdiYjAyYWYyM2JjMDM0YzRlMzJhOTNhNGU4",
   "tracks": [
     {
       "added_at": "2023-01-06 18:22:48",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 407653,
       "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
-        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
+        "name": "Greatest Blues Covers",
+        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
       },
       "artists": [
         {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 322760,
-      "name": "Herbert Harper's Free Press News",
-      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+      "duration_ms": 263000,
+      "name": "Stormy Monday Blues",
+      "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Greatest Blues Covers",
-        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Stormy Monday Blues",
-      "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
+        "name": "Azules",
+        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
+      },
+      "artists": [
+        {
+          "name": "Louise Phelan",
+          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
+        },
+        {
+          "name": "Octavio Herrero",
+          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "I'm a Woman",
+      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 287160,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
-        "name": "Azules",
-        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
-      },
-      "artists": [
-        {
-          "name": "Louise Phelan",
-          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
-        },
-        {
-          "name": "Octavio Herrero",
-          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "I'm a Woman",
-      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
     },
     {
       "added_at": "2023-01-06 18:22:48",

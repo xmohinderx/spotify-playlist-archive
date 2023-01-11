@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,251 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,302 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 25 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
 | 26 | [FALL IN LUST](https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [FALL IN LUST](https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8) | 3:19 |
 | 27 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
-| 28 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
-| 29 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 |
+| 28 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 |
+| 29 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
 | 30 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |
 | 31 | [Waiting For](https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 2:57 |
 | 32 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 40 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 |
 | 41 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
 | 42 | [Justin Bieber \(feat\. Jay Park\)](https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EMO \#1](https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu) | 3:37 |
-| 43 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 |
+| 43 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
 | 44 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
-| 45 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
-| 46 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:13 |
+| 45 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:13 |
+| 46 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
 | 47 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 |
-| 48 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
+| 48 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 |
 | 49 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 50 | [waves](https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [waves](https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu) | 2:41 |
 | 51 | [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 |
 | 60 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 
-Snapshot ID: `MTY3MTYxNDg4OSwwMDAwMDAwMGFiYzRjNmE0ZmNjMGM5NGVkZWQxYjBmNTc0ZGI3OTg1`
+Snapshot ID: `MTY3MzM0MDA3NSwwMDAwMDAwMDU0ZWNhZDU3ZmFhYTFmOTRmZThkODE1YjEzODI2OGVh`

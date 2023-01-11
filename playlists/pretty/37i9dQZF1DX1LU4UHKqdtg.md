@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,880 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,175 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 66 | [Selfish](https://open.spotify.com/track/4NQ2EqWimM05dRSdHrmkdf) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [SELFISH](https://open.spotify.com/album/3vjPlBK3ASSMLfQwuiHspd) | 3:28 |
 | 67 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 |
 | 68 | [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 |
-| 69 | [Sugar Rush](https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Sugar Rush](https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P) | 2:57 |
-| 70 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
-| 71 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 |
-| 72 | [Wing Wing](https://open.spotify.com/track/1aWBbJI4wxnDNqQjbsaPFd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:15 |
-| 73 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 |
-| 74 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
-| 75 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 |
-| 76 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
-| 77 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 |
-| 78 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
-| 79 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
-| 80 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 |
+| 69 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
+| 70 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 |
+| 71 | [Wing Wing](https://open.spotify.com/track/1aWBbJI4wxnDNqQjbsaPFd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:15 |
+| 72 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 |
+| 73 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
+| 74 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 |
+| 75 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
+| 76 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 |
+| 77 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
+| 78 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
+| 79 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 |
 
-Snapshot ID: `MTY3MzMwNjg3NSwwMDAwMDAwMDk0Y2MzNmQ2Y2I0YTQxODU5NDExMDgzY2U5YjA2Y2U4`
+Snapshot ID: `MTY3MzM2MjgwMCwwMDAwMDAwMGU2NDU1YmE0YWQzYjA5ODkzYjI0YmUzYjExNmRhMzky`

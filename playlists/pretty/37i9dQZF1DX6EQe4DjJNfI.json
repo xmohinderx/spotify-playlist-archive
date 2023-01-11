@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Duquesa",
-  "num_followers": 156541,
+  "num_followers": 156582,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDA2MCwwMDAwMDAwMDQ4NGE2NWVkMDc5MDJiM2I0MTI2NDFjMGUxY2Q4NjFk",
+  "snapshot_id": "MTY3Mjk3NDA2MCwwMDAwMDAwMGRkM2UzNjRmNGE5MGI2MjVhOGRlMjBmZjBhMjBkMTJl",
   "tracks": [
     {
       "added_at": "2023-01-06 03:01:00",
@@ -491,26 +491,18 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Ch\u00e1zinho",
-        "url": "https://open.spotify.com/album/79mcJaBbFTsuDkOhOmFca6"
+        "name": "Melly No Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        },
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 195291,
-      "name": "Ch\u00e1zinho",
-      "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
+      "duration_ms": 183999,
+      "name": "Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -531,18 +523,26 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Melly No Est\u00fadio Showlivre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK"
+        "name": "Ch\u00e1zinho",
+        "url": "https://open.spotify.com/album/79mcJaBbFTsuDkOhOmFca6"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         }
       ],
-      "duration_ms": 183999,
-      "name": "Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw"
+      "duration_ms": 195291,
+      "name": "Ch\u00e1zinho",
+      "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
-      },
-      "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
+        "name": "Eu Quero pra Mim",
+        "url": "https://open.spotify.com/album/6AGNmDcbCGfpeQf86DMtRo"
+      },
+      "artists": [
+        {
+          "name": "Biollo",
+          "url": "https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF"
+        }
+      ],
+      "duration_ms": 167951,
+      "name": "Eu Quero pra Mim",
+      "url": "https://open.spotify.com/track/4nXuUKg9sveh2T9mITEhrA"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
         "name": "Marcas",
         "url": "https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 226206,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
-        "name": "Eu Quero pra Mim",
-        "url": "https://open.spotify.com/album/6AGNmDcbCGfpeQf86DMtRo"
-      },
-      "artists": [
-        {
-          "name": "Biollo",
-          "url": "https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF"
-        }
-      ],
-      "duration_ms": 167951,
-      "name": "Eu Quero pra Mim",
-      "url": "https://open.spotify.com/track/4nXuUKg9sveh2T9mITEhrA"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Correria",
-        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Soul",
-          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
-        },
-        {
-          "name": "Carol Terra",
-          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "Noite em Febre",
-      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
+        "name": "Correria",
+        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Soul",
+          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
+        },
+        {
+          "name": "Carol Terra",
+          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "Noite em Febre",
+      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
+        "name": "Nosso Futuro",
+        "url": "https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF"
+      },
+      "artists": [
+        {
+          "name": "Isis Orbelli",
+          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
+        }
+      ],
+      "duration_ms": 123185,
+      "name": "Nosso Futuro",
+      "url": "https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
         "name": "10%",
         "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 169811,
       "name": "10%",
       "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 133565,
       "name": "inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
-        "name": "Nosso Futuro",
-        "url": "https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF"
-      },
-      "artists": [
-        {
-          "name": "Isis Orbelli",
-          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
-        }
-      ],
-      "duration_ms": 123185,
-      "name": "Nosso Futuro",
-      "url": "https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6"
     },
     {
       "added_at": "2023-01-06 03:01:00",

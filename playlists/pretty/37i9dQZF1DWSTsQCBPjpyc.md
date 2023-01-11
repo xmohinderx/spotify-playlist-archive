@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,452 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,482 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 13 | [Black Cat Bone](https://open.spotify.com/track/1ici7lPp7HXKhkzQoDUNY0) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Showdown!](https://open.spotify.com/album/0fb0KsRXugaItlrVFVRnUi) | 4:58 |
 | 14 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 |
 | 15 | [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 |
-| 16 | [Playing On Me](https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 3:23 |
-| 17 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 |
+| 16 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 |
+| 17 | [Playing On Me](https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 3:23 |
 | 18 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 |
 | 19 | [Funky Bitch](https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:32 |
 | 20 | [You're Losin' Me](https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:52 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 33 | [Come To Mama](https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:48 |
 | 34 | [Watch Me Move](https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [On Tap](https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C) | 4:05 |
 | 35 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
-| 36 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
-| 37 | [A Man's Got To Do What A Man's Got To Do](https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:03 |
+| 36 | [A Man's Got To Do What A Man's Got To Do](https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:03 |
+| 37 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
 | 38 | [The Moon Is Full](https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:06 |
 | 39 | [Same Ole Feeling](https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:04 |
 | 40 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 47 | [Pots And Pans](https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Shine Bright](https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh) | 4:33 |
 | 48 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
 | 49 | [Break on Free](https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 4:12 |
-| 50 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
+| 50 | [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 |
 
-Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMDNlMmMxMWZiMWQ1ZGM4ZTUxNWEyMTcxMmJkZWFlYjI2`
+Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMGVlM2Y4ZGQyNTA1ZGM2OWQ1Nzk1NjMxOTkzYWVjMjA1`

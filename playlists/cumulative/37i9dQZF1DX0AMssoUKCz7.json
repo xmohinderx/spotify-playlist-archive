@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 151848,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2mAY7Wb1oOCggiUKbyfvjb"
@@ -3340,6 +3340,32 @@
       "duration_ms": 201440,
       "name": "Future Self (feat. Melody Noel)",
       "url": "https://open.spotify.com/track/0Oom8UCxknB2ussaW0P9HL"
+    },
+    {
+      "album": {
+        "name": "Get To Me",
+        "url": "https://open.spotify.com/album/5FbgV9W1TqNKyrlYo71DPv"
+      },
+      "artists": [
+        {
+          "name": "Lonely Night",
+          "url": "https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx"
+        },
+        {
+          "name": "Ellou",
+          "url": "https://open.spotify.com/artist/5DtAmwUDq3xbaWecjPBeSy"
+        },
+        {
+          "name": "Nody",
+          "url": "https://open.spotify.com/artist/2SntfW96QEEwMEGO2Ns61z"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Get To Me",
+      "url": "https://open.spotify.com/track/53gkmTnp8eEZ1gQWouBA7n"
     },
     {
       "album": {

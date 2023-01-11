@@ -1438,6 +1438,28 @@
     {
       "album": {
         "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179884,
+      "name": "D O D O - Adekunle Gold Version",
+      "url": "https://open.spotify.com/track/5XYFwMy9hJ45a6NoavtyEa"
+    },
+    {
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
         "url": "https://open.spotify.com/album/1BtvLyxx9y5WZY518MAATW"
       },
       "artists": [
@@ -3208,7 +3230,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 328766,
       "name": "Ke Star - Remix",
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"

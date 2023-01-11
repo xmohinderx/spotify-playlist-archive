@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/3MlBroyoDkjfnPSpQkIlon"
+      },
+      "artists": [
+        {
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136293,
+      "name": "2022 (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/1uTK1dNRZTlP7uvwDAc0pc"
+    },
+    {
+      "album": {
         "name": "DEMOTAPE",
         "url": "https://open.spotify.com/album/1bt1wd9Pyihm15Jl3LzwwJ"
       },
@@ -732,7 +754,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 213659,
       "name": "Be Okay",
       "url": "https://open.spotify.com/track/5PTE5rGhklqRQPuVlZvWAu"
@@ -1127,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5IMgzDMHVHTihgT5DO8ure"
+      },
+      "artists": [
+        {
+          "name": "GongGongGoo009",
+          "url": "https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148840,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/0IPwPBdilB2M6sdr9MA5BK"
+    },
+    {
+      "album": {
         "name": "Blue Dream (feat. jeebanoff)",
         "url": "https://open.spotify.com/album/1MioSGyZuQ08T6vSQa6dIi"
       },
@@ -1390,7 +1430,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 257320,
       "name": "BRUISE (Feat. Skinny Brown, Loopy)",
       "url": "https://open.spotify.com/track/45pjYjmR1qekpLX5SviYXZ"
@@ -2062,6 +2102,24 @@
       "duration_ms": 151260,
       "name": "Counting Stars (Feat. Beenzino)",
       "url": "https://open.spotify.com/track/2tXHQVu865MgrCeWeiu52h"
+    },
+    {
+      "album": {
+        "name": "98%",
+        "url": "https://open.spotify.com/album/5SoAESaH39J5Q90nIJrw1O"
+      },
+      "artists": [
+        {
+          "name": "PYMEL",
+          "url": "https://open.spotify.com/artist/4lcveRjo1vlFWfvLiGIFkg"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129899,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2v63UGIHgOUfG1M8jwbdGE"
     },
     {
       "album": {
@@ -3732,10 +3790,40 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 220908,
       "name": "GIRL (Feat. Yonko)",
       "url": "https://open.spotify.com/track/4dQMFWBISNYeLstXIZqfdn"
+    },
+    {
+      "album": {
+        "name": "Girl's Remedy (feat. Royal 44 & Leellamarz)",
+        "url": "https://open.spotify.com/album/0qGqRlZPFPDjoZULwItlXn"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "T\u20a9OTUK",
+          "url": "https://open.spotify.com/artist/3iAOHQi9GKQ8ARxHfD6YFt"
+        },
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Girl's Remedy (feat. Royal 44 & Leellamarz)",
+      "url": "https://open.spotify.com/track/1N8Qy5DhiBHE1WTJniYM1m"
     },
     {
       "album": {
@@ -6588,6 +6676,24 @@
       "duration_ms": 170000,
       "name": "Minus X",
       "url": "https://open.spotify.com/track/1BdGIsP0rHlOdqXPK4TPku"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/7ANsUaVEoUtT5FrHEwIcrU"
+      },
+      "artists": [
+        {
+          "name": "Kim Addict",
+          "url": "https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5putPsdtDI6wRldJDHRoJd"
     },
     {
       "album": {
@@ -9666,7 +9772,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 188750,
       "name": "So What",
       "url": "https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9"
@@ -10114,7 +10220,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 196214,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
@@ -10392,7 +10498,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 181000,
       "name": "TEXTURE (feat. Owen)",
       "url": "https://open.spotify.com/track/0YgCQvFMSrdMpBJamVYU6k"
@@ -11065,6 +11171,32 @@
     },
     {
       "album": {
+        "name": "Used",
+        "url": "https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233117,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/1ihB9RzGn3IrdnsHZ2e7qv"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
       },
@@ -11649,6 +11781,24 @@
     },
     {
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "album": {
         "name": "YM",
         "url": "https://open.spotify.com/album/0Ic2OI65Grdbh6QZPr94fo"
       },
@@ -11770,7 +11920,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 280080,
       "name": "Y (feat. Trade L)",
       "url": "https://open.spotify.com/track/3X75yUy7C49NiFR936iml2"

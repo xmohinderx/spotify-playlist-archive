@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-122 songs - 7 hr 38 min
+123 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-12-10 | 2022-12-06 |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-12-10 | 2022-03-01 |
 | [Ya houb achbik](https://open.spotify.com/track/4FW0O8tnwhgyB5opZtXvsn) | [Nour Chiba](https://open.spotify.com/artist/4RKA21fU9i82HeiNACGsgD) | [Rabouh essahriya](https://open.spotify.com/album/3YtnawJjeuZYcwrsvlrB2e) | 4:55 | 2022-09-12 | 2022-09-15 |
+| [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 | 2023-01-10 |  |
 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 | 2022-08-31 |  |
 | [Yammi](https://open.spotify.com/track/4kMMvrtAPcSRax1kZg49eg) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Yammi](https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb) | 3:41 | 2021-12-10 | 2022-06-19 |
 | [Zidni Bal3a \- زيدني بلعة](https://open.spotify.com/track/0GIDZOCNCYzFZm6ISFPDgA) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Zidni Bal3a \(زيدني بلعة\)](https://open.spotify.com/album/6inZ22BdbOv5k2Fg4dwQjh) | 3:30 | 2022-11-24 |  |

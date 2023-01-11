@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,957 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,870 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 55 | [Christmas Don't Be Late](https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:40 |
 | 56 | [It's Christmas in New York](https://open.spotify.com/track/4kfVEaZGZL3AcrcAvsyYNf) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 4:43 |
 | 57 | [Oh Christmas Tree](https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 1:49 |
-| 58 | [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 |
-| 59 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 4:27 |
+| 58 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 4:27 |
+| 59 | [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 |
 | 60 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |
 | 61 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS) | [N.B.H\-Trio](https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV) | 4:10 |
 | 62 | [Ole Santa](https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
 | 100 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 |
 
-Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMGE4MTcwZTg3YWM1NTQ1OTAxNTQxYmU5NWY3NGQzMmVl`
+Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDUxZmY0NmM3ODY3Nzc5NjBjNzU3ZGIzM2MyMmViYzQw`

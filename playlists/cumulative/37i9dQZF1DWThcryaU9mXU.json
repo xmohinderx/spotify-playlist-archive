@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "When you want to be alone and the Blues is your soundtrack.\n",
+  "description": "",
   "name": "Just Me and the Blues",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+    },
+    {
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Blues Hangover",
+      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
     },
     {
       "album": {
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 419306,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
@@ -276,7 +294,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 275973,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
@@ -294,7 +312,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 179306,
       "name": "Friendless Blues",
       "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
@@ -348,7 +366,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 184760,
       "name": "Hard Living Alone",
       "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
@@ -543,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Mr. Wonderful (Deluxe)",
+        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257826,
+      "name": "I've Lost My Baby",
+      "url": "https://open.spotify.com/track/1K3L55HIhx61FIn173umta"
+    },
+    {
+      "album": {
         "name": "Iron Man",
         "url": "https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P"
       },
@@ -554,7 +590,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 412920,
       "name": "Icepick Through My Heart",
       "url": "https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo"
@@ -572,7 +608,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 180666,
       "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
       "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
@@ -792,7 +828,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
@@ -846,7 +882,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 233706,
       "name": "Low Down Dirty Blues",
       "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
@@ -864,7 +900,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205870,
       "name": "Mistreated so Bad",
       "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 329373,
       "name": "Sanctified, Holy And Hateful",
       "url": "https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa"
@@ -1128,7 +1164,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191129,
       "name": "Slow Burning Love",
       "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
@@ -1164,7 +1200,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 134573,
       "name": "Someone Broke This Heart Of Mine",
       "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
@@ -1200,7 +1236,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4"
@@ -1218,7 +1254,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 140960,
       "name": "Sufferin' With The Blues",
       "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
@@ -1369,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk"
+    },
+    {
+      "album": {
         "name": "Rare Oldies Jazz: Eddy Boyd",
         "url": "https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6"
       },
@@ -1416,7 +1470,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 223477,
       "name": "What Am I Living For",
       "url": "https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd"
@@ -1434,7 +1488,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "What do You Feel?",
       "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
@@ -1474,7 +1528,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"

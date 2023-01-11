@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-141 songs - 10 hr 7 min
+142 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,12 +43,13 @@
 | [冰雨](https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [翊往情深](https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ) | 4:09 | 2021-11-22 |  |
 | [分手總要在雨天](https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [等你等到我心痛精選](https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f) | 4:48 | 2021-11-22 |  |
 | [又下雨了](https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5) | [李心潔](https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub) | [第三代李心潔 \- 裙擺搖搖](https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a) | 4:43 | 2021-11-22 |  |
+| [及時雨](https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo) | [Control T](https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge) | [及時雨](https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup) | 3:39 | 2023-01-10 |  |
 | [台北下的雨](https://open.spotify.com/track/5TnsqYTnUpgXWoVdGB7Jvs) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [台北下的雨](https://open.spotify.com/album/6NNBMImcG16RF42lj4JwHJ) | 4:31 | 2021-11-22 | 2022-07-29 |
 | [同一個下雨天](https://open.spotify.com/track/2637a1VmCsnQGfQCHt4Nfy) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [雨天日記](https://open.spotify.com/album/0gOTooDTdzyY723rMiQknc) | 3:39 | 2021-11-22 | 2022-07-29 |
 | [同一個下雨天](https://open.spotify.com/track/3hfhrCKA37Rq0wEPR8F8H6) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [雨天。日記](https://open.spotify.com/album/4BxdNZfGVvZsdse48Ieyd8) | 3:39 | 2022-09-05 |  |
 | [困在你的雨季](https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [困在你的雨季](https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC) | 4:32 | 2022-09-05 |  |
 | [在狂雨中](https://open.spotify.com/track/7exYTigadzsYN668TBami6) | [David Huang](https://open.spotify.com/artist/78NfAbd1srddKUQz4ytHWd) | [手下留情](https://open.spotify.com/album/3liazabJeymD8r6oLWSTVF) | 6:05 | 2021-11-22 | 2022-07-29 |
-| [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 | 2021-11-22 |  |
+| [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 | 2021-11-22 | 2023-01-11 |
 | [夜雨](https://open.spotify.com/track/7mFCNlD2iFvaSxBvZsm7Yk) | [派對紳士](https://open.spotify.com/artist/2hPOuwoy5IpYmDHJmWMsvq) | [專屬暗號](https://open.spotify.com/album/0odBFuc4f0g84KxyhqAxLE) | 4:01 | 2021-11-22 | 2022-07-26 |
 | [大雨](https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1) | [娃娃](https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg) | [金智娟經典重生輯](https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC) | 4:49 | 2022-09-05 |  |
 | [大雨](https://open.spotify.com/track/5R1E4MtvQNtvhvVD80grCa) | [娃娃\(金智娟\)](https://open.spotify.com/artist/7CBfgNCTGhh2SNpMbJr7ck) | [金智娟經典重生輯](https://open.spotify.com/album/729LG3tZYJFE9BybOMXOL3) | 4:49 | 2021-11-22 | 2022-07-29 |

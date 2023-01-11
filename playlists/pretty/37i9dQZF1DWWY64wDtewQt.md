@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,891,278 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,905,292 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 53 | [SATISFACTION](https://open.spotify.com/track/0Xjcrr9FPy3ZrNk5sPlndU) | [OXXXIDE](https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS) | [SATISFACTION](https://open.spotify.com/album/3D4LxVyKnsNuSCRSd6N52g) | 1:58 |
 | 54 | [BLAST EM'](https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/2hqasGIYmGCBQwmzL9Pwa8) | 2:07 |
 | 55 | [Always Want Me](https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Always Want Me](https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo) | 2:10 |
-| 56 | [WAVESTAR](https://open.spotify.com/track/1bw61wr9TDCRtCMeBX3Ml3) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml), [Diambu](https://open.spotify.com/artist/4a76EDYmK1MYYedIZ0dzzG) | [GEMS](https://open.spotify.com/album/2P2mU3zsMot08btsVNXGJD) | 2:28 |
+| 56 | [WAVESTAR](https://open.spotify.com/track/5rw6oPaeAN0ySL7DggrLAm) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml), [Diambu](https://open.spotify.com/artist/4a76EDYmK1MYYedIZ0dzzG) | [GEMS](https://open.spotify.com/album/1Oe4Gjkb2JXEMYiZKcDTHq) | 2:28 |
 | 57 | [TOTALITARIANISM II](https://open.spotify.com/track/5Z8h5Uh2f7KI35PT88fUuw) | [STAYSOLD](https://open.spotify.com/artist/2217gZ1hgFCeaDXFrYrjeL) | [TOTALITARIANISM II](https://open.spotify.com/album/0AAFX4cROdvFNGxJfNaj9B) | 2:23 |
 | 58 | [Skinny Life](https://open.spotify.com/track/4Q6NbWo0mfhBon2DyG6tW9) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Phonky Year](https://open.spotify.com/album/1I7oAah4fw6822L2eZZAh4) | 2:26 |
 | 59 | [SCARFACE](https://open.spotify.com/track/24wHwQ23F2QlC31YGGiejn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [SCARFACE](https://open.spotify.com/album/46IEkRQXYXNZNJCrOQyy0x) | 1:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY3MzI0NTQ3MSwwMDAwMDAwMGQ3MmUzNjRjMTZhNGRiMDNlNTI4M2MxNmFhODI4YTBl`
+Snapshot ID: `MTY3MzI0NTQ3MSwwMDAwMDAwMDIwZjFiYzJmNGI3OWNkMTc2YjNhNzJiMWZlMjA1NDk1`

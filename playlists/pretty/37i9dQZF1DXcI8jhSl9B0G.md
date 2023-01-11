@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,012 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,049 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 26 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
 | 27 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 |
 | 28 | [Home to You](https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Home to You](https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD) | 3:33 |
-| 29 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
-| 30 | [CAMPFIRE](https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:00 |
+| 29 | [CAMPFIRE](https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:00 |
+| 30 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
 | 31 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 32 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 33 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
-| 34 | [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 |
+| 34 | [All Over Again](https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz) | 3:43 |
 | 35 | [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 |
-| 36 | [All Over Again](https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz) | 3:43 |
+| 36 | [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 |
 | 37 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
 | 38 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
 | 39 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [A Song To Be Named](https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [A Song To Be Named](https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA) | 4:09 |
 | 60 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
 
-Snapshot ID: `MTY3MTEzMzUzOSwwMDAwMDAwMGMzZjI5MzMwYTAzN2QyNGRhOTdkZDQ4ZDVjMTIxNWYz`
+Snapshot ID: `MTY3MTEzMzUzOSwwMDAwMDAwMDczNWRjOGVlZGQxMDQ5Yzg3Mjg1ZmNlYTZhM2JlMzlm`

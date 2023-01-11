@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,244 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,574 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 13 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 |
 | 14 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
 | 15 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
-| 16 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
-| 17 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 |
+| 16 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 |
+| 17 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
 | 18 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
 | 19 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 20 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 33 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 |
 | 34 | [Stay Away](https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:11 |
 | 35 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 |
-| 36 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
-| 37 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 36 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 37 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 |
 | 38 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 |
 | 39 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 |
 | 40 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 51 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
 | 52 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
 | 53 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
-| 54 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
-| 55 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
+| 54 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
+| 55 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
 | 56 | [Cruisin' to the Parque](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 |
 | 57 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
 | 58 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 69 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
 | 70 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGJhNTE1MzE3M2E3OWEwOTI1YjViNzhlMDEwODdlMGU3`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGI0MTU5YzNlMTIwOWZkMmY1NjNjODllMjk0MWEwODJh`

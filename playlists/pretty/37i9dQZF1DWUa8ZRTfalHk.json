@@ -1,12 +1,12 @@
 {
   "description": "The hits of tomorrow are on Spotify today. Cover: Lizzy McAlpine",
-  "num_followers": 2816342,
+  "num_followers": 2818191,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDkyOThiOTEyMTVjYmFjYmMzYTYxNDI3Zjk1NGJjYmMy",
+  "snapshot_id": "MTY3MzM2OTM2NywwMDAwMDAwMDNhNTJlZTNkODM2NjJlZTM0YjJkMDQ5MTZlMmRjYzcw",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -259,6 +259,22 @@
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -571,22 +587,6 @@
       "duration_ms": 267504,
       "name": "Nothing Is Lost (You Give Me Strength)",
       "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-01-06 05:00:00",

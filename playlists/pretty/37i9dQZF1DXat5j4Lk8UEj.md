@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,948 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,992 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 12 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 13 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 14 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
-| 15 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
+| 15 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
 | 16 | [Bethel Woods](https://open.spotify.com/track/2fbXenv8BnYOhxJk0CxwFD) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [Bethel Woods](https://open.spotify.com/album/6FHo7FsoDgcn3BBC9yYX1l) | 4:23 |
-| 17 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
+| 17 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 18 | [Believe](https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
 | 19 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 20 | [Stronger Than That](https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 2:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 50 | [Go Outside](https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn) | 2:49 |
 | 51 | [How Come My Body](https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Inwards & Onwards](https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO) | 2:18 |
 | 52 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
-| 53 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
-| 54 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
+| 53 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
+| 54 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 55 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 |
 | 56 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 57 | [The Balcony](https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Pet Parade](https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ) | 4:08 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 75 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
 | 76 | [The John Wayne](https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 4:51 |
 | 77 | [Absolute Loser](https://open.spotify.com/track/45wGhAr9756RWGrSs35r56) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:51 |
-| 78 | [All About Our Love](https://open.spotify.com/track/6Bdb25Xd50dlIZWuSjEuTO) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [3](https://open.spotify.com/album/2WQB0iJb75vXIGyyeQ84ea) | 3:56 |
-| 79 | [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 |
-| 80 | [Turn Your Love](https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK) | 4:01 |
+| 78 | [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 |
+| 79 | [Turn Your Love](https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK) | 4:01 |
+| 80 | [All About Our Love](https://open.spotify.com/track/6Bdb25Xd50dlIZWuSjEuTO) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [3](https://open.spotify.com/album/2WQB0iJb75vXIGyyeQ84ea) | 3:56 |
 | 81 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 |
 | 82 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 |
 | 83 | [The Storm](https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY) | [Michigan Rattlers](https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E) | [That Kind of Life](https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV) | 3:49 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 94 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 |
 | 95 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 |
 | 96 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
-| 97 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
-| 98 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 |
+| 97 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 |
+| 98 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
 | 99 | [False Names](https://open.spotify.com/track/3bx4cm6DijL3kzNVo58d1j) | [John Joseph Brill](https://open.spotify.com/artist/6q5toimiubECVRWlZSJEUi) | [False Names](https://open.spotify.com/album/3Kkl2vgUyemvMLo57qF5SX) | 4:01 |
 | 100 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
 
-Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMGE0NDlhN2RlYmQyOTcyOTE0NzI5YTRjY2Y0MThlZGQ0`
+Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMDNlZDcyYjhiZGU3NzJhNTIwMjc5OTAwYjViNjdlNTky`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,830 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,864 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 57 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 |
 | 58 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |
 | 59 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 |
-| 60 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 |
+| 60 | [werrkk](https://open.spotify.com/track/7e9JRNhecXg0DMkjmk3Vlp) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mench](https://open.spotify.com/artist/7zSLmuJsSUxBN1QS9Mz93L) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 1:42 |
 
-Snapshot ID: `MTY3MTM1OTE4MCwwMDAwMDAwMGQ4NTkxYjIyZjI2OWJkNWI0ZGQ2OTVhYTAzOTljZmM0`
+Snapshot ID: `MTY3MTM1OTE4MCwwMDAwMDAwMDIwNmVjMmFmZjkwNDdhZGU0ZTliMTBiNjc0YWU4MGQz`

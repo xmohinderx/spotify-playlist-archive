@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,411 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,682 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 49 | [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 |
 | 50 | [Chapel Of Love](https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [The Very Best of The Dixie Cups: Chapel of Love](https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8) | 2:50 |
 | 51 | [In Dreams](https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB) | 2:49 |
-| 52 | [Georgia on My Mind](https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:39 |
-| 53 | [La\-La Means I Love You](https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:20 |
+| 52 | [La\-La Means I Love You](https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:20 |
+| 53 | [Georgia on My Mind](https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:39 |
 | 54 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 |
 | 55 | [Honey](https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey](https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP) | 3:58 |
 | 56 | [\(I Left My Heart\) In San Francisco](https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Left My Heart In San Francisco](https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7) | 2:50 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 79 | [Can't Help Falling In Love \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt) | 3:18 |
 | 80 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 81 | [Sweet Happy Life](https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Guitars A La Lee](https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4) | 2:09 |
-| 82 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
+| 82 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 | 83 | [A Place In The Sun](https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Down To Earth](https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm) | 2:52 |
-| 84 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
+| 84 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
 | 85 | [Misty](https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:18 |
 | 86 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 |
 | 87 | [Spanish Harlem](https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Spanish Harlem](https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp) | 2:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 124 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 | 125 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 
-Snapshot ID: `MTY2Mjk1ODU0OSwwMDAwMDAwMDNlZDk4YTE4MmE4MmIwZjlkMTQzMmRhNTNmMTM4ZGFi`
+Snapshot ID: `MTY2Mjk1ODU0OSwwMDAwMDAwMDA1Yjc5ZTE1YWQzYWMzMDhjNGRjZTIzZjFlZjAxODFj`

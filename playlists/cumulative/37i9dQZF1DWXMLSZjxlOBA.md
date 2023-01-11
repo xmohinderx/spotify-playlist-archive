@@ -4,7 +4,7 @@
 
 > Dance hits to soundtrack your life
 
-83 songs - 4 hr 36 min
+84 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Cbat](https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/0d99LxnQpiPLgSGDRuU9HT) | 2:51 | 2022-10-14 |  |
 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2022-10-14 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-10-14 |  |
-| [Dance Wiv Me \- Radio Edit](https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Chrom3](https://open.spotify.com/artist/5afDPnkidHjc6e43K9bSKn) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 3:24 | 2022-10-14 |  |
+| [Dance Wiv Me \- Radio Edit](https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Chrom3](https://open.spotify.com/artist/5afDPnkidHjc6e43K9bSKn) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 3:24 | 2022-10-14 | 2023-01-11 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-10-14 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-10-14 |  |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-10-14 |  |
@@ -90,6 +90,7 @@
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2022-10-14 |  |
 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2022-10-14 |  |
 | [You Give Me A Feeling](https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12) | 3:05 | 2022-10-14 |  |
+| [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 | 2022-10-14 |  |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-10-14 |  |
 
 \*This playlist was first scraped on 2022-12-14. Prior content cannot be recovered.

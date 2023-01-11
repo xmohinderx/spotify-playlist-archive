@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: PinkPantheress
 
-695 songs - 1 day 15 hr 28 min
+696 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [DRIVING](https://open.spotify.com/track/7GT3vqR1ClCIgsOUtegETd) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [DRIVING](https://open.spotify.com/album/3wDpJ2oaji80033791QTSp) | 2:39 | 2022-11-24 |  |
 | [Drunk](https://open.spotify.com/track/2XhWcfx6ASDb0qvXbNsBsi) | [youproblem](https://open.spotify.com/artist/13Y8tKdDhnfdB8g5a9ZBs5) | [Drunk](https://open.spotify.com/album/4BXGV8ifzOD69k7hTs81Tx) | 3:14 | 2022-06-02 | 2022-08-26 |
 | [Dude In A Romantic Way](https://open.spotify.com/track/61V900hMxvHdpGdarlFbve) | [Callaway Martin](https://open.spotify.com/artist/32Om1pF9kloxRMFv1gUifZ) | [Dude In A Romantic Way](https://open.spotify.com/album/33qhi8y8l1LN1Ift6Ihc0V) | 3:01 | 2022-03-24 | 2022-04-29 |
-| [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 | 2022-09-08 |  |
+| [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 | 2022-09-08 | 2023-01-11 |
 | [Eastern Lights](https://open.spotify.com/track/0pB9l6GPqjwH46cbxLAVnJ) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Eastern Lights](https://open.spotify.com/album/1uxm5mezOuEInR9LE7By5Z) | 4:11 | 2021-12-28 | 2022-02-18 |
 | [Easy](https://open.spotify.com/track/0tDNXisoZq1GVb3Fcdjp9I) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Easy](https://open.spotify.com/album/34orrLWbT1f0FPrMkn8dh1) | 3:27 | 2022-03-07 | 2022-05-10 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-17 | 2022-02-04 |
@@ -378,6 +378,7 @@
 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 | 2022-03-31 | 2022-05-27 |
 | [lost](https://open.spotify.com/track/6XTAG7oS2qTKp9AOmbOczL) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [lost](https://open.spotify.com/album/3vMGA5wdFyAZ02c05F1KWy) | 3:37 | 2022-08-25 | 2022-12-02 |
 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 | 2022-01-24 | 2022-03-30 |
+| [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-01-10 |  |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-17 | 2022-03-11 |
 | [Love, Try Not To Let Go](https://open.spotify.com/track/3deuNvlPWsdSSUmXt1xCG6) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:43 | 2022-08-25 | 2022-09-30 |
 | [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 | 2022-07-28 | 2022-08-29 |

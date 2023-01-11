@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Lola Indigo & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,596 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,750 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 8 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 |
 | 9 | [IDK Y](https://open.spotify.com/track/5mz9ccLx1kUEiUeGqULgkG) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [IDK Y](https://open.spotify.com/album/4caBV0z6cphDZ7HyRYSMq6) | 2:41 |
 | 10 | [Yo\-yo](https://open.spotify.com/track/4p9q8knpkk8vx7RTilNiyr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Yo\-yo](https://open.spotify.com/album/5Bydy5fT7Q1mNDzgb6aDzs) | 3:17 |
-| 11 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
-| 12 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 11 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 12 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
 | 13 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
 | 14 | [La Idea](https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [La Idea](https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU) | 3:14 |
 | 15 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 24 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 |
 | 25 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 |
 | 26 | [Claramente](https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Claramente](https://open.spotify.com/album/4XwGkazwZ4OsS0HnQjUwy6) | 2:51 |
-| 27 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 |
+| 27 | [El Egoísmo](https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [El Egoísmo](https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx) | 2:50 |
 | 28 | [Recaída](https://open.spotify.com/track/2OgJGjukelwGZK6f5xxRhy) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 3:21 |
-| 29 | [El Egoísmo](https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [El Egoísmo](https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx) | 2:50 |
+| 29 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 |
 | 30 | [Otra Vez](https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Otra Vez](https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4) | 2:35 |
 | 31 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 |
 | 32 | [Vamos Pa la Playa](https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vamos Pa la Playa](https://open.spotify.com/album/3WJUMEadyo3WnCQDQw6vLc) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 |
 | 50 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGM4NzllNzdjZjY0NjE3ZmQyM2QxZGZjMTk2ZTBkYzY1`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGNkZDRmMGY4NmVjNmU1ZTJmMWFhNGRlYzE2MmFiZDIx`

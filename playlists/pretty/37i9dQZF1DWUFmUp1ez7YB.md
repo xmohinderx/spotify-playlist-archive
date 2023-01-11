@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > ¡Quiero Salsa, dame Salsa! Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,905 likes - 90 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,384 likes - 90 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 87 | [Desesperado](https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 3:50 |
 | 88 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
 | 89 | [Dile A Ella](https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:05 |
-| 90 | [Dime Por Qué](https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 3:34 |
+| 90 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
 
-Snapshot ID: `MTY3MjY3OTEzMSwwMDAwMDAwMGM2YTg4ZDczOWEyMWQ1YWMxMTc4MjAwOGVkYzIwMmEy`
+Snapshot ID: `MTY3MjY3OTEzMSwwMDAwMDAwMDEwN2Q3NWE4NGYyYjllNDQzZGM1ZGRhYTk3YTg1NmQ1`

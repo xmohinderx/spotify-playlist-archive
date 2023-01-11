@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,733 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,808 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 24 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
 | 25 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 26 | [Blind Eye](https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 3:05 |
-| 27 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 |
-| 28 | [Qasida \- Sunset Fever 2](https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantics \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf) | 1:36 |
+| 27 | [Qasida \- Sunset Fever 2](https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantics \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf) | 1:36 |
+| 28 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 |
 | 29 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
 | 30 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 31 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 40 | [Sacred \- Radio Edit](https://open.spotify.com/track/2wqqzMQ457bjitt2vDDGmf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 3:26 |
 | 41 | [Chaos](https://open.spotify.com/track/7BBZ6Il2sGyuNaaHiUJS83) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/3K9vnQRCyyNbOMHLAh3wvV) | 2:28 |
 | 42 | [Tottertot](https://open.spotify.com/track/5QILwMbxfKKlyRlRzd3afx) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 4:15 |
-| 43 | [Here](https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta) | [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O), [Nicklas Sørensen](https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7) | [Always Already Here](https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM) | 3:28 |
-| 44 | [Opals](https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals](https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x) | 2:24 |
-| 45 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
-| 46 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
-| 47 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 |
-| 48 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 |
-| 49 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 |
-| 50 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
+| 43 | [Opals](https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals](https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x) | 2:24 |
+| 44 | [Here](https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta) | [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O), [Nicklas Sørensen](https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7) | [Always Already Here](https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM) | 3:28 |
+| 45 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
+| 46 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
+| 47 | [Fires](https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo) | 4:39 |
+| 48 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 |
+| 49 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 |
+| 50 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 |
 
-Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMDJkNWMzZTU3OWZkNmQzZDYwZDkwNDc1Y2I2MTE5YTMy`
+Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMGViMTU0MjZmNGMwZmIyMjQyZjNjZTUxNTkzYzNhMjE2`

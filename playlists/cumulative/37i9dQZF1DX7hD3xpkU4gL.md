@@ -4,7 +4,7 @@
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-171 songs - 11 hr 58 min
+172 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Eres Mi Religión](https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 5:27 | 2022-01-03 |  |
 | [Eres Tú](https://open.spotify.com/track/5ETDazN24XkAEvf00KT2jU) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Esencial Mocedades](https://open.spotify.com/album/6nd5Lgj54ThSlY9nwryi7P) | 3:31 | 2022-01-03 | 2022-07-29 |
 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2022-01-03 |  |
-| [Ese Tipo Soy Yo \(Esse Cara Sou Eu\)](https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Esencial Roberto Carlos](https://open.spotify.com/album/4TbDEyxlABxYoyanHe6oOR) | 4:33 | 2022-01-03 |  |
+| [Ese Tipo Soy Yo \(Esse Cara Sou Eu\)](https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Esencial Roberto Carlos](https://open.spotify.com/album/4TbDEyxlABxYoyanHe6oOR) | 4:33 | 2022-01-03 | 2023-01-11 |
 | [Esos ojos negros](https://open.spotify.com/track/13MV4IsrVMUmGzuqz0T6oK) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Canciones](https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90) | 3:35 | 2022-01-03 | 2022-07-28 |
 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 | 2022-01-03 | 2022-11-27 |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-01-03 |  |
@@ -119,6 +119,7 @@
 | [Non, je ne regrette rien](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 2:22 | 2022-07-21 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2022-07-21 |  |
 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 | 2022-01-03 | 2022-01-26 |
+| [One Moment in Time](https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 4:44 | 2022-07-21 |  |
 | [One Moment in Time](https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:45 | 2022-07-21 | 2022-12-19 |
 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 | 2022-07-21 |  |
 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 | 2022-01-03 | 2022-11-13 |

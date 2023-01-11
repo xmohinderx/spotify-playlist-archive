@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Mita Gami.",
-  "num_followers": 417176,
+  "num_followers": 417306,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDg2OGU4ZDk2NDQyNDRlN2VlOGY0YzhlZGFmMjljZDhl",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDNlZWJjMjg0MDgwNmU3MDU3OGVmZTkxOGFkMjRhYmEy",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Antisec",
-        "url": "https://open.spotify.com/album/2k182ZsRtnPjhJ432Z2y3h"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "YTCracker",
-          "url": "https://open.spotify.com/artist/1x82Mu3wakMkldMW5kEiP4"
-        }
-      ],
-      "duration_ms": 172584,
-      "name": "Antisec",
-      "url": "https://open.spotify.com/track/5wBR7E6BADAHWj5vBHdnDd"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 172133,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Antisec",
+        "url": "https://open.spotify.com/album/2k182ZsRtnPjhJ432Z2y3h"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "YTCracker",
+          "url": "https://open.spotify.com/artist/1x82Mu3wakMkldMW5kEiP4"
+        }
+      ],
+      "duration_ms": 172584,
+      "name": "Antisec",
+      "url": "https://open.spotify.com/track/5wBR7E6BADAHWj5vBHdnDd"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "La Tarde",
-        "url": "https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd"
-      },
-      "artists": [
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        },
-        {
-          "name": "AtcG",
-          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "La Tarde",
-      "url": "https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Feel My Love (feat. Joe Taylor) [Redondo Remix]",
         "url": "https://open.spotify.com/album/1OVd7DsBhuw5W8SpsSbjX2"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 155990,
       "name": "Feel My Love (feat. Joe Taylor) [Redondo Remix]",
       "url": "https://open.spotify.com/track/4uZaWdKKai3QptKY64Hcy0"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "La Tarde",
+        "url": "https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "La Tarde",
+      "url": "https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Found Someone",
+        "url": "https://open.spotify.com/album/6DvvzRveCzivqP2IwUyoxU"
+      },
+      "artists": [
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 151596,
+      "name": "Found Someone",
+      "url": "https://open.spotify.com/track/3ZG9Fm961rJuVkkqBYoCSd"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "I Still Love You",
         "url": "https://open.spotify.com/album/24M6Qiz76lcXMCrhOmPRA8"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 207545,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/5L7q7iRfVb2bKJOaPpaUPR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Into Pieces",
-        "url": "https://open.spotify.com/album/2TG3AsCuDCqMziFsBNurgS"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 170570,
-      "name": "Into Pieces",
-      "url": "https://open.spotify.com/track/5hh0N3JTS51Y4TWMOeRIOC"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Found Someone",
-        "url": "https://open.spotify.com/album/6DvvzRveCzivqP2IwUyoxU"
+        "name": "Into Pieces",
+        "url": "https://open.spotify.com/album/2TG3AsCuDCqMziFsBNurgS"
       },
       "artists": [
         {
-          "name": "Nadia Gattas",
-          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         }
       ],
-      "duration_ms": 151596,
-      "name": "Found Someone",
-      "url": "https://open.spotify.com/track/3ZG9Fm961rJuVkkqBYoCSd"
+      "duration_ms": 170570,
+      "name": "Into Pieces",
+      "url": "https://open.spotify.com/track/5hh0N3JTS51Y4TWMOeRIOC"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -723,22 +723,6 @@
       "duration_ms": 343663,
       "name": "Wet Cement - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/0ifI6yZ047szP2E252EJUY"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "BLACKED OUT",
-        "url": "https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O"
-      },
-      "artists": [
-        {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "BLACKED OUT",
-      "url": "https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 163750,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "BLACKED OUT",
+        "url": "https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "BLACKED OUT",
+      "url": "https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Trick Me",
+        "url": "https://open.spotify.com/album/3u1FMzwmX0pSCbeqtvWFmB"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 142968,
+      "name": "Trick Me",
+      "url": "https://open.spotify.com/track/7aO5LZYbKVD2RwIzlbNBCY"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Mamaera",
         "url": "https://open.spotify.com/album/0QktazGz4FR0BJm4ACU2fU"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 142857,
       "name": "Flute",
       "url": "https://open.spotify.com/track/7LrEjduZDF1raTJcxz1D7m"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Trick Me",
-        "url": "https://open.spotify.com/album/3u1FMzwmX0pSCbeqtvWFmB"
-      },
-      "artists": [
-        {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        }
-      ],
-      "duration_ms": 142968,
-      "name": "Trick Me",
-      "url": "https://open.spotify.com/track/7aO5LZYbKVD2RwIzlbNBCY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -995,6 +995,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er"
+      },
+      "artists": [
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Elesa",
+        "url": "https://open.spotify.com/album/1en5wHdoxXFQhUsbCcx1uT"
+      },
+      "artists": [
+        {
+          "name": "Haffenfold",
+          "url": "https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq"
+        }
+      ],
+      "duration_ms": 256696,
+      "name": "Elesa",
+      "url": "https://open.spotify.com/track/7mYW6UDI53tZrhLycPqcw0"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Gonna Get You Real Good EP",
         "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
       },
@@ -1027,38 +1059,6 @@
       "duration_ms": 241680,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4IERaEWYyicWRThaoygDyS"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Elesa",
-        "url": "https://open.spotify.com/album/1en5wHdoxXFQhUsbCcx1uT"
-      },
-      "artists": [
-        {
-          "name": "Haffenfold",
-          "url": "https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq"
-        }
-      ],
-      "duration_ms": 256696,
-      "name": "Elesa",
-      "url": "https://open.spotify.com/track/7mYW6UDI53tZrhLycPqcw0"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er"
-      },
-      "artists": [
-        {
-          "name": "Maurice Lessing",
-          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/7flocCBWFHNpEK5YTiO5oC"
-      },
-      "artists": [
-        {
-          "name": "MAXTAGE",
-          "url": "https://open.spotify.com/artist/3aIGx8GIZItbPtcOcrafSZ"
-        },
-        {
-          "name": "Orkhan Nukha",
-          "url": "https://open.spotify.com/artist/2BoG76n4oEcUgSdJjAtXKr"
-        }
-      ],
-      "duration_ms": 420484,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/2cj89QvrRb0hUrf8DgQlph"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "We've Got A Good Thing Going (Martyn Bootyspoon Remix)",
         "url": "https://open.spotify.com/album/2BioND5qWue6phlc4dVKqf"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 278755,
       "name": "We've Got A Good Thing Going (Martyn Bootyspoon Remix)",
       "url": "https://open.spotify.com/track/6ncfoJJ1OlQATm3W2nffE5"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/7flocCBWFHNpEK5YTiO5oC"
+      },
+      "artists": [
+        {
+          "name": "MAXTAGE",
+          "url": "https://open.spotify.com/artist/3aIGx8GIZItbPtcOcrafSZ"
+        },
+        {
+          "name": "Orkhan Nukha",
+          "url": "https://open.spotify.com/artist/2BoG76n4oEcUgSdJjAtXKr"
+        }
+      ],
+      "duration_ms": 420484,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2cj89QvrRb0hUrf8DgQlph"
     },
     {
       "added_at": "2023-01-06 05:00:00",

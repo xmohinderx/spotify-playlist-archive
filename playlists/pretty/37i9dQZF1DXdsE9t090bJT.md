@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,737 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,794 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 6 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
 | 7 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 8 | [El Amor de Mi Vida](https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:28 |
-| 9 | [Si Es Posible](https://open.spotify.com/track/1uQhUupvikvunqykML6NPd) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Si Es Posible](https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu) | 4:15 |
-| 10 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 |
+| 9 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 |
+| 10 | [Si Es Posible](https://open.spotify.com/track/1uQhUupvikvunqykML6NPd) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Si Es Posible](https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu) | 4:15 |
 | 11 | [Que Mas Puedo Pedir \(Bonus Track\)](https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:17 |
 | 12 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
 | 13 | [Psicodelica](https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 4:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 79 | [Buscabamos Lo Mismo](https://open.spotify.com/track/5idaKAt6CqMd3zucTHG4hP) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscabamos Lo Mismo](https://open.spotify.com/album/1U7Ysy02ORDvHGG1FVQoaU) | 2:49 |
 | 80 | [Romántico](https://open.spotify.com/track/0wi7Cq9aRlNz8kaHd4UD9u) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [La Nueva R](https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6) | 2:10 |
 
-Snapshot ID: `MTY3MzI0Mzg4NCwwMDAwMDAwMGQ4Mjc5NmExMzAwN2Q3YmYyZTE0OWRjZWVhY2I0M2I2`
+Snapshot ID: `MTY3MzI0Mzg4NCwwMDAwMDAwMGIxOTljMDUxYmY1OWVlNTMxMTdhZDFmOTFlNzExZGM0`

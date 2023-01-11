@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,001 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,072 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 3 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
 | 4 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
 | 5 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
-| 6 | [Rétine](https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:30 |
-| 7 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
+| 6 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
+| 7 | [Rétine](https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:30 |
 | 8 | [Quelqu'un m'a dit](https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 2:48 |
 | 9 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 |
 | 10 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
 | 75 | [Comme un voleur \- Version acoustique](https://open.spotify.com/track/3LBcAAL0CGLptJsy0QYulx) | [Madame Monsieur](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Comme un voleur \(Version acoustique\)](https://open.spotify.com/album/1Gzg4LfSPm8ljaUjmBsHTD) | 3:46 |
 
-Snapshot ID: `MTY3MDMzODY5NCwwMDAwMDAwMDk1NDQwZDhlNzMxMGQyM2NkZjFkZTdlMGQxMDY2MWZi`
+Snapshot ID: `MTY3MDMzODY5NCwwMDAwMDAwMDg5MDBmMjcxZWI4YzA4MDIxNTE4M2VkMzdmYzI5MTJh`

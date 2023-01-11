@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,428 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,224 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 50 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília \- EP1](https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL) | 3:10 |
 | 51 | [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:39 |
 | 52 | [Hackearam\-Me](https://open.spotify.com/track/5NeBu4oKweDXIjhvYqtbLo) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Hackearam\-Me](https://open.spotify.com/album/3KHR8xoze8HO6SGTCeCGQt) | 3:29 |
-| 53 | [Supera \- Ao Vivo](https://open.spotify.com/track/0h9xMQP3ctuibd4Ce2037O) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode do Pericão \(Ao Vivo\)](https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak) | 3:52 |
-| 54 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
+| 53 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
+| 54 | [Supera \- Ao Vivo](https://open.spotify.com/track/0h9xMQP3ctuibd4Ce2037O) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode do Pericão \(Ao Vivo\)](https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak) | 3:52 |
 | 55 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 56 | [Bebida Na Ferida \- Ao Vivo](https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:19 |
 | 57 | [É natural \(Participação especial de Bruno Cardoso\) \- Ao vivo](https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Bruno Cardoso](https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 79 | [Café e Amor \- Ao Vivo](https://open.spotify.com/track/6zeo9bcZWGlHi2VqjUSmaR) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 3:24 |
 | 80 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 |
 
-Snapshot ID: `MTY2NDg5NzY0OSwwMDAwMDAwMGZkNjUyMzZiODYwMDNkMjQzYmJjNGFlOTVlNzE3Mjk1`
+Snapshot ID: `MTY2NDg5NzY0OSwwMDAwMDAwMDQ3OTJmY2JmNDMzMTA2YTcwZjRmNzliMDcwNmFlZTcw`

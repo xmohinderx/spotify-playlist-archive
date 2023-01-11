@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,713 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,813 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 72 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 |
 | 73 | [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 |
 | 74 | [Ya No](https://open.spotify.com/track/57xIz4fw0sMzc2GRnc2Il7) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Singles](https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ) | 3:37 |
-| 75 | [Te Lo Pido por Favor](https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:44 |
+| 75 | [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 |
 
-Snapshot ID: `MTY3MzI0NDE0OSwwMDAwMDAwMDJkMjdlNmNmNDVhYTIxMDA0ZjEwN2M3M2M4NzNmZDlh`
+Snapshot ID: `MTY3MzI0NDE0OSwwMDAwMDAwMDI4NzM0YWQyYWZiMTAyNTBmMWI2YTIxMDI1M2RkNDVk`

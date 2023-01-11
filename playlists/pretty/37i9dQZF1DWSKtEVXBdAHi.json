@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27102,
+  "num_followers": 27104,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDY0Zjg1ODVhMWE1YmY2ZGRhOTY5MGUxYzhjYjQxMGJm",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDQ1MGFhMmVmODM0ODQwZjU2NjU1MTI3MTc5Y2RmMGE2",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Hotel Walls",
+      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Lost In Amsterdam (feat. Eskeemo)",
         "url": "https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 144813,
       "name": "Lost In Amsterdam (feat. Eskeemo)",
       "url": "https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Hotel Walls",
-      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
     },
     {
       "added_at": "2020-02-18 13:31:30",

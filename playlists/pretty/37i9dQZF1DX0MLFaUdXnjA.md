@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keep it low\-key with all of today's chill pop\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,815,278 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,815,361 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 23 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
 | 24 | [Men On The Moon](https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Men On The Moon](https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr) | 3:40 |
 | 25 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
-| 26 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 |
-| 27 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 |
+| 26 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 |
+| 27 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 |
 | 28 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 |
 | 29 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
 | 30 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 63 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 64 | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 65 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 |
-| 66 | [georgia](https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:30 |
-| 67 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 |
+| 66 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 |
+| 67 | [georgia](https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:30 |
 | 68 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 |
 | 69 | [Not Alone \- from Devotion](https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Not Alone \(from Devotion\)](https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg) | 4:11 |
 | 70 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
 | 71 | [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 |
-| 72 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 |
-| 73 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
-| 74 | [Colorblind](https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Colorblind](https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK) | 2:35 |
-| 75 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 |
+| 72 | [Colorblind](https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Colorblind](https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK) | 2:35 |
+| 73 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 |
+| 74 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
+| 75 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGQ0M2M5YTIzZGRmY2MyYWU0N2RkOGY2YjViNDRmZjVh`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGNlMjZkMzU0NTE2YzM2OThiMDg4OTQ0ZGExMjQ5YzFm`

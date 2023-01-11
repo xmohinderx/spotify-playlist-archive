@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 394428,
+  "num_followers": 394396,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDQ1ZTA0NjRmOGUwNGRkM2NkM2M5MDhhZmZiNzk4ZTM5",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGM1YTE2NWM3MTBmNGU4YmZkN2UzNmFkYTQyOTdhZDU2",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Questions",
-        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 177156,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -427,6 +407,26 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 177156,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2022-06-30 22:02:00",

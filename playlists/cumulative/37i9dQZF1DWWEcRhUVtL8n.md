@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,444 songs - 3 day 4 hr 1 min
+1,445 songs - 3 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [5](https://open.spotify.com/track/2uhsLVdlg8eRs62cg0Ilm7) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [5](https://open.spotify.com/album/7IsOTogU20hEtMwA7qZ9l8) | 4:03 | 2020-10-13\* | 2021-05-23 |
 | [50 Watt Smile](https://open.spotify.com/track/5f81pQyLnnfD16MLNfugVI) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [50 Watt Smile](https://open.spotify.com/album/4DZBHIDhE9jZqrHJZFDvM8) | 3:22 | 2021-02-24 | 2021-06-03 |
 | [5150](https://open.spotify.com/track/3fVFdHNPDYIOfo6QwUX6qj) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [5150](https://open.spotify.com/album/3pUOK7VN8Qg83S1P4WihM0) | 3:09 | 2021-01-16 | 2021-06-03 |
-| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2022-12-16 |  |
+| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2022-12-16 | 2023-01-11 |
 | [610470](https://open.spotify.com/track/0e9uFzv7ZWo2dAdGlIC619) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg), [Gordon Snyder](https://open.spotify.com/artist/3rRWf9A0D506qsH8mtbFYw) | [610470](https://open.spotify.com/album/7uZ0TauX1nCutGnvcY7Izr) | 2:24 | 2021-10-13 | 2021-10-14 |
 | [80's](https://open.spotify.com/track/07T2VrTXubkH8zf9gefxEQ) | [prettyboyshav](https://open.spotify.com/artist/1HWOzNVECZuzwhpmQ36RvO) | [80's](https://open.spotify.com/album/4GTeuq4zccREXg17z8YMJG) | 3:07 | 2020-10-16 | 2020-10-23 |
 | [80's Movie](https://open.spotify.com/track/0ReotC6rCrcb9N7RzA9GmO) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [80's Movie](https://open.spotify.com/album/0XZDttTTOOuetRe3T76gBY) | 3:13 | 2021-02-22 | 2021-03-22 |
@@ -725,6 +725,7 @@
 | [Just a Waste](https://open.spotify.com/track/6WCgeGzEYlkluHeqQqmnl6) | [summervibes](https://open.spotify.com/artist/1JPqepX6kQ0rU9Btzsbb1C) | [Just a Waste](https://open.spotify.com/album/4v2u9tXp3irRw0UB9VUYZK) | 2:07 | 2021-10-06 | 2021-10-13 |
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
 | [Just Move](https://open.spotify.com/track/0zfrIxHvYUAp8wAIQlAKj0) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/30wUyky9CMZydC8QrX3RFH) | 3:06 | 2020-10-13\* | 2020-11-17 |
+| [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 |  |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-05 | 2022-09-23 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-06-17 | 2022-07-29 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-12-22 |

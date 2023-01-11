@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Måneskin
+> 
 
-263 songs - 14 hr 36 min
+264 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [FLOWER POWER](https://open.spotify.com/track/7AJ00s3H7TehVRdPN8ANou) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [FLOWER POWER](https://open.spotify.com/album/64R18cc1rLixwFQvTMKqLW) | 2:32 | 2022-12-15 |  |
 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 | 2022-05-09 | 2022-06-24 |
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |
-| [Franco Panini](https://open.spotify.com/track/2rs9NJEszvoO27Y7nOtseo) | [The Junction](https://open.spotify.com/artist/2cqOnMxNuwhIwkMQBgj5J2) | [Franco Panini](https://open.spotify.com/album/6xYnxLBEx4JjuS7Bm7Ocur) | 3:31 | 2022-12-15 |  |
+| [Franco Panini](https://open.spotify.com/track/2rs9NJEszvoO27Y7nOtseo) | [The Junction](https://open.spotify.com/artist/2cqOnMxNuwhIwkMQBgj5J2) | [Franco Panini](https://open.spotify.com/album/6xYnxLBEx4JjuS7Bm7Ocur) | 3:31 | 2022-12-15 | 2023-01-11 |
 | [Furore](https://open.spotify.com/track/6q3QpJO8HmJrWuF0zaBr62) | [Giant Gummy Bears](https://open.spotify.com/artist/5V2GfS5pUpv5Sbqy3Zf6lu) | [Furore](https://open.spotify.com/album/0gd8zQEysYahjiJ20rE79G) | 4:19 | 2022-08-18 | 2022-09-09 |
 | [Gay division](https://open.spotify.com/track/3IcAYELBteC0J76y30biJV) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Miracolosamente Illesi](https://open.spotify.com/album/5Amj4EQkJ54rt09Ztzn5R9) | 3:16 | 2022-11-17 |  |
 | [Gent](https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP), [Tana Combinaguai](https://open.spotify.com/artist/7u6nsTUogydvsNlVUcF2HY) | [Gent](https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA) | 4:01 | 2022-06-09 | 2022-07-01 |
@@ -227,6 +227,7 @@
 | [Spina Centrale](https://open.spotify.com/track/6KxPAdjK7n1Sp3czdnzkSc) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Kxrine](https://open.spotify.com/artist/6KeuOiKje8kElLvaLSYYR4) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:06 | 2022-07-16 | 2022-09-30 |
 | [Stanza vuota](https://open.spotify.com/track/5R1sQp1f5wNHWV3p9qfb7V) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido EP](https://open.spotify.com/album/3vXZS6gZjYW4R1hn01OosY) | 3:46 | 2022-11-10 | 2022-11-18 |
 | [Stare sveglio](https://open.spotify.com/track/1ERgcJITJ5bcd9eRWxnQMa) | [sonosem](https://open.spotify.com/artist/6krFvHoGuJyMjcjeFZRc0P) | [Da così lontano](https://open.spotify.com/album/77h73NDhSPBayfCsKrVs75) | 3:16 | 2022-05-09 | 2022-05-27 |
+| [Stasi](https://open.spotify.com/track/4D2n8bGDt0QajFrUiWMMDD) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Stasi / Un posto bellissimo](https://open.spotify.com/album/5L3zkBlyR0AQ9kjqgQrRic) | 5:29 | 2023-01-10 |  |
 | [Stati di agitazione](https://open.spotify.com/track/7bTraSxvK6F3beRP5vL17h) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc), [Rodrigo D'Erasmo](https://open.spotify.com/artist/6eeTkJg6QLQ34VbYXdqpBX) | [Stati di agitazione](https://open.spotify.com/album/54BgILjJKbhtYkbpLN3Jiv) | 3:07 | 2022-06-23 | 2022-09-30 |
 | [Still Got My Time](https://open.spotify.com/track/1niBgFt03sHUfrBrqmZbrw) | [Westfalia](https://open.spotify.com/artist/1xMsdujnDYoi3k6C26k3Uh) | [We're Not Just Good at Playing](https://open.spotify.com/album/4FoyUZkBrkRdHxnAvuH0T8) | 3:16 | 2022-05-09 | 2022-06-24 |
 | [Stoccolma](https://open.spotify.com/track/7hsbFCXE4Q3GWHyAO8SJZE) | [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Stoccolma](https://open.spotify.com/album/4eweWKEWbfTRVPwnf5AFZo) | 2:09 | 2022-10-06 | 2022-10-28 |

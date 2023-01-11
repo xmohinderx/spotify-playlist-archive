@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 54576,
+  "num_followers": 54594,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzIzMTIwOSwwMDAwMDAwMDBiMmU4Y2E5Mzk4MmE1ZjE3NTY1NTY1OTk2MDMzYjAw",
+  "snapshot_id": "MTY3MzIzMTIwOSwwMDAwMDAwMDJlMDY0YzE5N2Y0MzVhZDU5ODJmYzBlMmNmNDBlMTY0",
   "tracks": [
     {
       "added_at": "2023-01-09 02:26:49",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 206539,
-      "name": "Santa's Coming for Us",
-      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
-    },
-    {
-      "added_at": "2023-01-09 02:26:49",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
+    },
+    {
+      "added_at": "2023-01-09 02:26:49",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Irrelevant",
-        "url": "https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 232384,
-      "name": "Irrelevant",
-      "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Irrelevant",
+        "url": "https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+      "duration_ms": 232384,
+      "name": "Irrelevant",
+      "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
+    },
+    {
+      "added_at": "2023-01-09 02:26:49",
+      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+        "name": "finding it hard to smile",
+        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
         }
       ],
-      "duration_ms": 125746,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
+      "duration_ms": 204878,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "finding it hard to smile",
-        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
-    },
-    {
-      "added_at": "2023-01-09 02:26:49",
-      "album": {
         "name": "All 4 Nothing (I'm So In Love)",
         "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-01-09 02:26:49",

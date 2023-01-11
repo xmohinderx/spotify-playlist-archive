@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Zoe Gotusso.",
-  "num_followers": 100720,
+  "num_followers": 100817,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDNlNmFlNTAzZGIwMDU5YzlhOTZkMDcwYWM5Y2RmMjU5",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDIxYTBmZDkyMzUyYjQ5MTE0MWMwZGQ0YmRhYmRmODdh",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dividido",
-        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Dividido",
-      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Dividido",
+        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 214777,
+      "name": "Dividido",
+      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 341037,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Fuimos Los Dos",
-        "url": "https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        }
-      ],
-      "duration_ms": 137450,
-      "name": "Prefiero No Decir Nada",
-      "url": "https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
-        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+        "name": "Fuimos Los Dos",
+        "url": "https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd"
       },
       "artists": [
         {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
         }
       ],
-      "duration_ms": 297773,
-      "name": "El don de la ternura",
-      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+      "duration_ms": 137450,
+      "name": "Prefiero No Decir Nada",
+      "url": "https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
+        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "El don de la ternura",
+      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Aho Uhal",
         "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 206032,
       "name": "Ahots Hari",
       "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Cuchara Chueca",
         "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 271200,
       "name": "Alma Sola",
       "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1751,6 +1751,22 @@
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Maestra Vida",
+        "url": "https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 380088,
+      "name": "Hasta La Ra\u00edz",
+      "url": "https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 210760,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Alfonsina Y El Mar",
-        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
     }
   ],
   "unique_name": "Cancionistas",

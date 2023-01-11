@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,789 likes - 96 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,811 likes - 96 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 46 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
 | 47 | [House Of Balloons / Glass Table Girls](https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 6:45 |
 | 48 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [I Got You \(I Feel Good\)](https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3) | 2:45 |
-| 49 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
+| 49 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 |
 | 50 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 51 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
 | 52 | [Ain't Your Mama](https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Ain't Your Mama](https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp) | 3:38 |
-| 53 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 |
+| 53 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
 | 54 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 55 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 56 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 92 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 | 93 | [Release Yourself](https://open.spotify.com/track/24JnivykEgycnelmeyvZNl) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:54 |
 | 94 | [Caravan](https://open.spotify.com/track/3yQKTiqSp2tnEarIw5WhuR) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Bennett Sings Ellington / Hot And Cool](https://open.spotify.com/album/7uRqIpnqW1nI0d3fkamMa9) | 4:36 |
-| 95 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 3:58 |
-| 96 | [Gin N Juice \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 3:31 |
+| 95 | [Gin N Juice \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 3:31 |
+| 96 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 3:58 |
 
-Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDQxNTQ2NzI5NmYzMWExYWJlOTlkYjZjNWNiMDEwMGZj`
+Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDY2ZDUzMGQzNzMwYzhlYmYwZjBlMzE1NTFkM2M5ZTMy`

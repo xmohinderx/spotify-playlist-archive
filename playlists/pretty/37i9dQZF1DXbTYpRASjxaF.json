@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, L7NNON",
-  "num_followers": 88613,
+  "num_followers": 88712,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI5ODA2MCwwMDAwMDAwMGZmY2JlN2I3MzlkYTNhNGQ0ZDBiZmMzODVlM2I0MTA2",
+  "snapshot_id": "MTY3MzI5ODA2MCwwMDAwMDAwMGEwYzEwMWI1ZTJhZWQ3MGFjNmY4ZTk1ZDhkM2YxMjMz",
   "tracks": [
     {
       "added_at": "2023-01-09 21:01:00",
@@ -367,6 +367,26 @@
     {
       "added_at": "2023-01-09 21:01:00",
       "album": {
+        "name": "Mateca x Teto",
+        "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "Balazul",
+      "url": "https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt"
+    },
+    {
+      "added_at": "2023-01-09 21:01:00",
+      "album": {
         "name": "Set dos Casados",
         "url": "https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 643200,
       "name": "Set dos Casados",
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
-    },
-    {
-      "added_at": "2023-01-09 21:01:00",
-      "album": {
-        "name": "Mateca x Teto",
-        "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "Balazul",
-      "url": "https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt"
     },
     {
       "added_at": "2023-01-09 21:01:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-01-09 21:01:00",
       "album": {
+        "name": "M4",
+        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "M4",
+      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
+    },
+    {
+      "added_at": "2023-01-09 21:01:00",
+      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 264057,
       "name": "Na Onda do Gin",
       "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
-    },
-    {
-      "added_at": "2023-01-09 21:01:00",
-      "album": {
-        "name": "M4",
-        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "M4",
-      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
     },
     {
       "added_at": "2023-01-09 21:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55733,
+  "num_followers": 55730,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDRhMjc0MTM2NzkxM2U1YzM4N2JmMTlhNzMzOTkyMTUw",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDZmYThkZGM3ZDg2NTc2YWQxY2VmZWNiMzMyZGE3YTU2",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/4Jud0iQM1DiF0kfOL0ASfC"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/29MwtMspIroR2wFYEJ7ps0"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 170186,
       "name": "It's All Right",
       "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/4Jud0iQM1DiF0kfOL0ASfC"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/29MwtMspIroR2wFYEJ7ps0"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Notti Brave (After)",
-        "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
-      },
-      "artists": [
-        {
-          "name": "Carl Brave",
-          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
-        },
-        {
-          "name": "Max Gazz\u00e8",
-          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Posso (feat. Max Gazz\u00e9)",
-      "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Notti Brave (After)",
+        "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        },
+        {
+          "name": "Max Gazz\u00e8",
+          "url": "https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Posso (feat. Max Gazz\u00e9)",
+      "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Lilacs",
-      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Sunday Best (Acoustic Version)",
         "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
-      "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 253213,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
+      "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
     }
   ],
   "unique_name": "Primavera",

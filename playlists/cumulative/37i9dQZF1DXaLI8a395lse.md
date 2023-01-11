@@ -2,9 +2,9 @@
 
 ### [Alternative 90s](https://open.spotify.com/playlist/37i9dQZF1DXaLI8a395lse)
 
-> Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: my bloody valentine
+> Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
 
-242 songs - 16 hr 44 min
+243 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Country House \- 2012 Remaster](https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Great Escape \(Special Edition\)](https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1) | 3:56 | 2021-11-15 |  |
 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 | 2021-11-15 | 2022-07-08 |
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2022-01-21 |  |
+| [Cut \- 1990 Demo](https://open.spotify.com/track/7yrZCBUokAMTJtOzXSHKYu) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3oieEL76lQ4dPAiGaAh7jw) | 3:33 | 2023-01-11 |  |
 | [Cut Your Hair](https://open.spotify.com/track/1CZ2Uxhy8t40kjAmM2zPOD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/2siKA5eg88sNvLm1kXjtse) | 3:05 | 2021-11-15 | 2022-07-27 |
 | [Cut Your Hair](https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:06 | 2022-09-29 | 2022-11-14 |
 | [Dead from the Waist Down](https://open.spotify.com/track/7KGO0B6kB5j9Fmu2KpE8fV) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv), [Roland Herrington](https://open.spotify.com/artist/4qIc5MY3UzdnkbP7f9DByv), [Tommy D](https://open.spotify.com/artist/3Z4upWAYNbhzajBxPMsLJS) | [Equally Cursed And Blessed](https://open.spotify.com/album/02gjbDETa5DyWglx8Euzxy) | 4:02 | 2021-11-15 | 2022-01-05 |
@@ -213,7 +214,7 @@
 | [Susan's House](https://open.spotify.com/track/6DJGcxLJlkK7egBtb8iu8o) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Beautiful Freak](https://open.spotify.com/album/1GJwrOcVkg2kCtI8RUZEdy) | 3:43 | 2021-11-15 | 2022-07-15 |
 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 | 2022-01-21 |  |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2021-11-15 |  |
-| [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 | 2021-11-15 |  |
+| [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 | 2021-11-15 | 2023-01-11 |
 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 | 2022-09-29 | 2022-11-14 |
 | [The Boy With the Arab Strap](https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With the Arab Strap](https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ) | 5:14 | 2021-11-15 | 2022-07-29 |
 | [The Day We Caught The Train](https://open.spotify.com/track/5bWLIVKl5UrbQ2xEGfAXOK) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Songs For The Front Row \- The Best Of Ocean Colour Scene](https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG) | 3:11 | 2021-11-15 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 118673,
+  "num_followers": 118687,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMGU3YWJmNjM1ZDNkZDUxYjZmMmZiNTYwMmVlY2UwOTAz",
+  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMDU0MDI2NjU2N2I5NzY4YmE1ZTVkNmZmZTIxZTVmMGI2",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "N\u00e4tterna i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "N\u00e4tterna i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Tappat - Spotify Singles",
         "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "N\u00e4tterna i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "N\u00e4tterna i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "AREA 36",
+        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 129985,
+      "name": "Samma gamla vanliga",
+      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "DOM SKA VETA",
         "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 214000,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "AREA 36",
-        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 129985,
-      "name": "Samma gamla vanliga",
-      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "\u00c4nnu mer",
-        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
       },
       "artists": [
         {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        },
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
         }
       ],
-      "duration_ms": 184482,
-      "name": "\u00c4nnu mer",
-      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
+      "duration_ms": 170500,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -391,6 +395,22 @@
       "duration_ms": 180617,
       "name": "Cute & Cruel (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "\u00c4nnu mer",
+        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 184482,
+      "name": "\u00c4nnu mer",
+      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -431,26 +451,6 @@
       "duration_ms": 173030,
       "name": "Sommaren",
       "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Call Me By Your Name",
-        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        },
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Call Me By Your Name",
-      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
+        "url": "https://open.spotify.com/album/4HgWCtXu0Wa8xngobsJjRt"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
+      "url": "https://open.spotify.com/track/5KMyGMGRiSMZLG1q9sMYRx"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Som ett minne blott",
         "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Can\u2019t Stay Away",
-        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 179761,
-      "name": "Can\u2019t Stay Away",
-      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Grammofon",
         "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
-        "url": "https://open.spotify.com/album/4HgWCtXu0Wa8xngobsJjRt"
+        "name": "Can\u2019t Stay Away",
+        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 207809,
-      "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
-      "url": "https://open.spotify.com/track/5KMyGMGRiSMZLG1q9sMYRx"
+      "duration_ms": 179761,
+      "name": "Can\u2019t Stay Away",
+      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Water Pistol",
+        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 219582,
+      "name": "Water Pistol",
+      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Wonderchild - Spotify Singles",
         "url": "https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 182515,
       "name": "Sommarregn (feat. Hanna Ferm)",
       "url": "https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Water Pistol",
-        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 219582,
-      "name": "Water Pistol",
-      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Har du sett henne i bl\u00e5tt",
+        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
+      },
+      "artists": [
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        }
+      ],
+      "duration_ms": 201741,
+      "name": "Har du sett henne i bl\u00e5tt",
+      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Doppio Passo",
         "url": "https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX"
       },
@@ -927,6 +943,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1"
+      },
+      "artists": [
+        {
+          "name": "MOR",
+          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
+        }
+      ],
+      "duration_ms": 161355,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "Jag forts\u00e4tter gl\u00f6mma",
         "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
       },
@@ -967,22 +999,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1"
-      },
-      "artists": [
-        {
-          "name": "MOR",
-          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
-        }
-      ],
-      "duration_ms": 161355,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 210264,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Har du sett henne i bl\u00e5tt",
-        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
-      },
-      "artists": [
-        {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
-        }
-      ],
-      "duration_ms": 201741,
-      "name": "Har du sett henne i bl\u00e5tt",
-      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
-        "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
-      },
-      "artists": [
-        {
-          "name": "Clara Klingenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
-        }
-      ],
-      "duration_ms": 180787,
-      "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
-      "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Policeman",
         "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 213061,
       "name": "Policeman",
       "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
+        "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "duration_ms": 180787,
+      "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
+      "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "What You Were Made For",
-        "url": "https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        }
-      ],
-      "duration_ms": 194759,
-      "name": "What You Were Made For",
-      "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Isabelle",
         "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 215818,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "What You Were Made For",
+        "url": "https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+        }
+      ],
+      "duration_ms": 194759,
+      "name": "What You Were Made For",
+      "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Bleeding",
-        "url": "https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO"
-      },
-      "artists": [
-        {
-          "name": "Johanna Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3"
-        }
-      ],
-      "duration_ms": 206661,
-      "name": "Bleeding",
-      "url": "https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "P\u00e5 En L\u00f6rdag",
         "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 152701,
       "name": "P\u00e5 En L\u00f6rdag",
       "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO"
+      },
+      "artists": [
+        {
+          "name": "Johanna Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3"
+        }
+      ],
+      "duration_ms": 206661,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "BACKYARD",
-        "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 155085,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Korthus",
         "url": "https://open.spotify.com/album/4JwYFYWEHacLDk0dV6emb8"
       },
@@ -1471,22 +1455,34 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "N\u00e4r vinden bl\u00e5ser kallt",
-        "url": "https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM"
+        "name": "Hold Out",
+        "url": "https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics"
       },
       "artists": [
         {
-          "name": "Albin Johns\u00e9n",
-          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
-        },
-        {
-          "name": "William Segerdahl",
-          "url": "https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh"
+          "name": "Kristofer Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
         }
       ],
-      "duration_ms": 157124,
-      "name": "N\u00e4r vinden bl\u00e5ser kallt",
-      "url": "https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI"
+      "duration_ms": 191186,
+      "name": "Hold Out",
+      "url": "https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "BACKYARD",
+        "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 155085,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Hold Out",
-        "url": "https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics"
+        "name": "N\u00e4r vinden bl\u00e5ser kallt",
+        "url": "https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM"
       },
       "artists": [
         {
-          "name": "Kristofer Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "William Segerdahl",
+          "url": "https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh"
         }
       ],
-      "duration_ms": 191186,
-      "name": "Hold Out",
-      "url": "https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd"
+      "duration_ms": 157124,
+      "name": "N\u00e4r vinden bl\u00e5ser kallt",
+      "url": "https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI"
     },
     {
       "added_at": "2023-01-05 23:00:00",

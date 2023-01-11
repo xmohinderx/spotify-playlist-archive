@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 198738,
+  "num_followers": 198842,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDlkZWRhNmY0YzUyOWJmMmJhNWY2NjE0MGNhMWMxZmM1",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDEyNzhhNTI0Y2NjYTk4NGJiOGFkZmE2YjExMDcwNTMx",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
+        "name": "Tres Palabras",
+        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez El Camar\u00f3n",
+          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
+        }
+      ],
+      "duration_ms": 231191,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
         "name": "Pa' Que Te Duela",
         "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 241680,
       "name": "Muchachita Loca",
       "url": "https://open.spotify.com/track/3sc5V807LrB6laUneVyu52"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "Tres Palabras",
-        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez El Camar\u00f3n",
-          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
-        }
-      ],
-      "duration_ms": 231191,
-      "name": "Maestra",
-      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
     },
     {
       "added_at": "2022-10-25 23:01:25",

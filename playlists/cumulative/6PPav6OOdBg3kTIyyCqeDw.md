@@ -4,7 +4,7 @@
 
 > A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: JID
 
-109 songs - 6 hr 6 min
+110 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ambition For Cash](https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2](https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i) | 2:23 | 2022-05-31 | 2022-11-17 |
 | [Balloons \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:36 | 2022-05-31 | 2022-10-27 |
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-05-31 |  |
+| [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 | 2023-01-10 |  |
 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 | 2022-05-31 | 2022-08-12 |
 | [Box of Chocolates](https://open.spotify.com/track/4C07XtJln7nQKFELPDQqkF) | [Nappy Roots](https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I) | [Box of Chocolates](https://open.spotify.com/album/2nT2niOUE1RRbOtMPtK5VB) | 4:34 | 2022-10-05 |  |
 | [Brotherly Love \(feat\. Dougie B & B\-Lovee\)](https://open.spotify.com/track/34YnZOLkvAxH6K7ZXutHOo) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 3:54 | 2022-08-11 | 2022-09-25 |

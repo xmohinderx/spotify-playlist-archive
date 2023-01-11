@@ -4,13 +4,14 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-96 songs - 5 hr 42 min
+97 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-10-20 |  |
 | [1DK](https://open.spotify.com/track/7gFEJepDJQozYYVJDHaLjw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [1DK](https://open.spotify.com/album/0JVSlC0WdDSj97rtfHqyjd) | 4:08 | 2022-12-09 | 2022-12-24 |
 | [1gの詐欺](https://open.spotify.com/track/44R5LHXgkxEPqW1P6PhkLE) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [1gの詐欺](https://open.spotify.com/album/2pmnts7eHPbT5f5sd4k4yQ) | 3:40 | 2022-11-24 | 2022-12-14 |
+| [Alice](https://open.spotify.com/track/6lNoFGUr7bXvHRF8TM92gr) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Alice](https://open.spotify.com/album/2zjDNX7u3kuY2FFbiNgJ5p) | 3:33 | 2023-01-10 |  |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 | 2022-12-14 |
 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-10-20 | 2023-01-03 |
 | [Beyond the mirage](https://open.spotify.com/track/5qmD8to3Qoajb9WBCXtvFf) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Beyond the mirage](https://open.spotify.com/album/72Ij6AYsePnNuOBAwmBauM) | 4:14 | 2022-12-13 |  |
@@ -103,6 +104,6 @@
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 |  |
 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 | 2022-10-20 |  |
 | [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 | 2022-10-20 | 2022-11-25 |
-| [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 | 2022-10-20 |  |
+| [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 | 2022-10-20 | 2023-01-11 |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 43800,
+  "num_followers": 43835,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGQyMWVhZTRlNDlhMjQyN2FkNDkyN2RiZDZmNzMxYmQx",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGUyNzM4M2U2N2NjYjE5NGY3MzZhNGIzM2JmM2Q4YjQz",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Player's Club",
-        "url": "https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Pacific Coast Highway",
         "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 238853,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Player's Club",
+        "url": "https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 283266,
       "name": "Eye 2 Eye",
       "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Revolving Door",
         "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 345040,
       "name": "Mildred's Attraction",
       "url": "https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 238293,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
     },
     {
       "added_at": "2020-08-19 19:15:51",

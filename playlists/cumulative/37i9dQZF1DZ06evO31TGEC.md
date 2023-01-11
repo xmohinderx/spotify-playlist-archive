@@ -4,7 +4,7 @@
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 3 min
+61 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Bendito Amor](https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:26 | 2022-06-01 |  |
 | [Cara Bonita](https://open.spotify.com/track/7xLcYIHPsPipnEkpoCQl11) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Con Banda Sinaloense](https://open.spotify.com/album/4iE9RvuOdi3H6lCwkWlm0b) | 3:18 | 2022-06-01 |  |
 | [Chiquilla Te Quiero](https://open.spotify.com/track/1qYiXj8TdD8AGdzUCCUXW4) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:46 | 2022-08-31 | 2022-10-08 |
-| [Chiquitita](https://open.spotify.com/track/1iG2hQLrcod9GNiBWqav7a) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 4:45 | 2022-06-01 |  |
+| [Chiquitita](https://open.spotify.com/track/1iG2hQLrcod9GNiBWqav7a) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 4:45 | 2022-06-01 | 2023-01-11 |
 | [Clave Siete](https://open.spotify.com/track/4LJvzv6VvDuLZxQ1tGlexg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Exitos de Coleccion](https://open.spotify.com/album/3zjAmnX1cOJSFJu90xhVG5) | 3:56 | 2022-06-01 |  |
+| [Como Te Extraño](https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 3:02 | 2023-01-10 |  |
 | [Contigo Me Gusta](https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:06 | 2022-06-01 |  |
 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 | 2022-06-01 |  |
 | [Cuando Era Niño](https://open.spotify.com/track/4NddcjnH1xdec9o8Y88IIE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:21 | 2022-07-16 |  |

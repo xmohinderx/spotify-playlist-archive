@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> The best Indie tracks from the scene\. Cover \- Taaruk Raina
+> The best Indie tracks from the scene\. Cover \- Mitraz
 
 174 songs - 10 hr 7 min
 

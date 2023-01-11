@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,747 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,756 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 23 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
 | 24 | [Carismático](https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:35 |
 | 25 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
-| 26 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 |
+| 26 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:21 |
 | 27 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
-| 28 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:21 |
+| 28 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 |
 | 29 | [Yo Te Diré](https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:26 |
 | 30 | [Insisto](https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 4:37 |
 | 31 | [PELOTUDA](https://open.spotify.com/track/65zh1W9YBpgGlS4G98mI0v) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 3:05 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 35 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 |
 | 36 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
 | 37 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 |
-| 38 | [El Presente \(Unplugged\) \(En Vivo\)](https://open.spotify.com/track/713yeila63kevWr0gqwTxO) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:40 |
-| 39 | [Terminales](https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:21 |
-| 40 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 |
-| 41 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 |
+| 38 | [Terminales](https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:21 |
+| 39 | [El Presente \(Unplugged\) \(En Vivo\)](https://open.spotify.com/track/713yeila63kevWr0gqwTxO) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:40 |
+| 40 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 |
+| 41 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 |
 | 42 | [Primavera](https://open.spotify.com/track/37lZKUqakqzVbbAEERiJlM) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 3:52 |
 | 43 | [De Atar](https://open.spotify.com/track/1OP1B37Pxw12b7ixZeR0kO) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:04 |
 | 44 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 61 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
 | 62 | [Todas Esas Tardes](https://open.spotify.com/track/3LL4MggYG3ivfMbkkmmef4) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ANIM4LES](https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl) | 4:28 |
 | 63 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 |
-| 64 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
-| 65 | [Bossanova](https://open.spotify.com/track/74XtE5z7M4VLVTQT0RtFbH) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Clandestino](https://open.spotify.com/album/5qu9yhvRNZKouzxyUa4luV) | 3:21 |
+| 64 | [Bossanova](https://open.spotify.com/track/74XtE5z7M4VLVTQT0RtFbH) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Clandestino](https://open.spotify.com/album/5qu9yhvRNZKouzxyUa4luV) | 3:21 |
+| 65 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
 | 66 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 |
 | 67 | [Aves Migratorias](https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [¿Dónde Vas?](https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ) | 3:22 |
 | 68 | [Tráfico por Katmandú](https://open.spotify.com/track/4CP1f7aNCp3cJ3CKAl3XY0) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:17 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 93 | [Picante](https://open.spotify.com/track/5VB2lmH2J2tnJBjMURSN6r) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Picante](https://open.spotify.com/album/2vM4XgkyBTi7kKpxFvrpdl) | 3:07 |
 | 94 | [Todo el Día](https://open.spotify.com/track/7vX3ImcbaAn5VW18HrXm76) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Todo el Día](https://open.spotify.com/album/0DRQAO4xwdVD2o6jD08AcJ) | 3:43 |
 | 95 | [Tengo Todo](https://open.spotify.com/track/6x9PGO5Dijv5BfqfLRuKDS) | [Los Mentidores](https://open.spotify.com/artist/1o17CAvZHduKv8DzVs1UXT), [Ricardo Tapia](https://open.spotify.com/artist/3NONwjxJLj1yc4GjBdBeUY) | [Tipos Serios](https://open.spotify.com/album/3zNyBEZmtuO1FKmuGWV5Vh) | 2:30 |
-| 96 | [Fijate](https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn) | [Micky Rodriguez](https://open.spotify.com/artist/0QXzxmIHIeQEYvRCOmJ0vB) | [Fijate](https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8) | 3:54 |
-| 97 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
+| 96 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
+| 97 | [Fijate](https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn) | [Micky Rodriguez](https://open.spotify.com/artist/0QXzxmIHIeQEYvRCOmJ0vB) | [Fijate](https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8) | 3:54 |
 | 98 | [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 |
 | 99 | [Paisano De Hurlingham](https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 3:58 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDNhNWFhMzNmZWQ5OGFjYzI2OGEzMTU3ZDQxMzU5NmEw`
+Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDY4OTE4N2Q5MWRhNWQwMGY0YTBmMDA3YjRmOWM3NTBj`

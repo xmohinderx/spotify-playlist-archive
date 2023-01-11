@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,013 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,279 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 30 | [Al gato y al ratón](https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:42 |
 | 31 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 |
 | 32 | [Huele A Peligro](https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 3:52 |
-| 33 | [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 |
-| 34 | [Frio De Ausencia](https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb) | 3:09 |
+| 33 | [Frio De Ausencia](https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Ultimo Trago](https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb) | 3:09 |
+| 34 | [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 |
 | 35 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
 | 36 | [Pequeña Orgullosa](https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 2:58 |
 | 37 | [Ni El Dinero Ni Nada](https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:49 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 79 | [Río Rebelde](https://open.spotify.com/track/2tkxHULxMGrgDNkTvcZBhR) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [La Única](https://open.spotify.com/album/4P57WSgHURvfiwilKSOfzH) | 2:52 |
 | 80 | [Llévame Rosas Y Olvida](https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Africanos Al Ataque](https://open.spotify.com/album/05W649wdes7jKusqma34Gn) | 3:25 |
 | 81 | [MI Vida Sin Ti](https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Evolution](https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3) | 4:12 |
-| 82 | [Nunca se Acabo el Encanto](https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:10 |
-| 83 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
+| 82 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
+| 83 | [Nunca se Acabo el Encanto](https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:10 |
 | 84 | [Tu Castigo](https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:52 |
 | 85 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 3:55 |
 | 86 | [Chiquitita](https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:47 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 124 | [Cómo Sufro](https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 2:54 |
 | 125 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con la Número 1: 13 Rancheras y Cumbias](https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk) | 2:57 |
 
-Snapshot ID: `MTY3MjQyMjkxOSwwMDAwMDAwMDAxMmJhM2ZjMGU2NDgxNTVlYmYyZjZjZDJkOGE5ODQ3`
+Snapshot ID: `MTY3MjQyMjkxOSwwMDAwMDAwMDg4OTRmMTkzNDVjYTM3NWZlYzczNzc2NGU2ZWQ0Mjlj`

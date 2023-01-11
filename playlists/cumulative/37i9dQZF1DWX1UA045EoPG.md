@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-68 songs - 3 hr 46 min
+69 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Peach Jam](https://open.spotify.com/track/6dktyiCWz2JYGmcPQ5D5dY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:41 | 2018-09-14 |  |
 | [Riri Thick \- Moods Remix](https://open.spotify.com/track/0xT4knFEialXamJIax97Yx) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Sun BLVD](https://open.spotify.com/artist/7K9cfCRuleWnt1AmUxsCf9), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sundae Sauuce Presents: Strawberry Drizzle](https://open.spotify.com/album/1uGtAEx6E84HjpI77vWDtt) | 3:23 | 2018-09-14 |  |
 | [Roll \(Burbank Funk\)](https://open.spotify.com/track/01bfHCsUTwydXCHP1VoLlI) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:11 | 2018-09-14 |  |
-| [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 | 2018-09-14 |  |
+| [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 | 2018-09-14 | 2023-01-11 |
+| [Rollercoaster](https://open.spotify.com/track/4TPzZlQvwNwO8tI3f6lsY2) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Overgrown](https://open.spotify.com/album/3FBY8CnuZ6aD3pzfSodd3W) | 3:17 | 2022-09-27 |  |
 | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/album/6nt2urfBROkUQWnzpSOohu) | 4:32 | 2018-09-14 |  |
 | [Scintilla](https://open.spotify.com/track/7rYCnrsH8kAV9kJm6zI6UE) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Scintilla / Break My Back](https://open.spotify.com/album/4StJrEkwzZtJgqqKTwljuS) | 3:04 | 2018-09-14 |  |
 | [Sky High](https://open.spotify.com/track/4KPTn94q9A0WsuypOrSzIV) | [Mr\. Goldenfold](https://open.spotify.com/artist/6FPuOcm8xqY362N137yZXi) | [Neighborhood](https://open.spotify.com/album/5LvMZHMGHz6w3N2nwVjdkB) | 2:55 | 2018-09-14 |  |

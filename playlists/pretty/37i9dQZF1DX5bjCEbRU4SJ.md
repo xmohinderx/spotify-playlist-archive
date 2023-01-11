@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,616 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,609 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 37 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 |
 | 38 | [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 |
 | 39 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 40 | [Wintersong](https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Blake Mills](https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu) | 4:16 |
-| 41 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
+| 40 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
+| 41 | [Wintersong](https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Blake Mills](https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu) | 4:16 |
 | 42 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 |
 | 43 | [I Don't Know](https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc) | 4:59 |
 | 44 | [The Ocean](https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Coles Corner](https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ) | 5:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
 | 70 | [Dry Your Eyes](https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 4:12 |
 
-Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGI1MTRiMGVhNTQwYmRmNGQxYmRiZGJjMmVkNTgxYTZl`
+Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGVkNTgyNDAyMjI0MjEyZDkxY2JiNmViMDU4NDkwZmVk`

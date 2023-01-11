@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 529476,
+  "num_followers": 529533,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMDQ1NWVkN2U2ZDg0NmMyZTY5Zjg1MDI1MDg4ZTY0ZDFk",
+  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMDgxOTYzNWRkNWYxN2I4ZDQ5NzBhZTY0ODJhMzRiMDVi",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Rancho grande",
-      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
+      "duration_ms": 228160,
+      "name": "La bamba",
+      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -883,8 +883,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "L\u00e1stima Que Sean Ajenas",
-        "url": "https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL"
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 188472,
-      "name": "El Tapatio",
-      "url": "https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W"
+      "duration_ms": 137108,
+      "name": "La Vaquilla Colorada",
+      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 228160,
-      "name": "La bamba",
-      "url": "https://open.spotify.com/track/73TlRBB49YVKtrmlj7mERt"
+      "duration_ms": 156333,
+      "name": "Rancho grande",
+      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -963,8 +963,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
+        "name": "L\u00e1stima Que Sean Ajenas",
+        "url": "https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 137108,
-      "name": "La Vaquilla Colorada",
-      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
+      "duration_ms": 188472,
+      "name": "El Tapatio",
+      "url": "https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1139,6 +1139,54 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
+        }
+      ],
+      "duration_ms": 181930,
+      "name": "El Son De La Negra",
+      "url": "https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 136672,
+      "name": "Gavilancito Sangre Cruzada",
+      "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "El Mezcalito",
+      "url": "https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1187,54 +1235,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 136672,
-      "name": "Gavilancito Sangre Cruzada",
-      "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Sones",
-        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Tecalitlan",
-          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "El Mezcalito",
-      "url": "https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "El Son De La Negra",
-      "url": "https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mexico: 20 Best Mariachi and Folk Songs",
         "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Luis Aguilar",
-        "url": "https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd"
+        "name": "Puro Mariachi",
+        "url": "https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3"
       },
       "artists": [
         {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+          "name": "Mariachi Los Caporales",
+          "url": "https://open.spotify.com/artist/1EkCOEysq5KAQ1axi0YhGE"
         }
       ],
-      "duration_ms": 134906,
-      "name": "El Fandanguero",
-      "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
+      "duration_ms": 137586,
+      "name": "El Son De Los Aguacates",
+      "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Puro Mariachi",
-        "url": "https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3"
+        "name": "Luis Aguilar",
+        "url": "https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd"
       },
       "artists": [
         {
-          "name": "Mariachi Los Caporales",
-          "url": "https://open.spotify.com/artist/1EkCOEysq5KAQ1axi0YhGE"
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
         }
       ],
-      "duration_ms": 137586,
-      "name": "El Son De Los Aguacates",
-      "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
+      "duration_ms": 134906,
+      "name": "El Fandanguero",
+      "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
     },
     {
       "added_at": "2022-09-12 17:32:54",

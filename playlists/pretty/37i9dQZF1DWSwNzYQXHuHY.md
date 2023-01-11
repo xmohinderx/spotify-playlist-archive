@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,844 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,858 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 26 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 |
 | 27 | [Feel Like Falling In Love](https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy) | 3:14 |
 | 28 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
-| 29 | [Tattoo](https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Tattoo](https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08) | 3:09 |
-| 30 | [Not In Public](https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [3rd Digital Single 'Not In Public'](https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy) | 2:51 |
+| 29 | [Not In Public](https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [3rd Digital Single 'Not In Public'](https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy) | 2:51 |
+| 30 | [Tattoo](https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Tattoo](https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08) | 3:09 |
 | 31 | [See You Again](https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:44 |
 | 32 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 |
 | 33 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 44 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
 | 45 | [Losing Sleep Over You](https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Losing Sleep Over You](https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi) | 3:01 |
 | 46 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 |
-| 47 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 |
-| 48 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 |
+| 47 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 |
+| 48 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 |
 | 49 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 |
 | 50 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
 
-Snapshot ID: `MTY3MjA0NjgyNywwMDAwMDAwMDZhZGM5MTJhOTQ3M2YzZDcwZGNjYWZmOTVhZDFhMDNk`
+Snapshot ID: `MTY3MzM0MDA2MywwMDAwMDAwMGI3YjY5ZmVhZjA5ZjUzODU4ODU3M2Q1MjA3ZjFmODJl`

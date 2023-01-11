@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters",
-  "num_followers": 23364,
+  "num_followers": 23438,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0Njk2OSwwMDAwMDAwMDMxNzA5YTNjMzA1OTg0N2NhNjA3ZTllZDVkZTBmNGFk",
+  "snapshot_id": "MTY2OTM0Njk2OSwwMDAwMDAwMDc2ZGQ3NGFkNTU5N2M0YTBjYzZjZmZlNWJhOGFkYmUz",
   "tracks": [
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Yours Truly (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt"
       },
@@ -1055,6 +1071,22 @@
       "duration_ms": 232813,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "God Bless Satan",
+        "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
+      },
+      "artists": [
+        {
+          "name": "Mephiskapheles",
+          "url": "https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl"
+        }
+      ],
+      "duration_ms": 195527,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
     },
     {
       "added_at": "2022-03-11 06:00:00",
@@ -1079,38 +1111,6 @@
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "God Bless Satan",
-        "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
-      },
-      "artists": [
-        {
-          "name": "Mephiskapheles",
-          "url": "https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl"
-        }
-      ],
-      "duration_ms": 195527,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Destruction By Definition",
-        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "New Girl",
-      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
     },
     {
       "added_at": "2022-07-01 02:45:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "Oi To The World",
-      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Goldfinger",
         "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 190800,
       "name": "Here In Your Bedroom",
       "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "Oi To The World",
+      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+        "name": "Temerario",
+        "url": "https://open.spotify.com/album/5NqehJUIpQ3epkcNrNogxI"
       },
       "artists": [
         {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+          "name": "Itaca Band",
+          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
         }
       ],
-      "duration_ms": 221733,
-      "name": "Into Action",
-      "url": "https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s"
+      "duration_ms": 201802,
+      "name": "Temerario",
+      "url": "https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Temerario",
-        "url": "https://open.spotify.com/album/5NqehJUIpQ3epkcNrNogxI"
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
       },
       "artists": [
         {
-          "name": "Itaca Band",
-          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
         }
       ],
-      "duration_ms": 201802,
-      "name": "Temerario",
-      "url": "https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH"
+      "duration_ms": 221733,
+      "name": "Into Action",
+      "url": "https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "1997-2002",
-        "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Jaia",
-      "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Wasted Days",
         "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 248413,
       "name": "Wasted Days",
       "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "1997-2002",
+        "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Jaia",
+      "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -2347,18 +2363,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+        "name": "Puerto Hurraco",
+        "url": "https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0"
       },
       "artists": [
         {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+          "name": "Persiana Jones",
+          "url": "https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ"
         }
       ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+      "duration_ms": 161226,
+      "name": "Tremarella",
+      "url": "https://open.spotify.com/track/3qVMtCTsmeSUiXuhrTPweZ"
     },
     {
       "added_at": "2022-07-15 04:40:06",
@@ -2383,22 +2399,6 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Puerto Hurraco",
-        "url": "https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0"
-      },
-      "artists": [
-        {
-          "name": "Persiana Jones",
-          "url": "https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Tremarella",
-      "url": "https://open.spotify.com/track/3qVMtCTsmeSUiXuhrTPweZ"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2431,6 +2431,22 @@
       "duration_ms": 190012,
       "name": "El Peor Momento",
       "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 146452,
+      "name": "Puto Alcohol",
+      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2515,22 +2531,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 146452,
-      "name": "Puto Alcohol",
-      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Made In Barna",
         "url": "https://open.spotify.com/album/62j8EctPF6KpEtcnOXQASE"
       },
@@ -2543,22 +2543,6 @@
       "duration_ms": 148640,
       "name": "Pirata Capit\u00e1n",
       "url": "https://open.spotify.com/track/0peCjjvb2ub8kitZbO8JwN"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Too Much Pressure",
-        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
-      },
-      "artists": [
-        {
-          "name": "The Selecter",
-          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Missing Words",
-      "url": "https://open.spotify.com/track/5H8TJu9PMveCEpuudqo2zV"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2579,34 +2563,34 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+        "name": "Too Much Pressure",
+        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
         }
       ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+      "duration_ms": 204466,
+      "name": "Missing Words",
+      "url": "https://open.spotify.com/track/5H8TJu9PMveCEpuudqo2zV"
     },
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Latin Ska",
-        "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
       "artists": [
         {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
         }
       ],
-      "duration_ms": 194413,
-      "name": "Latin Ska",
-      "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
+      "duration_ms": 170800,
+      "name": "Don't Let the Bastards Grind You Down",
+      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2643,38 +2627,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Toasters: 30th Anniversary",
-        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Don't Let the Bastards Grind You Down",
-      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Too Much Pressure",
-        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
-      },
-      "artists": [
-        {
-          "name": "The Selecter",
-          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
-        }
-      ],
-      "duration_ms": 183273,
-      "name": "Three Minute Hero",
-      "url": "https://open.spotify.com/track/3iWEwCUX3OrJkHmadDCNgC"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/3CF7yIyzFIW9Z3S0yjRuP9"
       },
@@ -2691,6 +2643,38 @@
       "duration_ms": 213405,
       "name": "Amor Enfermo",
       "url": "https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Latin Ska",
+        "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Latin Ska",
+      "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2727,22 +2711,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Night Boat to Cairo",
-      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Armada Hasta los Dientes V 1.5",
         "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
@@ -2755,6 +2723,22 @@
       "duration_ms": 132146,
       "name": "Nana Punk",
       "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Too Much Pressure",
+        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "duration_ms": 183273,
+      "name": "Three Minute Hero",
+      "url": "https://open.spotify.com/track/3iWEwCUX3OrJkHmadDCNgC"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2803,6 +2787,22 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Night Boat to Cairo",
+      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3015,6 +3015,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Tiempos Extras",
         "url": "https://open.spotify.com/album/1w8aDZJmomYGfae6kKZasy"
       },
@@ -3043,22 +3059,6 @@
       "duration_ms": 212280,
       "name": "La \u00daltimo Carta",
       "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3095,6 +3095,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Strictly Rude",
+        "url": "https://open.spotify.com/album/1kuObhSxafq6parqT4omr8"
+      },
+      "artists": [
+        {
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Noise Complaint",
+      "url": "https://open.spotify.com/track/5Cq3iRZZEBUTfKRTXmiz5L"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Ghost Train",
         "url": "https://open.spotify.com/album/7aZsLt8oHbOXbLrsnXtIa8"
       },
@@ -3127,22 +3143,6 @@
       "duration_ms": 141040,
       "name": "Carta de Amor",
       "url": "https://open.spotify.com/track/72ywCCatDWFs4blSmmWUgr"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Strictly Rude",
-        "url": "https://open.spotify.com/album/1kuObhSxafq6parqT4omr8"
-      },
-      "artists": [
-        {
-          "name": "Big D and the Kids Table",
-          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "Noise Complaint",
-      "url": "https://open.spotify.com/track/5Cq3iRZZEBUTfKRTXmiz5L"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3283,22 +3283,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Motorcity Roots",
-        "url": "https://open.spotify.com/album/4SQvzwKij7TnNJwottSxtw"
-      },
-      "artists": [
-        {
-          "name": "Jazz Jamaica",
-          "url": "https://open.spotify.com/artist/19OQfCaZNNYap4BkxUVh43"
-        }
-      ],
-      "duration_ms": 330866,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/1uPXCYx1ucrJBDgywMjPCp"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Resistirem",
         "url": "https://open.spotify.com/album/6UaJZmea8LAFpCUfxl5Y0D"
       },
@@ -3311,6 +3295,22 @@
       "duration_ms": 156395,
       "name": "Som de l'oest",
       "url": "https://open.spotify.com/track/4uAO7c2fB3Xnpypuam9YF4"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Motorcity Roots",
+        "url": "https://open.spotify.com/album/4SQvzwKij7TnNJwottSxtw"
+      },
+      "artists": [
+        {
+          "name": "Jazz Jamaica",
+          "url": "https://open.spotify.com/artist/19OQfCaZNNYap4BkxUVh43"
+        }
+      ],
+      "duration_ms": 330866,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/1uPXCYx1ucrJBDgywMjPCp"
     }
   ],
   "unique_name": "Ska Around The Globe",

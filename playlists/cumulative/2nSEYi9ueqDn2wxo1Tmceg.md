@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-303 songs - 19 hr 54 min
+305 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Hard Rock Potato](https://open.spotify.com/track/5NiDP5WtAn6N4HOzPbEoby) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Hard Rock Potato](https://open.spotify.com/album/67zxEhP3JZn15me2wta0k2) | 3:57 | 2022-08-17 | 2022-09-29 |
 | [Hello Chic](https://open.spotify.com/track/3ryT08hgJsNIRKslnjdgeq) | [Mela Femmina](https://open.spotify.com/artist/3xd5OCys1geIO36hsmS4Xb) | [Hello Chic](https://open.spotify.com/album/2jwn2dK8RhqYcuSj5GXFhw) | 4:26 | 2022-07-13 | 2022-08-25 |
 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 | 2022-07-20 | 2022-09-01 |
+| [Hey Bog](https://open.spotify.com/track/5lWL2HZ9MMCFLpgeM1htpP) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [The Musical / Hey Bog](https://open.spotify.com/album/2NH3n58J1Zvabciudok71a) | 9:23 | 2023-01-10 |  |
 | [High & Tired](https://open.spotify.com/track/3ZWVMyPoiwSGk5yaeiY6f7) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [High & Tired](https://open.spotify.com/album/0SnRennD8T02I92I0d8ANT) | 5:21 | 2022-10-12 | 2022-11-17 |
 | [High Art Lite](https://open.spotify.com/track/3eMkZmBbC35Hms3rdv0Gl2) | [TVAM](https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM) | [High Art Lite](https://open.spotify.com/album/1J9EFJI3G2fRrX8LtVWBbd) | 5:29 | 2022-11-02 | 2022-12-08 |
 | [Hips \- Loraine James Remix](https://open.spotify.com/track/26VIhDNSWMxf2FBaTLQEeI) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Highgrade](https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z) | 3:17 | 2022-06-17 | 2022-08-11 |
@@ -269,6 +270,7 @@
 | [The Harmony](https://open.spotify.com/track/4bWoizeurWxioIenJkguM6) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Harmony](https://open.spotify.com/album/4kpZBm6XlD1TZRU220lj9i) | 4:03 | 2023-01-05 |  |
 | [The Individual](https://open.spotify.com/track/0Exh17FiF1Nqklg5TSZArt) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [BLUSH](https://open.spotify.com/album/2RmsiWEPNkqtfjbFDi1zqe) | 3:50 | 2022-10-20 | 2022-12-01 |
 | [The Lazer](https://open.spotify.com/track/62r9v0y9TE0UAMhcb9Mlwd) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/2Ocda6SiIopqmd5rzT4SNl) | 3:51 | 2022-11-09 | 2022-12-15 |
+| [The Musical](https://open.spotify.com/track/5x5aqkqUDMdaFEEzuOTt7X) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [The Musical / Hey Bog](https://open.spotify.com/album/2NH3n58J1Zvabciudok71a) | 5:54 | 2023-01-10 |  |
 | [The Rain Came Down](https://open.spotify.com/track/3wHZmrmckEdz2es3w0YKYN) | [The Weather Boys](https://open.spotify.com/artist/21BmZUrTd0aS0kDS0NJftY) | [The Rain Came Down](https://open.spotify.com/album/70iJQrk26iJClhGjvjSVFv) | 3:26 | 2022-06-08 | 2022-06-17 |
 | [The Room](https://open.spotify.com/track/4Kw7gITsDMkuyeZdxa6VKC) | [The Orielles](https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD) | [The Room](https://open.spotify.com/album/1kF8zDN1w0yMyMqDeBcHL8) | 4:17 | 2022-09-28 | 2022-11-10 |
 | [The Signs](https://open.spotify.com/track/7Mv0LtBlIFHYF8wTGzn69d) | [Medicine Cabinet](https://open.spotify.com/artist/11SWPw9bCw0O51KV6LSwij) | [The Signs](https://open.spotify.com/album/46tbaMQdEVzZVvgCQvIv1O) | 2:42 | 2022-06-08 | 2022-07-07 |

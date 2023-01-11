@@ -1,12 +1,12 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 21949,
+  "num_followers": 22020,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDIyOGM2OGQxNmU2NGFmNzc3OGM0YTE3ZDgxNWMwOTFi",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDViNTFkNjkxMjk5YmZjYmY4MmU4OWQwYTg2NTkwYTIy",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Every Night Every Morning",
         "url": "https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 196890,
       "name": "Every Night Every Morning",
       "url": "https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 209760,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2023-01-06 05:00:00",

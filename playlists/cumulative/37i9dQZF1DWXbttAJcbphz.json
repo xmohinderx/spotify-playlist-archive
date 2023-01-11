@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
+    },
+    {
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -262,7 +280,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 234040,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 171818,
       "name": "D'Evils",
       "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
@@ -1298,6 +1316,24 @@
       "duration_ms": 270846,
       "name": "Japanese Denim",
       "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
+    },
+    {
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "John Redcorn",
+      "url": "https://open.spotify.com/track/5ibTi2YwtvbB1bTOv2I93d"
     },
     {
       "album": {

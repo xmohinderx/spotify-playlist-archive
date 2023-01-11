@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Welcome to Post\-Hardcore's pantheon\. Cover: Glassjaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,307 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,628 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 38 | [The Words "Best Friend" Become Redefined](https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 3:36 |
 | 39 | [Niki Fm](https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:59 |
 | 40 | [Buried a Lie](https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:59 |
-| 41 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
-| 42 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
+| 41 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
+| 42 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
 | 43 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
 | 44 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
 | 45 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 |
 | 75 | [Vices](https://open.spotify.com/track/4rxQv4w7R3LQlKVHRHW8Hi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Liam Cormier](https://open.spotify.com/artist/5IrAy16J58yAZf42VLRa5m) | [A Shipwreck In The Sand \(Bonus Track Version\)](https://open.spotify.com/album/05OgjuvYwliwjcFq6EFWSA) | 3:16 |
 
-Snapshot ID: `MTY3MjI0NDg3MCwwMDAwMDAwMDY2ZWFmYTUyMThmN2Q5ZDVlMmFkMGIyZGE1ZmYxNWNk`
+Snapshot ID: `MTY3MjI0NDg3MCwwMDAwMDAwMGM1ZDVkYzUzNWQ5ODU5MjE3YzhlZmEwNDUxNDQyMGUx`

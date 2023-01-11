@@ -778,6 +778,24 @@
     {
       "album": {
         "name": "Imagine Gold",
+        "url": "https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "Fires",
+      "url": "https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv"
+    },
+    {
+      "album": {
+        "name": "Imagine Gold",
         "url": "https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm"
       },
       "artists": [
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 222000,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8"

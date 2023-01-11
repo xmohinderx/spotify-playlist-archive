@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,791 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,871 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 28 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
 | 29 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 |
 | 30 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
-| 31 | [Had Me a Real Good Time \- 2010 Remaster](https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Snakes and Ladders: The Best of Faces](https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc) | 2:54 |
-| 32 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 |
+| 31 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 |
+| 32 | [Had Me a Real Good Time \- 2010 Remaster](https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Snakes and Ladders: The Best of Faces](https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc) | 2:54 |
 | 33 | [Don't Start Me Talkin' \- Jinx Session / 1982](https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:33 |
 | 34 | [Spinning Wheel Blues](https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 3:19 |
 | 35 | [Floyd's Hotel](https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 3:09 |
 | 36 | [The Golden Age of Rock 'n' Roll](https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 3:24 |
 | 37 | [Silver Dollar](https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Fighting](https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ) | 3:26 |
-| 38 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 |
+| 38 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
 | 39 | [Hell Cat](https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Top Priority \(Remastered 2017\)](https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy) | 4:50 |
-| 40 | [Find Yourself Another Fool \- Remastered](https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 2:35 |
-| 41 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
+| 40 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 |
+| 41 | [Find Yourself Another Fool \- Remastered](https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 2:35 |
 | 42 | [I'm A Rocker](https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Side 3](https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc) | 5:10 |
 | 43 | [Outlaws](https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [1234](https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF) | 4:02 |
 | 44 | [Jerkin' Crocus](https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Tars Of India](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
 | 50 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMGI1M2FiYzFlMjYzYjFlYjY5YTkyY2VkMDg3Y2Y1MmIz`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMGI1ODZlM2NjYzI1YjMwYTMxYjBhYzY0ZjIzMTIzMjdi`

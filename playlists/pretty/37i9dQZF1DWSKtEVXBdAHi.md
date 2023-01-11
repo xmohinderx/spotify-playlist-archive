@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,102 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,104 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 60 | [Living \(feat\. Alex Clare\)](https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Living \(feat\. Alex Clare\)](https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume) | 3:17 |
 | 61 | [Pieces](https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Pieces](https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE) | 3:00 |
 | 62 | [All I Wanna Do](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm) | 3:14 |
-| 63 | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Eskeemo](https://open.spotify.com/artist/6c1KIrxttQDU6A31FwNlXg) | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj) | 2:24 |
-| 64 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
+| 63 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
+| 64 | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Eskeemo](https://open.spotify.com/artist/6c1KIrxttQDU6A31FwNlXg) | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj) | 2:24 |
 | 65 | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 |
 | 66 | [FOMO](https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Sylo Songs](https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR) | 2:07 |
 | 67 | [Lion](https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion](https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 | 80 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDY0Zjg1ODVhMWE1YmY2ZGRhOTY5MGUxYzhjYjQxMGJm`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDQ1MGFhMmVmODM0ODQwZjU2NjU1MTI3MTc5Y2RmMGE2`

@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-120 songs - 3 hr 13 min
+121 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [It's Such a Good Feeling!](https://open.spotify.com/track/05DnLOyGvZqA3NmyfS3fp2) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Big Feelings](https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8) | 1:34 | 2022-04-15 | 2022-07-28 |
 | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/track/73iysPDdIf3M505nHzfflY) | [Backhouse Mike](https://open.spotify.com/artist/1ln7aue0Yjz4QOqcf2gtUL) | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/album/3KrKRIL5UXe4ozYXrEfLOO) | 2:37 | 2022-04-15 |  |
 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 | 2022-04-15 |  |
+| [Life Is Better Loud](https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ) | 2:29 | 2022-04-15 |  |
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-04-15 | 2022-10-11 |
 | [Love For The Heights](https://open.spotify.com/track/0YQGBzrLbWdBgP5hvYpqyC) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Karma’s World](https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA) | 2:23 | 2022-04-15 | 2022-07-29 |
 | [Make It Shine \(Victorious Theme\) \(feat\. Victoria Justice\)](https://open.spotify.com/track/4nqxQU97VmHhn3e6a3CUWZ) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Victorious: Music From The Hit TV Show \(feat\. Victoria Justice\)](https://open.spotify.com/album/1VM5qKftnTKFU9rthvEgYx) | 3:07 | 2022-04-15 |  |
@@ -89,7 +90,7 @@
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/15wnCuuVPp9DVRwz4E3uGC) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/30bd7R8eBRBJizOc0VNwUK) | 1:31 | 2022-04-15 |  |
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/2fmxTrZ8Nl4nryofppxC27) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/06cPzokRlGLUfBxcsJbE1s) | 1:31 | 2022-04-15 | 2022-11-24 |
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/7494gF82bPmJYFYQFQsGra) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/0UhvB5gwwLXH4kCAyyo4dL) | 1:31 | 2022-04-15 | 2022-10-14 |
-| [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 | 2022-04-15 |  |
+| [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 | 2022-04-15 | 2023-01-11 |
 | [Sesame Street Theme \- 2019 Mix](https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA) | [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: What's the Number?](https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km) | 1:53 | 2022-04-15 | 2023-01-02 |
 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 | 2022-04-15 |  |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/10v3ba3brdnOTfHgjTULyC) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/5wWDNNCRp5rkcktZounG1e) | 2:35 | 2022-04-15 | 2022-10-13 |

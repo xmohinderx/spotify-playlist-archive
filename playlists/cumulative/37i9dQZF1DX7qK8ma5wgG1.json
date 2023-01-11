@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 221377,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 184505,
       "name": "i don't want to watch the world end with someone else",
       "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
@@ -1556,6 +1556,42 @@
       "duration_ms": 205994,
       "name": "If You Ever Change Your Mind",
       "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
+    },
+    {
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
+    },
+    {
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227749,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "album": {

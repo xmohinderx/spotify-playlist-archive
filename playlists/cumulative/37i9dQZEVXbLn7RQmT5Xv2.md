@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-555 songs - 1 day 7 hr 30 min
+556 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Akwa Mix](https://open.spotify.com/track/6gWWe46JPVjiHXbgTpyKGO) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Akwa Mix](https://open.spotify.com/album/2GjJAqIOP1x5MUqEJp4Rks) | 3:10 | 2022-02-09 | 2022-02-17 |
 | [Ala Ba'ady](https://open.spotify.com/track/37Qs3XrDloB2ocXfAhVnmL) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Ala Ba'ady](https://open.spotify.com/album/1p9ij7JhwWj4vQrfMcUc12) | 4:07 | 2021-03-27\* | 2021-10-01 |
 | [Aleb Fel Dafater](https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Aleb Fel Dafater](https://open.spotify.com/album/6yF1BKku71kjth4L1WEMYV) | 5:06 | 2022-12-24 |  |
-| [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-22 |  |
+| [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-22 | 2023-01-11 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-16 | 2021-11-17 |
 | [Alla Allah](https://open.spotify.com/track/64GCalyvsLphPpEevk9dWB) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Alla Allah](https://open.spotify.com/album/45o4zMEFQ7QXv4lemk8bdA) | 2:40 | 2021-08-26 | 2021-09-03 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2022-11-19 |  |
@@ -456,6 +456,7 @@
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-04-29 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-13 | 2021-11-03 |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-14 | 2022-05-16 |
+| [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-01-10 |  |
 | [Ya Fatenny](https://open.spotify.com/track/268vuOQPZTwDjwS5SqrKC8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr) | 3:44 | 2021-10-09 | 2021-10-30 |
 | [Ya Salam](https://open.spotify.com/track/71NxDRVhiagwxQX1tyMzUR) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 4:36 | 2022-02-21 | 2022-02-24 |
 | [Ya Salam \- Remix](https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Ya Salam \(Remix\)](https://open.spotify.com/album/3hmV8luknujbOif3arzW4J) | 4:13 | 2022-02-28 | 2022-10-15 |

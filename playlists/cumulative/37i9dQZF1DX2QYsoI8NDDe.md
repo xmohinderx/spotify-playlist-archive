@@ -4,7 +4,7 @@
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar
 
-212 songs - 12 hr 10 min
+213 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/3GoKDP0kBKnsj9SlK1oYVz) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 3:55 | 2022-01-07 | 2022-07-29 |
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:55 | 2022-05-20 |  |
 | [Que Poca](https://open.spotify.com/track/0JQO9eCZDOTcUkXz7FfRQO) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/0XQF6UKQVn168OYRJfNoL5) | 3:08 | 2022-01-07 | 2022-07-29 |
+| [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 | 2022-08-03 |  |
 | [Que Poca](https://open.spotify.com/track/489an9gNuEO1fyf0ZIQ2nc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/54Q3EKL4bm3MBqFjyqhIH7) | 3:09 | 2022-05-20 | 2022-12-22 |
 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 | 2022-01-07 |  |
 | [Que Vuelva](https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Y Seguimos Con Duranguense](https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR) | 4:18 | 2022-01-07 | 2022-11-13 |
@@ -176,7 +177,7 @@
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [Te Aprovechas](https://open.spotify.com/track/5XDzjngBmRhuY9Q1PAPvpe) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/7z6Mg4FgZucMjSfMxbXkoA) | 3:06 | 2022-01-07 | 2022-07-29 |
 | [Te Aprovechas](https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:07 | 2022-05-20 |  |
-| [Te Lo Pido por Favor](https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:44 | 2022-01-07 |  |
+| [Te Lo Pido por Favor](https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:44 | 2022-01-07 | 2023-01-11 |
 | [Te Metiste](https://open.spotify.com/track/2VV3sbyQ7k0f8txzat3GgZ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/5eHu5dMObbjR815GxYpeEX) | 3:48 | 2022-01-07 | 2022-07-24 |
 | [Te Pasaste De La Raya](https://open.spotify.com/track/4Cy6GbncTTHRhRfVzsiZry) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Te Pasaste De La Raya](https://open.spotify.com/album/5x7HS9zdRzQ8fwl7V0Ev3p) | 3:14 | 2022-05-20 | 2022-08-04 |
 | [Te Perdiste Mi Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Habítame Siempre \(Bonus Tracks Version\)](https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI) | 3:40 | 2022-01-07 |  |

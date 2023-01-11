@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,013 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,183 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 9 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 10 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |
 | 11 | [Super Freaky Girl \(with JT & BIA feat\. Katie Got Bandz, Akbar V & Maliibu Mitch\) \- Queen Mix](https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Katie Got Bandz](https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [Super Freaky Girl \(Queen Mix\)](https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6) | 3:54 |
-| 12 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
+| 12 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
 | 13 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 |
-| 14 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
+| 14 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
 | 15 | [DON'T SAY NOTHIN'](https://open.spotify.com/track/2uI3F7VUZruVvUEFslNFr9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 3:07 |
 | 16 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
 | 17 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 |
 | 50 | [Lower](https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Lower](https://open.spotify.com/album/5ivFW60jaUHbkhdovHXKGr) | 1:52 |
 
-Snapshot ID: `MTY3MzAzODgwMCwwMDAwMDAwMGJlMzE2N2Q1YjExODc3MTU1OTEwY2RkMDljMDU1ZTVk`
+Snapshot ID: `MTY3MzAzODgwMCwwMDAwMDAwMDA4NTJjMWYxYWFjOGExZTAwOTYzMWEzZmNkZjJjODM0`

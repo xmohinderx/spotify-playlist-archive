@@ -1,12 +1,12 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 444020,
+  "num_followers": 444231,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NDQ5OCwwMDAwMDAwMDQzYzczOTA5MTk4ZDY5ZTU3MWUyMmRmMzExNDEzNGQ3",
+  "snapshot_id": "MTY2ODE0NDQ5OCwwMDAwMDAwMGU1Y2U4OGQ2Y2UyODRhMzQxZDU4YmU1OTgzZTE0OTgx",
   "tracks": [
     {
       "added_at": "2022-11-11 05:28:18",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "added_at": "2022-11-11 05:28:18",
+      "album": {
         "name": "edamame (feat. Rich Brian)",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
-    },
-    {
-      "added_at": "2022-11-11 05:28:18",
-      "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248335,
-      "name": "It's Not Living (If It's Not With You)",
-      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
     },
     {
       "added_at": "2022-11-11 05:28:18",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-11-11 05:28:18",
       "album": {
-        "name": "Rover (feat. DTG)",
-        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "DTG",
-          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "Rover (feat. DTG)",
-      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2022-11-11 05:28:18",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 156346,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
+    },
+    {
+      "added_at": "2022-11-11 05:28:18",
+      "album": {
+        "name": "Rover (feat. DTG)",
+        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "Rover (feat. DTG)",
+      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
     },
     {
       "added_at": "2022-11-11 05:28:18",

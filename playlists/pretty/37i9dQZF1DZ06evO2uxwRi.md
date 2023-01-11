@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,549 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,551 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Your Jokes Aren't Funny](https://open.spotify.com/track/3KKGoTkLjHsXXAEjxX5kdT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:08 |
 | 50 | [Never Ending Story Theme Song](https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:17 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAwZTY3NDAzNjRjZjgwNmJiMGE3MGM4NzVkNDQ4NjNlMQ==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDBhYWQ1MjEwZTBjYzU2OTBlNDhiYWJlZDlmZmVhZThlNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,588 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,628 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 11 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
 | 12 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 13 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
-| 14 | [Boogie Woogie Country Girl](https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:57 |
-| 15 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
+| 14 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
+| 15 | [Boogie Woogie Country Girl](https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:57 |
 | 16 | [Mess Around](https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:40 |
 | 17 | [Moon Blues](https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 4:26 |
 | 18 | [I Don't Know](https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Presenting Willie Mabon](https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim) | 3:10 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Mean Old Train](https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3) | [Journeys To The Heart Of The Blues](https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z) | 3:03 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDMyYjgwMmRhYmIwMmZhMGQyNTNmMWU1YzI0Yzc3NGQ1`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMGY4MTdkNGU1MGNjY2UwOWRiNzc4ZDAzYmFlNDNkYWU1`

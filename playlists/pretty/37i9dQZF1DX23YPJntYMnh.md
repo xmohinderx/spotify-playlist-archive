@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,323 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,374 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 31 | [Stop](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 |
 | 32 | [Breaking Glass \- 2017 Remaster](https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 1:52 |
 | 33 | [Summer Romance \(Anti\-Gravity Love Song\)](https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 4:25 |
-| 34 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 |
+| 34 | [Suck My Kiss](https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 3:37 |
 | 35 | [Little Miss Can't Be Wrong](https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 3:53 |
 | 36 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 |
 | 37 | [I Know Somethin \(Bout You\)](https://open.spotify.com/track/358XBWJ3pa71P4U89v393N) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 39 | [Jerry Was A Race Car Driver](https://open.spotify.com/track/0EMLtepZpcY9T64AVEmyyv) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 3:11 |
 | 40 | [Anti Love Song](https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Betty Davis](https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz) | 4:32 |
 | 41 | [Water](https://open.spotify.com/track/307UYyg68MlszzxHBEzmL5) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Perspective](https://open.spotify.com/album/7f194oEr0tflRH7sUmtMyw) | 6:30 |
-| 42 | [Tobacco Road](https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best of Eric Burdon & War](https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc) | 3:57 |
-| 43 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
+| 42 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
+| 43 | [Tobacco Road](https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best of Eric Burdon & War](https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc) | 3:57 |
 | 44 | [Come Original](https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:42 |
 | 45 | [Tommy The Cat](https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:14 |
 | 46 | [Shakey Ground](https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx](https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y) | 3:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
 | 60 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDhhZWE4MGI1NDgzZGQ4NjgxODU5NzAyMjQ2NWVmMTc0`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMGQ4NzU3ZTMwY2U5NmY3ZWFmNjYzMjRlZmJiMmJjOTll`

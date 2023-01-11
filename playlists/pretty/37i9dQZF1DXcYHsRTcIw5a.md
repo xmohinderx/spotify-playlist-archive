@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,391 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,466 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 29 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
 | 30 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
 | 31 | [Island In the Sun](https://open.spotify.com/track/6RVgAYFeWCHaAZFCOErG1D) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:09 |
-| 32 | [Feel Like Jumping](https://open.spotify.com/track/1kbbrBV0TtXE6Su03JiGuA) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Naturally](https://open.spotify.com/album/5eVn4uEttNUmF5TeJkkaEW) | 4:00 |
-| 33 | [My Jamaican Girl](https://open.spotify.com/track/0mygX7F5NhdXHzAD3r1LRI) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [Fire and Rain](https://open.spotify.com/album/7tRCNNjflpSs2fFTA6sTSE) | 2:35 |
+| 32 | [My Jamaican Girl](https://open.spotify.com/track/0mygX7F5NhdXHzAD3r1LRI) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [Fire and Rain](https://open.spotify.com/album/7tRCNNjflpSs2fFTA6sTSE) | 2:35 |
+| 33 | [Feel Like Jumping](https://open.spotify.com/track/1kbbrBV0TtXE6Su03JiGuA) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Naturally](https://open.spotify.com/album/5eVn4uEttNUmF5TeJkkaEW) | 4:00 |
 | 34 | [How Long Will It Take](https://open.spotify.com/track/6qV95w6RYTspqNEZEIL8rh) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [Pat Kelly Sings](https://open.spotify.com/album/0d7jbK1edQRiaR4r33CTvv) | 3:13 |
 | 35 | [Love Is a Treasure](https://open.spotify.com/track/6AqMqvhlkC5Q2uxNhoJAi8) | [Freddie McKay](https://open.spotify.com/artist/6BI5BLDBy5dY19EI2cw1P1) | [Duke Reid Rocks Steady](https://open.spotify.com/album/0uKHcuc5kFXnzBfMyJjgxM) | 2:43 |
 | 36 | [Inna Mi Yard](https://open.spotify.com/track/2JrbA3gMvQEhVG9HbTI02w) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [A Declaration of Dub](https://open.spotify.com/album/3L1Yh24pd0uYbvCgkuIpaW) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 |
 | 50 | [Always Together](https://open.spotify.com/track/5sNukxsSD2RkxS4tVGsUY7) | [Bob Andy & Marcia Griffiths](https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc) | 2:45 |
 
-Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDM3YmI3NzFiNmFiMGZhNTllZjAyOTc1NGUzNDE0YTcy`
+Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDE0YzNlNDc1MDBhNzQyZWQ3OWU5MTBiZWE4YzMzYmI2`

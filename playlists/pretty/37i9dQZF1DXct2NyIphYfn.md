@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,361 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,398 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 29 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 30 | [Les jupes](https://open.spotify.com/track/7HCKrwom1hMdLi6JlkWziV) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Les Jupes](https://open.spotify.com/album/6kIdkHW2v8PYbTTfSi1cYi) | 3:00 |
 | 31 | [Nombreux](https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:12 |
-| 32 | [Je l'aime à mourir \- Live from Paris](https://open.spotify.com/track/0MOXq3Fg8y3HtFGT1qLH40) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Live From Paris](https://open.spotify.com/album/0qE6Dd97eQiywwpbrhb5fX) | 3:50 |
-| 33 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
+| 32 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
+| 33 | [Je l'aime à mourir \- Live from Paris](https://open.spotify.com/track/0MOXq3Fg8y3HtFGT1qLH40) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Live From Paris](https://open.spotify.com/album/0qE6Dd97eQiywwpbrhb5fX) | 3:50 |
 | 34 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
 | 35 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 36 | [C'est écrit \- Remastered](https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Sarbacane \(Remastered\)](https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul) | 5:53 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 61 | [Maladie d'amour](https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Maladie d'amour](https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV) | 3:24 |
 | 62 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 63 | [Ecoute mon coeur](https://open.spotify.com/track/3S2SYHTaWB06riIlXKaOjm) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [La Belle Epoque \- EMI's French Girls 1965\-68](https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1) | 3:08 |
-| 64 | [Je l'aime à mourir](https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Elles chantent Cabrel](https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0) | 3:06 |
-| 65 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 |
+| 64 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 |
+| 65 | [Je l'aime à mourir](https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Elles chantent Cabrel](https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0) | 3:06 |
 | 66 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 |
-| 67 | [Quand on n'a que l'amour](https://open.spotify.com/track/5mzSU1ekib32mEpmkzwDlD) | [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh) | [Ne me quitte pas : Un hommage à Jacques Brel](https://open.spotify.com/album/5bVK75cf4sDDeF9X4hA9BQ) | 3:37 |
-| 68 | [Dis, Quand Reviendras\-Tu?](https://open.spotify.com/track/2GjULEQ7hmy05tOrUBcUQv) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Martha Wainwright \(Special Edition\)](https://open.spotify.com/album/1j0yfKMVwRcOnIw0pXn9eh) | 4:09 |
+| 67 | [Dis, Quand Reviendras\-Tu?](https://open.spotify.com/track/2GjULEQ7hmy05tOrUBcUQv) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Martha Wainwright \(Special Edition\)](https://open.spotify.com/album/1j0yfKMVwRcOnIw0pXn9eh) | 4:09 |
+| 68 | [Quand on n'a que l'amour](https://open.spotify.com/track/5mzSU1ekib32mEpmkzwDlD) | [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh) | [Ne me quitte pas : Un hommage à Jacques Brel](https://open.spotify.com/album/5bVK75cf4sDDeF9X4hA9BQ) | 3:37 |
 | 69 | [Dis, quand reviendras\-tu ?](https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:50 |
 | 70 | [Jenny](https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Kanasuta](https://open.spotify.com/album/44gXPii8rK7tAVoZqAQIPQ) | 3:37 |
 | 71 | [Les Aurores](https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Mara Tremblay](https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Quand on n’a que l’amour](https://open.spotify.com/track/3N36V5cm6DGRLSAZJec8sq) | [Cindy Daniel](https://open.spotify.com/artist/3E8tauvVeR2jBiDK4dwXyk) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 3:35 |
 | 75 | [Ma préférence](https://open.spotify.com/track/28DzOSJv7d8NW96v0ZD804) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Limoilou \(Deluxe\)](https://open.spotify.com/album/32N6jwadyAwPmruhrGRB0J) | 2:49 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDgwNWVjY2VmODc1ZDRiMDRkNDEyNjYzNmQxODI3YzBk`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDM2MzJiMjVlYWJmMTQwNmM5Y2RkMTBjM2Y3YTY1NGNl`

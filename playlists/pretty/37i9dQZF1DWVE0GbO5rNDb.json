@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91533,
+  "num_followers": 91541,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGFkZWI2OWQxMWQ4MGUzODBmYTdjNDQ2Njg2MzEyMDEz",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMDA3MzYyNzMzZTI4NDk5YjgxOTBhZWY3ZDZlN2U2Njgz",
   "tracks": [
     {
       "added_at": "2022-12-02 06:01:00",
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
     },
     {
-      "added_at": "2023-01-10 01:04:51",
+      "added_at": "2023-01-11 01:03:18",
       "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
@@ -859,22 +859,26 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+        "name": "Better (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
+      "duration_ms": 182462,
+      "name": "Better (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -911,26 +915,22 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Better (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
+        "name": "Never Really Loved Me (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 182462,
-      "name": "Better (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+      "duration_ms": 202158,
+      "name": "Never Really Loved Me (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Run Into Trouble",
-        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Run Into Trouble",
-      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 221885,
       "name": "You Were Loved (with OneRepublic)",
       "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Run Into Trouble",
+        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Run Into Trouble",
+      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
-      "added_at": "2023-01-10 01:04:51",
+      "added_at": "2023-01-11 01:03:18",
       "album": {
         "name": "Always Be There",
         "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Live For",
         "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 171433,
       "name": "Live For",
       "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 193923,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "i miss u (with Au/Ra)",
         "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 193923,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "We Got Love",
+        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "We Got Love",
+      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "We Got Love",
-        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "We Got Love",
-      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Tears In Ibiza (feat. AR/CO)",
         "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
       },
@@ -1611,6 +1611,26 @@
       "duration_ms": 143579,
       "name": "Tears In Ibiza (feat. AR/CO)",
       "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 173038,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1635,26 +1655,6 @@
       "duration_ms": 186750,
       "name": "2 Hearts (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 173038,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1717,7 +1717,7 @@
       "url": "https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI"
     },
     {
-      "added_at": "2023-01-10 01:04:51",
+      "added_at": "2023-01-11 01:03:18",
       "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 204022,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 204022,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR"
     },
     {
       "added_at": "2022-12-02 06:01:00",

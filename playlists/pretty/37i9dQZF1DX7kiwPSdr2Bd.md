@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Cassiane, Fernanda Brum
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,631 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,698 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 62 | [Santo Deus](https://open.spotify.com/track/6KDtAwxswJk1Dlgsh1OeMO) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Santo Deus](https://open.spotify.com/album/0NedMizI3Pz45rtvlrVhWj) | 5:57 |
 | 63 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
 | 64 | [Escreve \(Ao Vivo\)](https://open.spotify.com/track/7qOdt38keNGu7OP7PGm8Wn) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve / Enquanto Eu Chorava / Não é Tarde \(Ao Vivo\)](https://open.spotify.com/album/652u9uBuyxXqpSBwjgAnC2) | 4:19 |
-| 65 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
-| 66 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
+| 65 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
+| 66 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
 | 67 | [Deus dos Meus Pais](https://open.spotify.com/track/3w4BjjmRtTCq9Ilt4ecEwG) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Deus dos Meus Pais](https://open.spotify.com/album/4OQVoMAoy1boe5FYUVNA3t) | 4:36 |
 | 68 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 69 | [Montanha \(Sometimes It Takes a Mountain\)](https://open.spotify.com/track/3D5QYKG4NHLImvL51wzrxb) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Montanha](https://open.spotify.com/album/4Uw611r2Ytu58b1VzjNRXY) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
 | 75 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 
-Snapshot ID: `MTY3MTIxMzQ4NSwwMDAwMDAwMDk4MTE4ZmEzOWU4Y2Y1NzM2MTY3ZjQ3YmYyZjk4YTUz`
+Snapshot ID: `MTY3MTIxMzQ4NSwwMDAwMDAwMDhhODA5ZTE1OGU3YzVhMWRhNmY4NTJmNDgxZDI0MGZm`

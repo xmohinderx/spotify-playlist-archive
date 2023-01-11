@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,778 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,743 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 47 | [My Favorite Things](https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [My Favorite Things](https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt) | 3:11 |
 | 48 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
 | 49 | [This Time Of Year](https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [This Time Of Year](https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP) | 3:42 |
-| 50 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
-| 51 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 50 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 51 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 52 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 |
 | 53 | [It May Be Winter Outside \(But In My Heart It's Spring\)](https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:07 |
 | 54 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [The Magic Of Boney M\. \(Special Remix Edition\)](https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf) | 4:02 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 76 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 77 | [How I Know It's Christmas \- Acoustic Piano](https://open.spotify.com/track/44bnKOB8Ztbo8IRTVQQ3hH) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [How I Know It's Christmas with the Rte Concert Orchestra](https://open.spotify.com/album/7chkHHKHVlrMJqmOLiWIJd) | 3:47 |
 | 78 | [In the Bleak Midwinter](https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [In the Bleak Midwinter](https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK) | 3:23 |
-| 79 | [Together at Christmas](https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98) | 3:37 |
-| 80 | [Come On Home For Christmas](https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Come On Home For Christmas](https://open.spotify.com/album/4KlC710kadWxr84G8JTMsn) | 3:00 |
+| 79 | [Come On Home For Christmas](https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Come On Home For Christmas](https://open.spotify.com/album/4KlC710kadWxr84G8JTMsn) | 3:00 |
+| 80 | [Together at Christmas](https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98) | 3:37 |
 
-Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMDc2MjJhOWEzM2ZmYzgwMTNhZGIzYmYwM2VmODhkMmE0`
+Snapshot ID: `MTY3MDU0NDAwMCwwMDAwMDAwMGE5NjIwMDA2YjNmNGRjNmViYjQ5MjQ4N2M1NWQ0Y2Zj`

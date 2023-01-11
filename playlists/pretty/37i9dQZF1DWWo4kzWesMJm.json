@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 60205,
+  "num_followers": 60278,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQwNDE1MSwwMDAwMDAwMGYyZTA1NDY4YTY1NDhlZmE0ODU0MGRkNjQ0ZTg1MzNk",
+  "snapshot_id": "MTY3MDQwNDE1MSwwMDAwMDAwMGUyYzFmNTAxZjY3Zjg2NDU5NWUwN2UwZjIwZDQyYTU4",
   "tracks": [
     {
       "added_at": "2022-12-07 09:09:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Palais d'argile",
-        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
-      },
-      "artists": [
-        {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
-        }
-      ],
-      "duration_ms": 214464,
-      "name": "Monde Nouveau",
-      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "la derniere annee",
         "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 221666,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Palais d'argile",
+        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 214464,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Coup de soleil",
-        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
-      },
-      "artists": [
-        {
-          "name": "ELISA ERKA",
-          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
-        }
-      ],
-      "duration_ms": 162980,
-      "name": "Coup de soleil",
-      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+        "name": "Coup de soleil",
+        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Tu me Play",
-      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
+      "duration_ms": 162980,
+      "name": "Coup de soleil",
+      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -635,6 +619,22 @@
       "duration_ms": 166293,
       "name": "Mal barr\u00e9",
       "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Tu me Play",
+      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\u00c0 nos h\u00e9ros du quotidien",
-      "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "L'attrape-r\u00eaves",
         "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\u00c0 nos h\u00e9ros du quotidien",
+      "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
     },
     {
       "added_at": "2022-12-07 09:09:11",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-07 09:09:11",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
-      },
-      "artists": [
-        {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
-    },
-    {
-      "added_at": "2022-12-07 09:09:11",
-      "album": {
         "name": "Grain de sable",
         "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 229053,
       "name": "Serre-moi",
       "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
+    },
+    {
+      "added_at": "2022-12-07 09:09:11",
+      "album": {
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2022-12-07 09:09:11",

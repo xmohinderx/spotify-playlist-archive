@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Mec\u00e1nico",
-  "num_followers": 127038,
+  "num_followers": 127051,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDExYjliNjY4MzMyZWEzOGNjOGM0NWRlN2ZhM2MxNzA2",
+  "snapshot_id": "MTY3Mjk3NDAwMCwwMDAwMDAwMDBiZTMzNjYzNTkzYTlhYjcwOWQ5NWFkNmY5OWE5MDBh",
   "tracks": [
     {
       "added_at": "2023-01-06 03:00:00",
@@ -595,6 +595,42 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
+      },
+      "artists": [
+        {
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "paterson",
         "url": "https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF"
       },
@@ -635,18 +671,18 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+        "name": "tu voz en mis aud\u00edfonos",
+        "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
       },
       "artists": [
         {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
         }
       ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+      "duration_ms": 193786,
+      "name": "tu voz en mis aud\u00edfonos",
+      "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -667,22 +703,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "tu voz en mis aud\u00edfonos",
-        "url": "https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "tu voz en mis aud\u00edfonos",
-      "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -695,6 +715,22 @@
       "duration_ms": 200245,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -719,22 +755,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Al Norte",
         "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 173336,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
-      },
-      "artists": [
-        {
-          "name": "Hija de Rojo",
-          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 197566,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Laurel",
-        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 313885,
-      "name": "Laurel",
-      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232925,
       "name": "Clara",
       "url": "https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Laurel",
+        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 313885,
+      "name": "Laurel",
+      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "PODER - Lilith: 6",
-        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
-      },
-      "artists": [
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 191158,
-      "name": "PODER - Lilith: 6",
-      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "D\u00edas Que No Lloro",
         "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 161739,
       "name": "D\u00edas Que No Lloro",
       "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "PODER - Lilith: 6",
+        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
+      },
+      "artists": [
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 191158,
+      "name": "PODER - Lilith: 6",
+      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "pienso tanto en abrazarte",
+        "url": "https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70"
+      },
+      "artists": [
+        {
+          "name": "Koe",
+          "url": "https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE"
+        },
+        {
+          "name": "LoCataLira",
+          "url": "https://open.spotify.com/artist/41EwEKA7CUCUGvwu2cP0c8"
+        }
+      ],
+      "duration_ms": 218997,
+      "name": "pienso tanto en abrazarte",
+      "url": "https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "El Encanto Del Fuego",
         "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 193689,
       "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
       "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "pienso tanto en abrazarte",
-        "url": "https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70"
-      },
-      "artists": [
-        {
-          "name": "Koe",
-          "url": "https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE"
-        },
-        {
-          "name": "LoCataLira",
-          "url": "https://open.spotify.com/artist/41EwEKA7CUCUGvwu2cP0c8"
-        }
-      ],
-      "duration_ms": 218997,
-      "name": "pienso tanto en abrazarte",
-      "url": "https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "La Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 278076,
+      "name": "La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "No Hay M\u00e1s",
         "url": "https://open.spotify.com/album/4Llq0EXs525rVvENrZnvaZ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 159080,
       "name": "No Hay M\u00e1s",
       "url": "https://open.spotify.com/track/0KUtLZlufE6fCFMkz1m4mS"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "La Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 278076,
-      "name": "La Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "PI\u00d1A",
+        "url": "https://open.spotify.com/album/4VNoUHYMwdSivQzWmxpYZx"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 198021,
+      "name": "PI\u00d1A",
+      "url": "https://open.spotify.com/track/1hH1l9tujegA2cpwesXEJH"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Viejita M\u00cda",
         "url": "https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 197432,
       "name": "Viejita M\u00cda",
       "url": "https://open.spotify.com/track/7M3WZm3YImqCVQi1ZzU618"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "PI\u00d1A",
-        "url": "https://open.spotify.com/album/4VNoUHYMwdSivQzWmxpYZx"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 198021,
-      "name": "PI\u00d1A",
-      "url": "https://open.spotify.com/track/1hH1l9tujegA2cpwesXEJH"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Hagamos Como Si Nada de Esto Hubiera Pasado (Emm Ok)",
-        "url": "https://open.spotify.com/album/2TCn9ANcPwCQzO2QficOnK"
-      },
-      "artists": [
-        {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
-        }
-      ],
-      "duration_ms": 192628,
-      "name": "Hagamos Como Si Nada de Esto Hubiera Pasado (Emm Ok)",
-      "url": "https://open.spotify.com/track/4M4mpwKNwRIXbxuI9fipgX"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
         "name": "arde lento (remixes)",
         "url": "https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
-        "name": "Flores Pl\u00e1sticas",
-        "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
+        "name": "Hagamos Como Si Nada de Esto Hubiera Pasado (Emm Ok)",
+        "url": "https://open.spotify.com/album/2TCn9ANcPwCQzO2QficOnK"
       },
       "artists": [
         {
-          "name": "Jurel S\u00f3nico & Los Impuros",
-          "url": "https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN"
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Robot (de Juguete)",
-      "url": "https://open.spotify.com/track/5ldcu2e1u50xIwUXgEYGLk"
+      "duration_ms": 192628,
+      "name": "Hagamos Como Si Nada de Esto Hubiera Pasado (Emm Ok)",
+      "url": "https://open.spotify.com/track/4M4mpwKNwRIXbxuI9fipgX"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 266642,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/7wcaWObyke61VmmnjRwkgL"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
+        "name": "Flores Pl\u00e1sticas",
+        "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
+      },
+      "artists": [
+        {
+          "name": "Jurel S\u00f3nico & Los Impuros",
+          "url": "https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Robot (de Juguete)",
+      "url": "https://open.spotify.com/track/5ldcu2e1u50xIwUXgEYGLk"
     },
     {
       "added_at": "2023-01-06 03:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-01-06 03:00:00",
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
+      },
+      "artists": [
+        {
+          "name": "Fran Quintero",
+          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
+        }
+      ],
+      "duration_ms": 251261,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2023-01-06 03:00:00",
+      "album": {
         "name": "Fuerzas Que Retroceden",
         "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 231403,
       "name": "Fuerzas Que Retroceden",
       "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
-    },
-    {
-      "added_at": "2023-01-06 03:00:00",
-      "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
-      },
-      "artists": [
-        {
-          "name": "Fran Quintero",
-          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
-        }
-      ],
-      "duration_ms": 251261,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
     },
     {
       "added_at": "2023-01-06 03:00:00",

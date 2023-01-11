@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,356 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,386 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 36 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
 | 37 | [Where Is My Mind? \- XFM Live Version](https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ) | 3:44 |
 | 38 | [Tiny Dancer](https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 6:01 |
-| 39 | [Shadowplay](https://open.spotify.com/track/6HbTF52swZiGSJ2cvAJ7PU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 4:07 |
-| 40 | [Losing My Religion \(Cover\)](https://open.spotify.com/track/1wJNpWv8GbyEVAxoxlf3gT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:43 |
+| 39 | [Losing My Religion \(Cover\)](https://open.spotify.com/track/1wJNpWv8GbyEVAxoxlf3gT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:43 |
+| 40 | [Shadowplay](https://open.spotify.com/track/6HbTF52swZiGSJ2cvAJ7PU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 4:07 |
 | 41 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 |
 | 42 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
 | 43 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 44 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 |
 | 45 | [Back on the Chain Gang](https://open.spotify.com/track/1QMS4FA3cbOdyff60sDBJy) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Low in High School \(Deluxe Edition\)](https://open.spotify.com/album/6NqxNgmWYbWW8xkASo13UZ) | 3:51 |
 | 46 | [What The World Needs Now](https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [What The World Needs Now](https://open.spotify.com/album/5OUM0sfRz3zGucUOCfhvJD) | 2:26 |
-| 47 | [Friday I'm In Love](https://open.spotify.com/track/1L8L3B8BY9SzcJUC8TCSi4) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Stuff Like That There](https://open.spotify.com/album/00vIbcUe4eGeNezbmT3525) | 3:11 |
-| 48 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
+| 47 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
+| 48 | [Friday I'm In Love](https://open.spotify.com/track/1L8L3B8BY9SzcJUC8TCSi4) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Stuff Like That There](https://open.spotify.com/album/00vIbcUe4eGeNezbmT3525) | 3:11 |
 | 49 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 |
 | 50 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
 | 51 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 74 | [Cannonball](https://open.spotify.com/track/30c3pxlLWPx3eRaMjvBQ1c) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Cannonball](https://open.spotify.com/album/6h51IcI0JjorHy2MFm7KNg) | 3:09 |
 | 75 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
 
-Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDUzYjcxYTU3ZGVmOGIwYjBlNmZmOGJmMzY1MzViNzQy`
+Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMGY5Y2NjYzY3NzVhYzk2YzA0MjcwYWIzMjgxNmEyNTYy`

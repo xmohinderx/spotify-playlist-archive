@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,553 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,566 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 10 | [Burn Out](https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC) | [A Beauty Initiative Within Focus](https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp), [Andrew Ascough](https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS) | [Burn Out](https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr) | 4:23 |
 | 11 | [Come What May](https://open.spotify.com/track/75JkjrI5b3qAufON4SWrBm) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Come What May / Thought I Could Manage](https://open.spotify.com/album/4WqqatnIZhbNV2Ev91OsOD) | 4:52 |
 | 12 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 |
-| 13 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 |
-| 14 | [07:00 the Morning Comes](https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:36 |
+| 13 | [07:00 the Morning Comes](https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:36 |
+| 14 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 |
 | 15 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
 | 16 | [Daughters of Zion](https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Neighbor Songs](https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So) | 4:01 |
 | 17 | [Wash Me Clean](https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Peace to All Who Enter Here](https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk) | 3:42 |
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 20 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
 | 21 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 |
 | 22 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp) | 4:23 |
-| 23 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
-| 24 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 |
-| 25 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 |
-| 26 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
+| 23 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 |
+| 24 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
+| 25 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
+| 26 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 |
 | 27 | [This Is Love](https://open.spotify.com/track/6dt39KMTAzJS87Hfp0n1Mc) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Love Secrets](https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM) | 3:33 |
 | 28 | [For Your Glory](https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Comes and Goes](https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP) | 3:37 |
 | 29 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 40 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 41 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 |
 | 42 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [The Road, The Rocks, and The Weeds](https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle) | 3:35 |
-| 43 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 |
-| 44 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 |
+| 43 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 |
+| 44 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 |
 | 45 | [Breathe](https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Breathe](https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3) | 4:52 |
 | 46 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 |
 | 47 | [Hiding Lord](https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Trust](https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD) | [The Bookouts](https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF) | [Trust](https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN) | 5:20 |
 | 60 | [Found You](https://open.spotify.com/track/0oD3hbtGptcY1R0JeRHAa3) | [Silicone Boone](https://open.spotify.com/artist/35sTROQ10vkOfLtMf1epnr) | [Found You](https://open.spotify.com/album/602LizcSBxLxMxZNjl4V3r) | 4:03 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDVmYjY2ZmExY2Q3OGU1ZDM0ODJiZGQ3MzY2ZjQ1Mjc5`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDFmMmViYzI0MTg0ZDNhMjZiNjQ2NTJmNDBhM2U2ZmI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,385 likes - 80 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,591 likes - 80 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 57 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
 | 58 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fsTa42UfMdAQjISgmf4ec) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 7:14 |
 | 59 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 |
-| 60 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
-| 61 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
+| 60 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
+| 61 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
 | 62 | [In The Heat Of The Night](https://open.spotify.com/track/5wYPhxYeWs6ij0nlmvMAq8) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [The Long Play](https://open.spotify.com/album/7HkN3j6dxCRKGXMduwfmzL) | 5:20 |
 | 63 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
 | 64 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
 | 80 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin \(Reissue\)](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 
-Snapshot ID: `MTY3MTgwNDIyOCwwMDAwMDAwMDY2NjZiMDA2NzczNjUxYjA5NzgwMWU5ODVhMTVjZGU5`
+Snapshot ID: `MTY3MTgwNDIyOCwwMDAwMDAwMDk4YTY2ZmNlYjg4YWZmZjIwODhmMjQ2MmYyNjI5YWVj`

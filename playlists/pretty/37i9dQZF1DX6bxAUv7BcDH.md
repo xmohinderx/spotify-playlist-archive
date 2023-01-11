@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 7 likes - 62 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4 likes - 62 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 46 | [Somewhere Out There \- From "An American Tail" Soundtrack](https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [An American Tail](https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9) | 3:58 |
 | 47 | [The Battle Of New Orleans](https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [Johnny Horton'S Greatest Hits](https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI) | 2:31 |
 | 48 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
-| 49 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \(Bonus Track Version\)](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 |
-| 50 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
-| 51 | [Sailing](https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Sailing / Poor Shirley \(Digital 45\)](https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0) | 4:15 |
+| 49 | [Sailing](https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Sailing / Poor Shirley \(Digital 45\)](https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0) | 4:15 |
+| 50 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \(Bonus Track Version\)](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 |
+| 51 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
 | 52 | [Wind Beneath My Wings](https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Experience The Divine \(Greatest Hits\)](https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD) | 4:53 |
 | 53 | [Stay With Me \- Radio Edit](https://open.spotify.com/track/3C08A6WXAl2XAsI5hZtTSR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:53 |
 | 54 | [I Write The Songs](https://open.spotify.com/track/5VU6nvX3BqkqBmOJ2d9vhW) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [The Greatest Songs Of The Seventies](https://open.spotify.com/album/29MkM2BlD2jnF6g8lcMDuP) | 3:59 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 61 | [You’ve Got A Friend \- Live At The Troubadour / 2007](https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Live At The Troubadour](https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv) | 5:51 |
 | 62 | [Days Of Wine And Roses \- REMASTERED](https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Greatest Hits \- The Best of Henry Mancini](https://open.spotify.com/album/1qUmcNnG6GBGXw9tLCTJ3V) | 2:06 |
 
-Snapshot ID: `MTY3Mjc3MzE1OSwwMDAwMDAwMDIzMDA1ZDBjOGRiNjVhZWNjNjhmMWFkNTI0NGRlNmJh`
+Snapshot ID: `MTY3Mjc3MzE1OSwwMDAwMDAwMDllZjJiNDk3MGU2ZDMyZGRmYmU4MGU3M2E3MDYyMzRh`

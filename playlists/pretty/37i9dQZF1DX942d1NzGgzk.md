@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Pip Millett
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,026 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,106 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 36 | [You Comfort Me](https://open.spotify.com/track/3OUWfEsfqSmlEY2oNDN6Iu) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:22 |
 | 37 | [DEH DEH](https://open.spotify.com/track/3eMpDpuaxr1QFnVSSfv9Zf) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [DEH DEH](https://open.spotify.com/album/6Tbw38wfTTtHxspqGrdr5w) | 3:09 |
 | 38 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 |
-| 39 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 |
-| 40 | [Eighteen](https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Eighteen](https://open.spotify.com/album/29DLEk1PoZBbEDBgjPAj6Y) | 2:35 |
-| 41 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 |
-| 42 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 |
+| 39 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 |
+| 40 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 |
+| 41 | [Eighteen](https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Eighteen](https://open.spotify.com/album/29DLEk1PoZBbEDBgjPAj6Y) | 2:35 |
+| 42 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 |
 | 43 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 |
 | 44 | [No Regrets](https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [No Regrets](https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx) | 2:59 |
 | 45 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 55 | [Fly Away](https://open.spotify.com/track/3KMXrC9uDVEch4D6iyhZCp) | [Zakhar](https://open.spotify.com/artist/6sGJ9AOz3XJH8S8WDcZUUO) | [Fly Away](https://open.spotify.com/album/0c5mfGZXxLSAtdHGrDwh9t) | 3:21 |
 | 56 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 |
 | 57 | [Dingaling](https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dingaling](https://open.spotify.com/album/5aMRGlhrRsaVUIL25FRYsJ) | 3:20 |
-| 58 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
-| 59 | [Stupid People](https://open.spotify.com/track/5g80aGSWaxJJk9DhAQvthJ) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Stupid People](https://open.spotify.com/album/4wb5WR7sbsDkDJ8hlefgGG) | 3:09 |
+| 58 | [In The Moment](https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 3:13 |
+| 59 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
 | 60 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 |
 
-Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMGU3NDg2YTEwMzg0YmYyOTIxMDYwNTY0NzQ0NGNiM2Rk`
+Snapshot ID: `MTY2NjU1Njc4MywwMDAwMDAwMDQ1MmE4ODg3Y2ZhMWZjZTI0Nzk4NGMxNGEyMTVjOGMx`

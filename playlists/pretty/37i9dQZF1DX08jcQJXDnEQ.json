@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s. Cover: Deftones",
-  "num_followers": 732784,
+  "num_followers": 733350,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGVhYjVlZjczZjYxZTU4NmQxYjk5YzYyYzFlZWE3YTdm",
+  "snapshot_id": "MTY3MTA1Mzc2MSwwMDAwMDAwMGIzZWQwYzQwMGI2NGJmNWEwYmJjMmQzZGM2M2I3YmJl",
   "tracks": [
     {
       "added_at": "2022-10-05 16:18:11",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
-      },
-      "artists": [
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Persistence Of Time (30th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
         }
       ],
-      "duration_ms": 419893,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -887,6 +871,22 @@
       "duration_ms": 203680,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 419893,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Balls To Picasso (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        }
-      ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Tomb Of The Mutilated",
         "url": "https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 242760,
       "name": "Hammer Smashed Face",
       "url": "https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Balls To Picasso (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Treasure Chest (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
+        "name": "Bloody Kisses",
+        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
         }
       ],
-      "duration_ms": 233360,
-      "name": "Forever & One",
-      "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
+      "duration_ms": 289240,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Bloody Kisses",
-        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
+        "name": "Treasure Chest (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI"
+      "duration_ms": 233360,
+      "name": "Forever & One",
+      "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 324066,
+      "name": "Empire - Remastered 2003",
+      "url": "https://open.spotify.com/track/069YqoVkrwNxnfWWj7k3Qk"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 259466,
       "name": "Love Rears Its Ugly Head",
       "url": "https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 324066,
-      "name": "Empire - Remastered 2003",
-      "url": "https://open.spotify.com/track/069YqoVkrwNxnfWWj7k3Qk"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "The Ritual",
-        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Electric Crown",
-      "url": "https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Transilvanian Hunger",
         "url": "https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 369760,
       "name": "Transilvanian Hunger - Studio",
       "url": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Electric Crown",
+      "url": "https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Album of the Year",
-        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Chaosphere (Reloaded)",
         "url": "https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 335666,
       "name": "New Millennium Cyanide Christ",
       "url": "https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Album of the Year",
+        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Point Blank",
-        "url": "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU"
-      },
-      "artists": [
-        {
-          "name": "Nailbomb",
-          "url": "https://open.spotify.com/artist/4Q6EFOghPrRjdwsF4p7Nzm"
-        }
-      ],
-      "duration_ms": 310493,
-      "name": "Cockroaches",
-      "url": "https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Do We Speak A Dead Language?",
         "url": "https://open.spotify.com/album/70cMua9g0bEyXIMz7yjwGt"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 144266,
       "name": "Empower",
       "url": "https://open.spotify.com/track/6Qq5ajhyDxzrI1dOnfxqWl"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Point Blank",
+        "url": "https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU"
+      },
+      "artists": [
+        {
+          "name": "Nailbomb",
+          "url": "https://open.spotify.com/artist/4Q6EFOghPrRjdwsF4p7Nzm"
+        }
+      ],
+      "duration_ms": 310493,
+      "name": "Cockroaches",
+      "url": "https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "In The Nightside Eclipse",
-        "url": "https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU"
-      },
-      "artists": [
-        {
-          "name": "Emperor",
-          "url": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
-        }
-      ],
-      "duration_ms": 360840,
-      "name": "I Am The Black Wizards",
-      "url": "https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Gravity Kills",
         "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 242026,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "In The Nightside Eclipse",
+        "url": "https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU"
+      },
+      "artists": [
+        {
+          "name": "Emperor",
+          "url": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
+        }
+      ],
+      "duration_ms": 360840,
+      "name": "I Am The Black Wizards",
+      "url": "https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Filth Pig",
-        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 344600,
-      "name": "Lay Lady Lay",
-      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Destroy Erase Improve (Reloaded)",
         "url": "https://open.spotify.com/album/4Db5w1mFaolDotknFJiteD"
       },
@@ -2335,18 +2319,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+        "name": "Filth Pig",
+        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
       },
       "artists": [
         {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 85866,
-      "name": "Ramones",
-      "url": "https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j"
+      "duration_ms": 344600,
+      "name": "Lay Lady Lay",
+      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2363,6 +2347,22 @@
       "duration_ms": 202160,
       "name": "Send Me Your Money",
       "url": "https://open.spotify.com/track/0JoHFDx1gp0JjBxEIPutNK"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 85866,
+      "name": "Ramones",
+      "url": "https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j"
     },
     {
       "added_at": "2022-10-05 16:18:11",

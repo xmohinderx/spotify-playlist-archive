@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,129 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,143 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 5 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 6 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
 | 7 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 |
-| 8 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
+| 8 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 9 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/3qQT9PyPFmLN1RjZ3GOabf) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/6rGR0F8POeXk3rnuEKfa4L), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [TEARS AND PURPLE EMOTIONS](https://open.spotify.com/album/5gtq2kLk7zAOBdtpufuMXz) | 3:07 |
-| 10 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 10 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
 | 11 | [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 |
 | 12 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 |
 | 13 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 47 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 | 48 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 |
 | 49 | [Shattered](https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Shattered](https://open.spotify.com/album/12JN7p9WCNuyidmPWUzY4U) | 3:25 |
-| 50 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
+| 50 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 |
 
-Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDM1ZjUxMzg5NzE2NTc2ODUxMDZkM2I5NmQ3N2YyODNi`
+Snapshot ID: `MTY3MDU0MDQwMCwwMDAwMDAwMDQ2OWNiNTdhODNkOTA2NWNlNGVhNzEzMDRjMGYyMDU2`

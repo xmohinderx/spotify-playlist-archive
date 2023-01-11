@@ -2638,8 +2638,8 @@
       },
       "artists": [
         {
-          "name": "Lika",
-          "url": "https://open.spotify.com/artist/6jzsNkluhj6IXaWI8e1E94"
+          "name": "LIKA",
+          "url": "https://open.spotify.com/artist/4buOxWb52Ct3BVQQA2R0YM"
         }
       ],
       "date_added": "2023-01-07",
@@ -10420,17 +10420,17 @@
       },
       "artists": [
         {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
-        },
-        {
           "name": "Ski Aggu",
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
         }
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 112000,
       "name": "Ghetto Tekkno",
       "url": "https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM"
@@ -11666,7 +11666,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Heavy Metal Love",
       "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
@@ -15592,7 +15592,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 185706,
       "name": "Layla",
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
@@ -28150,7 +28150,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"

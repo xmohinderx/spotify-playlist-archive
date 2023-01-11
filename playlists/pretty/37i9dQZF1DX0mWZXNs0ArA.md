@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,078 likes - 97 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,231 likes - 97 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 22 | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/album/13JS9rH3cjTaWAjhrAxrpx) | 2:03 |
 | 23 | [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 |
 | 24 | [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 |
-| 25 | [Love Grows \(Where My Rosemary Goes\) \- Sped Up](https://open.spotify.com/track/2KXnyrYPOqyWWMkE9zUDwT) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) \[Sped Up\]](https://open.spotify.com/album/5Dr5spXA9DBuXeCPZtQkfI) | 2:14 |
+| 25 | [Love Grows \(Where My Rosemary Goes\) \[Sped Up\]](https://open.spotify.com/track/2KXnyrYPOqyWWMkE9zUDwT) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) \[Sped Up\]](https://open.spotify.com/album/5Dr5spXA9DBuXeCPZtQkfI) | 2:14 |
 | 26 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 27 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
 | 28 | [Line Without a Hook \- sped up](https://open.spotify.com/track/6IbdSpBOeQn8vRBsq1eGUQ) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:23 |

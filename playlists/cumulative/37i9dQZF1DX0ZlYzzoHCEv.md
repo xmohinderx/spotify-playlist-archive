@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-266 songs - 12 hr 29 min
+267 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2022-08-23 |  |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-12-15 |
 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 | 2022-05-06 | 2022-11-08 |
+| [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-20 |  |
 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-06-24 | 2022-07-21 |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-13 |  |
 | [POLKA](https://open.spotify.com/track/20jG7WodtS52iOnWyGE1l4) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [POLKA](https://open.spotify.com/album/4TZVKcYNqGT4Yz4oKWU1I2) | 2:50 | 2022-05-06 | 2022-07-29 |
@@ -262,7 +263,7 @@
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-05-06 | 2022-07-25 |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-05-13 | 2022-07-27 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-24 |  |
-| [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-08-12 |  |
+| [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-08-12 | 2023-01-11 |
 | [Vogl Ij Abballà \- Alors On Danse Remix](https://open.spotify.com/track/00TxkSx9yNHs1QlKGuSmpR) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Vogl Ij Abballà \(Alors On Danse Remix\)](https://open.spotify.com/album/6FWRKlvvECWPawR4zHj9av) | 2:36 | 2022-06-10 | 2022-07-29 |
 | [Waifu Material](https://open.spotify.com/track/3eUqI6nmU2mAUdZFqdS831) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Waifu Material](https://open.spotify.com/album/1NNnst3RiYbYBhissGHtkI) | 2:23 | 2022-11-25 | 2022-12-10 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-05-06 |  |

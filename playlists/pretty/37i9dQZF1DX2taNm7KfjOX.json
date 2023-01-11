@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Tomberlin",
-  "num_followers": 776544,
+  "num_followers": 776675,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGFiODBhOTU4NDAwMTUxZGFjZDAzNTg2MzM2MzY4MGMy",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGEwNjJlYmM3YmVmYjBiYjdkMmI2NmUwNGE5YzQ2NDky",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "duration_ms": 175045,
+      "name": "Down by the Water",
+      "url": "https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV"
-      },
-      "artists": [
-        {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
-        }
-      ],
-      "duration_ms": 175045,
-      "name": "Down by the Water",
-      "url": "https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Fruit from the Trees",
+        "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Fruit from the Trees",
-        "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 296929,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 265962,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Consolation Prize",
         "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 265962,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Ivory Castanets",
+        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Ocean Bed",
         "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
       },
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Lemon [Feat. Sharon Van Etten]",
-        "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 197880,
-      "name": "Lemon [Feat. Sharon Van Etten]",
-      "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1535,6 +1515,26 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lemon [Feat. Sharon Van Etten]",
+        "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "Lemon [Feat. Sharon Van Etten]",
+      "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 220253,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Juniors",
         "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 233533,
       "name": "Hear It Again",
       "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Walking in the Air",
-        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
-      },
-      "artists": [
-        {
-          "name": "Mimicking Birds",
-          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
-        }
-      ],
-      "duration_ms": 257842,
-      "name": "Walking in the Air",
-      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Break Me Open",
         "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
       },
@@ -2075,6 +2059,38 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Walking in the Air",
+        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
+      },
+      "artists": [
+        {
+          "name": "Mimicking Birds",
+          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
+        }
+      ],
+      "duration_ms": 257842,
+      "name": "Walking in the Air",
+      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
         "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
       },
@@ -2107,6 +2123,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 277374,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "BREACH",
         "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
@@ -2135,38 +2167,6 @@
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Guard Dog",
-        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 277374,
-      "name": "Walk Me Home",
-      "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "The Water & The Rough",
         "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 216476,
       "name": "8 Hour Drive",
       "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
-      },
-      "artists": [
-        {
-          "name": "San Fermin",
-          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "Bride",
-      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Satan / Jacob Rose",
         "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
+      },
+      "artists": [
+        {
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "Bride",
+      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+      },
+      "artists": [
+        {
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F"
       },
@@ -2463,22 +2479,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
-      },
-      "artists": [
-        {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "The Perfect Plan",
         "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
       },
@@ -2495,18 +2495,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
         }
       ],
-      "duration_ms": 328120,
-      "name": "Everything Looks Better (In Hindsight)",
-      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     }
   ],
   "unique_name": "Infinite Indie Folk",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Gustav, Noah
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,444 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,814 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Luftballon](https://open.spotify.com/track/5w1KF2w0e8W1EEHsCJYYCf) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL) | [Luftballon](https://open.spotify.com/album/1kofnvzxmIRyNCqWVA5Kkh) | 2:52 |
 | 2 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
-| 3 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 |
+| 3 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 |
 | 4 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
 | 5 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
 | 6 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 |

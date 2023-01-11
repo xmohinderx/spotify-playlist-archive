@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,572 likes - 36 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,600 likes - 36 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 35 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 |
 | 36 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAzNmEwNmI4ZjgyYzQ2ZDk3OWYwMDBmY2RmZWJiNTQxOQ==`
+Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDBkMjNkYTZlYWUwYTNhYTM0MDRlNDNkZjA5MTliOGMwOA==`

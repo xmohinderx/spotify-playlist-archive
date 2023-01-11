@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 
 > Energetic tracks from the 1990s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,929 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,391 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxdwkOJZYCJ.md) - [plain]
 | 47 | [Joyride](https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Extended Version\)](https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N) | 4:23 |
 | 48 | [Please Don't Go](https://open.spotify.com/track/0bwNb4KRkhzahJJMFsGoPR) | [Double You](https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV) | [We All Need Love](https://open.spotify.com/album/61jMz9gG0UkpTGeVI2x26L) | 3:20 |
 | 49 | [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 |
-| 50 | [2 Times](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
+| 50 | [Life Is a Flower](https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Flowers](https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q) | 3:47 |
 
-Snapshot ID: `MTY3Mjc1NzYxMiwwMDAwMDAwMDU3MDVlY2RjYTc1MTc2ZWZmNjA5YjU2MWQyZjcyYTc5`
+Snapshot ID: `MTY3Mjc1NzYxMiwwMDAwMDAwMGVmZTFhMjdmOWQyN2Q4MzBhNThlMTAyYjJiZDUwNzUz`

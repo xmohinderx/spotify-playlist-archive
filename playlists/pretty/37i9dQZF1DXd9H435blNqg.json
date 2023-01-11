@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 30278,
+  "num_followers": 30384,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDVjMTg4NmZjYjk1OGUwY2I0YzE5N2VhNjg2Njc5ZGM2",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGMyZDNmMDE0NDgwY2NjZjA4NTFhZjFlZjhmYTZhZmIy",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Ones to Keep Close",
+        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 196843,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Click Click Domino",
         "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 203099,
       "name": "Click Click Domino (feat. Marcus King)",
       "url": "https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Ones to Keep Close",
-        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 196843,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Homemade Disaster",
-        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
       },
       "artists": [
         {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
         }
       ],
-      "duration_ms": 194564,
-      "name": "Homemade Disaster",
-      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -639,6 +639,38 @@
       "duration_ms": 187026,
       "name": "The Juice (feat. Marcus King)",
       "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Homemade Disaster",
+        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 194564,
+      "name": "Homemade Disaster",
+      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -679,54 +711,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Chocolate Samurai",
-        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
       },
@@ -739,22 +723,6 @@
       "duration_ms": 194093,
       "name": "Can't Nobody Stop Us",
       "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -775,38 +743,34 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+        "name": "Chocolate Samurai",
+        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
       },
       "artists": [
         {
           "name": "Fantastic Negrito",
           "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
         }
       ],
-      "duration_ms": 225551,
-      "name": "Searching for Captain Save a Hoe",
-      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Don't Tell Me No Lies",
+        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 147423,
+      "name": "Don't Tell Me No Lies",
+      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -823,6 +787,38 @@
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     },
     {
       "added_at": "2022-08-31 19:45:43",

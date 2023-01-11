@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 498775,
+  "num_followers": 499101,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMDRlOTBlMDA5Mzg4ZmZkNjFmNThhZGY3NDJmZTc0MWNm",
+  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMDY5ZmUyMjNiOTVkNDZlZGQwMDdlNDBiMzVlM2ZkZjc2",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 322093,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Daytime Friends: The Very Best Of Kenny Rogers",
         "url": "https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 231866,
       "name": "Lady",
       "url": "https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 322093,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "To Know Him Is to Love Him - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 292626,
       "name": "Everything That Glitters (Is Not Gold)",
       "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "To Know Him Is to Love Him - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "I Ain't Living Long Like This",
-      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 222400,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 286120,
+      "name": "I Ain't Living Long Like This",
+      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "I Love 'Em All",
-        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
         "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 170266,
       "name": "Tight Fittin' Jeans",
       "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "I Love 'Em All",
+        "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Drivin' My Life Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 241026,
       "name": "Sunday In the South",
       "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Drivin' My Life Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 239440,
       "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
       "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": "2022-07-25 21:36:54",

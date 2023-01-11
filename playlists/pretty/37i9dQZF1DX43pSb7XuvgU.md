@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,717 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,821 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 52 | [Amnesia](https://open.spotify.com/track/7xNvkborz5fC8SaTe3ecQl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 2](https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064) | 3:44 |
 | 53 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
 | 54 | [Con Tu Amor](https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Tu Amor](https://open.spotify.com/album/5QQBnJ6jJF0hwQ7KrMJs4X) | 4:09 |
-| 55 | [Piel de Azúcar](https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 2](https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064) | 3:38 |
-| 56 | [Lágrimas](https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 5:12 |
+| 55 | [Lágrimas](https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 5:12 |
+| 56 | [Piel de Azúcar](https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 2](https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064) | 3:38 |
 | 57 | [Adiós, Princesa](https://open.spotify.com/track/2NlIbM3lP1XbiJLcUevGwc) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:02 |
 | 58 | [Me Gustas Mucho](https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT) | 2:35 |
 | 59 | [Lo Pasado, Pasado \(with HA\-ASH\)](https://open.spotify.com/track/2dWcpXLm7nNzZ6YiXdW23O) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [José José Duetos Volumen 2](https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [Tu Primera Vez](https://open.spotify.com/track/0ocXsGuBCyXZPOutMqx830) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:25 |
 | 100 | [El México Que Se Nos Fue](https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 4:37 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDJlYmU4NTQxZjEyNjBkOTkyNzZlMGM3YmI2ODk1Y2Zi`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDQ2ZmUwZTkxYTMzODU4NDgwMDAxOWUwYjlmZTkwNTc1`

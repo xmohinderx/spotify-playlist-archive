@@ -4,7 +4,7 @@
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-73 songs - 3 hr 54 min
+75 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 | 2022-05-03 |  |
 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 | 2022-05-03 |  |
 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 | 2022-06-09 |  |
+| [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-11 |  |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2022-05-03 |  |
 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 | 2022-05-03 |  |
 | [Dear, Beloved \- Original Version](https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Dear X Who Doesn't Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh) | 3:23 | 2022-08-12 |  |
@@ -43,13 +44,14 @@
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-03 |  |
 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 | 2022-06-18 |  |
 | [I KNOW ME BEST](https://open.spotify.com/track/0jMAXpFLWywfGLQAaiwKZL) | [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [GOOD BOY SYNDROME](https://open.spotify.com/album/6uhGHBVumfvzagQxswoJ49) | 3:23 | 2022-05-03 | 2022-08-22 |
+| [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-11 |  |
 | [IDOL](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:42 | 2022-05-03 |  |
 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 | 2022-05-03 | 2023-01-10 |
 | [I’m bad too \(Feat\. DPR LIVE\)](https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:12 | 2022-05-03 |  |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-05-03 |  |
 | [LAST NIGHT](https://open.spotify.com/track/6SLz0d8qOwxDGsVz1D6cMw) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [EMOTIONAL BAGGAGE](https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP) | 3:06 | 2022-05-03 | 2022-08-03 |
 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2022-05-03 |  |
-| [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2022-08-18 |  |
+| [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2022-08-18 | 2023-01-11 |
 | [Let It](https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:04 | 2022-05-03 |  |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-05-03 |  |
 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 | 2022-05-03 |  |
@@ -67,7 +69,7 @@
 | [Selfish \(Feat\. Woo\)](https://open.spotify.com/track/6De1dLF23zuUzf5jbh2vI1) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:28 | 2022-05-03 |  |
 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 | 2022-05-03 |  |
 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 | 2022-07-08 |  |
-| [So What](https://open.spotify.com/track/3WMD2h62I69xh47NHCBMGG) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [So What](https://open.spotify.com/album/5aVi44dgMvYWOUL59ZzBKl) | 3:05 | 2022-05-03 |  |
+| [So What](https://open.spotify.com/track/3WMD2h62I69xh47NHCBMGG) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [So What](https://open.spotify.com/album/5aVi44dgMvYWOUL59ZzBKl) | 3:05 | 2022-05-03 | 2023-01-11 |
 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 | 2022-05-03 |  |
 | [Solo \(Feat\. Alex\)](https://open.spotify.com/track/3kVPDzRJKBVeqepc439JtZ) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Alex](https://open.spotify.com/artist/5QQQPF4hsHCa8LCczzSapo) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 3:52 | 2022-05-03 |  |
 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 | 2022-05-03 |  |

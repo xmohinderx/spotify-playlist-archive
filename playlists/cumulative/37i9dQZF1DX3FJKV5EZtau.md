@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-326 songs - 18 hr 59 min
+327 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Airway](https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Airway](https://open.spotify.com/album/1hvFDHasQOCnAMQfRNa3JO) | 3:15 | 2022-01-07 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/4XmSL1CcNGC6U1t56alzF7) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Alive](https://open.spotify.com/album/6Rt1ebG0UdXmQRheYmSJyh) | 3:37 | 2022-01-07 | 2022-07-27 |
 | [Alone](https://open.spotify.com/track/6fW7FK6s1EMtWu3mDdvq3X) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Alone](https://open.spotify.com/album/1QaaPVFdfYPPCIt5xT3QHP) | 2:53 | 2022-04-15 | 2022-07-29 |
+| [amends \- VIP edit](https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends \(VIP edit\)](https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D) | 1:24 | 2023-01-06 |  |
 | [Another You](https://open.spotify.com/track/1zmkJElrB0ghx5v5jJ4x3i) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Digital Heart](https://open.spotify.com/album/5WpyVMapI2A3fz6WHq8UEG) | 3:03 | 2022-01-07 |  |
 | [ARCADE NIGHT](https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Hikaru Station](https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj) | [ARCADE NIGHT](https://open.spotify.com/album/3c8kfHbvA1fbSC52TxEWPI) | 3:59 | 2022-01-07 |  |
 | [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 |  |
@@ -327,7 +328,7 @@
 | [You Make Me Better](https://open.spotify.com/track/6RnBCZ7caDIpkauSYrTqzp) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [You Make Me Better](https://open.spotify.com/album/2VfC59wqz3dEf7gNIi6ZkF) | 4:48 | 2022-10-27 | 2022-11-23 |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2022-01-07 |  |
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-07-29 |
-| [‎melodies ‎from ‎heaven](https://open.spotify.com/track/48YSjXbdKqfU9OpD2RBGWk) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/4hEdkhGJoR7xHyqx3oPTy6) | 4:29 | 2022-11-11 |  |
+| [‎melodies ‎from ‎heaven](https://open.spotify.com/track/48YSjXbdKqfU9OpD2RBGWk) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/4hEdkhGJoR7xHyqx3oPTy6) | 4:29 | 2022-11-11 | 2023-01-11 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2022-01-07 | 2022-10-15 |
 | [☆](https://open.spotify.com/track/062TR63pH6hFer4xsx0935) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rwP6eKGSsdQ0Zr69phC99) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 2:59 | 2022-01-07 | 2022-10-13 |
 | [☆](https://open.spotify.com/track/6MGnaGtsUmux3guQvPBYnW) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rUBhGA0FoixfR570fAzKt) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 2:59 | 2022-10-07 |  |

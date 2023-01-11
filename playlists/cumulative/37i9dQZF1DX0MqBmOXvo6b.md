@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-507 songs - 21 hr 49 min
+509 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Auf dem Felde](https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 1:48 | 2022-06-07 | 2022-09-24 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-06-07 | 2022-09-15 |
 | [Autres temps, autres mœurs](https://open.spotify.com/track/6aGvF7goNzrTx03ZK6EJOX) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Autres temps, autres mœurs](https://open.spotify.com/album/2UTphZZpH1w90kHCB0hfz7) | 2:00 | 2022-06-07 | 2022-07-20 |
+| [Autumn Night](https://open.spotify.com/track/7lbdEiLUZS41yFbWuMCEGj) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Autumn Night](https://open.spotify.com/album/3eY3REfE9d7iRNLQucvcE2) | 2:54 | 2023-01-11 |  |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-06-07 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2022-06-07 |  |
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2022-06-07 |  |
@@ -148,7 +149,7 @@
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2022-06-07 | 2022-09-24 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-06-07 |  |
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-07-19 |  |
-| [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2022-06-07 |  |
+| [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2022-06-07 | 2023-01-11 |
 | [franconia](https://open.spotify.com/track/398uIq8oIiP5cdb6zR2bst) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [franconia](https://open.spotify.com/album/7wXqijcw1roLeqDgbqSMuK) | 2:11 | 2022-06-07 | 2022-09-24 |
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2022-06-07 | 2022-09-30 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-06-07 |  |
@@ -343,7 +344,7 @@
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2022-06-07 |  |
 | [Salvador](https://open.spotify.com/track/0k1PA8kqHD51C49Owjcx5S) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Bagatelles](https://open.spotify.com/album/5NtMEqU7lDZX8d7ODiP4LE) | 2:20 | 2022-06-07 | 2022-09-15 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-06-07 |  |
-| [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2022-06-07 |  |
+| [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2022-06-07 | 2023-01-11 |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2022-06-07 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2022-06-07 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2022-06-07 |  |
@@ -357,6 +358,7 @@
 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2022-06-07 |  |
 | [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 | 2022-09-14 |  |
 | [Sempiternal](https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Sempiternal](https://open.spotify.com/album/4dnpugZmM76LxImCmWfmgM) | 2:08 | 2022-06-07 | 2022-09-15 |
+| [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2023-01-11 |  |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2022-06-07 | 2022-07-20 |
 | [She Is Mine](https://open.spotify.com/track/4KZ8A6nT4Zeemg5bjXS6dn) | [Eric Cadogan](https://open.spotify.com/artist/7a0TJP7Zpr9ROvnR3ijADo) | [She Is Mine](https://open.spotify.com/album/7uUvj14A4uMRBsFeSbxtBY) | 2:26 | 2022-06-07 | 2022-09-15 |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-06-07 |  |

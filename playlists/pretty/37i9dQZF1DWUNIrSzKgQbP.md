@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,668,629 likes - 64 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,668,997 likes - 64 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 48 | [Fall in Love Forever](https://open.spotify.com/track/2EXLqFr6iaGXrQKeUJ1zvn) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Fall in Love Forever](https://open.spotify.com/album/2tLbu7wArwTxFC0aomOHk6) | 3:28 |
 | 49 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
 | 50 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 |
-| 51 | [The Ghost on the Shore](https://open.spotify.com/track/2xFVqgK1zW5dKWRyFVRhAp) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:37 |
+| 51 | [The Ghost on the Shore](https://open.spotify.com/track/2xFVqgK1zW5dKWRyFVRhAp) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:37 |
 | 52 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 |
 | 53 | [mood ring baby](https://open.spotify.com/track/3cfeJE1UxGSOdtaQPkR2nd) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [fade into the dawn](https://open.spotify.com/album/6ZXR63Ak9IBfg6NkbBxFKA) | 4:41 |
 | 54 | [Floorboards](https://open.spotify.com/track/3DZKzoLMmAXIEH0vIDILjk) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Floorboards](https://open.spotify.com/album/5wQ3lBKKZtiZt1D2WO83si) | 2:47 |

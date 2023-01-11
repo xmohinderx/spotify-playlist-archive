@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 352265,
       "name": "\u5b63\u8def",
       "url": "https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY"

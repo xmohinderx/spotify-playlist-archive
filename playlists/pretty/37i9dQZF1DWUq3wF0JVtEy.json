@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 882282,
+  "num_followers": 882587,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM3YTJmYTFlZDAwMzI4NmExY2IzN2FkMjhlMDlhZDI3",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDUyNjI3Y2VhNWZiOTEzYmIzM2ZjZWIzOGY2ZDgzNTIz",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "dashstar*",
+        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "dashstar*",
+      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "dashstar*",
-        "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "dashstar*",
-      "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Another Level (ft. Lovespeake)",
-        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 145941,
-      "name": "Another Level (ft. Lovespeake)",
-      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -991,6 +991,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Nudes",
+        "url": "https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb"
+      },
+      "artists": [
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 136055,
+      "name": "Nudes",
+      "url": "https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit"
       },
@@ -1055,38 +1087,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Nudes",
-        "url": "https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb"
-      },
-      "artists": [
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        }
-      ],
-      "duration_ms": 136055,
-      "name": "Nudes",
-      "url": "https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
       },
@@ -1123,6 +1123,26 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 169252,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1247,22 +1267,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 169252,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "How it is",
         "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
       },
@@ -1743,18 +1759,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "2HEARTs dlux",
-        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
         }
       ],
-      "duration_ms": 239047,
-      "name": "my luv - bonus track",
-      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
+      "duration_ms": 238085,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 147410,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0NUDi4qhj9lDtwNJqgFuXv"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e"
-      },
-      "artists": [
-        {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        }
-      ],
-      "duration_ms": 238085,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
     },
     {
       "added_at": "2023-01-06 05:00:00",

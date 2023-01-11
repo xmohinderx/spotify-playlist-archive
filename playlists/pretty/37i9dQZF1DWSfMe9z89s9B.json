@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Yaya Bey",
-  "num_followers": 1325774,
+  "num_followers": 1325895,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM1ZDE1ODhjOTc1MjU1ZDRlMDIzNzNiN2ZhYmRiY2Q5",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM4ODc2ZTFiMjYzNDE0Yzc1MWY4NjRmNzAzM2Y1YWNm",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -925,6 +925,26 @@
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+    },
+    {
       "added_at": "2022-07-24 02:54:27",
       "album": {
         "name": "Sinner",
@@ -957,24 +977,20 @@
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz"
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 112666,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -993,22 +1009,6 @@
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
       "added_at": "2022-07-29 04:14:33",
       "album": {
         "name": "safety",
@@ -1023,6 +1023,26 @@
       "duration_ms": 183600,
       "name": "safety",
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
+    },
+    {
+      "added_at": "2022-08-05 04:14:30",
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1057,26 +1077,6 @@
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
     },
     {
-      "added_at": "2022-08-05 04:14:30",
-      "album": {
-        "name": "Ce Soir",
-        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Ce Soir",
-      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Set Me Free",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA"
-      },
-      "artists": [
-        {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
-        }
-      ],
-      "duration_ms": 163689,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Three Dimensions Deep",
@@ -1123,6 +1107,22 @@
       "duration_ms": 173774,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 163689,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1197,26 +1197,6 @@
       "url": "https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Xtasy (Remix) [feat. Doechii]",
-        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 270497,
-      "name": "Xtasy (Remix) [feat. Doechii]",
-      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Good Mornin'",
@@ -1235,6 +1215,26 @@
       "duration_ms": 142351,
       "name": "Good Mornin'",
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Call the Bluff",
-        "url": "https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv"
-      },
-      "artists": [
-        {
-          "name": "Hush Forte",
-          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
-        }
-      ],
-      "duration_ms": 179249,
-      "name": "Call the Bluff",
-      "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
-    },
-    {
       "added_at": "2022-09-23 04:05:05",
       "album": {
         "name": "Goodbye Paris",
@@ -1339,22 +1323,6 @@
       "duration_ms": 225933,
       "name": "Goodbye Paris",
       "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "I'll make it better",
-        "url": "https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK"
-      },
-      "artists": [
-        {
-          "name": "Naji",
-          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
-        }
-      ],
-      "duration_ms": 75294,
-      "name": "I'll make it better",
-      "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1373,6 +1341,38 @@
       "url": "https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "I'll make it better",
+        "url": "https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK"
+      },
+      "artists": [
+        {
+          "name": "Naji",
+          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
+        }
+      ],
+      "duration_ms": 75294,
+      "name": "I'll make it better",
+      "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Call the Bluff",
+        "url": "https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv"
+      },
+      "artists": [
+        {
+          "name": "Hush Forte",
+          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
+        }
+      ],
+      "duration_ms": 179249,
+      "name": "Call the Bluff",
+      "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "deadman",
@@ -1387,22 +1387,6 @@
       "duration_ms": 130909,
       "name": "deadman",
       "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "I Think I Do",
-        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 142438,
-      "name": "I Think I Do",
-      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1423,6 +1407,38 @@
       "duration_ms": 148280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "I Think I Do",
+        "url": "https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 142438,
+      "name": "I Think I Do",
+      "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
+    },
+    {
+      "added_at": "2022-07-22 04:15:47",
+      "album": {
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 236206,
+      "name": "Sunbleach",
+      "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 153712,
       "name": "Keep It Lo",
       "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
-    },
-    {
-      "added_at": "2022-07-22 04:15:47",
-      "album": {
-        "name": "Suspension of Disbelief",
-        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 236206,
-      "name": "Sunbleach",
-      "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
     },
     {
       "added_at": "2022-08-19 04:17:01",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
     },
     {
-      "added_at": "2022-12-16 05:17:19",
-      "album": {
-        "name": "Ultimate Self",
-        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Ultimate Self",
-      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
-    },
-    {
       "added_at": "2022-09-30 04:04:40",
       "album": {
         "name": "RISEN",
@@ -1601,20 +1585,20 @@
       "url": "https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-12-16 05:17:19",
       "album": {
-        "name": "supernova",
-        "url": "https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq"
+        "name": "Ultimate Self",
+        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
       },
       "artists": [
         {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
         }
       ],
-      "duration_ms": 90650,
-      "name": "supernova",
-      "url": "https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC"
+      "duration_ms": 225000,
+      "name": "Ultimate Self",
+      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 228000,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "supernova",
+        "url": "https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 90650,
+      "name": "supernova",
+      "url": "https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC"
     },
     {
       "added_at": "2022-10-07 04:01:00",

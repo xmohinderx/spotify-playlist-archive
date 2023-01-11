@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,733 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,771 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 9 | [Deep Gap](https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 3:23 |
 | 10 | [Alberta](https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:41 |
 | 11 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
-| 12 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
-| 13 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
+| 12 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
+| 13 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
 | 14 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 15 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
 | 16 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
 | 17 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
 | 18 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
 | 19 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 |
-| 20 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
-| 21 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
+| 20 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
+| 21 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 | 22 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 |
 | 23 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 24 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 35 | [Gone Clear](https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 6:07 |
 | 36 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 |
 | 37 | [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 |
-| 38 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
-| 39 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
+| 38 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
+| 39 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 40 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 |
 | 41 | [Hemet Pine Singer](https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB) | [Will Stratton](https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 3:49 |
 | 42 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 |
-| 43 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 |
-| 44 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 |
+| 43 | [Natural West](https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5) | 5:03 |
+| 44 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 |
 | 45 | [Ghost Dance](https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Time Flies](https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG) | 3:33 |
 | 46 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 |
 | 47 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Rondo in D \- On Southern Themes](https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr) | [Harry Taussig](https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh) | [Fate Is Only Twice](https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC) | 4:47 |
 | 50 | [Trouble In Mind](https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Blowin' The Fuses](https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT) | 2:57 |
 
-Snapshot ID: `MTY3MzAyNTA3NywwMDAwMDAwMDVkN2U4NGZjNWEzYTZiZDFiYWQ3N2I5NDQzODNjZjgz`
+Snapshot ID: `MTY3MzAyNTA3NywwMDAwMDAwMDg5YzZiMmJkOGEzM2Y0YjcxYThmMDRmNWM1MGMzNzJk`

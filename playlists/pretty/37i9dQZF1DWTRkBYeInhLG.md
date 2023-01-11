@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu adem untuk segala suasana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,990 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,101 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 75 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
 | 76 | [Pergi Untuk Kembali](https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2) | [Ello](https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig) | [Ello](https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s) | 4:27 |
 | 77 | [Menghujam Jantungku](https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [My Happy Life](https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe) | 3:33 |
-| 78 | [Selaras](https://open.spotify.com/track/61GiPHiUWi2f8mhN2AdBf0) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selaras](https://open.spotify.com/album/1qmWJzKCVXjkznYtZeG8jK) | 4:33 |
+| 78 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
 | 79 | [Indah Pada Waktunya](https://open.spotify.com/track/1S5aHAr1hpf3icpzq3ullG) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Indah Pada Waktunya](https://open.spotify.com/album/4PuuRAc30rb3rPbTFHBWXx) | 4:00 |
-| 80 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
+| 80 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
 
-Snapshot ID: `MTY3MzI0OTI3NCwwMDAwMDAwMDhmMDYxMmFlYTU3MDBjYzY1Y2JlNDkxNmY1NDdkMTk2`
+Snapshot ID: `MTY3MzI0OTI3NCwwMDAwMDAwMDEyOWRmOWY5OTJkYjMyMTk5OTEwYmZkZDQzZGMzZDg1`

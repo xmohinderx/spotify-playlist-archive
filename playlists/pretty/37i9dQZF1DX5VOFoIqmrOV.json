@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 5 years. \nCover : RRR",
-  "num_followers": 184444,
+  "num_followers": 184652,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY4Nzc2NywwMDAwMDAwMGMwZTFmZTFkN2ViYjdhZDM4OWJmZDk3YzBkYzg4Yzhm",
+  "snapshot_id": "MTY3MzM0Mjg0NywwMDAwMDAwMDIwYjBkM2JmZjJkOGJkYTYxNzZhZTdjMzIxMGIxYWNj",
   "tracks": [
     {
       "added_at": "2022-07-24 04:40:57",
@@ -109,6 +109,26 @@
       "url": "https://open.spotify.com/track/0RjQR5QfKREKE9wQki8spV"
     },
     {
+      "added_at": "2023-01-10 09:27:27",
+      "album": {
+        "name": "Jinthaak Chithaka (From \"Dhamaka\")",
+        "url": "https://open.spotify.com/album/4x0uXmq0RuGBdpXx9bjs8N"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 225034,
+      "name": "Jinthaak Chithaka (From \"Dhamaka\")",
+      "url": "https://open.spotify.com/track/22u6BMS2NGGCoZzOsxAIlS"
+    },
+    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Ala Vaikunthapurramuloo",
@@ -175,6 +195,26 @@
       "duration_ms": 312374,
       "name": "Nee Kannu Neeli Samudram",
       "url": "https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI"
+    },
+    {
+      "added_at": "2023-01-10 09:27:27",
+      "album": {
+        "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+        "url": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        }
+      ],
+      "duration_ms": 314342,
+      "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+      "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
     },
     {
       "added_at": "2021-12-16 12:46:43",

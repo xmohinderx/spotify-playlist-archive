@@ -1,13 +1,45 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78645,
+  "num_followers": 78644,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzYxMSxiMjA2NGRmYWQ2ZDgzOGIxZmMwZTFmZTNlYTUxNWI4ZTExY2RhYTQw",
+  "snapshot_id": "MzYxMixlNzJhOTY4ZWIzOWQyNjA1MTAyNWM5YmYwMTRmYWEzOWZiZTkwODk0",
   "tracks": [
+    {
+      "added_at": "2023-01-10 15:01:38",
+      "album": {
+        "name": "The Musical / Hey Bog",
+        "url": "https://open.spotify.com/album/2NH3n58J1Zvabciudok71a"
+      },
+      "artists": [
+        {
+          "name": "Avey Tare",
+          "url": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+        }
+      ],
+      "duration_ms": 354508,
+      "name": "The Musical",
+      "url": "https://open.spotify.com/track/5x5aqkqUDMdaFEEzuOTt7X"
+    },
+    {
+      "added_at": "2023-01-10 15:01:38",
+      "album": {
+        "name": "The Musical / Hey Bog",
+        "url": "https://open.spotify.com/album/2NH3n58J1Zvabciudok71a"
+      },
+      "artists": [
+        {
+          "name": "Avey Tare",
+          "url": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+        }
+      ],
+      "duration_ms": 563993,
+      "name": "Hey Bog",
+      "url": "https://open.spotify.com/track/5lWL2HZ9MMCFLpgeM1htpP"
+    },
     {
       "added_at": "2023-01-06 10:20:00",
       "album": {

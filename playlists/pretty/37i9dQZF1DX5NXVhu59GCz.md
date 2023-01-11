@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,644 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,661 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 11 | [Death Sound](https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 4:26 |
 | 12 | [Leavin' Trunk](https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H) | [Keef Hartley Band](https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2) | [Halfbreed](https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi) | 5:56 |
 | 13 | [A Child of a Few Hours Is Burning to Death](https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [A Child's Guide To Good And Evil](https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF) | 2:41 |
-| 14 | [Codine](https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 4:32 |
-| 15 | [Baby Blue](https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc) | [The Chocolate Watchband](https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A) | [Inner Mystique](https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd) | 3:12 |
+| 14 | [Baby Blue](https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc) | [The Chocolate Watchband](https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A) | [Inner Mystique](https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd) | 3:12 |
+| 15 | [Codine](https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 4:32 |
 | 16 | [Never Had A Girl](https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU) | [The Misunderstood](https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev) | [The Legendary Goldstar Album & Golden Glass](https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf) | 4:31 |
 | 17 | [\(BALLAD OF\) THE HIP DEATH GODDESS](https://open.spotify.com/track/1IQmZ2Hz0HEtb8rwXNci4i) | [Ultimate Spinach](https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM) | [Ultimate Spinach](https://open.spotify.com/album/3g1Dzj83jWRcQMCtmLHTka) | 8:14 |
 | 18 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
 | 19 | [Crimson & Clover](https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 10:35 |
 | 20 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
 | 21 | [A "B" Side](https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Ragamuffin Man / A ‘B’ Side](https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0) | 5:13 |
-| 22 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
-| 23 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
-| 24 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
-| 25 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
+| 22 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
+| 23 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
+| 24 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
+| 25 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
 | 26 | [Inkpot](https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Inkpot & Attila](https://open.spotify.com/album/5liqryZxZvie3pfCR21liP) | 2:39 |
 | 27 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
 | 28 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 | 50 | [I Put a Spell on You](https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj) | 3:44 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDhjYmIxZmJjMDIzNTc5NTZiZDEyMGExOWM2YjhiODBm`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMGUwYzEwNTVjM2YyNGViNDczY2E3NTZjOTgyNGM3OTY3`

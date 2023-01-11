@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-169 songs - 11 hr 20 min
+170 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [En Un Establo](https://open.spotify.com/track/6tL9lv4bYKoVzkONXcahw8) | [Pecos Romero](https://open.spotify.com/artist/4DHZAMPvCGmf52B8fI7PvZ) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:33 | 2021-12-24 | 2022-07-29 |
 | [Es Hora De Brillar](https://open.spotify.com/track/13D6lijOFGU3vsXOhNKb6v) | [Adrian Romero](https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY), [Ivan Jasso](https://open.spotify.com/artist/2XPtlAjSzcKezNpJnwV9Ir) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 4:45 | 2021-12-24 | 2022-07-29 |
 | [Es Hora De Brillar](https://open.spotify.com/track/2uKAZ2Uw0Q6bDE1GBa4LLX) | [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY), [Jasso](https://open.spotify.com/artist/3h2Bhc5HOKO4eWlnlou8qx), [Adrián Romero](https://open.spotify.com/artist/07C86B0m9AJsysuDz8rEgV) | [Navidad Con Vástago, Vol\. 2](https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2) | 4:47 | 2021-12-24 |  |
-| [Es Navidad](https://open.spotify.com/track/6CEjXxJzWXJph1mJAMT52p) | [Alex De Boga](https://open.spotify.com/artist/6jVRhwOCYBNGlIDohKV14z) | [Alex De Boga](https://open.spotify.com/album/23j7cQUnvwiu9PER4eYOzr) | 4:23 | 2021-12-24 |  |
+| [Es Navidad](https://open.spotify.com/track/6CEjXxJzWXJph1mJAMT52p) | [Alex De Boga](https://open.spotify.com/artist/6jVRhwOCYBNGlIDohKV14z) | [Alex De Boga](https://open.spotify.com/album/23j7cQUnvwiu9PER4eYOzr) | 4:23 | 2021-12-24 | 2023-01-11 |
 | [Es Navidad](https://open.spotify.com/track/4E7S8GDdXMxqtJbxG4fEjZ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Es Navidad](https://open.spotify.com/album/68caAAwhDHZqzO5suuVdRy) | 4:50 | 2021-12-24 | 2022-07-29 |
 | [Es Navidad](https://open.spotify.com/track/6GCvzp8XtG6dCMYcnve8r5) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Es Navidad](https://open.spotify.com/album/5tukg2l5VZkxI7fL0JeL2s) | 4:50 | 2021-12-24 |  |
 | [Es Navidad](https://open.spotify.com/track/2NTMwpuulVcqgRlfsWfXk6) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo Navidad](https://open.spotify.com/album/1x7J9Ovw7NajL73XoVwA57) | 4:23 | 2021-12-24 | 2022-07-29 |
@@ -83,6 +83,7 @@
 | [La Primera Navidad](https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [La Primera Navidad](https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt) | 4:17 | 2022-11-26 | 2022-12-11 |
 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 | 2021-12-24 |  |
 | [Llegó La Navidad](https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 4:02 | 2021-12-24 | 2022-11-27 |
+| [Llegó Navidad](https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [En Navidad](https://open.spotify.com/album/0ugGqIg0MlPul2TpV30jlp) | 4:06 | 2022-12-10 |  |
 | [Lucecitas](https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh) | [Banda Montreal](https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym) | [Lucecitas](https://open.spotify.com/album/6yTGTLZ9sMu7Xdn5JSMsQ9) | 3:10 | 2021-12-24 |  |
 | [Lucecitas](https://open.spotify.com/track/6WFoSWIYFSIdgFqeRPPAZg) | [Banda Montreal](https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym) | [Lucecitas](https://open.spotify.com/album/0dX9nxyedJMTSMJV5Cs7Ty) | 3:10 | 2021-12-24 | 2022-07-29 |
 | [Luces De Colores](https://open.spotify.com/track/0Ya6G4t0lUmq8XcpDTryGf) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 3:26 | 2021-12-24 | 2022-07-29 |

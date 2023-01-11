@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-95 songs - 4 hr 55 min
+96 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 | 2022-08-12 |  |
 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 | 2022-12-16 |  |
 | [Dorah](https://open.spotify.com/track/4mta6obIQ4j7hkyVFscBwn) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Care Fahim](https://open.spotify.com/artist/2SMKkx0HYuo4xf3YiX08k5) | [Dorah](https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5) | 3:29 | 2022-09-09 | 2022-12-02 |
-| [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 | 2022-05-27 |  |
+| [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 | 2022-05-27 | 2023-01-11 |
 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 | 2022-11-17 |  |
 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 | 2022-05-12 |  |
 | [Entebbe](https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Road to Kirya](https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD) | 3:52 | 2022-05-12 | 2022-12-31 |
@@ -68,6 +68,7 @@
 | [Melody](https://open.spotify.com/track/170CNdSxk5vIQNinTIl9XH) | [Josh Buxton](https://open.spotify.com/artist/4Guu0ZYrcI2naNVmQVje5n) | [Mperekera](https://open.spotify.com/album/3JVNzLhSAPBmJpmbBy5Ivb) | 2:59 | 2022-05-12 | 2022-10-07 |
 | [Memories](https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN) | [Chuksie](https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9) | [Memories](https://open.spotify.com/album/1lHtZjjRSOLUKtmCSgJtwl) | 2:50 | 2022-12-09 |  |
 | [Mpakasa](https://open.spotify.com/track/3pwBAkk0rCwXl2nDmcY9es) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mpakasa](https://open.spotify.com/album/0IJXotvomhn59wnb0g7u3v) | 3:06 | 2022-09-01 | 2022-09-10 |
+| [Mr Director](https://open.spotify.com/track/3FS3nezNWMJ2iDSgxffLjF) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Sisaaga](https://open.spotify.com/album/0UpY66n45LVS5N8rfcYXRN) | 3:02 | 2022-12-09 |  |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2022-11-11 |
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 | 2022-05-12 |  |

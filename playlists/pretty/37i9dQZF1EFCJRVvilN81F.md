@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,377 likes - 105 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,384 likes - 105 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 56 | [Taco](https://open.spotify.com/track/0bwwbQKdfObbgY434nSSlv) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 |
 | 57 | [IT WAS MEANT 2 B](https://open.spotify.com/track/3AY6Umh7zKCxy5NoftF6cc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 4:00 |
 | 58 | [Telling The Truth](https://open.spotify.com/track/6LOWgH9NaSheAz0U4b7uQL) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 3:57 |
-| 59 | [Honey](https://open.spotify.com/track/5q83kstyzBZWeoVbEBmrMD) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 4:44 |
-| 60 | [Driftin'](https://open.spotify.com/track/3ViHeWphifuEGsSipW3uoz) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:54 |
+| 59 | [Driftin'](https://open.spotify.com/track/3ViHeWphifuEGsSipW3uoz) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:54 |
+| 60 | [Honey](https://open.spotify.com/track/5q83kstyzBZWeoVbEBmrMD) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 4:44 |
 | 61 | [$payforhaiti \(feat\. Mach\-Hommy\)](https://open.spotify.com/track/6IdCoC26mus1crAnWEiG9j) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:03 |
 | 62 | [Typically Her \- Kaytranada Edition](https://open.spotify.com/track/73enYVf3Nm3WSmdztzJOjz) | [Beverlay](https://open.spotify.com/artist/0Qlftb3wGkmMwK1m81UdSx) | [Nova Tunes 2.8](https://open.spotify.com/album/3sZtdc5cA6mCQDxqJC6WlQ) | 3:44 |
 | 63 | [World Of Wonders](https://open.spotify.com/track/2RRI47A8yNZ94o56IRfRCQ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:22 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 104 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 105 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `Mjc4ODg1NDksMDAwMDAwMDAwOGM4NWMxMWY5MTQxZGNjMzFlODQ1NjI0YjlkYmY0Yw==`
+Snapshot ID: `Mjc4ODk5ODksMDAwMDAwMDA3NDZkMTI5MWUxMjEzMWJjYzliNDk1MDc0Mzk2YWFkMA==`

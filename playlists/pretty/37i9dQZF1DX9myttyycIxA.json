@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Teenage Priest",
-  "num_followers": 276842,
+  "num_followers": 276902,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAwMTQ4MCwwMDAwMDAwMGRlZTIxM2I0MjFiZTAwYWY3ZGY2NWFiNzYwY2RhMjA2",
+  "snapshot_id": "MTY3MzAwMTQ4MCwwMDAwMDAwMDhhZTU4YTY4ZGMzOTRiYzljMmUwNDY0YjI4ZTUzNTdh",
   "tracks": [
     {
       "added_at": "2022-10-21 14:21:02",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
+      "added_at": "2022-11-17 17:47:18",
+      "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "duration_ms": 185816,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn"
+    },
+    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Forgetting Delaney",
@@ -553,20 +569,20 @@
       "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
     },
     {
-      "added_at": "2022-11-17 17:47:18",
+      "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Courage",
-        "url": "https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD"
+        "name": "Knocking on Wood",
+        "url": "https://open.spotify.com/album/2TR4wew45TemGUpSbMZOuz"
       },
       "artists": [
         {
-          "name": "Alex Siegel",
-          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
         }
       ],
-      "duration_ms": 185816,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn"
+      "duration_ms": 251013,
+      "name": "Knocking on Wood",
+      "url": "https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -591,18 +607,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Knocking on Wood",
-        "url": "https://open.spotify.com/album/2TR4wew45TemGUpSbMZOuz"
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
       },
       "artists": [
         {
-          "name": "Worry Club",
-          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
         }
       ],
-      "duration_ms": 251013,
-      "name": "Knocking on Wood",
-      "url": "https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB"
+      "duration_ms": 205890,
+      "name": "Aftershook",
+      "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
     },
     {
       "added_at": "2022-11-17 17:47:18",
@@ -619,22 +635,6 @@
       "duration_ms": 276320,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 205890,
-      "name": "Aftershook",
-      "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Hawaii",
-        "url": "https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 156477,
-      "name": "Never Go",
-      "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "rainbow music",
         "url": "https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+        "name": "Hawaii",
+        "url": "https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE"
       },
       "artists": [
         {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
         }
       ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+      "duration_ms": 156477,
+      "name": "Never Go",
+      "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -779,6 +763,22 @@
       "duration_ms": 231680,
       "name": "Her",
       "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "When The Wind Forgets Your Name",
         "url": "https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "Hiding in Plain Sight",
-        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+        "name": "Leap Day",
+        "url": "https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw"
       },
       "artists": [
         {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+          "name": "Remember Sports",
+          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Someone to Love",
-      "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
+      "duration_ms": 136320,
+      "name": "Leap Day",
+      "url": "https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1007,22 +1023,6 @@
       "duration_ms": 184462,
       "name": "insomniac",
       "url": "https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Leap Day",
-        "url": "https://open.spotify.com/album/5bIvA0LQnYPoZNpqJAKlFw"
-      },
-      "artists": [
-        {
-          "name": "Remember Sports",
-          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Leap Day",
-      "url": "https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
-        "name": "How It Ends",
-        "url": "https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 239986,
       "name": "WASTELAND",
       "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
+    },
+    {
+      "added_at": "2023-01-06 10:38:00",
+      "album": {
+        "name": "Hot and Clumsy",
+        "url": "https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Hot and Clumsy",
+      "url": "https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1169,22 +1185,6 @@
       "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Sandra",
-        "url": "https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi"
-      },
-      "artists": [
-        {
-          "name": "Yb.",
-          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
-        }
-      ],
-      "duration_ms": 234704,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
-    },
-    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "HOLIDAY",
@@ -1199,6 +1199,22 @@
       "duration_ms": 181161,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Sandra",
+        "url": "https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "duration_ms": 234704,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2023-01-06 10:38:00",
       "album": {
-        "name": "Hot and Clumsy",
-        "url": "https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6"
+        "name": "nothing special",
+        "url": "https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB"
       },
       "artists": [
         {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+          "name": "wilt",
+          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
         }
       ],
-      "duration_ms": 271600,
-      "name": "Hot and Clumsy",
-      "url": "https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ"
+      "duration_ms": 203437,
+      "name": "nothing special",
+      "url": "https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1285,22 +1301,6 @@
       "url": "https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Oldies & Goldies",
-        "url": "https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt"
-      },
-      "artists": [
-        {
-          "name": "FUR",
-          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs"
-    },
-    {
       "added_at": "2022-12-09 06:32:00",
       "album": {
         "name": "Control Theory",
@@ -1315,6 +1315,22 @@
       "duration_ms": 119172,
       "name": "Control Theory",
       "url": "https://open.spotify.com/track/5Kre0cCwtaS43DCuq7VOd3"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Oldies & Goldies",
+        "url": "https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs"
     },
     {
       "added_at": "2022-11-17 17:47:18",
@@ -1381,22 +1397,6 @@
       "url": "https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er"
     },
     {
-      "added_at": "2023-01-06 10:38:00",
-      "album": {
-        "name": "nothing special",
-        "url": "https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB"
-      },
-      "artists": [
-        {
-          "name": "wilt",
-          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "nothing special",
-      "url": "https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "Sportswear",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz"
     },
     {
-      "added_at": "2022-12-07 16:54:42",
-      "album": {
-        "name": "tunnels",
-        "url": "https://open.spotify.com/album/5KoX3aCqCu1r7QHgl4orSv"
-      },
-      "artists": [
-        {
-          "name": "saturn 17",
-          "url": "https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq"
-        }
-      ],
-      "duration_ms": 185817,
-      "name": "tunnels",
-      "url": "https://open.spotify.com/track/0eyAqg3viU4tRH9aGYfQLF"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Bitter",
@@ -1459,6 +1443,22 @@
       "duration_ms": 199861,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
+    },
+    {
+      "added_at": "2022-12-07 16:54:42",
+      "album": {
+        "name": "tunnels",
+        "url": "https://open.spotify.com/album/5KoX3aCqCu1r7QHgl4orSv"
+      },
+      "artists": [
+        {
+          "name": "saturn 17",
+          "url": "https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq"
+        }
+      ],
+      "duration_ms": 185817,
+      "name": "tunnels",
+      "url": "https://open.spotify.com/track/0eyAqg3viU4tRH9aGYfQLF"
     },
     {
       "added_at": "2022-12-09 06:32:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-10-21 14:21:02",
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU"
+      },
+      "artists": [
+        {
+          "name": "FredAtlast",
+          "url": "https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55"
+        }
+      ],
+      "duration_ms": 267130,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
         "name": "Frances Farmer Will Have Her Revenge On Seattle",
         "url": "https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2"
       },
@@ -1597,36 +1613,20 @@
       "url": "https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU"
+        "name": "National Team",
+        "url": "https://open.spotify.com/album/0ebH6G0lKJ32rdd6lmvsHQ"
       },
       "artists": [
         {
-          "name": "FredAtlast",
-          "url": "https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55"
+          "name": "Hotel Lux",
+          "url": "https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR"
         }
       ],
-      "duration_ms": 267130,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Breaking Up",
-        "url": "https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Breaking Up",
-      "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
+      "duration_ms": 213706,
+      "name": "National Team",
+      "url": "https://open.spotify.com/track/7xuuu097llYHPptd42QxOV"
     }
   ],
   "unique_name": "undercurrents",

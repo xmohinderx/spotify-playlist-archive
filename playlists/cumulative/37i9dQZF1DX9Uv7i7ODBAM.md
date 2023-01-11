@@ -4,13 +4,14 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-77 songs - 4 hr 33 min
+79 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 | 2022-10-01 |  |
 | [All for my sake](https://open.spotify.com/track/3cq8ZVsVrhUmI0uO7aFGht) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 3:37 | 2022-12-13 | 2022-12-15 |
 | [All for my sake](https://open.spotify.com/track/6lAxb7FbIr5yxto0NiFE38) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 3:37 | 2022-12-13 |  |
+| [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-10 |  |
 | [Dabi Dance](https://open.spotify.com/track/1ac0rW28wbCz5W5QRaKAln) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:48 | 2022-12-13 |  |
 | [Dabi Dance](https://open.spotify.com/track/6oaGaIgZcVofL5tkTe012K) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 2:48 | 2022-12-13 | 2022-12-15 |
 | [Fight Against the Strong](https://open.spotify.com/track/3AkccgTr4kJBvnyUtJH5NA) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 4:03 | 2022-10-01 |  |
@@ -65,6 +66,7 @@
 | [アップデート](https://open.spotify.com/track/53XiMm0e6FRh6dUbezX53A) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [miwa THE BEST](https://open.spotify.com/album/68EOdB4soWFzWNdJ9EYQbT) | 4:19 | 2022-10-01 |  |
 | [アバンタイトル](https://open.spotify.com/track/4LkhqAOcXUekylJ5EXhqF4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 0:37 | 2022-10-01 |  |
 | [エンパシー](https://open.spotify.com/track/2QaD2jnLNJgvyjT84hODSE) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [エンパシー](https://open.spotify.com/album/2rb7VoFHOluiQsRfSFwkii) | 4:44 | 2022-10-01 |  |
+| [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 | 2023-01-10 |  |
 | [スターマーカー](https://open.spotify.com/track/0pQm5AbAaVy9XrOLf7rgSF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3i5qvSK7NKmpeLT0a76qXN) | 3:33 | 2022-10-11 | 2022-11-14 |
 | [スターマーカー \(Album Mix\)](https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Honey & Darling](https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL) | 3:33 | 2022-10-01 |  |
 | [ハイヤーグラウンド](https://open.spotify.com/track/6kRLCygHi8SvEL2MWbfzcg) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [AMUSIC](https://open.spotify.com/album/77S1EmlVIWKiXrtwt21sZ1) | 3:47 | 2022-10-01 |  |

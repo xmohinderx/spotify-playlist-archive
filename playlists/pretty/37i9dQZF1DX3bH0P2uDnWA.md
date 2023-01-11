@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,761 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,941 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 44 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 |
 | 45 | [Glam \- Electro\-swing Remix](https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR) | [Dimie Cat](https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI) | [Glam! \- Single](https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9) | 3:07 |
 | 46 | [What Lana Says](https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [What Lana Says](https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC) | 4:39 |
-| 47 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh), [Bdd](https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY) | [The Cat Came Back](https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx) | 2:53 |
+| 47 | [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 |
 | 48 | [Get This \(Bang Bang\)](https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Get This \(Bang Bang\)](https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW) | 3:45 |
 | 49 | [Trouble](https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Trouble](https://open.spotify.com/album/065YosCANMb3iddT5Dv53h) | 3:15 |
-| 50 | [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 |
+| 50 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh), [Bdd](https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY) | [The Cat Came Back](https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx) | 2:53 |
 | 51 | [Parla più piano / In cerca di te \- Electro Swing Mix](https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf) | [Parla più piano / In cerca di te](https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3) | 2:48 |
 | 52 | [Don't Stop](https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Don't Stop](https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2) | 3:02 |
 | 53 | [Ponder \- Betty Booom Remix](https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Ponder \(Betty Booom Remix\)](https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 74 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 |
 | 75 | [One for the Road](https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR), [Elliot Deutsch](https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf) | [One for the Road](https://open.spotify.com/album/6opglzlR3Z9OjX1y0WAfF6) | 3:58 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDYxOWVkZTgwMjBhMGQzZGExZjI0OGUwZGEwMjI2NWMx`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGZkM2ZkMWUxYzFkYjZkNGIyMDU4MmU1ZjAxNDI2ZmEz`

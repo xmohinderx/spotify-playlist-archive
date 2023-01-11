@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,438 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,537 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 32 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
 | 33 | [Vete](https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Vete](https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn) | 3:02 |
 | 34 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 |
-| 35 | [GPS \(feat\. French Montana\)](https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [GPS \(feat\. French Montana\)](https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q) | 3:36 |
-| 36 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
-| 37 | [Nunca Me Amo](https://open.spotify.com/track/6jCF6MQ050engg73RJnN87) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Nunca Me Amo](https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU) | 3:19 |
+| 35 | [Nunca Me Amo](https://open.spotify.com/track/6jCF6MQ050engg73RJnN87) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Nunca Me Amo](https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU) | 3:19 |
+| 36 | [GPS \(feat\. French Montana\)](https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [GPS \(feat\. French Montana\)](https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q) | 3:36 |
+| 37 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
 | 38 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 39 | [Cerca de ti \(feat\. Rusherking, Bhavi, Tobi\) \- Remix](https://open.spotify.com/track/7ifCZvsDAyzveOHqUYbrpz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Cerca de ti \(feat\. Rusherking, Bhavi, Tobi\) \[Remix\]](https://open.spotify.com/album/6vrYsaL806YXpu93pEqFY3) | 4:01 |
 | 40 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Ke Sientes](https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Ke Sientes](https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX) | 3:27 |
 | 100 | [Andan Buscándome](https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Andan Buscándome](https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0) | 3:57 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDdmYmM0NDNiMmY2M2M5M2FkMDZkNjRhYjNmZTcwODhi`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDU2YTJlNDY2NTE1Yzk3MDE4YTBiYzQzZjRjM2I0NWU0`

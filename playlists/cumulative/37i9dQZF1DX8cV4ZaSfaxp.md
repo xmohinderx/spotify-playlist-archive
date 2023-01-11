@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-282 songs - 17 hr 34 min
+283 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [All Night](https://open.spotify.com/track/1UwERmn5UogyCz6qo21BmA) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Holiday Night \- The 6th Album](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) | 3:42 | 2022-06-18 |  |
 | [Any Call \(Call Me Any Time\)](https://open.spotify.com/track/2pDBR4VKRNFmwUCj7zQmC8) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Any Call \(Call Me Any Time\)](https://open.spotify.com/album/2XuLnqS5yuSXq0tydgUD2u) | 3:28 | 2022-05-11 | 2022-07-26 |
 | [Apologize](https://open.spotify.com/track/5a8Cw8cj9j3lSIQ21i72p0) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [COSMOS](https://open.spotify.com/album/6z8ufyHFN5J1EKG6wiAMLu) | 4:12 | 2022-05-11 | 2022-07-29 |
-| [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 | 2022-05-11 |  |
+| [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 | 2022-05-11 | 2023-01-11 |
 | [Asteroid 소행성](https://open.spotify.com/track/4vODFC2HQEVCJABkba6eKM) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Asteroid 소행성](https://open.spotify.com/album/7ytsVClk3q5bbVFVM5hyBM) | 3:35 | 2022-05-11 | 2022-07-27 |
 | [Awake But Dreaming \(Feat\. KIMMUSEUM\)](https://open.spotify.com/track/0fWD1NsspeuahId2EktTBG) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [New Edition 27](https://open.spotify.com/album/7mE6Va4hXeo6UNPn01tu19) | 3:23 | 2022-05-11 | 2022-07-28 |
 | [Baby Don't Play](https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:31 | 2022-05-11 |  |
@@ -70,7 +70,7 @@
 | [Color Me](https://open.spotify.com/track/0PjVjxtWhAUnaRYBWHWdFa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Lucky](https://open.spotify.com/album/6sky0eX7g7zrikM2zPqf7h) | 3:40 | 2022-05-11 | 2022-07-03 |
 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 | 2022-05-11 | 2022-12-16 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 |  |
-| [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-22 | 2023-01-07 |
+| [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 |  |
 | [Dawn](https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Dawn](https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA) | 4:01 | 2022-07-04 | 2022-09-16 |
 | [DAYDREAM](https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:23 | 2022-07-22 |  |
 | [DAYDREAM](https://open.spotify.com/track/4qj6sQ5Y3tY4MIEEzqGLhT) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:23 | 2022-05-11 | 2022-06-30 |
@@ -103,7 +103,7 @@
 | [Full Moon](https://open.spotify.com/track/1omaEeFsC0a5rCvEp6QTDC) | [KIMSAN 김산](https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1) | [Headlights](https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS) | 4:17 | 2022-05-11 | 2022-07-13 |
 | [Funny \(feat\. Grizzly\)](https://open.spotify.com/track/7guQtXNYn2E9LMyjUyiywZ) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1), [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Funny](https://open.spotify.com/album/5K09zjcvZTSsZU3UnBILvf) | 3:37 | 2022-06-09 | 2022-06-29 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-05-11 |  |
-| [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 | 2022-05-11 |  |
+| [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 | 2022-05-11 | 2023-01-11 |
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-07-22 | 2022-11-03 |
 | [Give Me The Light 불을 밝혀줘](https://open.spotify.com/track/0uJYbZ0tNOLrxncyLTOObR) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/3pyxq9x3nrxr2EdHwu6Lof) | 3:10 | 2022-05-11 | 2022-07-29 |
 | [Goodbye Boy](https://open.spotify.com/track/1drCzM3kJvHqrCK21QyGse) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Goodbye Boy](https://open.spotify.com/album/39tr8GJkE0Po4q5nZm2W7W) | 2:57 | 2022-05-11 | 2022-07-24 |
@@ -196,6 +196,7 @@
 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 | 2022-05-11 | 2022-07-05 |
 | [Pixel](https://open.spotify.com/track/3cuofWllYn8kBdMGVrvPTI) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Pixel](https://open.spotify.com/album/3smEGBtxcckJh80i2BA3Ml) | 3:28 | 2022-05-11 | 2022-07-29 |
 | [Pluto](https://open.spotify.com/track/5MUcrvartDMO0jj9xbYavg) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 4:29 | 2022-05-11 | 2022-07-29 |
+| [polaris](https://open.spotify.com/track/71o4YEOUkycd6pwhH03sHL) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [polaris](https://open.spotify.com/album/0g8cwMezSGfEefVg0PKkFK) | 3:32 | 2023-01-11 |  |
 | [pporappippam](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2022-05-11 |  |
 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 | 2022-07-22 |  |
 | [Rain 51db](https://open.spotify.com/track/5n7igdr3vMrBA8tUTEqDyd) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2sfaytEMgRE6oXo4vTNFbc) | 3:21 | 2022-05-11 | 2022-07-28 |

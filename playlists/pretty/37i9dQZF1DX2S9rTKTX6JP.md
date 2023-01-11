@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,203 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,329 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 84 | [Mine](https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Mine](https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L) | 3:14 |
 | 85 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 |
 | 86 | [Numb \(Acoustic\)](https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Decade II: Rock & Acoustic](https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi) | 3:18 |
-| 87 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
-| 88 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
+| 87 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
+| 88 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 89 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
 | 90 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 |
 | 91 | [Fortunate Son](https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Fortunate Son](https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg) | 3:23 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 96 | [Can't Help Falling In Love](https://open.spotify.com/track/66Ceo7qZOyyX3J8AUsT2Vt) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Can't Help Falling In Love](https://open.spotify.com/album/0xCg7AH64BKMQvKMcFnTo9) | 3:01 |
 | 97 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
 | 98 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
-| 99 | [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 |
-| 100 | [Mad World](https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l) | 3:30 |
+| 99 | [Mad World](https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l) | 3:30 |
+| 100 | [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 |
 
-Snapshot ID: `MTY3MzI3OTc1OSwwMDAwMDAwMDQzNDk2NTE2YzJlNDg0MjMxMzNhMGYzMWE5YTJmMmM1`
+Snapshot ID: `MTY3MzI3OTc1OSwwMDAwMDAwMGY2Mzc2ZTRmMDg3NjIzN2JmMmIyNmUxZGE3MzE0MTgw`

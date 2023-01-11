@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH"
+      },
+      "artists": [
+        {
+          "name": "PLEEG",
+          "url": "https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H"
+    },
+    {
+      "album": {
         "name": "All Access",
         "url": "https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4"
       },
@@ -1660,6 +1678,10 @@
         {
           "name": "Tatsunoshin",
           "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "Giin",
+          "url": "https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB"
         }
       ],
       "date_added": "2023-01-03",
@@ -3505,7 +3527,7 @@
         },
         {
           "name": "GNDHI",
-          "url": "https://open.spotify.com/artist/0KTBRZ4b1Ah8HqBH9AtBix"
+          "url": "https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo"
         },
         {
           "name": "J Fitz",

@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 191971,
       "name": "Aw Man",
       "url": "https://open.spotify.com/track/51mnDmga8hrMmdJnlP52xi"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -9534,7 +9534,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -13686,7 +13686,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -14002,7 +14002,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 162079,
       "name": "Rugpj\u016btis",
       "url": "https://open.spotify.com/track/2psbE7Ds01Xz2MaMIk7APk"
@@ -18367,6 +18367,28 @@
     },
     {
       "album": {
+        "name": "We Came for Love",
+        "url": "https://open.spotify.com/album/4cy5728K4dMttPwd0s3Xyv"
+      },
+      "artists": [
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        },
+        {
+          "name": "Phil Phauler",
+          "url": "https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "We Came for Love",
+      "url": "https://open.spotify.com/track/2kIVmLQVNEeZvcH8ZEZmdJ"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -18604,7 +18626,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -19396,6 +19418,24 @@
       "duration_ms": 184421,
       "name": "\u017diburiai",
       "url": "https://open.spotify.com/track/21QCQXnmSTApn8Tu9a2HO5"
+    },
+    {
+      "album": {
+        "name": "\u017dibut\u0117",
+        "url": "https://open.spotify.com/album/6SGBOBIwBaS9rkqcwTVEEE"
+      },
+      "artists": [
+        {
+          "name": "jaut\u00ec",
+          "url": "https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167506,
+      "name": "\u017dibut\u0117",
+      "url": "https://open.spotify.com/track/0nOft3QVjsx8WzE8w21IzH"
     },
     {
       "album": {

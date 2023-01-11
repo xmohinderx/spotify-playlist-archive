@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz",
-  "num_followers": 246471,
+  "num_followers": 246671,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI5OTkwMSwwMDAwMDAwMDcyYjY1YmU4NjdhMDVmNTM4NzBhNTVhZGIxODIwMTBh",
+  "snapshot_id": "MTY3MzI5OTkwMSwwMDAwMDAwMDM2ZmU1Yjg4NmRjZGU4ODUxODA5MTlmNTY5NGMzNDE2",
   "tracks": [
     {
       "added_at": "2023-01-09 21:31:41",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-01-09 21:31:41",
       "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2023-01-09 21:31:41",
+      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 189562,
       "name": "Queria Te Ver",
       "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
-    },
-    {
-      "added_at": "2023-01-09 21:31:41",
-      "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2023-01-09 21:31:41",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-01-09 21:31:41",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2023-01-09 21:31:41",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2023-01-09 21:31:41",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-01-09 21:31:41",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-01-09 21:31:41",
       "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        },
+        {
+          "name": "FEL",
+          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
+    },
+    {
+      "added_at": "2023-01-09 21:31:41",
+      "album": {
         "name": "Tem Hist\u00f3ria N\u00e3o",
         "url": "https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6"
       },
@@ -1471,22 +1491,26 @@
     {
       "added_at": "2023-01-09 21:31:41",
       "album": {
-        "name": "Surreal",
-        "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
+        "name": "n\u00e3o te amo mais",
+        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
       "artists": [
         {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+          "name": "Isa Guerra",
+          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
         },
         {
-          "name": "FEL",
-          "url": "https://open.spotify.com/artist/5BFA1MzEXTBZTSLgB7cSRd"
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
         }
       ],
-      "duration_ms": 171392,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
+      "duration_ms": 133921,
+      "name": "n\u00e3o te amo mais",
+      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
     },
     {
       "added_at": "2023-01-09 21:31:41",
@@ -1523,30 +1547,6 @@
       "duration_ms": 288400,
       "name": "F\u00e9 Imensa",
       "url": "https://open.spotify.com/track/7Ay3bqPd31lSVCN73EJvJe"
-    },
-    {
-      "added_at": "2023-01-09 21:31:41",
-      "album": {
-        "name": "n\u00e3o te amo mais",
-        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
-      },
-      "artists": [
-        {
-          "name": "Isa Guerra",
-          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 133921,
-      "name": "n\u00e3o te amo mais",
-      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
     },
     {
       "added_at": "2023-01-09 21:31:41",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-01-09 21:31:41",
       "album": {
+        "name": "O Melhor Da Vida",
+        "url": "https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33"
+      },
+      "artists": [
+        {
+          "name": "DOM7NICO",
+          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Vamo Pra Praia",
+      "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
+    },
+    {
+      "added_at": "2023-01-09 21:31:41",
+      "album": {
         "name": "AL\u00c9M DE LOVE",
         "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
       },
@@ -1815,26 +1831,6 @@
       "duration_ms": 137931,
       "name": "Meu Desejo",
       "url": "https://open.spotify.com/track/4UqKWGj0prhKqRrLd4NsL2"
-    },
-    {
-      "added_at": "2023-01-09 21:31:41",
-      "album": {
-        "name": "Ca\u00f3tico",
-        "url": "https://open.spotify.com/album/34JUsBa5YJgfglrO4Sum50"
-      },
-      "artists": [
-        {
-          "name": "jay",
-          "url": "https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 115545,
-      "name": "Ca\u00f3tico",
-      "url": "https://open.spotify.com/track/4fxeVtur2DaXvvHOk5hUh0"
     }
   ],
   "unique_name": "brisa",

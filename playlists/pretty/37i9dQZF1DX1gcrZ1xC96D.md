@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,042 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,277 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 30 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:28 |
 | 31 | [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 |
 | 32 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 |
-| 33 | [No Excuses](https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [No Excuses](https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE) | 3:42 |
-| 34 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
+| 33 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
+| 34 | [No Excuses](https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [No Excuses](https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE) | 3:42 |
 | 35 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 |
 | 36 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 |
 | 37 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 45 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 |
 | 46 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
 | 47 | [Energy](https://open.spotify.com/track/6UoIrO15w3w62Jj8kGCnR7) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Energy](https://open.spotify.com/album/20Iy2nvzVJl0X1zeoW5T2U) | 3:06 |
-| 48 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 |
-| 49 | [Rainfall \(Praise You\) \- Nathan Dawe Remix](https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Rainfall \(Praise You\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K) | 2:17 |
+| 48 | [Rainfall \(Praise You\) \- Nathan Dawe Remix](https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Rainfall \(Praise You\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K) | 2:17 |
+| 49 | [Give It to Me](https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It to Me](https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF) | 3:30 |
 | 50 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
 
-Snapshot ID: `MTY2OTM5NDMxNiwwMDAwMDAwMDg2OTg0YzU4ZGI4NzllZjM2NTYyZDQ5NGVhMmJhMDc3`
+Snapshot ID: `MTY2OTM5NDMxNiwwMDAwMDAwMGY5ZmZiZGNkNWJjZmUzYjU4YjQxNzI1NmFkNzU2Nzcx`

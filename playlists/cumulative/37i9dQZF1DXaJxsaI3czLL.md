@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-126 songs - 9 hr 0 min
+127 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Lady \- 2020](https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 5:56 | 2022-10-20 |  |
 | [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 | 2022-10-20 |  |
 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 | 2022-10-20 |  |
+| [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-05 |  |
 | [Lullaby](https://open.spotify.com/track/5by4rIWBDVMyTNzUcmBnMg) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Lullaby](https://open.spotify.com/album/0h51BaIs0hXuKreFaMXhkF) | 3:25 | 2022-11-08 | 2022-11-23 |
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 | 2022-10-25 |
@@ -105,7 +106,7 @@
 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 | 2022-10-25 |  |
 | [夢のあとから](https://open.spotify.com/track/0L2Xxup2YCH9E9wKHnUZJ1) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫に恋して/忘れて花束](https://open.spotify.com/album/1NFvr2Trzy1UuaVeXL0M2z) | 4:23 | 2022-11-23 | 2022-12-14 |
 | [夢宙](https://open.spotify.com/track/19Abz8fdF55MlJlo52B59M) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [IMA](https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl) | 3:14 | 2022-11-23 | 2022-12-14 |
-| [孤島](https://open.spotify.com/track/2S7RQfyJF9mfAyZJ4t2lfk) | [大越佑華](https://open.spotify.com/artist/1YGA27xhDqDh8KghimOdEe), [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [孤島](https://open.spotify.com/album/6b1UI8afXUhYTKwbNJkInl) | 4:43 | 2022-10-25 |  |
+| [孤島](https://open.spotify.com/track/2S7RQfyJF9mfAyZJ4t2lfk) | [大越佑華](https://open.spotify.com/artist/1YGA27xhDqDh8KghimOdEe), [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [孤島](https://open.spotify.com/album/6b1UI8afXUhYTKwbNJkInl) | 4:43 | 2022-10-25 | 2023-01-11 |
 | [希望のうた](https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [沈黙の恋人](https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo) | 4:05 | 2022-10-20 |  |
 | [微熱 \(秋\)](https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱 \(秋\) / Honesty \(Session 1\)](https://open.spotify.com/album/45vKG9pi5lln4SsNdHTqSQ) | 4:58 | 2022-11-15 | 2022-11-17 |
 | [心のそばに](https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 5:03 | 2022-10-20 |  |

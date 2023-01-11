@@ -1,12 +1,12 @@
 {
   "description": "Solte a voz no chuveiro e liberte o cantor dentro de voc\u00ea!",
-  "num_followers": 857857,
+  "num_followers": 858017,
   "original_name": "Cantando no Chuveiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwOTMxNSwwMDAwMDAwMDM4ZmMxNWRlMjgwZTA3ZWZmN2NmN2YwODU0Yzc5NTU2",
+  "snapshot_id": "MTY2ODAwOTMxNSwwMDAwMDAwMDI5NGQxYzZiODQ3M2QwM2NlODc4NDdjNTQ4YTljNDYw",
   "tracks": [
     {
       "added_at": "2022-11-09 15:55:15",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-11-09 15:55:15",
       "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "added_at": "2022-11-09 15:55:15",
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
-    },
-    {
-      "added_at": "2022-11-09 15:55:15",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2022-11-09 15:55:15",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-11-09 15:55:15",
       "album": {
-        "name": "Balan\u00e7o da Rede",
-        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 166435,
-      "name": "Balan\u00e7o da Rede",
-      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
-    },
-    {
-      "added_at": "2022-11-09 15:55:15",
-      "album": {
         "name": "Listen Up! The Official 2010 FIFA World Cup Album",
         "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 202626,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
+    },
+    {
+      "added_at": "2022-11-09 15:55:15",
+      "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
     },
     {
       "added_at": "2022-11-09 15:55:15",

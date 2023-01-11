@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:4vXFvvWirlvTwcl184KfDc">Sillyelly</a>
+> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1rWg0CyGoCsRYYtpj5NC5P">Sillyelly</a>
 
 520 songs - 1 day 2 hr 20 min
 

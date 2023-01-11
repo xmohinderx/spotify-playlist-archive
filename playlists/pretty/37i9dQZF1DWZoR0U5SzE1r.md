@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,944 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,108 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 40 | [Good and Gracious King](https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Only a Holy God](https://open.spotify.com/album/3UUANfmbHhkVf54hhbHMry) | 5:57 |
 | 41 | [Wonder](https://open.spotify.com/track/5ffsmOjdQ2R3Te0Sy4kVWw) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:54 |
 | 42 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
-| 43 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
-| 44 | [Canvas And Clay \- Live](https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv) | 6:40 |
+| 43 | [Canvas And Clay \- Live](https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv) | 6:40 |
+| 44 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
 | 45 | [Nothing Else \- Live](https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:30 |
 | 46 | [Remember](https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Remember](https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf) | 5:12 |
 | 47 | [Come Alive](https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:32 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 65 | [Unshakable](https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96) | [Mid\-Cities Worship](https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP), [Brooklynn Ward](https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv) | [The Songs We Sing](https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD) | 4:48 |
 | 66 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
 | 67 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
-| 68 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
-| 69 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
+| 68 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
+| 69 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
 | 70 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
 | 71 | [Still](https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Still](https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS) | 4:16 |
 | 72 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 | 100 | [No Other](https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Clarity](https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup) | 3:52 |
 
-Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDVjMWU3ZDIwYTFjNThiNmJlM2U3YmRkM2NlYjk1ZTE3`
+Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDk3OWYyYjJhOTRhM2VjN2ZjZGQ1MGY3MjVjOTE4OTNl`

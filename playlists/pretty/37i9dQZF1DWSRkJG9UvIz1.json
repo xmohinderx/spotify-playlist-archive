@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 120808,
+  "num_followers": 120809,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGViNThkMzNjMjk5NmVkZDFlNmJhNjRmMGFkNjBjNTE4",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGUyYjA2MmQ5YjJlZWU4ODkzZTAyYzE3ZDk4MTI2ZjVi",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Hive Mind",
+        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "Wanna Be",
+      "url": "https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "O Velho e a Flor",
         "url": "https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 161357,
       "name": "O Velho e a Flor",
       "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Hive Mind",
-        "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "Wanna Be",
-      "url": "https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Dan\u00e7a Entre Casais",
-        "url": "https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 232476,
-      "name": "Sonho Bossa Nova",
-      "url": "https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Dan\u00e7a Entre Casais",
+        "url": "https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 232476,
+      "name": "Sonho Bossa Nova",
+      "url": "https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Terrorista Del Amor",
+      "url": "https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "3 Na Massa",
         "url": "https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 128438,
       "name": "Areia",
       "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "TU",
-        "url": "https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Terrorista Del Amor",
-      "url": "https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4"
     },
     {
       "added_at": "2022-11-25 03:00:00",

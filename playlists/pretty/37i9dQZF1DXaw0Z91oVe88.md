@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,147 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,145 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 20 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 |
 | 21 | [Whatever You Do](https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:38 |
 | 22 | [Lover](https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Summer Strike, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW) | 2:55 |
-| 23 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 |
-| 24 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
+| 23 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
+| 24 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 |
 | 25 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 |
 | 26 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 27 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 42 | [WERE WE?](https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:44 |
 | 43 | [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 |
 | 44 | [Someday](https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Hundred Million Stars from the Sky \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d) | 4:25 |
-| 45 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 |
-| 46 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
-| 47 | [Surf](https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:17 |
-| 48 | [To you, Tomorrow](https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD BLOOD \- The 4th Mini Album](https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta) | 4:04 |
-| 49 | [Let’s Dance For Me](https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me](https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes) | 3:35 |
-| 50 | [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 |
+| 45 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 |
+| 46 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 |
+| 47 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
+| 48 | [Surf](https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:17 |
+| 49 | [To you, Tomorrow](https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD BLOOD \- The 4th Mini Album](https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta) | 4:04 |
+| 50 | [Let’s Dance For Me](https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me](https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes) | 3:35 |
 
-Snapshot ID: `MTY3MTQzNzE3OSwwMDAwMDAwMDUzNjc5ODE3MTg4MWEzZTY2NjNlOTYzNjE2NDU3N2E2`
+Snapshot ID: `MTY3MzM0MDAzOSwwMDAwMDAwMDlhZmIxODI0YjJjMjI3MDUwM2U1ZDg3YWJjMWNjMGU2`

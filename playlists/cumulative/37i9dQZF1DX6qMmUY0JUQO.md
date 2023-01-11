@@ -4,7 +4,7 @@
 
 > From House & Techno to the spheres of Pop\. This playlist features legendary tracks that have been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-74 songs - 6 hr 57 min
+75 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,10 +60,11 @@
 | [Parade D'Amour](https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Garden Party](https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8) | 3:31 | 2021-10-20 |  |
 | [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2021-10-20 | 2022-07-27 |
 | [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2021-10-20 | 2023-01-06 |
+| [Pool Party Music](https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex) | 6:07 | 2022-09-08 |  |
 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 | 2021-10-20 |  |
 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 | 2021-10-20 |  |
 | [Show Me Love \- Extended Mix](https://open.spotify.com/track/7nmvwosdapB8Bro5uIM7n2) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 7:44 | 2021-10-20 |  |
-| [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 | 2022-09-08 |  |
+| [Sound 6](https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5) | 6:01 | 2022-09-08 | 2023-01-11 |
 | [Sound 6](https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [I Have a Question](https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI) | 6:01 | 2021-10-20 | 2022-07-29 |
 | [Spastik](https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1) | [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Recycled Plastik](https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy) | 9:15 | 2021-10-20 |  |
 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 | 2021-10-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,117 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,119 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 57 | [Fear is Not My Future \(feat\. Brandon Lake & Chandler Moore\)](https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f) | 10:25 |
 | 58 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 |
 | 59 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
-| 60 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
-| 61 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 |
+| 60 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 |
+| 61 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 | 62 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 | 63 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
 | 64 | [In His Arms](https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:39 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 68 | [Positive](https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Positive](https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC) | 3:31 |
 | 69 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
 | 70 | [The Better Benediction \(feat\. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls\)](https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK), [Tim Rogers](https://open.spotify.com/artist/1khRTV8QYiLYAvGZelRcPV), [Darrel 'MusiqCity' Walls](https://open.spotify.com/artist/1u96wHS7za0UbhY8E3wSyp) | [Watch The Sun](https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN) | 5:23 |
-| 71 | [Silver Moon](https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi) | [Eric Alexandrakis](https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc) | [Silver Moon \- Single](https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0) | 3:57 |
-| 72 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
-| 73 | [Hymn Of Heaven \- Radio Version](https://open.spotify.com/track/5arArUZcmIQo6pfNYkHFjP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Radio Version\)](https://open.spotify.com/album/3CrI4xz8ypqjqOE7WtMrNA) | 4:05 |
+| 71 | [Hymn Of Heaven \- Radio Version](https://open.spotify.com/track/5arArUZcmIQo6pfNYkHFjP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Radio Version\)](https://open.spotify.com/album/3CrI4xz8ypqjqOE7WtMrNA) | 4:05 |
+| 72 | [Silver Moon](https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi) | [Eric Alexandrakis](https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc) | [Silver Moon \- Single](https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0) | 3:57 |
+| 73 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
 | 74 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 75 | [The Message](https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [The Message](https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K) | 4:04 |
 
-Snapshot ID: `MTY3MTExNjU1OSwwMDAwMDAwMDhkMDk4YjYwMDIxYmVjMjZmMzJmZTc5ODlmZWEwMmQ2`
+Snapshot ID: `MTY3MTExNjU1OSwwMDAwMDAwMDdjMjFiZGVjMmMzMWE1MGViMDBhN2FjZjU3NDZhMjA5`

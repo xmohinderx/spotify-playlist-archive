@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Turnstile",
-  "num_followers": 443553,
+  "num_followers": 443650,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk2MjIxNywwMDAwMDAwMDc2NmI5ZWFiMjZiY2RjNzQzYjE0OTJhYmJhNjYwMjY4",
+  "snapshot_id": "MTY3MDk2MjIxNywwMDAwMDAwMGRlYzRhMDY2MjljZDhjMWIyMTdkYjQwMTI5NzcyZjI1",
   "tracks": [
     {
       "added_at": "2022-12-13 20:10:17",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Call Me Little Sunshine",
-        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 284266,
-      "name": "Call Me Little Sunshine",
-      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Carry the Weight / From the First Note",
         "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 229266,
       "name": "Carry the Weight",
       "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Call Me Little Sunshine",
+        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 229896,
       "name": "Hypochondria",
       "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "I'm Hard To Love, But So Are You, Vol. 4",
-        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "wet milk",
         "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
+        "name": "I'm Hard To Love, But So Are You, Vol. 4",
+        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
       },
       "artists": [
         {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
         }
       ],
-      "duration_ms": 226900,
-      "name": "satellites* *",
-      "url": "https://open.spotify.com/track/1sIRKUbxmRBfu3qvp2Q9FS"
+      "duration_ms": 203520,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 228299,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1263,6 +1231,22 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 228299,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1355,22 +1339,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "One Blood We Bleed",
         "url": "https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr"
       },
@@ -1383,6 +1351,22 @@
       "duration_ms": 145190,
       "name": "One Blood We Bleed",
       "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1451,22 +1435,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
-      },
-      "artists": [
-        {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
-        }
-      ],
-      "duration_ms": 219900,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1479,6 +1447,22 @@
       "duration_ms": 190750,
       "name": "Break Me Down",
       "url": "https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
+      },
+      "artists": [
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+        }
+      ],
+      "duration_ms": 219900,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Crown Shyness",
-        "url": "https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Shade",
-      "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
       },
@@ -1551,6 +1519,38 @@
       "duration_ms": 158444,
       "name": "Drive Me Home",
       "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Crown Shyness",
+        "url": "https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Brick Wall",
         "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
@@ -1603,22 +1587,6 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Dirty Talk",
-        "url": "https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Rage",
-          "url": "https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf"
-        }
-      ],
-      "duration_ms": 160701,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Dirty Talk",
+        "url": "https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Rage",
+          "url": "https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf"
+        }
+      ],
+      "duration_ms": 160701,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "The Dead Days",
         "url": "https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 212832,
       "name": "Hell Is Where The Heart Is",
       "url": "https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/5Z38H9q6QDcTmX3jW1j0Jw"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 222836,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/55WJq2EsJoTSvvF15Q4gCy"
     }
   ],
   "unique_name": "Crash Course",

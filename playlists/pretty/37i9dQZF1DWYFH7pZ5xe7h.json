@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 36466,
+  "num_followers": 36504,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMTM5NCwwMDAwMDAwMGQ1MmM1N2FlMjk3MTE0ZDZhOGM2ZGUzMDg2YWZhYWU2",
+  "snapshot_id": "MTY1NjMyMTM5NCwwMDAwMDAwMDZiNTIzZWJjNmY5NzZhZGRkOTljNmJkOWY0YTQ1NTg2",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -471,30 +471,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 9",
-        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        }
-      ],
-      "duration_ms": 1562085,
-      "name": "Mahler: Symphony No. 9 in D Major: IV. Adagio. Sehr langsam und noch zur\u00fcckhaltend",
-      "url": "https://open.spotify.com/track/2Om6056obklMVh7a0gnKkN"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
         "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 305760,
       "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
       "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        }
+      ],
+      "duration_ms": 1562085,
+      "name": "Mahler: Symphony No. 9 in D Major: IV. Adagio. Sehr langsam und noch zur\u00fcckhaltend",
+      "url": "https://open.spotify.com/track/2Om6056obklMVh7a0gnKkN"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -767,6 +767,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Liszt & Mahler: Das Himmlische Leben",
+        "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Anne Schwanewilms",
+          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 612760,
+      "name": "Das himmlische Leben",
+      "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No. 1",
         "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
       },
@@ -791,8 +815,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Liszt & Mahler: Das Himmlische Leben",
-        "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
       },
       "artists": [
         {
@@ -800,17 +824,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Anne Schwanewilms",
-          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
         },
         {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 612760,
-      "name": "Das himmlische Leben",
-      "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
+      "duration_ms": 880186,
+      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
+      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -839,8 +863,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 1",
-        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
       },
       "artists": [
         {
@@ -848,17 +872,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
         }
       ],
-      "duration_ms": 880186,
-      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
-      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
+      "duration_ms": 757713,
+      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
+      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -891,8 +915,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 9",
-        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
       },
       "artists": [
         {
@@ -900,17 +924,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
         },
         {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         }
       ],
-      "duration_ms": 757713,
-      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
-      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
+      "duration_ms": 2164733,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
+      "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -967,30 +991,6 @@
       "duration_ms": 222800,
       "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
       "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
-        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 2164733,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
-      "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1215,30 +1215,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler Symphony No. 5",
-        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Gyeonggi Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
-        },
-        {
-          "name": "Shi-Yeon Sung",
-          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
-        }
-      ],
-      "duration_ms": 1148173,
-      "name": "Symphony No. 5 In C Sharp Minor: 3. Scherzo (Kr\u00e4ftig, nicht zu schnell)",
-      "url": "https://open.spotify.com/track/6QNQHAY8KLaKstoszUp35z"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No.9; Kindertotenlieder; R\u00fcckert-Lieder",
         "url": "https://open.spotify.com/album/1wnpKf5UbXfY1wZxOdXVVT"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 337000,
       "name": "Kindertotenlieder: In diesem Wetter",
       "url": "https://open.spotify.com/track/3YVoWpDwRejfPvlISBQTXb"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "duration_ms": 1148173,
+      "name": "Symphony No. 5 In C Sharp Minor: 3. Scherzo (Kr\u00e4ftig, nicht zu schnell)",
+      "url": "https://open.spotify.com/track/6QNQHAY8KLaKstoszUp35z"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler, G.: Symphony No. 7",
-        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 1250186,
-      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
-      "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler 9",
         "url": "https://open.spotify.com/album/2ZgKIsyj14wcl8GEL1LLC6"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 1773213,
       "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
       "url": "https://open.spotify.com/track/483VMfYNqtUAxcEWXRVvDn"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 1250186,
+      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
     },
     {
       "added_at": "2022-06-27 09:16:34",

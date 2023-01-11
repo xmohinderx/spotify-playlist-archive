@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,744 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,770 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,20 +23,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 13 | [Dalaa Dalouna](https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Dalaa Dalouna](https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX) | 3:19 |
 | 14 | [Nirvana in Gaza](https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nirvana in Gaza](https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k) | 3:03 |
 | 15 | [Don't Care Where You From](https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 4:23 |
-| 16 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
-| 17 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 |
+| 16 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 |
+| 17 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
 | 18 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
 | 19 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
 | 20 | [Nostalgia](https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Nostalgia](https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6) | 3:19 |
-| 21 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
-| 22 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
+| 21 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
+| 22 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
 | 23 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 24 | [دبرها](https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [دبرها](https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs) | 4:49 |
 | 25 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
 | 26 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
 | 27 | [Erfaa Rasak](https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 6:03 |
-| 28 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
-| 29 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
+| 28 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
+| 29 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
 | 30 | [Nijmet El\-Subeh](https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 4:45 |
 | 31 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 |
 | 32 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 69 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 | 70 | [Yalah Yalah Ramallah](https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4) | [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 4:52 |
 
-Snapshot ID: `MTY3MTI2NzYzMCwwMDAwMDAwMDZlMDc4ZmJkYThjOTQxOWZiODE1ZWMwYjE4NTA2MDlj`
+Snapshot ID: `MTY3MTI2NzYzMCwwMDAwMDAwMDkyNTk3YjliZWMxN2Y2M2Y3MTU3NTQ1NmFmNjljMWM0`

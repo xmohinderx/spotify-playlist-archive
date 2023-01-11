@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a>
 
-860 songs - 1 day 14 hr 59 min
+861 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [NO TRENDS](https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [NO TRENDS](https://open.spotify.com/album/2KVi5YBlC0Gh0NiMKDZSpK) | 2:31 | 2021-11-08 | 2022-02-16 |
 | [No Vaccine](https://open.spotify.com/track/5wCKgaHeNlDKXLbV4tJ8P3) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg) | [No Vaccine](https://open.spotify.com/album/4z7Jc8pz7ZfLcd4Ldaosxt) | 2:03 | 2022-01-21 | 2022-03-12 |
 | [Nobody \(feat\. Dreezy\)](https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Time is Muney](https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt) | 3:15 | 2022-02-11 | 2022-04-09 |
+| [NOSTYLIST](https://open.spotify.com/track/2L6snXmirafxCJY3sBzuKD) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 3:00 | 2023-01-10 |  |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-19 | 2022-10-29 |
 | [Not My N\*gga](https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga](https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z) | 2:07 | 2022-10-14 | 2022-12-10 |
 | [Not One of Dem](https://open.spotify.com/track/6YaqOWXEVjjsGmT00UEb2y) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Not One of Dem](https://open.spotify.com/album/2lXLpWHnaECoCGM4PrpZck) | 2:09 | 2022-01-21 | 2022-03-18 |

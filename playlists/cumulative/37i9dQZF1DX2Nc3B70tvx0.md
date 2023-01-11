@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Ethel Cain
 
-1,371 songs - 3 day 10 hr 8 min
+1,372 songs - 3 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,6 +849,7 @@
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-04 | 2022-06-20 |
 | [Obsessed](https://open.spotify.com/track/32YXYwMitpm34hXO6c2eup) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Obsessed](https://open.spotify.com/album/4KNJvx8D3Re2PHLEb3QQT6) | 5:13 | 2019-05-26\* | 2019-06-21 |
 | [Obsessed](https://open.spotify.com/track/4A6KChEr6JtHy7SKNCRmYu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Keepsake](https://open.spotify.com/album/7MtevXUL7jsGqW8LUh42mQ) | 5:13 | 2019-06-21 | 2019-08-13 |
+| [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-10 |  |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-20 | 2022-12-10 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2021-02-06 | 2022-04-09 |
 | [Ode To Artifice](https://open.spotify.com/track/2BxOokKVzYicxc7AX9Vb21) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Ode To Artifice](https://open.spotify.com/album/0saWiqbGml5cKt496mOh8s) | 2:45 | 2019-06-14 | 2019-09-27 |
@@ -1243,7 +1244,7 @@
 | [Trophy](https://open.spotify.com/track/4zBc604ytzPmwin9VbsvUd) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Trophy](https://open.spotify.com/album/1EYaUyZIpJVEVvmJKQ5b6n) | 3:12 | 2021-04-20 | 2022-04-05 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-15 | 2022-04-08 |
 | [Trouble](https://open.spotify.com/track/3pfuy1uQhG7g6Ttbo2Jh0N) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Trouble](https://open.spotify.com/album/1mgPd1tImqOwigGrrPHXE3) | 3:23 | 2019-05-26\* | 2019-08-13 |
-| [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 | 2022-11-16 |  |
+| [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 | 2022-11-16 | 2023-01-11 |
 | [True Blue \(feat\. Angel Olsen\)](https://open.spotify.com/track/4iALA6dAUWWjONe6pPPSGs) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 5:48 | 2019-06-29 | 2019-08-23 |
 | [True Love](https://open.spotify.com/track/67qECmW0iXpWA7tnClskbH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/7h3a2tSmHjJXXqnQGbiuTf) | 4:11 | 2021-07-19 | 2022-04-06 |
 | [True Seekers](https://open.spotify.com/track/6aNQhBtd7xz2c2Vi3cISMC) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [True Seekers](https://open.spotify.com/album/65PkwvvpGhX6FWVUGHZ59j) | 3:26 | 2021-10-11 | 2021-10-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 373459,
+  "num_followers": 373752,
   "original_name": "Soft + Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0MTU5NiwwMDAwMDAwMGVmOGU0NWEwOTU0MzUzMGM0YzM2MjQyMzE2Yzg0YWMz",
+  "snapshot_id": "MTY2Nzg0MTU5NiwwMDAwMDAwMDY5NzA5MDE3MjZhOWE2MzhmNzVkZmRjYTk2MjBlZTc5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "It's Called: Freefall",
         "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 158297,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Thousand (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Love Flew Away",
         "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 240666,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Thousand (feat. Lisa Hannigan)",
-      "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Darkest Darks, Lightest Lights",
-        "url": "https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "I Am the Moon",
-      "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 202677,
       "name": "I'll Be out Here",
       "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Darkest Darks, Lightest Lights",
+        "url": "https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "I Am the Moon",
+      "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Never Be Ourselves",
+      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Never Be Ourselves",
-      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Steady Now",
-        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
-      },
-      "artists": [
-        {
-          "name": "William Wild",
-          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
-        }
-      ],
-      "duration_ms": 262571,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Steady Now",
+        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
+      },
+      "artists": [
+        {
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+        }
+      ],
+      "duration_ms": 262571,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Summertime Mama",
-      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Folding Leaves",
         "url": "https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Summertime Mama",
+      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1811,6 +1811,22 @@
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Ledges",
+        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1875,22 +1891,6 @@
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Ledges",
-        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "First Defeat",
-      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
-      },
-      "artists": [
-        {
-          "name": "Dawn Landes",
-          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
-        }
-      ],
-      "duration_ms": 182374,
-      "name": "Try to Make a Fire Burn Again",
-      "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Desert Song",
         "url": "https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "duration_ms": 182374,
+      "name": "Try to Make a Fire Burn Again",
+      "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
     },
     {
       "added_at": "2022-09-16 04:00:00",

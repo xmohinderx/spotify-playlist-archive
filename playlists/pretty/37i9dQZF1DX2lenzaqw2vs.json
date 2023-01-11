@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123888,
+  "num_followers": 123883,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGViM2U2MWM3ZWI2YmJmYjgwNjkwZTc2NmQ3YTI3YjYx",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGI0OGU3MWJkYjBjODQ0YThlMzJiODZmOWM0MTUxZjkw",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Plata Ta T\u00e1",
-        "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "Plata Ta T\u00e1",
-      "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Plata Ta T\u00e1",
+        "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "Plata Ta T\u00e1",
+      "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "T\u00edmida",
         "url": "https://open.spotify.com/album/4ZOJtA52YPtxDuT0YmyWKl"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 157282,
       "name": "T\u00edmida",
       "url": "https://open.spotify.com/track/4UMnUuQ9cYTSdv9FNy9uWb"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "DOLORES",
-      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Cay\u00f3",
-        "url": "https://open.spotify.com/album/7Lm0VtI7bUWHrJbPXy0pq5"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Cay\u00f3",
-      "url": "https://open.spotify.com/track/0sk6BOSSBxtdxAKB17YVG4"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Terrible, Perriemos",
         "url": "https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr"
       },
@@ -1803,22 +1787,6 @@
       "duration_ms": 184800,
       "name": "Terrible, Perriemos",
       "url": "https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "La Cumbia Feminazi",
-        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
-      },
-      "artists": [
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "La Cumbia Feminazi",
-      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1843,6 +1811,38 @@
       "duration_ms": 233067,
       "name": "Feeling Good - PAUZA Radio Edit",
       "url": "https://open.spotify.com/track/5oNSpfaT705A7eciOOdNk1"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Cay\u00f3",
+        "url": "https://open.spotify.com/album/7Lm0VtI7bUWHrJbPXy0pq5"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Cay\u00f3",
+      "url": "https://open.spotify.com/track/0sk6BOSSBxtdxAKB17YVG4"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "La Cumbia Feminazi",
+        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
+      },
+      "artists": [
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "La Cumbia Feminazi",
+      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "PODER - Lilith: 6",
-        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
-      },
-      "artists": [
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 191158,
-      "name": "PODER - Lilith: 6",
-      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "El Valor",
         "url": "https://open.spotify.com/album/3NCBTlh4b6KwtbGq7R0Bku"
       },
@@ -2103,6 +2083,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "PODER - Lilith: 6",
+        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
+      },
+      "artists": [
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 191158,
+      "name": "PODER - Lilith: 6",
+      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "ChocQuib House",
         "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
       },
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "HUGITO",
-        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
-      },
-      "artists": [
-        {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "VA HABLAR",
-      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Soy Asi",
         "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 232362,
       "name": "Soy Asi",
       "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "HUGITO",
+        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+      },
+      "artists": [
+        {
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "VA HABLAR",
+      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Sorpresa",
-      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "La Mala Introducci\u00f3n",
         "url": "https://open.spotify.com/album/2rXmqm76mF6qneMLib4xiw"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 220800,
       "name": "Llama A Tu Novio",
       "url": "https://open.spotify.com/track/29xiEKkbavb1wM1NTHxmq7"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Sorpresa",
+      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
     },
     {
       "added_at": "2022-07-05 19:20:04",

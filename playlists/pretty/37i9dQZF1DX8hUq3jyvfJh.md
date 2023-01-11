@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Majur e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,518 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,519 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 36 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 |
 | 37 | [curiosidade](https://open.spotify.com/track/5YznIISFtUiQUUffVxe8XF) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [BURBURINHO](https://open.spotify.com/album/0goBQUbALZYYBfvctrogEP) | 2:31 |
 | 38 | [Mal Nenhum](https://open.spotify.com/track/0pV74QCFg904RrD0u9vkgl) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 3:17 |
-| 39 | [Fumaça](https://open.spotify.com/track/0uzGe3jXGgTWYvUYl5Pi0t) | [Banda Gente](https://open.spotify.com/artist/0wcF6BFbERjJ5uplOMYtRL), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Fumaça](https://open.spotify.com/album/2cJHfdC2FNx1xkdwofJeB6) | 2:47 |
-| 40 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
+| 39 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
+| 40 | [Fumaça](https://open.spotify.com/track/0uzGe3jXGgTWYvUYl5Pi0t) | [Banda Gente](https://open.spotify.com/artist/0wcF6BFbERjJ5uplOMYtRL), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Fumaça](https://open.spotify.com/album/2cJHfdC2FNx1xkdwofJeB6) | 2:47 |
 | 41 | [Samaúma](https://open.spotify.com/track/3O1niyU6tCU8hIH5GJUH8o) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 5:05 |
 | 42 | [Agolonã](https://open.spotify.com/track/4Yj2m1IuKy85gEk40t89LB) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Meu Santo É Forte](https://open.spotify.com/album/5Wl3slNLngCEEmoziB0GzP) | 4:21 |
 | 43 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Anjo](https://open.spotify.com/track/0ANO7mhTiJZE77U7J7pXqB) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 1:59 |
 | 50 | [Ancestral Infinito](https://open.spotify.com/track/36Dqx6UNXMnVgD05anMhxj) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Em Nome da Estrela](https://open.spotify.com/album/5wZ83t7Di8TmoUP6uc6IC5) | 3:47 |
 
-Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGEyZmRlMGZjZWQ2ZGM2MDJmMDMwNDMzZGIyMjhiODE5`
+Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGZmNWFkMGViMGI5YTljMWJmZmJlODUwY2VkZjI5YTZl`

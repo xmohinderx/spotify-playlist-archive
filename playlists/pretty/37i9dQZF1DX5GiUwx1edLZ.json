@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273343,
+  "num_followers": 273357,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMGE1Yjc4NDczZTFiOTc5ZDRlNWJlMmJjMGY3MTI5ZDhh",
+  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDljMzNkN2Y2YThlNTNmMzRlZTU3NTRiYjMzODBkZWFj",
   "tracks": [
     {
       "added_at": "2022-09-30 14:01:12",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 174413,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Paradise (Guitar Acoustic)",
         "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 185019,
       "name": "Paradise - Guitar Acoustic",
       "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Tri-State",
+        "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Tri-State",
+      "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Crazy What Love Can Do (Acoustic)",
         "url": "https://open.spotify.com/album/3iRtMz9n1e2yd2TBiuT83x"
       },
@@ -723,21 +739,25 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Tri-State",
-        "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
+        "name": "Drink About (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
         }
       ],
-      "duration_ms": 251760,
-      "name": "Tri-State",
-      "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
+      "duration_ms": 177656,
+      "name": "Drink About - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
     },
     {
-      "added_at": "2023-01-10 01:02:26",
+      "added_at": "2023-01-11 01:02:56",
       "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
@@ -759,26 +779,6 @@
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Drink About (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Drink About - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Regardless (Acoustic)",
+        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Regardless - Acoustic",
+      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Better EP (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 282744,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
       },
@@ -859,22 +891,6 @@
       "duration_ms": 304983,
       "name": "Satellite / Stealing Time",
       "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Regardless (Acoustic)",
-        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Regardless - Acoustic",
-      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -895,22 +911,6 @@
       "duration_ms": 201600,
       "name": "Praise You (feat. Meaco) - Chill Mix",
       "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 282744,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Concrete Angel (acoustic)",
         "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 151974,
       "name": "Lighter (feat. KSI & Ella Henderson) - Acoustic",
       "url": "https://open.spotify.com/track/7AKVU7SsXyPlWvRJPSTWHV"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Another Chance (Remixes)",
-        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
-      },
-      "artists": [
-        {
-          "name": "Big Pineapple",
-          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Another Chance - Don Diablo Chill Mix",
-      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Here Tonight (Acoustic Version)",
         "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
       },
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Another Chance (Remixes)",
+        "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
+      },
+      "artists": [
+        {
+          "name": "Big Pineapple",
+          "url": "https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "Another Chance - Don Diablo Chill Mix",
+      "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Mad World (Acoustic Version)",
         "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
       },
@@ -1595,26 +1595,6 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Spectrum EP",
-        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 110440,
-      "name": "Spectrum - Acoustic Version",
-      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1639,6 +1619,26 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Spectrum EP",
+        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 110440,
+      "name": "Spectrum - Acoustic Version",
+      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "No Time For Tears (Acoustic)",
         "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
@@ -1655,26 +1655,6 @@
       "duration_ms": 205305,
       "name": "No Time For Tears - Acoustic",
       "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1723,22 +1703,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Moon Faces (Acoustic Journey)",
-        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
       },
       "artists": [
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
         },
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1763,22 +1743,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "21 Reasons (feat. Ella Henderson) [Acoustic]",
-        "url": "https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ"
+        "name": "Moon Faces (Acoustic Journey)",
+        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         },
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 167724,
-      "name": "21 Reasons (feat. Ella Henderson) - Acoustic",
-      "url": "https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP"
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1799,6 +1779,26 @@
       "duration_ms": 201748,
       "name": "Fears - Acoustic Version",
       "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "21 Reasons (feat. Ella Henderson) [Acoustic]",
+        "url": "https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "21 Reasons (feat. Ella Henderson) - Acoustic",
+      "url": "https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
+        }
+      ],
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Melody (Acoustic)",
         "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
       },
@@ -1907,18 +1923,18 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
       "artists": [
         {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
         }
       ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1939,22 +1955,6 @@
       "duration_ms": 161146,
       "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
       "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2022-09-30 14:01:12",

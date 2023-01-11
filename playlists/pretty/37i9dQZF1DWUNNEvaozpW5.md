@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Marea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,796 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,926 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 28 | [Lady Madrid](https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Aviones](https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH) | 3:11 |
 | 29 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 |
 | 30 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
-| 31 | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi) | 4:04 |
+| 31 | [Carolina \- En directo 2000](https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sin Enchufe](https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj) | 4:23 |
 | 32 | [Sin Solución](https://open.spotify.com/track/5tKWCX8jm8Bms1tCRtgGxz) | [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4) | [Sin Solución](https://open.spotify.com/album/2zSN0KIhi1jO7GM5XyPaJf) | 6:31 |
-| 33 | [Carolina \- En directo 2000](https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sin Enchufe](https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj) | 4:23 |
+| 33 | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi) | 4:04 |
 | 34 | [La luna me sabe a poco](https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Besos de Perro](https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz) | 4:27 |
 | 35 | [So payaso](https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Agila](https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is) | 4:41 |
 | 36 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 |
 | 75 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
 
-Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMGIxNzA4YTI1NmIwOGE0MWMxNmQwZjA1MmE3YjhmZjJj`
+Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMDg4NDY0ZmI3YjE3MGM4ODVlZDE5NmZiYmUyZjA0ZTZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > All your favorite trance anthems curated by Above & Beyond! \#NYE2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,127 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,410 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 34 | [What It Feels Like for a Girl \- Above & Beyond Club Radio Edit](https://open.spotify.com/track/38OrcY3HY0NiFuBpiwBnsL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Jonathan Grant](https://open.spotify.com/artist/0VY5KMrhsgfdylUXjZSc8k), [Paavo Siljamäki](https://open.spotify.com/artist/3Oh2QC2LtfH7eTkzOPLkFl), [Tony McGuinness](https://open.spotify.com/artist/1zLJrgyCBc6rszAuVayjyy) | [What It Feels Like For A Girl](https://open.spotify.com/album/2uibNarDUAIjm4ukscPxAu) | 3:44 |
 | 35 | [Seven Cities \- Pure Mix](https://open.spotify.com/track/5ZYXzNFKRZKXBgcTrR1MiB) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities \(Remixes\)](https://open.spotify.com/album/0U81vbdeOWzML1sUghjqdi) | 9:35 |
 | 36 | [Ghosts \- Vincent De Moor Mix](https://open.spotify.com/track/5ZLYgfjw2O8F9vU7R8cMnP) | [Tenth Planet](https://open.spotify.com/artist/6dGarag8yzvMgvfOJpWcUS), [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Ghosts](https://open.spotify.com/album/78Wxoy0qXwYHd051tSrcjn) | 6:46 |
-| 37 | [Stonecold \- Radio Mix](https://open.spotify.com/track/5dAD4N2hVBGa1EQBbQd3oJ) | [Bossanova](https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l) | [Stonecold](https://open.spotify.com/album/0znRH64fqmlsVSRlbTtL5k) | 3:30 |
-| 38 | [Touch Me \- Mike Koglin vs Jono Grant Remix](https://open.spotify.com/track/3IwjtF4TiOKZ50xm10t4X6) | [Cass Fox](https://open.spotify.com/artist/6skLFsVLmO907Oa3lWAdKW), [Mike Koglin](https://open.spotify.com/artist/0hVSR2SYX6nK7UpBEwz8Bi) | [Touch Me \- Mike Koglin Remix](https://open.spotify.com/album/3b4WuXfTOSdq7o7tSbl4Gy) | 9:15 |
+| 37 | [Touch Me \- Mike Koglin vs Jono Grant Remix](https://open.spotify.com/track/3IwjtF4TiOKZ50xm10t4X6) | [Cass Fox](https://open.spotify.com/artist/6skLFsVLmO907Oa3lWAdKW), [Mike Koglin](https://open.spotify.com/artist/0hVSR2SYX6nK7UpBEwz8Bi) | [Touch Me \- Mike Koglin Remix](https://open.spotify.com/album/3b4WuXfTOSdq7o7tSbl4Gy) | 9:15 |
+| 38 | [Stonecold \- Radio Mix](https://open.spotify.com/track/5dAD4N2hVBGa1EQBbQd3oJ) | [Bossanova](https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l) | [Stonecold](https://open.spotify.com/album/0znRH64fqmlsVSRlbTtL5k) | 3:30 |
 | 39 | [Destination \- Above & Beyond Remix](https://open.spotify.com/track/6H9j1XYqjPWxIxsN2fBifw) | [DT8 Project](https://open.spotify.com/artist/5vt86ZNYulbS5LcsTGpDHE), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [The Remixes EP](https://open.spotify.com/album/0sBcAy0QfnzCKCDeC5w86z) | 3:02 |
 | 40 | [The World Doesn’t Know \- Original](https://open.spotify.com/track/6J2Xtv9BnfZBlpStD1hbk4) | [Tilt](https://open.spotify.com/artist/6nX27cZEY7eiAlGFZ01jCd) | [Explorer](https://open.spotify.com/album/6kTahvvxCbauOefGp1JeYL) | 9:03 |
 | 41 | [Sun 2011 \- Radio Edit](https://open.spotify.com/track/65VZqlV7p6H6D6icBq6Yg3) | [Slusnik Luna](https://open.spotify.com/artist/0oEuMd3OoMuGOIUt1wiMbA) | [Sun 2011](https://open.spotify.com/album/39KmC4qAz5Mg7Bp6Nt7bCk) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 49 | [Breaking Ties \- Above & Beyond Analogue Haven Mix Radio Edit](https://open.spotify.com/track/3i7ZYpOe6KJBthp6NqPuFi) | [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Breaking Ties](https://open.spotify.com/album/3JDhCixj2Lr0JGp8Htyz1d) | 4:01 |
 | 50 | [Everyday 2002](https://open.spotify.com/track/2CzT7ifcQsNo8X9ZgjQdNb) | [Agnelli & Nelson](https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN) | [Everyday \(2002\)](https://open.spotify.com/album/5opOhL8ULQtnF8aXInXU0I) | 6:45 |
 
-Snapshot ID: `MTY3MjE4NTYwMCwwMDAwMDAwMDEzMzViOGVkZDY5ZWFiYjQ1ZmRiZTU2MDJjNDg2Nzg1`
+Snapshot ID: `MTY3MjE4NTYwMCwwMDAwMDAwMDg5Yjk4MDU1MGE5MzI5YTBhYjE2OTA5MTkwNjNjMzc5`

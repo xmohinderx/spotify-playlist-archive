@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mikey Dam
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,526 likes - 94 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,549 likes - 94 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,190 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,341 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 13 | [My Universe \- Galantis Remix](https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [My Universe \(Galantis Remix\)](https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP) | 3:44 |
 | 14 | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg) | 2:42 |
 | 15 | [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 |
-| 16 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
-| 17 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 |
+| 16 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 |
+| 17 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
 | 18 | [I Know You \(feat\. Bastille\) \- Vigiland Remix](https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [I Know You \(Remixes\) \(feat\. Bastille\)](https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo) | 3:03 |
 | 19 | [Made You Look \- Joel Corry Remix](https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Made You Look \(Joel Corry Remix\)](https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2) | 3:03 |
 | 20 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Swish Swish \- Valentino Khan Remix](https://open.spotify.com/track/60jMCb9jnlhICNbD3wqmGR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Swish Swish \(Valentino Khan Remix\)](https://open.spotify.com/album/4nBHxbpFjEtPuxif8qf7pv) | 3:20 |
 | 50 | [Fire \- Price & Takis Remix](https://open.spotify.com/track/6PPJ2XXyC9NybSZlU3hTZo) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Price & Takis](https://open.spotify.com/artist/7bCWp0OGCR9OOHedxrIMox) | [Fire \(Remixes\)](https://open.spotify.com/album/0cyAL3igv1nQAVdfykQgfK) | 3:06 |
 
-Snapshot ID: `MTY3Mjc1NzkxNSwwMDAwMDAwMGI2OTc2ZmVlMGJhYjIyYWZmMzg0NzI0Njc1N2U3MGY5`
+Snapshot ID: `MTY3Mjc1NzkxNSwwMDAwMDAwMGNhOWVkYWJjODFmNWEwYTQ0ZjdjYmEzYzVjYzYzNmNj`

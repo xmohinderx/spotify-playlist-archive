@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,356 likes - 72 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,362 likes - 72 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 5 | [CORAZONES ROTOS](https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [CORAZONES ROTOS](https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4) | 3:50 |
 | 6 | [Au Revoir](https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Au Revoir](https://open.spotify.com/album/3PE0mVKw3fqzBxS1mZBI9Z) | 2:29 |
 | 7 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
-| 8 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 |
+| 8 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 |
 | 9 | [MONDAY \(feat\. Shiva & Michelangelo\)](https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 |
 | 10 | [Luftballon](https://open.spotify.com/track/5w1KF2w0e8W1EEHsCJYYCf) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL) | [Luftballon](https://open.spotify.com/album/1kofnvzxmIRyNCqWVA5Kkh) | 2:52 |
 | 11 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 25 | [See, I'm Sorry](https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [See, I'm Sorry](https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9) | 3:34 |
 | 26 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 |
 | 27 | [Lontanissima](https://open.spotify.com/track/1UK0huQJqSClTqUDRtuGYk) | [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Lontanissima](https://open.spotify.com/album/12K7tP3Bbhgy4VnMOUGgAq) | 2:56 |
-| 28 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Blowsom & Friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
+| 28 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
 | 29 | [Alleine Bin](https://open.spotify.com/track/7kxcOIq2D2B7MG8hWtyNXQ) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Alleine Bin](https://open.spotify.com/album/7tX9lEa39fXJTLOtY7lVOl) | 2:51 |
 | 30 | [Da Solo](https://open.spotify.com/track/7FvU0v2HZGnW4Mf4YNCgI3) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Da Solo](https://open.spotify.com/album/3TNK4YfObvW4VpTdJRCpkV) | 3:30 |
 | 31 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 |

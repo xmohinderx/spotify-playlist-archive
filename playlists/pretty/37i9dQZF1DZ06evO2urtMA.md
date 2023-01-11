@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 23 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 739 likes - 23 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 4 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 |
 | 5 | [Cool in Motion](https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:05 |
 | 6 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
-| 7 | [In Slow Time](https://open.spotify.com/track/3C7Qjn5zpc6xJ81pamYWtJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:16 |
+| 7 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
 | 8 | [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 |
 | 9 | [Stay](https://open.spotify.com/track/6Glr1Wc0TZ5Ta1BCbrvaHG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:58 |
 | 10 | [Nodding Off](https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:45 |
-| 11 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
+| 11 | [In Slow Time](https://open.spotify.com/track/3C7Qjn5zpc6xJ81pamYWtJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:16 |
 | 12 | [Bulma](https://open.spotify.com/track/3R7Gy621ZWHLd8kYl9Bz6s) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Bulma \- Single](https://open.spotify.com/album/3q0oPKvM3rcpuGY8nOvWc4) | 2:51 |
 | 13 | [Necrosis](https://open.spotify.com/track/46FwqZts74DdH7mWvG1SpG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:44 |
 | 14 | [Hard to Swallow](https://open.spotify.com/track/6XSR3rZzQRQ7oaRYqbe408) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 2:46 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 22 | [Stuttering Stanley](https://open.spotify.com/track/2bDcEAuUcRdqn7dkERCmqj) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:10 |
 | 23 | [Ponderosa Sun Club](https://open.spotify.com/track/4E7rliVKRRxJWktIdZ7caE) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:56 |
 
-Snapshot ID: `Mjc4ODc5MzEsMDAwMDAwMDAyYWZlYmMxOWZlMGZhM2Y3NjQ3ZmQ0NDU0Zjk2YzFiZQ==`
+Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDA5NWM1YTRlNzRjYWRmZDBjYmQ5YTk3YjllNzczM2NiNg==`

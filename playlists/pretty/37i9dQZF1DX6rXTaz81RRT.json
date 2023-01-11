@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 308104,
+  "num_followers": 308148,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMGE1ODdmMzE0OTVjOGE1MjJiY2U2MTU5ODNiMmNhNGE4",
+  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMDRkNDkxZGJkOWY4ODIzZmFjMmNjMTEyYzM5OGE2NjEx",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -935,6 +935,22 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
         "name": "The Best of Big Mountain",
         "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 249520,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
-        "name": "Halcyon Nights",
-        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
     },
     {
       "added_at": "2021-02-12 18:11:45",
