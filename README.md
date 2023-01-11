@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5412\)
+## Playlists \(5413\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -2748,6 +2748,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [NFL Draft 2021](/playlists/pretty/37i9dQZF1DXbmafsRvwS7L.md)
 - [NIGHT TRAVELER Radio](/playlists/pretty/37i9dQZF1E4kTD46HZNyiq.md)
 - [NIOH \-仁王\-](/playlists/pretty/37i9dQZF1DX9o0sjdAbiLJ.md)
+- [NKVT](/playlists/pretty/37i9dQZF1DXdnOj1VEuhgb.md)
 - [Na Zona](/playlists/pretty/37i9dQZF1DXdpF2suW27SP.md)
 - [Na Zona: O melhor de 2022](/playlists/pretty/37i9dQZF1DXcyEXGEtvzUv.md)
 - [Naija Bars](/playlists/pretty/37i9dQZF1DWUHcUDX0za7N.md)
