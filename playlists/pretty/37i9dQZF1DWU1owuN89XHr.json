@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 255276,
+  "num_followers": 255332,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMGQzMzQ5ODY0ZTczOTk2MTU5ZGRiNGI5YTQ4MDAxYzk5",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDhmNjE3ZWM2ODZmZGE2MWE2NWJhNTg3MGI2YjZjOWMy",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Yo Me Quedo",
-        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 278825,
-      "name": "Yolanda",
-      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Con Cierto Aire a Ti",
         "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 178773,
       "name": "Hoy Ten Miedo De Mi",
       "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Yo Me Quedo",
+        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 278825,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -223,18 +223,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Ca\u00edn",
-        "url": "https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
       "artists": [
         {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Brazos de Sol",
-      "url": "https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e"
+      "duration_ms": 220946,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
     },
     {
       "added_at": "2022-03-01 04:08:22",
@@ -287,18 +287,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+        "name": "Ca\u00edn",
+        "url": "https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM"
       },
       "artists": [
         {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
         }
       ],
-      "duration_ms": 220946,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
+      "duration_ms": 230533,
+      "name": "Brazos de Sol",
+      "url": "https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e"
     },
     {
       "added_at": "2021-07-29 16:46:05",

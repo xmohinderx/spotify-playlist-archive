@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,478 likes - 106 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,489 likes - 106 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 53 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 |
 | 54 | [The Harmony](https://open.spotify.com/track/4bWoizeurWxioIenJkguM6) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Harmony](https://open.spotify.com/album/4kpZBm6XlD1TZRU220lj9i) | 4:03 |
 | 55 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 |
-| 56 | [Awake](https://open.spotify.com/track/6ToO0VuPwOJHyTzm1ZM0fg) | [Amanda Lynn](https://open.spotify.com/artist/7y6WBbH7rTEaluQ2HqHkYo) | [Awake](https://open.spotify.com/album/1VbZajyrZirlNxZpxmNVBB) | 3:15 |
+| 56 | [Awake](https://open.spotify.com/track/6ToO0VuPwOJHyTzm1ZM0fg) | [Lynn](https://open.spotify.com/artist/1GUHB0m4dBshtsVmT3n630) | [Awake](https://open.spotify.com/album/1VbZajyrZirlNxZpxmNVBB) | 3:15 |
 | 57 | [En Sista Dans](https://open.spotify.com/track/3P590dqOG4BALB5QVPS4sV) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [En Sista Dans](https://open.spotify.com/album/1quIokjKoZqMWbadpN8f7e) | 2:08 |
 | 58 | [Aura](https://open.spotify.com/track/7bV4caG23uYhHLV3qb96pL) | [Marquitos II](https://open.spotify.com/artist/4sctCFDnqX1R7uxv6YugTT), [Julia Mraz](https://open.spotify.com/artist/6y4v8Zgq0kBUx3odk78gua), [Jaz](https://open.spotify.com/artist/0YO7xxiVTazNWgaopQNMnB) | [MRAZ](https://open.spotify.com/album/4euHZfciFenGaw0I7kIUZW) | 3:10 |
 | 59 | [Hatar Mig](https://open.spotify.com/track/74qj4bZZiTopR8gkA94u7Z) | [Alex Lew](https://open.spotify.com/artist/3mmGQd4PxDhJX8wCnN8lzr) | [Hatar Mig](https://open.spotify.com/album/21jaFB8zKEIF3h9vTfY856) | 2:00 |

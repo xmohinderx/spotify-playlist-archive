@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 113871,
+  "num_followers": 113902,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDY5YzYzZWY2MjMzZjhhZTMzNzlmMDI0OTYzNGYzMTlj",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDA5ZDU1NjlhYTY4OThkZDU0YzY0YmU4YjM4NjQ5MzMx",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Mareld 2021",
         "url": "https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 182096,
       "name": "Mareld 2021",
       "url": "https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Blossom",
-        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
-      },
-      "artists": [
-        {
-          "name": "Raiatea Helm",
-          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Ahulili",
-      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
@@ -355,18 +339,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+        "name": "Hawaiian Blossom",
+        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
       },
       "artists": [
         {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+          "name": "Raiatea Helm",
+          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
         }
       ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
+      "duration_ms": 186360,
+      "name": "Ahulili",
+      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -403,22 +387,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Voodoo!",
-        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
-      },
-      "artists": [
-        {
-          "name": "Robert Drasnin",
-          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Tiki for the Atomic Age",
         "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 168000,
       "name": "Palace of the Tiger Women",
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Voodoo!",
+        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+      },
+      "artists": [
+        {
+          "name": "Robert Drasnin",
+          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
-        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Lotus Land",
-      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hana Hou! Vol. 1",
         "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 110666,
       "name": "Ipo Hula",
       "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
+        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Lotus Land",
+      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Call of the Islands",
-        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 184718,
-      "name": "Colors of Hawaiki",
-      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Ultra-Lounge: Fuzzy Retail Sampler",
@@ -735,6 +719,22 @@
       "duration_ms": 143666,
       "name": "Glow Worm Cha Cha Cha - Remastered",
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Call of the Islands",
+        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 184718,
+      "name": "Colors of Hawaiki",
+      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
     },
     {
       "added_at": "2021-01-20 03:50:53",

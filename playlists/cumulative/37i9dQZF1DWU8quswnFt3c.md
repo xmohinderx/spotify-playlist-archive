@@ -4,7 +4,7 @@
 
 > Listen to the women of the world at full volume\. Cover: NewJeans
 
-900 songs - 2 day 1 hr 36 min
+901 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Cappuccino](https://open.spotify.com/track/6GKRPpcQJdAeUgBoA6zhrv) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Cappuccino](https://open.spotify.com/album/25DheoRNWjv32utcAC6I25) | 4:15 | 2022-03-08 | 2022-04-07 |
 | [Carelessly](https://open.spotify.com/track/1VS4rziqnnUk5VTwcQh8eg) | [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Ate Sandali](https://open.spotify.com/album/7hVgdOi9Mc1TtOCcC72YaS) | 3:54 | 2022-07-06 | 2022-08-04 |
 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 | 2022-08-03 | 2022-09-09 |
-| [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 | 2022-09-07 |  |
+| [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 | 2022-09-07 | 2023-01-12 |
 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-09-07 | 2023-01-05 |
 | [CEO](https://open.spotify.com/track/0d1SYlJPC9ZiF9DKFS8ZnH) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [CEO](https://open.spotify.com/album/3LJnIGIiyotvZIEmcEUznd) | 2:50 | 2021-12-11 | 2022-01-06 |
 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-10-04 | 2022-11-03 |
@@ -342,6 +342,7 @@
 | [In My Mind](https://open.spotify.com/track/5UAtcDuXrfjU2jUtnEtYMZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [In My Mind EP](https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp) | 6:28 | 2022-10-04 | 2022-11-03 |
 | [In My Skin](https://open.spotify.com/track/3FyeaNDJhPGM8MqKvtne5T) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [In My Skin](https://open.spotify.com/album/2mRojYGgIJFkDsI75rIP98) | 2:22 | 2022-01-05 | 2022-02-03 |
 | [in my toes](https://open.spotify.com/track/3lKvHg0Nn9JsgsTPaFl1fu) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [in my toes](https://open.spotify.com/album/0MTV2PMlVV8QNDAdZUy8nt) | 4:01 | 2022-01-05 | 2022-02-03 |
+| [Infinity Song](https://open.spotify.com/track/6HePNi3QS42SD9eTqEGkSG) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/0U9wGkVQjr3elUMi95GYsh) | 3:52 | 2023-01-11 |  |
 | [Insônia \- Ao Vivo](https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Insônia \(Ao vivo\)](https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9) | 3:01 | 2022-09-07 | 2023-01-05 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-03-08 | 2023-01-05 |
 | [Iparho Gia Sena](https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [Iparho Gia Sena](https://open.spotify.com/album/4lkyzgLGV1SmJv0UW3Pw4h) | 3:36 | 2022-04-06 | 2023-01-05 |

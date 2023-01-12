@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "big boy",
+        "url": "https://open.spotify.com/album/4HC8wF3NfyJ22ssMaqv0yL"
+      },
+      "artists": [
+        {
+          "name": "NVBR",
+          "url": "https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174614,
+      "name": "big boy",
+      "url": "https://open.spotify.com/track/7ANXWW10UyhQwCxvB8psaL"
+    },
+    {
+      "album": {
         "name": "Big boy (Speed) [Remix]",
         "url": "https://open.spotify.com/album/4L3H3nDYlhpRiOJZ1H5Pgl"
       },
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 174614,
       "name": "Big boy (Speed) - Remix",
       "url": "https://open.spotify.com/track/2tzqraqVpKcq2UceRSBRkq"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 196905,
       "name": "Dos\u0165 Hod\u00edn",
       "url": "https://open.spotify.com/track/4xbpfYZYXflIOcWOX3itWO"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 156038,
       "name": "Forog a vil\u00e1g",
       "url": "https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9"
@@ -6881,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208694,
+      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+    },
+    {
+      "album": {
         "name": "The Original Monster Mash",
         "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
       },
@@ -8988,7 +9024,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 98440,
       "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
       "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"

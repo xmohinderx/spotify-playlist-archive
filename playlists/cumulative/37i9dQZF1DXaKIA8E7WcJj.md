@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-819 songs - 1 day 18 hr 55 min
+820 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Dirty Water](https://open.spotify.com/track/4z17FY23Bi8bt3n0TXA6SS) | [The Standells](https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj) | [Fever Pitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ztl5FTTZoyafzQihqAx7N) | 2:49 | 2019-06-24 | 2019-08-06 |
 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Groovin' with Manfred Mann](https://open.spotify.com/album/24uIWywoZqArplgomqtvfW) | 2:23 | 2019-05-28 | 2022-07-29 |
 | [Do Wah Diddy Diddy \- 1997 Remastered Version](https://open.spotify.com/track/5kWobkGc1McvhM4LzWyJO3) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [At Abbey Road](https://open.spotify.com/album/4Iizap6rgpM8EWv8FW8b0b) | 2:24 | 2020-08-22 | 2020-08-27 |
+| [Do Wah Diddy Diddy \- 2007 Remaster](https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 2:24 | 2022-08-12 |  |
 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 | 2019-05-26\* |  |
 | [Do You Know the Way to San Jose](https://open.spotify.com/track/1YIWYzMq84I46LmgX1vpye) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Valley of the Dolls](https://open.spotify.com/album/5OxSUascU31jcJ0TlP3xXc) | 2:59 | 2021-03-17 | 2022-07-29 |
 | [Do You Love Me](https://open.spotify.com/track/298jnAsgLcTRkRP5TKB7Mj) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Essential](https://open.spotify.com/album/6SCZSe06bdBdFE3T3ouLT8) | 2:54 | 2019-06-26 | 2022-07-29 |
@@ -671,7 +672,7 @@
 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 | 2019-05-26\* |  |
 | [The End](https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 11:43 | 2019-07-22 | 2019-08-27 |
 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2019-06-27 |  |
-| [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2019-06-24 |  |
+| [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2019-06-24 | 2023-01-12 |
 | [The Game Of Love](https://open.spotify.com/track/3YaSR3Ug3nTBTP6N1iSgYf) | [Wayne Fontana & The Mindbenders](https://open.spotify.com/artist/2VkASgJ3IjpMHG5aYXx4t2) | [60's Gold](https://open.spotify.com/album/2ZVgfQF9ljaMugBwVJMoM8) | 2:06 | 2019-07-23 | 2021-10-11 |
 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-06-08 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/58TnktmMKygKvmKEHInhuc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz/Gilberto](https://open.spotify.com/album/4cYtmC2Fp8LKfxUoTAKsIb) | 5:24 | 2019-07-22 | 2021-10-16 |

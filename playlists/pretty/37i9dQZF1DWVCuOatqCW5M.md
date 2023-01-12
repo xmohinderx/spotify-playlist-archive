@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Mohammad Faiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,670 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,806 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Jo Mujhe Naa Mili](https://open.spotify.com/track/0Wh1KsMgOSuN3RzA5htDBw) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tu Jo Mujhe Naa Mili](https://open.spotify.com/album/63KrutIy2u7lqNKNqGzItu) | 3:35 |
-| 2 | [Chann Sitare \(Hindi Version\)](https://open.spotify.com/track/6vvKQUBvB7louZuQDkIhrV) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Chann Sitare \(Hindi Version\) \- Single](https://open.spotify.com/album/3XLyBnZVY18yX0T8WulLR3) | 2:14 |
+| 2 | [Chand Sitare](https://open.spotify.com/track/6vvKQUBvB7louZuQDkIhrV) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Chand Sitare \- Single](https://open.spotify.com/album/3XLyBnZVY18yX0T8WulLR3) | 2:14 |
 | 3 | [Banda Tera Aashiq Ho Gaya](https://open.spotify.com/track/0Y9302rq0ZCLA9v3Hko5l2) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Banda Tera Aashiq Ho Gaya](https://open.spotify.com/album/1guBhG9vWrKeUALtliqCVB) | 2:54 |
 | 4 | [Yun](https://open.spotify.com/track/6MXxjUljZHV2qsCJg9a9iL) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Yun](https://open.spotify.com/album/4XJjKeDY2C7dBez6rezqqS) | 2:32 |
 | 5 | [Judaa](https://open.spotify.com/track/0H0PFTJ7O35opyT0mLYo2t) | [STK](https://open.spotify.com/artist/4flr9QUvPOYa1eKeP7tAGT) | [Judaa](https://open.spotify.com/album/3uuuTHgmDSDm2G2K6IFJkA) | 3:56 |

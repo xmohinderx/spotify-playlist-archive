@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 859615,
+  "num_followers": 860479,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NDc5NSwwMDAwMDAwMDAxZWIxNzE2ZmFhMTgzMTc2MzQyOWJkYmFkZWEyMmZi",
+  "snapshot_id": "MTY3Mjc1NDc5NSwwMDAwMDAwMDVlODI4ZTYzMjFjMDMwYjE1MDdiODAwMzE4Y2JhODg5",
   "tracks": [
     {
       "added_at": "2022-12-22 10:10:42",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Return of the Mack",
         "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
+      "added_at": "2023-01-12 00:36:36",
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
       "added_at": "2022-12-02 12:00:00",
       "album": {
         "name": "Never Too Much",
@@ -299,22 +315,6 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2023-01-11 00:44:34",
-      "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
     },
     {
       "added_at": "2022-12-16 06:13:06",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 256946,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Keeping Me Under",
         "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
@@ -879,22 +879,6 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -913,7 +897,23 @@
       "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+    },
+    {
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Lucy Pearl",
         "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "A funk odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 205162,
       "name": "Madiba Riddim",
       "url": "https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1057,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
-      "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "All Night Long - Single Version",
-      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
-    },
-    {
       "added_at": "2022-12-02 12:00:00",
       "album": {
         "name": "Yesterday's Tomorrow",
@@ -1141,20 +1125,20 @@
       "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
     },
     {
-      "added_at": "2022-12-02 12:00:00",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Jade To The Max",
         "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Appletree",
-      "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Fun Machine EP",
         "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 217920,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Appletree",
+      "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "My God Has a Telephone",
-        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
-      },
-      "artists": [
-        {
-          "name": "The Flying Stars Of Brooklyn NY",
-          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "My God Has A Telephone",
-      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "My God Has a Telephone",
+        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
+      },
+      "artists": [
+        {
+          "name": "The Flying Stars Of Brooklyn NY",
+          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "My God Has A Telephone",
+      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 267440,
-      "name": "You're Makin' Me High",
-      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 175309,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Somebody Else's Guy",
-        "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 386026,
-      "name": "Somebody Else's Guy",
-      "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Somebody Else's Guy",
+        "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 386026,
+      "name": "Somebody Else's Guy",
+      "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 242035,
-      "name": "February 3rd",
-      "url": "https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Still Groovin (Remastered)",
         "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 163320,
       "name": "Groovin' - Remastered",
       "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 242035,
+      "name": "February 3rd",
+      "url": "https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1557,23 +1557,7 @@
       "url": "https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw"
     },
     {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "Beautifully Human: Words and Sounds Vol. 2",
-        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
-    },
-    {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Take From Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
@@ -1591,6 +1575,22 @@
       "duration_ms": 213933,
       "name": "Easy To Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1649,7 +1649,7 @@
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "How Do You Do",
         "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
@@ -1697,7 +1697,7 @@
       "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
@@ -2053,7 +2053,7 @@
       "url": "https://open.spotify.com/track/49eAIPivcw5idA57ZWnp5h"
     },
     {
-      "added_at": "2023-01-11 00:44:34",
+      "added_at": "2023-01-12 00:36:36",
       "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Have A Talk With God",
-      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Letters of Irrelevance",
         "url": "https://open.spotify.com/album/3KwPkAnQNxvO80FLhvaH9h"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 221787,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/3oCwuhp1k10uK25z3U2LFb"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Have A Talk With God",
+      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
     },
     {
       "added_at": "2022-12-02 12:00:00",

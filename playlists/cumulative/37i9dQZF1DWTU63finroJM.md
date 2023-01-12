@@ -2,9 +2,9 @@
 
 ### [RADAR Global](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> From across the globe\. New artists on the horizon\. Cover: Rhove.
+> From across the globe\. New artists on the horizon.
 
-900 songs - 2 day 2 hr 26 min
+903 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Afterglow](https://open.spotify.com/track/4HqdrhdEZPxzEIdZKVBLdX) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Afterglow](https://open.spotify.com/album/6Ji3Fl8vFaadhk1ZBHUBkI) | 3:01 | 2022-02-03 | 2022-12-15 |
 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-06-27 | 2022-08-02 |
 | [AI BIET](https://open.spotify.com/track/7oakQhQtktqkdRCY7au6xQ) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [AI BIET](https://open.spotify.com/album/3nkdUxsbC7jn2A7j27sHY2) | 2:57 | 2022-03-24 | 2022-06-20 |
-| [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2022-09-30 |  |
+| [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/2iPg15EzAFriexYcsD0xTH), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2022-09-30 |  |
 | [Al Punto de Sal](https://open.spotify.com/track/2wbCWSEma9xL0QU1pYHhHU) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4) | [Al Punto de Sal](https://open.spotify.com/album/50uiNwnoIllQuMMCQYd7TP) | 2:58 | 2022-09-08 |  |
 | [Algo Más](https://open.spotify.com/track/2Nu6wSCiR6W9Z7r9En79ML) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Algo Más](https://open.spotify.com/album/4EsB7A89kaCi7bVHBrs3Jf) | 3:00 | 2022-03-24 | 2022-04-13 |
 | [Alive](https://open.spotify.com/track/2K5PuNGkdskwGFAKNrNNBA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Alive](https://open.spotify.com/album/4vvqE8p4XzrFbS2mdAgihc) | 3:11 | 2022-04-07 | 2022-06-30 |
@@ -258,6 +258,7 @@
 | [Free](https://open.spotify.com/track/0j9hwC26u5KWY8bf8Ajm4o) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Free](https://open.spotify.com/album/2pBsm9BxIYXOfcdeUXlO3L) | 3:37 | 2022-06-29 | 2022-08-02 |
 | [FreeRider](https://open.spotify.com/track/1JKg8ZhDLC3GDBqTGLfoAI) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [FreeRider](https://open.spotify.com/album/5VHmrHGQOVgx9pOqPo9UWJ) | 3:34 | 2022-03-24 | 2022-08-02 |
 | [Frontiar](https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Frontiar](https://open.spotify.com/album/6ufmt9i0c4W8z7qNnQwxdE) | 3:05 | 2022-03-24 | 2022-08-02 |
+| [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2023-01-11 |  |
 | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/track/13KjMbVC5JLTaEG2NI6ytg) | [LAUREN](https://open.spotify.com/artist/5zK6Y7XOLDFFg0sdThkVxr), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/album/3gDG8Nco79Nm6mvXJTA2g0) | 1:55 | 2022-03-24 | 2022-08-02 |
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-03-31 | 2022-08-27 |
 | [Gabi](https://open.spotify.com/track/65ttM4xiNQ0yQi2oAOnoWl) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Gabi](https://open.spotify.com/album/5IemI1BE33xJNJlvT1wKGH) | 5:55 | 2022-03-10 | 2022-05-19 |
@@ -640,6 +641,7 @@
 | [SERPENTI](https://open.spotify.com/track/0M23VPfGeVvHpBM1rYhULk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SERPENTI](https://open.spotify.com/album/5XUlQst8QXgZPheieGtDG8) | 2:14 | 2022-03-24 | 2022-04-21 |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2022-02-10 | 2022-06-01 |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-03-24 |  |
+| [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2023-01-11 |  |
 | [show](https://open.spotify.com/track/5G1JizLB3z1hHZ4rbJQHJ5) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [show](https://open.spotify.com/album/10n3HLhK3UHwFcGhqk0Fzc) | 3:23 | 2022-02-10 | 2022-03-03 |
 | [Si Quieren Frontear](https://open.spotify.com/track/3UT2CkCgSWjK6h5v5Ye4GH) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:20 | 2022-06-27 | 2022-08-02 |
 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/5UzmjsUHQDr6hYuZbXfXoT) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 3:17 | 2022-03-24 | 2022-12-15 |
@@ -710,6 +712,7 @@
 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 | 2022-02-03 | 2022-03-09 |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-02-03 | 2022-12-15 |
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2022-04-12 | 2022-09-09 |
+| [tonight](https://open.spotify.com/track/56N95Y06bapESD01RBPQTf) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [tonight \(acoustic version\)](https://open.spotify.com/album/5ryNZHfaCaC1PAuyWD1CIm) | 4:43 | 2023-01-11 |  |
 | [Tonight](https://open.spotify.com/track/3n1CZHXSmwEvrC3n8trfLp) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Tonight](https://open.spotify.com/album/2rZkJYYmCodKXWFYhTM2Ms) | 3:57 | 2022-03-24 | 2022-08-02 |
 | [Tonę](https://open.spotify.com/track/10W1VlePfIyjrUCTZ15Q1G) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Tonę](https://open.spotify.com/album/4xEZCZwXOlhAfgEYkZSU82) | 2:44 | 2022-09-08 | 2022-11-19 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-03-24 | 2022-08-20 |

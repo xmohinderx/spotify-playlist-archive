@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 376383,
+  "num_followers": 376429,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDRlNDU1NWI4MDJiNjMwY2Y0NWFhOGZjNjdlMmExNTBk",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDhiNmM1MjVjNDI4ZjQ5YTlkOTdlMTFiNGU2YmRjODMz",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -211,22 +211,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Cheek To Cheek (Deluxe)",
-        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 143706,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV"
+      "duration_ms": 178533,
+      "name": "Four Brothers",
+      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -263,18 +259,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Four Brothers",
-      "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+      "duration_ms": 143706,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -873,24 +873,20 @@
       "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+        "name": "1967",
+        "url": "https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK"
       },
       "artists": [
         {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "DJ Jazzy Jeff",
-          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+          "name": "Maynard Ferguson Orchestra",
+          "url": "https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD"
         }
       ],
-      "duration_ms": 300845,
-      "name": "Brother J",
-      "url": "https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk"
+      "duration_ms": 378466,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv"
     }
   ],
   "unique_name": "Big Band",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,501 songs - 3 day 1 hr 59 min
+1,502 songs - 3 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Geschichten ausm Hof](https://open.spotify.com/track/3FVjGbAi1m3evDKNei6oFZ) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Geschichten ausm Hof](https://open.spotify.com/album/2hJnuNjgqksyG8cKXX8kWw) | 2:47 | 2022-01-08 | 2022-01-10 |
 | [GET THE FUCK OUT](https://open.spotify.com/track/7LF1STq2OSdN7M8WHsqghe) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [OZ](https://open.spotify.com/artist/6yfgM1rkLSenhFIW3iV9hm), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [GET THE FUCK OUT](https://open.spotify.com/album/4e2c8rGBQM9IiaQco9wFG1) | 1:49 | 2022-12-03 | 2022-12-05 |
 | [Ghetto Gemälde](https://open.spotify.com/track/6TzjSTZpVkYuPKsBF4qg9u) | [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ghetto Gemälde](https://open.spotify.com/album/4EPIRSdpWfin5s3oHUlDeh) | 2:09 | 2021-11-21 | 2021-11-28 |
-| [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-01-07 |  |
+| [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-01-07 | 2023-01-12 |
 | [GHETTOGIRL](https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79) | [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HYAT](https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b) | 2:45 | 2021-07-04 | 2021-08-08 |
 | [GHETTOGIRL](https://open.spotify.com/track/3idbCPumlga23rxFA08fZE) | [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [GHETTOGIRL](https://open.spotify.com/album/08GhLa1KoFgFU8EYs2i12D) | 2:45 | 2021-05-30 | 2021-07-04 |
 | [Ghostbusters](https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Greatest Hits](https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo) | 3:59 | 2022-11-01 | 2022-11-03 |
@@ -1276,6 +1276,7 @@
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-16 | 2022-06-05 |
 | [SUPERWOMAN](https://open.spotify.com/track/39fpM7K4GUnqVkRkk9wgvA) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 2:18 | 2021-05-03 | 2021-05-06 |
 | [SUPERWOMAN](https://open.spotify.com/track/4dal09q6f5ZYP20QefD23D) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [SUPERWOMAN](https://open.spotify.com/album/6dwn7BzD7ghR0os7Ol2PgN) | 2:18 | 2021-04-26 | 2021-04-29 |
+| [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-11 |  |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-06 | 2022-08-14 |
 | [SUVs](https://open.spotify.com/track/01I8aPBUJIMzCtHsCVvmq5) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [SUVs](https://open.spotify.com/album/6dYHhV1ES2wfdoxvWXI5Ld) | 2:42 | 2021-12-05 | 2022-01-15 |
 | [SUVs](https://open.spotify.com/track/5E2JcyolDstvqZ0PNpT3pS) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:42 | 2022-10-01 | 2022-10-16 |

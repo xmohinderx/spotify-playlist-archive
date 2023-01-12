@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 95942,
+  "num_followers": 96298,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMGNjZTZkNmRlZWY1YmFkNTUwMTAzMDc3ZTczMTYxNTky",
+  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDQ5MGQ4M2IzMzRmN2MyNzc0MTdkNTU3NTg1MWMyMTdm",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
     },
     {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
-    },
-    {
       "added_at": "2022-09-08 14:58:04",
       "album": {
         "name": "Make Way for Dionne Warwick",
@@ -295,6 +279,22 @@
       "duration_ms": 178333,
       "name": "Walk on By",
       "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "added_at": "2022-09-08 14:58:04",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "The Bitch Is Black",
-        "url": "https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Fair",
-          "url": "https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "It Should Have Been Me",
-      "url": "https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 204720,
       "name": "Who Can I Run To",
       "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "The Bitch Is Black",
+        "url": "https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Fair",
+          "url": "https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "It Should Have Been Me",
+      "url": "https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh"
     },
     {
       "added_at": "2021-11-11 14:02:18",

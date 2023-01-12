@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 74241,
+  "num_followers": 74264,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGNhZTQwZDk4MjI2MjkzYTcyMWMxYzE0ZjZkNGE5M2Jl",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGE0YjNkOTE0YTlkMmRmN2ZlNThjYzllYjhlYjk4OWU1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
-      },
-      "artists": [
-        {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
-        }
-      ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Wendigo",
         "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 204875,
       "name": "Kin",
       "url": "https://open.spotify.com/track/2bLR9LPyrBiT0F4KohEbop"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+      },
+      "artists": [
+        {
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+        }
+      ],
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Beautiful Anyway",
+        "url": "https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 298977,
+      "name": "Beautiful Anyway",
+      "url": "https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Walk into a Storm",
         "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Pilot of My Own Life",
-        "url": "https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Holy Rain",
-      "url": "https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
         "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Pilot of My Own Life",
+        "url": "https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Holy Rain",
+      "url": "https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Like Myself",
         "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 148571,
       "name": "Like Myself",
       "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Beautiful Anyway",
-        "url": "https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 298977,
-      "name": "Beautiful Anyway",
-      "url": "https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 480893,
+      "name": "Queen Songs/Human",
+      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Wildwood Kin",
         "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 198026,
       "name": "Constellate",
       "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 480893,
-      "name": "Queen Songs/Human",
-      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
     },
     {
       "added_at": "2020-09-04 04:02:00",

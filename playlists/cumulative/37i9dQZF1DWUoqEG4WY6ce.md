@@ -4,7 +4,7 @@
 
 > Hop in.
 
-303 songs - 19 hr 29 min
+304 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 | 2022-07-03 |  |
 | [Empress](https://open.spotify.com/track/5YVYVuNA44FT2yVxEXOw3r) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Empress](https://open.spotify.com/album/07S5Om7EgjLq3I6QNuDSb8) | 3:19 | 2021-01-17 | 2022-05-10 |
 | [Ends of the Earth](https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:44 | 2021-01-15 | 2023-01-05 |
+| [Ends of the Earth](https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:44 | 2022-11-29 |  |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2021-06-28 |  |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2020-10-29\* | 2022-07-28 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-07-03 |  |
@@ -205,7 +206,7 @@
 | [placeholder](https://open.spotify.com/track/6ABQcgTtAPCUyMkVwdRNJo) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/7y3l8rXPVyAspEngY1Beev) | 3:50 | 2020-10-29\* | 2021-10-16 |
 | [Potions](https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Potions](https://open.spotify.com/album/3b5PbgWTo7i4S00wFekoiV) | 3:10 | 2020-10-29\* | 2022-07-29 |
 | [Pressure To Party](https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:02 | 2020-10-29\* | 2022-07-29 |
-| [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2022-11-29 |  |
+| [Put a Light On](https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V) | 3:44 | 2022-11-29 | 2023-01-12 |
 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 | 2021-01-15 | 2022-11-25 |
 | [QB Sneak](https://open.spotify.com/track/15unSgWwOrLUUv8EhaXBij) | [Active Bird Community](https://open.spotify.com/artist/52atJIClJ4KZuYaIBLbNbH) | [QB Sneak](https://open.spotify.com/album/6hL4yMntwTQ53G2BUBkoTD) | 2:24 | 2021-01-27 | 2021-10-13 |
 | [Ragged Wood](https://open.spotify.com/track/5gXF3XyUkM9BVA8QW7uYUg) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 5:07 | 2021-01-15 | 2022-07-29 |

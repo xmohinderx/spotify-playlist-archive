@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Michael Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,660 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,685 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 87 | [I Don't Mind](https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh), [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [I Don't Mind](https://open.spotify.com/album/1BrlwVcweV89LH95CtdsZ4) | 3:21 |
 | 88 | [Ocho](https://open.spotify.com/track/63kbEZBD0zATYin8BWju3c) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Ocho](https://open.spotify.com/album/5SRQszVohD4Raw4vcAMknL) | 2:39 |
 | 89 | [Oublier](https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:46 |
-| 90 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 |
-| 91 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
-| 92 | [Bout Konpa \- Original Mix](https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M) | [DZgot](https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala) | [La Vibe Tropicale EP](https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH) | 3:50 |
+| 90 | [Bout Konpa \- Original Mix](https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M) | [DZgot](https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala) | [La Vibe Tropicale EP](https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH) | 3:50 |
+| 91 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 |
+| 92 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
 | 93 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
-| 94 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
-| 95 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
+| 94 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
+| 95 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
 | 96 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 |
 | 97 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 | 98 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
 | 99 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
 | 100 | [Bade Zile](https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Bade Zile](https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW) | 3:45 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGQ3ZTQyZmEyYWJlNjNkNjM1ZGY0MzBmNzlmZTFiYWNj`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDEzOWYxZTg0YjAxOTdmMDI4Y2Q1MzNkYzFmM2FlM2Rm`

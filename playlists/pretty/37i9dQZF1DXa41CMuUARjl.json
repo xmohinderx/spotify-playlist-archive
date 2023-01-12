@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Mita Gami.",
-  "num_followers": 417306,
+  "num_followers": 417425,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDNlZWJjMjg0MDgwNmU3MDU3OGVmZTkxOGFkMjRhYmEy",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDI3OWIwMmFkY2FmNGM3ZmYwODg2MjgyZDBmOTc1NTVk",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "La Tarde",
-        "url": "https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd"
-      },
-      "artists": [
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        },
-        {
-          "name": "AtcG",
-          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "La Tarde",
-      "url": "https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/5MEqr6fRpxyFlgzijl10Uf"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 165967,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/37Ik0Rvl2cptEffURjIls9"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "La Tarde",
+        "url": "https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "La Tarde",
+      "url": "https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "I Still Love You",
-        "url": "https://open.spotify.com/album/24M6Qiz76lcXMCrhOmPRA8"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "Damon C. Scott",
-          "url": "https://open.spotify.com/artist/2siu559s5hnUm28aIW188R"
-        }
-      ],
-      "duration_ms": 207545,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/5L7q7iRfVb2bKJOaPpaUPR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Front To Back (feat. DLMT)",
         "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 211653,
       "name": "Front To Back (feat. DLMT)",
       "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "I Still Love You",
+        "url": "https://open.spotify.com/album/24M6Qiz76lcXMCrhOmPRA8"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "Damon C. Scott",
+          "url": "https://open.spotify.com/artist/2siu559s5hnUm28aIW188R"
+        }
+      ],
+      "duration_ms": 207545,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/5L7q7iRfVb2bKJOaPpaUPR"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -771,38 +771,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "BLACKED OUT",
-        "url": "https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O"
-      },
-      "artists": [
-        {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "BLACKED OUT",
-      "url": "https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "MIASMA",
-        "url": "https://open.spotify.com/album/0EWp37e7mt7gqaOZNvkD69"
-      },
-      "artists": [
-        {
-          "name": "fkbambam",
-          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
-        }
-      ],
-      "duration_ms": 97215,
-      "name": "MIASMA",
-      "url": "https://open.spotify.com/track/0TYsk9EIu9N8ClJJ21G6m7"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Cure My Desire (feat. Clementine Douglas) [Themba Remix]",
         "url": "https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi"
       },
@@ -823,6 +791,22 @@
       "duration_ms": 220252,
       "name": "Cure My Desire (feat. Clementine Douglas) - Themba Remix",
       "url": "https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "MIASMA",
+        "url": "https://open.spotify.com/album/0EWp37e7mt7gqaOZNvkD69"
+      },
+      "artists": [
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "duration_ms": 97215,
+      "name": "MIASMA",
+      "url": "https://open.spotify.com/track/0TYsk9EIu9N8ClJJ21G6m7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -851,6 +835,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "BLACKED OUT",
+        "url": "https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "BLACKED OUT",
+      "url": "https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Southern Cross",
         "url": "https://open.spotify.com/album/0aeKycMjyFcVQQ8QO3A5S5"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Trick Me",
+        "url": "https://open.spotify.com/album/3u1FMzwmX0pSCbeqtvWFmB"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "duration_ms": 142968,
+      "name": "Trick Me",
+      "url": "https://open.spotify.com/track/7aO5LZYbKVD2RwIzlbNBCY"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Grief",
         "url": "https://open.spotify.com/album/1wcUv6Befd6dXq3FmlxMVO"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 400046,
       "name": "Grief",
       "url": "https://open.spotify.com/track/5MlykoUDvpCcfbcX2ECweH"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Trick Me",
-        "url": "https://open.spotify.com/album/3u1FMzwmX0pSCbeqtvWFmB"
-      },
-      "artists": [
-        {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        }
-      ],
-      "duration_ms": 142968,
-      "name": "Trick Me",
-      "url": "https://open.spotify.com/track/7aO5LZYbKVD2RwIzlbNBCY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Tricky Freak",
-        "url": "https://open.spotify.com/album/0ltG1bnpLNEtuzgUgxb8jD"
-      },
-      "artists": [
-        {
-          "name": "Holt 88",
-          "url": "https://open.spotify.com/artist/5YjvMkjdrBGdoegUvgu4pu"
-        }
-      ],
-      "duration_ms": 210763,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/4DTAIggf9g0165WITMns8A"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Panamera",
         "url": "https://open.spotify.com/album/43K4COEdYbvCRGlJkjW1nK"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er"
+        "name": "Tricky Freak",
+        "url": "https://open.spotify.com/album/0ltG1bnpLNEtuzgUgxb8jD"
       },
       "artists": [
         {
-          "name": "Maurice Lessing",
-          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+          "name": "Holt 88",
+          "url": "https://open.spotify.com/artist/5YjvMkjdrBGdoegUvgu4pu"
         }
       ],
-      "duration_ms": 236733,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg"
+      "duration_ms": 210763,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/4DTAIggf9g0165WITMns8A"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Gonna Get You Real Good EP",
-        "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
-      },
-      "artists": [
-        {
-          "name": "Tom Zeta",
-          "url": "https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy"
-        }
-      ],
-      "duration_ms": 359238,
-      "name": "Bocha Bocha",
-      "url": "https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/2FSthvW0Ex9b6kCCbAisWV"
       },
@@ -1059,6 +1027,38 @@
       "duration_ms": 241680,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4IERaEWYyicWRThaoygDyS"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Gonna Get You Real Good EP",
+        "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
+      },
+      "artists": [
+        {
+          "name": "Tom Zeta",
+          "url": "https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy"
+        }
+      ],
+      "duration_ms": 359238,
+      "name": "Bocha Bocha",
+      "url": "https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er"
+      },
+      "artists": [
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg"
     },
     {
       "added_at": "2023-01-06 05:00:00",

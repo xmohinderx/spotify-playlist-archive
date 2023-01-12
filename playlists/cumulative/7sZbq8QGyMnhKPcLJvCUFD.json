@@ -3055,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/4Dy2wATW6kv9fRrjiG5ljD"
+      },
+      "artists": [
+        {
+          "name": "EXXO",
+          "url": "https://open.spotify.com/artist/1BxtvQL2w4dn5CnbtkYsGb"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160535,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr"
+    },
+    {
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz"
       },

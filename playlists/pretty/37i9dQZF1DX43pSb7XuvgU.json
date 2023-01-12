@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 88821,
+  "num_followers": 88968,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDQ2ZmUwZTkxYTMzODU4NDgwMDAxOWUwYjlmZTkwNTc1",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDg5NTFjZTVjY2YxMTBhOTBlNDc1ZDA5ZDdhOGViODY0",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 154000,
       "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
         "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 252986,
       "name": "Lo Pasado, Pasado (with HA-ASH)",
       "url": "https://open.spotify.com/track/2dWcpXLm7nNzZ6YiXdW23O"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 243093,
-      "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
-      "url": "https://open.spotify.com/track/4ZbRPcxdIfX7tBuIelyqnj"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "15 Exitos De Oro",
         "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 213893,
       "name": "Lo Que No Fue No Ser\u00e1",
       "url": "https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 243093,
+      "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
+      "url": "https://open.spotify.com/track/4ZbRPcxdIfX7tBuIelyqnj"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 211533,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
     },
     {
       "added_at": "2021-12-29 23:33:57",

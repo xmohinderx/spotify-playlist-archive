@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 110473,
+  "num_followers": 110686,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMGQyZGYyNDFiZGNmNzdmZjBiYzVlOGYzNmFiZTIwMTFj",
+  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMDhlMDkwNTI2NGMyODM5ODY1NDU5NTk2Mjk0M2YxOTBi",
   "tracks": [
     {
       "added_at": "2022-11-07 14:28:30",
@@ -63,26 +63,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Motifs in F# Major (Reimagined)",
-        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
-      },
-      "artists": [
-        {
-          "name": "Solar Sleeper",
-          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
-        },
-        {
-          "name": "rhubiqs",
-          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
-        }
-      ],
-      "duration_ms": 331287,
-      "name": "Motifs in F# Major - Reimagined",
-      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Composites",
         "url": "https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Motifs in F# Major (Reimagined)",
+        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
+      },
+      "artists": [
+        {
+          "name": "Solar Sleeper",
+          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
+        },
+        {
+          "name": "rhubiqs",
+          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+        }
+      ],
+      "duration_ms": 331287,
+      "name": "Motifs in F# Major - Reimagined",
+      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Made To Be Wanting",
         "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 183764,
       "name": "Made To Be Wanting",
       "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+      },
+      "artists": [
+        {
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Ad Infinitum",
         "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
       },
@@ -327,18 +343,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+        "name": "The Innkeeper and the Moon",
+        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
       },
       "artists": [
         {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+          "name": "Austin Joy",
+          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+      "duration_ms": 317682,
+      "name": "The Innkeeper and the Moon",
+      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -359,18 +375,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "The Innkeeper and the Moon",
-        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
       },
       "artists": [
         {
-          "name": "Austin Joy",
-          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
         }
       ],
-      "duration_ms": 317682,
-      "name": "The Innkeeper and the Moon",
-      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
+      "duration_ms": 212307,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -395,22 +411,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Sad Cello & Piano XXII",
         "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
       },
@@ -423,54 +423,6 @@
       "duration_ms": 132000,
       "name": "Tired Mind",
       "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "To the Moon and Back",
-        "url": "https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P"
-      },
-      "artists": [
-        {
-          "name": "Aija Alsina",
-          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "To the Moon and Back",
-      "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
-      },
-      "artists": [
-        {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
-        }
-      ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -491,18 +443,34 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Heavy Moon",
-        "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
+        "name": "To the Moon and Back",
+        "url": "https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P"
       },
       "artists": [
         {
-          "name": "Michael Kim-Sheng",
-          "url": "https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd"
+          "name": "Aija Alsina",
+          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
         }
       ],
-      "duration_ms": 277138,
-      "name": "In a Field of Silence",
-      "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
+      "duration_ms": 270003,
+      "name": "To the Moon and Back",
+      "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
+      },
+      "artists": [
+        {
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
+        }
+      ],
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -523,6 +491,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Living Rooms",
         "url": "https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 175384,
       "name": "Living Rooms",
       "url": "https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Heavy Moon",
+        "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kim-Sheng",
+          "url": "https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd"
+        }
+      ],
+      "duration_ms": 277138,
+      "name": "In a Field of Silence",
+      "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
-      },
-      "artists": [
-        {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+      },
+      "artists": [
+        {
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Reveries",
-        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas & Sebastian",
-          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Fade Far Away",
-      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Walking on the Sand",
         "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
       },
@@ -839,34 +823,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Words Left Unspoken",
-        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
       },
       "artists": [
         {
-          "name": "Malin Eriksson",
-          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
+          "name": "Nicholas & Sebastian",
+          "url": "https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV"
         }
       ],
-      "duration_ms": 165741,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "George Wilson",
-          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
-        }
-      ],
-      "duration_ms": 174894,
-      "name": "Biding Time",
-      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
+      "duration_ms": 211999,
+      "name": "Fade Far Away",
+      "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -887,6 +855,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Words Left Unspoken",
+        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
+      },
+      "artists": [
+        {
+          "name": "Malin Eriksson",
+          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
+        }
+      ],
+      "duration_ms": 165741,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Orpheus. Hommage \u00e0 Saint-Sa\u00ebns",
         "url": "https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 248613,
       "name": "Piano Trio No. 2 in E Minor, Op. 92: III. Andante con moto",
       "url": "https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "George Wilson",
+          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
+        }
+      ],
+      "duration_ms": 174894,
+      "name": "Biding Time",
+      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Things of the World (Piano and Strings)",
-        "url": "https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI"
-      },
-      "artists": [
-        {
-          "name": "Amelie Bernard",
-          "url": "https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N"
-        },
-        {
-          "name": "Andy Muller",
-          "url": "https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d"
-        }
-      ],
-      "duration_ms": 100875,
-      "name": "Things of the World - Piano and Strings",
-      "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "First Time Of Heaven (Piano and Strings)",
         "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 136521,
       "name": "First Time Of Heaven - Piano and Strings",
       "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Things of the World (Piano and Strings)",
+        "url": "https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI"
+      },
+      "artists": [
+        {
+          "name": "Amelie Bernard",
+          "url": "https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N"
+        },
+        {
+          "name": "Andy Muller",
+          "url": "https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d"
+        }
+      ],
+      "duration_ms": 100875,
+      "name": "Things of the World - Piano and Strings",
+      "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
     },
     {
       "added_at": "2022-11-07 14:28:30",

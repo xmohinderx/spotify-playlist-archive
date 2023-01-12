@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 1091,
+  "num_followers": 1116,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIxNTMwNywwMDAwMDAwMDEyZWU1NTU4YTI1NjRlYTY4NTFmNGE2NWZlMzczYjc1",
+  "snapshot_id": "MTY2OTIxNTMwNywwMDAwMDAwMGU0NjcxMzgxYzY5MTVjYWE5MzU4MjgxMWE5YzUzNDk5",
   "tracks": [
     {
       "added_at": "2022-11-23 14:55:07",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp"
         }
       ],
-      "duration_ms": 130061,
-      "name": "Stormy Beach Waves",
-      "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
+      "duration_ms": 137795,
+      "name": "Stormy Ocean Sounds",
+      "url": "https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
-        "name": "Relax Waves",
-        "url": "https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf"
-      },
-      "artists": [
-        {
-          "name": "Factorial FX",
-          "url": "https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu"
-        }
-      ],
-      "duration_ms": 94000,
-      "name": "Relax Waves",
-      "url": "https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
         "name": "Moments Of Waves",
         "url": "https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 171959,
       "name": "Still Thoughts And Wave Sounds",
       "url": "https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Relax Waves",
+        "url": "https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf"
+      },
+      "artists": [
+        {
+          "name": "Factorial FX",
+          "url": "https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu"
+        }
+      ],
+      "duration_ms": 94000,
+      "name": "Relax Waves",
+      "url": "https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp"
         }
       ],
-      "duration_ms": 137795,
-      "name": "Stormy Ocean Sounds",
-      "url": "https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q"
+      "duration_ms": 130061,
+      "name": "Stormy Beach Waves",
+      "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
-        "name": "Epic Waves - vol.1",
-        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
-      },
-      "artists": [
-        {
-          "name": "Epic Soundscapes",
-          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
-        }
-      ],
-      "duration_ms": 229337,
-      "name": "Relaxing Waves",
-      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
         "name": "3D Audio Textures of Waves",
         "url": "https://open.spotify.com/album/27CDKjjwubPm4ZAQVNqsPq"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 280336,
       "name": "Close to the Shores",
       "url": "https://open.spotify.com/track/243lmQ66EFqpi10PJa5JU4"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Epic Waves - vol.1",
+        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "duration_ms": 229337,
+      "name": "Relaxing Waves",
+      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -779,6 +779,38 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
+        "name": "Sleep Sound Green Noise",
+        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
+      },
+      "artists": [
+        {
+          "name": "Ilmium",
+          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
+        }
+      ],
+      "duration_ms": 115916,
+      "name": "Gentle Waves",
+      "url": "https://open.spotify.com/track/1Yq8mLKvdhdos3bkfNRBdC"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Soft Green Noise",
+        "url": "https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w"
+      },
+      "artists": [
+        {
+          "name": "The Noise Generator",
+          "url": "https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj"
+        }
+      ],
+      "duration_ms": 126318,
+      "name": "Smooth Waves",
+      "url": "https://open.spotify.com/track/1EoIIM5NUOuRUmT8nS6X7Q"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
         "name": "The Mighty Ocean",
         "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
       },
@@ -811,22 +843,6 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
-        "name": "Soft Green Noise",
-        "url": "https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w"
-      },
-      "artists": [
-        {
-          "name": "The Noise Generator",
-          "url": "https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj"
-        }
-      ],
-      "duration_ms": 126318,
-      "name": "Smooth Waves",
-      "url": "https://open.spotify.com/track/1EoIIM5NUOuRUmT8nS6X7Q"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
         "name": "Crashing Ocean Waves",
         "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 160000,
       "name": "Watching Heavy Ocean Waves",
       "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
-        "name": "Sleep Sound Green Noise",
-        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
-      },
-      "artists": [
-        {
-          "name": "Ilmium",
-          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
-        }
-      ],
-      "duration_ms": 115916,
-      "name": "Gentle Waves",
-      "url": "https://open.spotify.com/track/1Yq8mLKvdhdos3bkfNRBdC"
     },
     {
       "added_at": "2022-11-23 14:55:07",
@@ -907,6 +907,38 @@
     {
       "added_at": "2022-11-23 14:55:07",
       "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+      },
+      "artists": [
+        {
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+        }
+      ],
+      "duration_ms": 119374,
+      "name": "Heavy Ocean Waves",
+      "url": "https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
+        "name": "Sleep Sound Green Noise",
+        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
+      },
+      "artists": [
+        {
+          "name": "Ilmium",
+          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
+        }
+      ],
+      "duration_ms": 120374,
+      "name": "Relaxing Wave Sounds",
+      "url": "https://open.spotify.com/track/7sdoVOZWSmSJGZMqKUUsu5"
+    },
+    {
+      "added_at": "2022-11-23 14:55:07",
+      "album": {
         "name": "Ocean Waves Volume 2",
         "url": "https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR"
       },
@@ -935,38 +967,6 @@
       "duration_ms": 168000,
       "name": "Luscious Waves",
       "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
-        "name": "Summer Ocean Waves",
-        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
-      },
-      "artists": [
-        {
-          "name": "Hello Soundz",
-          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
-        }
-      ],
-      "duration_ms": 119374,
-      "name": "Heavy Ocean Waves",
-      "url": "https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G"
-    },
-    {
-      "added_at": "2022-11-23 14:55:07",
-      "album": {
-        "name": "Thunderous Ocean",
-        "url": "https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX"
-      },
-      "artists": [
-        {
-          "name": "Somnography",
-          "url": "https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Thunderous Ocean - Seamless",
-      "url": "https://open.spotify.com/track/0IY1lXJOW9g5Lt0HiVBqiB"
     }
   ],
   "unique_name": "White Waves",

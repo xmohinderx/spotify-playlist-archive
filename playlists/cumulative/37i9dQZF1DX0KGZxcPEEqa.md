@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-695 songs - 1 day 17 hr 28 min
+696 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,8 +257,9 @@
 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 | 2022-05-11 |  |
 | [Heart to Break](https://open.spotify.com/track/2Cu5ExXidcoE4vF5hIYict) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/4HbNtklEO6XJv638wZ1MZg) | 3:45 | 2021-08-10 | 2022-07-29 |
 | [Heart to Break](https://open.spotify.com/track/6xwEVJ6Glbq4TyLaaXmcHN) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Dark Valentine](https://open.spotify.com/album/7j5PG3hqjj8aebNO6kqSwU) | 3:45 | 2022-05-11 | 2022-11-13 |
-| [Heartbeat](https://open.spotify.com/track/0yICN9QFclohtq33HSmFwZ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 4:16 | 2022-05-11 |  |
+| [Heartbeat](https://open.spotify.com/track/0yICN9QFclohtq33HSmFwZ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 4:16 | 2022-05-11 | 2023-01-12 |
 | [Heartbeat](https://open.spotify.com/track/2F3kAASEmMtJevyYoERBPa) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Euphoria](https://open.spotify.com/album/2xwpvruPfeNRKx3X78UDd8) | 4:16 | 2021-08-10 | 2022-07-29 |
+| [Heartbeat](https://open.spotify.com/track/6GREIx79VAYuT0DYDGTIJh) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Euphoria](https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc) | 4:16 | 2022-11-29 |  |
 | [Heartbeat](https://open.spotify.com/track/7C9drompZEgNsTMPaAfp8t) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Together](https://open.spotify.com/album/0vNzoZ2y8HiQPXyhjxsZvA) | 2:45 | 2022-05-11 |  |
 | [Heartbeat](https://open.spotify.com/track/6511EVGteoddQHgxIU3rpj) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Heartbeat](https://open.spotify.com/album/54l9DtFXdeHz0YNDYd2898) | 2:45 | 2021-08-10 | 2022-07-29 |
 | [Heartbeat Song](https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:18 | 2021-08-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91541,
+  "num_followers": 91543,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMDA3MzYyNzMzZTI4NDk5YjgxOTBhZWY3ZDZlN2U2Njgz",
+  "snapshot_id": "MTY3MTU0ODQxNSwwMDAwMDAwMGVlM2M3NGYyN2IyY2MzMmQ3YzQ1ZGEzYTM2Nzk1MjBm",
   "tracks": [
     {
       "added_at": "2022-12-02 06:01:00",
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
     },
     {
-      "added_at": "2023-01-11 01:03:18",
+      "added_at": "2023-01-12 01:04:35",
       "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Hallucinate",
-      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Hallucinate",
+      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 178064,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1033,6 +1033,26 @@
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
+      "added_at": "2023-01-12 01:04:35",
+      "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
       "added_at": "2022-12-02 06:01:00",
       "album": {
         "name": "Leave A Little Love",
@@ -1051,26 +1071,6 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
-    },
-    {
-      "added_at": "2023-01-11 01:03:18",
-      "album": {
-        "name": "Always Be There",
-        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Always Be There",
-      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 139809,
       "name": "Lonely (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2022-12-02 06:01:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Behind the Moon",
-        "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
-      },
-      "artists": [
-        {
-          "name": "K!llx",
-          "url": "https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ"
-        },
-        {
-          "name": "ConKi",
-          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
-        }
-      ],
-      "duration_ms": 164919,
-      "name": "Behind the Moon",
-      "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Only For The Better",
         "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
       },
@@ -1717,7 +1697,27 @@
       "url": "https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI"
     },
     {
-      "added_at": "2023-01-11 01:03:18",
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Behind the Moon",
+        "url": "https://open.spotify.com/album/1qCOccM3lTlzp2G6ZpJto9"
+      },
+      "artists": [
+        {
+          "name": "K!llx",
+          "url": "https://open.spotify.com/artist/1gGoEoMd01jlEPtxTJo3jQ"
+        },
+        {
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "Behind the Moon",
+      "url": "https://open.spotify.com/track/0kRU3miiIJCzGkviEwU90m"
+    },
+    {
+      "added_at": "2023-01-12 01:04:35",
       "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
@@ -1783,30 +1783,6 @@
     {
       "added_at": "2022-12-02 06:01:00",
       "album": {
-        "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
-        "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 186804,
-      "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
-      "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2022-12-02 06:01:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6h8sC5uwBGO0Wu6EiToz6a"
       },
@@ -1827,6 +1803,30 @@
       "duration_ms": 168196,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/19boUY253NrYTqJMh50d5X"
+    },
+    {
+      "added_at": "2022-12-02 06:01:00",
+      "album": {
+        "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
+        "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 186804,
+      "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
+      "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
     },
     {
       "added_at": "2022-12-02 06:01:00",

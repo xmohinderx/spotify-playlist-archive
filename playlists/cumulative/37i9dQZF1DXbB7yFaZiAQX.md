@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-422 songs - 1 day 5 hr 48 min
+423 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Don't Talk to Me About Love](https://open.spotify.com/track/4QBZTbaM3vreybFgzRO5QQ) | [Altered Images](https://open.spotify.com/artist/07h7JMfYWswTq4qpinC5q4) | [Bite](https://open.spotify.com/album/6HJUiwsBuAI9uhL9FkpUuG) | 4:51 | 2018-12-12 | 2023-01-10 |
 | [Don't Tell Me](https://open.spotify.com/track/493NNPBvpP6cj5r0VBqcL4) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG) | [Mange Tout \(Extended Version\)](https://open.spotify.com/album/2LzsjicxCFmETqfLZJsQGv) | 3:30 | 2019-08-02 | 2022-11-14 |
 | [Dreiklangsdimensionen](https://open.spotify.com/track/6ng1rv2P24h2wly30Jbnz7) | [Rheingold](https://open.spotify.com/artist/4SO3c1EwLFfWiqVmQ0zAeJ) | [Balearic Rock](https://open.spotify.com/album/0FBT4mmVZ2CVD0L5tv3es1) | 5:54 | 2018-12-12 | 2022-07-28 |
+| [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 | 2023-01-11 |  |
 | [Duchess](https://open.spotify.com/track/3FgEerIxXNMRhY2KV5Kl44) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [IV](https://open.spotify.com/album/2QQviVx6NuFSanA4chNY5d) | 2:29 | 2018-12-12 | 2022-07-28 |
 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 | 2018-12-12 |  |
 | [Duel](https://open.spotify.com/track/3v7qgdQzpiNulr8eytLNXX) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish](https://open.spotify.com/album/20WvOLT4klgKqzYGJGFDMV) | 4:48 | 2018-12-12 | 2022-07-29 |
@@ -417,7 +418,7 @@
 | [Winning](https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2) | [The Sound](https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz) | [From The Lion's Mouth](https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI) | 4:18 | 2018-12-12 | 2022-11-13 |
 | [Wishful Thinking](https://open.spotify.com/track/7w76loirJapdVKMf6sFrJo) | [China Crisis](https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO) | [Alle 40 Goed \- 80's](https://open.spotify.com/album/1nImqnEjONcXaE99zT9Ddw) | 4:07 | 2019-08-02 | 2022-07-29 |
 | [Wishful Thinking](https://open.spotify.com/track/11HLyzoCyx8hXKXVmrg1Sy) | [China Crisis](https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO) | [Diary: A Collection](https://open.spotify.com/album/1mWJIJbT09FgNhOr4xiPoL) | 4:10 | 2019-08-02 |  |
-| [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 | 2018-12-12 |  |
+| [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 | 2018-12-12 | 2023-01-12 |
 | [Wood Beez](https://open.spotify.com/track/5uhxoEaWGasTiGwLV6azhH) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Cupid & Psyche 85](https://open.spotify.com/album/0nBH3ITWaQDYT2wAWRdg3K) | 4:48 | 2021-01-06 | 2022-11-13 |
 | [Wordy Rappinghood](https://open.spotify.com/track/4ovaO5XKOFaHv9fudpt9MF) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Genius of Live](https://open.spotify.com/album/3eW5JeAXVmrnQodW3XVpVz) | 8:13 | 2019-08-01 | 2022-04-20 |
 | [World Shut Your Mouth](https://open.spotify.com/track/2GF0D3d6LKIsDnk8ufpBQa) | [Julian Cope](https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv) | [Saint Julian \(Expanded Edition\)](https://open.spotify.com/album/0cWXdCck9lEusGVYb5wpfa) | 3:35 | 2018-12-12 | 2022-07-29 |

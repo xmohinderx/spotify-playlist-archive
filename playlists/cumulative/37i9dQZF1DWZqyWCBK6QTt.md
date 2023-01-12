@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Covers](https://open.spotify.com/playlist/37i9dQZF1DWZqyWCBK6QTt)
 
-> The songs you love, in ways you’ve never heard before\. Cover: Sara James.
+> The songs you love, in ways you’ve never heard before\. Cover: Joesef
 
 385 songs - 23 hr 45 min
 

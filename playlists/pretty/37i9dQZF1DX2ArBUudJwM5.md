@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Mora Navarro y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,649 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,638 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,22 +29,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 19 | [Viaje](https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Viaje](https://open.spotify.com/album/3V41AmHEPSjD2w9A26yV2E) | 3:15 |
 | 20 | [ILY](https://open.spotify.com/track/2HgEL0xCio4msRsoyShotM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [ILY](https://open.spotify.com/album/54kfGMDwPORd3iBxg7Biaf) | 2:35 |
 | 21 | [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 |
-| 22 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 |
-| 23 | [Jesica Alegría](https://open.spotify.com/track/1y230lSPJFvc1VGxQn2bDU) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R) | [Jesica Alegría](https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm) | 3:06 |
-| 24 | [Las Cosas Simples](https://open.spotify.com/track/7pTuLsDFrHXwuWddo1nnP7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:10 |
-| 25 | [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 |
+| 22 | [Jesica Alegría](https://open.spotify.com/track/1y230lSPJFvc1VGxQn2bDU) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R) | [Jesica Alegría](https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm) | 3:06 |
+| 23 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 |
+| 24 | [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 |
+| 25 | [Las Cosas Simples](https://open.spotify.com/track/7pTuLsDFrHXwuWddo1nnP7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:10 |
 | 26 | [Entre los Dos](https://open.spotify.com/track/6vulL1k5lhXXJWpbhueb9l) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Entre los Dos](https://open.spotify.com/album/7bqH49xld2kde9aRWUMxCe) | 3:23 |
 | 27 | [VINO Y BLUNT](https://open.spotify.com/track/3rwrEmUIZNhJUEGtawa9U0) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:40 |
 | 28 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 | 29 | [El Astronauta](https://open.spotify.com/track/6OLPDgbtcZe84Aqc5fbik5) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 2:44 |
 | 30 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
-| 31 | [La excepción](https://open.spotify.com/track/2uqNwEFOsojGkpLwqXyqw3) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [La excepción](https://open.spotify.com/album/2djQY2QytyBhuuifn6z3QL) | 3:45 |
-| 32 | [Madre](https://open.spotify.com/track/4J3ZS9WDjMkOqD9RLubWAz) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 4:06 |
+| 31 | [Madre](https://open.spotify.com/track/4J3ZS9WDjMkOqD9RLubWAz) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 4:06 |
+| 32 | [La excepción](https://open.spotify.com/track/2uqNwEFOsojGkpLwqXyqw3) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [La excepción](https://open.spotify.com/album/2djQY2QytyBhuuifn6z3QL) | 3:45 |
 | 33 | [Un minuto](https://open.spotify.com/track/4pHrwNUVTi8uRmRzMqgx2p) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Un minuto](https://open.spotify.com/album/0DAahj2hayoE3vXq5LawsQ) | 3:22 |
 | 34 | [Con Mi Amiga](https://open.spotify.com/track/40cety5BmUPCXAzaUbQkFp) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Con Mi Amiga](https://open.spotify.com/album/4oUpXNlect39k7OquCGJD2) | 3:04 |
 | 35 | [Inmemorias](https://open.spotify.com/track/4qT8JohDePkcOdQHm7MZ9s) | [Paula Silencio](https://open.spotify.com/artist/5pC8WsWtHKiX1NrhiW6m4Q) | [Los Adentros](https://open.spotify.com/album/41ASuBU7U2R0cpyKBJrkUT) | 2:00 |
-| 36 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
-| 37 | [Algo me está pasando](https://open.spotify.com/track/4XdvhIQ5iUwm8U8HwTontd) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 4:03 |
+| 36 | [Algo me está pasando](https://open.spotify.com/track/4XdvhIQ5iUwm8U8HwTontd) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 4:03 |
+| 37 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
 | 38 | [Culpable](https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [ARDE](https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm) | 3:07 |
 | 39 | [CHACA](https://open.spotify.com/track/1EFdnT0s36u2f7FvhYS2SH) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [R Chop](https://open.spotify.com/album/5ckfeykmE4MxADAQxGQVJZ) | 3:28 |
 | 40 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
 | 50 | [Bruma](https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 1:19 |
 
-Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGUwNTVhZDE1YmJkNDU1MDliY2U0NDhkYzE4NzgyZjQ2`
+Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGY3Y2U2ZmM5ZDAyNDE1MWUyYWIzODE2NWQ2YjExNGI4`

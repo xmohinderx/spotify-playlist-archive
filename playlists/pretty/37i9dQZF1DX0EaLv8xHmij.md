@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,634 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,674 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 21 | [XXX](https://open.spotify.com/track/5S5DLXSjrCKC7LCJ9qsdx8) | [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK) | [XXX](https://open.spotify.com/album/14KtJPzElJmnHK4Yy8pRa6) | 1:28 |
 | 22 | [Baile](https://open.spotify.com/track/4YJ1XOQF5kywDHybuInr3P) | [TDL](https://open.spotify.com/artist/3K89zxSDqwJpcKuc92vwF1), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [Baile](https://open.spotify.com/album/6afR5dNao04mJYz5Ykwrwl) | 2:59 |
 | 23 | [Urubu](https://open.spotify.com/track/4CjbU2FFWlsZSWYaM4Tcdr) | [Trevisan Mc](https://open.spotify.com/artist/177KYY4zDoBqtSscP1UcbM), [Guztaman](https://open.spotify.com/artist/0igWtHKoFnk6QRfkJ3hgvI), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Urubu](https://open.spotify.com/album/0NfyJhQLbmETOvLeUrI1ZC) | 2:34 |
-| 24 | [GISELE BITCH](https://open.spotify.com/track/6qMZAQuj67AMLJywtSGMZm) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [@yungg.prod](https://open.spotify.com/artist/6riBq3f3tO9DFWTNwOx3VI) | [Antiherói](https://open.spotify.com/album/2Ubq2vUBzaYlyH1kCHrshO) | 2:44 |
+| 24 | [Gisele Bitch](https://open.spotify.com/track/4AdB3Q4Qn59GnNvQwau1jV) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [@yungg.prod](https://open.spotify.com/artist/6riBq3f3tO9DFWTNwOx3VI) | [Antiherói](https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es) | 2:44 |
 | 25 | [NA RISCA](https://open.spotify.com/track/6LcrQm4HkhTeYhAhcvzHNJ) | [Fleepo](https://open.spotify.com/artist/7BC18qI5TzF87fueE50DHC), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [NA RISCA](https://open.spotify.com/album/2gDxTzGQcNXGyMTDUzWtut) | 2:21 |
 | 26 | [Vida Bandida](https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Da Lama ao Topo](https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m) | 2:32 |
 | 27 | [Antes Do Flash](https://open.spotify.com/track/0vMe8XxjQjc3lNxT2VGkzn) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB) | [Top Boy Face \(Deluxe\)](https://open.spotify.com/album/3lJr7pZaTSuYRnY3hld2zQ) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Artilheiro](https://open.spotify.com/track/00F0BEVzn3O44RT9DFUsKo) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Artilheiro](https://open.spotify.com/album/4KGIXDOJ3hiZO4DGyVC8pn) | 2:26 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MTY3Mjk3NDA2MCwwMDAwMDAwMDMxYzc5YWMzYzRjZDljYzliMTU3M2E0Yjc1ZjAwN2E4`
+Snapshot ID: `MTY3Mjk3NDA2MCwwMDAwMDAwMGJhMmY5YmQyYTU1ZmI2YTc3NzlmY2JkZGFhZGZiYjMx`

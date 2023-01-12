@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 290792,
+  "num_followers": 290890,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDE5ZWUyMmMzMGExNmY1NjllMzY5MmE0NjU5ZTg3NTlj",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDQzMTk2ODk2YzBmODFkMTE1YjlhYTYzMmZkNDU0Mjg3",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 248134,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "FVR105 (p-rallel Remix)",
         "url": "https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 248134,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 239178,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "gr\u00e6",
-        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Cut Me",
-      "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1015,6 +999,22 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "gr\u00e6",
+        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Cut Me",
+      "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LoveConfusion",
-        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
-      },
-      "artists": [
-        {
-          "name": "Karnaval Blues",
-          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "LoveConfusion",
-      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "LoveConfusion",
+        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
+      },
+      "artists": [
+        {
+          "name": "Karnaval Blues",
+          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "LoveConfusion",
+      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "In the Meantime",
-        "url": "https://open.spotify.com/album/6UiJR8RTY4lTGtZWTZSVRo"
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ"
       },
       "artists": [
         {
-          "name": "Chelou",
-          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "OSHUN",
+          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
         }
       ],
-      "duration_ms": 201991,
-      "name": "In the Meantime",
-      "url": "https://open.spotify.com/track/2DqKoRU4LkUq9RA7Dr3U5R"
+      "duration_ms": 237973,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
     }
   ],
   "unique_name": "Soultronic",

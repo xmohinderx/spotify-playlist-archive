@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Zoe Gotusso.",
-  "num_followers": 100817,
+  "num_followers": 100890,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDIxYTBmZDkyMzUyYjQ5MTE0MWMwZGQ0YmRhYmRmODdh",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDZiZTgxODNiMmM2YWQ3ZDAyZThlMzMyZWI1NTJkNGQ1",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        },
-        {
-          "name": "Ernesto Snajer",
-          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
-        }
-      ],
-      "duration_ms": 181798,
-      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
-      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Camino Que Pasa",
         "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 180157,
       "name": "Camino Que Pasa",
       "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        },
+        {
+          "name": "Ernesto Snajer",
+          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
+        }
+      ],
+      "duration_ms": 181798,
+      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "A 200 mil",
         "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 172094,
       "name": "A 200 mil",
       "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Fuimos Los Dos",
-        "url": "https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        }
-      ],
-      "duration_ms": 137450,
-      "name": "Prefiero No Decir Nada",
-      "url": "https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Versiones Desnudas",
         "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Fuimos Los Dos",
+        "url": "https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        }
+      ],
+      "duration_ms": 137450,
+      "name": "Prefiero No Decir Nada",
+      "url": "https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
         "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "C\u00f3smosis",
-        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "C\u00f3smosis",
-      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 222428,
       "name": "Las Bestias Que Me Acompa\u00f1an",
       "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "C\u00f3smosis",
+        "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "C\u00f3smosis",
+      "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 188769,
       "name": "La Aguja",
       "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Sana Sana",
-        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 302976,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Sana Sana",
+        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 302976,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Aho Uhal",
         "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 206032,
       "name": "Ahots Hari",
       "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Moment\u00e1nea",
-        "url": "https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 240449,
-      "name": "Moment\u00e1nea",
-      "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Cuchara Chueca",
         "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 271200,
       "name": "Alma Sola",
       "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Moment\u00e1nea",
+        "url": "https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 240449,
+      "name": "Moment\u00e1nea",
+      "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Maestra Vida",
+        "url": "https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 380088,
+      "name": "Hasta La Ra\u00edz",
+      "url": "https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Maestra Vida",
-        "url": "https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 380088,
-      "name": "Hasta La Ra\u00edz",
-      "url": "https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y"
     },
     {
       "added_at": "2023-01-06 05:00:00",

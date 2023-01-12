@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Listen to new music from Popcaan ft\. Drake \(pictured\), Shania Twain, Preston Pablo, Josh Ross, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,101 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,129 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 41 | [Homemaker](https://open.spotify.com/track/7gkcXaqplvft0Gk0FbUteE) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/5JX6lCMslXIVUBeprDgGIY) | 4:13 |
 | 42 | [Anyway](https://open.spotify.com/track/3Wh6ZKRCB3ncRXbC14w42c) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 3:31 |
 | 43 | [XO Evil Llif3](https://open.spotify.com/track/2xi27TLd2IuOddXHaJ7pQn) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [XO Evil Llif3](https://open.spotify.com/album/3cZ6tecA5PSfQf6cFulIoy) | 2:55 |
-| 44 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:24 |
+| 44 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 45 | [I Feel It](https://open.spotify.com/track/5PTDUraHge5XgzG4lzm5Hb) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [I Feel It](https://open.spotify.com/album/4ubQDotUd6fO1TDA7CBQn7) | 4:56 |
 | 46 | [NEW GOD](https://open.spotify.com/track/3KIfk2PJbeoGV9qeDw6MJw) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [NEW GOD](https://open.spotify.com/album/5DNCUHtbfMIGXZjzhVh8tE) | 2:23 |
 | 47 | [How It Goes](https://open.spotify.com/track/2oI20E4LY4cevHZncnnUzV) | [KHEM](https://open.spotify.com/artist/5oR5JjCXsdwdho4arNfO4C) | [How It Goes](https://open.spotify.com/album/2XTcLDH79VWM52guaupfvB) | 2:03 |

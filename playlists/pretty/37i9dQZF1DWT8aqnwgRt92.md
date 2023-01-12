@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,030 likes - 84 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,735 likes - 84 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 |
+| 1 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
 | 2 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
 | 3 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 4 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 10 | [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 |
 | 11 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
 | 12 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
-| 13 | [ドラマチックじゃなくても](https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [ドラマチックじゃなくても](https://open.spotify.com/album/2pAuAsjzwHKiPx47Vy6DxK) | 4:22 |
+| 13 | [Not as Dramatic As...](https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Not as Dramatic As...](https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR) | 4:22 |
 | 14 | [Way to go](https://open.spotify.com/track/5CZ9ZyPs6di7ScOJa6YQmJ) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Way to go](https://open.spotify.com/album/7zEQZQRLbiXZynF6MCJFxW) | 4:03 |
-| 15 | [嘘つき](https://open.spotify.com/track/0CaK41fIguCATIPHV2Yau1) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [嘘つき](https://open.spotify.com/album/2rfCdxN23vdebt3daHiK5X) | 3:37 |
-| 16 | [Never Fear](https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N) | 3:49 |
+| 15 | [Usotsuki](https://open.spotify.com/track/2iK9aKDMWe9xQC8aBQ3y7n) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Usotsuki](https://open.spotify.com/album/0fiGjrYXmgaIfbX1tPRvia) | 3:37 |
+| 16 | [Never Fear](https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT) | 3:49 |
 | 17 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
 | 18 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 19 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 28 | [Ashita no Katachi](https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Ashita no Katachi](https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6) | 4:33 |
 | 29 | [lol](https://open.spotify.com/track/0Y0VtmNYHUMdk9cv1HKWPj) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [lol](https://open.spotify.com/album/6hvyEYVC33cce07AcK2mTr) | 2:53 |
 | 30 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 |
-| 31 | [Take Me Maybe](https://open.spotify.com/track/6Dn8avvxro1RRSEwv1Ixqx) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Take Me Maybe](https://open.spotify.com/album/7sIIEsF1fZxJuRSgESClv9) | 3:27 |
-| 32 | [セルフハグ・ビッグラヴ](https://open.spotify.com/track/6aFXUotL9l9EyI7b0ibp9U) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [セルフハグ・ビッグラヴ](https://open.spotify.com/album/2fKaoXdHBx7s8SBVR38bb3) | 3:47 |
+| 31 | [Take Me Maybe](https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Take Me Maybe](https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut) | 3:27 |
+| 32 | [Selfhug Biglove](https://open.spotify.com/track/644uk2f8dAJCvxly8s20St) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Selfhug Biglove](https://open.spotify.com/album/4Xe3CMj63mISzrF7iXMuvg) | 3:47 |
 | 33 | [New Drama Paradise](https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [New Drama Paradise](https://open.spotify.com/album/3H5VIFVEyDBmfPLe9aKzlq) | 4:09 |
 | 34 | [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 |
 | 35 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 36 | [メリーゴーランド](https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [メリーゴーランド](https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI) | 4:15 |
-| 37 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [早見沙織](https://open.spotify.com/artist/4XA3xWJiPekfaj7M2jtMt3) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 |
+| 37 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 |
 | 38 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 |
 | 39 | [TRUE STORY](https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [TRUE STORY](https://open.spotify.com/album/4h4woOf4hcnWWcfER8dOpG) | 3:56 |
 | 40 | [℃](https://open.spotify.com/track/0Ak4R2wHWIv49cCKBeHZi0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [℃](https://open.spotify.com/album/5mZkRx5kPB0Ude08mHnrxR) | 3:34 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 54 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 |
 | 55 | [トメハネハラウ](https://open.spotify.com/track/2R3Pfcb5loHfNs0FI7RQxY) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [トメハネハラウ](https://open.spotify.com/album/4LvSFjOlrfFOG3K8eFShyb) | 3:56 |
 | 56 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 |
-| 57 | [RECONNECTION](https://open.spotify.com/track/443HQtfWncB04hs3wuKD01) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/7I1WR1fKmdIFkykMVDGTpA) | 3:42 |
+| 57 | [RECONNECTION](https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/4SEmy9zV5o9BirnDSXYP4s) | 3:42 |
 | 58 | [Loud Hailer](https://open.spotify.com/track/7AhQukb7kW2rbAKPKBc7tC) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/4JFBN5yf2FzlVqXs076oC6) | 3:48 |
 | 59 | [Iden Teitei Meltdown](https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK) | [Enako](https://open.spotify.com/artist/0oC1SMfDzyyr7Tlzu2s63i), [Pmarusama](https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO) | [Iden Teitei Meltdown](https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7) | 4:03 |
 | 60 | [As the Gods Say \- Maniac Ver.](https://open.spotify.com/track/1TqPXOmJzhLLwjgB6CVHU6) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say \(Maniac Ver.\)](https://open.spotify.com/album/02JA34PUXRpX5EOowhGion) | 1:59 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 83 | [DARLING IN THE NIGHT](https://open.spotify.com/track/7AnMPMbtd3L90yKv9cNyrp) | [七陰](https://open.spotify.com/artist/30xGJe0vTq03OuzcOxY8Ln) | [ENDING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0AngWuk5QRZ3e3tKBXEXAH) | 4:09 |
 | 84 | [未完成ドリーム!](https://open.spotify.com/track/3MVbG5259vPrYXUhX5JtQZ) | [SCHOOL IDOL MUSICAL](https://open.spotify.com/artist/0ac7G5NyL6NEnPTeozqUgd) | [未完成ドリーム!](https://open.spotify.com/album/1RnbfqigPmq2mFTikAHuDt) | 3:57 |
 
-Snapshot ID: `MTY3MzM2Mjg2MSwwMDAwMDAwMGMxYTI3NGFjNmVmYWRjNTc0NDVhMWQwYTZhMzlmMDk3`
+Snapshot ID: `MTY3MzM2Mjg2MSwwMDAwMDAwMDAwNjU5ZDZmZWI2YjkzNDRjMGI5N2E5NzQzNWI0YzAx`

@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Facedown",
+        "url": "https://open.spotify.com/album/0t1MXKqSzPgcAu4MPU8kux"
+      },
+      "artists": [
+        {
+          "name": "TVLLER",
+          "url": "https://open.spotify.com/artist/00Q3jW41SIUjKPeAfcXkTC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133512,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/05CFj95QAb0rhWMc5Z9GHA"
+    },
+    {
+      "album": {
         "name": "Fairyland Reamp 2012",
         "url": "https://open.spotify.com/album/3hB3dxoLiLZ75FTVBQbiyM"
       },
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 221988,
       "name": "Ya Tebya ne otdam!",
       "url": "https://open.spotify.com/track/0fOukrzq6Bk4kQdzKjVaot"

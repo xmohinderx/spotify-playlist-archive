@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 54302,
+  "num_followers": 54359,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDg3NzY4ODY2NGY2OWQzZWQ4MDliMWQwODM5MTVkZjQx",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDU4NDU3NzM2NTlkODJlMmQ3NWJkNGFlODRhNDU3NGI1",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Groove Society",
         "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 183372,
       "name": "Groove Society",
       "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "ANIITIME003",
+        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+      },
+      "artists": [
+        {
+          "name": "ANII",
+          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+        }
+      ],
+      "duration_ms": 444150,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Dixon Presents Transmoderna Part 2/4",
         "url": "https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 262677,
       "name": "Hymnotic",
       "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "ANIITIME003",
-        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
-      },
-      "artists": [
-        {
-          "name": "ANII",
-          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
-        }
-      ],
-      "duration_ms": 444150,
-      "name": "Silver Machine",
-      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
     },
     {
       "added_at": "2021-08-27 15:45:01",

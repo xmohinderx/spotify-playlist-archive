@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,912 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,911 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Property](https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:25 |
 | 50 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 |
 
-Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDA4NzY1NmQyOWQwNWI0Mjg0MTMyMzJjOTg0MmVmZjk3Zg==`
+Snapshot ID: `Mjc4OTA4MDYsMDAwMDAwMDA1OWI3NTA0NDQwZmM4ZmVkZGZhOTI1YWIyYzg5ZDg0MA==`

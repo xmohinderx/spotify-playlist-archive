@@ -1,12 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
-  "num_followers": 262500,
+  "num_followers": 262454,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDFiNGM1ZWUzMmNmNjZmNDY0M2NjZGMxZGJmNGZmZjQ0",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDNkMjQ5NDNjMTk0YWRmZjNiMzAyMjRiMjMyNzdiNGM1",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Erratic Cinematic",
-        "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
-      },
-      "artists": [
-        {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Shave Experiment (Director's Cut)",
         "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 192896,
       "name": "Take Me Where Your Heart Is",
       "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
+      },
+      "artists": [
+        {
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Not High On Drugz",
-        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 252372,
-      "name": "Not High On Drugz",
-      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 173889,
       "name": "Solar Power - Spotify Singles",
       "url": "https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Not High On Drugz",
+        "url": "https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 252372,
+      "name": "Not High On Drugz",
+      "url": "https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 137307,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Must Be Nice",
         "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
@@ -1363,22 +1347,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "OTT",
-        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 157817,
-      "name": "OTT",
-      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
+      "duration_ms": 137307,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1411,6 +1391,26 @@
       "duration_ms": 222357,
       "name": "Last Day On Earth",
       "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "OTT",
+        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 157817,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+        "name": "Into The Rift",
+        "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
         }
       ],
-      "duration_ms": 204391,
-      "name": "You Lose!",
-      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
+      "duration_ms": 310742,
+      "name": "T Love",
+      "url": "https://open.spotify.com/track/0Z2gIlbvlpFSb5W3TyCVjd"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Into The Rift",
-        "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
       "artists": [
         {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 310742,
-      "name": "T Love",
-      "url": "https://open.spotify.com/track/0Z2gIlbvlpFSb5W3TyCVjd"
+      "duration_ms": 204391,
+      "name": "You Lose!",
+      "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
     },
     {
       "added_at": "2022-08-25 23:00:00",

@@ -2,7 +2,7 @@
 
 ### [Prog Rock Monsters](https://open.spotify.com/playlist/37i9dQZF1DX0uqkwkR49kK)
 
-> A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
+> A collection of insane progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
 166 songs - 1 day 0 hr 50 min
 

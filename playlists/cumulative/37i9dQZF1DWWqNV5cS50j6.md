@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,234 songs - 2 day 11 hr 41 min
+1,235 songs - 2 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [CRUMBLE](https://open.spotify.com/track/1ud2gKMwBIK5XkePiIr16r) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [CRUMBLE](https://open.spotify.com/album/3tukKF6gkRQ7OIWu3kse3j) | 2:14 | 2022-07-29 | 2022-08-06 |
 | [CRUSH](https://open.spotify.com/track/4WQtZRMQ0yHC5ioy6SwVvL) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [CRUSH](https://open.spotify.com/album/5pVUkDUqsZj4xmXSorJ8Ph) | 3:08 | 2020-10-13\* | 2021-01-23 |
 | [Crush](https://open.spotify.com/track/0D5DEPAygd5q2ULqY9WQyP) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Crush](https://open.spotify.com/album/1vCulKxQrKDV1rPKHEgIHI) | 2:13 | 2021-09-11 | 2021-10-14 |
+| [Crush \- Unfinished](https://open.spotify.com/track/516daakwmX9S2aRifLUCp8) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:45 | 2023-01-11 |  |
 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-25 | 2022-05-10 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-05 | 2022-03-01 |
 | [Crystals & Congas](https://open.spotify.com/track/0BF0DbIaEpYLLDpSMknYHV) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Crystals & Congas](https://open.spotify.com/album/7g3PLrwxjgEVvwGnVjmP44) | 2:37 | 2022-10-25 | 2022-11-10 |
@@ -688,7 +689,7 @@
 | [Messy \(feat\. Teezo Touchdown & Bktherula\)](https://open.spotify.com/track/79D8MCSEt4fr3qq9XZuTLd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 | 2022-07-22 | 2022-09-24 |
 | [Metal Wings](https://open.spotify.com/track/2lY7DpTKGfBZQihvvqJ0Pg) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Metal Wings](https://open.spotify.com/album/7pK3uwwn6UwGfSqxLxJWs5) | 2:42 | 2020-10-13\* | 2021-01-23 |
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2021-05-08 | 2021-10-13 |
-| [Mi Amor](https://open.spotify.com/track/24HSfFvHV5JBBqKCugBjdL) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Mi Amor](https://open.spotify.com/album/03b21NzcAhKoKKx32OWjSJ) | 1:59 | 2022-12-16 |  |
+| [Mi Amor](https://open.spotify.com/track/24HSfFvHV5JBBqKCugBjdL) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Mi Amor](https://open.spotify.com/album/03b21NzcAhKoKKx32OWjSJ) | 1:59 | 2022-12-16 | 2023-01-12 |
 | [Michael](https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:45 | 2022-07-18 | 2022-11-17 |
 | [Millionaire](https://open.spotify.com/track/1n0oysXYURK6UPsfixJY0G) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Millionaire](https://open.spotify.com/album/53xkJLs38Tv8cjekfFHOvC) | 1:38 | 2022-11-26 | 2022-12-01 |
 | [MIND ON DRUGS](https://open.spotify.com/track/0OPFDnCPCwHk9O83lqBxzq) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [HOMELESS STAR](https://open.spotify.com/album/1vmk95l8FDuRgVyvplEQqw) | 2:09 | 2021-10-22 | 2021-12-22 |

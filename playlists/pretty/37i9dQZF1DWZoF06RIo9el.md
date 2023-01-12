@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de enero 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508,974 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,099 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 14 | [Por Deporte](https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:49 |
 | 15 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 |
 | 16 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 |
-| 17 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 |
-| 18 | [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 |
+| 17 | [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 |
+| 18 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 |
 | 19 | [Si Te Pillo](https://open.spotify.com/track/2CT2oLeINCEuTEBrkTLUgD) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Te Pillo](https://open.spotify.com/album/3oqhHO8MGpzpqyHEyyIdu9) | 3:39 |
 | 20 | [LEJOS DEL CIELO](https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:28 |
 | 21 | [Si Yo Me Muero](https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Si Yo Me Muero](https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH) | 3:21 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 34 | [SUPRA 94TRO](https://open.spotify.com/track/711HDUbtqYw1FEdSk5dkpO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SUPRA 94TRO](https://open.spotify.com/album/4Nu88yMEmPXFahuw65nZem) | 2:56 |
 | 35 | [Estrella](https://open.spotify.com/track/1qemIcMb4YrHfxtSmnQ4y9) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Estrella](https://open.spotify.com/album/5ZxTdt8ek2Mr5VyxIfhykS) | 3:29 |
 | 36 | [A Poca Luz](https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [A Poca Luz](https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS) | 2:27 |
-| 37 | [Su Nota](https://open.spotify.com/track/4sB1m6oc1EV1qodzcilOyQ) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4), [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [grauu](https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH) | [Su Nota](https://open.spotify.com/album/6s2V9fCAHHkCLjEWljpN89) | 3:14 |
-| 38 | [WAYO](https://open.spotify.com/track/5mZndhqE6tE6trjPjNFIk0) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [WAYO](https://open.spotify.com/album/4dFEytjjMaxCOUV7n4ndeD) | 3:57 |
-| 39 | [Parcerita](https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Parcerita](https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz) | 1:45 |
+| 37 | [Parcerita](https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Parcerita](https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz) | 1:45 |
+| 38 | [Su Nota](https://open.spotify.com/track/4sB1m6oc1EV1qodzcilOyQ) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4), [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [grauu](https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH) | [Su Nota](https://open.spotify.com/album/6s2V9fCAHHkCLjEWljpN89) | 3:14 |
+| 39 | [WAYO](https://open.spotify.com/track/5mZndhqE6tE6trjPjNFIk0) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [WAYO](https://open.spotify.com/album/4dFEytjjMaxCOUV7n4ndeD) | 3:57 |
 | 40 | [Haciéndolo](https://open.spotify.com/track/68uBj4QKLHQJwlANkytJxO) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Haciéndolo](https://open.spotify.com/album/7ESIsApWZrcBu8ZWF1bYIy) | 3:27 |
 | 41 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 |
 | 42 | [Booty Puty](https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Flow Diego](https://open.spotify.com/track/64kPK9ZGUXQbBhocpYfPIk) | [JC el Diamante](https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J) | [Flow Diego](https://open.spotify.com/album/5N08n6KChqQeYINeCC3T53) | 2:42 |
 | 50 | [BENDITA POBREZA](https://open.spotify.com/track/4GBvsITxjZDOQvEtwpcR4c) | [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [BENDITA POBREZA](https://open.spotify.com/album/0eYagb7OuTbMsJ0ahFOJU5) | 2:49 |
 
-Snapshot ID: `MTY3Mjg0Nzk1MSwwMDAwMDAwMGRlN2M3ZWNjYjUyMzcwNGJlN2U4ODZjMDJjMTE4MGMz`
+Snapshot ID: `MTY3Mjg0Nzk1MSwwMDAwMDAwMDY2YzdkMjQwNzEyZTdiZThjMTMzZGE0NzM1MTNiOThh`

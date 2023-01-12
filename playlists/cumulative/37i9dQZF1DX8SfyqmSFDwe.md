@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-238 songs - 14 hr 22 min
+239 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 | 2021-12-09 |  |
 | [Quiere Beber](https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:07 | 2021-12-09 | 2022-09-16 |
 | [Quiero Bailar](https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [e5](https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp) | 3:03 | 2021-12-09 | 2022-07-29 |
-| [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 | 2022-07-01 |  |
+| [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 | 2022-07-01 | 2023-01-12 |
+| [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2022-12-07 |  |
 | [Quiero Saber](https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 2:55 | 2021-12-09 |  |
 | [Quitate Tu Pa Ponerme Yo](https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 4:51 | 2021-12-09 |  |
 | [Quizas \- Remix](https://open.spotify.com/track/5lSASgj3h5dWTK7pr4vkBq) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn) | 4:00 | 2021-12-09 | 2022-07-29 |

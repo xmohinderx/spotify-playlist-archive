@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-116 songs - 8 hr 23 min
+117 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Kindness](https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [Ltdblbl008](https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9) | 6:36 | 2022-10-13 |  |
 | [Kindness](https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [LTDBLBL008](https://open.spotify.com/album/3qPngaI3gHhdep7JeGVEsY) | 6:36 | 2022-09-15 | 2022-10-21 |
 | [Let Me](https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f) | [Luminous](https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u), [R.O](https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0) | [Let Me](https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD) | 3:40 | 2022-09-15 |  |
-| [Levin's Lope \- Karriem Riggins Remix](https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Levin's Lope \(Karriem Riggins Remix\)](https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN) | 5:44 | 2022-09-15 |  |
+| [Levin's Lope \- Karriem Riggins Remix](https://open.spotify.com/track/3BwZnEqueHZrlAbz2mSAOu) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Smoke Sessions \(Remixed\)](https://open.spotify.com/album/5tBRsq9lzXfvMGsIQsTIn9) | 5:44 | 2022-12-22 |  |
+| [Levin's Lope \- Karriem Riggins Remix](https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Levin's Lope \(Karriem Riggins Remix\)](https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN) | 5:44 | 2022-09-15 | 2023-01-12 |
 | [Little Airplanes](https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Little Airplanes](https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj) | 5:30 | 2022-09-15 |  |
 | [Looking Up](https://open.spotify.com/track/46qdT0wtTVMsPvpQnqdzPN) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Looking Up](https://open.spotify.com/album/6DeOvAePc1EgeMd1PuDa6d) | 3:44 | 2022-09-15 | 2022-11-19 |
 | [Lost Again](https://open.spotify.com/track/5avPepcSOLKq4zJsGu4CBV) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Lost Again](https://open.spotify.com/album/4eDfVw4Z5e6nPL61ciprCA) | 3:18 | 2022-09-15 |  |

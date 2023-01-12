@@ -4,7 +4,7 @@
 
 > Check out a Dynamic Duo's interview as Clips! Also, check out the top 10 Korean hip\-hop songs selected by them at the top of the playlist\. \(다이나믹 듀오의 인터뷰를 Clips로 확인하세요! 그리고 그들이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
 
-772 songs - 1 day 18 hr 53 min
+774 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Freaky \(Feat\. Chillin Homie\)](https://open.spotify.com/track/298Gzc1eaI6hRDLFmOqkB7) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM) | [Freaky \(Feat\. Chillin Homie\)](https://open.spotify.com/album/3IBGi81dsaFgQpBxrnYssm) | 2:32 | 2022-01-11 | 2022-07-06 |
 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 | 2022-07-22 | 2022-12-10 |
 | [FRIENDS](https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [FRIENDS](https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV) | 3:10 | 2021-12-18 | 2022-07-08 |
+| [FRIENDS GO FOE](https://open.spotify.com/track/4RXo0smHrIPDjQRb67LYRv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [FRIENDS GO FOE](https://open.spotify.com/album/3rLOkDqmEaHahlivtaZqIv) | 2:38 | 2023-01-11 |  |
 | [Full of scars \(Feat.Lil Gimchi\)](https://open.spotify.com/track/1JVNIgNcoYqmdCxxpe2lQK) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Full of scars](https://open.spotify.com/album/0adY4FBTAKkaY7iLl1nmlp) | 2:52 | 2021-12-29 | 2022-07-02 |
 | [FURY \(feat\. Nucksal, RHYME\-A\- & Basick\)](https://open.spotify.com/track/7d5xtJWSRwuClKVWRYbFrd) | [Cream Villa](https://open.spotify.com/artist/6sl8GvCAVaYrRuLX7ajhk8), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [RHYME\-A\-](https://open.spotify.com/artist/73JOTrZLsGpGLhSqtJrdG8) | [FURY](https://open.spotify.com/album/2MhcBRn0UaIgleT8RqrtOm) | 5:43 | 2022-11-22 |  |
 | [FUXX THAT SHXX!](https://open.spotify.com/track/64ry0rj8bKfAy187cuhTeP) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TakeOne](https://open.spotify.com/artist/7MOQ2DWJNk69Hc0gqy6K7F) | [TOYSTORY2](https://open.spotify.com/album/5m6DfEcqccjMxUfBykhNaO) | 3:33 | 2022-02-03 | 2022-06-08 |
@@ -466,6 +467,7 @@
 | [MONEY](https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 2:48 | 2021-12-18 | 2022-07-07 |
 | [MONEY GAME](https://open.spotify.com/track/3I0U0qLpokurgArQly7sk3) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [MONEY GAME](https://open.spotify.com/album/0SLApxKJwQWBvXdrtkBS4p) | 3:50 | 2021-12-21 | 2022-06-04 |
 | [Money Warfare \(Feat\. Royal 44\)](https://open.spotify.com/track/4bF12yPC7eLWokTFYmhehx) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Gangnam EP](https://open.spotify.com/album/37UlgFjxwn0Q67WCJOqnvF) | 2:46 | 2022-08-15 | 2022-11-02 |
+| [Monster \(feat.노윤하\)](https://open.spotify.com/track/0MsOPluJ1VgCND8FgQEFBx) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [BLACK STREET](https://open.spotify.com/album/14Rb4SqwyoqIIDagxB8Iqm) | 2:36 | 2023-01-11 |  |
 | [MORAESIGYE](https://open.spotify.com/track/63dt1BEeb05e452S14uTRB) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:48 | 2021-12-18 | 2022-07-08 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-06-30 | 2022-09-23 |
 | [Moshpit Only \(Feat\. Paul Blanco\)](https://open.spotify.com/track/14J3fFtcGjaGqReC9bnQAz) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 2:21 | 2022-10-19 | 2023-01-04 |

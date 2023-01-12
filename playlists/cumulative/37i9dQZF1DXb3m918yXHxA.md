@@ -4,7 +4,7 @@
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-114 songs - 7 hr 55 min
+115 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,13 +59,14 @@
 | [Let's Go Up](https://open.spotify.com/track/0cP6MyvBwQwYnGqNAS3lkf) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Ross \(Expanded Edition\)](https://open.spotify.com/album/4AyA2xN6aVVDaGfGqFIDfQ) | 4:02 | 2022-02-12 | 2022-07-29 |
 | [Lido Shuffle](https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 3:41 | 2021-12-20 |  |
 | [Love Never Felt so Good](https://open.spotify.com/track/7l5S791OPaOUQPWnQcN4AS) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [A Special Part of Me \(Bonus Track Version\)](https://open.spotify.com/album/67p4rsyWvjZp7Wsvnj3xPK) | 4:18 | 2022-02-12 | 2022-04-29 |
+| [Love Never Felt So Good](https://open.spotify.com/track/0UkVtmw0ZzEd9vzAa7Ocnu) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [A Special Part of Me](https://open.spotify.com/album/0fsaqMo4DhrOmjOiPl6bBp) | 4:19 | 2022-07-28 |  |
 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 | 2021-12-20 |  |
 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 | 2021-12-20 |  |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2021-12-20 |  |
 | [Lovin', Touchin', Squeezin'](https://open.spotify.com/track/0VQ0n5gMgJLNixG8BfWBT5) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Evolution](https://open.spotify.com/album/4hKBS94EEP9PaYxuK5tisQ) | 3:50 | 2021-12-20 |  |
 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 | 2021-12-20 |  |
 | [Lucky](https://open.spotify.com/track/0QASzWME81nAbhjV1Tdjie) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Love Life](https://open.spotify.com/album/5SIj1XbgMnWPAbBSJ9nii4) | 2:50 | 2022-02-12 | 2022-07-13 |
-| [Magic](https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 4:31 | 2021-12-20 |  |
+| [Magic](https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 4:31 | 2021-12-20 | 2023-01-12 |
 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 | 2022-02-12 | 2022-07-29 |
 | [Minute by Minute](https://open.spotify.com/track/37oLDb3119IdKSIFQmSGRj) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:26 | 2021-12-20 |  |
 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 | 2021-12-20 |  |

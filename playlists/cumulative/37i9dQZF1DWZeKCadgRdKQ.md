@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-519 songs - 1 day 5 hr 22 min
+520 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [What You Love You Must Love Now](https://open.spotify.com/track/3L0fPX8biELkH57fF3Exkd) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/3tpwV2Th7Q7sS7TzeE4viK) | 5:22 | 2019-05-26\* | 2021-05-18 |
 | [When They Come](https://open.spotify.com/track/100jBpD7nuiMriR7ErXQ9S) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [When They Come](https://open.spotify.com/album/2RBZ6bC1VSBugVSV3GXiEY) | 4:22 | 2019-12-31 | 2021-03-14 |
 | [When You Left](https://open.spotify.com/track/1uu52K2fxY7Hl4LQ8AtTyY) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [When You Left](https://open.spotify.com/album/2xgM5u3ZY5wNvMF4hZGEn9) | 2:57 | 2020-06-19 |  |
-| [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-06-19\* |  |
+| [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-06-19\* | 2023-01-12 |
 | [Wild Flowers](https://open.spotify.com/track/3j2VxSCmFJcrNZ6QR7e8DR) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Wild Flowers](https://open.spotify.com/album/029AFhYiRp84M6nfrpXTcU) | 2:14 | 2020-10-08 |  |
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2019-09-14 | 2022-11-18 |
 | [Will to Live](https://open.spotify.com/track/3FoVLAXDlxCrGXZD6ppT85) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Will to Live](https://open.spotify.com/album/6EHCbvJVYCY9C7SrTLOjIZ) | 2:15 | 2020-09-17 |  |
@@ -522,6 +522,7 @@
 | [You Gotta Keep Moving](https://open.spotify.com/track/59vQSmnGRmNg2Bo3oDWZrY) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 4:09 | 2019-06-19\* | 2020-08-07 |
 | [You Have Done Well](https://open.spotify.com/track/2XxHmtjVyUvq0YngQPrffh) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Fields Of Moab](https://open.spotify.com/album/0koXNisSlKiZui2102JtVx) | 4:12 | 2019-06-19\* | 2021-09-14 |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-08-30 | 2021-09-04 |
+| [you're just visiting](https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [you're just visiting](https://open.spotify.com/album/4GCvPLx8vEKWmwOAvvovHt) | 1:46 | 2023-01-11 |  |
 | [Your First Light My Eventide](https://open.spotify.com/track/1wB11k8gqugetTqQmbmN9E) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Seasons, Pt\. 1](https://open.spotify.com/album/75kov09rYLhJ3kHI81kWb8) | 5:10 | 2019-05-26\* | 2019-06-27 |
 | [You’re So Very Far Away](https://open.spotify.com/track/6IhFOgNP7YeQ3PoI8kcRLn) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Lifenotes](https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4) | 2:59 | 2019-05-26\* | 2020-08-07 |
 | [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-10-15 |  |

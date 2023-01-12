@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,483 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,624 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 56 | [Whole Lotta Rosie](https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Mixtape Volume 1](https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h) | 3:31 |
 | 57 | [Uncle Sam Blues \- Live](https://open.spotify.com/track/3YqtzrRTFoEUWdFXxmFHJP) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Hot Tuna](https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL) | 4:57 |
 | 58 | [Like Crying \(with Noel Gallagher\) \- Live from The London Palladium](https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 2:38 |
-| 59 | [Love In Vain Blues \- Studio](https://open.spotify.com/track/2uzGLzv8DPmXrlBfdR9dU8) | [Peter Green Splinter Group](https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC) | [The Robert Johnson Songbook](https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX) | 4:48 |
-| 60 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 |
+| 59 | [I'm a Woman](https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8) | [Louise Phelan](https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc), [Octavio Herrero](https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB) | [Azules](https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf) | 4:07 |
+| 60 | [Love In Vain Blues \- Studio](https://open.spotify.com/track/2uzGLzv8DPmXrlBfdR9dU8) | [Peter Green Splinter Group](https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC) | [The Robert Johnson Songbook](https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX) | 4:48 |
 | 61 | [Stop Messin’ Round \(Live\)](https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 3:49 |
 | 62 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
-| 63 | [You Need Love](https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:55 |
+| 63 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 |
 | 64 | [Love That Burns \(with Rick Vito\) \- Live from The London Palladium](https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Rick Vito](https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 5:54 |
 | 65 | [There's A Bright Side Somewhere](https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [River Of Time](https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU) | 2:59 |
-| 66 | [I'm a Woman](https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8) | [Louise Phelan](https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc), [Octavio Herrero](https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB) | [Azules](https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf) | 4:07 |
+| 66 | [You Need Love](https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:55 |
 | 67 | [Need Your Love So Bad](https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 3:27 |
 | 68 | [I Can't Stop Loving You](https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [That's What I Say](https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK) | 4:47 |
 | 69 | [Still Got the Blues](https://open.spotify.com/track/4foKEzs442JODnkwNRro1R) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v) | 5:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 79 | [Tom Cat Blues](https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r) | 3:03 |
 | 80 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 5:57 |
 
-Snapshot ID: `MTY3MzAyOTM5NCwwMDAwMDAwMGFhZDM1MDdiYjAyYWYyM2JjMDM0YzRlMzJhOTNhNGU4`
+Snapshot ID: `MTY3MzAyOTM5NCwwMDAwMDAwMDU4YTNhMzkxOWU3MjVmZmYwNjRmY2U5ZGZmYzk4OGMx`

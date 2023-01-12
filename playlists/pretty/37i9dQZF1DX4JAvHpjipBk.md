@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Skrillex, NewJeans, Popcaan & Drake, Ice Spice, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,031,878 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,032,266 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 41 | [Death in a Constellation](https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu), [Levingtquatre](https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA) | [Death in a Constellation](https://open.spotify.com/album/4noSmDY9LL8oRSCXaHti9A) | 4:29 |
 | 42 | [Wasted](https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Wasted](https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x) | 3:05 |
 | 43 | [Used to Love You](https://open.spotify.com/track/6T4uabGkWUegfv3O2QiwyZ) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Used to Love You](https://open.spotify.com/album/3UJ3kelJ5onDDfiz8Mbu2j) | 3:00 |
-| 44 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:24 |
+| 44 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 45 | [Thru The Week](https://open.spotify.com/track/2hKPymvrEGzloa4dShEMkw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Thru The Week](https://open.spotify.com/album/2gUrIbJA00fdERuqhLEKit) | 2:50 |
 | 46 | [GO BACK](https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [GO BACK](https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1) | 2:37 |
 | 47 | [Good to You](https://open.spotify.com/track/53qqPV5HAqX31Nj9Mr1qNe) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Good to You](https://open.spotify.com/album/5f43PoVkqQjAXWIU14Djux) | 3:45 |

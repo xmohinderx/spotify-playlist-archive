@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 394396,
+  "num_followers": 394362,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGM1YTE2NWM3MTBmNGU4YmZkN2UzNmFkYTQyOTdhZDU2",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGY1YTIzNjliYTk5ZDcyYzM3YWVhNWE1M2ZlMDJlNzY4",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "You're Free",
         "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 167298,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2022-06-30 22:02:00",

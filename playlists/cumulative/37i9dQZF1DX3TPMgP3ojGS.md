@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,634 songs - 3 day 1 hr 36 min
+1,635 songs - 3 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Bestemor](https://open.spotify.com/track/1zzfCsksDj9WxWiPEoYN2g) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Bestemor](https://open.spotify.com/album/2A33ag5jSuMJVt9j6wqXfU) | 2:21 | 2021-04-27 | 2021-12-20 |
 | [Between Different Skies](https://open.spotify.com/track/7nPefh4riwEQXhiqXJQnFG) | [Kasper Schill](https://open.spotify.com/artist/2P2QGjpDk60svsWQGidU0J) | [Versus](https://open.spotify.com/album/6ehOCDefU91mg0nczNOteq) | 2:46 | 2021-03-15 | 2021-05-21 |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2021-03-22 | 2021-05-16 |
-| [Beyond](https://open.spotify.com/track/0B5emsAmwLIx51EPR5W90G) | [Tormund](https://open.spotify.com/artist/2bIXvuS0oWRDjDssmmct8G) | [Beyond](https://open.spotify.com/album/256IW7GzDyiWn4Hn9wtLAH) | 2:44 | 2022-12-24 |  |
+| [Beyond](https://open.spotify.com/track/0B5emsAmwLIx51EPR5W90G) | [Tormund](https://open.spotify.com/artist/2bIXvuS0oWRDjDssmmct8G) | [Beyond](https://open.spotify.com/album/256IW7GzDyiWn4Hn9wtLAH) | 2:44 | 2022-12-24 | 2023-01-12 |
 | [Beyond Imagination](https://open.spotify.com/track/5z40PeXEmVwWes8PQI7oZq) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beyond Imagination](https://open.spotify.com/album/0se06XbSZrjmsMLnuSFnrt) | 4:31 | 2021-05-04 | 2022-07-27 |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-03-29 | 2022-12-24 |
 | [Birds](https://open.spotify.com/track/1jVBcBgb9bh4CurYgJkrDu) | [Libor Novacic](https://open.spotify.com/artist/1aZfmCzsmjM5KBetB8TPSp) | [Birds](https://open.spotify.com/album/2IbETj2FMXUWLENaiH30Em) | 2:17 | 2021-05-22 | 2022-04-15 |
@@ -1342,6 +1342,7 @@
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-04-14 |  |
 | [Synchronicity](https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:09 | 2021-03-20 | 2022-01-09 |
 | [Synesthesia \(Scaled Down Version\)](https://open.spotify.com/track/50030Xdu99SG9krul5IlNL) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 1:54 | 2021-03-09 | 2022-04-20 |
+| [Sérénade Pour Glaçons](https://open.spotify.com/track/2PLSyXt3DrKNzjdHwH4hkM) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [Sérénade Pour Glaçons](https://open.spotify.com/album/4Kfio1b9SK8nG3avRDzTMc) | 3:01 | 2023-01-12 |  |
 | [Tail Lights](https://open.spotify.com/track/38Li7bOUatKi99v9U4FqOo) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Tail Lights](https://open.spotify.com/album/0zFgil19diyLhpZJkfWwm3) | 3:26 | 2021-03-09 | 2022-04-16 |
 | [Take Me Back](https://open.spotify.com/track/4u8aNYQTJdyBvpsSwz05I6) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Take Me Back](https://open.spotify.com/album/69tYSDWT80qmZXsBRaYlhG) | 2:21 | 2021-04-22 | 2021-10-11 |
 | [Take Me Somewhere Else](https://open.spotify.com/track/37EJ2kCLr8RoXDxYE5cHrF) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Take Me Somewhere Else](https://open.spotify.com/album/0PRMKJ747Z8clDXDAEVptv) | 3:52 | 2021-05-06 | 2022-04-21 |

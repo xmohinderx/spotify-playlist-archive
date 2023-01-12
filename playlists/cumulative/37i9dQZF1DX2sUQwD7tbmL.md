@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-500 songs - 1 day 4 hr 24 min
+501 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2021-05-01 | 2022-04-14 |
 | [Stay Together for the Kids](https://open.spotify.com/track/5E4BjzIU8Ci87Tr9oXZcNV) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Stay Together for the Kids](https://open.spotify.com/album/4O3HK2VsK8Byx6K8N0SiUf) | 2:34 | 2021-05-01 | 2022-04-14 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2022-04-13 | 2023-01-06 |
+| [Stop Sign](https://open.spotify.com/track/0rUy5il8xc12tbAkpHaubN) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/7FLYPQ543VVhvyrC1qIBH1) | 3:01 | 2023-01-12 |  |
 | [Stories](https://open.spotify.com/track/2RZZTpMYCpb86ZMmrnAbe9) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/4OuC5XWbbEuuo1Q7RetSLV) | 3:39 | 2021-05-01 | 2022-04-13 |
 | [Stressed](https://open.spotify.com/track/6hvs3DIe8eG6IdhehKz31I) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Stressed](https://open.spotify.com/album/6ZxGRxOayLqvUjhQycTW5R) | 1:37 | 2021-05-01 | 2022-04-14 |
 | [Summer](https://open.spotify.com/track/3YmTTULju4GaSlnkizJPrq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA) | 4:02 | 2021-05-01 | 2022-02-28 |
@@ -458,7 +459,7 @@
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2022-04-13 |  |
 | [To Seattle](https://open.spotify.com/track/3aJECP6Q5TsoGixvgU5dhp) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Pollen](https://open.spotify.com/album/1BsPPyv9hzDSyvyFin3WKT) | 3:26 | 2021-05-01 | 2022-04-14 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-04-13 |  |
-| [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 |  |
+| [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 | 2023-01-12 |
 | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/track/4NY3dbgimhDmj4tFt4tIzS) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/album/1w8SeeBNLtPMoIBfgzHKcv) | 2:24 | 2021-05-01 | 2022-04-14 |
 | [Training Montage](https://open.spotify.com/track/6NFUlJU8cFmys9mUpUNbiq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Training Montage](https://open.spotify.com/album/2iUJhqOwLcqQD7gdrhCxvV) | 4:28 | 2022-06-03 | 2022-06-18 |
 | [Trajic Majic](https://open.spotify.com/track/42wRZeLbhzR3Fv7pMndCUQ) | [Stop Light Observations](https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ) | [Trajic Majic](https://open.spotify.com/album/2TPO59tl3MweoBbXgpTPAg) | 3:13 | 2022-07-01 | 2022-07-07 |

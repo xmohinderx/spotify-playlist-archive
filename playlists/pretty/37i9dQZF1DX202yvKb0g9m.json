@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 71732,
+  "num_followers": 71968,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDVmMGRmOGVjMWIzNDkyM2I1YWZjZjg1Y2ExYTdjYWE4",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGQzZDkyY2U1ZjFkZmE1MzdhNDg5ODc5ZWE4YjE2ZjRl",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Acid Tracks",
-        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 739626,
-      "name": "Acid Tracks",
-      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Garden of Eden",
         "url": "https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 241875,
       "name": "The Garden of Eden (A Himalayan Song)",
       "url": "https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Acid Tracks",
+        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 739626,
+      "name": "Acid Tracks",
+      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Adventures in Acid Boogie, Vol.2",
         "url": "https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "For Those Who",
-        "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
       },
       "artists": [
         {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 386070,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -699,6 +683,22 @@
       "duration_ms": 247000,
       "name": "Miserablism - 2018 Remaster",
       "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "For Those Who",
+        "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 386070,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
     },
     {
       "added_at": "2021-10-22 11:07:27",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-378 songs - 22 hr 8 min
+379 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-11-19 | 2022-02-09 |
-| [My Heart’s on Fire](https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Qvckslvr](https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M) | [My Heart’s on Fire](https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2) | 3:11 | 2022-10-27 |  |
+| [My Heart’s on Fire](https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Qvckslvr](https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M) | [My Heart’s on Fire](https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2) | 3:11 | 2022-10-27 | 2023-01-12 |
 | [My Mind \- Badjokes Remix](https://open.spotify.com/track/3wEYYSOSwCF7iSA7b2Cf9b) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [Introspection \(Remixes\)](https://open.spotify.com/album/2u680EuTLOLYxNnEUet4lu) | 4:11 | 2022-12-13 |  |
 | [My Mind \- Badjokes Remix](https://open.spotify.com/track/7uF9c7MgOQryPCXa7We2xM) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [My Mind \(Badjokes Remix\)](https://open.spotify.com/album/2ddkGLWOrggjL1zFn2pXZL) | 4:11 | 2022-11-25 |  |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 | 2022-04-29 |
@@ -283,6 +283,7 @@
 | [Royalty](https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Royalty](https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ) | 2:57 | 2022-09-01 | 2022-11-05 |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Sailor's Cry \- djimboh Remix](https://open.spotify.com/track/7mx7kAWl6N5R7D243wCIJC) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [A Place For Everything \(The Remixes\)](https://open.spotify.com/album/51aOQOP4DhqzNkXtVCa8RR) | 3:51 | 2022-12-16 |  |
+| [Sapphire](https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Sapphire](https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56) | 3:13 | 2023-01-11 |  |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 | 2022-10-28 |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-25 |  |

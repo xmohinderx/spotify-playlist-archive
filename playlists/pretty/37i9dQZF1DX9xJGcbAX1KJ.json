@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 10935,
+  "num_followers": 10947,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDVlYTBkZjhmZjBhNTUxM2VjNjY2Y2JjOWIxZDM1ZDAy",
+  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMGMxYjgwZDBmYWVlMTM3YmQzZTQzMjVlNjQxYzY4Njc2",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Imagine Dragons (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 303433,
-      "name": "Blank Space/Stand By Me - Live From Spotify London",
-      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Imagine Dragons (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 303433,
+      "name": "Blank Space/Stand By Me - Live From Spotify London",
+      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -351,22 +351,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Old Tyme Religion",
-        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Old Tyme Religion",
+        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
+        }
+      ],
+      "duration_ms": 137426,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -419,22 +419,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 261665,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -563,6 +563,42 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 172992,
+      "name": "Girls Just Wanna Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Little Talks",
+        "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
+      },
+      "artists": [
+        {
+          "name": "Julia Sheer",
+          "url": "https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF"
+        },
+        {
+          "name": "Jon D",
+          "url": "https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -591,42 +627,6 @@
       "duration_ms": 187823,
       "name": "September - Recorded at The Tracking Room Nashville",
       "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Little Talks",
-        "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
-      },
-      "artists": [
-        {
-          "name": "Julia Sheer",
-          "url": "https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF"
-        },
-        {
-          "name": "Jon D",
-          "url": "https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 172992,
-      "name": "Girls Just Wanna Have Fun - Acoustic",
-      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -663,22 +663,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Electric Feel",
-        "url": "https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+        "name": "Electric Feel",
+        "url": "https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L"
       },
       "artists": [
         {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 243053,
-      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
+      "duration_ms": 199653,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -723,6 +707,22 @@
       "duration_ms": 199118,
       "name": "Walls",
       "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -827,18 +827,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe"
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 234135,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S"
+      "duration_ms": 148900,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
     }
   ],
   "unique_name": "Under the Covers",

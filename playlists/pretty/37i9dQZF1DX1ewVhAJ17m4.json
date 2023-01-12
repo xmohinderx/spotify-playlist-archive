@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 539832,
+  "num_followers": 539984,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDRkNjMwOTc4NTk4NDljMmEwZGRkZTM3MjkyYmU4NWFl",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMGJkZDc1NmJlMDhhYzY4OTMzNWUyMTlhYmM1ZGJhMGE0",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "i'm not crying you're crying",
+        "url": "https://open.spotify.com/album/1kBr8aY2qHp1JE43Kadnby"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "i'm not crying you're crying",
+      "url": "https://open.spotify.com/track/2EEBYFmjdsVLmDhXXGLfZi"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Baku's Revenge",
         "url": "https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "i'm not crying you're crying",
-        "url": "https://open.spotify.com/album/1kBr8aY2qHp1JE43Kadnby"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "i'm not crying you're crying",
-      "url": "https://open.spotify.com/track/2EEBYFmjdsVLmDhXXGLfZi"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Dream Born Again",
-        "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 261058,
-      "name": "Dream Born Again",
-      "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
+      "duration_ms": 217989,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -591,18 +591,34 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Groundhog Day",
-        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
+        "name": "2009",
+        "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
       },
       "artists": [
         {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+          "name": "Aryia",
+          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
         }
       ],
-      "duration_ms": 217989,
-      "name": "Groundhog Day",
-      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+      "duration_ms": 191145,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Dream Born Again",
+        "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 261058,
+      "name": "Dream Born Again",
+      "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -619,22 +635,6 @@
       "duration_ms": 188374,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "2009",
-        "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
-      },
-      "artists": [
-        {
-          "name": "Aryia",
-          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
-        }
-      ],
-      "duration_ms": 191145,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 179175,
+      "name": "Teenage Runaways",
+      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 191871,
       "name": "Juice",
       "url": "https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 179175,
-      "name": "Teenage Runaways",
-      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -875,6 +875,26 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "What's Up?",
         "url": "https://open.spotify.com/album/471qHpHrvs92sYyQgPHLYz"
       },
@@ -907,22 +927,18 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
         }
       ],
-      "duration_ms": 175172,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -939,22 +955,6 @@
       "duration_ms": 154830,
       "name": "Careless Kind",
       "url": "https://open.spotify.com/track/3h8L8qrK6GzE5JoHjOU9Oz"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "The King and Queen of Gasoline",
-      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 165682,
       "name": "My Type",
       "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "The King and Queen of Gasoline",
+      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
+        "name": "Shaking Your Mind",
+        "url": "https://open.spotify.com/album/3WKrQ041ZovsJcb8K4rpD9"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Shaking Your Mind",
+      "url": "https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
         "name": "I'm Close Behind",
         "url": "https://open.spotify.com/album/1bwTocuXbenK4kaIU2Zoii"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 156492,
       "name": "I'm Close Behind",
       "url": "https://open.spotify.com/track/5Q3gEtiKbGA5ZxQMVcnE6O"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
-        "name": "Shaking Your Mind",
-        "url": "https://open.spotify.com/album/3WKrQ041ZovsJcb8K4rpD9"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Shaking Your Mind",
-      "url": "https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf"
     },
     {
       "added_at": "2022-11-10 17:53:01",

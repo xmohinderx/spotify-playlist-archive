@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Instrumental covers of favourites played on ukulele. ",
+  "description": "",
   "name": "Instrumental Ukulele Covers",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 198349,
       "name": "Adore You - Ukulele Version",
       "url": "https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5"
+    },
+    {
+      "album": {
+        "name": "All I Have To Do Is Dream",
+        "url": "https://open.spotify.com/album/2zzP8Gk39MkAUy6URU8UOQ"
+      },
+      "artists": [
+        {
+          "name": "Leroy Tompkins",
+          "url": "https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164631,
+      "name": "All I Have To Do Is Dream",
+      "url": "https://open.spotify.com/track/0uRUYZp0xw5AZsP6Pgpuk0"
     },
     {
       "album": {

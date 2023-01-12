@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 22299,
+  "num_followers": 22317,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDMyOGYzZjg5Mzc1ODU1MGU4MThmZTFmOTA5NTA4YjRl",
+  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDZkZWI5OGZiNzVhYWFjODJjNjIyNTNlZjA0YzM1Zjkw",
   "tracks": [
     {
       "added_at": "2023-01-09 13:08:27",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 374973,
-      "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
-      "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 141333,
       "name": "You Are The Sunshine Of My Life - Live/1995",
       "url": "https://open.spotify.com/track/6KVDNjUSJc035LgkrPaGSD"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 374973,
+      "name": "Distant Lover - Live At Oakland Coliseum, CA/1974",
+      "url": "https://open.spotify.com/track/5JUbydhL4lOuxYB4nWAZ0W"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "The Roots Come Alive",
         "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 530866,
       "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
       "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Coming Home - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Coming Home - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Lalah Hathaway Live!",
+        "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Little Ghetto Boy (Radio Edit)",
+      "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 310091,
       "name": "Claustrophobic (feat. Keyon Harrold) - Live",
       "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Lalah Hathaway Live!",
-        "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
-      },
-      "artists": [
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Little Ghetto Boy (Radio Edit)",
-      "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
-        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 367186,
-      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
-      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "These Songs for You, Live!",
         "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 355400,
       "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
       "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
+        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 367186,
+      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
+      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 348733,
       "name": "You Can't See for Lookin' - Live",
       "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Invisible Chains Live from Nyc",
-        "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
+        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
+        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
       },
       "artists": [
         {
-          "name": "Raul Mid\u00f3n",
-          "url": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 572680,
-      "name": "Sunshine \"I Can Fly\" (Live)",
-      "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
+      "duration_ms": 210666,
+      "name": "These Arms Of Mine",
+      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
     }
   ],
   "unique_name": "Soul Live",

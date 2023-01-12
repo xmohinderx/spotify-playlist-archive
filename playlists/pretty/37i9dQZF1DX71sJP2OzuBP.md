@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,687 likes - 105 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,707 likes - 105 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 26 | [我的她 \(《她和她的她》片尾曲\)](https://open.spotify.com/track/0c21TnS3BYTPR1uqDEE3ve) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [我的她 \(《她和她的她》片尾曲\)](https://open.spotify.com/album/177A2ECTxI8kD5nYOx6EgK) | 4:31 |
 | 27 | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe) | 4:07 |
 | 28 | [一首老歌](https://open.spotify.com/track/0KCQcEdZSyBFEvUlZO9U4Z) | [崔子格](https://open.spotify.com/artist/6UHbp6BjDzZtVMDLjJi1Bl) | [一首老歌](https://open.spotify.com/album/1Ilj23Yodz0SlC0cpPytkF) | 3:55 |
-| 29 | [片段](https://open.spotify.com/track/5lkcOFg74hJxlmx6lXRpzs) | [黄宇哲](https://open.spotify.com/artist/02NBct5vR3PIuO3wTmIlFY) | [片段](https://open.spotify.com/album/0YJjy0zYR8DiUhuARoPuZz) | 4:30 |
+| 29 | [片段](https://open.spotify.com/track/5lkcOFg74hJxlmx6lXRpzs) | [黃宇哲](https://open.spotify.com/artist/4KJZRqeJdxhuaE9ZxYzDUr) | [片段](https://open.spotify.com/album/0YJjy0zYR8DiUhuARoPuZz) | 4:30 |
 | 30 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
 | 31 | [换个角度](https://open.spotify.com/track/6RqLe2IKHFtflmkADqyT3W) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [换个角度](https://open.spotify.com/album/4HaBUU0v5HHq7hDL3uHnmy) | 3:39 |
 | 32 | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/track/21DC233fhKEBRa2L3Pfjdj) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/album/2miYO5t02RgDLm0YBhmBrt) | 3:09 |

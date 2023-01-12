@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-100 songs - 5 hr 46 min
+102 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,10 +93,12 @@
 | [Sweet Existence](https://open.spotify.com/track/5jG0XIjT3KzT7SnJLI3rPA) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Sweet Existence](https://open.spotify.com/album/2KGGTWJXwVPPFN2ndHUPp0) | 3:04 | 2022-11-11 |  |
 | [The Escape](https://open.spotify.com/track/0VJ0mF41QVvhfRSYDHcJTg) | [Shaban Hashmi](https://open.spotify.com/artist/7DNrBvOfstbGggvLlBql7k) | [The Escape](https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e) | 2:57 | 2022-05-26 |  |
 | [The Ocean Of Night](https://open.spotify.com/track/3PZpaI1cvrnVJsWVFH05Dr) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 7:01 | 2022-05-26 |  |
+| [The Shaman Drum](https://open.spotify.com/track/6rvhmEwAscjPaCPeLWX4P2) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [Umbra](https://open.spotify.com/album/2jWji8ZKEpNsoJzvFOkYLf) | 1:36 | 2023-01-11 |  |
 | [The Spirit of the Drum](https://open.spotify.com/track/2TFtiG9PkXpRezasuBiS0h) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:32 | 2022-05-26 |  |
 | [Thunderbrand](https://open.spotify.com/track/33qhC5OfZdelrQgvARr2eB) | [Leafgolden](https://open.spotify.com/artist/0jiudEshVEEN5Uo6gmtrLP) | [Thunderbrand](https://open.spotify.com/album/3kBafXQoV4nipuxyBmYiYe) | 2:18 | 2022-05-26 |  |
 | [Time to Travel](https://open.spotify.com/track/1NqnBiNkkk3tdCErFQLty3) | [Five Senses Meditation Sanctuary](https://open.spotify.com/artist/2yQankcHwEvfEbpyRXqeVz) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 3:34 | 2022-05-26 |  |
 | [Trade Of Secrets](https://open.spotify.com/track/5C7NrlDJsXEPG3D6FQCtOX) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Ghostly Dome](https://open.spotify.com/album/6wAt1Jv6LDK1D23tqgW8h8) | 1:47 | 2022-10-14 |  |
+| [Umbra](https://open.spotify.com/track/0fntC0LdWp1KTZtxQBab5Z) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [Umbra](https://open.spotify.com/album/2jWji8ZKEpNsoJzvFOkYLf) | 2:18 | 2023-01-11 |  |
 | [Vistaar](https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Vistaar](https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ) | 3:32 | 2022-09-30 |  |
 | [Welcome to Arcturus](https://open.spotify.com/track/6bSE70Sl5N39AikEnmfNDz) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 8:30 | 2022-05-26 |  |
 | [Well of Hope](https://open.spotify.com/track/1nL2bxBSNHt8tFI9T80XWn) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Well Of Hope](https://open.spotify.com/album/53dEbBBAkicA0G4mBDPkxc) | 3:08 | 2022-11-11 |  |

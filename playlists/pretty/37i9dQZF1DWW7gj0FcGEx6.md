@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,757 likes - 137 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,926 likes - 137 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 24 | [The Prince That Was Promised](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 |
 | 25 | [Teacher](https://open.spotify.com/track/6xxpRXHpaEtF0hAU5wNA9O) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [Emily: Original Motion Picture Soundtrack](https://open.spotify.com/album/6PufCfyhwd6AuIUXvDsgMc) | 2:27 |
 | 26 | [Nature is Timeless \- from "The Menu" Soundtrack](https://open.spotify.com/track/3m7Lq24EfeviUmmV19vuyZ) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Nature is Timeless \(from "The Menu" Soundtrack\)](https://open.spotify.com/album/0x0nfTbx7cdV7DBcEDc3FS) | 2:42 |
-| 27 | [The Banished Angel \- From "The Musical Anthology of His Dark Materials Series 3"](https://open.spotify.com/track/2eukTYngjYXpq61xu2b0Mn) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Banished Angel \(From "The Musical Anthology of His Dark Materials Series 3"\)](https://open.spotify.com/album/1va9x2K79Q7otoB5PGB9Q1) | 2:41 |
+| 27 | [The Banished Angel \- From "The Musical Anthology of His Dark Materials" Series 3](https://open.spotify.com/track/2eukTYngjYXpq61xu2b0Mn) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Banished Angel \(From "The Musical Anthology of His Dark Materials Series 3"\)](https://open.spotify.com/album/1va9x2K79Q7otoB5PGB9Q1) | 2:41 |
 | 28 | [Maya’s Adoption Party](https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH) | [Starr Parodi](https://open.spotify.com/artist/4wMTcGiDCOJ5XkpbeyMU3m), [Jeff Eden Fair](https://open.spotify.com/artist/05BkDv6lrBLduTzqJABTqB) | [The Storied Life of A.J\. Fikry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ewjDDOWk0vXaUiJjIkjun) | 2:21 |
 | 29 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 |
 | 30 | [Main Titles](https://open.spotify.com/track/0HY36x94MbEBf0ZNw0eHsP) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 2:36 |

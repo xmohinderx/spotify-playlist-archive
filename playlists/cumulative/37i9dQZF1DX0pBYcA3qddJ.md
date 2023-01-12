@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-217 songs - 13 hr 47 min
+218 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Antar \(After N\. Rimsky\-Korsakov\): No\. 7\. Ravel: Allegretto](https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Andre Dussollier](https://open.spotify.com/artist/4V1N8TlOwHVIw7INEEQnT3), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 5](https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr) | 1:05 | 2022-10-20 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-11-29 |  |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2022-10-20 |  |
+| [Aselestine](https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Aselestine](https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2) | 3:50 | 2023-01-10 |  |
 | [atoms:arpeggi](https://open.spotify.com/track/3bWs6s31PD86lrCnqCzIXg) | [カムパネルラ](https://open.spotify.com/artist/18SAolJ2AN8sWD4phnpUip) | [good night atoms](https://open.spotify.com/album/1NRIaCnYcCSEQVQeAW6pnv) | 5:15 | 2022-10-20 | 2022-11-30 |
 | [Babylonia](https://open.spotify.com/track/2A7oXmM3Xmiick54UNgtmB) | [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99) | [Babylonia](https://open.spotify.com/album/1De6SSZ08u82FIBspPG68M) | 2:46 | 2022-12-13 |  |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-10 |  |

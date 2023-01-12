@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 82351,
+  "num_followers": 82406,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMDZkMTIyMmE1N2ZjNTc4NmExZmNmMGQyMGUwYTY5ZGEy",
+  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMDJjMjE3NDgyYTNjMjQzMGUwMjJjNDY0NWZkYWU5ZWRj",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
         }
       ],
-      "duration_ms": 740360,
-      "name": "Tannhauser: Venusberg Music",
-      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
+      "duration_ms": 441000,
+      "name": "Tannhauser, Introduction to Act III: Tannhauser's Pilgrimage",
+      "url": "https://open.spotify.com/track/1EcnbSpPj7wEl17UxYltCj"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
         }
       ],
-      "duration_ms": 441000,
-      "name": "Tannhauser, Introduction to Act III: Tannhauser's Pilgrimage",
-      "url": "https://open.spotify.com/track/1EcnbSpPj7wEl17UxYltCj"
+      "duration_ms": 740360,
+      "name": "Tannhauser: Venusberg Music",
+      "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -919,6 +919,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
+        "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
+      "url": "https://open.spotify.com/track/5ho9ShMe6OLEpJHAR1lUnQ"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Essentials",
         "url": "https://open.spotify.com/album/2J6V4iNZrA2YPl7ZA7H1tf"
       },
@@ -963,30 +987,6 @@
       "duration_ms": 510844,
       "name": "Lohengrin, WWV 75: Mein lieber Schwan!",
       "url": "https://open.spotify.com/track/2WSJaKbu2e3wfM4FuJh2fz"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
-        "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
-      "url": "https://open.spotify.com/track/5ho9ShMe6OLEpJHAR1lUnQ"
     },
     {
       "added_at": "2022-06-28 08:58:25",

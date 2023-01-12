@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-857 songs - 1 day 13 hr 28 min
+858 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Blue River](https://open.spotify.com/track/789zWw6YwOpoDXoyRXaG1R) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 3:21 | 2020-10-15 | 2021-05-20 |
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2021-11-25 | 2022-07-20 |
 | [Bon Vivant](https://open.spotify.com/track/4hyGf01l6PHL2npEnRNplP) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Bon Vivant](https://open.spotify.com/album/41POWCKe9ZWZ1CeUEwWE0z) | 2:44 | 2021-02-08 | 2022-06-08 |
-| [Born To Live](https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Born To Live](https://open.spotify.com/album/0MLSAK0yRUh7ptFnYAsEnI) | 2:46 | 2020-08-14\* |  |
+| [Born To Live](https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Born To Live](https://open.spotify.com/album/0MLSAK0yRUh7ptFnYAsEnI) | 2:46 | 2020-08-14\* | 2023-01-12 |
 | [Breakfast on the Balcony](https://open.spotify.com/track/4o800k0L50O5mIUB69SPyV) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In a Bar in Buenos Aires](https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ) | 2:29 | 2020-08-14\* | 2020-10-15 |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2021-07-08 | 2021-11-11 |
 | [Broken River](https://open.spotify.com/track/2sxEgzrFsAjBq0Yf3PBIfI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [The Great Migration](https://open.spotify.com/album/0fqDjNTc077SL0JcMAjKvF) | 2:55 | 2021-02-12 |  |
@@ -163,6 +163,7 @@
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-11-27 |  |
 | [Dans vos bras](https://open.spotify.com/track/5qHa8gZdBKxvseAyE2R2qe) | [Orson D'Aubigné](https://open.spotify.com/artist/1TSzEZWmeMMNQE3CwV7Mif) | [Dans vos bras](https://open.spotify.com/album/4HeFEWZ2s6t9u3lIzN6GLL) | 2:38 | 2020-08-20 | 2020-10-15 |
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-10-14 |  |
+| [Days](https://open.spotify.com/track/75mVGk9NnVwI1hC42MrvcG) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Poems](https://open.spotify.com/album/6VYkb4InDz4hHgarKcC8LH) | 2:23 | 2022-12-22 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 |  |
 | [De maan en de sterren](https://open.spotify.com/track/0aMrulmcr5uTQ6j0XNDzKg) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [De maan en de sterren](https://open.spotify.com/album/31t9EOOS1fxbjYZi7jk6yq) | 2:41 | 2020-08-14\* | 2021-10-11 |
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2020-08-14\* |  |

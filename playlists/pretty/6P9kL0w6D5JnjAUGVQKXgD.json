@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Biscits, Karen Harding, Armand Van Helden",
-  "num_followers": 48378,
+  "num_followers": 48380,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTY0MywxNzZhNzVjMTNiNjdmNTk2NzI0OWRmNjM0ZDA2MWEwNTdiZWJhMWUx",
+  "snapshot_id": "MTY0NCw2YWE5YmJkN2EwZTY4YzkxNDdkMDI2YzNiMGFjMDNmZDQwNTBiMzFk",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -109,30 +109,6 @@
       "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
     },
     {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 234411,
-      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
-    },
-    {
       "added_at": "2020-09-07 08:05:03",
       "album": {
         "name": "Pretty Please",
@@ -151,6 +127,26 @@
       "duration_ms": 145792,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB"
+    },
+    {
+      "added_at": "2021-01-28 23:01:05",
+      "album": {
+        "name": "100 Ways (MK Remix)",
+        "url": "https://open.spotify.com/album/6reU4scmYeENCV66zeZUVh"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "100 Ways - MK Remix",
+      "url": "https://open.spotify.com/track/7susKOmSCXt0OKBfzLWCeD"
     },
     {
       "added_at": "2022-08-12 15:41:02",
@@ -173,24 +169,28 @@
       "url": "https://open.spotify.com/track/0UVlIrfKC5mRs6IeUaicWL"
     },
     {
-      "added_at": "2021-01-28 23:01:05",
+      "added_at": "2022-10-25 15:41:02",
       "album": {
-        "name": "100 Ways (MK Remix)",
-        "url": "https://open.spotify.com/album/6reU4scmYeENCV66zeZUVh"
+        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
       },
       "artists": [
         {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 231480,
-      "name": "100 Ways - MK Remix",
-      "url": "https://open.spotify.com/track/7susKOmSCXt0OKBfzLWCeD"
+      "duration_ms": 234411,
+      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
       "added_at": "2022-09-15 18:16:02",
@@ -389,24 +389,24 @@
       "url": "https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi"
     },
     {
-      "added_at": "2022-10-12 15:44:02",
+      "added_at": "2022-10-07 15:41:02",
       "album": {
-        "name": "Nothing's Perfect",
-        "url": "https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B"
+        "name": "Stop Thinking (feat. Lights)",
+        "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
         }
       ],
-      "duration_ms": 186375,
-      "name": "Nothing's Perfect",
-      "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
+      "duration_ms": 292633,
+      "name": "Stop Thinking (feat. Lights)",
+      "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
     },
     {
       "added_at": "2022-07-29 15:41:02",
@@ -429,24 +429,24 @@
       "url": "https://open.spotify.com/track/4C28FaCpRVCCpmHTGOrFrV"
     },
     {
-      "added_at": "2022-10-07 15:41:02",
+      "added_at": "2022-10-12 15:44:02",
       "album": {
-        "name": "Stop Thinking (feat. Lights)",
-        "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
+        "name": "Nothing's Perfect",
+        "url": "https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 292633,
-      "name": "Stop Thinking (feat. Lights)",
-      "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
+      "duration_ms": 186375,
+      "name": "Nothing's Perfect",
+      "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
     },
     {
       "added_at": "2022-10-14 15:41:02",
@@ -513,20 +513,24 @@
       "url": "https://open.spotify.com/track/1w4Wfvt1qEfJ4Yt0CazObW"
     },
     {
-      "added_at": "2022-07-09 15:41:01",
+      "added_at": "2022-08-30 15:41:02",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+        "name": "The Best Part of Life (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+      "duration_ms": 198979,
+      "name": "The Best Part of Life (Imanbek Remix)",
+      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
     },
     {
       "added_at": "2022-11-26 15:41:02",
@@ -545,24 +549,20 @@
       "url": "https://open.spotify.com/track/3wGuEYCdndvABvj8KAYO0u"
     },
     {
-      "added_at": "2022-06-18 15:42:02",
+      "added_at": "2022-07-09 15:41:01",
       "album": {
-        "name": "Dichotomy",
-        "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 221028,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2022-12-16 15:41:02",
@@ -585,24 +585,24 @@
       "url": "https://open.spotify.com/track/2AbyjwPBJFfNu1RiTc4bkd"
     },
     {
-      "added_at": "2022-08-30 15:41:02",
+      "added_at": "2022-06-18 15:42:02",
       "album": {
-        "name": "The Best Part of Life (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
+        "name": "Dichotomy",
+        "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 198979,
-      "name": "The Best Part of Life (Imanbek Remix)",
-      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+      "duration_ms": 221028,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
     },
     {
       "added_at": "2022-09-09 15:41:02",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd"
     },
     {
+      "added_at": "2023-01-03 10:08:03",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/30IkUlyQDDF1kuobmVCSBo"
+      },
+      "artists": [
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 113149,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD"
+    },
+    {
       "added_at": "2022-06-18 15:42:02",
       "album": {
         "name": "Shivering (feat. Spiritbox)",
@@ -727,22 +743,6 @@
       "duration_ms": 300916,
       "name": "Shivering (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
-    },
-    {
-      "added_at": "2023-01-03 10:08:03",
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/30IkUlyQDDF1kuobmVCSBo"
-      },
-      "artists": [
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 113149,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD"
     },
     {
       "added_at": "2022-12-02 15:41:02",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
     },
     {
+      "added_at": "2022-12-09 15:41:02",
+      "album": {
+        "name": "TRIBAL SPACEMAN",
+        "url": "https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 236663,
+      "name": "TRIBAL SPACEMAN",
+      "url": "https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu"
+    },
+    {
       "added_at": "2022-09-08 15:43:02",
       "album": {
         "name": "Numb (Alok Remix)",
@@ -1499,22 +1515,6 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
-    },
-    {
-      "added_at": "2022-12-09 15:41:02",
-      "album": {
-        "name": "TRIBAL SPACEMAN",
-        "url": "https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 236663,
-      "name": "TRIBAL SPACEMAN",
-      "url": "https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu"
     },
     {
       "added_at": "2022-12-19 15:41:06",
@@ -1569,6 +1569,26 @@
       "url": "https://open.spotify.com/track/2JgciX6HkDVwRAU8e8VmR6"
     },
     {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 165779,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
+    },
+    {
       "added_at": "2022-03-02 15:42:03",
       "album": {
         "name": "Headlights (feat. KIDDO)",
@@ -1591,26 +1611,6 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
-    },
-    {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 165779,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
     },
     {
       "added_at": "2022-07-05 15:41:02",
@@ -1745,44 +1745,24 @@
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
     },
     {
-      "added_at": "2023-01-10 10:08:04",
+      "added_at": "2023-01-11 10:08:04",
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/0OTddAwPyKVordY4tAx6Li"
+        "name": "These Are The Times (feat. JRM)",
+        "url": "https://open.spotify.com/album/2OkqLVAw949KZZ8lgMMIdj"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/3s2eG9xSDGyd705tT0hD43"
-    },
-    {
-      "added_at": "2023-01-10 10:08:04",
-      "album": {
-        "name": "Chasing Stars (feat. James Bay)",
-        "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "JRM",
+          "url": "https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a"
         }
       ],
-      "duration_ms": 170457,
-      "name": "Chasing Stars (feat. James Bay)",
-      "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+      "duration_ms": 188656,
+      "name": "These Are The Times (feat. JRM)",
+      "url": "https://open.spotify.com/track/5YN0zHycJ0Yxz31A5QsVov"
     },
     {
       "added_at": "2023-01-10 10:08:04",
@@ -1809,24 +1789,48 @@
       "url": "https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn"
     },
     {
-      "added_at": "2023-01-10 10:08:04",
+      "added_at": "2023-01-11 10:08:04",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7B6EfJxgGSmHLTIqdxiEZ3"
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/6LyEg0JrkaYHXqhyeg96bl"
       },
       "artists": [
         {
-          "name": "Joe Killington",
-          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
+          "name": "TYMEN",
+          "url": "https://open.spotify.com/artist/38dICdGB6bl9UKmQx3lt2R"
         },
         {
-          "name": "Lovely Laura",
-          "url": "https://open.spotify.com/artist/5JPetxGre91T4mQOPFat3g"
+          "name": "MYXE",
+          "url": "https://open.spotify.com/artist/3og6e24muubWOaYriWZsPc"
         }
       ],
-      "duration_ms": 173547,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/4PHDxMwPsCCb3FqbZW65qv"
+      "duration_ms": 185046,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/0ibEbPyMI2JbYgzFYNJlwh"
+    },
+    {
+      "added_at": "2023-01-10 10:08:04",
+      "album": {
+        "name": "Chasing Stars (feat. James Bay)",
+        "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 170457,
+      "name": "Chasing Stars (feat. James Bay)",
+      "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
     },
     {
       "added_at": "2021-08-06 15:42:05",
@@ -1849,24 +1853,28 @@
       "url": "https://open.spotify.com/track/3K0E6yZzSzIuNLRqZ8ee3m"
     },
     {
-      "added_at": "2023-01-10 10:08:04",
+      "added_at": "2023-01-11 10:08:04",
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/2zokzeE9RuFgdnqrPUFn50"
+        "name": "Deep (with DJ Snake & Yung Felix)",
+        "url": "https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
         }
       ],
-      "duration_ms": 213946,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/2SZy40PLDk3vFucXUGFCFA"
+      "duration_ms": 213984,
+      "name": "Deep (with DJ Snake & Yung Felix)",
+      "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
     },
     {
       "added_at": "2021-10-01 15:41:05",
@@ -1889,56 +1897,48 @@
       "url": "https://open.spotify.com/track/64pEn9KcRSD1620xT3RwYB"
     },
     {
-      "added_at": "2023-01-10 10:08:04",
+      "added_at": "2023-01-11 10:08:04",
       "album": {
-        "name": "This Ain't Real",
-        "url": "https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D"
+        "name": "Don't Need Love",
+        "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
       },
       "artists": [
         {
-          "name": "MENTIS",
-          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "This Ain't Real",
-      "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"
-    },
-    {
-      "added_at": "2023-01-10 10:08:04",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/3YdxP4A4xMvbdqoVIRu5ee"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
         },
         {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
         }
       ],
-      "duration_ms": 210488,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/10Hks1iBOnKIIhouOI4rrk"
+      "duration_ms": 195480,
+      "name": "Don\u2019t Need Love (with GRACEY)",
+      "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
     },
     {
-      "added_at": "2023-01-10 10:08:04",
+      "added_at": "2023-01-11 10:08:04",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+        "name": "Recap (with VanJess & Channel Tres)",
+        "url": "https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+      "duration_ms": 177725,
+      "name": "Recap (with VanJess & Channel Tres)",
+      "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
     },
     {
       "added_at": "2023-01-10 10:08:04",
@@ -1959,6 +1959,26 @@
       "duration_ms": 301174,
       "name": "Oxas",
       "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
+    },
+    {
+      "added_at": "2023-01-11 10:08:04",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/7BOqNe0tvDXNLkFe4uMKp9"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6l15fvZdCB1pvNgeuFk6Fw"
     },
     {
       "added_at": "2021-10-01 15:41:05",
@@ -1983,42 +2003,42 @@
     {
       "added_at": "2023-01-10 10:08:04",
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
       },
       "artists": [
         {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
     },
     {
-      "added_at": "2023-01-10 10:08:04",
+      "added_at": "2023-01-11 10:08:04",
       "album": {
-        "name": "Spoiled (Goodboys Remix)",
-        "url": "https://open.spotify.com/album/6XCbOW9kPr0peZdpzWqhkk"
+        "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+        "url": "https://open.spotify.com/album/75G6Xu4kuB1hfbBjUaRYyt"
       },
       "artists": [
         {
-          "name": "Ant Saunders",
-          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 150047,
-      "name": "Spoiled (Goodboys Remix)",
-      "url": "https://open.spotify.com/track/2WZLaweYiFKTR3SANawH4J"
+      "duration_ms": 147096,
+      "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC"
     }
   ],
   "unique_name": "EDM Top 100",

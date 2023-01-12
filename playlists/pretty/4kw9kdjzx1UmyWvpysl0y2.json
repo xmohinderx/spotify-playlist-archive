@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127144,
+  "num_followers": 127148,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg5Miw1NDhkNGM1N2NkNDMwZjFkMDgzM2YyMjE3YzljMWI3MDM5MTQxY2Iw",
+  "snapshot_id": "Mzg5NCxjYmJjMDNhMWNhNzg3MjU4MmI2NTZjNGZiMjVhOTdjNzI5ZjAzNTEw",
   "tracks": [
+    {
+      "added_at": "2023-01-11 21:42:10",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56"
+      },
+      "artists": [
+        {
+          "name": "Aether",
+          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l"
+    },
     {
       "added_at": "2023-01-10 17:55:29",
       "album": {
@@ -1115,26 +1131,6 @@
       "duration_ms": 205000,
       "name": "scars",
       "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "My Heart\u2019s on Fire",
-        "url": "https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "Qvckslvr",
-          "url": "https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M"
-        }
-      ],
-      "duration_ms": 191064,
-      "name": "My Heart\u2019s on Fire",
-      "url": "https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

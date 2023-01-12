@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
+> A little bit of pop, a little bit of rap\. Cover: Connor Price and Hoodie Allen
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,300 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,436 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
-| 2 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
-| 3 | [Chirp](https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Chirp](https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo) | 2:14 |
+| 1 | [Chirp](https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Chirp](https://open.spotify.com/album/0HM18dhYH5jMz3SPZ2p9Fo) | 2:14 |
+| 2 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
+| 3 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
 | 4 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
 | 5 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 6 | [Ski Trip](https://open.spotify.com/track/66uplMFfrTOXEg7yIaclTk) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Ski Trip](https://open.spotify.com/album/5kgvLzREOpVSYSG86kauFk) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 59 | [rewind](https://open.spotify.com/track/66orvVes79w0dZao9ZIw97) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY), [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rewind](https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T) | 2:20 |
 | 60 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 |
 
-Snapshot ID: `MTY3MzAyMjc3NSwwMDAwMDAwMGY5ODE2MmUwMWU1ZTFjYzA2MTEyNjAxMGM5MzZjYzdj`
+Snapshot ID: `MTY3MzQ3MTMxMywwMDAwMDAwMDU0MTI5YTRiNjljNWZlMjdmMjc3NDgyZmM3YzUwOGZm`

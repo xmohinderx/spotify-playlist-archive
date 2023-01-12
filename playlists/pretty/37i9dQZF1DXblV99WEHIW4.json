@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 159082,
+  "num_followers": 159321,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDU5ZjVhNmQwNTljNjk2MWE5YmIxMTQ5NGM0OTA4Y2Q1",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDNmMjRlNGZmNzg2N2ExZDEzNDQ5NzUxNjc4ZmNhNGYx",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 243140,
       "name": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)",
       "url": "https://open.spotify.com/track/20Kau1BL5IUaPo4l488D57"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 240206,
-      "name": "love song",
-      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -687,18 +671,34 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Johnny Cash (Stripped)",
-        "url": "https://open.spotify.com/album/0NBqAEzV88JB497CabtJCn"
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Johnny Cash - Stripped",
-      "url": "https://open.spotify.com/track/4sBOU30e7J2KF2VzBwDG2M"
+      "duration_ms": 240206,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+        "name": "Johnny Cash (Stripped)",
+        "url": "https://open.spotify.com/album/0NBqAEzV88JB497CabtJCn"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 275133,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
+      "duration_ms": 216000,
+      "name": "Johnny Cash - Stripped",
+      "url": "https://open.spotify.com/track/4sBOU30e7J2KF2VzBwDG2M"
     },
     {
       "added_at": "2022-08-25 23:00:00",

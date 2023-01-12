@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-682 songs - 1 day 13 hr 0 min
+683 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Ik Kudi](https://open.spotify.com/track/4dpIFUAr0byE6N4oalHTFa) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Ik Kudi](https://open.spotify.com/album/6SQaMW7xiLvL8PmGdWZIwv) | 3:24 | 2022-12-08 |  |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
 | [Ikk Taara Tuta \- From "P.R."](https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Sabir Ali](https://open.spotify.com/artist/3tZ8wQquxUwLnS4yr7czym) | [Ikk Taara Tuta \(From "P.R."\)](https://open.spotify.com/album/3CiJDlIoqFmzcT4yaU1aTZ) | 8:29 | 2022-06-01 | 2022-07-06 |
+| [Iko Zindagi](https://open.spotify.com/track/3qTAXAJXCmYxbc9AnEeVlS) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Prince Rakhdi](https://open.spotify.com/artist/27D50vNC9ZMp58DGsWU2g2), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Iko Zindagi](https://open.spotify.com/album/0STaVuZue6lZ2VIbcGpZfh) | 2:51 | 2023-01-11 |  |
 | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD) | [Ilahi \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/7Amx2o2pSvJHgoddju9d0p) | 3:33 | 2022-04-21 | 2022-04-29 |
 | [Impossible \(From the Album 'I Am Zack Knight'\)](https://open.spotify.com/track/5gDbvpDfHvibUFauqRhjDI) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Impossible \(From the Album 'I Am Zack Knight'\)](https://open.spotify.com/album/16YYwVnwhkLF8h0Kfke6dg) | 2:49 | 2022-09-08 |  |
 | [Impress](https://open.spotify.com/track/1kvnU2nJj0MFzCfvu0guvD) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 2:21 | 2022-01-11 | 2022-02-01 |
@@ -247,7 +248,7 @@
 | [Jaano Pyari](https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:22 | 2022-08-23 | 2022-09-23 |
 | [Jaanu](https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89) | [Hardeep Grewal](https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jaanu](https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1) | 3:19 | 2022-01-18 | 2022-02-01 |
 | [Jadon Di Nazar \- From "My Way Main Te Mere Geet"](https://open.spotify.com/track/6nrhlyhAOlhReB6BwkPLMA) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Jadon Di Nazar \(From "My Way Main Te Mere Geet"\)](https://open.spotify.com/album/3YwvsKcLGH330kV3e7njGE) | 3:58 | 2022-12-01 |  |
-| [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 |  |
+| [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E), [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 |  |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 |  |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |
 | [Jatta Ve](https://open.spotify.com/track/4quaGji0veFnE69rm9RUDi) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Jatta Ve](https://open.spotify.com/album/6Y6FuWImBPm7ySk9bdDe94) | 4:55 | 2022-02-04 | 2022-04-06 |

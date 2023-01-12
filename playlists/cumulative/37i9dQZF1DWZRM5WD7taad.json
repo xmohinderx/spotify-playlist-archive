@@ -1730,6 +1730,24 @@
     {
       "album": {
         "name": "Pareparqu\u00e9",
+        "url": "https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193287,
+      "name": "Pareparqu\u00e9",
+      "url": "https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u"
+    },
+    {
+      "album": {
+        "name": "Pareparqu\u00e9",
         "url": "https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH"
       },
       "artists": [
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 193287,
       "name": "Pareparqu\u00e9",
       "url": "https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,269 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,281 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 50 | [シリウス\(TV Size ver.\)](https://open.spotify.com/track/6qSXKVVqqHHw1BN9ctDn3s) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [シリウス\(TV Size ver.\)](https://open.spotify.com/album/5y9EoOfyfcOwi3fKenxlLj) | 1:29 |
 | 51 | [泡沫](https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 5:00 |
 
-Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDBkYjlhYjk0ZTdkNDc5ZTJlNDNiYmQ1OGE2YTY3YThkMg==`
+Snapshot ID: `Mjc4OTA4MDYsMDAwMDAwMDBlM2UzMjgzNzRkN2YxZDBhZDJmZDBhMGEzMDU3YzE3OQ==`

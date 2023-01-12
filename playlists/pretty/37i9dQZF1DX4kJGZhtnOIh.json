@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 11261,
+  "num_followers": 11282,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDI4NDIxZTZmYTc2Y2Y2ZWFkNTNhMTgzZTMwODVlNTc0",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDA3YWExY2E1NDg0YzhlNzc0ODI4ZTA1ZWIyOTgwYWJh",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
-      },
-      "artists": [
-        {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
-        }
-      ],
-      "duration_ms": 300546,
-      "name": "We Will Become Silhouettes - Remastered",
-      "url": "https://open.spotify.com/track/0xn9WsyWhNbfI82Ipnpwqa"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 146199,
       "name": "Lady On the Water",
       "url": "https://open.spotify.com/track/4l9jbpaoqY2GLSGkwiWgzm"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 300546,
+      "name": "We Will Become Silhouettes - Remastered",
+      "url": "https://open.spotify.com/track/0xn9WsyWhNbfI82Ipnpwqa"
     },
     {
       "added_at": "2018-11-19 19:02:53",

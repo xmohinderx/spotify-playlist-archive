@@ -1,12 +1,12 @@
 {
   "description": "The best remixes of popular tracks!",
-  "num_followers": 2920,
+  "num_followers": 3039,
   "original_name": "Hardstyle Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI3NjIxOSwwMDAwMDAwMDZjODFlOWQ1ODZhMmY3YjIzNzFiMDViZDZlNGUzMmM5",
+  "snapshot_id": "MTY3MzI3NjIxOSwwMDAwMDAwMDU5ZDk4OTA4NjEzMDRjNTM0ZjJlYTU0NzZhNzBhMmFm",
   "tracks": [
     {
       "added_at": "2022-12-29 23:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Around the World (La la La)",
-        "url": "https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 153328,
-      "name": "Around the World (La la La)",
-      "url": "https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Creep (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 187000,
       "name": "Creep - Hardstyle Remix",
       "url": "https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Around the World (La la La)",
+        "url": "https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 153328,
+      "name": "Around the World (La la La)",
+      "url": "https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH"
-      },
-      "artists": [
-        {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        }
-      ],
-      "duration_ms": 289548,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Only Girl (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 127312,
       "name": "Only Girl - Hardstyle Remix",
       "url": "https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 289548,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Country Roads",
-        "url": "https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf"
-      },
-      "artists": [
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 173687,
-      "name": "Country Roads",
-      "url": "https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Impossible (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/4h5oicpFQZ7nipgbVoTOiF"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 161075,
       "name": "Impossible - Hardstyle Remix",
       "url": "https://open.spotify.com/track/506t1tFJOG0LhwuPkCiFP2"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Country Roads",
+        "url": "https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 173687,
+      "name": "Country Roads",
+      "url": "https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 190412,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 211127,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 190412,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -991,30 +991,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "I'm Good",
-        "url": "https://open.spotify.com/album/6Otf86kS5TF6YbFiOBDWRV"
+        "name": "Trippy Trippy",
+        "url": "https://open.spotify.com/album/29Ofy4dYlrEnYnUbkJB2t6"
       },
       "artists": [
         {
-          "name": "DJane HouseKat",
-          "url": "https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx"
+          "name": "Nicky Starr",
+          "url": "https://open.spotify.com/artist/2AOEuEgAgkk7d2IfY55qKO"
         },
         {
-          "name": "Earsquaker",
-          "url": "https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT"
-        },
-        {
-          "name": "Paul Keen",
-          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
-        },
-        {
-          "name": "Blaikz",
-          "url": "https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde"
+          "name": "Steve 80",
+          "url": "https://open.spotify.com/artist/1bnZbvih1s62vaQoMGKkdx"
         }
       ],
-      "duration_ms": 156774,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/1fmErdHuX5yK4AUWwH6v67"
+      "duration_ms": 207840,
+      "name": "Bitter Sweet Symphony - Steve 80 Remix Edit",
+      "url": "https://open.spotify.com/track/1lMb49nY7AujNWWzqvdICg"
     }
   ],
   "unique_name": "Hardstyle Remixes",

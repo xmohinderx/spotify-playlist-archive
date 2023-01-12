@@ -2,9 +2,9 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Cover: The Specials
+> New music and timeless tracks from legends only\. Cover: U2
 
-235 songs - 16 hr 55 min
+236 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Personality Disorder](https://open.spotify.com/track/7noQsk2Wm00f5HlH2Zmume) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Autofiction](https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO) | 4:00 | 2022-09-16 | 2022-09-30 |
 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 | 2022-07-28 |  |
 | [Pretty Boy](https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Pretty Boy](https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx) | 4:55 | 2022-11-04 | 2023-01-08 |
+| [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-11 |  |
 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 | 2022-07-28 |  |
 | [Pumping On Your Stereo](https://open.spotify.com/track/4pCfNA9bjI3pccG5s9fm7J) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7fAfHvKNHlQav4CtSN7Iqz) | 3:20 | 2022-04-08 | 2022-07-26 |
 | [Range Rover Bitch](https://open.spotify.com/track/0CgJ1v2IDbrp4JAYeGhfYz) | [Taylor Hawkins](https://open.spotify.com/artist/6bI8H2TnlKYGJSo52wcTP4) | [Kota](https://open.spotify.com/album/0NpLbHiynJPixcHeGdd2Kb) | 2:49 | 2022-04-08 | 2022-05-28 |
@@ -193,7 +194,7 @@
 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 | 2022-07-28 |  |
 | [Start!](https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:29 | 2022-04-08 | 2022-07-29 |
 | [Step On \- 2007 Remaster](https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 5:18 | 2022-04-08 | 2022-07-29 |
-| [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 |  |
+| [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 | 2023-01-12 |
 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 | 2022-07-28 | 2022-12-02 |
 | [Sweet Bird of Truth](https://open.spotify.com/track/1MH1Zfq6vJZEWf904atike) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Sweet Bird of Truth](https://open.spotify.com/album/17CUZ4KfTly5aMB73aM1b7) | 3:46 | 2022-05-27 | 2022-06-06 |
 | [Teach Me To Tango](https://open.spotify.com/track/5oIrbqdUT5z05cld5cXbaI) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Zoom In EP](https://open.spotify.com/album/5xaZbHax4UZEtgBUCsFRyy) | 3:07 | 2022-04-08 | 2022-07-27 |

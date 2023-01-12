@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: RM.",
-  "num_followers": 254184,
+  "num_followers": 254299,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGZmOWM0YWU5NWI5ZGExYTBjY2NmZDlhNWM4NjJhYTI1",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDk4MGU5ZWQ5ZTIxZmZiOGE4Yjk2MzM2NGIyOGZjMjU2",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1272,13 +1272,29 @@
       },
       "artists": [
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
       "duration_ms": 146096,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "bayou",
+        "url": "https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "bayou",
+      "url": "https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1367,22 +1383,6 @@
       "duration_ms": 177818,
       "name": "honest (feat. moon tang)",
       "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "bayou",
-        "url": "https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "bayou",
-      "url": "https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "MAGIC MAN",
+        "url": "https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
         "url": "https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "MAGIC MAN",
-        "url": "https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U"
-      },
-      "artists": [
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "the other side",
         "url": "https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 147786,
       "name": "imysm",
       "url": "https://open.spotify.com/track/7dr94wicpFwDjPyPDV0UIB"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "rollercoaster",
+        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 151090,
+      "name": "rollercoaster",
+      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 223026,
       "name": "I Miss My Friends (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "rollercoaster",
-        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 151090,
-      "name": "rollercoaster",
-      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "House We Share",
-        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "House We Share",
-      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "see u dance",
         "url": "https://open.spotify.com/album/04yTErkzsdN2pDr37Nnfq2"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 138000,
       "name": "see u dance",
       "url": "https://open.spotify.com/track/5ppUThWn9v9lZyqLRrfb4D"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "House We Share",
+        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "House We Share",
+      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Condition",
-        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 224393,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "let's run away",
         "url": "https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Condition",
+        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/29V6Dh3psH6MpH3tSc9cSg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/1aNm7Q5mRuv0MUd7ZeS1Df"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "HiROQUEST: Genesis",
         "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
       },
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/29V6Dh3psH6MpH3tSc9cSg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/1aNm7Q5mRuv0MUd7ZeS1Df"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Spirits",
         "url": "https://open.spotify.com/album/0bkNnBx5lLhRT1xXELdBYC"
       },
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "so wrong but so right.",
-        "url": "https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 179571,
-      "name": "so wrong but so right.",
-      "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Xeno",
         "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 231693,
       "name": "Could I Be Somebody",
       "url": "https://open.spotify.com/track/5EvZrVjfMe8Ie42gqwJXF9"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "so wrong but so right.",
+        "url": "https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 179571,
+      "name": "so wrong but so right.",
+      "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -2283,22 +2283,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "THREE IN THE MORNING",
-        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
+        "name": "WEST",
+        "url": "https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS"
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         }
       ],
-      "duration_ms": 170476,
-      "name": "THREE IN THE MORNING",
-      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
+      "duration_ms": 169600,
+      "name": "WEST",
+      "url": "https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -2319,22 +2315,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "WEST",
-        "url": "https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS"
-      },
-      "artists": [
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "WEST",
-      "url": "https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 138000,
       "name": "Smile",
       "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "THREE IN THE MORNING",
+        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "THREE IN THE MORNING",
+      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 168420,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
       },
@@ -2459,18 +2443,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Y2",
-        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Make A Move",
-      "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
+      "duration_ms": 168420,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -2527,6 +2511,22 @@
       "duration_ms": 226036,
       "name": "We Are (\uc6b0\ub9ac\ub294)",
       "url": "https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Y2",
+        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
     },
     {
       "added_at": "2023-01-06 05:00:00",

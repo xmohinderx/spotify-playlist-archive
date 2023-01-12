@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-262 songs - 1 day 0 hr 44 min
+263 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Misty \- Remastered 2020](https://open.spotify.com/track/2yiISACbYnL2hApy1ffKKs) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Gemini \(Octave Remastered Series\)](https://open.spotify.com/album/41sYqKPEygmvQrLXKpzWJU) | 2:47 | 2020-10-09 |  |
 | [Mommy's Shawl](https://open.spotify.com/track/7u38kj1yGDoExUnP6gxxor) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Blooming Tall Phlox](https://open.spotify.com/album/6flIHnOYOMbCz53SOdGle3) | 5:05 | 2020-10-09 |  |
 | [Mood](https://open.spotify.com/track/79xYzymN9wuN9jrIREWIiI) | [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Mood](https://open.spotify.com/album/5Ha52obqipY50QSAkWjE3R) | 7:33 | 2022-10-06 |  |
-| [Moonlight in Vermont](https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Moonlight in Vermont](https://open.spotify.com/album/2uGDhyFVW5LusWVFn5XtsU) | 6:53 | 2021-08-20 |  |
+| [Moonlight in Vermont](https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Moonlight in Vermont](https://open.spotify.com/album/2uGDhyFVW5LusWVFn5XtsU) | 6:53 | 2021-08-20 | 2023-01-12 |
+| [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 | 2023-01-10 |  |
 | [Moons Ago](https://open.spotify.com/track/7KVEWO1McsqsfoX7rXQdFy) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/5i1YDBZFg7sq2PmskQdzv3) | 6:06 | 2022-03-25 |  |
 | [My Ideal](https://open.spotify.com/track/2LfXUjO4fzzG4Zp0CkATQs) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 3:39 | 2022-06-30 |  |
 | [My Ideal](https://open.spotify.com/track/7zzaZggdFuadOs0R7SuJlp) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [My Ideal](https://open.spotify.com/album/2T8WUL1jRlaGIqj36oD5O5) | 3:39 | 2021-01-15 | 2022-07-29 |

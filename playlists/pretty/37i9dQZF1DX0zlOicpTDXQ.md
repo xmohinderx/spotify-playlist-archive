@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,278 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 2 | [Christmas Without You](https://open.spotify.com/track/5dTaAzAttwilDZNwJuf6yN) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:54 |
 | 3 | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/track/6uLogps4678Egq6OMwPsLS) | [Dan Finnerty](https://open.spotify.com/artist/0TvxNJPCKcZnKn6WZ1xrEG) | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/album/0hSvbqN5brZqlQ0EO6n2ty) | 2:46 |
 | 4 | [The Spirit of Christmas](https://open.spotify.com/track/1BAIUOoXqsjjVwILbHlTqa) | [Kurt Russell](https://open.spotify.com/artist/3inse6IgsRovvG6oTiTYEc), [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Spirit of Christmas \(Music from the Netflix Film The Christmas Chronicles 2\)](https://open.spotify.com/album/4D6crli0aIrdut5wAG4FiL) | 3:42 |
-| 5 | [Everybody Loves Christmas](https://open.spotify.com/track/2FpQtDVsANiElh8gZ9M5Al) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 3:16 |
+| 5 | [Everybody Loves Christmas](https://open.spotify.com/track/4Gq6cezJ21QZZ8EJHRN2JL) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Everybody Loves Christmas](https://open.spotify.com/album/1Ef2MscpOm3YYK7q41EiWE) | 3:15 |
 | 6 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 |
 | 7 | [Before Christmas \(Original Music from the Netflix Film\) \- Original music from the Netflix Film](https://open.spotify.com/track/1euUV1U3fc7Ft87fTUQJjh) | [Josh Whitehouse](https://open.spotify.com/artist/0yvmDpvW6wJgU3Et2ESc9G) | [Before Christmas \(Original Music from the Netflix Film\) \[Original music from the Netflix Film\]](https://open.spotify.com/album/3cIgoRrFU9HeoN22Ca5bLk) | 2:56 |
 | 8 | [Sweet and Spicy](https://open.spotify.com/track/40ECVmoHRW55BEaf748aBk) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:14 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 47 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 | 48 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 
-Snapshot ID: `MTY3MDYyOTIxNywwMDAwMDAwMDliZGI1ZDIwNTg0ODU3N2Y5YjFhZmExZGQyNTZjZDc2`
+Snapshot ID: `MTY3MDYyOTIxNywwMDAwMDAwMDUzYmZjYzQyNTNkMmEyZGZhYjVkM2YyNmVjNTMyOGEw`

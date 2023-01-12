@@ -11240,7 +11240,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 192289,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/3jP6Yx6d8608AU4aIRJsE2"
@@ -14448,6 +14448,28 @@
       "duration_ms": 239728,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/3N0dH5dZKj4momer7WIhRB"
+    },
+    {
+      "album": {
+        "name": "OXI",
+        "url": "https://open.spotify.com/album/08cZkfRWs1UgItTnrl8Qn4"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150115,
+      "name": "OXI",
+      "url": "https://open.spotify.com/track/5PQ9WamrmmWxnftASffcu9"
     },
     {
       "album": {

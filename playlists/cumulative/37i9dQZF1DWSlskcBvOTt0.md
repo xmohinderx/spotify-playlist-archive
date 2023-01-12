@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-349 songs - 1 day 12 hr 20 min
+350 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Eu Topos](https://open.spotify.com/track/4oAZrNEBTbpEggnXhSbi3l) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Mimi Page](https://open.spotify.com/artist/1USUeNBNJcg7Of34Ix74lM) | [Eu Topos EP](https://open.spotify.com/album/5XCivT6plqzOBxohhuM7CJ) | 4:04 | 2021-04-21 | 2022-05-15 |
 | [Eunoia \- Original Mix](https://open.spotify.com/track/26btt4R7IRda2CHmuidTLM) | [Matan Caspi](https://open.spotify.com/artist/0vgVqK5WmUVzi4lozaSKWd) | [Eunoia](https://open.spotify.com/album/10kcNu8TI8d966msyHYnS9) | 7:26 | 2021-10-01 | 2022-04-21 |
 | [Evening Fog](https://open.spotify.com/track/4P2z1eqevx8wCes6dBjstL) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2) | [A Winter Sampler](https://open.spotify.com/album/2MbQoYh4qL93LVjOYLOwt7) | 9:11 | 2021-04-21 | 2022-07-28 |
-| [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 |  |
+| [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 | 2023-01-12 |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-24 | 2022-12-17 |
 | [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 |  |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-27 |  |
@@ -296,6 +296,7 @@
 | [Starz](https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9) | 5:00 | 2022-11-11 |  |
 | [State Of Mind](https://open.spotify.com/track/56cy6VeMITQwVSB59W60sg) | [MIICHII](https://open.spotify.com/artist/6BbFRF1B3d5gTvDj2Q8gUw) | [State Of Mind](https://open.spotify.com/album/4maF20FgW8psnhV4JpmF9d) | 8:05 | 2021-05-07 | 2022-06-17 |
 | [Storyteller](https://open.spotify.com/track/0WSqJpY7RsFv2EszoXDANr) | [Shai T](https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN) | [Miracles](https://open.spotify.com/album/2y4op7MZHA2kuzZhsN6Mlv) | 7:30 | 2021-04-21 | 2022-07-09 |
+| [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-01-06 |  |
 | [Supervivencia \- Original Mix](https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n) | [Julian Iannone](https://open.spotify.com/artist/01mHkY7IVrdNlF1KJm1hkQ), [Ramon Bedoya](https://open.spotify.com/artist/7bca0jrEcYw3lqIHQp3wl2) | [Supervivencia](https://open.spotify.com/album/0wAqQzMRN0RIsjYdb27Xs5) | 7:21 | 2021-04-21 | 2022-05-02 |
 | [Surrender](https://open.spotify.com/track/71MpAo1R3xHEZkk50j5JU8) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Surrender](https://open.spotify.com/album/5AKjyc73t13n0crY5Uy57T) | 3:34 | 2022-04-22 | 2022-07-27 |
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |

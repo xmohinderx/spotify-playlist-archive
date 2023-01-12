@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Chand Sitare - Single",
+        "url": "https://open.spotify.com/album/3XLyBnZVY18yX0T8WulLR3"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "Chand Sitare",
+      "url": "https://open.spotify.com/track/6vvKQUBvB7louZuQDkIhrV"
+    },
+    {
+      "album": {
         "name": "Chandni",
         "url": "https://open.spotify.com/album/0EMHzP3umQX2DBKjSGVB8S"
       },
@@ -1388,24 +1406,6 @@
       "duration_ms": 157335,
       "name": "Chandni",
       "url": "https://open.spotify.com/track/78c8OfjPabqsnu3b1NVkrD"
-    },
-    {
-      "album": {
-        "name": "Chann Sitare (Hindi Version) - Single",
-        "url": "https://open.spotify.com/album/3XLyBnZVY18yX0T8WulLR3"
-      },
-      "artists": [
-        {
-          "name": "Saaj Bhatt",
-          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
-        }
-      ],
-      "date_added": "2023-01-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134285,
-      "name": "Chann Sitare (Hindi Version)",
-      "url": "https://open.spotify.com/track/6vvKQUBvB7louZuQDkIhrV"
     },
     {
       "album": {

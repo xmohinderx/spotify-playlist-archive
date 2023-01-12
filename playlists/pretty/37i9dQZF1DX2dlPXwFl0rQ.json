@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Marisol Terrazas en portada.",
-  "num_followers": 79204,
+  "num_followers": 79225,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDgzYTk4ZTRjNDE1MjgyNjBjYmYzOWM2MzlhZTQ0MzYz",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMGRjMjIxNDQwY2NiZTMzMTc5ZWQwNGM1MTkxYjk0NTM3",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/72Bk8T5DRTHa9nkcUBHkQL"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Lo Que A Usted Le Falta",
-        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Lo Que A Usted Le Falta",
-      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Nadie Me Ver\u00e1 Llorar",
@@ -1079,6 +1063,22 @@
       "duration_ms": 186256,
       "name": "Nadie Me Ver\u00e1 Llorar",
       "url": "https://open.spotify.com/track/0iQBxjQzHmyHEt4nBfGmsQ"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Lo Que A Usted Le Falta",
+        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Lo Que A Usted Le Falta",
+      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "La Mesa Del Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
-      },
-      "artists": [
-        {
-          "name": "Dueto Eleval",
-          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
-        }
-      ],
-      "duration_ms": 191862,
-      "name": "La Mesa Del Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Cinco Razones",
         "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 220427,
       "name": "Lo Mal Que Me Trataste",
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
+        "url": "https://open.spotify.com/album/1e06UBjN8u0UO4zVonfZrw"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 175105,
+      "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
+      "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
-        "url": "https://open.spotify.com/album/1e06UBjN8u0UO4zVonfZrw"
+        "name": "La Mesa Del Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
       },
       "artists": [
         {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+          "name": "Dueto Eleval",
+          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
         }
       ],
-      "duration_ms": 175105,
-      "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
-      "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"
+      "duration_ms": 191862,
+      "name": "La Mesa Del Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
     },
     {
       "added_at": "2022-09-23 05:00:00",

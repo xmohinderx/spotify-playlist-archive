@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Plastilina Mosh en portada.",
-  "num_followers": 466397,
+  "num_followers": 466574,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDNmYWIxOThkMGQ2ZjUxMmU5YmYxYmIxODNkOTFhOWZh",
+  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDMyNTI5MmFkZjY5Y2YxODgxMTIxMzM4ZDM2MGNjMDE3",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Locos y Rucas In Retro",
         "url": "https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 250066,
       "name": "Sol de Medianoche",
       "url": "https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Tasty + B Sides",
-        "url": "https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "Nalguita",
-      "url": "https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "\u00c9l No Lo Mat\u00f3",
         "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Tasty + B Sides",
+        "url": "https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "Nalguita",
+      "url": "https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Crazy Pack Resorte",
-        "url": "https://open.spotify.com/album/2yhvEOcsRufEw1qw91xMZy"
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
       },
       "artists": [
         {
-          "name": "Resorte",
-          "url": "https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic"
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
         }
       ],
-      "duration_ms": 241800,
-      "name": "Aqu\u00ed No Es D\u00f3nde",
-      "url": "https://open.spotify.com/track/6IkojHlvNIAXXHWhlcE1Oq"
+      "duration_ms": 97200,
+      "name": "Surf Mongol",
+      "url": "https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

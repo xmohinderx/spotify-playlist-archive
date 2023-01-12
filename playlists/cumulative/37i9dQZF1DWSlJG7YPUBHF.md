@@ -2,7 +2,7 @@
 
 ### [Legendary Guitar Solos](https://open.spotify.com/playlist/37i9dQZF1DWSlJG7YPUBHF)
 
-> Enjoy the most epic, electrifying, face\-melting axe performances\. Cover: Eddie Van Halen
+> Face\-melters only\. Cover: Jeff Beck
 
 59 songs - 5 hr 43 min
 

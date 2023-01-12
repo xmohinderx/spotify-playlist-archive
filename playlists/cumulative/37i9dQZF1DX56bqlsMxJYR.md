@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-363 songs - 16 hr 28 min
+364 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 | 2020-12-16 |  |
 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 | 2020-12-16 | 2022-11-13 |
 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 | 2022-10-11 |  |
-| [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 | 2022-10-11 |  |
+| [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 | 2022-10-11 | 2023-01-12 |
 | [Everybody Loves Somebody](https://open.spotify.com/track/78VG6M1i7JQXBdygmWFwye) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 2:41 | 2020-12-16 | 2022-04-21 |
 | [Everybody Loves Somebody](https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:44 | 2022-10-10 |  |
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Aerial Ballet](https://open.spotify.com/album/0H3v4snD6xhworsjXndsai) | 2:43 | 2022-03-07 |  |
@@ -307,6 +307,7 @@
 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 | 2022-10-11 |  |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2022-10-10 | 2022-10-12 |
 | [This Will Be Our Year](https://open.spotify.com/track/02KpkaZbiutsR0ucxce4Sh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 2:07 | 2022-10-10 | 2022-10-12 |
+| [This Will Be Our Year](https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 2:07 | 2022-12-29 |  |
 | [Till I Waltz Again With You](https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Till I Waltz Again With You](https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT) | 3:00 | 2020-12-16 | 2022-06-06 |
 | [Tonight You Belong To Me](https://open.spotify.com/track/6TGjPUIJuJYRnHc4tXiQDI) | [Patience & Prudence](https://open.spotify.com/artist/4F78tRprgxpEnopKTTWXor) | [Lost Hits Of The 50's](https://open.spotify.com/album/5DyWDTuTcEyMH5UDxyuOby) | 1:55 | 2022-03-07 | 2022-04-17 |
 | [Tossin' And Turnin'](https://open.spotify.com/track/79s3pSe1u6ggQBEwVPm58Z) | [Bobby Lewis](https://open.spotify.com/artist/6KfBWaX13etjtEZ4d9aTWW) | [Tossin' and Turnin'](https://open.spotify.com/album/31JyXxhju4kXiYJwdjb3u3) | 2:39 | 2020-12-16 | 2022-07-29 |

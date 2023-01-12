@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 73589,
+  "num_followers": 73689,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg2OCwwMDAwMDAwMDk0YTc4MzY0ZDMwNDQyMzdiZjM2MzU0ZjM4ZmVkNGJl",
+  "snapshot_id": "MTY3MzI0NDg2OCwwMDAwMDAwMDZkN2FlZWM5YTFkOWZjYzQ3MWM4NWQ4YzViNzNlNzIw",
   "tracks": [
     {
       "added_at": "2022-12-29 06:52:49",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
+        "name": "Dembow 2014 - 14 Original Urban Hits!",
+        "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
+      },
+      "artists": [
+        {
+          "name": "Los Lun\u00e1ticos",
+          "url": "https://open.spotify.com/artist/3dznStnQzstoqfwjmyuKuA"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Siente El Ki",
+      "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
         "name": "CHOKOO",
         "url": "https://open.spotify.com/album/0y7057hiNC84dqOOynn21D"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Dembow 2014 - 14 Original Urban Hits!",
-        "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
+        "name": "La Chanty",
+        "url": "https://open.spotify.com/album/1Ida5GoYWiuILYFBZ1qt5U"
       },
       "artists": [
         {
-          "name": "Los Lun\u00e1ticos",
-          "url": "https://open.spotify.com/artist/3dznStnQzstoqfwjmyuKuA"
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Siente El Ki",
-      "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
+      "duration_ms": 277786,
+      "name": "La Chanty",
+      "url": "https://open.spotify.com/track/6ngGJ6ZxRFFf8sQPxcRsSg"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -939,6 +955,22 @@
       "duration_ms": 186801,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/4OkZXjA1yje9NZurlsfiGw"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Tu Lokotron Remix",
+        "url": "https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70"
+      },
+      "artists": [
+        {
+          "name": "Dj Jouga",
+          "url": "https://open.spotify.com/artist/4YVBK1IbFdZXRGIbfgeLV1"
+        }
+      ],
+      "duration_ms": 418728,
+      "name": "Tu Lokotron Remix",
+      "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -987,38 +1019,6 @@
       "duration_ms": 297278,
       "name": "Enpiripimpiao - Remix",
       "url": "https://open.spotify.com/track/4VkaLl2C7yKR3Y5Ryeit10"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
-        "name": "La Chanty",
-        "url": "https://open.spotify.com/album/1Ida5GoYWiuILYFBZ1qt5U"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 277786,
-      "name": "La Chanty",
-      "url": "https://open.spotify.com/track/6ngGJ6ZxRFFf8sQPxcRsSg"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
-        "name": "Tu Lokotron Remix",
-        "url": "https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70"
-      },
-      "artists": [
-        {
-          "name": "Dj Jouga",
-          "url": "https://open.spotify.com/artist/4YVBK1IbFdZXRGIbfgeLV1"
-        }
-      ],
-      "duration_ms": 418728,
-      "name": "Tu Lokotron Remix",
-      "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Dominican Playero 40",
-        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
-      },
-      "artists": [
-        {
-          "name": "RMT",
-          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
-        }
-      ],
-      "duration_ms": 201039,
-      "name": "Dominican Playero 40",
-      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "Flyte",
         "url": "https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 194490,
       "name": "Flyte",
       "url": "https://open.spotify.com/track/3YqTzC9YYQmiT5nDZgl01q"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Dominican Playero 40",
+        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
+      },
+      "artists": [
+        {
+          "name": "RMT",
+          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
+        }
+      ],
+      "duration_ms": 201039,
+      "name": "Dominican Playero 40",
+      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Flotaera",
-        "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
-      },
-      "artists": [
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 144406,
-      "name": "Flotaera",
-      "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "5 Mujeres",
         "url": "https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 209000,
       "name": "5 Mujeres",
       "url": "https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Flotaera",
+        "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 144406,
+      "name": "Flotaera",
+      "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Un Tumbao",
-        "url": "https://open.spotify.com/album/4jJBcVDLVfnqqrUnuTTHh9"
-      },
-      "artists": [
-        {
-          "name": "Eleven One",
-          "url": "https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR"
-        }
-      ],
-      "duration_ms": 151847,
-      "name": "Un Tumbao",
-      "url": "https://open.spotify.com/track/2kZrvewTmL8XAxvoMxvSQj"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "Punto 40 (Remix)",
         "url": "https://open.spotify.com/album/7AV4r4VWWF9eDsFtAIS4pc"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 288574,
       "name": "Punto 40 (Remix) (feat. Bryant Grety, Bulin 47, El Cherry Scom, Ceky Viciny, Fr Lirical & Rambo Man) - Mix Version",
       "url": "https://open.spotify.com/track/3veEqKHMkLmfOumWDNLSm0"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Un Tumbao",
+        "url": "https://open.spotify.com/album/4jJBcVDLVfnqqrUnuTTHh9"
+      },
+      "artists": [
+        {
+          "name": "Eleven One",
+          "url": "https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR"
+        }
+      ],
+      "duration_ms": 151847,
+      "name": "Un Tumbao",
+      "url": "https://open.spotify.com/track/2kZrvewTmL8XAxvoMxvSQj"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Pikilao",
-        "url": "https://open.spotify.com/album/4WpNyKxMzO2NVseDzkaO0o"
-      },
-      "artists": [
-        {
-          "name": "Los Del Millero",
-          "url": "https://open.spotify.com/artist/5Xid8RniwfI34R5LLqHFbs"
-        },
-        {
-          "name": "El Tratol",
-          "url": "https://open.spotify.com/artist/013YMkhPziWNAvcGcdSnHn"
-        }
-      ],
-      "duration_ms": 160705,
-      "name": "Pikilao",
-      "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "Exito, Vol 1",
         "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
       },
@@ -2175,22 +2155,6 @@
       "duration_ms": 201180,
       "name": "Ponte Tu Chaleco",
       "url": "https://open.spotify.com/track/5XXc4aGgZjunaqZPVR4GoR"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
-        "name": "Ella Eh!",
-        "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
-      },
-      "artists": [
-        {
-          "name": "Crazy Design",
-          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
-        }
-      ],
-      "duration_ms": 161346,
-      "name": "Ella Eh!",
-      "url": "https://open.spotify.com/track/23iuxSWGOfiAhuIK6SjFoS"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2211,6 +2175,42 @@
       "duration_ms": 205348,
       "name": "Ponte Freca",
       "url": "https://open.spotify.com/track/66yTiMUt2nv74sPqiPqHEp"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Ella Eh!",
+        "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "Ella Eh!",
+      "url": "https://open.spotify.com/track/23iuxSWGOfiAhuIK6SjFoS"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Pikilao",
+        "url": "https://open.spotify.com/album/4WpNyKxMzO2NVseDzkaO0o"
+      },
+      "artists": [
+        {
+          "name": "Los Del Millero",
+          "url": "https://open.spotify.com/artist/5Xid8RniwfI34R5LLqHFbs"
+        },
+        {
+          "name": "El Tratol",
+          "url": "https://open.spotify.com/artist/013YMkhPziWNAvcGcdSnHn"
+        }
+      ],
+      "duration_ms": 160705,
+      "name": "Pikilao",
+      "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/57uRQSxdSSKos8rz66Q65r"
+      },
+      "artists": [
+        {
+          "name": "Joswa In Da House",
+          "url": "https://open.spotify.com/artist/0uBw9poOeuhbMD2xYAxUku"
+        }
+      ],
+      "duration_ms": 202005,
+      "name": "Ella Quiere Cualto (Tu No Tiene Cualto)",
+      "url": "https://open.spotify.com/track/0DBhySOALDr1Nz5rtY4kOW"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
         "name": "Subela Aqui",
         "url": "https://open.spotify.com/album/4S8T6qvnweIUBOhhl0Yrto"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 171014,
       "name": "Subela Aqui",
       "url": "https://open.spotify.com/track/3EVLgz5ujlUbm6eZnRM2jw"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/57uRQSxdSSKos8rz66Q65r"
-      },
-      "artists": [
-        {
-          "name": "Joswa In Da House",
-          "url": "https://open.spotify.com/artist/0uBw9poOeuhbMD2xYAxUku"
-        }
-      ],
-      "duration_ms": 202005,
-      "name": "Ella Quiere Cualto (Tu No Tiene Cualto)",
-      "url": "https://open.spotify.com/track/0DBhySOALDr1Nz5rtY4kOW"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2447,30 +2447,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Ma Me Mi Mo Mu",
-        "url": "https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3"
-      },
-      "artists": [
-        {
-          "name": "Verbo Flow",
-          "url": "https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ"
-        },
-        {
-          "name": "Kamil Nicole",
-          "url": "https://open.spotify.com/artist/1vRflnO0vGZJYByD348tTK"
-        },
-        {
-          "name": "Imperio Record",
-          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
-        }
-      ],
-      "duration_ms": 125193,
-      "name": "Ma Me Mi Mo Mu",
-      "url": "https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "Esa Malondra",
         "url": "https://open.spotify.com/album/2JKNjEpPqoN9MQE2S5mqsY"
       },
@@ -2531,6 +2507,30 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
+        "name": "Ma Me Mi Mo Mu",
+        "url": "https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3"
+      },
+      "artists": [
+        {
+          "name": "Verbo Flow",
+          "url": "https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ"
+        },
+        {
+          "name": "Kamil Nicole",
+          "url": "https://open.spotify.com/artist/1vRflnO0vGZJYByD348tTK"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "duration_ms": 125193,
+      "name": "Ma Me Mi Mo Mu",
+      "url": "https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
         "name": "Latin Hits 2016 Club Edition - 60 Latin Music Hits (Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton Kuduro, Latin Fitness)",
         "url": "https://open.spotify.com/album/1WiEQPrvuZjamAFzafoPy6"
       },
@@ -2543,6 +2543,26 @@
       "duration_ms": 203040,
       "name": "Debarata",
       "url": "https://open.spotify.com/track/2L3FEivTGfG5P0rxH4OrLv"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Una Movie",
+        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
+      },
+      "artists": [
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        },
+        {
+          "name": "JoeyTheGawd",
+          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
+        }
+      ],
+      "duration_ms": 150471,
+      "name": "Una Movie",
+      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2599,26 +2619,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Una Movie",
-        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
-      },
-      "artists": [
-        {
-          "name": "Rickstarr",
-          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
-        },
-        {
-          "name": "JoeyTheGawd",
-          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
-        }
-      ],
-      "duration_ms": 150471,
-      "name": "Una Movie",
-      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "Guayabu",
         "url": "https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F"
       },
@@ -2663,26 +2663,6 @@
       "duration_ms": 165433,
       "name": "Durisimo",
       "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
-        "name": "El Rockanyor (Tres Pasito)",
-        "url": "https://open.spotify.com/album/3XEqQJT2AzTJncYtdUMbc2"
-      },
-      "artists": [
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 191459,
-      "name": "El Rockanyor (Tres Pasito)",
-      "url": "https://open.spotify.com/track/1wsYUJMv8TXexAmCZsXrwd"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2747,26 +2727,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "De Boca",
-        "url": "https://open.spotify.com/album/5nqB5knKXNhnLKENyB1jPg"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        }
-      ],
-      "duration_ms": 183534,
-      "name": "De Boca",
-      "url": "https://open.spotify.com/track/2VaYsYUBZZfj8nLyQxnGCs"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "Primero Que Kanye",
         "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
       },
@@ -2783,6 +2743,46 @@
       "duration_ms": 192313,
       "name": "Primero Que Kanye",
       "url": "https://open.spotify.com/track/6qEOJy5NL5tGGYxpj7dQZY"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "El Rockanyor (Tres Pasito)",
+        "url": "https://open.spotify.com/album/3XEqQJT2AzTJncYtdUMbc2"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "duration_ms": 191459,
+      "name": "El Rockanyor (Tres Pasito)",
+      "url": "https://open.spotify.com/track/1wsYUJMv8TXexAmCZsXrwd"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "De Boca",
+        "url": "https://open.spotify.com/album/5nqB5knKXNhnLKENyB1jPg"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 183534,
+      "name": "De Boca",
+      "url": "https://open.spotify.com/track/2VaYsYUBZZfj8nLyQxnGCs"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Llevo la Vainita",
-        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Llevo la Vainita",
-      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
-    },
-    {
-      "added_at": "2022-12-29 06:52:49",
-      "album": {
         "name": "Cero Coro",
         "url": "https://open.spotify.com/album/6O86yEhkjwrI4LRfXilKd2"
       },
@@ -2939,18 +2923,18 @@
     {
       "added_at": "2022-12-29 06:52:49",
       "album": {
-        "name": "Vaina Bakana",
-        "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
+        "name": "Llevo la Vainita",
+        "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
       },
       "artists": [
         {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
         }
       ],
-      "duration_ms": 197217,
-      "name": "Vaina Bakana",
-      "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
+      "duration_ms": 162037,
+      "name": "Llevo la Vainita",
+      "url": "https://open.spotify.com/track/0PtuUiKPpQqEp2W4CasynB"
     },
     {
       "added_at": "2022-12-29 06:52:49",
@@ -2967,6 +2951,22 @@
       "duration_ms": 195492,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
+    },
+    {
+      "added_at": "2022-12-29 06:52:49",
+      "album": {
+        "name": "Vaina Bakana",
+        "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
+      },
+      "artists": [
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        }
+      ],
+      "duration_ms": 197217,
+      "name": "Vaina Bakana",
+      "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
     },
     {
       "added_at": "2022-12-29 06:52:49",

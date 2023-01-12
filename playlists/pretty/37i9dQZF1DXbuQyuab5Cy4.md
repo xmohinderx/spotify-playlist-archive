@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,978 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,977 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 79 | [ON FIRE](https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:23 |
 | 80 | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a) | 4:28 |
 | 81 | [Night Whispers](https://open.spotify.com/track/0yDFdJpx8eP0GN7dAF4uK2) | [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Loudtech](https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr) | [Night Whispers](https://open.spotify.com/album/77zU91YOZiWp4q3hM9VlY1) | 3:20 |
-| 82 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 |
+| 82 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 |
 | 83 | [Facetime](https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p) | [LAXX](https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx) | [Facetime](https://open.spotify.com/album/4Dxbt4m9TKVhUx5YouFxNj) | 3:39 |
 | 84 | [Thundergun \- Bassex Remix](https://open.spotify.com/track/5nxBoj8KabR4L8c1ycTBAz) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7), [Bassex](https://open.spotify.com/artist/0MtoWwNFjGtsgJemnvGUFN) | [Thundergun](https://open.spotify.com/album/42OE0SKYQLBjG39nIx1rJO) | 5:34 |
 | 85 | [SPOOKY](https://open.spotify.com/track/6ZQDRNzZxLKT3U37jLH9YM) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SPOOKY](https://open.spotify.com/album/1TqPTsC6hbjM5mj0NaotXi) | 3:49 |

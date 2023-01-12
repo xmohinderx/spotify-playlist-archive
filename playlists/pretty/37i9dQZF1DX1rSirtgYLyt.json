@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 17483,
+  "num_followers": 17624,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyOTM5NCwwMDAwMDAwMGFhZDM1MDdiYjAyYWYyM2JjMDM0YzRlMzJhOTNhNGU4",
+  "snapshot_id": "MTY3MzAyOTM5NCwwMDAwMDAwMDU4YTNhMzkxOWU3MjVmZmYwNjRmY2U5ZGZmYzk4OGMx",
   "tracks": [
     {
       "added_at": "2023-01-06 18:22:48",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
+        "name": "Azules",
+        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
+      },
+      "artists": [
+        {
+          "name": "Louise Phelan",
+          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
+        },
+        {
+          "name": "Octavio Herrero",
+          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "I'm a Woman",
+      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
+    },
+    {
+      "added_at": "2023-01-06 18:22:48",
+      "album": {
         "name": "The Robert Johnson Songbook",
         "url": "https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX"
       },
@@ -999,22 +1019,6 @@
       "duration_ms": 288133,
       "name": "Love In Vain Blues - Studio",
       "url": "https://open.spotify.com/track/2uzGLzv8DPmXrlBfdR9dU8"
-    },
-    {
-      "added_at": "2023-01-06 18:22:48",
-      "album": {
-        "name": "Greatest Blues Covers",
-        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Stormy Monday Blues",
-      "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "All Blues's Up: Songs of Led Zeppelin",
-        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
+        "name": "Greatest Blues Covers",
+        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
       },
       "artists": [
         {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        },
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 175453,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
+      "duration_ms": 263000,
+      "name": "Stormy Monday Blues",
+      "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
     },
     {
       "added_at": "2023-01-06 18:22:48",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2023-01-06 18:22:48",
       "album": {
-        "name": "Azules",
-        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
+        "name": "All Blues's Up: Songs of Led Zeppelin",
+        "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
       "artists": [
         {
-          "name": "Louise Phelan",
-          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
         },
         {
-          "name": "Octavio Herrero",
-          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 247500,
-      "name": "I'm a Woman",
-      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
+      "duration_ms": 175453,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
     },
     {
       "added_at": "2023-01-06 18:22:48",

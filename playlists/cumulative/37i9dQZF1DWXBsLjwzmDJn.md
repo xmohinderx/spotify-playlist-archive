@@ -4,7 +4,7 @@
 
 > Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。©︎和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-51 songs - 2 hr 47 min
+52 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,9 +55,10 @@
 | [Tokyo Wonder.](https://open.spotify.com/track/2qzZWD9zaMaXGQmARikLhL) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Tokyo Wonder.](https://open.spotify.com/album/0QqwSYLopq7ob4Em8QB0qI) | 2:30 | 2023-01-06 |  |
 | [Until You're Saved](https://open.spotify.com/track/6DCqQvsfE1jZ1r94fq8v6A) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:37 | 2023-01-06 |  |
 | [When I Can Spend Time with You](https://open.spotify.com/track/7uUasKHD3MBuTbOrxWOHKq) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:13 | 2023-01-06 |  |
+| [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-10 |  |
 | [Why Am I Crying?](https://open.spotify.com/track/7KLMY1gHBL54hJRgVb4dip) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:21 | 2023-01-06 |  |
 | [Without You](https://open.spotify.com/track/0kg63fJKXDWwPKko8zQPHw) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 1:40 | 2023-01-06 |  |
-| [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 |  |
+| [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 | 2023-01-12 |
 | [名前を呼ぶよ](https://open.spotify.com/track/5jtiIP4VKerDV7eTJwB7za) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/3CZJOaywz0wMS65pKt3b96) | 4:37 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2023-01-07. Prior content cannot be recovered.

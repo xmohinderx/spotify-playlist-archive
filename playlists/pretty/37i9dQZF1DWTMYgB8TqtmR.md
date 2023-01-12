@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – bästa och största hitsen just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,043 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,112 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 7 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
 | 8 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 9 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 |
-| 10 | [The Ballet Girl](https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I) | 3:21 |
+| 10 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 |
 | 11 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
 | 12 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 |
 | 13 | [What's the Point](https://open.spotify.com/track/1Cuthw0weFlC2xFEq0Pdlc) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [What's the Point](https://open.spotify.com/album/3hx0O19NU7TD8eAzg48v34) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 |
 | 50 | [All I Need \(feat\. Franglish\)](https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [All I Need \(feat\. Franglish\)](https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7) | 2:41 |
 
-Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMGE4OWQ4YmVhZTg5ZWE1YzI5OWIwYWUxNjA1ZjJmMDQ2`
+Snapshot ID: `MTY3Mjk1OTYwMCwwMDAwMDAwMDE5ZDQzMTQxYWUyMWM5ZDkwZWM2MDAzYTA5YTUwZjk0`

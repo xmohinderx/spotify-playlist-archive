@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY en portada.
 
-128 songs - 6 hr 44 min
+129 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Nunca Supiste](https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Nunca Supiste](https://open.spotify.com/album/3bIRrdw5Hjvlb59eiT6Ldo) | 3:56 | 2021-12-13 |  |
 | [Oveja Negra](https://open.spotify.com/track/21g1tdWEHKqsZj5OWfi4Pb) | [Sombrahh](https://open.spotify.com/artist/4dmREIz2avuMDu7jOz4l1W) | [Sombrahh](https://open.spotify.com/album/0KV2HbglTxFo6bCqDyoo1U) | 3:34 | 2021-12-13 |  |
 | [Oye lo que traigo](https://open.spotify.com/track/3oIocMhyo5YBxp3xuMDrn6) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [Gancho Perfecto](https://open.spotify.com/album/0N1yI86d5ZXqxtZk5jl1l5) | 4:56 | 2021-12-13 |  |
-| [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 | 2021-12-13 |  |
+| [Pareparqué](https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr) | 3:13 | 2022-10-16 |  |
+| [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 | 2021-12-13 | 2023-01-12 |
 | [Perfidia](https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt) | [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I) | [Perfidia](https://open.spotify.com/album/2lGuZr0GuC81OktPfqh564) | 2:07 | 2021-12-13 |  |
 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 | 2021-12-13 |  |
 | [Pueblo Chico](https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Pueblo Chico](https://open.spotify.com/album/3u0Lrsim4vXAW8kkW4nX90) | 3:02 | 2021-12-13 |  |

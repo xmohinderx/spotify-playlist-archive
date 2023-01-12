@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 19628,
+  "num_followers": 19675,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGY4MTdkNGU1MGNjY2UwOWRiNzc4ZDAzYmFlNDNkYWU1",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGY0NWNmMTY3YTEyZTdhZTExMzExZDdmYjg2MzM0NTQ4",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -139,30 +139,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
       "artists": [
         {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        },
-        {
-          "name": "Willie \"Big Eyes\" Smith",
-          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
-        },
-        {
-          "name": "Calvin \"fuzz\" Jones",
-          "url": "https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb"
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
         }
       ],
-      "duration_ms": 288240,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -199,18 +187,30 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
       },
       "artists": [
         {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        },
+        {
+          "name": "Willie \"Big Eyes\" Smith",
+          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
+        },
+        {
+          "name": "Calvin \"fuzz\" Jones",
+          "url": "https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb"
         }
       ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
+      "duration_ms": 288240,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Shake Rattle & Rock",
         "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 177439,
       "name": "Boogie Woogie Country Girl",
       "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Lovesick Soul",
-      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Lovesick Soul",
+      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Blues On The Prowl",
-        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Booker's Boogie",
-      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Ragtime Guitar's Foremost Fingerpicker",
         "url": "https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 193466,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Blues On The Prowl",
+        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Booker's Boogie",
+      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Good Candy",
-        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
-      },
-      "artists": [
-        {
-          "name": "Lovie Lee",
-          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "West Side Woman",
-      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Harlem Blues Operator",
         "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 150333,
       "name": "I Love My Baby",
       "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Good Candy",
+        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
+      },
+      "artists": [
+        {
+          "name": "Lovie Lee",
+          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "West Side Woman",
+      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
     },
     {
       "added_at": "2022-05-13 10:49:08",

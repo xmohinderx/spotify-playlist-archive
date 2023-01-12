@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of hip hop tracks from South Asia this year\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,913 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,079 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 56 | [Bandish](https://open.spotify.com/track/0LAQGavx2bOA6zx63c1oPw) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Bandish](https://open.spotify.com/album/0BKQwNIOay1F9kt9iEYsI0) | 4:52 |
 | 57 | [Genghis](https://open.spotify.com/track/4byM7YIkw5KQryitRGPEYN) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Genghis](https://open.spotify.com/album/1Qrved64Tom4In578IjkeG) | 3:00 |
 | 58 | [Pablo](https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 4:39 |
-| 59 | [PAISA](https://open.spotify.com/track/5vwe8vW5fEJgymhjfol1cu) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [PAISA](https://open.spotify.com/album/7vEt4GdmRXTrnc3ffTA6gT) | 3:40 |
+| 59 | [PAISA](https://open.spotify.com/track/5vwe8vW5fEJgymhjfol1cu) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Hasan Raheem](https://open.spotify.com/artist/2iPg15EzAFriexYcsD0xTH) | [PAISA](https://open.spotify.com/album/7vEt4GdmRXTrnc3ffTA6gT) | 3:40 |
 | 60 | [Welcome to My Hood](https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Welcome to My Hood](https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK) | 4:00 |
 | 61 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 |
 | 62 | [Bombay to Punjab](https://open.spotify.com/track/1xoQjCAP6a63tZXbsMziXk) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Down to Earth](https://open.spotify.com/album/5q3xcIxiEhCrxwSaiiAqQ3) | 4:03 |

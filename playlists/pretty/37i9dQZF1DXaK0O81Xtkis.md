@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,010 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,023 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 23 | [Not OK](https://open.spotify.com/track/06V8tMMLJS1lNNejvWFzDt) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK](https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg) | 2:39 |
 | 24 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 |
 | 25 | [i wish you loved me](https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i wish you loved me](https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi) | 3:20 |
-| 26 | [The Ballet Girl](https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I) | 3:21 |
+| 26 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 |
 | 27 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 |
 | 28 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 |
 | 29 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 69 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
 | 70 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDM5MDJmZDM0OWIzYzg0MGMxNWRhM2RmMjIwM2Q1Y2E3`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGU2YmNhMzBkZDg4NmY3YmMwY2E5ZTQ4OGNkOWY3NGYy`

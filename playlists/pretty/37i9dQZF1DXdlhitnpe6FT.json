@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 145459,
+  "num_followers": 145550,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDcyYTIzMWJmMzYxYTk0NWRlMDE4NTgyMDQ1NmEzZDM0",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDEzNWZlZjIyODY4YmNhZTQyOTNkY2UwMzAwYzcwN2Iw",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -487,22 +487,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 2",
         "url": "https://open.spotify.com/album/2xgU1k2nI3EXak38BIPHA6"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 220413,
       "name": "Soleado",
       "url": "https://open.spotify.com/track/4n7fsjH01J5GBQsmLMZtiQ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+      },
+      "artists": [
+        {
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 145800,
       "name": "Claire",
       "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
-      },
-      "artists": [
-        {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Svezia, Inferno E Paradiso",
-        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 116559,
-      "name": "Mah N\u00e0 Mah N\u00e0",
-      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 145573,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Svezia, Inferno E Paradiso",
+        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 116559,
+      "name": "Mah N\u00e0 Mah N\u00e0",
+      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Viol\u00edn M\u00e1gico 3 Alegria",
         "url": "https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 221186,
       "name": "El N\u00e1vajo Azul",
       "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Norwegian Rain",
-        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
-      },
-      "artists": [
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "The Approaching Storm",
-      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos",
-        "url": "https://open.spotify.com/album/6d4jnq3ziyFtQWgUSW2X6y"
+        "name": "Norwegian Rain",
+        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
       },
       "artists": [
         {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
         }
       ],
-      "duration_ms": 157010,
-      "name": "Star Dust",
-      "url": "https://open.spotify.com/track/36JolOfhgRcjujpMuH37Fj"
+      "duration_ms": 293853,
+      "name": "The Approaching Storm",
+      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1811,6 +1795,22 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Colecci\u00f3n de \u00c9xitos",
+        "url": "https://open.spotify.com/album/6d4jnq3ziyFtQWgUSW2X6y"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/36JolOfhgRcjujpMuH37Fj"
     },
     {
       "added_at": "2020-12-08 19:02:01",

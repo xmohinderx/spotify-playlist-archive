@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  米津玄師
 
-629 songs - 1 day 15 hr 24 min
+630 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [We Comin' \(f\*\*k dat s\*\*t\)](https://open.spotify.com/track/7ovnU9sSL3RV94D1Ri6y3q) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [We Comin' \(f\*\*k dat s\*\*t\)](https://open.spotify.com/album/0Xj5HT1p3FjsoJdcXhQvGP) | 1:57 | 2022-03-06 | 2022-03-14 |
 | [What's up](https://open.spotify.com/track/6pBLBPnfColV4UhAPnocWK) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [What's up](https://open.spotify.com/album/0oOTQm1tIux02oMc9xcdox) | 3:33 | 2022-07-31 | 2022-09-19 |
 | [What's Your Favorite?](https://open.spotify.com/track/2NQCOI5dNK5hTJI24tA1gb) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [What's Your Favorite?](https://open.spotify.com/album/3gvfcgveerTEsEpzoGv9nq) | 3:20 | 2022-01-09 | 2022-02-07 |
+| [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-10 |  |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-25 | 2022-08-01 |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/7f7ufnrborStLtDM0rP3rO) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/7FACUKFmq5pwsjY09nUeiA) | 2:22 | 2022-07-24 | 2022-07-29 |
 | [With Us](https://open.spotify.com/track/3V3qaACLm2qFCvYZ1amkco) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [With Us](https://open.spotify.com/album/0JmNrJnN3y0CfwpMnoYMrE) | 3:10 | 2022-05-08 | 2022-05-16 |
@@ -462,7 +463,7 @@
 | [ベルベットの詩](https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ベルベットの詩](https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8) | 4:14 | 2022-08-28 | 2022-10-24 |
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-10 | 2022-07-18 |
 | [ホワイトキス](https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo) | [鈴木鈴木](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev) | [ホワイトキス](https://open.spotify.com/album/6cHRZiDktZjUR4LUT0q3jf) | 4:34 | 2021-12-19 | 2022-01-24 |
-| [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 |  |
+| [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 | 2023-01-12 |
 | [マイレージ](https://open.spotify.com/track/5ImfF6RN03TFLydPXzDs2B) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [マイレージ](https://open.spotify.com/album/35laLoJhOxEz0cTpXVWxAf) | 2:50 | 2022-11-20 | 2022-11-29 |
 | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [にゃん北朝時代](https://open.spotify.com/artist/42ANsGZCydh06cNyDJTZHf) | [マイ草履 feat\. にゃん北朝時代](https://open.spotify.com/album/1BXP1xh1EFU9sMJRsHY9on) | 4:36 | 2022-03-06 | 2022-04-11 |
 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 | 2022-02-15 | 2022-05-30 |

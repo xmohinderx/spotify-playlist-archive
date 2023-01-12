@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,887 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,045 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 46 | [I Don't Wanna Go](https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [I Don't Wanna Go](https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf) | 3:06 |
 | 47 | [Send Me An Angel](https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj) | [Perfect Pitch](https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Send Me An Angel](https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm) | 2:20 |
 | 48 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
-| 49 | [Little Do You Know](https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Rotciv & Revilo](https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW) | [Little Do You Know](https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8) | 3:14 |
-| 50 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
+| 49 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
+| 50 | [Little Do You Know](https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Rotciv & Revilo](https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW) | [Little Do You Know](https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8) | 3:14 |
 | 51 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
 | 52 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
 | 53 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg) | [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA) | 2:38 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 57 | [Barking](https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [WISEKIDS](https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2) | [Barking](https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT) | 2:19 |
 | 58 | [Lemonade](https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF) | [HIMATE](https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc), [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd) | [Lemonade](https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O) | 2:19 |
 | 59 | [123 \(Dolly Song\) feat\. Karma Child](https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp) | 2:21 |
-| 60 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 60 | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/track/6fk38fqazMx6mDsCPfWcmL) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/album/0ZiA7fyQ3yrZFJWkZKLFHt) | 2:18 |
 
-Snapshot ID: `MTY3MjQwNTIwMCwwMDAwMDAwMDRlOWYyMjMxZWZlM2FiYTFjY2JhOTA3ZTIyN2VjZjM5`
+Snapshot ID: `MTY3MjQwNTIwMCwwMDAwMDAwMDRjNzk1YzY4MzllZTZmM2ZlMWFmOTY4NmIwYTliZjE0`

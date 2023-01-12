@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 32477,
+  "num_followers": 32496,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkyNjc3OSwwMDAwMDAwMGMwNDNkMjNkY2QxOWJmNWRjZGVkYjEwZGFkNWJkNDEx",
+  "snapshot_id": "MTY3MjkyNjc3OSwwMDAwMDAwMDI5MzEyMTZkYmY0YjIwMDg3NjcwYTc5OWFkNGQ2ZTE2",
   "tracks": [
     {
       "added_at": "2023-01-05 13:52:59",
@@ -299,22 +299,18 @@
     {
       "added_at": "2023-01-05 13:52:59",
       "album": {
-        "name": "Summer Moon (feat. Kevin Kaarl)",
-        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
         }
       ],
-      "duration_ms": 177673,
-      "name": "Summer Moon (feat. Kevin Kaarl)",
-      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
     },
     {
       "added_at": "2023-01-05 13:52:59",
@@ -335,22 +331,6 @@
     {
       "added_at": "2023-01-05 13:52:59",
       "album": {
-        "name": "Come Around EP",
-        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 228473,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
-    },
-    {
-      "added_at": "2023-01-05 13:52:59",
-      "album": {
         "name": "Express",
         "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 156000,
       "name": "Express",
       "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
+    },
+    {
+      "added_at": "2023-01-05 13:52:59",
+      "album": {
+        "name": "Summer Moon (feat. Kevin Kaarl)",
+        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 177673,
+      "name": "Summer Moon (feat. Kevin Kaarl)",
+      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
       "added_at": "2023-01-05 13:52:59",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-01-05 13:52:59",
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2023-01-05 13:52:59",
+      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa"
-    },
-    {
-      "added_at": "2023-01-05 13:52:59",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2023-01-05 13:52:59",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-05 13:52:59",
       "album": {
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
+      },
+      "artists": [
+        {
+          "name": "Jackson Owens",
+          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
+        }
+      ],
+      "duration_ms": 137046,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2023-01-05 13:52:59",
+      "album": {
         "name": "Don't Forget to Look Up",
         "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
-    },
-    {
-      "added_at": "2023-01-05 13:52:59",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
-      },
-      "artists": [
-        {
-          "name": "Jackson Owens",
-          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
-        }
-      ],
-      "duration_ms": 137046,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
     },
     {
       "added_at": "2023-01-05 13:52:59",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-01-05 13:52:59",
       "album": {
-        "name": "Little Fun (feat. Sammy Johnson)",
-        "url": "https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9"
-      },
-      "artists": [
-        {
-          "name": "Hamo Dell",
-          "url": "https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2"
-        },
-        {
-          "name": "Sammy Johnson",
-          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Little Fun (feat. Sammy Johnson)",
-      "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
-    },
-    {
-      "added_at": "2023-01-05 13:52:59",
-      "album": {
         "name": "Like a Ship",
         "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 353506,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
+    },
+    {
+      "added_at": "2023-01-05 13:52:59",
+      "album": {
+        "name": "Little Fun (feat. Sammy Johnson)",
+        "url": "https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9"
+      },
+      "artists": [
+        {
+          "name": "Hamo Dell",
+          "url": "https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2"
+        },
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Little Fun (feat. Sammy Johnson)",
+      "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
     },
     {
       "added_at": "2023-01-05 13:52:59",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-05 13:52:59",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2023-01-05 13:52:59",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2023-01-05 13:52:59",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2023-01-05 13:52:59",

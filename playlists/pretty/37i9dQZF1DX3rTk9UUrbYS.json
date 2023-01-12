@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 38836,
+  "num_followers": 38884,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDc3OWYxYTVlZTMzMWNlNTEzNDNiNWE4NzIwNDUwNTJm",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDMwODhjMzM3NjgyY2JmM2I1YjVkMDVhZDJmMmQ0Mzk0",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 901840,
+      "name": "Impressions - Live At The Village Vanguard, New York/1961",
+      "url": "https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Kasumi",
         "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 122142,
       "name": "Kasumi",
       "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Impressions",
-        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 901840,
-      "name": "Impressions - Live At The Village Vanguard, New York/1961",
-      "url": "https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -333,30 +333,6 @@
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "BASFE",
-        "url": "https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo"
-      },
-      "artists": [
-        {
-          "name": "Bartolo",
-          "url": "https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO"
-        },
-        {
-          "name": "Sousa",
-          "url": "https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc"
-        },
-        {
-          "name": "Ferrandini",
-          "url": "https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk"
-        }
-      ],
-      "duration_ms": 322930,
-      "name": "Sample calculation",
-      "url": "https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "New York Is Now",
@@ -389,6 +365,30 @@
       "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "BASFE",
+        "url": "https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo"
+      },
+      "artists": [
+        {
+          "name": "Bartolo",
+          "url": "https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO"
+        },
+        {
+          "name": "Sousa",
+          "url": "https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc"
+        },
+        {
+          "name": "Ferrandini",
+          "url": "https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk"
+        }
+      ],
+      "duration_ms": 322930,
+      "name": "Sample calculation",
+      "url": "https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1"
+    },
+    {
       "added_at": "2020-12-04 05:02:00",
       "album": {
         "name": "Nothing Unspoken Under The Sun",
@@ -419,18 +419,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
       },
       "artists": [
         {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
         }
       ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
       },
       "artists": [
         {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Maps - Instrumental",
-      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -745,20 +745,20 @@
       "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Piece 4",
-        "url": "https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi"
+        "name": "Four For Trane",
+        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
       },
       "artists": [
         {
-          "name": "Tomasz Stanko Quintet",
-          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Piece 4",
-      "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
+      "duration_ms": 461626,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Four For Trane",
-        "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
+        "name": "Piece 4",
+        "url": "https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi"
       },
       "artists": [
         {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+          "name": "Tomasz Stanko Quintet",
+          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
         }
       ],
-      "duration_ms": 461626,
-      "name": "Mr. Syms",
-      "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
+      "duration_ms": 191080,
+      "name": "Piece 4",
+      "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -891,6 +891,26 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "The Dorothy Wallace Suite",
+        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
+      },
+      "artists": [
+        {
+          "name": "Ran Blake",
+          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Symphony in Green",
+      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Morph",
         "url": "https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 1224332,
       "name": "The Eyes Moving. Slowly.",
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "The Dorothy Wallace Suite",
-        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
-      },
-      "artists": [
-        {
-          "name": "Ran Blake",
-          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
-        },
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Symphony in Green",
-      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
     }
   ],
   "unique_name": "Avant-Jazz",

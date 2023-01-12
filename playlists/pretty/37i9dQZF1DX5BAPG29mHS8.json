@@ -1,13 +1,33 @@
 {
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Carin Leon y Grupo Frontera. ",
-  "num_followers": 4733280,
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Bizarrap & Shakira. ",
+  "num_followers": 4735331,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk0MTYwMCwwMDAwMDAwMGQyMWMxYzU2MTg3NmViMTNmNTBlZDYxMWY5Y2MxNmIx",
+  "snapshot_id": "MTY3MzQ4MTYwMCwwMDAwMDAwMDBkMmI4MDJiODRiMWQ5OTgyN2JmMmVkMjU0MWY0OGI1",
   "tracks": [
+    {
+      "added_at": "2023-01-12 00:00:00",
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 213031,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
     {
       "added_at": "2022-12-12 15:55:47",
       "album": {
@@ -915,22 +935,6 @@
       "duration_ms": 196500,
       "name": "El Hijo Mayor",
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
-    },
-    {
-      "added_at": "2022-09-16 17:00:00",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     }
   ],
   "unique_name": "\u00c9xitos M\u00e9xico",

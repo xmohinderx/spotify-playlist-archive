@@ -4,12 +4,12 @@
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Ramy Sabry
 
-120 songs - 7 hr 14 min
+121 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2022-10-24 |  |
-| [10 Oloub](https://open.spotify.com/track/2M4RHWLlXJbvfGrS9owX38) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [10 Oloub](https://open.spotify.com/album/7dEBbH37LFkUQupc4pcTiN) | 3:29 | 2022-05-04 |  |
+| [10 Oloub](https://open.spotify.com/track/2M4RHWLlXJbvfGrS9owX38) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [10 Oloub](https://open.spotify.com/album/7dEBbH37LFkUQupc4pcTiN) | 3:29 | 2022-05-04 | 2023-01-12 |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2022-05-04 | 2022-06-19 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 |  |
 | [Aala Shanak](https://open.spotify.com/track/32fN22RlrQRRCH59Y80eSB) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:14 | 2022-10-24 |  |
@@ -88,6 +88,7 @@
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-07 |  |
 | [Ouaa Tkhaf](https://open.spotify.com/track/56ghyTakOok9eCfKVktmpR) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Ouaa Tkhaf](https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU) | 2:50 | 2022-07-14 |  |
 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 | 2022-05-04 | 2022-07-15 |
+| [Qalb Eswed](https://open.spotify.com/track/2dZWTzIFI8xPSlXms4HuXV) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Qalb Eswed](https://open.spotify.com/album/7x6Ha87oPhmBuVDQoPEyHn) | 3:10 | 2023-01-11 |  |
 | [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 | 2022-05-04 | 2022-11-08 |
 | [Rabe3 Fengan Ahwa](https://open.spotify.com/track/7arsxgfPgULHOa5rsENcZI) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Rabe3 Fengan Ahwa](https://open.spotify.com/album/0KpM26FhOZpln9EQeJ4OBm) | 3:30 | 2022-05-04 |  |
 | [Sa'af](https://open.spotify.com/track/2KBVedkyvdFdbm2AQOBTYM) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sa'af](https://open.spotify.com/album/1R2gySJizByGXC2rLdVE7X) | 3:36 | 2022-05-04 | 2022-07-13 |

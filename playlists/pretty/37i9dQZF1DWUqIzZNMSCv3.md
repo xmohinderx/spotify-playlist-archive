@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,072 likes - 57 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,452 likes - 57 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 50 | [Montero: Adagio \(After Bach's Violin Concerto No\. 2, BWV 1042\)](https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr) | [Bach and Beyond](https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7) | 5:01 |
 | 51 | [Beethoven: Piano Sonata No\. 8 in C Minor, Op\. 13, "Pathétique": II\. Adagio cantabile](https://open.spotify.com/track/4l5zWNPyET6PqBhxQEyKgt) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Beethoven: Piano Sonatas Nos 8, "Pathétique", 9 & 10](https://open.spotify.com/album/5AuBjTnxyHHKNNKiGt8V0c) | 5:24 |
 | 52 | [Piano Sonata No\. 20 in A Major, D\. 959: II\. Andantino](https://open.spotify.com/track/2lZ4IicfSIP3e1vwUZ4MQj) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 8:55 |
-| 53 | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. posth\. 143, D\. 784 "Grande Sonate": II\. Andante](https://open.spotify.com/track/0igQOjlKECAEjXsKM5Y8dl) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. posth\. 143, D\. 784, "Grande Sonate": II\. Andante](https://open.spotify.com/album/4ARneuJS2sfcd1eSjSarqS) | 4:44 |
+| 53 | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. posth\. 143, D\. 784 "Grande Sonate": II\. Andante](https://open.spotify.com/track/6HbZbPPi4uFNtb4iZYfzzP) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonatas D\. 784 & 959](https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw) | 4:44 |
 | 54 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |
 | 55 | [Fantasia No\. 3 in D Minor, K\. 397](https://open.spotify.com/track/4yExhO3Vh6bLW32qU4DOOs) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger](https://open.spotify.com/album/7rZomvm8hIPSECCPFgAVBf) | 5:46 |
 | 56 | [Rêverie, L\. 68](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 |
 | 57 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 
-Snapshot ID: `MTY3MzI1OTkwMiwwMDAwMDAwMDMwOTUxNDlmN2I1MTJmZDAyZDM4ZDdkZjZkNDZlMTRj`
+Snapshot ID: `MTY3MzI1OTkwMiwwMDAwMDAwMDAxMzYwODM1Zjg4Y2Y5OGFkMWZjMTUzYzI1MTg0MmEw`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 593,
+  "num_followers": 611,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTg4NTIwMCwwMDAwMDAwMDE3NWU4ZGZlN2JkYzliNjBhYzc2NDhmNjEyZTFlMWNm",
+  "snapshot_id": "MTY2OTg4NTIwMCwwMDAwMDAwMDhjMjU3Yjk5NzI2MWNmYjVkZDJlN2ZmMDdmZWQ2NTU4",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 602296,
+      "name": "Freudian",
+      "url": "https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 419306,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 602296,
-      "name": "Freudian",
-      "url": "https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO"
     },
     {
       "added_at": "2022-12-01 09:00:00",

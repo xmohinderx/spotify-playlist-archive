@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,494 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,645 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 20 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 | 21 | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf) | 3:44 |
 | 22 | [Renegade](https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Renegade](https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd) | 4:45 |
-| 23 | [Avalanche](https://open.spotify.com/track/3O9dvtdxw1LMIycQDnKkud) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Avalanche](https://open.spotify.com/album/4tczgxFNxSi7x061uaf322) | 4:21 |
+| 23 | [Avalanche \(feat\. James French\)](https://open.spotify.com/track/603laASXJ2vdJjh3LKF34C) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Avalanche \(feat\. James French\)](https://open.spotify.com/album/5jyFtBYmA9My46FTsKKjTH) | 4:21 |
 | 24 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 |
 | 25 | [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/track/2nB2qlEjAaVtLxNcIUvfWj) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/album/37bxAsxhH15sKeIvRVfjYk) | 2:53 |
 | 26 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 |
 | 75 | [Reunite](https://open.spotify.com/track/2LzBgINM6AAjUHTflU4OiU) | [Minicied](https://open.spotify.com/artist/49UZ0RBgUl86yJ99YgQPhi) | [Reunite](https://open.spotify.com/album/6moBpoGzGg6wkyhks1tyZa) | 3:35 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDQ2N2YyYWE0YjJiZWExYjYwMWQzMDY1OWQ1ZTQyNTQy`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDFhMWU4ZDYwOGJhOGQ0YzU2ODE4MGQ3OGNmNmEzMjE4`

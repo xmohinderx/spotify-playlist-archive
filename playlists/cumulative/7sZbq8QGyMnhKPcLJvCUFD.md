@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-171 songs - 8 hr 51 min
+172 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Take It or Leave It](https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Take It or Leave It](https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL) | 2:46 | 2022-10-07 |  |
 | [Take Me](https://open.spotify.com/track/1w7rP4pnAMKrqzUvXzYm4N) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Take Me](https://open.spotify.com/album/1dn6xT7eVtBBzwRtOVdOn4) | 3:13 | 2022-04-23 |  |
 | [Talk That Way](https://open.spotify.com/track/190BbArduRGJbvuZsdRWBh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Talk That Way](https://open.spotify.com/album/6dBRpROjaS4RQ7TzV9FU8F) | 3:16 | 2022-09-07 |  |
+| [Tension](https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr) | [EXXO](https://open.spotify.com/artist/1BxtvQL2w4dn5CnbtkYsGb) | [Tension](https://open.spotify.com/album/4Dy2wATW6kv9fRrjiG5ljD) | 2:40 | 2023-01-11 |  |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 |  |
 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 | 2022-12-29 |  |
 | [The Path](https://open.spotify.com/track/2ijSdxRsWpBjMpZ7HNQD3U) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw), [Agassi](https://open.spotify.com/artist/6Ts1uqQmSrpQ9YedHKrreu) | [The Path](https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj) | 4:03 | 2022-06-02 |  |

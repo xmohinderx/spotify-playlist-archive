@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,608 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,596 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 30 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 |
 | 31 | [Christmas Ain't Christmas \(Without The One You Love\)](https://open.spotify.com/track/1AGyI7SdbBZo21G0obtQrH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 3:52 |
 | 32 | [Joyful, Joyful](https://open.spotify.com/track/1msKaoGQtek67evpapFJAF) | [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Very McCrary Christmas](https://open.spotify.com/album/3cadYbVxIyNYQ88aWR45jg) | 3:30 |
-| 33 | [Go Tell It On The Mountain](https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 3:50 |
-| 34 | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/track/6xjVbr6rKmM1KIu0lvIDd9) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/album/7b1uYXS3lvyK5mKOnE9hFH) | 2:30 |
+| 33 | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/track/6xjVbr6rKmM1KIu0lvIDd9) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/album/7b1uYXS3lvyK5mKOnE9hFH) | 2:30 |
+| 34 | [Go Tell It On The Mountain](https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 3:50 |
 | 35 | [We Three Kings](https://open.spotify.com/track/0Tvb3mQASB2LpcB28aELxy) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Star \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4AnL89Yy1KzghgRufxv2BX) | 4:06 |
 | 36 | [Someday At Christmas](https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [At Christmas](https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt) | 3:20 |
 | 37 | [What Christmas Really Means](https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Christmas Really Means](https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw) | 4:07 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 66 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
 | 67 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
 | 68 | [What Child Is This?](https://open.spotify.com/track/76DWigqwydczFqlnEPB7Bf) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Holiday Love: The Rebirth](https://open.spotify.com/album/6ZrPBCoj4N9621iaZ4tuOI) | 2:52 |
-| 69 | [His Name Is Jesus](https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 4:32 |
-| 70 | [Tell God Thank You](https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Tell God Thank You](https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ) | 3:38 |
+| 69 | [Tell God Thank You](https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Tell God Thank You](https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ) | 3:38 |
+| 70 | [His Name Is Jesus](https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Fred Hammond Christmas..\. Just Remember](https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9) | 4:32 |
 | 71 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
 | 72 | [Mary Did You Know](https://open.spotify.com/track/2ROTDFwYPHaf1xlEWVVOta) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Gospel Heritage Christmas Vol\. 2](https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p) | 3:00 |
 | 73 | [Mary, Did You Know?](https://open.spotify.com/track/6jnlivJEMYthMmpbCWBWHE) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Mary, Did You Know?](https://open.spotify.com/album/1tNNGU5nKBWK4kCn7fKjtR) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
 | 100 | [No Christmas Without You](https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Presents The Family, No Christmas Without You](https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6) | 4:21 |
 
-Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMGE1N2ZjMTgxNWM3MTA0NDM0MTU2ODAxMDdhOWUxZTZk`
+Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDk2MTNkZGVhNWZhODIxOGM1ZDYzOTIwZjhjNDNjOGUw`

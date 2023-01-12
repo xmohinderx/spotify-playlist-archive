@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Duckwrth
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,881 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,421 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 12 | [Sorry for the Delay](https://open.spotify.com/track/49YpGS0rVcRLtiDvx5JQyp) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:52 |
 | 13 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:55 |
 | 14 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 |
-| 15 | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/track/01Oeql41yunzKzHyIfBWmr) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/album/6MjsNxUERlhYyccLTaMtfS) | 2:16 |
+| 15 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 |
 | 16 | [NEW SHOES](https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 3:18 |
 | 17 | [Hoodwinked](https://open.spotify.com/track/2IrTCLhpb9q7NSd4HdXpdq) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Hoodwinked](https://open.spotify.com/album/26DiCWmZZNdA5ro488WtGf) | 2:54 |
-| 18 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 |
+| 18 | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/track/01Oeql41yunzKzHyIfBWmr) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/album/6MjsNxUERlhYyccLTaMtfS) | 2:16 |
 | 19 | [Pudgy \(with Lil Uzi Vert\)](https://open.spotify.com/track/4oebzB09U8UoYtNnS6vTjt) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:15 |
 | 20 | [FMG](https://open.spotify.com/track/3Tlkud5UiGv7FCc3RcYbhG) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 2:30 |
 | 21 | [The Highs & The Lows](https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Highs & The Lows](https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a) | 4:15 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 41 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 |
 | 42 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 |
 | 43 | [LOLSMH II](https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:24 |
-| 44 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
-| 45 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 |
+| 44 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 |
+| 45 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
 | 46 | [DELIVER!](https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DELIVER!](https://open.spotify.com/album/2qHsiqMMKZAHysnRzYfmOn) | 1:49 |
 | 47 | [Meaningless](https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:36 |
-| 48 | [Basement](https://open.spotify.com/track/6UECeLTI315ypdwrOMdu0N) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:13 |
-| 49 | [Y?](https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Y?](https://open.spotify.com/album/0Fj5OIXKBxaf86Epw3SKUo) | 2:23 |
-| 50 | [Late 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/0nFICJke1mmsKDQDKfJ14o) | [Cayo](https://open.spotify.com/artist/1MEkNy8o7kUgle1Yrru6MH), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Late 2 \(feat\. Trippie Redd\)](https://open.spotify.com/album/5JjVLWwBIpzvNwPsOgyBj2) | 2:24 |
+| 48 | [A Bar About a Bar](https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Bar About a Bar](https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM) | 1:05 |
+| 49 | [Basement](https://open.spotify.com/track/6UECeLTI315ypdwrOMdu0N) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:13 |
+| 50 | [Y?](https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Y?](https://open.spotify.com/album/0Fj5OIXKBxaf86Epw3SKUo) | 2:23 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDFhMDE3M2U3YjAzNmFkZjc2MWMzNWQ1N2E5NmIwNTEz`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGU5NWZmNjMzNjQ5ZjIyN2VlOTgzMmM4OTI5ZjYyOGNj`

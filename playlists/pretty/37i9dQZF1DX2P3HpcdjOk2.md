@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,996 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,212 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 46 | [All the Way from Memphis](https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Mott \(Expanded Edition\)](https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s) | 5:02 |
 | 47 | [Dyna\-Mite](https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 2:56 |
 | 48 | [Mother Of Pearl](https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Stranded](https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC) | 6:52 |
-| 49 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 |
-| 50 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |
+| 49 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |
+| 50 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 |
 
-Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMGQ3Nzk2NDI2YzgzMTNhZWIxOWRkOTMxMjA2YzNmNjMw`
+Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMDhhZjMzMGRmN2FjYzFjNWQ0MWYyOTNiN2RjNzFhMGM4`

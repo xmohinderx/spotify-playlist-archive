@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,668 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,675 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [The Answer Is Yes](https://open.spotify.com/track/6Y20ove4oX9Qh7vf4YVS0q) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:29 |
 | 50 | [It's You \- Tide Electric Remix](https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Tide Electric](https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 3:58 |
 
-Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDBjMzAwMTY1ZDVmZjAzODY1YzAzYTZjODJmZTE1NGI0NQ==`
+Snapshot ID: `Mjc4OTA4MDYsMDAwMDAwMDAxYjU2MmFhMzIzMjdkYmM5ZTNiZmU2MGU0NjNiODg2Ng==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 45,360 likes - 271 songs - 13 hr 11 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 45,528 likes - 271 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,20 +22,20 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 12 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 |
 | 13 | [KNIGHT II](https://open.spotify.com/track/02GhWUHTzx0OfCshU5tXqs) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [KNIGHT II](https://open.spotify.com/album/6vQX5L9FKZZRxBKWKtaxDZ) | 2:06 |
 | 14 | [Akudama](https://open.spotify.com/track/3coeo9H305LiuDbXXn9ANe) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [A Quiet Place to Die](https://open.spotify.com/album/5lhJd031Bu6j42O8wnXWIc) | 2:37 |
-| 15 | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/track/4wmpTWw8iNpSaY4IQ1CUyo) | [Icykiddo](https://open.spotify.com/artist/5YLACC1ibBKtmZjBY0RP0S) | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/album/517ALtIg1FJ9Dtc0lnQv47) | 3:12 |
-| 16 | [EGO DEATH](https://open.spotify.com/track/40V52HOWmhTvAZYB5eE6gy) | [Kill AZYN](https://open.spotify.com/artist/0T0eVH9e9gmiV612cqUA3y) | [EGO DEATH](https://open.spotify.com/album/6CgeVgtXhMRr2I0eafirhj) | 1:13 |
-| 17 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 |
-| 18 | [Ya Tebya ne otdam!](https://open.spotify.com/track/0fOukrzq6Bk4kQdzKjVaot) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [Ya Tebya ne otdam!](https://open.spotify.com/album/6WXpBCYdhp7zq7IbnuNCMR) | 3:41 |
+| 15 | [BxMxC](https://open.spotify.com/track/2HEM4wcGP2nFT1Z2i6jtvo) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BxMxC](https://open.spotify.com/album/3JmyTTW7j2dlYF5sj9KniK) | 3:03 |
+| 16 | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/track/4wmpTWw8iNpSaY4IQ1CUyo) | [Icykiddo](https://open.spotify.com/artist/5YLACC1ibBKtmZjBY0RP0S) | [BANKAI SHUNSUI X KISUKE \(PHONK\)](https://open.spotify.com/album/517ALtIg1FJ9Dtc0lnQv47) | 3:12 |
+| 17 | [EGO DEATH](https://open.spotify.com/track/40V52HOWmhTvAZYB5eE6gy) | [Kill AZYN](https://open.spotify.com/artist/0T0eVH9e9gmiV612cqUA3y) | [EGO DEATH](https://open.spotify.com/album/6CgeVgtXhMRr2I0eafirhj) | 1:13 |
+| 18 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 |
 | 19 | [MANTIS](https://open.spotify.com/track/0g3ngZIy6cinQ2YIVtxw3p) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [MANTIS](https://open.spotify.com/album/3Ogtpz0hNARPSfCjgcZ0Nz) | 1:56 |
-| 20 | [BxMxC](https://open.spotify.com/track/2HEM4wcGP2nFT1Z2i6jtvo) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BxMxC](https://open.spotify.com/album/3JmyTTW7j2dlYF5sj9KniK) | 3:03 |
-| 21 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 |
-| 22 | [TECHNO KILLA](https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [TECHNO KILLA](https://open.spotify.com/album/5SLohcmYkWYidTWBEY2XmW) | 2:10 |
-| 23 | [BUTCHER](https://open.spotify.com/track/41gTOrNwEzYbAy3bvdOcIY) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [BUTCHER](https://open.spotify.com/album/7MVI1AMHeV7f4h09n6ImAP) | 2:21 |
-| 24 | [骸Attack!!](https://open.spotify.com/track/61h5b9EVrcZWg1Fnc1DC88) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GREATEST SHITS](https://open.spotify.com/album/0irA7x2SBgb2PbCUhK5tMK) | 3:53 |
-| 25 | [Disobey](https://open.spotify.com/track/5Ouuz2mxQIsBMC51fhVAbS) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Watch Me Burn](https://open.spotify.com/album/4S1yCE39l3p9mvQT7oXAeh) | 3:12 |
-| 26 | [Bankai](https://open.spotify.com/track/3tJeNGuVPfOGPfqkr1gfZ2) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Bankai](https://open.spotify.com/album/61fjA39NBuIwLmsVnnopig) | 2:07 |
-| 27 | [The After](https://open.spotify.com/track/0GsSqjirRBquQP6q36HchK) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 5](https://open.spotify.com/album/6HgCusDZYtsY9ubOGAl3a3) | 3:58 |
-| 28 | [KRILYA](https://open.spotify.com/track/3ESTNmAMjYDoZ3jYCYCO6V) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [KRILYA](https://open.spotify.com/album/2qEyl6xHoorAggPYh5EAtk) | 3:51 |
+| 20 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 |
+| 21 | [KRILYA](https://open.spotify.com/track/3ESTNmAMjYDoZ3jYCYCO6V) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [KRILYA](https://open.spotify.com/album/2qEyl6xHoorAggPYh5EAtk) | 3:51 |
+| 22 | [Facedown](https://open.spotify.com/track/05CFj95QAb0rhWMc5Z9GHA) | [TVLLER](https://open.spotify.com/artist/00Q3jW41SIUjKPeAfcXkTC) | [Facedown](https://open.spotify.com/album/0t1MXKqSzPgcAu4MPU8kux) | 2:13 |
+| 23 | [TECHNO KILLA](https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [TECHNO KILLA](https://open.spotify.com/album/5SLohcmYkWYidTWBEY2XmW) | 2:10 |
+| 24 | [BUTCHER](https://open.spotify.com/track/41gTOrNwEzYbAy3bvdOcIY) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [BUTCHER](https://open.spotify.com/album/7MVI1AMHeV7f4h09n6ImAP) | 2:21 |
+| 25 | [骸Attack!!](https://open.spotify.com/track/61h5b9EVrcZWg1Fnc1DC88) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GREATEST SHITS](https://open.spotify.com/album/0irA7x2SBgb2PbCUhK5tMK) | 3:53 |
+| 26 | [Disobey](https://open.spotify.com/track/5Ouuz2mxQIsBMC51fhVAbS) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Watch Me Burn](https://open.spotify.com/album/4S1yCE39l3p9mvQT7oXAeh) | 3:12 |
+| 27 | [Bankai](https://open.spotify.com/track/3tJeNGuVPfOGPfqkr1gfZ2) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Bankai](https://open.spotify.com/album/61fjA39NBuIwLmsVnnopig) | 2:07 |
+| 28 | [The After](https://open.spotify.com/track/0GsSqjirRBquQP6q36HchK) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 5](https://open.spotify.com/album/6HgCusDZYtsY9ubOGAl3a3) | 3:58 |
 | 29 | [The Roots](https://open.spotify.com/track/2iGh7KzAbtNvMm9xiQEdH4) | [Tha Mechanic](https://open.spotify.com/artist/4Nhqao0AUSRpuHCSVQA2my), [Brutaal](https://open.spotify.com/artist/2L75XehpwmdRiCRtT8ctiU) | [The Roots](https://open.spotify.com/album/2SB0XAT9AOa4a9b8c66gTd) | 3:25 |
 | 30 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 31 | [OVERDO$E](https://open.spotify.com/track/2QUAM6GL6MpxUgMg50VUWG) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [OVERDO$E](https://open.spotify.com/album/0MfyfjvC5cZUu3E3g1gvDe) | 3:01 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 270 | [ADSR](https://open.spotify.com/track/0CBw2LuhpttdZJs2ICrnlS) | [Jigokü](https://open.spotify.com/artist/5GjXaxXdUpnbmqp5woEoNn) | [ADSR](https://open.spotify.com/album/5EkbfMQqa0QKBIZ1P3ZXd3) | 3:57 |
 | 271 | [Just Dance \(Nightcore\)](https://open.spotify.com/track/4mhq2n7c3pRzUIByyZTWHb) | [Syrex](https://open.spotify.com/artist/1LpsDU7OK8dBh49zmydzft) | [Nightcore Gaming Music Vol\. 3](https://open.spotify.com/album/1dB3iy9PJsjzFqpVUPmzQO) | 2:19 |
 
-Snapshot ID: `MzcxOSxlMWQ3Y2Q4NzYxNjY0MDBiZTAyNGM2OGVjNTI0NDBkYTc2NzhkYTA0`
+Snapshot ID: `MzcyNyxkMWU1MWQ0OTI0MDExYTI0YTMxODM2ZjBiNWZlM2UxMjA1NjBkNDQ4`

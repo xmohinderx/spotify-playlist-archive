@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 9263,
+  "num_followers": 9277,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM0MDA1MSwwMDAwMDAwMDIxZmY1NDBlNGFlMmQ0MTBkYjE1YjJmZTNhMjM3MTMy",
+  "snapshot_id": "MTY3MzM0MDA1MSwwMDAwMDAwMGJjODcyY2FhMGY0ZDQ5ODIwN2RkZGEyYjUzMjVjMTM2",
   "tracks": [
     {
       "added_at": "2022-12-26 09:26:59",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2022-12-26 09:26:59",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "added_at": "2022-12-26 09:26:59",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2022-12-26 09:26:59",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2022-12-26 09:26:59",
-      "album": {
         "name": "1,2,3..",
         "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
         }
       ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2022-12-26 09:26:59",
@@ -407,6 +391,22 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
+    },
+    {
+      "added_at": "2022-12-26 09:26:59",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
       "added_at": "2022-12-26 09:26:59",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
-    },
-    {
-      "added_at": "2022-12-26 09:26:59",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2022-12-26 09:26:59",
+      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
-        "name": "Origin of Love",
-        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Origin of Love",
-      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
-    },
-    {
-      "added_at": "2022-12-26 09:26:59",
-      "album": {
         "name": "Reborn Rich (Original Soundtrack), Pt. 6",
         "url": "https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 257956,
       "name": "THE MIRACLE",
       "url": "https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp"
+    },
+    {
+      "added_at": "2022-12-26 09:26:59",
+      "album": {
+        "name": "Origin of Love",
+        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Origin of Love",
+      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
     },
     {
       "added_at": "2022-12-26 09:26:59",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2022-12-26 09:26:59",
-      "album": {
         "name": "I LOVE YOU",
         "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 177831,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
+    },
+    {
+      "added_at": "2022-12-26 09:26:59",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
     },
     {
       "added_at": "2022-12-26 09:26:59",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-12-26 09:26:59",
       "album": {
+        "name": "Especially For You",
+        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
+      },
+      "artists": [
+        {
+          "name": "Lee Daneung",
+          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Especially For You",
+      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+    },
+    {
+      "added_at": "2022-12-26 09:26:59",
+      "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
-    },
-    {
-      "added_at": "2022-12-26 09:26:59",
-      "album": {
-        "name": "Especially For You",
-        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
-      },
-      "artists": [
-        {
-          "name": "Lee Daneung",
-          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Especially For You",
-      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

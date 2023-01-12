@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,415 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,456 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 19 | [Me Dijiste Tu Nombre](https://open.spotify.com/track/0HGaZe9RRXgedMhyZLeDts) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 3:03 |
 | 20 | [Esto me pertenece](https://open.spotify.com/track/6FKcOmJVNmAq4OsuB4FtLV) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Esto me pertenece](https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9) | 4:35 |
 | 21 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
-| 22 | [No Me Quieras Tanto](https://open.spotify.com/track/2Nde4gcLvyDoy5Fw1UULOl) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Me Quieras Tanto](https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO) | 3:34 |
-| 23 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
+| 22 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
+| 23 | [No Me Quieras Tanto](https://open.spotify.com/track/2Nde4gcLvyDoy5Fw1UULOl) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Me Quieras Tanto](https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO) | 3:34 |
 | 24 | [Escaparnos](https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Escaparnos](https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7) | 3:25 |
 | 25 | [vienes y te vas :\|](https://open.spotify.com/track/7JYmphizKecTyAicTJYgco) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [vienes y te vas :\|](https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU) | 3:09 |
 | 26 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
 | 50 | [Madrid](https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba) | [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3), [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Madrid](https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a) | 2:51 |
 
-Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDU1Y2EzMjUxOGJlYmMzMDc2NTAyNGZlZDcxOTk4Zjg5`
+Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDUwMDk4NTcwMjhjZmIwOTQ0ZGNkZTk2YTAzMjA4Y2Qz`

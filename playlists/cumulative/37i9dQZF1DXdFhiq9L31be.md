@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Stripped](https://open.spotify.com/playlist/37i9dQZF1DXdFhiq9L31be)
 
-> Stripped back recordings like nothing you’ve heard before\.  Cover: Lewis Capaldi.
+> Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
 166 songs - 9 hr 57 min
 

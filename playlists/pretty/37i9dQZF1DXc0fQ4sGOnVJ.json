@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146208,
+  "num_followers": 146231,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDVmMjU3M2M1ZmM0NjNkZmNlMDliZDAxNDgzZWIwZWMz",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGE3YjdhYTlhNjZkNDBkODcyNzIzZjczNmMwMjJhMWQ5",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Blood Red",
         "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 157800,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -995,6 +995,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Country or Not",
+        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "DJ Cliffy D",
+          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Country or Not",
+      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Made On McCosh Mill Road",
         "url": "https://open.spotify.com/album/1TuaaMXRHxbGpFAZeuFF7T"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 210305,
       "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
       "url": "https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Country or Not",
-        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
-      },
-      "artists": [
-        {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "DJ Cliffy D",
-          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "Country or Not",
-      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Was it Worth the Wait",
-        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
-      },
-      "artists": [
-        {
-          "name": "Hosier",
-          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "Country Slide",
-      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Mud Digger 4",
         "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 263706,
       "name": "Field Party",
       "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Was it Worth the Wait",
+        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
+      },
+      "artists": [
+        {
+          "name": "Hosier",
+          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "Country Slide",
+      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Mustang on Mud Tires",
         "url": "https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 220595,
       "name": "Mustang on Mud Tires",
       "url": "https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
     },
     {
       "added_at": "2023-01-06 05:00:00",

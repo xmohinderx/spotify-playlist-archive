@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 19392,
+  "num_followers": 19400,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGMwMDg0ODRjNTlkZDc2MzZjYmY5YTIyYTFiNzMwMWRk",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDdmMzI5YWQxZDFjNDM4MmU4NTI3MDZhZmQ5ZjRlZDhh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Lo Que Vales (Para M\u00ed)",
-        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
-      },
-      "artists": [
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Lo Que Vales (Para M\u00ed)",
-      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Cristales",
         "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 225362,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Lo Que Vales (Para M\u00ed)",
+        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
+      },
+      "artists": [
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Lo Que Vales (Para M\u00ed)",
+      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
-      },
-      "artists": [
-        {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 217002,
       "name": "Momento de Escapar",
       "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+      },
+      "artists": [
+        {
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",

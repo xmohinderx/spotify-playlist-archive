@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Sung Si Kyung(\uc131\uc2dc\uacbd))) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: BYUL(\ubcc4))) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -460,6 +460,24 @@
       "duration_ms": 230173,
       "name": "After you\u2019ve gone",
       "url": "https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6"
+    },
+    {
+      "album": {
+        "name": "Startrail",
+        "url": "https://open.spotify.com/album/4fHQGchrMiUFNmuBbnzkRN"
+      },
+      "artists": [
+        {
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Afternoon",
+      "url": "https://open.spotify.com/track/6lKTh03nceI89Jhy8aFLBL"
     },
     {
       "album": {
@@ -1098,6 +1116,24 @@
       "duration_ms": 258600,
       "name": "Because You're Not Here",
       "url": "https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo"
+    },
+    {
+      "album": {
+        "name": "Begin to snow",
+        "url": "https://open.spotify.com/album/40uF1cLo4ePEhzbH70rg4V"
+      },
+      "artists": [
+        {
+          "name": "Jo Hwanji",
+          "url": "https://open.spotify.com/artist/5akSWTgM0AKiKKfSjEdplh"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "Begin to snow",
+      "url": "https://open.spotify.com/track/2p45sMAYpkYpk1Oq72ulbK"
     },
     {
       "album": {
@@ -2044,7 +2080,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 279160,
       "name": "Confession",
       "url": "https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg"
@@ -2300,7 +2336,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 204454,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/4wPkbwbfLXp5bxcXIChEwZ"
@@ -3084,6 +3120,28 @@
       "duration_ms": 226480,
       "name": "Faded Love",
       "url": "https://open.spotify.com/track/3aHgkjy3iDnHsmVvxLUPex"
+    },
+    {
+      "album": {
+        "name": "Faithful (feat. Choi Yu Ree)",
+        "url": "https://open.spotify.com/album/1jzqC7js5BW3f0G2UyxZfG"
+      },
+      "artists": [
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        },
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Faithful (feat. Choi Yu Ree)",
+      "url": "https://open.spotify.com/track/0NrODeiFaIxusjOtPSpnRW"
     },
     {
       "album": {
@@ -4081,6 +4139,42 @@
     },
     {
       "album": {
+        "name": "How have you been",
+        "url": "https://open.spotify.com/album/6nESHbjPc2o0YzWj9zh5bq"
+      },
+      "artists": [
+        {
+          "name": "Kim Sol",
+          "url": "https://open.spotify.com/artist/2ZXy5pIbcsRpQSdJ7ORUdb"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "How have you been",
+      "url": "https://open.spotify.com/track/2HVku0IEbTB41iQvAJKQuJ"
+    },
+    {
+      "album": {
+        "name": "How Many Times Can We Say Goodbye",
+        "url": "https://open.spotify.com/album/1wr3C63SlJ3P67iICQKfob"
+      },
+      "artists": [
+        {
+          "name": "An Nyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266082,
+      "name": "How Many Times Can We Say Goodbye",
+      "url": "https://open.spotify.com/track/4xeUPkI5r5aHwziwlYXvS0"
+    },
+    {
+      "album": {
         "name": "How much I love you (with Jeong Haeil)",
         "url": "https://open.spotify.com/album/5JsGLUzww5OmVXyVzAeOGg"
       },
@@ -5056,7 +5150,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 274386,
       "name": "If We Ever Meet Again",
       "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
@@ -5572,6 +5666,24 @@
       "duration_ms": 214346,
       "name": "I\u2032m Sad without You (Feat. DOKO)",
       "url": "https://open.spotify.com/track/35gNUShmNzCuSccQ5XheBp"
+    },
+    {
+      "album": {
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256173,
+      "name": "I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
     },
     {
       "album": {
@@ -7000,7 +7112,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 258933,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/1mLVZA1GVUvXVXIvEM1CWv"
@@ -9466,7 +9578,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 234160,
       "name": "Take Me Back In Time",
       "url": "https://open.spotify.com/track/4kclNUEfSlW8uJK9j0LQqt"
@@ -9940,7 +10052,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 212946,
       "name": "The Name of You",
       "url": "https://open.spotify.com/track/6B5f8dNLVXYRoZD67bEfwo"
@@ -11340,7 +11452,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 190973,
       "name": "Winter Theater",
       "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"

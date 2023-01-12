@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Bruna Karla",
-  "num_followers": 884676,
+  "num_followers": 884985,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMzMyOSwwMDAwMDAwMGQ5MDUwODczZGYzMTQ2NWJiODAyZmY3OTU5N2VlNjYy",
+  "snapshot_id": "MTY3MTIxMzMyOSwwMDAwMDAwMDNmYTZiNWYyODU1Zjc2MWQ1ZGU5ZDg3M2FkYjAyYjFm",
   "tracks": [
     {
       "added_at": "2022-12-16 17:55:29",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
+        "name": "Minha Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 307250,
+      "name": "Refinador (Refiner)",
+      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
         "name": "Promessas",
         "url": "https://open.spotify.com/album/1GlIbrvYMYY3ioQEJEHGdb"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 336802,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/5D6hUXCXaBOhcS7Jz9pnFO"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "Minha Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 307250,
-      "name": "Refinador (Refiner)",
-      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
     },
     {
       "added_at": "2022-12-16 17:55:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
         "name": "N\u00e1ufrago",
         "url": "https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 351176,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2022-12-16 17:55:29",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
         "name": "Outro Na Fornalha (Another In The Fire) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6X6Akp6urVW7Y8hA3CGeiA"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 269840,
       "name": "Outro Na Fornalha (Another In The Fire) - Ao Vivo",
       "url": "https://open.spotify.com/track/50RxCp8dmcpd5P66b95u68"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": "2022-12-16 17:55:29",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
+        "name": "Vou Deixar na Cruz",
+        "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 334692,
+      "name": "Vou Deixar na Cruz",
+      "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
         "name": "Eu Tenho Pai",
         "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 400906,
       "name": "Eu Tenho Pai",
       "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "Vou Deixar na Cruz",
-        "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 334692,
-      "name": "Vou Deixar na Cruz",
-      "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
     },
     {
       "added_at": "2022-12-16 17:55:29",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
+        "name": "Teu Toque (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 453930,
+      "name": "Teu Toque - Ao Vivo",
+      "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
+    },
+    {
+      "added_at": "2022-12-16 17:55:29",
+      "album": {
         "name": "Confio em Ti",
         "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
       },
@@ -1247,22 +1267,18 @@
     {
       "added_at": "2022-12-16 17:55:29",
       "album": {
-        "name": "Teu Toque (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
       },
       "artists": [
         {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 453930,
-      "name": "Teu Toque - Ao Vivo",
-      "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": "2022-12-16 17:55:29",
@@ -1287,22 +1303,6 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
-    },
-    {
-      "added_at": "2022-12-16 17:55:29",
-      "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": "2022-12-16 17:55:29",

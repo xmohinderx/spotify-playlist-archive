@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,319 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,430 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 53 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 |
 | 54 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 |
 | 55 | [Build My Life](https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 6:37 |
-| 56 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 |
-| 57 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
+| 56 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
+| 57 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 |
 | 58 | [Not Forgotten](https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo) | [Be Amplified](https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W), [Anaysha Figueroa\-Cooper](https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB) | [Not Forgotten](https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv) | 4:44 |
 | 59 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
 | 60 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
 | 80 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGVjNWY1ZWU5MGE0MTYzNGJhNWM0MzkyMWUwOTI1MWE3`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDRkOTQzMTQwNTAzMDMzOWJiNGMyZTQ2MmU1YzQwZDMz`

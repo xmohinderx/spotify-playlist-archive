@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: WHITE YOU\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: CHRRISSA\. Artwork: Isu Kim
 
-218 songs - 14 hr 0 min
+219 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 | 2022-09-15 | 2022-09-24 |
 | [ครั้งนี้ \- Watch out!](https://open.spotify.com/track/0lUHnqfYeyH5Q4YvzIVvTr) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ครั้งนี้ \(Watch out!\)](https://open.spotify.com/album/64sNs6QyOqCH9oYlqxcXPC) | 3:23 | 2022-11-18 | 2022-11-26 |
 | [คริสต์มาสที่ร้อน](https://open.spotify.com/track/7qW0U6fHwoaxoNyarxcTj4) | [Peenongpor 4](https://open.spotify.com/artist/4EtLxLnbMQ4JOraXst2XzD) | [คริสต์มาสที่ร้อน](https://open.spotify.com/album/1WPZsH1Gx6kIQEy1LYCZ6A) | 3:38 | 2022-12-08 | 2022-12-24 |
-| [ความคิดถึง Feat\. พงษ์ศักดิ์ สวนศรี](https://open.spotify.com/track/5HHPskcDhXnphnIxXiTk6i) | [Sai Bhisa](https://open.spotify.com/artist/7mWztdI5LU6icxNcNUFkGO) | [ความคิดถึง Feat\. พงษ์ศักดิ์ สวนศรี](https://open.spotify.com/album/2yI42ALgdTCwbfgIyX64NW) | 3:31 | 2022-11-18 |  |
+| [ความคิดถึง Feat\. พงษ์ศักดิ์ สวนศรี](https://open.spotify.com/track/5HHPskcDhXnphnIxXiTk6i) | [Sai Bhisa](https://open.spotify.com/artist/7mWztdI5LU6icxNcNUFkGO) | [ความคิดถึง Feat\. พงษ์ศักดิ์ สวนศรี](https://open.spotify.com/album/2yI42ALgdTCwbfgIyX64NW) | 3:31 | 2022-11-18 | 2023-01-12 |
 | [ความจริงที่ไม่อยากรู้ \(Gone\)](https://open.spotify.com/track/4xLSEOWOQ0d54XDW6pGsrW) | [Mr\. Heed](https://open.spotify.com/artist/6ZxDB4x7bDuLPPXkYRuv1t) | [ความจริงที่ไม่อยากรู้ \(Gone\)](https://open.spotify.com/album/4NdIJyyZFSgqKO1HzTey1A) | 4:29 | 2022-09-29 | 2022-12-09 |
 | [ความทรงจำ](https://open.spotify.com/track/7s9lXHu74ykZ69Q5ldDPUx) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [ความทรงจำ](https://open.spotify.com/album/3o2gUPramyiLHb0ycBBU4j) | 4:22 | 2022-10-28 | 2023-01-06 |
 | [คาปูชิโน่](https://open.spotify.com/track/0Uuw81H5h1TQ7gSzjPA1c3) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [คาปูชิโน่](https://open.spotify.com/album/7Cw9wg8AQYJHBrgijLKLXu) | 4:24 | 2022-10-07 | 2022-10-22 |
@@ -193,6 +193,7 @@
 | [เราต่างเก็บใครบางคนไว้ในเพลงรัก](https://open.spotify.com/track/2u1KGFiQVEJLrYZDXtYlZr) | [T\-PHARM](https://open.spotify.com/artist/43sd1QFgIOkQhGbMvz3f3K) | [เราต่างเก็บใครบางคนไว้ในเพลงรัก](https://open.spotify.com/album/6K2whcBAHXxEm8rsQaIXn3) | 3:13 | 2022-10-07 | 2022-10-22 |
 | [เรื่องธรรมดา \(1517\) \[feat\. MANGKORN\]](https://open.spotify.com/track/38LqNoIo76nP28GGevEeE2) | [DVSH](https://open.spotify.com/artist/2Te1zJ4GHWtiKqWMTHg48Z), [MANGKORN](https://open.spotify.com/artist/2vRBQnwBMKxz1Hs5RFKTcr) | [เรื่องธรรมดา \(1517\) \[feat\. MANGKORN\]](https://open.spotify.com/album/6z7fiueLiYb8ASKiyfaKOR) | 4:07 | 2022-09-29 | 2022-12-09 |
 | [เลยอ๋อ \(Niksen\)](https://open.spotify.com/track/1R22HeagVHQck7v9m8wRA0) | [Bellythebear](https://open.spotify.com/artist/2B3Hs8KIU4FqMYrHOWL7wh) | [เลยอ๋อ \(Niksen\)](https://open.spotify.com/album/5uN9xdTandou9yZVSoX6R0) | 2:26 | 2022-10-12 | 2022-10-29 |
+| [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 | 2023-01-11 |  |
 | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/track/4YeIVN4TgjLa0zJR9c6HYu) | [Nutty Natchaya](https://open.spotify.com/artist/5rrQBPWh522YmC6sVnIPGQ) | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/album/3VU7s7BWenLkU6CWnQKUT0) | 4:19 | 2022-09-29 | 2022-11-19 |
 | [เอเลี่ยน \(Alien\)](https://open.spotify.com/track/1LPk0BWiRl0wORZaSLesAB) | [Someone Said](https://open.spotify.com/artist/52KAt5grngxEOJt7Afurj7) | [เอเลี่ยน \(Alien\)](https://open.spotify.com/album/0ACbBTEMW02P8R79OSyzJa) | 4:42 | 2022-12-01 | 2022-12-24 |
 | [แค่ฉัน](https://open.spotify.com/track/2RRpzu9BiBBgR1dyWT6KOx) | [ASHLEY](https://open.spotify.com/artist/5Yk8azvcHWroH0yDBi8wPv) | [แค่ฉัน](https://open.spotify.com/album/691OdxsYPl2MUDu20NyKbo) | 4:04 | 2022-11-18 | 2022-12-02 |

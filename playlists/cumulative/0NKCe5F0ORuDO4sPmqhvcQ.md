@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-365 songs - 20 hr 19 min
+367 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [ESCAPE \(feat\. KUČKA\)](https://open.spotify.com/track/3zRdNrpHq89K6P28shuM0w) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [ESCAPE / Palaces](https://open.spotify.com/album/4UEVQIXGTVlAZWIZsnPVp1) | 4:02 | 2022-04-25 |  |
 | [Eternity](https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB) | [Bafu](https://open.spotify.com/artist/7noh40d76QRMnTPGW2VvO6), [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Eternity](https://open.spotify.com/album/02wSxU0vXahHp0r0qbIDsH) | 3:43 | 2021-11-22 | 2022-01-08 |
 | [Ethereal](https://open.spotify.com/track/5roi8Oveylqkssrp5fQ5hq) | [Audent](https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60) | [Ethereal](https://open.spotify.com/album/7DP0YsFPjmjz6Es5cfLQyv) | 4:26 | 2022-04-11 | 2022-07-16 |
+| [Everyday, Everyday \- Live Edit](https://open.spotify.com/track/4lqEaB69YUYkV2i9T7ZuU0) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Everyday, Everyday \(Live Edit\)](https://open.spotify.com/album/0HecV8KVJugnC7z3OrK1uW) | 6:29 | 2023-01-11 |  |
 | [Explore](https://open.spotify.com/track/62wmupzYp1sdfhKM9cNiYC) | [Prblm Chld](https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Explore](https://open.spotify.com/album/5Se8Q4Kues4cWqDlSTSLa0) | 2:57 | 2022-01-20 | 2022-02-05 |
 | [Eyes](https://open.spotify.com/track/0YAukHbU1yppkR0seIwTW3) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Shift in Momentum](https://open.spotify.com/album/6V1CNkenPJvZkU5oNNirHW) | 4:58 | 2022-07-15 |  |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-11-12 | 2022-01-08 |
@@ -293,6 +294,7 @@
 | [Since I Found You](https://open.spotify.com/track/0NyEvykxXpR7b7u81cyJuz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [AMBUSH](https://open.spotify.com/album/4wwz78eGEjot2bqn2FAvZG) | 4:26 | 2022-06-25 |  |
 | [Sleepless](https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:20 | 2022-07-21 |  |
 | [Sleepless \- The Knocks Remix](https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Sleepless \(The Knocks Remix\)](https://open.spotify.com/album/7dYiwBC4Q0d5RcT6otipKY) | 3:28 | 2022-10-14 |  |
+| [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-01-11 |  |
 | [Snowfall](https://open.spotify.com/track/4bo2EJlAoJMnIKKGCI6RXf) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [Snowfall EP](https://open.spotify.com/album/3wMUrMNl2EjvQx78YEuW7Z) | 5:27 | 2022-03-25 | 2022-06-25 |
 | [so far](https://open.spotify.com/track/4bf50Hgiy5Gp34wvVQwJMR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [so far](https://open.spotify.com/album/6QSICshuXYVvfYyXaHklLP) | 3:36 | 2022-06-27 |  |
 | [So Fucked Up](https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss) | [Aspen King](https://open.spotify.com/artist/1tJuVa4e8TF5YrJhwHBZaE), [44stance](https://open.spotify.com/artist/412wG46pUp52x0jvVZ0epQ) | [So Fucked Up](https://open.spotify.com/album/1tYINWoPffLlj9dTGEJio5) | 3:24 | 2022-03-29 | 2022-09-19 |

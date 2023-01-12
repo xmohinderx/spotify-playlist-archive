@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 1537,
+  "num_followers": 1556,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDk4NWJkOGY3Y2E2MDJjMjZmN2QzNjM1N2Q0NzAzZTli",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDhhOWY0MDM1OWRmNWM1ZjdhMWQ3NmRlMzNiODIwYTQ4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 265366,
-      "name": "Rent Money",
-      "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 265366,
+      "name": "Rent Money",
+      "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/09pESGCreuRO6zGh6Sfloy"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 202997,
       "name": "Image",
       "url": "https://open.spotify.com/track/4E7Z0BHW17nBn1Q4uYRzjO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/09pESGCreuRO6zGh6Sfloy"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE"
     },
     {
       "added_at": "2022-10-01 16:00:00",

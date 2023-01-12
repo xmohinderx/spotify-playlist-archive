@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > Turn the energy levels up and join the party wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,843 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,812 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 46 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
 | 47 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
 | 48 | [Balling \(feat\. Songer, Mr Traumatik, Devilman & OneDa\) \- Edit](https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Balling \(feat\. Songer, Mr Traumatik, Devilman & OneDa\) \[Edit\]](https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay) | 4:26 |
-| 49 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 |
+| 49 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 |
 | 50 | [Get Out My Head](https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Get Out My Head](https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo) | 3:24 |
-| 51 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 |
+| 51 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 |
 | 52 | [Wish You Well](https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Wish You Well](https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ) | 3:25 |
 | 53 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
 | 54 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 72 | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc) | 3:06 |
 | 73 | [Good Luck](https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Good Luck](https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy) | 2:27 |
 | 74 | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb) | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio) | 3:17 |
-| 75 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 |
-| 76 | [Love Me](https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Love Me](https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz) | 1:56 |
+| 75 | [Love Me](https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Love Me](https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz) | 1:56 |
+| 76 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 |
 | 77 | [For a Feeling \(feat\. RHODES\)](https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [For a Feeling \(feat\. RHODES\)](https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2) | 4:56 |
 | 78 | [House Arrest](https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [House Arrest](https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx) | 3:36 |
 | 79 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
 | 100 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
 
-Snapshot ID: `MTY3MjUwMTg5NiwwMDAwMDAwMDkwNzEzYmY4YWUyMTkwNTZlOWEzMTFjZjY2NWFkMjM3`
+Snapshot ID: `MTY3MjUwMTg5NiwwMDAwMDAwMGUxMTQ1NGM3MzU5MzQxMDc3NzQwZWYyYTA1YTQ4Njg3`

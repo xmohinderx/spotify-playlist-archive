@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,885 songs - 5 day 6 hr 51 min
+1,886 songs - 5 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1449,6 +1449,7 @@
 | [Quimey Neuquen](https://open.spotify.com/track/3oRaLG3ZDqXNN4BXhBClrY) | [Jose Larralde](https://open.spotify.com/artist/7va6FT607YxAj4HtoXVEIh) | [Herencia: Canta Jose Larralde](https://open.spotify.com/album/4xMYMRC4GNp6pWsRjeoAyD) | 2:53 | 2022-07-12 |  |
 | [Quizumba de Rei](https://open.spotify.com/track/6nPN6YqkgRU3bL7FFH0ZXS) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 2:54 | 2022-06-09 |  |
 | [Rag waa Nacab iyo Nasteexo \(Men are Cruel and Kind\)](https://open.spotify.com/track/2FFb42uC8Pp6QAxR9jSMVW) | [Aamina Camaari](https://open.spotify.com/artist/2WTl7iHP8zVzOGCtcjuVP8) | [Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa](https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN) | 6:00 | 2022-06-09 |  |
+| [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 | 2023-01-11 |  |
 | [Raspberry Jam](https://open.spotify.com/track/2CGfUFjgJCsDIfaBe73NsT) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/46Zpt8JaprjXhAfcnLvR0Y) | 3:48 | 2022-06-09 | 2022-07-29 |
 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 | 2022-07-27 |  |
 | [Raspberry Jam](https://open.spotify.com/track/73wHgYAe6ASiFrX4Qc8edX) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Self Discovery for Social Survival](https://open.spotify.com/album/7FfRted2sZrQGqBU0Bpw0m) | 3:48 | 2022-10-31 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-239 songs - 13 hr 49 min
+240 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bailão](https://open.spotify.com/track/2hgfeYKzJIaUlrhk6oP3wc) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bailão](https://open.spotify.com/album/7sZwY31f8pBNa5KvlFfSYR) | 3:30 | 2020-10-20 | 2022-07-24 |
 | [ball w/o you](https://open.spotify.com/track/4UW4GsTVETXP2mzXfMT2iC) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:15 | 2020-10-20 | 2022-07-25 |
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2020-10-20 |  |
-| [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 | 2020-10-20 |  |
+| [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 | 2020-10-20 | 2023-01-12 |
 | [Balão](https://open.spotify.com/track/6nc3d5wRTTzkZo29kZRr5r) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Balão](https://open.spotify.com/album/3ExChVUPgeX4QKS0kqLYNz) | 4:13 | 2020-10-20 | 2022-07-29 |
 | [Banco](https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa) | [Banco](https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW) | 4:14 | 2020-10-20 |  |
 | [Bandido Artista](https://open.spotify.com/track/10QoaVwkMEQPgqq21cw4Iq) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ícone](https://open.spotify.com/album/4AQFmyYck7Rf10CHW2w2Pr) | 3:34 | 2020-10-20 | 2022-07-28 |
@@ -41,6 +41,7 @@
 | [Bandit \(with YoungBoy Never Broke Again\)](https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Bandit \(with YoungBoy Never Broke Again\)](https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH) | 3:09 | 2020-10-20 |  |
 | [Batom](https://open.spotify.com/track/5X1p2CarWqiYsur43hpKMD) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Batom](https://open.spotify.com/album/56Zhvpb2xP2PxRuXqYz0DM) | 3:31 | 2020-10-20 | 2022-07-11 |
 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2020-10-20 | 2023-01-01 |
+| [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 | 2020-10-20 |  |
 | [Bendito](https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Bendito](https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm) | 2:57 | 2020-10-20 | 2022-07-29 |
 | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/track/58TLpLev8A4GFCUizxpF7T) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/album/1titgMf8Q4XDYVsG705KMU) | 5:01 | 2020-10-20 | 2022-07-29 |
 | [BLIND \(feat\. Young Thug\)](https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 2:33 | 2020-10-20 | 2022-11-15 |

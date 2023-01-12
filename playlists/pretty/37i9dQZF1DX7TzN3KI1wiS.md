@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,522 likes - 63 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,590 likes - 63 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 11 | [Skin & Bones feat\. Lydmoor & Bon Homme](https://open.spotify.com/track/2055wOcQgZovqaQkw5Ysnn) | [Terranova](https://open.spotify.com/artist/5ZrGK55yglfGEOvnB2japP), [Lydmoor](https://open.spotify.com/artist/0zQINzMtshHtPMnquYdY8d), [Bon Homme](https://open.spotify.com/artist/26medj5lDSbOxPHWBgDxL8) | [Restless](https://open.spotify.com/album/4yo6etaXX7ZEw8nvNkTxiL) | 7:01 |
 | 12 | [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 |
 | 13 | [Parfume \- Dosem Remix](https://open.spotify.com/track/2WArrNYSGENpRw4jJXc5GH) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Parfume \(The Remixes\)](https://open.spotify.com/album/5PNqUnTaHR8mhz6TU4NiX9) | 6:38 |
-| 14 | [Innerbloom](https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 9:38 |
+| 14 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 |
 | 15 | [Hey Now \- Arty Remix](https://open.spotify.com/track/12gjBBbJf17G2b1EOS9rT9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Hey Now](https://open.spotify.com/album/05RsuD9HSeNbXPSxiLAlFv) | 5:51 |
 | 16 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 |
 | 17 | [Taste \- Moon Boots Remix](https://open.spotify.com/track/1zleRNXqH73w0PpKmjdzEB) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 4:53 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 62 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 |
 | 63 | [Yalla](https://open.spotify.com/track/1CkOrhvpzg86QIYD0ArBht) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [GHADA](https://open.spotify.com/artist/6wZOKFHZq2F5TbL5L8KI5O) | [Yalla](https://open.spotify.com/album/7aDGYTUYhb57ivzf6LMncN) | 3:02 |
 
-Snapshot ID: `MTY2NzU3NzI0MywwMDAwMDAwMDk5ODYzYjg3ZDcyOTJhMTVlMzkxYTQ2ZTg4N2Q1M2Yy`
+Snapshot ID: `MTY2NzU3NzI0MywwMDAwMDAwMDhmNmFhZmJmZmVlZDU4ZTdjMDFkZDcwNjJmNWM4MDAw`

@@ -1,15 +1,15 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 435339,
+  "num_followers": 435559,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NTgxOCwwMDAwMDAwMDI1MGJiYTJmZTU0ZThlZTFiYThlMGFkMmQ3MDkzYTMx",
+  "snapshot_id": "MTY3MzM2NTgxOCwwMDAwMDAwMDgzN2NkZGRiZGIwMWE2OTNjNjVhYzU4MTkzMDVmMTdm",
   "tracks": [
     {
-      "added_at": "2023-01-11 01:24:20",
+      "added_at": "2023-01-12 01:26:05",
       "album": {
         "name": "Pieces (2022)",
         "url": "https://open.spotify.com/album/2EzLW1HfD6pXwngmIcE34P"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7FBb9OkuS4JrQN4Hnf3i2z"
     },
     {
-      "added_at": "2023-01-11 01:24:20",
+      "added_at": "2023-01-12 01:26:05",
       "album": {
         "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
         "url": "https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z"
     },
     {
-      "added_at": "2023-01-11 01:24:20",
+      "added_at": "2023-01-12 01:26:05",
       "album": {
         "name": "wintersleep",
         "url": "https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF"
     },
     {
-      "added_at": "2023-01-11 01:24:20",
+      "added_at": "2023-01-12 01:26:05",
       "album": {
         "name": "Again & Again",
         "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-01-05 07:01:47",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-01-05 07:01:47",
-      "album": {
         "name": "Absence 'Side A'",
         "url": "https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "added_at": "2023-01-05 07:01:47",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-01-05 07:01:47",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-05 07:01:47",
       "album": {
-        "name": "1,2,3..",
-        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
-    },
-    {
-      "added_at": "2023-01-05 07:01:47",
-      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2023-01-05 07:01:47",
+      "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
       "added_at": "2023-01-05 07:01:47",

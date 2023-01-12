@@ -2,7 +2,7 @@
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Release The Bats! Siouxsie and the Banshees on the cover.
+> You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
 264 songs - 19 hr 57 min
 

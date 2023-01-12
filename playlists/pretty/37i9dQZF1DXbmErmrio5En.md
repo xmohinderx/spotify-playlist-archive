@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: brakence
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,229 likes - 58 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,339 likes - 58 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 39 | [Internet Girl](https://open.spotify.com/track/3Qo8zqhdyVxacgVJGIQF4u) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Internet Girl](https://open.spotify.com/album/6a48qrtBppd0YVIZpEntaH) | 2:19 |
 | 40 | [PIXEL](https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PIXEL](https://open.spotify.com/album/1zAc4zae8I9OD6liUsw6h2) | 2:46 |
 | 41 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 |
-| 42 | [spotlight](https://open.spotify.com/track/6tq52AOqtrdflzU4SA4SHc) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/3fYonFGxkLex2Y1Aif6YLP) | 2:58 |
+| 42 | [spotlight](https://open.spotify.com/track/5rHWZGatLsEldO8XFSwPX8) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/6py2UNIgqsWcrxMrJ2RYoq) | 2:56 |
 | 43 | [Doubt Me \(with aldn\)](https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Doubt Me \(with aldn\)](https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt) | 1:51 |
 | 44 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 45 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 57 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 |
 | 58 | [Deadline](https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OUTOFBODY](https://open.spotify.com/album/1QXA280UYvDSd53ZKA5AOn) | 2:24 |
 
-Snapshot ID: `MTY3Mjk4NTEwMCwwMDAwMDAwMGIzYTcwN2E2MjhiMzViODY3MTE0ZmFmMTU5NGI3YjJh`
+Snapshot ID: `MTY3Mjk4NTEwMCwwMDAwMDAwMDUzYmJjNmNlZTJlOTFmNjk0ZDRjZmM2M2M2ZDk2NmRh`

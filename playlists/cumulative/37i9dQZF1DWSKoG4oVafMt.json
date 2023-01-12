@@ -4469,6 +4469,32 @@
     },
     {
       "album": {
+        "name": "Iko Zindagi",
+        "url": "https://open.spotify.com/album/0STaVuZue6lZ2VIbcGpZfh"
+      },
+      "artists": [
+        {
+          "name": "Inder Chahal",
+          "url": "https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk"
+        },
+        {
+          "name": "Prince Rakhdi",
+          "url": "https://open.spotify.com/artist/27D50vNC9ZMp58DGsWU2g2"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171843,
+      "name": "Iko Zindagi",
+      "url": "https://open.spotify.com/track/3qTAXAJXCmYxbc9AnEeVlS"
+    },
+    {
+      "album": {
         "name": "Ilahi (From \"Ni Main Sass Kuttni\")",
         "url": "https://open.spotify.com/album/7Amx2o2pSvJHgoddju9d0p"
       },
@@ -4872,12 +4898,12 @@
       },
       "artists": [
         {
-          "name": "Deep Chahal",
-          "url": "https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc"
-        },
-        {
           "name": "Tanishq Kaur",
           "url": "https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E"
+        },
+        {
+          "name": "Deep Chahal",
+          "url": "https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc"
         }
       ],
       "date_added": "2023-01-03",

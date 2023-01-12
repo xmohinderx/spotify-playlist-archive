@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,815 likes - 116 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,823 likes - 116 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 40 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 |
 | 41 | [All for you \(Feat\. KIRIN\)](https://open.spotify.com/track/2VO8V0IXfRrtDDx1gQIYOw) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [\[Vol.65\] You Hee yul's Sketchbook : 40th Voice 'Sketchbook X Jay Park \(Feat\. KIRIN\)\)'](https://open.spotify.com/album/01RCwPhFlKiGxRrZ4WpesT) | 3:03 |
 | 42 | [Ya Ya Ya](https://open.spotify.com/track/0ybTlxpt6jsG1LzGuHyEgA) | [WJSN Chocome](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) | [Hmph!](https://open.spotify.com/album/3oiVOb6e43wsvdV4ClJYm0) | 2:57 |
-| 43 | [Reckless \(with TTG\)](https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Reckless](https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o) | 3:28 |
+| 43 | [Reckless \(with TTG\)](https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Reckless](https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o) | 3:28 |
 | 44 | [Let's Dance \(Feat\. MAMAMOO\)](https://open.spotify.com/track/5lcqxf78duYxgq8STtS7ER) | [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo), [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 3:32 |
 | 45 | [DU RI JYU WA \(Feat\. S.B.N\)](https://open.spotify.com/track/0AjG7OYfaoIFIrCdWadM5f) | [U\-DORAGON](https://open.spotify.com/artist/43mfCruPTvSAMxcNMNSmgg), [S.B.N](https://open.spotify.com/artist/5DVzNlO8caz1F5kdpcOX35) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 3:39 |
 | 46 | [MBTI \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/track/4EDs1R8JOI6nkCbarCsITs) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [PARKMOONCHI UNIVERSE](https://open.spotify.com/artist/4MifTc2uigW2QDJODF2Erk) | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/album/6DPxcUrUw0YZ2o25nJ47D7) | 4:13 |

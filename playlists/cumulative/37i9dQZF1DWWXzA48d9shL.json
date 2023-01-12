@@ -1509,6 +1509,32 @@
     },
     {
       "album": {
+        "name": "Candy Shop",
+        "url": "https://open.spotify.com/album/4JSdF99P1k1VsYsdygHUxe"
+      },
+      "artists": [
+        {
+          "name": "REDIX",
+          "url": "https://open.spotify.com/artist/4j32Ck6YTzyr3tU9LPwkUF"
+        },
+        {
+          "name": "YOUK3IV",
+          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
+        },
+        {
+          "name": "ATRXX",
+          "url": "https://open.spotify.com/artist/2E5WZQTKRSd5no54UjXGj6"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136215,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/07mYvkkJw4Rc3QLIfvEMYF"
+    },
+    {
+      "album": {
         "name": "CANNOT GET ANY BETTER",
         "url": "https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV"
       },
@@ -2344,7 +2370,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 114580,
       "name": "evil empire",
       "url": "https://open.spotify.com/track/6weOGG6GFGbrn8WMTDPvEb"
@@ -3224,7 +3250,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "HOT DEMON B!TCHES NEAR U ! ! !",
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
@@ -4596,7 +4622,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 85894,
       "name": "MISA MISA!",
       "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"

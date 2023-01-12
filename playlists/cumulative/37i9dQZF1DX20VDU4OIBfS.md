@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-352 songs - 22 hr 18 min
+353 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 | 2022-01-01 |  |
 | [Amor de Hombre \(De "La Leyenda del Beso"\)](https://open.spotify.com/track/2XOuNjvWYgPmdtTwjQTd23) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Personalidad](https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O) | 3:04 | 2022-01-01 | 2022-11-13 |
 | [Amor Eterno](https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 6:48 | 2022-08-31 | 2022-11-13 |
-| [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 | 2022-06-02 |  |
+| [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 | 2022-06-02 | 2023-01-12 |
 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 | 2022-01-01 |  |
 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2022-01-01 |  |
 | [Asi No Te Amara Jamas](https://open.spotify.com/track/0E5UI7Dvzl54vtkXX1KeaE) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol I](https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6) | 2:52 | 2022-01-01 | 2022-07-29 |
@@ -218,6 +218,7 @@
 | [Mi Cacharrito \(Road Hog\)](https://open.spotify.com/track/4S8nLILXlFAuzAubJTrSvC) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 2:24 | 2022-01-01 | 2022-07-17 |
 | [Mi Corazon Lloro](https://open.spotify.com/track/2VLOppR2BS8nqPz6ml86oG) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:42 | 2022-01-01 | 2022-07-29 |
 | [Mi Corazon Lloro](https://open.spotify.com/track/1F7nHrOiTvO6pgWX7NnHdO) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6HZIFGEz6mZfrXrCkAlhMI) | 3:42 | 2022-06-02 | 2022-11-22 |
+| [Mi Corazón Lloró](https://open.spotify.com/track/5FVBS2wgzQ66TTCeOSkmZq) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:42 | 2022-12-20 |  |
 | [Mi Forma De Sentir](https://open.spotify.com/track/0fwv93hNRkjY7jq6402VRl) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Éxitos Deluxe](https://open.spotify.com/album/6k2yDycqSIahMwLm8nq1dO) | 4:06 | 2022-01-01 | 2022-07-29 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4X4eypK7U3nCtOegosnciD) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso](https://open.spotify.com/album/5BegiOj46Ggq4dbLT1AK5d) | 5:10 | 2022-01-01 | 2022-07-29 |
 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 | 2022-06-02 |  |

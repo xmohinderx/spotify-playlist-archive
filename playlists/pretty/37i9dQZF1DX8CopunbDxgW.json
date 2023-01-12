@@ -1,12 +1,12 @@
 {
   "description": "The essential indie dance, featuring QRTR.",
-  "num_followers": 825248,
+  "num_followers": 825527,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDEzNDJmNDUwNmQ3Y2ViZWI3ZTdkZWQ2ODQ3NDVjOGM5",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDM0ZGFmNDAxZWQ3OWViYjIxZDA1MWU1ZWUyZGU2OGUw",
   "tracks": [
     {
       "added_at": "2022-10-05 04:00:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
-    },
-    {
       "added_at": "2022-12-16 05:01:00",
       "album": {
         "name": "Quiver",
@@ -387,6 +371,22 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-08 16:57:03",
       "album": {
-        "name": "Slugger 1.4 [2014 Export.WAV]",
-        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
+        "name": "Restless Bones",
+        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 248811,
-      "name": "Slugger 1.4 [2014 Export.WAV]",
-      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
+      "duration_ms": 145573,
+      "name": "Restless Bones",
+      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
     },
     {
-      "added_at": "2022-11-08 16:57:03",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Restless Bones",
-        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
+        "name": "Slugger 1.4 [2014 Export.WAV]",
+        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 145573,
-      "name": "Restless Bones",
-      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
+      "duration_ms": 248811,
+      "name": "Slugger 1.4 [2014 Export.WAV]",
+      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 137739,
       "name": "EXCEPTIONAL",
       "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Butterflies (with Starrah & Four Tet)",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 195706,
       "name": "Butterflies (with Starrah & Four Tet)",
       "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 225368,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Admit It (u don't want 2)",
         "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 263418,
-      "name": "Tunnel of You",
-      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Luv Like",
         "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 186025,
       "name": "Luv Like",
       "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 263418,
+      "name": "Tunnel of You",
+      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1349,24 +1349,24 @@
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
     },
     {
-      "added_at": "2022-12-02 17:10:41",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Sensitive Child (Soulwax Remix)",
-        "url": "https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA"
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t"
       },
       "artists": [
         {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
         },
         {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 346093,
-      "name": "Sensitive Child - Soulwax Remix",
-      "url": "https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O"
+      "duration_ms": 199088,
+      "name": "Hi-Fidelity",
+      "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1405,24 +1405,24 @@
       "url": "https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-12-02 17:10:41",
       "album": {
-        "name": "Hi-Fidelity",
-        "url": "https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t"
+        "name": "Sensitive Child (Soulwax Remix)",
+        "url": "https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
         },
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
         }
       ],
-      "duration_ms": 199088,
-      "name": "Hi-Fidelity",
-      "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
+      "duration_ms": 346093,
+      "name": "Sensitive Child - Soulwax Remix",
+      "url": "https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1743,6 +1743,30 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
+        "url": "https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 197277,
+      "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
+      "url": "https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Shady",
         "url": "https://open.spotify.com/album/45Xyp7bEpghpqDHM0fJZe1"
       },
@@ -1755,30 +1779,6 @@
       "duration_ms": 204387,
       "name": "Shady",
       "url": "https://open.spotify.com/track/6MuqVtrSYOc2CQj65jv8JM"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/10HsH0ayirx1nyFckvfoSF"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Nick Lopez",
-          "url": "https://open.spotify.com/artist/15NoI73ol1fVF11li1RKMB"
-        },
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 218728,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/5hlxswETS4FB4oCg6g7JHk"
     },
     {
       "added_at": "2022-09-09 04:00:00",

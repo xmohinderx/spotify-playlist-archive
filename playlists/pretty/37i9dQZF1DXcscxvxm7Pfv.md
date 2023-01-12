@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from disturbing sounds with white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,758 likes - 188 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,847 likes - 188 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

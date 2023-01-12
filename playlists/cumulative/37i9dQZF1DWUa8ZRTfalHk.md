@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Lizzy McAlpine
 
-1,530 songs - 3 day 7 hr 12 min
+1,531 songs - 3 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-21 | 2022-01-29 |
 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 | 2021-04-10 | 2021-06-12 |
 | [Giants](https://open.spotify.com/track/43CHdbHYdcbUWP10UFKyZ7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/4VyUvPueWuM8Jnkk62gcos) | 2:57 | 2020-10-13\* | 2020-12-18 |
+| [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-11 |  |
 | [Girl From Rio](https://open.spotify.com/track/2plRom0urixt6BE8t7kOhQ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Girl From Rio](https://open.spotify.com/album/4mMUHylk2hcCsxc2FursmJ) | 3:13 | 2021-04-30 | 2021-05-22 |
 | [Girl From Rio \(feat\. DaBaby\)](https://open.spotify.com/track/6CF085Ol0cVda1WqelybEQ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Girl From Rio \(feat\. DaBaby\)](https://open.spotify.com/album/0uN90eZNqNt3b2VHi3YApF) | 3:15 | 2021-05-22 | 2021-07-04 |
 | [GIRL LIKE ME](https://open.spotify.com/track/2vBET2pmrQqafaS6zIaYta) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Translation](https://open.spotify.com/album/2eORe6u9TPXYisYshyXVeH) | 3:40 | 2020-12-11 | 2021-01-29 |

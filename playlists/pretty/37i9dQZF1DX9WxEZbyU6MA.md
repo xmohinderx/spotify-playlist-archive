@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,650 likes - 77 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,771 likes - 77 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 15 | [momentary \- choir version](https://open.spotify.com/track/3Wa0N4CYjsUEzzfrrPCy5U) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [momentary \(choir version\)](https://open.spotify.com/album/2Bqy8Y0KOt3leOpABhixnA) | 2:51 |
 | 16 | [Heyr, himna smiður](https://open.spotify.com/track/5R1sIewu1amxKBwg0BPC7V) | [Härlanda Chamber Choir](https://open.spotify.com/artist/7n8be4ctMXToYUUjSA3iI9), [David Molin](https://open.spotify.com/artist/7fNB0WFwLcyrJh0shYe6Zv) | [A Bright Star Shineth](https://open.spotify.com/album/3qw4BAKdjP6ce7FMbvxqXX) | 3:38 |
 | 17 | [Mass for Four Voices: V\. Agnus Dei](https://open.spotify.com/track/4tJTytklwv0NENMQxzKp8d) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Stile Antico](https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG) | [Byrd: Mass for Four Voices: V\. Agnus Dei](https://open.spotify.com/album/2Qnw992U1fGiV0OeoCfaj1) | 4:03 |
-| 18 | [Ubi caritas](https://open.spotify.com/track/6mUgnZ11m9VpKQxYYt5CIU) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [Ubi Caritas](https://open.spotify.com/album/5Oj7AACQuXzSrmBRirbEWg) | 3:44 |
+| 18 | [Ubi caritas](https://open.spotify.com/track/6mUgnZ11m9VpKQxYYt5CIU) | [Ola Gjeilo](https://open.spotify.com/artist/5pcwq11i2MzWrVSQRHSVYk), [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [Ubi Caritas](https://open.spotify.com/album/5Oj7AACQuXzSrmBRirbEWg) | 3:44 |
 | 19 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 |
 | 20 | [Seeing the Star](https://open.spotify.com/track/7pCg4v0hmeFwFo0JB2sBYm) | [Ben Ponniah](https://open.spotify.com/artist/33wLV9BIpFpqat4MPMjVER), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35), [The Pembroke College Girls’ Choir](https://open.spotify.com/artist/1yOR9zLmkleTdu93bcuQRT), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [Seeing the Star](https://open.spotify.com/album/3N5Lknwmt35GmNVpTEAM8c) | 2:17 |
 | 21 | [Hvíld](https://open.spotify.com/track/0hhks9bICVHvYcEK8Gr9DU) | [Hugi Guðmundsson](https://open.spotify.com/artist/23ePLzOHz1mtHU1g6sBkHm), [Schola Cantorum Reykjavicensis](https://open.spotify.com/artist/7L97GqddY1AOQaTZNYwjT1), [Hörður Áskelsson](https://open.spotify.com/artist/5KPUYhMGu1TQWjXCTUPT3d) | [Meditatio: Music for Mixed Choir](https://open.spotify.com/album/4lAMbvRhwkALVrPske1KY6) | 3:34 |

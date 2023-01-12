@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف: ياسر عبدالوهاب و زيد الحبيب
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,190 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,249 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 5 | [Abous El Sodfa: Abous El Sodfa](https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3M2Q05YLGxIUPHVVet0dMX) | 3:53 |
 | 6 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
 | 7 | [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 |
-| 8 | [Ya Chathab](https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ya Chathab](https://open.spotify.com/album/3gWuYCrnOz2TI5Id6rR5mb) | 3:33 |
-| 9 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 |
-| 10 | [Allah Honej](https://open.spotify.com/track/4NjgpqzC3K5e93GIXgOnk9) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Allah Honej](https://open.spotify.com/album/4jjIGbKOJrpXMylxaDZDnw) | 3:36 |
+| 8 | [Allah Honej](https://open.spotify.com/track/4NjgpqzC3K5e93GIXgOnk9) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Allah Honej](https://open.spotify.com/album/4jjIGbKOJrpXMylxaDZDnw) | 3:36 |
+| 9 | [Ya Chathab](https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ya Chathab](https://open.spotify.com/album/3gWuYCrnOz2TI5Id6rR5mb) | 3:33 |
+| 10 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 |
 | 11 | [Hatha Elshog](https://open.spotify.com/track/1lUCqzlZvfi2aFS5EZMwJb) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Hatha Elshog](https://open.spotify.com/album/26MNNiLNBmJ51vGRYuX9Df) | 3:38 |
 | 12 | [Hasid Ruhi](https://open.spotify.com/track/4iAkXgXx62xHIxgLeUxQJl) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Hasid Ruhi](https://open.spotify.com/album/5pwWK0rAarPm3OBcg86Qzv) | 3:32 |
 | 13 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 49 | [Baad Nerga Ma Areed](https://open.spotify.com/track/4mdAb5pWJd5B6bs4tH19zZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Baad Nerga Ma Areed](https://open.spotify.com/album/5d3CnENBiFVZBUwBGNHlEY) | 3:52 |
 | 50 | [Arahen Bek](https://open.spotify.com/track/2CxAQ1mdOJLcYjriAucuTr) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Ghassan Barsim](https://open.spotify.com/artist/7DotftTLVBmBRACF8K1hK4) | [Arahen Bek](https://open.spotify.com/album/3JHnfBjf3BOkhL8QahUcVE) | 4:00 |
 
-Snapshot ID: `MTY3MzMzNjY1OCwwMDAwMDAwMGNjYWE3YzgxY2E3MjA4ZGM3OThiZGZlOWZiYmJiMmZi`
+Snapshot ID: `MTY3MzQ1MDc5NiwwMDAwMDAwMDk3ZmE1MTdkN2VmMjc3MmEyMjY4MzE4NmZiNjEwM2Q1`

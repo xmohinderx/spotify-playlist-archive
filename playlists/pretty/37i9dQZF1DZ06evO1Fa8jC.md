@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,619 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,688 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Waiting en Vano](https://open.spotify.com/track/5sAK5JZrlRF0QMY6AL0Ygl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vivo a Lo Cafre](https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj) | 4:58 |
 | 50 | [A pesar](https://open.spotify.com/track/6NOXVnNgo1e90gncQ1T4RC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Luna Park](https://open.spotify.com/album/6YnNbmDNBe4H47DUKka4Hp) | 3:23 |
 
-Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDA2YzM2MDQxODViNTQyNTRjY2FmMjE2ZGUxYTY3ZGMxOA==`
+Snapshot ID: `Mjc4OTA4MDYsMDAwMDAwMDBiNTJhN2M4YjYzMjMyYzMwMjY1MzU0MmRkNDUwODkyNQ==`

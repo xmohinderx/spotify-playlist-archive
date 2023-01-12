@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,890 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,952 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 35 | [Latina P.I.M.P](https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Latina P.I.M.P](https://open.spotify.com/album/1xibpvj8AmWtCR4JpyH33D) | 3:29 |
 | 36 | [Bilingue](https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Bilingue](https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf) | 2:51 |
 | 37 | [La Mexicana](https://open.spotify.com/track/24VM2sOz0yCR2feDyTehmA) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Los González](https://open.spotify.com/album/0sGiueQWjYKzacveBnbY5h) | 4:06 |
-| 38 | [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 |
+| 38 | [Pareparqué](https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr) | 3:13 |
 | 39 | [Taxi Driver](https://open.spotify.com/track/4Ux9RV3vI4SAXaOIzVBJXc) | [Norykko](https://open.spotify.com/artist/5xX9fBFLbqn0pYSFZ7qVcA) | [Taxi Driver](https://open.spotify.com/album/2IL0SiGi3zOYsEYFZ9R2A4) | 4:15 |
 | 40 | [Jumanji](https://open.spotify.com/track/3pFAZVZyXw8gBmgrg3iJXl) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh) | [Jumanji](https://open.spotify.com/album/3mUu7S8RdQPRhzkF8SNUZv) | 3:05 |
 | 41 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 98 | [En Lo Mío](https://open.spotify.com/track/2Zv5rpkUPPZgvuss69YWbG) | [Luisa Rincón](https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0) | [En Lo Mío](https://open.spotify.com/album/579Fn8CWkTHrZWZ9YTEwSG) | 3:27 |
 | 99 | [Oveja Negra](https://open.spotify.com/track/21g1tdWEHKqsZj5OWfi4Pb) | [Sombrahh](https://open.spotify.com/artist/4dmREIz2avuMDu7jOz4l1W) | [Sombrahh](https://open.spotify.com/album/0KV2HbglTxFo6bCqDyoo1U) | 3:34 |
 
-Snapshot ID: `MTY3MzA2MjU0MiwwMDAwMDAwMDAyMWE2YWY3Njg3NTUyZjAyZGZiM2I0M2EwOTJkZjFj`
+Snapshot ID: `MTY3MzA2MjU0MiwwMDAwMDAwMGI5OTI2ZjZmN2M5ZDY3ZmNmY2JmMGJlY2M2MDE5MWIz`

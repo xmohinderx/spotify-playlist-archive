@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: なきごと\(Nakigoto\)
 
-729 songs - 1 day 22 hr 49 min
+730 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Natural](https://open.spotify.com/track/6jORyuT0NO71bNeQgwcdAi) | [AQMO](https://open.spotify.com/artist/6fQQ8G7xptjlxYPLY7Lvuy) | [Natural / Sabotage](https://open.spotify.com/album/2qqTrHWRm4zSEWNQW39d2E) | 2:06 | 2023-01-05 | 2023-01-11 |
 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-15 |  |
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
-| [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-07-28 |  |
+| [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:19 | 2022-07-28 |  |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 | 2022-11-15 |
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
 | [Nocturne](https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [Nocturne](https://open.spotify.com/album/1ht11fyfCbL9Do56Icrc3S) | 4:15 | 2022-09-27 | 2022-10-05 |
@@ -307,6 +307,7 @@
 | [Walking Song](https://open.spotify.com/track/1gl95hIaaj65JwNttA4l4h) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [インナージャーニー](https://open.spotify.com/album/3SnT5yTFA8Dyjce9hKHoVL) | 2:00 | 2022-09-06 | 2022-09-09 |
 | [Walking Song](https://open.spotify.com/track/374qlBRNACVJ9iNiqw2xGs) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [INNER JOURNEY](https://open.spotify.com/album/01dlkun9ZeuPK7jcTX9Y9v) | 2:00 | 2022-09-08 | 2022-10-26 |
 | [Wan!](https://open.spotify.com/track/0yRSL5aaF9xJfJxqNyOvhW) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [ダークムーンサイド](https://open.spotify.com/album/3M61w8VggQrFathWSsp1Qh) | 3:27 | 2022-08-09 | 2022-08-17 |
+| [WATASHIHA WATASHINARINO KOTOBADESIKA AISHITERUTO TUTAERUKOTOGADEKINAI](https://open.spotify.com/track/3sRnw37zxEhfl2zevR6npx) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:33 | 2023-01-10 |  |
 | [Who Am I](https://open.spotify.com/track/17UcihyP4nJdrXWsenfJYw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Who Am I](https://open.spotify.com/album/74aqJf9J5uybLGJVv83bAR) | 4:20 | 2022-05-31 | 2022-07-04 |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-28 | 2022-08-24 |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/7f7ufnrborStLtDM0rP3rO) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/7FACUKFmq5pwsjY09nUeiA) | 2:22 | 2022-07-05 | 2022-07-29 |
@@ -675,7 +676,7 @@
 | [祥月](https://open.spotify.com/track/7pw4Ae2KKbwo86OPbrm7i8) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [祥月](https://open.spotify.com/album/65J8BQK0PRT8qmqZdz53Hz) | 4:17 | 2022-06-02 | 2022-06-28 |
 | [私たちってかわいそう?](https://open.spotify.com/track/2fpBndy4bPFRPTJxBmmQ7l) | [ゆ～すほすてる](https://open.spotify.com/artist/3EI9Wy1WFeNy9dbZofQeKW) | [私たちってかわいそう?](https://open.spotify.com/album/1RNTBlSFkj1JAcS4GOY4Bj) | 3:58 | 2022-06-14 | 2022-06-29 |
 | [私の真心](https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [私の真心](https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F) | 7:01 | 2022-06-07 | 2022-07-25 |
-| [私は私なりの言葉でしか愛してると伝えることができない](https://open.spotify.com/track/4saxmZpBcXqATEcZeAGEb2) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/67Ip2mqCJLhgP4V93lk8tV) | 3:33 | 2023-01-10 |  |
+| [私は私なりの言葉でしか愛してると伝えることができない](https://open.spotify.com/track/4saxmZpBcXqATEcZeAGEb2) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/67Ip2mqCJLhgP4V93lk8tV) | 3:33 | 2023-01-10 | 2023-01-12 |
 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 | 2022-06-02 |  |
 | [積乱雲の下で](https://open.spotify.com/track/6fNtxTx6Ic15mlXlGiNXG6) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [積乱雲の下で](https://open.spotify.com/album/1PtvRzDk8nMaURJ3G0fs55) | 3:30 | 2022-06-02 | 2022-06-28 |
 | [空とビール](https://open.spotify.com/track/74qvHeWqG6wjvEqnc46vuJ) | [ナツノコエ](https://open.spotify.com/artist/6IeQH1Haeo0wYA0klPh5X6) | [空とビール](https://open.spotify.com/album/5RixdW8Oe3w9xJbKdwOSF4) | 3:33 | 2022-05-31 | 2022-07-08 |

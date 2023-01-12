@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,576 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,603 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 54 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
 | 55 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 56 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
-| 57 | [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 |
+| 57 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 
-Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMDZmMjI3ZjM5ZDlhYTg4ZjlkNWUyY2E0ZDQ2ZTc1ZjBj`
+Snapshot ID: `MTY3MDU2MjAwMCwwMDAwMDAwMGRkNTYxYzk4ZTZkMDZhODUxOTJmNDY0NTJmYjY5NDI3`

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 376205,
+  "num_followers": 376328,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDY3NmI5YzhhYTU0MGVhMmZiZDU0MzY0MjBhYjRlMTNh",
+  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDgwOGQ3Njg5MmJmNDgzYzExNDdhYTBjYTQxMzZiYjY0",
   "tracks": [
     {
       "added_at": "2022-12-23 03:01:00",
@@ -163,26 +163,22 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 174001,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
+      "duration_ms": 198635,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -211,22 +207,26 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
         }
       ],
-      "duration_ms": 198635,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+      "duration_ms": 174001,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Table For 2",
-        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "Table For 2",
-      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Forever Yours (Avicii Tribute)",
         "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 193846,
       "name": "Forever Yours - Avicii Tribute",
       "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
+        "name": "Pumped up Kicks (feat. Joy Corporation)",
+        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Joy Corporation",
+          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Pumped up Kicks (feat. Joy Corporation)",
+      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
         "name": "Melhores Bailes Do Mundo",
         "url": "https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 121904,
       "name": "Melhores Bailes Do Mundo",
       "url": "https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
-        "name": "Pumped up Kicks (feat. Joy Corporation)",
-        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Joy Corporation",
-          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Pumped up Kicks (feat. Joy Corporation)",
-      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
     },
     {
       "added_at": "2022-12-23 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 166253,
+  "num_followers": 166302,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDVmZjE4MTFiNzkxNDE3ODRiOGMyYmJlOTIxN2NmODRl",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDhhMjkxN2E1ZTNjMjM3NjRkOTIwMTc1OTZiNDVmYjEz",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "How Are You Healing?",
-        "url": "https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy"
-      },
-      "artists": [
-        {
-          "name": "Michael Dixon",
-          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
-        },
-        {
-          "name": "Christina Bell",
-          "url": "https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR"
-        }
-      ],
-      "duration_ms": 285573,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Make It",
         "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 147604,
       "name": "Has anyone ever left you high and dry?",
       "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "How Are You Healing?",
+        "url": "https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy"
+      },
+      "artists": [
+        {
+          "name": "Michael Dixon",
+          "url": "https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF"
+        },
+        {
+          "name": "Christina Bell",
+          "url": "https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR"
+        }
+      ],
+      "duration_ms": 285573,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Lovely Day",
+        "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 101214,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Lovely Day",
-        "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 101214,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Learning to Forgive",
-        "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Nicks",
-          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
-        }
-      ],
-      "duration_ms": 184541,
-      "name": "Learning to Forgive",
-      "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Preach",
         "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 180000,
       "name": "Preach",
       "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Learning to Forgive",
+        "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Nicks",
+          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+        }
+      ],
+      "duration_ms": 184541,
+      "name": "Learning to Forgive",
+      "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX"
-      },
-      "artists": [
-        {
-          "name": "Mystro Productions",
-          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
-        },
-        {
-          "name": "Kylie Odetta",
-          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
-        }
-      ],
-      "duration_ms": 267687,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Vol 3",
         "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 281250,
       "name": "Thanks and Praise",
       "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX"
+      },
+      "artists": [
+        {
+          "name": "Mystro Productions",
+          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
+        },
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "duration_ms": 267687,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Authentic Love",
-        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Carroll",
-          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
-        }
-      ],
-      "duration_ms": 282125,
-      "name": "Authentic Love",
-      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 368026,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Authentic Love",
+        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Carroll",
+          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
+        }
+      ],
+      "duration_ms": 282125,
+      "name": "Authentic Love",
+      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
-      },
-      "artists": [
-        {
-          "name": "Kevin Downswell",
-          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
-        }
-      ],
-      "duration_ms": 255579,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Downswell",
+          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
+        }
+      ],
+      "duration_ms": 255579,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
     },
     {
       "added_at": "2022-07-17 05:38:31",

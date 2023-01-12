@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best experimental music by independent artists and labels in 2022: Hatis Noit on cover #SpotifyWrapped",
-  "name": "Fresh Finds Experimental: Best of 2022",
+  "description": "The best new Experimental by independent artists and labels, with RUMTUM on cover. Artwork Thami Nabil. Updates every Wednesday.",
+  "name": "Fresh Finds Experimental",
   "tracks": [
     {
       "album": {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
@@ -204,6 +204,24 @@
       "duration_ms": 194788,
       "name": "30",
       "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
+    },
+    {
+      "album": {
+        "name": "3210",
+        "url": "https://open.spotify.com/album/1IzRhtMPkgJDrgLW4WdW7I"
+      },
+      "artists": [
+        {
+          "name": "Sl8r",
+          "url": "https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290666,
+      "name": "3210",
+      "url": "https://open.spotify.com/track/0hvUG4dlVkEdzft1zsscQG"
     },
     {
       "album": {
@@ -1047,6 +1065,28 @@
     },
     {
       "album": {
+        "name": "Laniakea",
+        "url": "https://open.spotify.com/album/4DabfAUYqOkf592Dx9l2UP"
+      },
+      "artists": [
+        {
+          "name": "Psynchro",
+          "url": "https://open.spotify.com/artist/1gSz6pGVDZtTnV4eYEJs6K"
+        },
+        {
+          "name": "Whalespruce",
+          "url": "https://open.spotify.com/artist/0UkKQQE4TtAHDSzrrwhPry"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229718,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/4vKeomIq5cLAS6cr1Wvmeb"
+    },
+    {
+      "album": {
         "name": "Umfang EP",
         "url": "https://open.spotify.com/album/7ytVXRA7bx91PWGyDGglY1"
       },
@@ -1214,7 +1254,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/2qHcT7NljouFB0a4eyNd3b"
@@ -1604,7 +1644,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 215330,
       "name": "Archivos Corruptos",
       "url": "https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl"
@@ -1680,6 +1720,24 @@
       "duration_ms": 215438,
       "name": "Artificial Authentic",
       "url": "https://open.spotify.com/track/1Enw5MZBUVnrTzbzwBbpSF"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/4Iwk2ewnpoNveZYtyUOkVh"
+      },
+      "artists": [
+        {
+          "name": "Macaque Sauna",
+          "url": "https://open.spotify.com/artist/6uioSwHxtJHdMnwPro7Avb"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 924000,
+      "name": "Askew",
+      "url": "https://open.spotify.com/track/13NA43NS3lFqwzGOO4Y2nL"
     },
     {
       "album": {
@@ -1944,7 +2002,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 347276,
       "name": "Aural Drift - T.Raumschmiere Remix",
       "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
@@ -2888,7 +2946,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 129953,
       "name": "Broken Theme",
       "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
@@ -3126,6 +3184,24 @@
       "duration_ms": 241782,
       "name": "Cae y Flota",
       "url": "https://open.spotify.com/track/5JLAvBVutIQlg2rVkkU7sc"
+    },
+    {
+      "album": {
+        "name": "caldera",
+        "url": "https://open.spotify.com/album/4wyDYSYCnGstIjNO52WlYB"
+      },
+      "artists": [
+        {
+          "name": "ell!psis",
+          "url": "https://open.spotify.com/artist/7t1UvvGyjeabOYMJzFY5xp"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "caldera",
+      "url": "https://open.spotify.com/track/1yEiUh040BuVgk26EpVAcd"
     },
     {
       "album": {
@@ -4157,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Insomnia EP",
+        "url": "https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6"
+      },
+      "artists": [
+        {
+          "name": "Senchai",
+          "url": "https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH"
+    },
+    {
+      "album": {
         "name": "WAXTAPE",
         "url": "https://open.spotify.com/album/5El2CB6KwFpF11EJNV0LdB"
       },
@@ -4244,6 +4338,24 @@
       "duration_ms": 360000,
       "name": "Critter",
       "url": "https://open.spotify.com/track/646Tt6c7RALvePsjAvINCO"
+    },
+    {
+      "album": {
+        "name": "Weekly Releases 2023",
+        "url": "https://open.spotify.com/album/22IwzQcMkxsOHXqvqYqACL"
+      },
+      "artists": [
+        {
+          "name": "Mindtality",
+          "url": "https://open.spotify.com/artist/3xY2CQpdwGs9GWlMg46k7c"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Crows Nest",
+      "url": "https://open.spotify.com/track/0X98xhKKRQTPdjNFIqeLgS"
     },
     {
       "album": {
@@ -5335,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "Echo Drift",
+        "url": "https://open.spotify.com/album/4cNPYTddkxIIPLt0QbDN6B"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199894,
+      "name": "Echo Drift",
+      "url": "https://open.spotify.com/track/6Ut9YRKyjDBAmRswxBj4f0"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/2QtMlMLGDNmTkBuK5T1TE0"
       },
@@ -5826,7 +5956,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 163937,
       "name": "Equator song",
       "url": "https://open.spotify.com/track/1jzEVLqonHuG8srbBA8O8E"
@@ -6282,7 +6412,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 209112,
       "name": "Fiction Of A Sea",
       "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
@@ -9290,10 +9420,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/3jpOOcLYrymJ358kfuLDdT"
+      },
+      "artists": [
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102635,
+      "name": "INSOMNIA",
+      "url": "https://open.spotify.com/track/5wEKnz6PAPW37NL5TgzX54"
     },
     {
       "album": {
@@ -9872,7 +10020,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 223448,
       "name": "L.O.M",
       "url": "https://open.spotify.com/track/3L36poDWNRauEKJounUPAC"
@@ -9944,7 +10092,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 224879,
       "name": "La Primavera",
       "url": "https://open.spotify.com/track/6kWPInBiAX0YxEDAHeZ4wK"
@@ -10832,6 +10980,24 @@
       "duration_ms": 146451,
       "name": "Lulala",
       "url": "https://open.spotify.com/track/66MFk8bSS0sphKrUHTfaqV"
+    },
+    {
+      "album": {
+        "name": "Lumbago",
+        "url": "https://open.spotify.com/album/5VdPz6FNMsqG1zkipJgxiB"
+      },
+      "artists": [
+        {
+          "name": "[BORDERS]",
+          "url": "https://open.spotify.com/artist/1R9x7GaOIBxNsWsUo8KRdu"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163953,
+      "name": "Lumbago",
+      "url": "https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j"
     },
     {
       "album": {
@@ -12008,6 +12174,24 @@
       "duration_ms": 255458,
       "name": "Moon Ferns",
       "url": "https://open.spotify.com/track/7raBJIEGLI5fCtIwrpVDOo"
+    },
+    {
+      "album": {
+        "name": "OUT OF THIS WORLD",
+        "url": "https://open.spotify.com/album/69n01B4dzNMnlZxhQnGrd1"
+      },
+      "artists": [
+        {
+          "name": "Hyas",
+          "url": "https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272600,
+      "name": "Moonboots",
+      "url": "https://open.spotify.com/track/57VTFuFeCLbpwijqPX6h4m"
     },
     {
       "album": {
@@ -13276,6 +13460,24 @@
       "duration_ms": 218704,
       "name": "On Time For Her",
       "url": "https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1"
+    },
+    {
+      "album": {
+        "name": "One at a Time",
+        "url": "https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv"
+      },
+      "artists": [
+        {
+          "name": "Lisel",
+          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "One at a Time",
+      "url": "https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN"
     },
     {
       "album": {
@@ -16865,6 +17067,24 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/3vVinGv4WKDwrSWTPXeXfI"
+      },
+      "artists": [
+        {
+          "name": "Guppi",
+          "url": "https://open.spotify.com/artist/5nh8clVBo9FF44ZCLQFX0o"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204206,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/63By9fJeNee1s2XfbeANwb"
+    },
+    {
+      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/4RiMvT2fwVAaCIzUVL3ydT"
       },
@@ -16974,7 +17194,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 261336,
       "name": "Storme",
       "url": "https://open.spotify.com/track/1t2zdUDyGzJm7Pa2OcHaQv"
@@ -17694,6 +17914,24 @@
       "duration_ms": 226600,
       "name": "The Big Deep",
       "url": "https://open.spotify.com/track/34Zw89YYLu5OS1oUt8R47Q"
+    },
+    {
+      "album": {
+        "name": "The Blissful Sounds of Miracula",
+        "url": "https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9"
+      },
+      "artists": [
+        {
+          "name": "oedipus apartment complex",
+          "url": "https://open.spotify.com/artist/3ny7Weqo4NGDnp0kT8WhXe"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "The Blissful Sounds (Title Track)",
+      "url": "https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL"
     },
     {
       "album": {
@@ -19078,7 +19316,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
@@ -19190,7 +19428,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 214016,
       "name": "Tungsten Tears",
       "url": "https://open.spotify.com/track/6c6Ca3lJcigHoufkh6rdJr"
@@ -20812,7 +21050,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
@@ -20982,6 +21220,24 @@
       "duration_ms": 227093,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/3Ov9hd59cYEYlgsv1zRjAk"
+    },
+    {
+      "album": {
+        "name": "You Do It",
+        "url": "https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ"
+      },
+      "artists": [
+        {
+          "name": "Marlene Ribeiro",
+          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441840,
+      "name": "You Do It",
+      "url": "https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv"
     },
     {
       "album": {

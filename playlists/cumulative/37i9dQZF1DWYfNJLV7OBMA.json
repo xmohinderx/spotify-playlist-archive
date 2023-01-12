@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Trending Sinhalese pop hits. Cover - Anushka Udana",
+  "description": "Trending Sinhalese pop hits. Cover - Kanchana Anuradhi",
   "name": "Sinhala Pop",
   "tracks": [
     {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 211304,
       "name": "H\u00e4ma Heenema",
       "url": "https://open.spotify.com/track/5OM14r0sz2gYucEKq2BiRe"
@@ -1817,6 +1817,28 @@
     },
     {
       "album": {
+        "name": "MAGE",
+        "url": "https://open.spotify.com/album/2JQPe7xoFerVtANTr0gmZ1"
+      },
+      "artists": [
+        {
+          "name": "Kanchana Anuradhi",
+          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
+        },
+        {
+          "name": "Chamath Sangeeth",
+          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "MAGE",
+      "url": "https://open.spotify.com/track/2tyGqrHSrExJNR0IeWcpoX"
+    },
+    {
+      "album": {
         "name": "Mal Mada Haasi",
         "url": "https://open.spotify.com/album/1zjtQYfuCjSubEJzaHjwSp"
       },
@@ -1880,7 +1902,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 192272,
       "name": "Mal Onchilla",
       "url": "https://open.spotify.com/track/1kQzWYUZnqQJm3H43eDNXd"
@@ -2078,6 +2100,24 @@
       "duration_ms": 205609,
       "name": "Mandaaram Kathawe",
       "url": "https://open.spotify.com/track/0HPgrZPFOHxobYLHxLneoj"
+    },
+    {
+      "album": {
+        "name": "Mandaram Eli",
+        "url": "https://open.spotify.com/album/7DH1ArjMLHLpfysdHLtDtx"
+      },
+      "artists": [
+        {
+          "name": "Bhashi Devanga",
+          "url": "https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Mandaram Eli",
+      "url": "https://open.spotify.com/track/2US9BVE4YN1Werb6WEc34o"
     },
     {
       "album": {
@@ -3482,7 +3522,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 235822,
       "name": "Senkadagala Nuwarata",
       "url": "https://open.spotify.com/track/31F6ey8UEapbPbXj8ihGzR"
@@ -3720,7 +3760,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 224965,
       "name": "Sundara Landa",
       "url": "https://open.spotify.com/track/1rQIdSLOUgTD7roxCDKeVH"

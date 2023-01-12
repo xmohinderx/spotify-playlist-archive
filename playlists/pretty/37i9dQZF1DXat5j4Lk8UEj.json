@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 484992,
+  "num_followers": 485028,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMDNlZDcyYjhiZGU3NzJhNTIwMjc5OTAwYjViNjdlNTky",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMGQyZjNhNWFiOGFiNTg0NTY0MmViNWEyYTk1ZTJhNDE2",
   "tracks": [
     {
       "added_at": "2022-02-17 17:26:43",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Cautionary Tale",
-        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Cautionary Tale",
-      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "All Your Favorite Bands",
         "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 243319,
       "name": "Things Happen",
       "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Cautionary Tale",
+        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Cautionary Tale",
+      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 253253,
       "name": "Stand For Myself",
       "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Juniors",
-        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Hear It Again",
-      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 221706,
       "name": "Seven Hours",
       "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Hear It Again",
+      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "How Low",
+        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
+      },
+      "artists": [
+        {
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "How Low",
+      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 172324,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "How Low",
-        "url": "https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "How Low",
-      "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 231800,
       "name": "Absolute Loser",
       "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/2WQB0iJb75vXIGyyeQ84ea"
+      },
+      "artists": [
+        {
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+        }
+      ],
+      "duration_ms": 236880,
+      "name": "All About Our Love",
+      "url": "https://open.spotify.com/track/6Bdb25Xd50dlIZWuSjEuTO"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/2WQB0iJb75vXIGyyeQ84ea"
-      },
-      "artists": [
-        {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
-        }
-      ],
-      "duration_ms": 236880,
-      "name": "All About Our Love",
-      "url": "https://open.spotify.com/track/6Bdb25Xd50dlIZWuSjEuTO"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "That Kind of Life",
-        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
-      },
-      "artists": [
-        {
-          "name": "Michigan Rattlers",
-          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 195213,
       "name": "River Wider",
       "url": "https://open.spotify.com/track/5ucRrHQrCGDeUdL5bKFWk1"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "That Kind of Life",
+        "url": "https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV"
+      },
+      "artists": [
+        {
+          "name": "Michigan Rattlers",
+          "url": "https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "False Names",
-        "url": "https://open.spotify.com/album/3Kkl2vgUyemvMLo57qF5SX"
-      },
-      "artists": [
-        {
-          "name": "John Joseph Brill",
-          "url": "https://open.spotify.com/artist/6q5toimiubECVRWlZSJEUi"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "False Names",
-      "url": "https://open.spotify.com/track/3bx4cm6DijL3kzNVo58d1j"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Old Sob Story",
         "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 196160,
       "name": "Old Sob Story",
       "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "False Names",
+        "url": "https://open.spotify.com/album/3Kkl2vgUyemvMLo57qF5SX"
+      },
+      "artists": [
+        {
+          "name": "John Joseph Brill",
+          "url": "https://open.spotify.com/artist/6q5toimiubECVRWlZSJEUi"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "False Names",
+      "url": "https://open.spotify.com/track/3bx4cm6DijL3kzNVo58d1j"
     }
   ],
   "unique_name": "Folk Rock Favorites",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 27166,
+  "num_followers": 27175,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzIxNixmYzNiZjY0ZDk5Zjc3ZjM0ZDcwZmNjOGY1MzdhNjYyNTYxMzhjZTEx",
+  "snapshot_id": "MzIxOSxlMTdiYzZkZmM2N2E3ODdmOTIzMjVhNDQ0NmMzNWJiNjNjYTc1YjYw",
   "tracks": [
     {
       "added_at": "2023-01-09 19:27:25",
@@ -23,6 +23,30 @@
       "duration_ms": 159616,
       "name": "Rice",
       "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
+    },
+    {
+      "added_at": "2023-01-11 18:47:38",
+      "album": {
+        "name": "The Last Goodbye (Hayden James Remix)",
+        "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
+      "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
     },
     {
       "added_at": "2022-12-08 01:36:37",
@@ -399,22 +423,6 @@
       "duration_ms": 277432,
       "name": "Dancing In The Shadows",
       "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
-    },
-    {
-      "added_at": "2022-09-16 19:22:02",
-      "album": {
-        "name": "MOSQUITO",
-        "url": "https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK"
-      },
-      "artists": [
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Blush Me Out!",
-      "url": "https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST"
     },
     {
       "added_at": "2022-08-24 17:18:03",

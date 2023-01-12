@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,121 songs - 2 day 12 hr 34 min
+1,122 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 | 2022-08-09 | 2022-08-12 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-29 | 2022-12-16 |
 | [Give It To Me](https://open.spotify.com/track/6wpk1zTTTXD7O64vL7TodM) | [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Give It To Me](https://open.spotify.com/album/5ftAJP7ejD3F85LL78jo0U) | 2:51 | 2023-01-01 | 2023-01-03 |
-| [Give It To Me](https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq) | [Mckyyy](https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug) | [Give It To Me](https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5) | 2:51 | 2023-01-08 |  |
+| [Give It To Me](https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq) | [Mckyyy](https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug) | [Give It To Me](https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5) | 2:51 | 2023-01-08 | 2023-01-12 |
 | [Give It To Me \(TikTok\) \- Remix](https://open.spotify.com/track/2RQOyTK7GG9HQMruQXS7wP) | [Splice Records](https://open.spotify.com/artist/2ZADLHKIfy45s3KdoA6Jn5) | [Give It To Me \(TikTok\) \(Remix\)](https://open.spotify.com/album/5TFGWVkpLUO22vriADgKLo) | 2:52 | 2022-12-31 | 2023-01-05 |
 | [Give It To Me \- Remix](https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [Give It To Me \(Remix\)](https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf) | 2:51 | 2022-12-24 | 2022-12-31 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-07-05 | 2022-08-21 |
@@ -907,6 +907,7 @@
 | [Super Urus](https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Super Urus](https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh) | 2:22 | 2022-03-15 | 2022-04-13 |
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2022-12-27 |  |
 | [Supernova](https://open.spotify.com/track/3P6ittiEouCDcNIloFCjK0) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Supernova](https://open.spotify.com/album/4ZTYT3K6INV7kddKC2UuDA) | 2:18 | 2022-11-15 | 2022-11-19 |
+| [sure thing \(sped up\)](https://open.spotify.com/track/6fBiLOkPcQ3iFUpmIv88fQ) | [accelerate](https://open.spotify.com/artist/7IErGg6ZCfFyJJoKGUUBpv), [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [sure thing \(sped up\)](https://open.spotify.com/album/2OcWg39f3Ms3Zsf01J7asL) | 1:53 | 2023-01-11 |  |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2021-12-27 | 2022-01-29 |
 | [Surface Pressure \- From "Encanto"/Soundtrack Version](https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Surface Pressure \(From "Encanto"\)](https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA) | 3:22 | 2022-01-28 | 2022-03-02 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-02-08 | 2022-04-06 |

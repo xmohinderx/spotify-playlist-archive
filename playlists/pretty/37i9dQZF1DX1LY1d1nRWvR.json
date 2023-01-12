@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 24482,
+  "num_followers": 24493,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGYzYzliMjY3NGE4Yjg4Y2VkOWIwMmMzODdiMzAzMGUy",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDE4ZjhjNTZhNmYyOTk0NWI5NTYyYmE2YmFlNTVmMGNi",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Rivers Of The Red Planet",
+        "url": "https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7"
+      },
+      "artists": [
+        {
+          "name": "Max Graef",
+          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+        }
+      ],
+      "duration_ms": 67943,
+      "name": "Jazz 104",
+      "url": "https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Rivers Of The Red Planet",
-        "url": "https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7"
-      },
-      "artists": [
-        {
-          "name": "Max Graef",
-          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
-        }
-      ],
-      "duration_ms": 67943,
-      "name": "Jazz 104",
-      "url": "https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
-      },
-      "artists": [
-        {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
-        }
-      ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/1MioiNBndcGhsQOFk3l6fu"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 508773,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/5yPowIqdVPFaBvBmhoLE0Y"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -743,6 +727,22 @@
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "New Tab",
-        "url": "https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe"
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
       },
       "artists": [
         {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Frog Fractions",
-      "url": "https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q"
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -907,34 +907,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Side Street",
-        "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
+        "name": "New Tab",
+        "url": "https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe"
       },
       "artists": [
         {
-          "name": "daniel hayn",
-          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Israel Strom",
-          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
-        },
-        {
-          "name": "Tom Walsh",
-          "url": "https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB"
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
         }
       ],
-      "duration_ms": 217080,
-      "name": "Side Street",
-      "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
+      "duration_ms": 280000,
+      "name": "Frog Fractions",
+      "url": "https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q"
     }
   ],
   "unique_name": "lush",

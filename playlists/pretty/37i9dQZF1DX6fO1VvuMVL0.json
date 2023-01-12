@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 44843,
+  "num_followers": 44922,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMGYxMTQwNDEwNzY5OTdhN2YwZWJjMzAxY2MxZmUzZmY0",
+  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMDMxMjdhN2NiMTFkNDM4ZWU5MzNhOTczMTZmNjU1MGUw",
   "tracks": [
     {
       "added_at": "2022-09-21 07:38:38",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 324773,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Stan Kenton",
-        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
-      },
-      "artists": [
-        {
-          "name": "Stan Kenton",
-          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
-        }
-      ],
-      "duration_ms": 553320,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "The Jimmy Giuffre 3",
         "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 231466,
       "name": "That's the Way It Is",
       "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Stan Kenton",
+        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
+      },
+      "artists": [
+        {
+          "name": "Stan Kenton",
+          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
+        }
+      ],
+      "duration_ms": 553320,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/3o9MM2gxNHvLKBv21JkhnD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "Lazy Tones",
-      "url": "https://open.spotify.com/track/2ppbxxVVyS1XKmNo1NV5qH"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 221693,
       "name": "Show Me - Instrumental",
       "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3o9MM2gxNHvLKBv21JkhnD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "Lazy Tones",
+      "url": "https://open.spotify.com/track/2ppbxxVVyS1XKmNo1NV5qH"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "A Pell Of A Time",
-        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
       },
       "artists": [
         {
-          "name": "Dave Pell's Jazz Octet",
-          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 338000,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+        "name": "A Pell Of A Time",
+        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Dave Pell's Jazz Octet",
+          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
         }
       ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
+      "duration_ms": 338000,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
     },
     {
       "added_at": "2022-09-21 07:38:38",

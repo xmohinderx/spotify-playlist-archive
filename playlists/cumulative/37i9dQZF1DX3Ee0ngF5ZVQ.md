@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
 
-393 songs - 23 hr 26 min
+394 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 | 2022-01-28 |  |
 | [All I'll Ever Need](https://open.spotify.com/track/1lxkcOTt0dVH2w5ebxZ89M) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [All I'll Ever Need](https://open.spotify.com/album/2e8kblQYR7TPLPzLIP7rRN) | 3:22 | 2022-02-11 | 2022-07-09 |
 | [All In This Together](https://open.spotify.com/track/7gvpJ3YIEBOcgpjgP9v8hW) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [All In This Together](https://open.spotify.com/album/0c05xTDdNlYMUqzeOx9X3X) | 3:38 | 2022-02-25 | 2022-07-27 |
+| [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 | 2023-01-06 |  |
 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 | 2021-12-17 | 2023-01-07 |
 | [All We Are Is Memories](https://open.spotify.com/track/5v2UMwQWKZOIBD4d7CFN5a) | [Houston Bernard](https://open.spotify.com/artist/47sMYU4wkPXThnOUOSqbXl) | [All We Are Is Memories](https://open.spotify.com/album/5Hz5PIPFSlJdTr9HJXmbGc) | 4:00 | 2021-12-17 | 2022-03-19 |
 | [All You Got](https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [All You Got](https://open.spotify.com/album/6t9hCUzNZ79wpGmXv4NAZg) | 3:13 | 2022-01-28 | 2022-07-29 |
@@ -194,7 +195,7 @@
 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 | 2022-01-28 | 2022-11-06 |
 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 | 2021-12-31 | 2022-03-19 |
 | [I'm Going Home](https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau) | 3:29 | 2022-08-26 | 2022-10-09 |
-| [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 |  |
+| [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 | 2023-01-12 |
 | [If I Know You](https://open.spotify.com/track/66Owg4vn0ZoqbMwrwqj4Eo) | [Hayden McBride](https://open.spotify.com/artist/5OprlGplkFPge47AnclgTq), [Holly Beth](https://open.spotify.com/artist/0N1Mo7HAAXKXmkNGlpDpsq) | [Worth the Wait](https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 | 2022-05-06 |  |
 | [If It Don't Have a Honky Tonk](https://open.spotify.com/track/1cb6MOfdZffj4i0e681VGL) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [If It Don't Have a Honky Tonk](https://open.spotify.com/album/2qcBsICzPfGOWyKDyoxhK5) | 3:24 | 2022-07-15 | 2022-09-17 |

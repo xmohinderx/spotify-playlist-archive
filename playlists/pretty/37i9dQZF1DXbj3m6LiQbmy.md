@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,019 likes - 73 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,023 likes - 73 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 63 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 |
 | 64 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 |
 | 65 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 8:13 |
-| 66 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
+| 66 | [Acid Gentle Moves](https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 5:23 |
 | 67 | [Insegnami la vita](https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F), [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Malcostume](https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN) | 3:58 |
-| 68 | [Acid Gentle Moves](https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 5:23 |
-| 69 | [Comet](https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Comet](https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr) | 4:21 |
-| 70 | [Chi se ne frega](https://open.spotify.com/track/6RUaPDMCEVkPgceTNMYJrJ) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:47 |
+| 68 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
+| 69 | [Chi se ne frega](https://open.spotify.com/track/6RUaPDMCEVkPgceTNMYJrJ) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:47 |
+| 70 | [Comet](https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Comet](https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr) | 4:21 |
 | 71 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
 | 72 | [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Nuda](https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs) | 3:16 |
 | 73 | [MOVESET \(feat\. Kiddy Smile & David Blank\)](https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:16 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDFhYzFjYzhjYzMwOTNkZTk4ZGI0MzZkZjNmN2ZlNzI3`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDVkNmI3MDUyMzUxMzAwMGVlYmM5MTk5ZmI4NzcwZTMz`

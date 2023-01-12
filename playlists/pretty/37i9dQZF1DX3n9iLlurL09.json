@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 57954,
+  "num_followers": 58028,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDk3MDZjZjY5ZmQ2NGJhMTUyMzgxZmY0ZmFhMTc4NGFj",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDNlNGZhNWU2MDVkZTIxODM0OWNhN2M5OTcxYjEwNmVh",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 199453,
       "name": "Simple As This",
       "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Tessellate",
-      "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 198613,
       "name": "Love Is Blindness",
       "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 314986,
-      "name": "Taro",
-      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1195,6 +1179,22 @@
       "duration_ms": 207306,
       "name": "I Belong in Your Arms",
       "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 314986,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Flume: Deluxe Edition",
         "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 236440,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/5nZTvs242o6FWluCfmZZAM"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1375,6 +1375,26 @@
       "duration_ms": 217960,
       "name": "Paddling Out",
       "url": "https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Jezzabell Doran",
+          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
+        }
+      ],
+      "duration_ms": 209376,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1443,26 +1463,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Jezzabell Doran",
-          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "T-Shirt",
+          "url": "https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Colour Of The Trap",
         "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 262293,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "T-Shirt",
-          "url": "https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "On Top",
-      "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",

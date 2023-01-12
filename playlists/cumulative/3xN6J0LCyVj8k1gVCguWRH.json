@@ -12433,6 +12433,24 @@
     },
     {
       "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/7vUcObi4ApZmT7EUf9iGF6"
+      },
+      "artists": [
+        {
+          "name": "Haidee",
+          "url": "https://open.spotify.com/artist/5TUlz1H8AM5ghjz7yDuLbQ"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162103,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/5YFlr91QYRDtBW05rUqOoZ"
+    },
+    {
+      "album": {
         "name": "The Youngbloods",
         "url": "https://open.spotify.com/album/5s0VNKqar5MPHpL5atfTFG"
       },

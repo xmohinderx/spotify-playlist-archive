@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 110772,
+  "num_followers": 110782,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDNlOTA1OGEzY2JiN2RmYzgwODViYTJkMDY4NjdkMmQ3",
+  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDY1OGZjNDVmM2NlZDU2Mjc2NTA3ZmQxOTVmZDc5NGEw",
   "tracks": [
     {
       "added_at": "2022-11-25 00:00:00",
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     },
     {
-      "added_at": "2023-01-11 01:20:03",
+      "added_at": "2023-01-12 01:21:21",
       "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Everybody's Saying Thursday's The Weekend",
-        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Everybody's Saying Thursday's The Weekend",
-      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Fingers of Steel",
         "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Everybody's Saying Thursday's The Weekend",
+        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Everybody's Saying Thursday's The Weekend",
+      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "No Rule",
-        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 325888,
-      "name": "No Rule",
-      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 196533,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "No Rule",
+        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 325888,
+      "name": "No Rule",
+      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Blu Shirt Boy",
+        "url": "https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 223703,
+      "name": "Blu Shirt Boy",
+      "url": "https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Guitar Music",
         "url": "https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Blu Shirt Boy",
-        "url": "https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 223703,
-      "name": "Blu Shirt Boy",
-      "url": "https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "The Dance You Sell",
-        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
-      },
-      "artists": [
-        {
-          "name": "L'objectif",
-          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
-        }
-      ],
-      "duration_ms": 242512,
-      "name": "The Dance You Sell",
-      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Bleak Sublime",
         "url": "https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Dreams, Pains & Paper Planes",
-        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
+        "name": "The Dance You Sell",
+        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
         }
       ],
-      "duration_ms": 201942,
-      "name": "I'm Just High",
-      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
+      "duration_ms": 242512,
+      "name": "The Dance You Sell",
+      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Dreams, Pains & Paper Planes",
+        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "I'm Just High",
+      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "It's My Birthday",
+        "url": "https://open.spotify.com/album/1V3nahHw2dEpUrHv6Ce9cI"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 170041,
+      "name": "It's My Birthday",
+      "url": "https://open.spotify.com/track/6tw9U0hTxMl6q7IMRkyeMJ"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "SOMEWHERE IN NOWHERELAND",
         "url": "https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 226800,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "It's My Birthday",
-        "url": "https://open.spotify.com/album/1V3nahHw2dEpUrHv6Ce9cI"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 170041,
-      "name": "It's My Birthday",
-      "url": "https://open.spotify.com/track/6tw9U0hTxMl6q7IMRkyeMJ"
     },
     {
       "added_at": "2022-11-25 00:00:00",

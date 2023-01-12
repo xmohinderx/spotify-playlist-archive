@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-484 songs - 1 day 6 hr 20 min
+485 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [YUME O MOTO](https://open.spotify.com/track/4nThYWGPWFHPBSdumRyopx) | [Yoko Ono & Plastic Ono Super Band](https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Steve Khan](https://open.spotify.com/artist/59SNrXVA519VMDpAktiSk3), [Andy Muson](https://open.spotify.com/artist/0a3E0bgMlBDw0HppxrkFuG), [Rick Marotta](https://open.spotify.com/artist/24KsY9DrfNKXOVYH8MOMsK), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Don Grolnick](https://open.spotify.com/artist/0Ssqhquy8WFuqz7ZnZuBkR), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [YUME O MOTO](https://open.spotify.com/album/4QzzPg1n4sq3T5lUzcVcvU) | 3:32 | 2022-07-19 | 2022-08-03 |
 | [Yumeiro](https://open.spotify.com/track/4JEHy29qyTSqdBorS2YXsF) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Yumeiro](https://open.spotify.com/album/3otX8IfXWpv22xCpzXICzl) | 4:01 | 2023-01-05 |  |
 | [ZOMBIE'S HIGH](https://open.spotify.com/track/76lHomIgluXSSV3B3OoyNb) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [高木祥太](https://open.spotify.com/artist/43hUML7jUeCalYFED25lga), [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [ZOMBIE'S HIGH](https://open.spotify.com/album/6rEM6ma5RsuWJdtgXbrjZs) | 3:33 | 2022-06-14 | 2022-07-01 |
-| [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 | 2022-11-17 |  |
+| [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 | 2022-11-17 | 2023-01-12 |
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-10 |  |
 | [ええじゃないか '22](https://open.spotify.com/track/2ZjURkk1c2PPNsvUObkgCB) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO) | [SLOW DOWN THEORY / ええじゃないか '22](https://open.spotify.com/album/1KBo7Om7i1VqDmXGmAor3Z) | 4:21 | 2022-06-21 | 2022-06-29 |
 | [おつかれさま](https://open.spotify.com/track/67CX2TCjTzcfOVLG37MqYC) | [Borsch](https://open.spotify.com/artist/6KKXBoP2i6wgxXX8mUbQcc) | [おつかれさま](https://open.spotify.com/album/1FMFYaEbNu6fRSANvfr8JL) | 3:27 | 2022-08-30 | 2022-09-02 |
@@ -447,6 +447,7 @@
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-09-02 |  |
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-05-26 | 2022-06-24 |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 |  |
+| [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-11 |  |
 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 | 2022-05-26 | 2022-07-29 |
 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 | 2022-05-26 | 2022-07-06 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2022-11-08 | 2022-12-17 |

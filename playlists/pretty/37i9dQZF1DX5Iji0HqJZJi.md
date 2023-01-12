@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Iji0HqJZJi.md) - [plain]
 
 > All the best classical releases of 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Iji0HqJZJi.md) - [plain]
 | 30 | [Nocturne Op\. 27, No\. 2](https://open.spotify.com/track/3PkHY26Ua6b4excwJF4BJV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Chopin: Nocturne Op\. 27, No\. 2](https://open.spotify.com/album/1SzHtLACdtHDWRZyuadxTm) | 6:29 |
 | 31 | [Loom — piano reworks](https://open.spotify.com/track/4wCg95zm652wWBnryX9oS6) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 3:56 |
 | 32 | [3 Songs, Op\. 7: I\. Après un rêve \(Version for Violin and Piano\)](https://open.spotify.com/track/0enxWAXiYB6JEVqzIRgDba) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Itamar Golan](https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu) | [Fauré: 3 Songs, Op\. 7: I\. Après un rêve \(Version for Violin and Piano\)](https://open.spotify.com/album/72wwK3KjvCRXCucBMLt2iS) | 3:13 |
-| 33 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/1YOcHkMysw1Fju4Qwnc5yP) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/album/3BxJDDOa9Tgy0GzEBs6I1d) | 4:36 |
+| 33 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/3BBQCvYSHoFIQksOn4bR64) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [J\. S\. Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/30KhwzXKLIh3iolvmPBxU5) | 4:36 |
 | 34 | [Songbird](https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:02 |
 | 35 | [Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 |
 | 36 | [Tchaikovsky: The Seasons, Op\. 37a: No\. 6, June\. Barcarolle](https://open.spotify.com/track/4hdKqrctjCvXDSi5ZKDtoC) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning Piano \- Tchaikovsky: Barcarolle \(June\)](https://open.spotify.com/album/691vnadLWLRLCjltix7nxn) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Iji0HqJZJi.md) - [plain]
 | 99 | [Sonata No\. 62 in E\-Flat Major, Hob\. XVI: 52: III\. Finale](https://open.spotify.com/track/4lIzzujXFnaehoeH6V53X9) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Jean\-Efflam Bavouzet](https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ) | [Haydn: Sonata No\. 62 in E\-Flat Major, Hob\. XVI: 52: III\. Finale](https://open.spotify.com/album/3eJljhonx9vLuuTXho0u6G) | 5:47 |
 | 100 | [Romance in F Major, Op\. 50](https://open.spotify.com/track/5J6ciJRfuNau7VQtzzqBra) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Oleg Caetani](https://open.spotify.com/artist/5aQCrqgWkrOGdG7qb2FMVT) | [Romance in F Major, Op\. 50](https://open.spotify.com/album/7K8NC7FE0Jc225sdLR3NUd) | 7:34 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDVlNzQxNjlkNGY1YTkwMzdlYzFkMWIzYTgzYzU5ZWE5`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGZmMzg0MDYxODQyY2EzMjlhOGZlZDU1NDdmYTM5ZGFl`

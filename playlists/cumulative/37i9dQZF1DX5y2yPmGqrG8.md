@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-472 songs - 1 day 20 hr 42 min
+473 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Burning Love](https://open.spotify.com/track/0YjoKktjL95d6bCszZits7) | [santyskies](https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv) | [Burning Love](https://open.spotify.com/album/7MLEP4Ik41myE0hJnFcjt2) | 5:50 | 2022-08-13 | 2022-09-28 |
 | [C.N.C.S.](https://open.spotify.com/track/2ZiiKpgE7q6BjCQ4tfr0dN) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 6:31 | 2021-10-06 | 2022-06-03 |
 | [Cabaraú](https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0) | 6:32 | 2022-03-30 | 2022-07-18 |
+| [Caged At Last](https://open.spotify.com/track/6SruU1URjdHmZQmo4oMBjo) | [Mister Water Wet](https://open.spotify.com/artist/5aqEOu3QIHCuqyYCVm9rwB) | [Top Natural Drum](https://open.spotify.com/album/2ljEWiS1VCpgLw9amVDLri) | 3:43 | 2023-01-12 |  |
 | [Cairn I.](https://open.spotify.com/track/4aPfG7xvNIwfcJCTvV2q5Q) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Marta Salogni](https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS) | [Landform](https://open.spotify.com/album/7dU8QnxYDKsg5yJN2zG1fP) | 4:10 | 2021-10-06 | 2022-07-25 |
 | [Cairn VI.](https://open.spotify.com/track/3iRY4v04uIRVGkIGcsbSJd) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Marta Salogni](https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS) | [Landform](https://open.spotify.com/album/7dU8QnxYDKsg5yJN2zG1fP) | 6:43 | 2021-10-06 | 2022-07-29 |
 | [Calimayan](https://open.spotify.com/track/3y7lez26VNRGyrnjEuBnsD) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK) | [Flutes, Echoes, It's All Happening!](https://open.spotify.com/album/22aOMaVdU4T335x8n5CLM1) | 2:31 | 2021-10-06 | 2022-08-04 |
@@ -277,7 +278,7 @@
 | [Murmur \- Machinefabriek Remix](https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Murmur \(Machinefabriek Remix\)](https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf) | 4:01 | 2022-01-13 | 2022-07-28 |
 | [My Attitude My Horoscope](https://open.spotify.com/track/3HOnYG8aNIunYRfifc16GS) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 4:09 | 2021-10-06 | 2022-07-04 |
 | [Myth Machine](https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04) | [Yuta Matsumura](https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa) | [Red Ribbon](https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp) | 4:25 | 2022-09-21 | 2022-10-15 |
-| [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-29 |  |
+| [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-29 | 2023-01-12 |
 | [Near Light](https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:28 | 2021-10-06 |  |
 | [Nereus \(Spirits Over the Lake\)](https://open.spotify.com/track/1nEU4BcSMLCIhRK5n3biYz) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Allegory of Allergies](https://open.spotify.com/album/4eFe4ZdFsQhPBnktKIRn3v) | 15:58 | 2022-03-30 | 2022-06-09 |
 | [Netra ken](https://open.spotify.com/track/7tQcv4sfQdhtTRD1UBfnOa) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Emily Chappell](https://open.spotify.com/artist/3XyVOmYc0lZnIIBpUmfgzr) | [Netra ken](https://open.spotify.com/album/6D9pGRFHcOabkpi0CrDuWp) | 3:14 | 2022-04-22 | 2022-07-26 |

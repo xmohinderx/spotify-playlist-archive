@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 36006,
+  "num_followers": 36024,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGVjZWJjYjIxZWVjZTFhYmQxMjNkYTJmNGI0OGYwZDhi",
+  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMDMwZDJjNWQ2NTkyNzc1YTU3YzI5YjQyZTIwYTQ2OTlh",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Georgia",
         "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "There\u2019s Nothing But Space, Man!",
         "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "I Just Came To Dance",
         "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "dancing in the kitchen",
-        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 208599,
-      "name": "dancing in the kitchen",
-      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Welcome To The Madhouse",
         "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 178156,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "dancing in the kitchen",
+        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 208599,
+      "name": "dancing in the kitchen",
+      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
-      "added_at": "2023-01-11 01:05:01",
+      "added_at": "2023-01-12 01:13:17",
       "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
     },
     {
+      "added_at": "2023-01-12 01:13:17",
+      "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 188792,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
+    },
+    {
       "added_at": "2022-10-28 20:58:08",
       "album": {
         "name": "Godlight",
@@ -1131,22 +1147,6 @@
       "duration_ms": 185374,
       "name": "Green Grass",
       "url": "https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM"
-    },
-    {
-      "added_at": "2023-01-11 01:05:01",
-      "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 188792,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "You Got",
-        "url": "https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 206435,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Cloudy Day (Acoustic)",
         "url": "https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185139,
       "name": "Cloudy Day - Acoustic",
       "url": "https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "You Got",
+        "url": "https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 206435,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK"
     }
   ],
   "unique_name": "Wholesome",

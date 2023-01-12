@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 結束バンド\(Kessoku Band\) ©はまじあき／芳文社・アニプレックス
 
-369 songs - 1 day 1 hr 32 min
+370 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-27 | 2022-11-20 |
 | [No.6](https://open.spotify.com/track/5PX4xUYIxqAdrekai2B3K2) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD), [Lowland Jazz](https://open.spotify.com/artist/15YaKCW5WtV9QKQCNRbIlO) | [No.6 \(TVアニメ「戦闘員、派遣します!」オープニング・テーマ\)](https://open.spotify.com/album/0n1H1DFuxbt9E6KnwaMvH0) | 3:54 | 2022-07-19 | 2022-07-28 |
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-09 | 2022-06-11 |
+| [Not as Dramatic As...](https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Not as Dramatic As...](https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR) | 4:22 | 2023-01-10 |  |
 | [Omoideshiritori](https://open.spotify.com/track/0FnA6x9CTUsZRlYzKJ8pG6) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [DIALOGUE+1](https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w) | 4:23 | 2022-06-09 | 2022-06-15 |
 | [One Wish](https://open.spotify.com/track/0sDrDg3wwrxSl0YVEmYpMW) | [Riho Iida](https://open.spotify.com/artist/5zTeZtVkjRJNavenIaFFuz) | [One Wish](https://open.spotify.com/album/0FF8Vqm3lb71OLciJGxXGy) | 4:13 | 2022-06-14 | 2022-07-21 |
 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2022-10-03 | 2023-01-02 |
@@ -257,7 +258,7 @@
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-06-09 |  |
 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 | 2022-06-14 | 2022-07-29 |
 | [デビきゅー](https://open.spotify.com/track/6J3gSl9trhgr55W9wpNHRK) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [デビきゅー](https://open.spotify.com/album/0OSFzXPDtVqUiiVAEa5A7H) | 3:36 | 2022-07-07 | 2022-07-10 |
-| [ドラマチックじゃなくても](https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [ドラマチックじゃなくても](https://open.spotify.com/album/2pAuAsjzwHKiPx47Vy6DxK) | 4:22 | 2023-01-10 |  |
+| [ドラマチックじゃなくても](https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [ドラマチックじゃなくても](https://open.spotify.com/album/2pAuAsjzwHKiPx47Vy6DxK) | 4:22 | 2023-01-10 | 2023-01-12 |
 | [ドラマチックマーケットライド](https://open.spotify.com/track/3fsNcr51VQNxuDTejkBo3R) | [北白川たまこ\(cv:洲崎 綾\)](https://open.spotify.com/artist/44c0FMGDShNOz38GGoSGS4) | [ドラマチックマーケットライド](https://open.spotify.com/album/2Qp9pDqBPiin1nnEThAQbr) | 4:20 | 2022-06-14 | 2022-06-17 |
 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 | 2023-01-10 |  |
 | [ドレス](https://open.spotify.com/track/0GtyXOIALhodGAPWAz2r8v) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [ドレス](https://open.spotify.com/album/77xlpcZfxdkDdWoTEHGE3F) | 2:39 | 2022-06-12 | 2022-07-25 |

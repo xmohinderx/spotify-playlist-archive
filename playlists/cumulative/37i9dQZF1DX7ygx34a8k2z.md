@@ -2,7 +2,7 @@
 
 ### [Thrifted](https://open.spotify.com/playlist/37i9dQZF1DX7ygx34a8k2z)
 
-> 
+> dig through the record bin.
 
 184 songs - 12 hr 8 min
 

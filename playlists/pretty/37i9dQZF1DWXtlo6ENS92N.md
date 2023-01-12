@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
+> Finest quality of Bollywood music handpicked for you\. Cover \- Alia and Ranbir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,883 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,691 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 59 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 |
 | 60 | [Nazm Nazm](https://open.spotify.com/track/1We89SAonMk70QBbfXERxa) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Bareilly Ki Barfi](https://open.spotify.com/album/1P8eifMN4WiKEXtptCBwJQ) | 3:46 |
 
-Snapshot ID: `MTY3MjAzNDYzMiwwMDAwMDAwMDRjNWEyNDQwMjRlNTk4MjViOTNhN2RhMjQwYTgyMjk1`
+Snapshot ID: `MTY3MzQxMTU0MCwwMDAwMDAwMDhlNDdkODY5ZjYwMTZmYjU4NmY4ODY1NGFlZTRiZjAw`

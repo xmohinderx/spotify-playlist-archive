@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-135 songs - 5 hr 11 min
+136 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 | 2022-09-09 |  |
 | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/track/3khiYRqf3tjb6PSGBhkfl4) | [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw), [Ahmed Shakib](https://open.spotify.com/artist/2pXBuKCgIX7qJEa2Dfm21a) | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/album/7E96Jeo9E1LDYsg2hKrDcZ) | 5:04 | 2022-09-09 |  |
 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 | 2022-09-09 |  |
-| [Masat Magan](https://open.spotify.com/track/2yjBb4W0tXHLD5kyO81lqa) | [Flamings](https://open.spotify.com/artist/7FdTyZa0eKp1mMAUjWaLla) | [Masat Magan](https://open.spotify.com/album/3o0cuyMBKejMG9XKZDGrM6) | 3:53 | 2022-12-09 |  |
+| [Masat Magan](https://open.spotify.com/track/2iePNr2E1gsQ6vlbfcadlA) | [Bollywood Boys](https://open.spotify.com/artist/0Ny63uGmHAThsTDPOAyz3k) | [Masat Magan](https://open.spotify.com/album/4744ohYBLYes8oXrcoFyqJ) | 3:53 | 2022-12-09 |  |
+| [Masat Magan](https://open.spotify.com/track/2yjBb4W0tXHLD5kyO81lqa) | [Flamings](https://open.spotify.com/artist/7FdTyZa0eKp1mMAUjWaLla) | [Masat Magan](https://open.spotify.com/album/3o0cuyMBKejMG9XKZDGrM6) | 3:53 | 2022-12-09 | 2023-01-12 |
 | [Masat Magan](https://open.spotify.com/track/1zlnvuxG4N82DjX7OakKdu) | [Rajan Chutiya](https://open.spotify.com/artist/1RpUdBXcT4oCmP6oKQyKNk) | [Masat Magan](https://open.spotify.com/album/7lPh90GH6ZEeGGiEpHS0jy) | 3:53 | 2022-09-09 | 2023-01-10 |
 | [Maula Mere Maula \- LoFi](https://open.spotify.com/track/71bQbiRCT5Tvfbk1CWsmLq) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:40 | 2022-09-09 |  |
 | [Monday Loop](https://open.spotify.com/track/5qC17VMNoZdF2gAw28FtsV) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 1:31 | 2022-09-09 | 2022-11-19 |

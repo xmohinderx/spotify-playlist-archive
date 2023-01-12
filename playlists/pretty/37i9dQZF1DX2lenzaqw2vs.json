@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGI0OGU3MWJkYjBjODQ0YThlMzJiODZmOWM0MTUxZjkw",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDBiOWE0ZjRkNjU3ZGZlNGJkMDQzMzg5ZDNhOTc1NzFh",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 227401,
-      "name": "KLK",
-      "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 227401,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 199280,
       "name": "DOLORES",
       "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Latinoamericana",
-        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Nieve",
         "url": "https://open.spotify.com/album/1vS4rhkCD3imZeCXBEvxCl"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 169334,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/0UpRvHU7t1YJgDhUdyyhWG"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Latinoamericana",
+        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Terrible, Perriemos",
-        "url": "https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr"
-      },
-      "artists": [
-        {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
-        },
-        {
-          "name": "Aku P",
-          "url": "https://open.spotify.com/artist/73ObzeoTtpADlTm4Y9RfOG"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Terrible, Perriemos",
-      "url": "https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Feeling Good (Pauza Remix)",
         "url": "https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 233067,
       "name": "Feeling Good - PAUZA Radio Edit",
       "url": "https://open.spotify.com/track/5oNSpfaT705A7eciOOdNk1"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Terrible, Perriemos",
+        "url": "https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        },
+        {
+          "name": "Aku P",
+          "url": "https://open.spotify.com/artist/73ObzeoTtpADlTm4Y9RfOG"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Terrible, Perriemos",
+      "url": "https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "HUGITO",
-        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
-      },
-      "artists": [
-        {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "VA HABLAR",
-      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Jap\u00f3n",
         "url": "https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 183857,
       "name": "Jap\u00f3n",
       "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "HUGITO",
+        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+      },
+      "artists": [
+        {
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "VA HABLAR",
+      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
     },
     {
       "added_at": "2022-07-05 19:20:04",

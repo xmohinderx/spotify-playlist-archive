@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones\. Photo: Melissa Laveaux, Pierre Lapointe
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,731 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,730 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Balèn](https://open.spotify.com/track/5pzecuPMIBdp14ZNbE9CMv) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Balèn](https://open.spotify.com/album/6nJipqncQH77Hj76Vujq9O) | 3:47 |
 | 2 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 |
-| 3 | [Éphémère](https://open.spotify.com/track/5UB0z3TWA2dWPQ8gee8Uqc) | [Ô\-lit](https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Éphémère](https://open.spotify.com/album/4OasnUHdl8XeAbR4fsPAEZ) | 3:27 |
+| 3 | [Éphémère](https://open.spotify.com/track/5UB0z3TWA2dWPQ8gee8Uqc) | [Ô\-lit](https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O), [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Éphémère](https://open.spotify.com/album/4OasnUHdl8XeAbR4fsPAEZ) | 3:27 |
 | 4 | [Bicycle \(Rework\)](https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle \(Rework\)](https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK) | 3:05 |
 | 5 | [Bang Bang Bang](https://open.spotify.com/track/2GCo6tiqduhpuaY0qL7Hl1) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Bang Bang Bang](https://open.spotify.com/album/6n927dm48RWFEEYQStM5IK) | 2:44 |
 | 6 | [Parler au passé](https://open.spotify.com/track/1PbbKVA0yeSpTfyJiqFWiU) | [Francis Bedard](https://open.spotify.com/artist/3h8yd5Ig09beZqG3Gdg0u3) | [Parler au passé](https://open.spotify.com/album/10vvie4cumMML9NoDD2omk) | 3:01 |

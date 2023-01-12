@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 
 > Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。©︎和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,631 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,751 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 |
+| 1 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
 | 2 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 |
 | 3 | [Tokyo Wonder.](https://open.spotify.com/track/2qzZWD9zaMaXGQmARikLhL) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Tokyo Wonder.](https://open.spotify.com/album/0QqwSYLopq7ob4Em8QB0qI) | 2:30 |
 | 4 | [Shiawase](https://open.spotify.com/track/3D0lTOBuJnAwAflsBht7rk) | [Hinata Tachibana \(CV: Azumi Waki\)](https://open.spotify.com/artist/7rRiSJUM1zsxGEUfrZ63np) | [TV Anime "Tokyo Revengers" EP 03](https://open.spotify.com/album/2Ntwu2Ddi2hTyEvSGvtetA) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 | 49 | [BLOODTHIRST](https://open.spotify.com/track/1aMkyrvVszLDQnBeGojnS2) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 3:35 |
 | 50 | [Without You](https://open.spotify.com/track/0kg63fJKXDWwPKko8zQPHw) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 1:40 |
 
-Snapshot ID: `MTY3MzM2MzAxNCwwMDAwMDAwMDBjYjc2ODNhZGI5MDFiZWI0YTAyYmYxMjQ4NGRjOTc3`
+Snapshot ID: `MTY3MzM2MzAxNCwwMDAwMDAwMDMyYmUyZTdkNWUxZTRjYjM3OTQ4NDdkNGMxZjYwNjY0`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-508 songs - 1 day 6 hr 33 min
+509 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [もう少しだけ](https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [もう少しだけ](https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I) | 3:40 | 2021-05-12 | 2021-05-20 |
 | [一人之境 in C major](https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:15 | 2021-03-27\* | 2023-01-05 |
 | [一號種籽](https://open.spotify.com/track/3i804ijVjXeLrMKGIiVCHm) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [一號種籽](https://open.spotify.com/album/5vdDXo15V2KaVH8lDpY0SI) | 3:57 | 2022-08-24 | 2022-08-28 |
-| [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 |  |
+| [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 | 2023-01-12 |
 | [三個字](https://open.spotify.com/track/524AUGUhR1F8SRiumM4T5e) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [三個字](https://open.spotify.com/album/4caS8RrS6eIRCPi5JTsFQG) | 3:46 | 2021-11-10 | 2022-02-16 |
 | [下一位前度](https://open.spotify.com/track/0Q3jOuEpx8Esi2qZMQSghl) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [下一位前度](https://open.spotify.com/album/59YA2cgcSxJ8ndjcWfNbYr) | 4:35 | 2021-03-27\* | 2021-11-12 |
 | [下一位前度 in Ab major](https://open.spotify.com/track/2KogAeAixsmxIzDmMHKhjY) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 4:35 | 2021-11-12 | 2022-09-18 |
@@ -448,6 +448,7 @@
 | [留下來的人](https://open.spotify.com/track/5Mg4jtsrw6DVRXApAhQm7j) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [留下來的人](https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP) | 4:04 | 2021-04-18 | 2021-11-28 |
 | [當年情 \- 電影 "英雄本色" 主題曲](https://open.spotify.com/track/5rq0xnLBXZtNq1YYELpK4j) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [哥哥情歌](https://open.spotify.com/album/7bzBcjZ6AgbR9eXcBIEQnX) | 4:15 | 2021-04-03 | 2021-04-04 |
 | [發現號](https://open.spotify.com/track/51sQ8I5sJYBXB0UatyrH5R) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [RubberBand Concert \#1](https://open.spotify.com/album/1VL5K8pByxcJfM3q7wcYBA) | 4:25 | 2021-04-07 | 2021-04-14 |
+| [盲婚啞嫁](https://open.spotify.com/track/0Rhz56u8K6hjzxNCGkJjhi) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [盲婚啞嫁](https://open.spotify.com/album/01V7sAkBawhdXnxjnmL9F2) | 3:43 | 2023-01-11 |  |
 | [睡到三點](https://open.spotify.com/track/3J38ebFuwO7JOMItNdULOu) | [193](https://open.spotify.com/artist/4lYAh2AEuTUZsFPmuS2luG) | [睡到三點](https://open.spotify.com/album/6mQagOwuRUyqZUSQSYqds5) | 2:59 | 2021-05-22 | 2021-08-08 |
 | [砂之器](https://open.spotify.com/track/4o36qfelYYKAkPGPEQYu3u) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [砂之器](https://open.spotify.com/album/2opK4uFhMM7cLfD4OUR1Yr) | 4:57 | 2021-07-18 | 2022-01-14 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-02 | 2022-11-19 |

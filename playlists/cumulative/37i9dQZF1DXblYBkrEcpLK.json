@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Not as Dramatic As...",
+        "url": "https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR"
+      },
+      "artists": [
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Not as Dramatic As...",
+      "url": "https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45"
+    },
+    {
+      "album": {
         "name": "DIALOGUE+1",
         "url": "https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w"
       },
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 262226,
       "name": "\u30c9\u30e9\u30de\u30c1\u30c3\u30af\u3058\u3083\u306a\u304f\u3066\u3082",
       "url": "https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW"

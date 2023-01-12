@@ -2,7 +2,7 @@
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
+> Finest quality of Bollywood music handpicked for you\. Cover \- Alia and Ranbir.
 
 74 songs - 4 hr 52 min
 

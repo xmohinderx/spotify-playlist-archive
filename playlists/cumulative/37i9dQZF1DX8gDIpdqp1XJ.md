@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-656 songs - 1 day 19 hr 44 min
+657 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,8 +139,9 @@
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2022-04-20 |  |
 | [Do Yeah](https://open.spotify.com/track/5Mr5KZ3tAWKwqsj1wCngmF) | [Bananagun](https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh) | [Do Yeah](https://open.spotify.com/album/7nWGYZhW6V70zhTEedu2sX) | 2:58 | 2021-04-02 | 2022-04-20 |
 | [Do You](https://open.spotify.com/track/1i40x2PNAf0Z8hfqUYuoty) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Do You](https://open.spotify.com/album/5H1eBKooUBbSn2QlFSAWr6) | 3:04 | 2022-06-17 | 2022-07-25 |
+| [Do You Love Her Now](https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:34 | 2023-01-12 |  |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-07-22 | 2022-11-11 |
-| [Doin' Fine Today](https://open.spotify.com/track/5q0XUBXqK5wV2Dn0bL5I5Z) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [Doin' Fine Today](https://open.spotify.com/album/0Ju5SlXJQR0vv4iov2GtqL) | 3:03 | 2023-01-11 |  |
+| [Doin' Fine Today](https://open.spotify.com/track/5q0XUBXqK5wV2Dn0bL5I5Z) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [Doin' Fine Today](https://open.spotify.com/album/0Ju5SlXJQR0vv4iov2GtqL) | 3:03 | 2023-01-06 |  |
 | [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-07-15 | 2022-12-25 |
 | [Don't Fight The Feeling](https://open.spotify.com/track/6a94gSINCcIhFs6QM3ivmx) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Don't Fight The Feeling](https://open.spotify.com/album/0F9BfPKfqHWVqFdnm8RJZ5) | 5:04 | 2022-06-03 | 2022-07-29 |
 | [Done Hanging On \- Joel Wolf Alice Remix](https://open.spotify.com/track/7u8pSG11aelk6pqh6z9dE2) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD), [Joel Wolf Alice](https://open.spotify.com/artist/5wxpDpOVxfPYTkMx8i0GFj) | [Done Hanging On \(Joel Wolf Alice Remix\)](https://open.spotify.com/album/3lSIo3Zf97kKueaCkNn5Op) | 4:45 | 2021-04-02 | 2022-04-18 |
@@ -567,7 +568,7 @@
 | [The Light](https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 4:32 | 2022-07-11 |  |
 | [The Look](https://open.spotify.com/track/6cGdaUtU9aPow49qHXOqMt) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [The Look](https://open.spotify.com/album/313WijyC82LvkasvfcRbSD) | 3:56 | 2021-04-02 | 2022-07-10 |
 | [The Loon](https://open.spotify.com/track/4ZrpeLF9VBKSJQ00UDxu7Q) | [Caleb Landry Jones](https://open.spotify.com/artist/736HHrEfkWjQB7zYV2aeXV) | [The Loon](https://open.spotify.com/album/3qdcsgPvZEgyal2LWwbGQC) | 3:01 | 2021-08-20 | 2022-04-14 |
-| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-03-08 |  |
+| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-03-08 | 2023-01-12 |
 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-14 |  |
 | [The Medium](https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:07 | 2022-07-11 |  |
 | [The Melting Of The Sun](https://open.spotify.com/track/4unEJMppi4oB9yoYRnTnq7) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Melting Of The Sun](https://open.spotify.com/album/0mOmcNkbEpgXvSWlhrHtdj) | 4:17 | 2021-04-02 | 2022-07-30 |

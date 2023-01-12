@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 114890,
+  "num_followers": 115567,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDgwNTk4ZjRjMzgzOTg4OWIyYTA1YTU3YmE1YTA2YmFk",
+  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMGQ4MmI5ZWNjYTQ1M2M5YTVmY2Q5NDEyMjY2NzU5NmQ1",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Teen Dream",
         "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 348440,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Philharmonics",
         "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 198213,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Treats",
-        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
-      },
-      "artists": [
-        {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Rill Rill",
-      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Norway",
-      "url": "https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "/\\/\\ /\\ Y /\\",
         "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 247493,
       "name": "BORN FREE",
       "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Norway",
+      "url": "https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "She's Long Gone",
-      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 178666,
       "name": "White Sky",
       "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "She's Long Gone",
+      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
     },
     {
       "added_at": "2021-10-05 08:40:49",

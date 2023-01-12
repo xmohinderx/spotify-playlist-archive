@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,723 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,725 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 26 | [ROCKET](https://open.spotify.com/track/0xhBYNgmGLJEyvfObiwAhq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:11 |
 | 27 | [\#Twenty](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 2:54 |
 | 28 | [At ease](https://open.spotify.com/track/5JewgPuqclOSQ24QWH4czD) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:29 |
-| 29 | [Autobahn](https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:17 |
+| 29 | [Autobahn](https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:17 |
 | 30 | [ICONIC](https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:11 |
 | 31 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 32 | [I'm Sick](https://open.spotify.com/track/0aKB5gfdOJVImcUj6fV4xc) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [I'm Sick](https://open.spotify.com/album/3FPMeMYEqjNECafov4bIiF) | 2:53 |

@@ -1,12 +1,12 @@
 {
-  "description": "",
-  "num_followers": 103194,
+  "description": "dig through the record bin.",
+  "num_followers": 103438,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM3NzcwMywwMDAwMDAwMGRlMzk5YjM0YTdjZjY5Y2QzODUwZjc1OGYyMWQzNTgx",
+  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMDgxNjVkOTA4MWMxMGRlNzNmNTk1NmJhOTMxOTQ0NzNm",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 188693,
       "name": "Novocaine For The Soul",
       "url": "https://open.spotify.com/track/4uPi47C1WcnhIbvCx4zCu6"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
-      },
-      "artists": [
-        {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Lump",
-      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "added_at": "2023-01-10 19:08:23",

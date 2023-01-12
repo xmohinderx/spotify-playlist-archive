@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 31054,
+  "num_followers": 31429,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGRhN2ZmMGI4MmFlYzc4NzZiZjBkNzUwNzc2YjVhZWEw",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDIzYWY2MmRkNWMzNDhjZDc5ZGI5MDI1OGMzMTk3ODI2",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Buttons",
@@ -279,6 +263,22 @@
       "duration_ms": 228440,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
-      "added_at": "2023-01-11 00:40:16",
+      "added_at": "2023-01-12 00:24:13",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Da Dirty 30",
         "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 215640,
       "name": "Just Another Case",
       "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1029,7 +1029,23 @@
       "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
     },
     {
-      "added_at": "2023-01-11 00:40:16",
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+    },
+    {
+      "added_at": "2023-01-12 00:24:13",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -1047,22 +1063,6 @@
       "duration_ms": 212979,
       "name": "No Magic No Music",
       "url": "https://open.spotify.com/track/5jpw0BnkTdib2YS0KfCSdz"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
       "added_at": "2022-08-19 19:38:15",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
-      "added_at": "2023-01-11 00:40:16",
-      "album": {
-        "name": "YOD Presents: The Shining",
-        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Here's Johnny",
-      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
-    },
-    {
       "added_at": "2022-07-08 12:00:00",
       "album": {
         "name": "Capital Punishment (Explicit Version)",
@@ -1175,6 +1159,22 @@
       "duration_ms": 234133,
       "name": "You Came Up (feat. Noreaga)",
       "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
+    },
+    {
+      "added_at": "2023-01-12 00:24:13",
+      "album": {
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 153886,
+      "name": "Here's Johnny",
+      "url": "https://open.spotify.com/track/6cHurzh0uUnafG4HwOpRWK"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1257,30 +1257,6 @@
       "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Aethiopes",
-        "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "Breeze Brewin",
-          "url": "https://open.spotify.com/artist/37P8o5UzvXLuw3lQsjgdHq"
-        }
-      ],
-      "duration_ms": 143781,
-      "name": "Heavy Water",
-      "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "The Last Huzzah!",
@@ -1315,6 +1291,30 @@
       "duration_ms": 331937,
       "name": "The Last Huzzah!",
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Aethiopes",
+        "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Breeze Brewin",
+          "url": "https://open.spotify.com/artist/37P8o5UzvXLuw3lQsjgdHq"
+        }
+      ],
+      "duration_ms": 143781,
+      "name": "Heavy Water",
+      "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1481,7 +1481,7 @@
       "url": "https://open.spotify.com/track/61asDMua0oGUCDXOhIsN0u"
     },
     {
-      "added_at": "2023-01-11 00:40:16",
+      "added_at": "2023-01-12 00:24:13",
       "album": {
         "name": "Narcan",
         "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "The Baltimore Housing Project",
-        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
-      },
-      "artists": [
-        {
-          "name": "Jay Royale",
-          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
-        }
-      ],
-      "duration_ms": 227661,
-      "name": "Reefer Clouds",
-      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Ironman",
         "url": "https://open.spotify.com/album/2jCjUgaDh9lVGju6u3cGvK"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "The Baltimore Housing Project",
+        "url": "https://open.spotify.com/album/4NvbiN9u7gPelMqlsEs5dE"
+      },
+      "artists": [
+        {
+          "name": "Jay Royale",
+          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "Reefer Clouds",
+      "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 107379,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
-    },
-    {
-      "added_at": "2022-05-20 12:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
-      },
-      "artists": [
-        {
-          "name": "KUMBAYA",
-          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
       "added_at": "2022-10-29 04:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 133080,
       "name": "More Soup",
       "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
+    },
+    {
+      "added_at": "2022-05-20 12:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+      },
+      "artists": [
+        {
+          "name": "KUMBAYA",
+          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1699,30 +1699,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Component System with the Auto Reverse",
-        "url": "https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk"
+        "name": "Navy's Reprise",
+        "url": "https://open.spotify.com/album/3wkNVoQDFznu6kIR8d1BQb"
       },
       "artists": [
         {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        },
-        {
-          "name": "RAP FERRERIA",
-          "url": "https://open.spotify.com/artist/1TZWbbk7dpKRVKE1EUs5Bt"
-        },
-        {
-          "name": "STILL RIFT",
-          "url": "https://open.spotify.com/artist/3boWloc2DdH8TVDWv9t9IR"
-        },
-        {
-          "name": "Video Dave",
-          "url": "https://open.spotify.com/artist/3S8c2jzWW8n1JgryQzRfD2"
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Multi-Game Arcade Cabinet",
-      "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
+      "duration_ms": 152281,
+      "name": "Not a Lot to Fear",
+      "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
     },
     {
       "added_at": "2022-07-15 12:00:00",
@@ -1747,18 +1735,30 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Navy's Reprise",
-        "url": "https://open.spotify.com/album/3wkNVoQDFznu6kIR8d1BQb"
+        "name": "Component System with the Auto Reverse",
+        "url": "https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk"
       },
       "artists": [
         {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        },
+        {
+          "name": "RAP FERRERIA",
+          "url": "https://open.spotify.com/artist/1TZWbbk7dpKRVKE1EUs5Bt"
+        },
+        {
+          "name": "STILL RIFT",
+          "url": "https://open.spotify.com/artist/3boWloc2DdH8TVDWv9t9IR"
+        },
+        {
+          "name": "Video Dave",
+          "url": "https://open.spotify.com/artist/3S8c2jzWW8n1JgryQzRfD2"
         }
       ],
-      "duration_ms": 152281,
-      "name": "Not a Lot to Fear",
-      "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
+      "duration_ms": 185493,
+      "name": "Multi-Game Arcade Cabinet",
+      "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
     },
     {
       "added_at": "2022-05-20 12:00:00",
@@ -1945,22 +1945,6 @@
       "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Tha Souf Got Sum 2 Say",
@@ -1975,6 +1959,22 @@
       "duration_ms": 271775,
       "name": "Neva Bend + Son of Sam",
       "url": "https://open.spotify.com/track/4PfKc88Rb4ctJxgH7Ckvtn"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     }
   ],
   "unique_name": "The Skate Shop",

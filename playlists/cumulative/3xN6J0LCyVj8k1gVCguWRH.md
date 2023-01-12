@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,927 songs - 4 day 15 hr 3 min
+1,928 songs - 4 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [Get Loose](https://open.spotify.com/track/4w2TiaRRwkfDIUsMLdiAqO) | [Iris Stryx](https://open.spotify.com/artist/5fDwMjmvNjDhXHxDd991kd) | [Get Loose](https://open.spotify.com/album/2xRaJ7CIfmgQB1WvgSY48U) | 3:06 | 2020-11-22 | 2020-12-20 |
 | [Get Me, Got You](https://open.spotify.com/track/44G528nX0cALLmXZFWv7j8) | [Julia Goodwin](https://open.spotify.com/artist/0eUv8y68onLgHdBfO7jvYe) | [Get Me, Got You](https://open.spotify.com/album/5uJ5vV6I6f2OgAgoL36TM9) | 4:03 | 2021-03-06 | 2021-03-20 |
 | [Get Over It](https://open.spotify.com/track/3QisuX77pvDVHwvsZYbwyS) | [Doze](https://open.spotify.com/artist/7BKKfrkL6LMcEoNsXlz0MG) | [Get Over It](https://open.spotify.com/album/6xDi5kzwdAc0F2IREl1gsd) | 2:55 | 2019-11-18 | 2019-12-04 |
+| [Get Over It](https://open.spotify.com/track/5YFlr91QYRDtBW05rUqOoZ) | [Haidee](https://open.spotify.com/artist/5TUlz1H8AM5ghjz7yDuLbQ) | [Get Over It](https://open.spotify.com/album/7vUcObi4ApZmT7EUf9iGF6) | 2:42 | 2023-01-11 |  |
 | [Get Together](https://open.spotify.com/track/7CQXyFX44CXmnuq8Bi9Dyc) | [The Youngbloods](https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo) | [The Youngbloods](https://open.spotify.com/album/5s0VNKqar5MPHpL5atfTFG) | 4:39 | 2019-09-29\* | 2021-11-19 |
 | [gets me down](https://open.spotify.com/track/5849tNiWebnwX3zJfk86da) | [smythy](https://open.spotify.com/artist/0VbunCzHQjZW1JfkA9smBp) | [gets me down](https://open.spotify.com/album/237oJQsxLOA6LWBBRYtqGx) | 3:58 | 2022-06-03 | 2022-06-29 |
 | [Gholame Chëshm](https://open.spotify.com/track/2rNamr9pCceZgby2qPS6dM) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Mohammadreza Shajarian](https://open.spotify.com/artist/45EXJ1cQAEt8k2zIYHyLBm) | [Gholame Chëshm](https://open.spotify.com/album/4HDIJIvDg88VjqSX4qQvkj) | 2:33 | 2022-06-03 | 2022-06-19 |

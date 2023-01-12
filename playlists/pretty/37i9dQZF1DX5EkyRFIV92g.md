@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EkyRFIV92g.md) - [plain]
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,447 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,108 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

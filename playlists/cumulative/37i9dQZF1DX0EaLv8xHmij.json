@@ -1762,6 +1762,28 @@
     {
       "album": {
         "name": "Antiher\u00f3i",
+        "url": "https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "@yungg.prod",
+          "url": "https://open.spotify.com/artist/6riBq3f3tO9DFWTNwOx3VI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Gisele Bitch",
+      "url": "https://open.spotify.com/track/4AdB3Q4Qn59GnNvQwau1jV"
+    },
+    {
+      "album": {
+        "name": "Antiher\u00f3i",
         "url": "https://open.spotify.com/album/2Ubq2vUBzaYlyH1kCHrshO"
       },
       "artists": [
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 164571,
       "name": "GISELE BITCH",
       "url": "https://open.spotify.com/track/6qMZAQuj67AMLJywtSGMZm"

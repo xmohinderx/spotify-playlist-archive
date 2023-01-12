@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 674404,
+  "num_followers": 674664,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NzgzNCwwMDAwMDAwMGQ1Y2FmYTJmMDg0Yjk5MjFjOTdiOTA0NDY5MzllY2Zl",
+  "snapshot_id": "MTY2OTM4NzgzNCwwMDAwMDAwMDc4YmJkMjcxOGY5NzIxYzJmNzQ3ZmUwNGJlZjc3YTc2",
   "tracks": [
     {
       "added_at": "2022-09-30 18:15:40",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
+        "name": "Circadia",
+        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 408400,
+      "name": "Circadia",
+      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
         "name": "Drum 'N' Feels",
         "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 427102,
       "name": "Feather - Iorie & Madmotormiquel Remix",
       "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
-        "name": "Circadia",
-        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
-      },
-      "artists": [
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 408400,
-      "name": "Circadia",
-      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -663,6 +647,62 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "Velvet Desert Music Vol. 2",
+        "url": "https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW"
+      },
+      "artists": [
+        {
+          "name": "Superpitcher",
+          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
+        },
+        {
+          "name": "Daniel Maloso",
+          "url": "https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe"
+        }
+      ],
+      "duration_ms": 453717,
+      "name": "Monterrey Paris Texas",
+      "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -687,42 +727,6 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2023-01-11 01:18:25",
-      "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -741,24 +745,20 @@
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
     },
     {
-      "added_at": "2022-09-30 18:15:40",
+      "added_at": "2023-01-12 01:19:32",
       "album": {
-        "name": "Velvet Desert Music Vol. 2",
-        "url": "https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW"
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
       "artists": [
         {
-          "name": "Superpitcher",
-          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
-        },
-        {
-          "name": "Daniel Maloso",
-          "url": "https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe"
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
         }
       ],
-      "duration_ms": 453717,
-      "name": "Monterrey Paris Texas",
-      "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
+      },
+      "artists": [
+        {
+          "name": "Victor Norman",
+          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
+        }
+      ],
+      "duration_ms": 468767,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -867,18 +883,22 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
       "artists": [
         {
-          "name": "Victor Norman",
-          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
         }
       ],
-      "duration_ms": 468767,
-      "name": "Showdown",
-      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -899,26 +919,6 @@
       "duration_ms": 383775,
       "name": "Pastorcita",
       "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
-      },
-      "artists": [
-        {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2022-09-30 18:15:40",
+      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
@@ -987,42 +1003,34 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7LrigGSm0XLAjBtbI2eedN"
       },
       "artists": [
         {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+          "name": "Natema",
+          "url": "https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg"
         }
       ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+      "duration_ms": 457000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5lc74AXwQnoAvXpef0GnvD"
     },
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Demedim Mi",
-        "url": "https://open.spotify.com/album/1qqDnV0NDkkNVFmsCSccnJ"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "Insanlar",
-          "url": "https://open.spotify.com/artist/5hn8gGxhmJX2AQ4s3OMEBA"
-        },
-        {
-          "name": "Cem Y\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
-        },
-        {
-          "name": "Bar\u0131\u015f K",
-          "url": "https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 1401837,
-      "name": "Demedim Mi (Pt. 1)",
-      "url": "https://open.spotify.com/track/6juRAf7Qi1TyMXrlL7PgWa"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2022-09-30 18:15:40",
@@ -1063,38 +1071,26 @@
     {
       "added_at": "2022-09-30 18:15:40",
       "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+        "name": "Demedim Mi",
+        "url": "https://open.spotify.com/album/1qqDnV0NDkkNVFmsCSccnJ"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2022-09-30 18:15:40",
-      "album": {
-        "name": "Beli",
-        "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
-      },
-      "artists": [
-        {
-          "name": "Rialians on Earth",
-          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
+          "name": "Insanlar",
+          "url": "https://open.spotify.com/artist/5hn8gGxhmJX2AQ4s3OMEBA"
         },
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+          "name": "Cem Y\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
+        },
+        {
+          "name": "Bar\u0131\u015f K",
+          "url": "https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t"
         }
       ],
-      "duration_ms": 367636,
-      "name": "Novicani",
-      "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+      "duration_ms": 1401837,
+      "name": "Demedim Mi (Pt. 1)",
+      "url": "https://open.spotify.com/track/6juRAf7Qi1TyMXrlL7PgWa"
     }
   ],
   "unique_name": "Org\u00e1nica",

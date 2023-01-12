@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,468 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,493 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 46 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
 | 47 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 | 48 | [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 |
-| 49 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
-| 50 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |
+| 49 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |
+| 50 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
 | 51 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
 | 52 | [Azul Piscina](https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Azul Piscina](https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF) | 3:34 |
 | 53 | [BALANÇA A GLOCK](https://open.spotify.com/track/4PUjVQcrNhH85XXyXnnjBd) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [DJ LG](https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ) | [BALANÇA A GLOCK](https://open.spotify.com/album/42TXAMMWEFePqDR95N7Cpm) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 74 | [Para não](https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Para não](https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf) | 2:44 |
 | 75 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 
-Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDdmZDMzZDA3MzllN2UwMDg1ZjQ1NDgxOWNkMzExNWEz`
+Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMGVhNGRiODBkZTQ3ZmJmZmJkODlhYzQ0MGRjNzIwMDIz`

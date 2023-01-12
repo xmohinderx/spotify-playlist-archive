@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,965 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,020 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kepko](https://open.spotify.com/track/5VChaeq6hagzFFwDsWETyz) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Kepko](https://open.spotify.com/album/6FY063UrUu9kj8ixxjSByb) | 3:12 |
 | 2 | [Out of luck](https://open.spotify.com/track/5IyaxlDRTyXQmzXDX2vtlJ) | [K](https://open.spotify.com/artist/5DnWy8OtXODzvhIkzHfCPQ) | [Out of luck](https://open.spotify.com/album/06nmUZKWGx1VpeXcql9IL9) | 2:49 |
 | 3 | [Purple Apple](https://open.spotify.com/track/2BRIe4CFk8wk4hs4BTKMDP) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Go](https://open.spotify.com/album/7wcjI4IzkkxRiSo2el3TSr) | 2:49 |
-| 4 | [Die Down](https://open.spotify.com/track/7c1wpOqC67svZIJR4N8nJA) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Die Down](https://open.spotify.com/album/0NE4ZVUANwPi9RGk5Z2DCm) | 4:01 |
+| 4 | [DIE DOWN](https://open.spotify.com/track/7c1wpOqC67svZIJR4N8nJA) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [DIE DOWN](https://open.spotify.com/album/0NE4ZVUANwPi9RGk5Z2DCm) | 4:01 |
 | 5 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 |
 | 6 | [Promise Me](https://open.spotify.com/track/5Q6rRzLM5tfiCffpdTgUXn) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Promise Me](https://open.spotify.com/album/3iWjGJLff2vaXrMnK4diKO) | 3:45 |
 | 7 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |

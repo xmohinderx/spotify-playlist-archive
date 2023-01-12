@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-133 songs - 7 hr 35 min
+135 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [The Real Devil](https://open.spotify.com/track/4cbMi6XGtpDQ8GsBlKXkqv) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 5:36 | 2022-03-30 |  |
 | [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 | 2022-09-14 |  |
 | [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 |  |
-| [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 |  |
+| [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 | 2023-01-12 |
 | [time capsule](https://open.spotify.com/track/6GudNU6xYNwIGgDO7igfUY) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [The Object at Hand](https://open.spotify.com/album/7ia9ZV8dzAXkjI2KQjY9Wh) | 3:05 | 2022-12-30 |  |
 | [Tomber Amoureux](https://open.spotify.com/track/0sTlmrgtj3om9MCoCFTzZm) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Tomber Amoureux](https://open.spotify.com/album/1btvvbxQsUYmaXsRgZa0R4) | 2:20 | 2022-03-30 |  |
 | [Trail Of Emptiness \- Ambient Version](https://open.spotify.com/track/7soUChMHrOcBc80OPPVkbN) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Trail Of Emptiness \(Ambient Version\)](https://open.spotify.com/album/0DQ5cSbXp0bhuFbGKWzJk7) | 1:58 | 2022-09-02 |  |
@@ -125,6 +125,7 @@
 | [Treefingers](https://open.spotify.com/track/4DPQvbgSM0IdX4O3HOACwL) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 3:42 | 2022-03-30 | 2022-07-29 |
 | [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2022-07-15 |  |
 | [Two Apples Tied](https://open.spotify.com/track/1ItTDB7TfTu1mVlVgySaaN) | [Hatsu Rohn](https://open.spotify.com/artist/2tEnbkUIt07bVGpQS41Jbc) | [Two Apples Tied](https://open.spotify.com/album/0oOUD2er4J43BZIMlR2Fad) | 3:24 | 2022-03-30 |  |
+| [Unbroken](https://open.spotify.com/track/1ftWJuQAovl1BZH4Ijuqmg) | [Ravndala](https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH) | [Unbroken](https://open.spotify.com/album/7Czy2wcmG4EkNPdwSv9sIo) | 2:53 | 2023-01-11 |  |
 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-03-30 |  |
 | [Undo and Redo](https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Undo and Redo](https://open.spotify.com/album/3vO7qy5LePhyBPg5zIN4V0) | 2:38 | 2022-09-14 |  |
 | [Up to Pizmo](https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed: : Context](https://open.spotify.com/album/2L7Xv6PUY3LZFjvCYJjQyd) | 6:20 | 2022-07-15 |  |
@@ -141,5 +142,6 @@
 | [Wings](https://open.spotify.com/track/2lPCySGhdlWTnUWU4cbtQo) | [A House on the Hill](https://open.spotify.com/artist/6guLl7XQ3MXZoxBgbZXXM3) | [Wings](https://open.spotify.com/album/2MZzFLMncLZle4ZXlzqPTZ) | 2:46 | 2022-03-30 |  |
 | [Wires](https://open.spotify.com/track/2wAOrDyPab6VEsaaNFmQAM) | [Harvest Silence](https://open.spotify.com/artist/6qtd1ujjnPOMDU5DCDQPuH) | [Wires](https://open.spotify.com/album/3smWNxmoz5deYJejiTWJY3) | 2:13 | 2022-07-08 |  |
 | [worth the wait](https://open.spotify.com/track/72sEMr3VwkECakurLsgF2f) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [worth the wait](https://open.spotify.com/album/6T4h9RYefYVY4jUocwZFfI) | 2:05 | 2022-06-16 |  |
+| [you're just visiting](https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [you're just visiting](https://open.spotify.com/album/4GCvPLx8vEKWmwOAvvovHt) | 1:46 | 2023-01-11 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

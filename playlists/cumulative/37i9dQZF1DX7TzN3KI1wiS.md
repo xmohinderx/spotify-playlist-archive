@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 6 hr 20 min
+67 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [I'm Waitin](https://open.spotify.com/track/6f3Y2l9NF0jLIhhfP0vMlD) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [I'm Waitin](https://open.spotify.com/album/3muljk0lmX8hPVH4INunXg) | 7:16 | 2022-10-14 |  |
 | [In Common \- Black Coffee Remix](https://open.spotify.com/track/45gbor15xy5IXj2P5oXQNf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [In Common \(The Remixes\)](https://open.spotify.com/album/7K0eeA5BaamKDiTZ8mm05D) | 4:58 | 2022-10-14 |  |
 | [Innerbloom](https://open.spotify.com/track/4sFv3KYuo4w0KZiCsStweo) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Innerbloom \(The Remixes\)](https://open.spotify.com/album/3F7BkIRC9c624hb5wMb2cI) | 9:38 | 2022-11-04 | 2022-11-13 |
-| [Innerbloom](https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 9:38 | 2022-10-14 |  |
+| [Innerbloom](https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 9:38 | 2022-10-14 | 2023-01-12 |
+| [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2022-11-04 |  |
 | [Inside](https://open.spotify.com/track/5LkVo8eiepvRG5x4MDITAO) | [Alex Twitchy](https://open.spotify.com/artist/2o1AjDSjIf7ucd606oobsg), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Inside](https://open.spotify.com/album/1rh1LP6bXavzeo2QEsmVTk) | 4:25 | 2022-10-14 |  |
 | [Javid Khan](https://open.spotify.com/track/1QbDFXJvKeCFylANIY5KqE) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Javid Khan](https://open.spotify.com/album/2LyhoOvgIVefs17hCiIKQJ) | 6:13 | 2022-10-14 |  |
 | [Just Here \- Original Mix](https://open.spotify.com/track/1ntiroVm7Jx99nBTNqyh56) | [Soulight](https://open.spotify.com/artist/4r1UuSBWD05Nxxd0cGFM9T) | [City Talk EP](https://open.spotify.com/album/6Tcd7QW7d56EsvpE9ptScP) | 7:40 | 2022-10-14 |  |

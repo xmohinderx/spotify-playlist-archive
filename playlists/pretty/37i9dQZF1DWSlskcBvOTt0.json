@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 346668,
+  "num_followers": 347013,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGEyN2Q1MmY4ZTQ5OGZiNjVhYTQ3YjNiYTgzNjAxMGMx",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDVmMjE3MTAzZmQ5NjZmZjllMTY4ZWU0MjczNTBiYjAy",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -637,6 +637,26 @@
       "url": "https://open.spotify.com/track/2SN41T7WJfoKkAsGUV11PA"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Falling Through the Ceiling",
+        "url": "https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 472131,
+      "name": "Falling Through the Ceiling",
+      "url": "https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "A Time To",
@@ -689,38 +709,6 @@
       "url": "https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3"
     },
     {
-      "added_at": "2022-07-08 17:15:14",
-      "album": {
-        "name": "Nobody Is Not Loved, Remixes, Pt. 3",
-        "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        }
-      ],
-      "duration_ms": 432360,
-      "name": "Never Sleep Again - Keinemusik Remix",
-      "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Noir",
@@ -765,6 +753,38 @@
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
     },
     {
+      "added_at": "2022-07-08 17:15:14",
+      "album": {
+        "name": "Nobody Is Not Loved, Remixes, Pt. 3",
+        "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 432360,
+      "name": "Never Sleep Again - Keinemusik Remix",
+      "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Nabia",
@@ -797,26 +817,6 @@
       "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
     },
     {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "REMIND ME (Booka Shade Remix)",
-        "url": "https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 353500,
-      "name": "REMIND ME - Booka Shade Remix",
-      "url": "https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Otherside (Fideles Remix Edit)",
@@ -835,6 +835,26 @@
       "duration_ms": 270243,
       "name": "Otherside - Fideles Remix Edit",
       "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "REMIND ME (Booka Shade Remix)",
+        "url": "https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 353500,
+      "name": "REMIND ME - Booka Shade Remix",
+      "url": "https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -861,26 +881,6 @@
       "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Falling Through the Ceiling",
-        "url": "https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 472131,
-      "name": "Falling Through the Ceiling",
-      "url": "https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Sol",
@@ -895,6 +895,22 @@
       "duration_ms": 384000,
       "name": "Sol",
       "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Petra",
+        "url": "https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 276005,
+      "name": "Petra",
+      "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
     },
     {
       "added_at": "2022-11-18 16:29:16",
@@ -913,22 +929,6 @@
       "url": "https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9"
     },
     {
-      "added_at": "2022-08-23 16:47:27",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Trife",
@@ -943,22 +943,6 @@
       "duration_ms": 224516,
       "name": "Trife",
       "url": "https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Petra",
-        "url": "https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 276005,
-      "name": "Petra",
-      "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1021,6 +1005,22 @@
       "url": "https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo"
     },
     {
+      "added_at": "2022-08-23 16:47:27",
+      "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "I Know You",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Endup",
-        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        }
-      ],
-      "duration_ms": 483824,
-      "name": "Palomita",
-      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Back In The Taxi (AM\u00c9M\u00c9 Remix)",
         "url": "https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Endup",
+        "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "duration_ms": 483824,
+      "name": "Palomita",
+      "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "I'm Everything",
@@ -1167,18 +1183,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+        "name": "Mesta",
+        "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
         }
       ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+      "duration_ms": 371106,
+      "name": "Mesta",
+      "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1219,22 +1239,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Mesta",
-        "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
+        "name": "WAYU Various Artists, Vol. 2",
+        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 371106,
-      "name": "Mesta",
-      "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
+      "duration_ms": 328089,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-08-01 18:07:32",
@@ -1251,22 +1267,6 @@
       "duration_ms": 348815,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "WAYU Various Artists, Vol. 2",
-        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 328089,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-07-08 17:15:14",
@@ -1571,22 +1571,26 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Duel",
-        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
+        "name": "I Feel Love (Monkey Safari Remix)",
+        "url": "https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7"
       },
       "artists": [
         {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         },
         {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Chic Loren",
+          "url": "https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM"
         }
       ],
-      "duration_ms": 574838,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
+      "duration_ms": 556908,
+      "name": "I Feel Love - Monkey Safari Remix",
+      "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1611,26 +1615,38 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "I Feel Love (Monkey Safari Remix)",
-        "url": "https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7"
+        "name": "Duel",
+        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
       },
       "artists": [
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
         },
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "Chic Loren",
-          "url": "https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM"
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
         }
       ],
-      "duration_ms": 556908,
-      "name": "I Feel Love - Monkey Safari Remix",
-      "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
+      "duration_ms": 574838,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1669,20 +1685,24 @@
       "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
+        "name": "Nobody Is Not Loved, Remixes, Pt. 4",
+        "url": "https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
+      "duration_ms": 377612,
+      "name": "Home - Boys Noize Remix",
+      "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
     },
     {
       "added_at": "2022-12-09 13:35:08",
@@ -1715,26 +1735,6 @@
       "duration_ms": 415908,
       "name": "Amida - Satori & El Mundo Remix",
       "url": "https://open.spotify.com/track/0V2S8wtRZi4OAeCVq4phT8"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Nobody Is Not Loved, Remixes, Pt. 4",
-        "url": "https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 377612,
-      "name": "Home - Boys Noize Remix",
-      "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Changes EP",
+        "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 341419,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Alabora",
         "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
       },
@@ -1811,6 +1827,22 @@
       "duration_ms": 470335,
       "name": "Alabora - Foxall Pale Blue Remix",
       "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W"
+      },
+      "artists": [
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        }
+      ],
+      "duration_ms": 361187,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1831,22 +1863,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Changes EP",
-        "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 341419,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Minero",
         "url": "https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr"
       },
@@ -1859,30 +1875,6 @@
       "duration_ms": 369219,
       "name": "Minero",
       "url": "https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Everyday (Shimza Remix)",
-        "url": "https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 452480,
-      "name": "Everyday - Shimza Remix",
-      "url": "https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd"
     },
     {
       "added_at": "2022-07-01 04:01:00",

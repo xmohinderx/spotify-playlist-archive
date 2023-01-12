@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-398 songs - 22 hr 44 min
+399 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 | 2022-04-01 | 2022-04-21 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-01 | 2022-04-18 |
 | [Amor de Verano](https://open.spotify.com/track/60hPM9MOu0wjKInZzYwYH8) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Amor de Verano](https://open.spotify.com/album/1KDE0rBIiV7nUkSwV0GvzZ) | 2:31 | 2022-01-07 | 2022-07-29 |
+| [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2022-12-23 |  |
 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 | 2022-01-07 |  |
 | [Amor Ferrari](https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 2:45 | 2022-07-15 |  |
 | [Amor Ferrari](https://open.spotify.com/track/3ViCo830vp2M3LIqf6Ye9t) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Amor Ferrari](https://open.spotify.com/album/0GUaxQlU4NARZQ585sbPM1) | 2:45 | 2022-01-07 | 2022-07-29 |
@@ -246,7 +247,7 @@
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 | 2022-07-25 |
 | [Melodía de Extrañar](https://open.spotify.com/track/5R332yPmr1HnfvevX73Tb0) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Melodía de Extrañar](https://open.spotify.com/album/6iwm50gytq0b0BMuWcXNiR) | 2:46 | 2022-04-01 | 2022-05-25 |
 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 | 2022-01-07 |  |
-| [Mira](https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd) | [Panga Nébula](https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu) | [Mira](https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT) | 3:09 | 2022-01-07 |  |
+| [Mira](https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd) | [Panga Nébula](https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu) | [Mira](https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT) | 3:09 | 2022-01-07 | 2023-01-12 |
 | [Mirándote – Versión radio](https://open.spotify.com/track/45iwO0aQGvzVFsIiiyiWSC) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote – Versión radio](https://open.spotify.com/album/5PX994LStMZS47M3ZosGlZ) | 3:54 | 2022-04-01 | 2022-04-18 |
 | [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-01-07 | 2022-07-08 |
 | [Modo Avión](https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Modo Avión](https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp) | 2:40 | 2022-01-07 |  |

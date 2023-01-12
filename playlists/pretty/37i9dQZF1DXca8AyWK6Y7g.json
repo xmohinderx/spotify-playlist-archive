@@ -1,12 +1,12 @@
 {
   "description": "I think my life might be better if I lived in Colorado? Cover: Rene\u00e9 Rapp",
-  "num_followers": 1447093,
+  "num_followers": 1447332,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDZmNjBmY2JmMmVjNmZhMTZlMzE3NzFmNmViOTVkNDNl",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDgyNTE3NDllODc0YTI0MjdhMDMxOTRiNmEzZTE4MzJl",
   "tracks": [
     {
       "added_at": "2022-12-23 05:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1nnyYFtJHwVbph84SctOtC"
     },
     {
-      "added_at": "2023-01-11 00:42:13",
+      "added_at": "2023-01-12 00:44:25",
       "album": {
         "name": "Ugly Crier",
         "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
-      "added_at": "2023-01-11 00:42:13",
+      "added_at": "2023-01-12 00:44:25",
       "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp"
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Let's go to Hell",
-        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Let's go to Hell",
-      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Dolls EP",
         "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 145386,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Let's go to Hell",
+        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Let's go to Hell",
+      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "tired of california",
-        "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "tired of california",
-      "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Easy On My Eyes",
         "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 180146,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "tired of california",
+        "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "tired of california",
+      "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Alive and Unwell (Deluxe)",
-        "url": "https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "My Bed",
-      "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Alive and Unwell (Deluxe)",
+        "url": "https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "My Bed",
+      "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "u turn me on (but u give me depression)",
         "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Did It Hurt?",
-        "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
-      },
-      "artists": [
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 164566,
-      "name": "Did It Hurt?",
-      "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Taste It",
         "url": "https://open.spotify.com/album/4cPPZ4jLUU1aa942DlVXy2"
       },
@@ -1651,22 +1635,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "barcelona",
-        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 175222,
-      "name": "barcelona",
-      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Smoke Signal",
         "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
       },
@@ -1679,6 +1647,38 @@
       "duration_ms": 173808,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "Did It Hurt?",
+        "url": "https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "Did It Hurt?",
+      "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "barcelona",
+        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 175222,
+      "name": "barcelona",
+      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "IDK SH!T",
-        "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
-      },
-      "artists": [
-        {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "IDK SH!T",
-      "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
         "name": "Love You When You\u2019re Gone",
         "url": "https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "IDK SH!T",
+        "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "IDK SH!T",
+      "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
+        "name": "I Hate Cardio",
+        "url": "https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc"
+      },
+      "artists": [
+        {
+          "name": "Ellee Duke",
+          "url": "https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N"
+        }
+      ],
+      "duration_ms": 209913,
+      "name": "I Hate Cardio",
+      "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
         "name": "healing hurts",
         "url": "https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 178679,
       "name": "never got better",
       "url": "https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "ELIO'S INFERNO (deluxe)",
-        "url": "https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Rich Like That - deluxe",
-      "url": "https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "I Hate Cardio",
-        "url": "https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc"
+        "name": "ELIO'S INFERNO (deluxe)",
+        "url": "https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn"
       },
       "artists": [
         {
-          "name": "Ellee Duke",
-          "url": "https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N"
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
         }
       ],
-      "duration_ms": 209913,
-      "name": "I Hate Cardio",
-      "url": "https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj"
+      "duration_ms": 141575,
+      "name": "Rich Like That - deluxe",
+      "url": "https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto"
     },
     {
       "added_at": "2022-12-23 05:00:00",
@@ -2161,6 +2161,22 @@
       "url": "https://open.spotify.com/track/4syKTHaJJTF1fxvsNJXHHV"
     },
     {
+      "added_at": "2023-01-12 00:44:25",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/3qVqJaNTwXt7wKfoiodAif"
+      },
+      "artists": [
+        {
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5QgGskSF5QeTPl99cg9KFz"
+    },
+    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "How Do You Sleep?",
@@ -2255,22 +2271,6 @@
       "duration_ms": 179104,
       "name": "Not Because I Loved You",
       "url": "https://open.spotify.com/track/5TYsUOzefxh91dDPsGpSrW"
-    },
-    {
-      "added_at": "2023-01-11 00:42:13",
-      "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/3qVqJaNTwXt7wKfoiodAif"
-      },
-      "artists": [
-        {
-          "name": "Dava",
-          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5QgGskSF5QeTPl99cg9KFz"
     },
     {
       "added_at": "2022-12-23 05:00:00",

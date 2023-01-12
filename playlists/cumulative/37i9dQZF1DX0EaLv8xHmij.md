@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Major RD
 
-139 songs - 6 hr 33 min
+140 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Fuga](https://open.spotify.com/track/7KzgufnY6c36zBGaLlphvj) | [Coragem](https://open.spotify.com/artist/2cfEkqb7hlhayhB982QetH), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD), [Brek Records](https://open.spotify.com/artist/1qG0x1r89PdRO34pIgWwNA) | [Fuga](https://open.spotify.com/album/3MmKjowWyOPY4PtnVhuxgY) | 2:32 | 2022-03-18 | 2022-07-23 |
 | [Garimpo](https://open.spotify.com/track/3DunEmYGhkFeX09dONo0so) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [7k](https://open.spotify.com/artist/0GXDKtyKlE9GLcbpUoyHnt), [NIKITO](https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg), [Enigma](https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ) | [Garimpo](https://open.spotify.com/album/4zmvqDE7jiLDEVUPfDxd28) | 2:46 | 2022-07-29 | 2022-09-10 |
 | [Gerente na Laje](https://open.spotify.com/track/7HeNFnvTwGAwIkaVhXGr3l) | [ProBeats](https://open.spotify.com/artist/590XVk6EtJK8V6G8S3ByVP), [Ciszo](https://open.spotify.com/artist/0WdvO8vAjoYzHOLlCeRY5d), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Gerente na Laje](https://open.spotify.com/album/5hvFleFlABkzjm2YcpOBei) | 2:02 | 2022-09-02 | 2022-09-24 |
-| [GISELE BITCH](https://open.spotify.com/track/6qMZAQuj67AMLJywtSGMZm) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [@yungg.prod](https://open.spotify.com/artist/6riBq3f3tO9DFWTNwOx3VI) | [Antiherói](https://open.spotify.com/album/2Ubq2vUBzaYlyH1kCHrshO) | 2:44 | 2022-09-30 |  |
+| [Gisele Bitch](https://open.spotify.com/track/4AdB3Q4Qn59GnNvQwau1jV) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [@yungg.prod](https://open.spotify.com/artist/6riBq3f3tO9DFWTNwOx3VI) | [Antiherói](https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es) | 2:44 | 2023-01-06 |  |
+| [GISELE BITCH](https://open.spotify.com/track/6qMZAQuj67AMLJywtSGMZm) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [@yungg.prod](https://open.spotify.com/artist/6riBq3f3tO9DFWTNwOx3VI) | [Antiherói](https://open.spotify.com/album/2Ubq2vUBzaYlyH1kCHrshO) | 2:44 | 2022-09-30 | 2023-01-12 |
 | [Gráficos](https://open.spotify.com/track/569CTJ2OnUt4yuoN7pPmT1) | [Coragem](https://open.spotify.com/artist/2cfEkqb7hlhayhB982QetH), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD), [Brek Records](https://open.spotify.com/artist/1qG0x1r89PdRO34pIgWwNA) | [Gráficos](https://open.spotify.com/album/224nDADITuNiR7vm9jxwwC) | 2:59 | 2022-03-18 | 2022-08-27 |
 | [Guerra Fria](https://open.spotify.com/track/1RnCESf8Q5VhetZiADD64W) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52) | [Guerra Fria](https://open.spotify.com/album/6aKB8Oa5cIpnLnZRIyGvN6) | 3:15 | 2022-03-18 | 2022-06-04 |
 | [JANUMGRIME](https://open.spotify.com/track/7gd3A3NmkfJnxLDSuZtf2E) | [ManoWill](https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY), [Meio Feel](https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3), [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca) | [JANUMGRIME](https://open.spotify.com/album/5gSiONAhBuXMOmU2q1N8OL) | 2:46 | 2022-03-18 |  |

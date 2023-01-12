@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168415,
+  "num_followers": 168456,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDU1Y2EzMjUxOGJlYmMzMDc2NTAyNGZlZDcxOTk4Zjg5",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDUwMDk4NTcwMjhjZmIwOTQ0ZGNkZTk2YTAzMjA4Y2Qz",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
         "name": "No Me Quieras Tanto",
         "url": "https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 214169,
       "name": "No Me Quieras Tanto",
       "url": "https://open.spotify.com/track/2Nde4gcLvyDoy5Fw1UULOl"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2022-11-30 14:52:40",

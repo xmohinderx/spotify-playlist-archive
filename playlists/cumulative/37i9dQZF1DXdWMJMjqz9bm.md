@@ -2,7 +2,7 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
+> A little bit of pop, a little bit of rap\. Cover: Connor Price and Hoodie Allen
 
 430 songs - 19 hr 57 min
 

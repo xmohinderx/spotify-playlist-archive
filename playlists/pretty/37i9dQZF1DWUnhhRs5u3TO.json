@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
-  "num_followers": 337133,
+  "num_followers": 337416,
   "original_name": "10s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTIzMywwMDAwMDAwMGM3YmY3YTRiM2Q5YzIyODg4ZGMxNDBmYzljYTBmZGU5",
+  "snapshot_id": "MTY2OTM4NTIzMywwMDAwMDAwMGNiOWViYjhmNTgzNWQ2YTU3NmMyMzIwNGU1ZjU5ZmRi",
   "tracks": [
     {
       "added_at": "2022-11-17 08:35:12",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 269045,
-      "name": "Was ich liebe",
-      "url": "https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188266,
       "name": "Diamond Eyes",
       "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 269045,
+      "name": "Was ich liebe",
+      "url": "https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "The Rise of Chaos",
-        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 299720,
-      "name": "Koolaid",
-      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "1000hp",
         "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 258586,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "The Rise of Chaos",
+        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 299720,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Sounds Of A Playground Fading",
-        "url": "https://open.spotify.com/album/12WYGQwbMFAVdVBFmXT4ny"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Deliver Us",
-      "url": "https://open.spotify.com/track/24fWeFwEJQlce7B3grrgR1"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "The Concrete Confessional",
         "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 125493,
       "name": "Seven Enemies",
       "url": "https://open.spotify.com/track/6oOQNOCjGmgfC0lUpqa6yV"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Sounds Of A Playground Fading",
+        "url": "https://open.spotify.com/album/12WYGQwbMFAVdVBFmXT4ny"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Deliver Us",
+      "url": "https://open.spotify.com/track/24fWeFwEJQlce7B3grrgR1"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Dead City Radio And The New Gods Of Supertown",
-      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "The Serenity of Suffering",
         "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 213000,
       "name": "Rotting In Vain",
       "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Dead City Radio And The New Gods Of Supertown",
+      "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Dark Skies",
-        "url": "https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 287998,
-      "name": "The Price of Agony",
-      "url": "https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "For We Are Many",
         "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 177053,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Dark Skies",
+        "url": "https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 287998,
+      "name": "The Price of Agony",
+      "url": "https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Eat The Elephant",
-        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 281626,
-      "name": "The Doomed",
-      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "For We Are Many",
         "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 238306,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/47fPXkWBYmYLcRCGrXgoYq"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Eat The Elephant",
+        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 281626,
+      "name": "The Doomed",
+      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 349093,
-      "name": "Sorceress",
-      "url": "https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Defy",
         "url": "https://open.spotify.com/album/78yMb0lsPLAEuugaeLeLL0"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 249506,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/15TC83LO1QAu0BZLRdHw01"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 349093,
+      "name": "Sorceress",
+      "url": "https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg"
     },
     {
       "added_at": "2022-11-17 08:35:12",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2022-11-17 08:35:12",
       "album": {
-        "name": "BABYMETAL",
-        "url": "https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 318026,
-      "name": "Road of Resistance",
-      "url": "https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI"
-    },
-    {
-      "added_at": "2022-11-17 08:35:12",
-      "album": {
         "name": "Wintersaga",
         "url": "https://open.spotify.com/album/41qphLDtonmyZmvO5gnoui"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 272767,
       "name": "Drunken Dwarves",
       "url": "https://open.spotify.com/track/4qxK1lnNoYm1kevG69mhHU"
+    },
+    {
+      "added_at": "2022-11-17 08:35:12",
+      "album": {
+        "name": "BABYMETAL",
+        "url": "https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 318026,
+      "name": "Road of Resistance",
+      "url": "https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI"
     }
   ],
   "unique_name": "10s Metal Classics",

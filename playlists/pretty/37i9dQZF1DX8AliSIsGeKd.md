@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Giorgia Angiuli
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,456 likes - 78 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,565 likes - 78 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 71 | [To the Soul](https://open.spotify.com/track/2YrXmlAEz519MRKZdpcR3F) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [To the Soul](https://open.spotify.com/album/5ozX77l1jnaM9dWDUGv78H) | 6:36 |
 | 72 | [Mars Theme](https://open.spotify.com/track/3KmO2anmFU3mqo7FBLLmxT) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Mars Theme](https://open.spotify.com/album/36JdcZiEnHUGi0wFV5djyd) | 5:36 |
 | 73 | [Not Alone \- Radio Edit](https://open.spotify.com/track/3ci8RfAsik7iP8g14eOXZO) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Don't Look Back EP](https://open.spotify.com/album/4Zm8xcGJ3ODPaoT3VZPWrb) | 3:43 |
-| 74 | [I'm Watching You](https://open.spotify.com/track/1fCbJjDNpD2HiqjqaIbem4) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [Bakka](https://open.spotify.com/artist/4Qag6PghNFpj3tbxe2RMxe) | [Watching You](https://open.spotify.com/album/4JPvtJOXHpR1c3VpmhTQ8t) | 4:45 |
+| 74 | [I'm Watching You](https://open.spotify.com/track/1fCbJjDNpD2HiqjqaIbem4) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Watching You](https://open.spotify.com/album/4JPvtJOXHpR1c3VpmhTQ8t) | 4:45 |
 | 75 | [get it done \- Edit](https://open.spotify.com/track/62zJ1of7rLArVHfizrvCiO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Zissou Edits Best Vol\. 2](https://open.spotify.com/album/6Olob9MLS6LCSgan8hc8wp) | 4:30 |
 | 76 | [Unity \- Agar Agar Remix](https://open.spotify.com/track/6VTSDSzkuyFYs8DxIKd8gB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Unity \(Agar Agar Remix\)](https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K) | 4:29 |
 | 77 | [Strahlemann \- Radio Edit](https://open.spotify.com/track/1FBXqaAdFrgtkmKu2tr7tM) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Strahlemann](https://open.spotify.com/album/56HHtDhfQLrQqM1MCEThJn) | 2:57 |

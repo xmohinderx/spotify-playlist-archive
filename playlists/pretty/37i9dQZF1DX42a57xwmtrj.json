@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
-  "num_followers": 125023,
+  "num_followers": 125121,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMGEyMTA4NTVjMGU4NmViMDdiNjZhNDNiNjFlNmVmMzQ0",
+  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMDkyZDU0N2M0YjdmN2Y2YzA5ZGUzYjgxN2E2OTJkMmVj",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Los Versos de la Catrina",
-        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
-      },
-      "artists": [
-        {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Los Versos de la Catrina",
-      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 255053,
       "name": "Dolor de Madre",
       "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Los Versos de la Catrina",
+        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
+      },
+      "artists": [
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Los Versos de la Catrina",
+      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "En Sentido Contrario",
-        "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
       "artists": [
         {
-          "name": "Troleb\u00fas",
-          "url": "https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3"
+          "name": "Brebaje Extra\u00f1o",
+          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
         }
       ],
-      "duration_ms": 217942,
-      "name": "Balada Chilanga",
-      "url": "https://open.spotify.com/track/0OuuoanG0AweEt3zEpmjWN"
+      "duration_ms": 280240,
+      "name": "Ha Vuelto Ya",
+      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+        "name": "En Sentido Contrario",
+        "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
       },
       "artists": [
         {
-          "name": "Brebaje Extra\u00f1o",
-          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
+          "name": "Troleb\u00fas",
+          "url": "https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3"
         }
       ],
-      "duration_ms": 280240,
-      "name": "Ha Vuelto Ya",
-      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
+      "duration_ms": 217942,
+      "name": "Balada Chilanga",
+      "url": "https://open.spotify.com/track/0OuuoanG0AweEt3zEpmjWN"
     }
   ],
   "unique_name": "Rock Urbano",

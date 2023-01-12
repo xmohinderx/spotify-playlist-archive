@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 222447,
+  "num_followers": 222539,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2MTE1OSwwMDAwMDAwMDZiYzBhMTdjMDRlYzZjOGQ2MmM2NGVhMGJjNDQ2ZWI2",
+  "snapshot_id": "MTY3MzM2MTE1OSwwMDAwMDAwMGIzODExYTVmZjFjMjRmNGM3MjY1OWZiZDc5MGI4MDI3",
   "tracks": [
     {
       "added_at": "2023-01-10 14:32:39",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
         "name": "Soundgasm",
         "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
       },
@@ -731,22 +715,18 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "LV N ATTN",
-        "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 213991,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -771,6 +751,26 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
+        "name": "LV N ATTN",
+        "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 213991,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
         "name": "Fleur froide (Donum Novae)",
         "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 197240,
       "name": "Le temps",
       "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Philkeyz",
-          "url": "https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Nesesari",
-      "url": "https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -827,6 +807,26 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Philkeyz",
+          "url": "https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Nesesari",
+      "url": "https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -843,6 +843,30 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -907,50 +931,6 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
         "name": "Sugarcane (Remix)",
         "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 251147,
       "name": "Sugarcane - Remix",
       "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -1007,22 +1007,6 @@
       "duration_ms": 202013,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
+        "name": "Sound from Africa",
+        "url": "https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 152608,
+      "name": "Tetema (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
-        "name": "Sound from Africa",
-        "url": "https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 152608,
-      "name": "Tetema (feat. Diamond Platnumz)",
-      "url": "https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Set It",
-        "url": "https://open.spotify.com/album/48P5zv9zxFr0VkxZUf4wKa"
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 154582,
-      "name": "Set It",
-      "url": "https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO"
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+        "name": "Set It",
+        "url": "https://open.spotify.com/album/48P5zv9zxFr0VkxZUf4wKa"
       },
       "artists": [
         {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+      "duration_ms": 154582,
+      "name": "Set It",
+      "url": "https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -2479,30 +2479,6 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
         "name": "Jiggle",
         "url": "https://open.spotify.com/album/51rfhvpTi6fhMYpkq3ci4o"
       },
@@ -2523,6 +2499,30 @@
       "duration_ms": 132815,
       "name": "Jiggle",
       "url": "https://open.spotify.com/track/0F245o4yDaGy2leKy2l2Ae"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Alright (feat. Shatta Wale)",
-        "url": "https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 178662,
-      "name": "Alright (feat. Shatta Wale)",
-      "url": "https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -2623,18 +2603,22 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS"
+        "name": "Alright (feat. Shatta Wale)",
+        "url": "https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 152967,
-      "name": "Tropical",
-      "url": "https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr"
+      "duration_ms": 178662,
+      "name": "Alright (feat. Shatta Wale)",
+      "url": "https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -2695,6 +2679,22 @@
       "duration_ms": 152523,
       "name": "Gonn Do",
       "url": "https://open.spotify.com/track/2U15IErwpwD0ZXSAOwOpJc"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -2783,26 +2783,6 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Pelikula",
-        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        }
-      ],
-      "duration_ms": 193543,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
         "name": "Damages",
         "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
       },
@@ -2859,6 +2839,26 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
+        "name": "Pelikula",
+        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "duration_ms": 193543,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
         "name": "Man on Duty",
         "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
       },
@@ -2875,22 +2875,6 @@
       "duration_ms": 215640,
       "name": "Man on Duty",
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
-        "name": "Dey Inside",
-        "url": "https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D"
-      },
-      "artists": [
-        {
-          "name": "Amartey",
-          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
-        }
-      ],
-      "duration_ms": 194291,
-      "name": "DEY INSIDE",
-      "url": "https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -2947,26 +2931,18 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "The Highest Grade Vol. 2.0 - Caribbean Kush",
-        "url": "https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5"
+        "name": "Dey Inside",
+        "url": "https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D"
       },
       "artists": [
         {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
         }
       ],
-      "duration_ms": 149369,
-      "name": "Tunup (feat. Konshens & Bokoesam)",
-      "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
+      "duration_ms": 194291,
+      "name": "DEY INSIDE",
+      "url": "https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -2987,6 +2963,30 @@
       "duration_ms": 202111,
       "name": "Lying If I Call It Love (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
+        "name": "The Highest Grade Vol. 2.0 - Caribbean Kush",
+        "url": "https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 149369,
+      "name": "Tunup (feat. Konshens & Bokoesam)",
+      "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -3135,6 +3135,30 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
+        "name": "Etema",
+        "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
+      },
+      "artists": [
+        {
+          "name": "WaxFiend",
+          "url": "https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r"
+        },
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "Dave Nunes",
+          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
+        }
+      ],
+      "duration_ms": 270086,
+      "name": "Etema",
+      "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
         "name": "Lagrimas",
         "url": "https://open.spotify.com/album/5RxpXMJneQXaCAWXZwrxRa"
       },
@@ -3167,30 +3191,6 @@
       "duration_ms": 203001,
       "name": "Handle It",
       "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
-        "name": "Etema",
-        "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
-      },
-      "artists": [
-        {
-          "name": "WaxFiend",
-          "url": "https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r"
-        },
-        {
-          "name": "Saint Ronil",
-          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
-        },
-        {
-          "name": "Dave Nunes",
-          "url": "https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR"
-        }
-      ],
-      "duration_ms": 270086,
-      "name": "Etema",
-      "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -3367,6 +3367,22 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/5b7fMHNr6swGnrLALMNrrr"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 176996,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/0V825HbDpHPXs4mOQtGnbW"
+    },
+    {
+      "added_at": "2023-01-10 14:32:39",
+      "album": {
         "name": "Come Online (feat. King Promise & Diquenza) [Remix]",
         "url": "https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr"
       },
@@ -3399,18 +3415,18 @@
     {
       "added_at": "2023-01-10 14:32:39",
       "album": {
-        "name": "Highest",
-        "url": "https://open.spotify.com/album/5b7fMHNr6swGnrLALMNrrr"
+        "name": "Nobody Like You",
+        "url": "https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "VERSANO",
+          "url": "https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3"
         }
       ],
-      "duration_ms": 176996,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/0V825HbDpHPXs4mOQtGnbW"
+      "duration_ms": 185081,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY"
     },
     {
       "added_at": "2023-01-10 14:32:39",
@@ -3431,22 +3447,6 @@
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
-    },
-    {
-      "added_at": "2023-01-10 14:32:39",
-      "album": {
-        "name": "Nobody Like You",
-        "url": "https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC"
-      },
-      "artists": [
-        {
-          "name": "VERSANO",
-          "url": "https://open.spotify.com/artist/2iw3duHiN2YGJfiLUJkIO3"
-        }
-      ],
-      "duration_ms": 185081,
-      "name": "Nobody Like You",
-      "url": "https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY"
     },
     {
       "added_at": "2023-01-10 14:32:39",

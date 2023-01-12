@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 974193,
+  "num_followers": 974224,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDk4NjBkYmI5MmE1N2M0NjBhM2Y0YTc0ZmVhNTdmNWY4",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDA3MGY4NWMzYWMyNDM4YzNmZmYxYmZmNDNmOTE4NjM1",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -417,6 +417,38 @@
       "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
     },
     {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -437,38 +469,6 @@
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Beatopia",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "You Might Not Like Her",
-        "url": "https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "You Might Not Like Her",
-      "url": "https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "leave me",
@@ -515,6 +499,22 @@
       "duration_ms": 220539,
       "name": "leave me",
       "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "You Might Not Like Her",
+        "url": "https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "You Might Not Like Her",
+      "url": "https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 193806,
       "name": "Different",
       "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 280130,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Block me out",
@@ -719,6 +703,22 @@
       "duration_ms": 249494,
       "name": "Block me out",
       "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "The Hardest Part (Deluxe)",
-        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 248284,
-      "name": "Set For Life",
-      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "When You Think Of Me",
@@ -833,6 +817,22 @@
       "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
     },
     {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "The Hardest Part (Deluxe)",
+        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 248284,
+      "name": "Set For Life",
+      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Baby Why",
@@ -847,38 +847,6 @@
       "duration_ms": 164533,
       "name": "Baby Why",
       "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "getting into",
-        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "getting into",
-      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 201463,
-      "name": "I Just Want a Lover",
-      "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -897,6 +865,22 @@
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "getting into",
+        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "getting into",
+      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
+    },
+    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Headlights",
@@ -911,6 +895,22 @@
       "duration_ms": 173213,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 201463,
+      "name": "I Just Want a Lover",
+      "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -977,20 +977,20 @@
       "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+        "name": "Aftershock",
+        "url": "https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 193973,
-      "name": "Mr. Percocet",
-      "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
+      "duration_ms": 203600,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1009,20 +1009,20 @@
       "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Aftershock",
-        "url": "https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 203600,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX"
+      "duration_ms": 193973,
+      "name": "Mr. Percocet",
+      "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Venting to Strangers",
-        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 152437,
-      "name": "Venting to Strangers",
-      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Last Night In The Bittersweet",
@@ -1105,6 +1089,22 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Venting to Strangers",
+        "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 152437,
+      "name": "Venting to Strangers",
+      "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Meet The Moonlight",
@@ -1119,22 +1119,6 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "What A Convincing Illusion",
-      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "What A Convincing Illusion",
+      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
     },
     {
       "added_at": "2022-12-09 05:00:00",

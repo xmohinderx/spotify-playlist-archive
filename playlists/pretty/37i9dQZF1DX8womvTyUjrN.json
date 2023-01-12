@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Lola Indigo & Luis Fonsi",
-  "num_followers": 267750,
+  "num_followers": 267916,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGNkZDRmMGY4NmVjNmU1ZTJmMWFhNGRlYzE2MmFiZDIx",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDM0MDFiNWIxMDY5MTNlNWI1NzYxYTcxM2JhNGQxNTQy",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -671,34 +671,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "La Ducha Remix (con Becky G, Tini)",
-        "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 274437,
-      "name": "La Ducha Remix (con Becky G, Tini)",
-      "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+      "duration_ms": 147149,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -739,6 +723,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "La Ducha Remix (con Becky G, Tini)",
+        "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 274437,
+      "name": "La Ducha Remix (con Becky G, Tini)",
+      "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Me Encantar\u00eda",
         "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 177328,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/1APLK79zZo67ny370NLO4F"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "A Poca Luz",
-        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 147149,
-      "name": "A Poca Luz",
-      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -795,6 +795,22 @@
       "duration_ms": 268115,
       "name": "Falsas Promesas",
       "url": "https://open.spotify.com/track/22CiUJfxqy351cndvSdpSE"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 149196,
       "name": "Enchule",
       "url": "https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2023-01-06 05:00:00",

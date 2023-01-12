@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-446 songs - 1 day 5 hr 26 min
+447 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 | 2022-12-31 |  |
 | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/track/30iV9AL1mSkP1j9vKe4li7) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/album/1BQkjRsbHYI1tlPWzuzlww) | 3:19 | 2022-06-14 | 2022-07-06 |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-05-10 | 2022-06-17 |
-| [The Spirit Lives On](https://open.spotify.com/track/1e2PUT1Pj1xlEx6nCdzdAY) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [The Spirit Lives On](https://open.spotify.com/album/2n0bm7pacxZqUMFf0vQ9K1) | 5:32 | 2023-01-10 |  |
+| [The Spirit Lives On](https://open.spotify.com/track/1e2PUT1Pj1xlEx6nCdzdAY) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [The Spirit Lives On](https://open.spotify.com/album/2n0bm7pacxZqUMFf0vQ9K1) | 5:32 | 2023-01-10 | 2023-01-12 |
+| [The Spirit Lives On](https://open.spotify.com/track/0KythHhDadp6WiJQSFPJMO) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [The Spirit Lives On](https://open.spotify.com/album/4ANg8IU3RpBDw9Wxgnzqvu) | 5:32 | 2023-01-10 |  |
 | [THE STORY ENDS \- Acoustic Version](https://open.spotify.com/track/64SqJROyPmTbkZ0FeebD3A) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [THE STORY ENDS \(Acoustic Version\)](https://open.spotify.com/album/1i8DHLjO64k5b7JbYHHk1O) | 4:53 | 2022-05-17 | 2022-06-17 |
 | [TiDE](https://open.spotify.com/track/5HyOjtlcIBiCbKGYwudVqS) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [TiDE](https://open.spotify.com/album/3yRt3XQ3ZE3VidghduYIuI) | 4:46 | 2022-05-12 | 2022-07-23 |
 | [Tiny World](https://open.spotify.com/track/6HO985R66EUQniAD1x9XLw) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Tiny World](https://open.spotify.com/album/1FiKy2LLk2fQTecXtXS1nK) | 4:12 | 2022-05-10 | 2022-07-19 |

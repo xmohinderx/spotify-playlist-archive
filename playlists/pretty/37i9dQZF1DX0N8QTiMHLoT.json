@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 119487,
+  "num_followers": 119569,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGRkMDNkNjg0ZGFiZTYwNGMxNzQ4NzNhZmEzOTk1MjA1",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGI5MzIxMGFjMmFiNTJmMDUyMjRlYmIwYjk4Mzg1NDFh",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "UFO Tofu",
-        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck and the Flecktones",
-          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Sex in a Pan",
-      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3n97LxQTiIk9QBZWdzZggl"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 259385,
       "name": "Actualize",
       "url": "https://open.spotify.com/track/1NENL1nGSuAnJhZz8xZd6N"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "UFO Tofu",
+        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Sex in a Pan",
+      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
     },
     {
       "added_at": "2021-05-06 21:09:12",

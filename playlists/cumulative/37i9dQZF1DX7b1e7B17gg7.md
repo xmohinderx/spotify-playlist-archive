@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-62 songs - 4 hr 42 min
+63 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Georgia On My Mind](https://open.spotify.com/track/3IXfelfYGAlNhpj2PAOIb7) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:10 | 2022-11-30 |  |
 | [Gospel Groove](https://open.spotify.com/track/5QHdraJnSVp0vnXGMefg3d) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:13 | 2022-11-30 |  |
 | [How Long Blues](https://open.spotify.com/track/17DzqYtuUdSSg1HbQ9i5Wd) | [Tor Einar Bekken](https://open.spotify.com/artist/3J30JgVNLzuCA6uaRasNoq), [Richard Gjems](https://open.spotify.com/artist/3NgCfexdR7Or1rhp9GJ5XU) | [Songs from a Forest](https://open.spotify.com/album/5iQVzqrwsj45S7jf6PfqwS) | 4:36 | 2022-11-30 |  |
+| [I've Started To Lose Track](https://open.spotify.com/track/31LJ8qz6oyssmej1vs9Hcc) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 3:37 | 2023-01-11 |  |
 | [In Heaven](https://open.spotify.com/track/4gww3Jsmig4mgKgMKhZtgi) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 4:34 | 2023-01-03 |  |
 | [Inland Empire](https://open.spotify.com/track/0bFDDU8ETywjcjKAHRsWDH) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Winter Is For Lovers](https://open.spotify.com/album/2jRFS663e7VPtA64depQBV) | 3:26 | 2022-11-30 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-11-30 |  |

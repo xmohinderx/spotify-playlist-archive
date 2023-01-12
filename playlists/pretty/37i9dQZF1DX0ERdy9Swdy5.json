@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s",
-  "num_followers": 599767,
+  "num_followers": 600076,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDBhNDUxMjdmOTg2M2E2Y2ViOWRlYTQ0YTM4Yzg1Nzcy",
+  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDlmNzMyMWY4OTE1M2EzNmQ3NzljMDQxODgzN2Y5NzE0",
   "tracks": [
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Ironias",
-        "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 291800,
-      "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
-      "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 257920,
       "name": "Magdalena, Mi Amor (Quimbara)",
       "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Ironias",
+        "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
+      "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
     },
     {
       "added_at": "2022-08-31 06:45:44",

@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami, Ramya Behara, Veena Ghantasala",
+          "url": "https://open.spotify.com/artist/4Gf2k6NPzkDUQArdfNPi6K"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250971,
+      "name": "Choolenge Aasma",
+      "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
+    },
+    {
+      "album": {
         "name": "Dhruva (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1z7MW6HPkRhfa2Fn5Rhas5"
       },
@@ -1004,6 +1022,32 @@
       "duration_ms": 198834,
       "name": "Gangu Leader",
       "url": "https://open.spotify.com/track/05dYneZZZ2mytSmnsvzFoW"
+    },
+    {
+      "album": {
+        "name": "Gundellonaa (From \"Ori Devuda\") - Single",
+        "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200113,
+      "name": "Gundellonaa (From \"Ori Devuda\")",
+      "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
     },
     {
       "album": {
@@ -1838,6 +1882,24 @@
       "duration_ms": 267500,
       "name": "Manasu Maree",
       "url": "https://open.spotify.com/track/1FLvVhsX74ZZuQaDShs4RE"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
+          "url": "https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Manasu Maree",
+      "url": "https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa"
     },
     {
       "album": {
@@ -3086,7 +3148,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 173932,
       "name": "Undiporaadhey",
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
@@ -3108,6 +3170,36 @@
       "duration_ms": 231971,
       "name": "Undipova",
       "url": "https://open.spotify.com/track/7d7BpHIZL65AJNi9FUFCme"
+    },
+    {
+      "album": {
+        "name": "Urike Urike (From \"Hit 2\") - Single",
+        "url": "https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/3gpmeSOlkK2WM6XJljfvjv"
+        },
+        {
+          "name": "M. M. Sreelekha",
+          "url": "https://open.spotify.com/artist/6CuXzjuJB23gdGN8IsA5yS"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275625,
+      "name": "Urike Urike",
+      "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"
     },
     {
       "album": {

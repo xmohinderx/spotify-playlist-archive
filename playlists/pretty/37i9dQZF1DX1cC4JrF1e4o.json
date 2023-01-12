@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 314201,
+  "num_followers": 314431,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMDAxYWJkODg4MTE2MDJkMWRhODUyZDVkYTU5ZDRjNmQx",
+  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMDc2OTVhYmI5ZDQ0MWEzMzdmMzFkNmY1MDczODBmMDNi",
   "tracks": [
     {
       "added_at": "2022-09-08 16:04:56",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "My Cherie",
-        "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
-      },
-      "artists": [
-        {
-          "name": "Al Martino",
-          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Spanish Eyes",
-      "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
         "name": "That Towering Feeling",
         "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 118400,
       "name": "Let's Fall in Love",
       "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "My Cherie",
+        "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
     },
     {
       "added_at": "2022-09-08 16:04:56",

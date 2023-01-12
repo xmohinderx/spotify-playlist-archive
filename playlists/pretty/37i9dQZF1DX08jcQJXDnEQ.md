@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s\. Cover: Deftones
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,350 likes - 150 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,071 likes - 150 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 71 | [Dead Skin Mask](https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 5:20 |
 | 72 | [Slaughter Of The Soul](https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [Slaughter Of The Soul](https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U) | 3:03 |
 | 73 | [Night Crawler](https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 5:44 |
-| 74 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
-| 75 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 |
+| 74 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 |
+| 75 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
 | 76 | [Orgasmatron](https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:14 |
 | 77 | [Clean My Wounds](https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 3:32 |
-| 78 | [Bring The Noise](https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP), [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Attack Of The Killer B's](https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS) | 3:31 |
-| 79 | [Slave to the Grind](https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:28 |
+| 78 | [Slave to the Grind](https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:28 |
+| 79 | [Bring The Noise](https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP), [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Attack Of The Killer B's](https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS) | 3:31 |
 | 80 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
 | 81 | [War Ensemble](https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 4:51 |
 | 82 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 115 | [Love Rears Its Ugly Head](https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Time'S Up](https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA) | 4:19 |
 | 116 | [Metal Warriors](https://open.spotify.com/track/5P2Ghhv0wFYThHfDQaS0g5) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [The Triumph of Steel](https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd) | 3:54 |
 | 117 | [Body Count's in the House](https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Body Count](https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J) | 3:24 |
-| 118 | [Transilvanian Hunger \- Studio](https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Transilvanian Hunger](https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E) | 6:09 |
-| 119 | [Electric Crown](https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 5:30 |
+| 118 | [Electric Crown](https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 5:30 |
+| 119 | [Transilvanian Hunger \- Studio](https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Transilvanian Hunger](https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E) | 6:09 |
 | 120 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 |
 | 121 | [Rollin' Stoned](https://open.spotify.com/track/0lmzRoEAZ3OKqnocLC5ByY) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Latest & Greatest](https://open.spotify.com/album/6EZSB3nAvY83VYDg87julg) | 4:08 |
 | 122 | [Wolverine Blues](https://open.spotify.com/track/6WBdwdLLif4kuG3s6ot8uB) | [Entombed](https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB) | [Wolverine Blues](https://open.spotify.com/album/1CZwyjL96gGx4PryOIFNYn) | 2:13 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 140 | [Face Of Melinda \(Remastered\)](https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Still Life \(Remastered\)](https://open.spotify.com/album/5iA9ECcGKLN2BSxikuENma) | 7:58 |
 | 141 | [Chainsaw Charlie\(Murders In The New Morgue\)](https://open.spotify.com/track/7IZ6a9jFVrtGZKW1yvUhfi) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Crimson Idol](https://open.spotify.com/album/1qIXNs2KIv1DfO01lwoUfz) | 8:43 |
 | 142 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
-| 143 | [Hooligan's Holiday](https://open.spotify.com/track/1l3lfMFKZl5Of75yL32NyW) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Mötley Crüe](https://open.spotify.com/album/0LNvUkaE6bHCsNqq2mYIiE) | 5:51 |
-| 144 | [Future Breed Machine](https://open.spotify.com/track/0gH7MNXQud3Pvnfv1zk3bL) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Destroy Erase Improve \(Reloaded\)](https://open.spotify.com/album/4Db5w1mFaolDotknFJiteD) | 5:48 |
+| 143 | [Future Breed Machine](https://open.spotify.com/track/0gH7MNXQud3Pvnfv1zk3bL) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Destroy Erase Improve \(Reloaded\)](https://open.spotify.com/album/4Db5w1mFaolDotknFJiteD) | 5:48 |
+| 144 | [Hooligan's Holiday](https://open.spotify.com/track/1l3lfMFKZl5Of75yL32NyW) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Mötley Crüe](https://open.spotify.com/album/0LNvUkaE6bHCsNqq2mYIiE) | 5:51 |
 | 145 | [Lay Lady Lay](https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Filth Pig](https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo) | 5:44 |
 | 146 | [Send Me Your Money](https://open.spotify.com/track/0JoHFDx1gp0JjBxEIPutNK) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 3:22 |
 | 147 | [Ramones](https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 1:25 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 149 | [Violent & Funky](https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Groove Family Cyco / Snapped Lika Mutha](https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M) | 4:16 |
 | 150 | [Jotun](https://open.spotify.com/track/49PeTGd7GuKTyCjHrbMWXn) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Whoracle](https://open.spotify.com/album/5VhW35Qvv3ig35mm1TZPe1) | 3:53 |
 
-Snapshot ID: `MTY3MTA1Mzc2MSwwMDAwMDAwMGIzZWQwYzQwMGI2NGJmNWEwYmJjMmQzZGM2M2I3YmJl`
+Snapshot ID: `MTY3MTA1Mzc2MSwwMDAwMDAwMDViMDU2YzFhZTcyNzJkNTI3NjhjNzBkZDdiOTQ2NGNi`

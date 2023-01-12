@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "EKKA",
+        "url": "https://open.spotify.com/album/1XsyEd09VvU07szQ1tEMiM"
+      },
+      "artists": [
+        {
+          "name": "mihoro*",
+          "url": "https://open.spotify.com/artist/6klHctW8dryXG9b5RrCLmV"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "EKKA",
+      "url": "https://open.spotify.com/track/6w0BPTwMMCFy6Wx3wt0Ho1"
+    },
+    {
+      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/5BAd8DFxuz9dLP27ftrxJ1"
       },
@@ -6364,10 +6382,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 229906,
       "name": "Never Fear",
       "url": "https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks"
+    },
+    {
+      "album": {
+        "name": "Never Fear",
+        "url": "https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT"
+      },
+      "artists": [
+        {
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229906,
+      "name": "Never Fear",
+      "url": "https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3"
     },
     {
       "album": {
@@ -7686,6 +7722,24 @@
       "duration_ms": 248000,
       "name": "Seed",
       "url": "https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm"
+    },
+    {
+      "album": {
+        "name": "Selfhug Biglove",
+        "url": "https://open.spotify.com/album/4Xe3CMj63mISzrF7iXMuvg"
+      },
+      "artists": [
+        {
+          "name": "Yuinishio",
+          "url": "https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227506,
+      "name": "Selfhug Biglove",
+      "url": "https://open.spotify.com/track/644uk2f8dAJCvxly8s20St"
     },
     {
       "album": {
@@ -9579,6 +9633,24 @@
     },
     {
       "album": {
+        "name": "Usotsuki",
+        "url": "https://open.spotify.com/album/0fiGjrYXmgaIfbX1tPRvia"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Usotsuki",
+      "url": "https://open.spotify.com/track/2iK9aKDMWe9xQC8aBQ3y7n"
+    },
+    {
+      "album": {
         "name": "Uzu",
         "url": "https://open.spotify.com/album/2CUfYSaTdq99eLf6MQOEQS"
       },
@@ -10814,7 +10886,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 222000,
       "name": "\u3048\u3063\u304b",
       "url": "https://open.spotify.com/track/3wPm5NGWQqLx2aYOhMeCo6"
@@ -13080,7 +13152,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 227506,
       "name": "\u30bb\u30eb\u30d5\u30cf\u30b0\u30fb\u30d3\u30c3\u30b0\u30e9\u30f4",
       "url": "https://open.spotify.com/track/6aFXUotL9l9EyI7b0ibp9U"
@@ -15234,7 +15306,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 217411,
       "name": "\u5618\u3064\u304d",
       "url": "https://open.spotify.com/track/0CaK41fIguCATIPHV2Yau1"

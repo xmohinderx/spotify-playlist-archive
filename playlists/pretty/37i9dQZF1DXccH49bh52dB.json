@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 391831,
+  "num_followers": 392235,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGFkZjcxNmI5YTI1ZThlOGI2OWQ4MmNkZDg2YzUyOTg3",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDJlOTc5MDljZTg0NTU1MmE3OTVkMWI0NmIzNTM2NWNk",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -659,22 +659,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sexual Healing (Kygo Remix)",
-        "url": "https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
         }
       ],
-      "duration_ms": 368316,
-      "name": "Sexual Healing - Kygo Remix",
-      "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
+      "duration_ms": 153391,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -699,22 +699,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
+        "name": "Sexual Healing (Kygo Remix)",
+        "url": "https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         },
         {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         }
       ],
-      "duration_ms": 153391,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
+      "duration_ms": 368316,
+      "name": "Sexual Healing - Kygo Remix",
+      "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Talk About It",
         "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 164536,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
     },
     {
       "added_at": "2022-01-18 14:54:04",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5491100,
+  "num_followers": 5487991,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMDUyZGRmMjAwMTNiMTNjN2I5YTU1MmE3YTlhNDViM2Y5",
+  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMGEwMWRiYWY0MzQ5YzgxYmRiNmI3YmQ3YTNlYTZjYzRj",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Have A Holly Jolly Christmas",
-        "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
-      },
-      "artists": [
-        {
-          "name": "Burl Ives",
-          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
-        }
-      ],
-      "duration_ms": 130026,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Christmas Tree Farm",
         "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 228026,
       "name": "Christmas Tree Farm",
       "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Have A Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "duration_ms": 130026,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6"
     },
     {
       "added_at": "2022-12-22 09:55:37",

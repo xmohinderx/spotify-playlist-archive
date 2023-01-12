@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 270531,
+  "num_followers": 270667,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDQyYzFmY2IxMjA4NjhmOWI1ZTA3YWYxODQwMWM0NWVh",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDhjY2I1YjVkZTVjODAzNjFhYzZmOTBjMzZhZDA3ZDU5",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 237600,
       "name": "Lucha de gigantes - Live",
       "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "La hora de los gigantes",
-        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
-      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+        "name": "La hora de los gigantes",
+        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
         }
       ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+      "duration_ms": 224413,
+      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
+      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
       },
       "artists": [
         {
-          "name": "Victor Jara",
-          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Amor del Bo",
-        "url": "https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 139530,
-      "name": "Amor del Bo",
-      "url": "https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
       },
@@ -1795,6 +1775,22 @@
       "duration_ms": 294095,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Aunque t\u00fa no lo sepas",
+        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
+      },
+      "artists": [
+        {
+          "name": "Alba Rojas",
+          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
+        }
+      ],
+      "duration_ms": 131343,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
     }
   ],
   "unique_name": "Cantautores",

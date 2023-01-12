@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > q q eh birimbola?
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,115 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,381 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 7 | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/track/2zpiccjPSl315SqthyDf9j) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Theus Costa](https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP), [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Faixa Rosa](https://open.spotify.com/artist/0JrZ7I50iqRoiPc60m8ony) | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/album/3jgOss4rmnFU1b6R8o3iIG) | 1:56 |
 | 8 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 |
 | 9 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 |
-| 10 | [Botadinha Saliente](https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Botadinha Saliente](https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG) | 2:38 |
-| 11 | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD) | 2:05 |
+| 10 | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD) | 2:05 |
+| 11 | [Botadinha Saliente](https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Botadinha Saliente](https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG) | 2:38 |
 | 12 | [Cara de Tralha](https://open.spotify.com/track/1Koy2dZb7lNApeGdt9Nr0q) | [Dj Vitor Lima](https://open.spotify.com/artist/4OgpoVCB5dqTzLGZ9e5VS4), [Natralhinha](https://open.spotify.com/artist/7y3vKgYCZCwmae66l0bL43), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [Remix do Tiktok](https://open.spotify.com/album/6nofyA63a36dRmGwr8CmVi) | 2:54 |
 | 13 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 |
 | 14 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 | 70 | [Desculpa Doutor](https://open.spotify.com/track/18CO6ODntZqzMxOxigBps4) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Desculpa Doutor](https://open.spotify.com/album/4gcVNBmXEvJs9JRg3gAtUw) | 2:52 |
 
-Snapshot ID: `MTY3MzM1ODY2MCwwMDAwMDAwMDRlZDgyZWRkZjUzMDFhNGViMDk4MzRkZTE5ODdlYjcz`
+Snapshot ID: `MTY3MzQ1NzIyMywwMDAwMDAwMDFhOTJhODVkNjhiYTlhOTQxNmRjNDFkZmM1N2NmOGUw`

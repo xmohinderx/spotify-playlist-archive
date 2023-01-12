@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 249601,
       "name": "Thinking About Thinking",
       "url": "https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC"
@@ -2144,6 +2144,24 @@
       "duration_ms": 204373,
       "name": "Two Apples Tied",
       "url": "https://open.spotify.com/track/1ItTDB7TfTu1mVlVgySaaN"
+    },
+    {
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/7Czy2wcmG4EkNPdwSv9sIo"
+      },
+      "artists": [
+        {
+          "name": "Ravndala",
+          "url": "https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173138,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/1ftWJuQAovl1BZH4Ijuqmg"
     },
     {
       "album": {
@@ -2432,6 +2450,28 @@
       "duration_ms": 125250,
       "name": "worth the wait",
       "url": "https://open.spotify.com/track/72sEMr3VwkECakurLsgF2f"
+    },
+    {
+      "album": {
+        "name": "you're just visiting",
+        "url": "https://open.spotify.com/album/4GCvPLx8vEKWmwOAvvovHt"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106290,
+      "name": "you're just visiting",
+      "url": "https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaf6XmhwlgC6"

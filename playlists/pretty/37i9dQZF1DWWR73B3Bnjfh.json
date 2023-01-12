@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 67496,
+  "num_followers": 67665,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgyMjE1OSwwMDAwMDAwMDA2MzE3NmU3OTY0MzgxOTk5MTc5ODRhMDU0MDE3MzQw",
+  "snapshot_id": "MTY3MjgyMjE1OSwwMDAwMDAwMDRjOWE0NzU5OGQwMGE2Mzg5MTdkNjFlNTc2ZGM3OGIw",
   "tracks": [
     {
       "added_at": "2023-01-04 08:49:19",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-04 08:49:19",
       "album": {
-        "name": "Music For Lovers",
-        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 462773,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
-    },
-    {
-      "added_at": "2023-01-04 08:49:19",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 183066,
       "name": "I Must Have That Man!",
       "url": "https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC"
+    },
+    {
+      "added_at": "2023-01-04 08:49:19",
+      "album": {
+        "name": "Music For Lovers",
+        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 462773,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
     },
     {
       "added_at": "2023-01-04 08:49:19",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-04 08:49:19",
       "album": {
-        "name": "Blues In The Night",
-        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 355320,
-      "name": "Blues In The Night",
-      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
-    },
-    {
-      "added_at": "2023-01-04 08:49:19",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2023-01-04 08:49:19",
       "album": {
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 355320,
+      "name": "Blues In The Night",
+      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
+    },
+    {
+      "added_at": "2023-01-04 08:49:19",
+      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 297880,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
-    },
-    {
-      "added_at": "2023-01-04 08:49:19",
-      "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 473666,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
     },
     {
       "added_at": "2023-01-04 08:49:19",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-01-04 08:49:19",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5"
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
       "artists": [
         {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 165680,
-      "name": "It's Easy To Remember",
-      "url": "https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt"
+      "duration_ms": 473666,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
     },
     {
       "added_at": "2023-01-04 08:49:19",
@@ -1411,6 +1395,22 @@
       "duration_ms": 292573,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
+    },
+    {
+      "added_at": "2023-01-04 08:49:19",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 165680,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt"
     },
     {
       "added_at": "2023-01-04 08:49:19",

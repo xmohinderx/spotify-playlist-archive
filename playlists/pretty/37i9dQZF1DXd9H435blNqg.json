@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 30384,
+  "num_followers": 30470,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGMyZDNmMDE0NDgwY2NjZjA4NTFhZjFlZjhmYTZhZmIy",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGE3YTc1YTdiYzBlZDQwYzhkODU1ODA3MTc0YmQ1ZGU4",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Say the Word",
+        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Get Yourself Some",
+      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Ones to Keep Close",
         "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 214186,
       "name": "Tell Your Mother",
       "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Say the Word",
-        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Get Yourself Some",
-      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Bottom Shelf Gin",
+        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Bottom Shelf Gin",
+      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Howlin' Sun",
         "url": "https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS"
       },
@@ -687,26 +703,6 @@
       "duration_ms": 181285,
       "name": "The Day Took My Sunshine Away",
       "url": "https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Come On",
-        "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
-      },
-      "artists": [
-        {
-          "name": "Artur Menezes",
-          "url": "https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -727,18 +723,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Bottom Shelf Gin",
-        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
       },
       "artists": [
         {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+          "name": "Artur Menezes",
+          "url": "https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Bottom Shelf Gin",
-      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
+      "duration_ms": 225133,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Sand Castles",
-        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
       "artists": [
         {
-          "name": "Rehab",
-          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Them That Matter Don't Mind",
-      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
+      "duration_ms": 169000,
+      "name": "Them That Matter Don't Mind",
+      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
     },
     {
       "added_at": "2022-08-31 19:45:43",

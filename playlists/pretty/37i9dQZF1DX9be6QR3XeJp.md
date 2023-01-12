@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Caity Baser
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,805 likes - 134 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,796 likes - 134 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

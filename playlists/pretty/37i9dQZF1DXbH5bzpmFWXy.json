@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme MalaFe & Jorge Carmona en portada.",
-  "num_followers": 104816,
+  "num_followers": 104931,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMwOTc0MCwwMDAwMDAwMGRiYWIzOTM3ODIxMThiOGY4NWVlZGViNWJhMWVlN2I4",
+  "snapshot_id": "MTY3MzMwOTc0MCwwMDAwMDAwMDA3OTQzMjcxYjI4MjM2ZjhkZDMxYTAyNzdkMDJiNmZj",
   "tracks": [
     {
       "added_at": "2022-12-05 23:10:26",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
       "added_at": "2022-11-07 23:46:55",
       "album": {
         "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
@@ -519,6 +503,22 @@
       "duration_ms": 190720,
       "name": "Vamos Aclarando Muchas Cosas - En Vivo",
       "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1241,6 +1241,30 @@
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
     },
     {
+      "added_at": "2023-01-10 00:15:40",
+      "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "Malas Rachas",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Intenciones Malas",
@@ -1327,30 +1351,6 @@
       "duration_ms": 161816,
       "name": "Mi Porvenir",
       "url": "https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9"
-    },
-    {
-      "added_at": "2023-01-10 00:15:40",
-      "album": {
-        "name": "Malas Rachas",
-        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 260285,
-      "name": "Malas Rachas",
-      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "added_at": "2022-12-30 06:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-12-16 06:00:00",
       "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/3Yp5rJMjwdlHTb2AFjgIyZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/09dpwwy68FFPop9VPYSadL"
-    },
-    {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 192053,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/00UbH8ziTAgSGvc8vf9qRt"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/3Yp5rJMjwdlHTb2AFjgIyZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/09dpwwy68FFPop9VPYSadL"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1625,26 +1625,6 @@
       "url": "https://open.spotify.com/track/5MyEACD2kRFeh231Z6FkdE"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Antes de que muera",
-        "url": "https://open.spotify.com/album/7z7dkvDcWC75LMtkZiqElA"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Antes de que muera",
-      "url": "https://open.spotify.com/track/1KMBPa4BFNWgLL5wIMSCSu"
-    },
-    {
       "added_at": "2022-12-05 23:10:26",
       "album": {
         "name": "La Suelita Roja",
@@ -1663,6 +1643,26 @@
       "duration_ms": 184145,
       "name": "La Suelita Roja",
       "url": "https://open.spotify.com/track/4Vo60MYDYIkcOG1yZ08Bnq"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Antes de que muera",
+        "url": "https://open.spotify.com/album/7z7dkvDcWC75LMtkZiqElA"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Antes de que muera",
+      "url": "https://open.spotify.com/track/1KMBPa4BFNWgLL5wIMSCSu"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1725,26 +1725,6 @@
       "url": "https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6"
     },
     {
-      "added_at": "2022-12-05 23:10:26",
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/6u42ofNIYxmoDSZqcqC9k5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 182041,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/3j83w59aZvtBCsZBnD2zwX"
-    },
-    {
       "added_at": "2023-01-10 00:15:40",
       "album": {
         "name": "Ingrata",
@@ -1767,26 +1747,42 @@
     {
       "added_at": "2022-12-05 23:10:26",
       "album": {
-        "name": "La Cruz Del Recuerdo",
-        "url": "https://open.spotify.com/album/31vyRCl4A8iLwyiEUaJ5z2"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/6u42ofNIYxmoDSZqcqC9k5"
       },
       "artists": [
         {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
         },
         {
-          "name": "Abril Mancilla",
-          "url": "https://open.spotify.com/artist/5BavlViN948RmxrVtJtOMC"
-        },
-        {
-          "name": "Jr L\u00f3pez",
-          "url": "https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 176257,
-      "name": "La Cruz Del Recuerdo",
-      "url": "https://open.spotify.com/track/7ngb9kR0CDFSOXBW1Z8WJx"
+      "duration_ms": 182041,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/3j83w59aZvtBCsZBnD2zwX"
+    },
+    {
+      "added_at": "2022-12-05 23:10:26",
+      "album": {
+        "name": "Al Estilo GTA",
+        "url": "https://open.spotify.com/album/4GaZxMACCSJNnKHCp1rQFU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "Al Estilo GTA",
+      "url": "https://open.spotify.com/track/0IAqjS7Crv5VOKBBKAllYt"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1811,22 +1807,26 @@
     {
       "added_at": "2022-12-05 23:10:26",
       "album": {
-        "name": "Al Estilo GTA",
-        "url": "https://open.spotify.com/album/4GaZxMACCSJNnKHCp1rQFU"
+        "name": "La Cruz Del Recuerdo",
+        "url": "https://open.spotify.com/album/31vyRCl4A8iLwyiEUaJ5z2"
       },
       "artists": [
         {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
         },
         {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+          "name": "Abril Mancilla",
+          "url": "https://open.spotify.com/artist/5BavlViN948RmxrVtJtOMC"
+        },
+        {
+          "name": "Jr L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO"
         }
       ],
-      "duration_ms": 147075,
-      "name": "Al Estilo GTA",
-      "url": "https://open.spotify.com/track/0IAqjS7Crv5VOKBBKAllYt"
+      "duration_ms": 176257,
+      "name": "La Cruz Del Recuerdo",
+      "url": "https://open.spotify.com/track/7ngb9kR0CDFSOXBW1Z8WJx"
     },
     {
       "added_at": "2022-10-28 05:00:00",

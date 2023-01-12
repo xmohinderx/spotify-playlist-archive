@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 85829,
+  "num_followers": 85843,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDI5MGY0ZmNiNmE0NzE0YWEyNDJiYzIyYTNhZDM2ZjEy",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDlkYjU3ZDJlY2M0Zjk3NWJhOGQ5NGYxNmE3MzYyMWZm",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Ai Preto",
         "url": "https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 131583,
       "name": "Ai Preto",
       "url": "https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -719,26 +719,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Baile no Morro",
-        "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
       "artists": [
         {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Mc Vitin Da Igrejinha",
-          "url": "https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Dj Win",
-          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 140307,
-      "name": "Baile no Morro",
-      "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -763,26 +763,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+        "name": "Baile no Morro",
+        "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
         },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Mc Vitin Da Igrejinha",
+          "url": "https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
         }
       ],
-      "duration_ms": 171747,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+      "duration_ms": 140307,
+      "name": "Baile no Morro",
+      "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "LOUCA",
-        "url": "https://open.spotify.com/album/2sltTO7QbcvucXFetVbccJ"
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
         }
       ],
-      "duration_ms": 142222,
-      "name": "LOUCA",
-      "url": "https://open.spotify.com/track/0FJpeAT75XI6LImeMhpdU3"
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1771,18 +1767,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Borboletas",
-        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+        "name": "LOUCA",
+        "url": "https://open.spotify.com/album/2sltTO7QbcvucXFetVbccJ"
       },
       "artists": [
         {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 204281,
-      "name": "Borboletas",
-      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+      "duration_ms": 142222,
+      "name": "LOUCA",
+      "url": "https://open.spotify.com/track/0FJpeAT75XI6LImeMhpdU3"
     },
     {
       "added_at": "2022-10-13 23:00:00",

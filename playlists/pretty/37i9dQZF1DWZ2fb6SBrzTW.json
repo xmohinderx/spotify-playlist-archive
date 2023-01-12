@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 9037,
+  "num_followers": 9072,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1OTMwNiwwMDAwMDAwMGMyZDA5MjU3Nzc5ZmQyNGYwZTkxNDdiZDg1NTk5YWQ2",
+  "snapshot_id": "MTY3MTM1OTMwNiwwMDAwMDAwMDMwMDAxMjgyYTBkZDgyZDEyZTA5YmJmODI2MTkyZmEy",
   "tracks": [
     {
       "added_at": "2022-09-19 07:27:22",
@@ -405,6 +405,22 @@
       "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
     },
     {
+      "added_at": "2022-11-04 06:29:36",
+      "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 177449,
+      "name": "Chance (Na Ham)",
+      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "Love, Damini",
@@ -423,22 +439,6 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
-    },
-    {
-      "added_at": "2022-11-04 06:29:36",
-      "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 177449,
-      "name": "Chance (Na Ham)",
-      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     },
     {
       "added_at": "2022-09-09 09:20:13",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
     },
     {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
       "added_at": "2022-08-05 07:44:31",
       "album": {
         "name": "In Da Car",
@@ -645,22 +661,6 @@
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
-    },
-    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Polongo",
@@ -675,26 +675,6 @@
       "duration_ms": 173076,
       "name": "Polongo",
       "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
-    },
-    {
-      "added_at": "2022-11-18 11:45:01",
-      "album": {
-        "name": "KOTTO",
-        "url": "https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV"
-      },
-      "artists": [
-        {
-          "name": "Sifoor",
-          "url": "https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj"
-        },
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        }
-      ],
-      "duration_ms": 230187,
-      "name": "KOTTO",
-      "url": "https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7"
     },
     {
       "added_at": "2022-10-07 12:08:55",
@@ -719,6 +699,26 @@
       "duration_ms": 182073,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
+    },
+    {
+      "added_at": "2022-11-18 11:45:01",
+      "album": {
+        "name": "KOTTO",
+        "url": "https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV"
+      },
+      "artists": [
+        {
+          "name": "Sifoor",
+          "url": "https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj"
+        },
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        }
+      ],
+      "duration_ms": 230187,
+      "name": "KOTTO",
+      "url": "https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7"
     },
     {
       "added_at": "2022-10-30 10:53:51",
@@ -777,26 +777,6 @@
       "url": "https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR"
     },
     {
-      "added_at": "2022-08-12 05:43:18",
-      "album": {
-        "name": "Jaiye Foreign",
-        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 190164,
-      "name": "Jaiye Foreign",
-      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Bad Girl (feat. Wande Coal & Victony)",
@@ -819,6 +799,26 @@
       "duration_ms": 204232,
       "name": "Bad Girl (feat. Wande Coal & Victony)",
       "url": "https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6"
+    },
+    {
+      "added_at": "2022-08-12 05:43:18",
+      "album": {
+        "name": "Jaiye Foreign",
+        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 190164,
+      "name": "Jaiye Foreign",
+      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
       "added_at": "2022-07-25 06:25:14",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     },
     {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Mufasa",
+        "url": "https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Mufasa",
+      "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
+    },
+    {
       "added_at": "2022-11-18 11:45:01",
       "album": {
         "name": "CANADA",
@@ -921,20 +937,20 @@
       "url": "https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2022-08-12 05:43:18",
       "album": {
-        "name": "Mufasa",
-        "url": "https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO"
+        "name": "Hypertension / Things I Need",
+        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 171724,
-      "name": "Mufasa",
-      "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
+      "duration_ms": 197894,
+      "name": "Hypertension",
+      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     },
     {
       "added_at": "2022-11-25 07:49:53",
@@ -955,22 +971,6 @@
       "duration_ms": 190714,
       "name": "Vawulence",
       "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
-    },
-    {
-      "added_at": "2022-08-12 05:43:18",
-      "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     },
     {
       "added_at": "2022-07-22 04:29:24",
@@ -1113,26 +1113,6 @@
       "url": "https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Full Current (That's My baby)",
-        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 208296,
-      "name": "Full Current (That's My Baby)",
-      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
-    },
-    {
       "added_at": "2022-12-02 04:56:00",
       "album": {
         "name": "Where We Come From, Vol. 01",
@@ -1151,6 +1131,26 @@
       "duration_ms": 130477,
       "name": "Faya",
       "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Full Current (That's My baby)",
+        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 208296,
+      "name": "Full Current (That's My Baby)",
+      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
     },
     {
       "added_at": "2022-04-22 06:09:21",

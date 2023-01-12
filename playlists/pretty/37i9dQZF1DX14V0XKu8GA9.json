@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 19595,
+  "num_followers": 19642,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMDMxZWYzMjJlN2RmYjk4ZmY4YWM4ZTU5M2U0MjczMWEy",
+  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMGUyMzI4MzE2ZWJkNDZhMzdkZDY4OWYyOGViY2I2N2Y5",
   "tracks": [
     {
       "added_at": "2022-11-03 19:39:49",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Dead Homies",
-        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
-      },
-      "artists": [
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 172654,
-      "name": "Dead Homies",
-      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "Bag Talk",
         "url": "https://open.spotify.com/album/39Js0SBbu12ZEUFaHDGI2v"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 141824,
       "name": "Bag Talk",
       "url": "https://open.spotify.com/track/7zcFDW8HxWlL7abAPMko1d"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "Dead Homies",
+        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 172654,
+      "name": "Dead Homies",
+      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "SOUTHBAY",
-        "url": "https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV"
+        "name": "Revenue",
+        "url": "https://open.spotify.com/album/7qWBqY6lTHtwOR2jsUrvG4"
       },
       "artists": [
         {
-          "name": "Rossi Rock",
-          "url": "https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC"
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
         }
       ],
-      "duration_ms": 146208,
-      "name": "SOUTHBAY",
-      "url": "https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k"
+      "duration_ms": 133908,
+      "name": "Revenue",
+      "url": "https://open.spotify.com/track/55pjulGzefju2u0esp6Ec6"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Revenue",
-        "url": "https://open.spotify.com/album/7qWBqY6lTHtwOR2jsUrvG4"
+        "name": "SOUTHBAY",
+        "url": "https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV"
       },
       "artists": [
         {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+          "name": "Rossi Rock",
+          "url": "https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC"
         }
       ],
-      "duration_ms": 133908,
-      "name": "Revenue",
-      "url": "https://open.spotify.com/track/55pjulGzefju2u0esp6Ec6"
+      "duration_ms": 146208,
+      "name": "SOUTHBAY",
+      "url": "https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -659,18 +659,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "SUPER RICA",
-        "url": "https://open.spotify.com/album/3LgdemFTfdon9ptcVqbNuM"
+        "name": "Tonta",
+        "url": "https://open.spotify.com/album/4l7qWzkUUbs0u2394k8U3a"
       },
       "artists": [
         {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 173164,
-      "name": "SUPER RICA",
-      "url": "https://open.spotify.com/track/12bxE3e4YZ5ofZdytpzDPn"
+      "duration_ms": 144000,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/5IwH7OOuzUozuGAB7Cf1yz"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -695,22 +699,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Tonta",
-        "url": "https://open.spotify.com/album/4l7qWzkUUbs0u2394k8U3a"
+        "name": "SUPER RICA",
+        "url": "https://open.spotify.com/album/3LgdemFTfdon9ptcVqbNuM"
       },
       "artists": [
         {
-          "name": "Rozay",
-          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+          "name": "Speak",
+          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/5IwH7OOuzUozuGAB7Cf1yz"
+      "duration_ms": 173164,
+      "name": "SUPER RICA",
+      "url": "https://open.spotify.com/track/12bxE3e4YZ5ofZdytpzDPn"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "SPIDERCAT",
-        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
-      },
-      "artists": [
-        {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "SPIDERCAT",
-      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "Smile Now",
         "url": "https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU"
       },
@@ -1055,22 +1039,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Vivir...",
-        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
-      },
-      "artists": [
-        {
-          "name": "Bodega Bamz",
-          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
-        }
-      ],
-      "duration_ms": 135959,
-      "name": "Palo De Santo",
-      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "From The Gravel",
         "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
       },
@@ -1083,6 +1051,38 @@
       "duration_ms": 117629,
       "name": "From The Gravel",
       "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "SPIDERCAT",
+        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
+      },
+      "artists": [
+        {
+          "name": "Speak",
+          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "SPIDERCAT",
+      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "Vivir...",
+        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
+      },
+      "artists": [
+        {
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
+        }
+      ],
+      "duration_ms": 135959,
+      "name": "Palo De Santo",
+      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "La Daisy",
-        "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
-      },
-      "artists": [
-        {
-          "name": "DAISY SIMO",
-          "url": "https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp"
-        }
-      ],
-      "duration_ms": 142308,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/10bY9V94M7Y9700hp4A3zX"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "SLIDIN",
         "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
       },
@@ -1319,26 +1303,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
+        "name": "La Daisy",
+        "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
       },
       "artists": [
         {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Feefa",
-          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
-        },
-        {
-          "name": "Chris Obannon",
-          "url": "https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4"
+          "name": "DAISY SIMO",
+          "url": "https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp"
         }
       ],
-      "duration_ms": 231338,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy"
+      "duration_ms": 142308,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/10bY9V94M7Y9700hp4A3zX"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1363,6 +1339,30 @@
       "duration_ms": 185648,
       "name": "Badabing",
       "url": "https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Feefa",
+          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
+        },
+        {
+          "name": "Chris Obannon",
+          "url": "https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy"
     },
     {
       "added_at": "2022-11-03 19:39:49",

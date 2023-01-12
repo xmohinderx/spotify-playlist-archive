@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Nicole y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10874,
+  "num_followers": 10880,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGIwYjNhZjc4MWIyMDM4Y2FmNmEwZmE2MGI1OGY0NDQ1",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDEzYjEzNzEzM2QyYTA4MTNkNWIyYmMzYjYxMzQ0NWY0",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "Cr\u00f3nicas de un cora roto",
+        "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 212088,
+      "name": "Cm no me va a doler?",
+      "url": "https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Amante",
         "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
       },
@@ -199,22 +219,6 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Brujer\u00edas de Cantina",
-        "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 155408,
-      "name": "M\u00cdRAME A LA CARA",
-      "url": "https://open.spotify.com/track/5sewBnhP4xBE2eIoQuhCs1"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Cr\u00f3nicas de un cora roto",
-        "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
+        "name": "Brujer\u00edas de Cantina",
+        "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
       },
       "artists": [
         {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 212088,
-      "name": "Cm no me va a doler?",
-      "url": "https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX"
+      "duration_ms": 155408,
+      "name": "M\u00cdRAME A LA CARA",
+      "url": "https://open.spotify.com/track/5sewBnhP4xBE2eIoQuhCs1"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 193452,
+      "name": "Romper Platos",
+      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 232173,
       "name": "Detonaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 193452,
-      "name": "Romper Platos",
-      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
     },
     {
       "added_at": "2023-01-04 03:00:00",

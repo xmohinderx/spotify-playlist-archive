@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Fuerza Regida",
-  "num_followers": 376971,
+  "num_followers": 376974,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTQyNiwwMDAwMDAwMDk5NzNhYjcyYTg1ZjMxYWU1ZDQ1ZmEyYzgzNzBkYjNm",
+  "snapshot_id": "MTY3MzI0NTQyNiwwMDAwMDAwMDNjMTU2NGZhYjU5OGJhN2IwYTk2YzRkNDNkZWM4NDY5",
   "tracks": [
     {
       "added_at": "2023-01-09 06:23:46",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-01-09 06:23:46",
       "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 209902,
+      "name": "HASTA LA MUERTE",
+      "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
+    },
+    {
+      "added_at": "2023-01-09 06:23:46",
+      "album": {
         "name": "LOS APARATOS",
         "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 232843,
       "name": "LOS APARATOS",
       "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
-    },
-    {
-      "added_at": "2023-01-09 06:23:46",
-      "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 209902,
-      "name": "HASTA LA MUERTE",
-      "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
     },
     {
       "added_at": "2023-01-09 06:23:46",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-01-09 06:23:46",
       "album": {
-        "name": "Una Chevy",
-        "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Una Chevy",
-      "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
-    },
-    {
-      "added_at": "2023-01-09 06:23:46",
-      "album": {
         "name": "NO MIENTEN",
         "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 147395,
       "name": "NO MIENTEN",
       "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
+    },
+    {
+      "added_at": "2023-01-09 06:23:46",
+      "album": {
+        "name": "Una Chevy",
+        "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Una Chevy",
+      "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
     },
     {
       "added_at": "2023-01-09 06:23:46",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-01-09 06:23:46",
       "album": {
-        "name": "10 PM",
-        "url": "https://open.spotify.com/album/5QP7KzyD4Q78s7hpqVA5Wf"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 213180,
-      "name": "10 PM",
-      "url": "https://open.spotify.com/track/3a0P7wE7Gv3ztKND45C3jv"
-    },
-    {
-      "added_at": "2023-01-09 06:23:46",
-      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 138039,
       "name": "B\u00e1jala",
       "url": "https://open.spotify.com/track/2DbQbh449mcSNT0wPGQa9Y"
+    },
+    {
+      "added_at": "2023-01-09 06:23:46",
+      "album": {
+        "name": "10 PM",
+        "url": "https://open.spotify.com/album/5QP7KzyD4Q78s7hpqVA5Wf"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 213180,
+      "name": "10 PM",
+      "url": "https://open.spotify.com/track/3a0P7wE7Gv3ztKND45C3jv"
     },
     {
       "added_at": "2023-01-09 06:23:46",

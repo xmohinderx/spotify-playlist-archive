@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: MGMT ",
-  "num_followers": 349219,
+  "num_followers": 349695,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUwMDkyNSwwMDAwMDAwMDg1OTk2ODJkMjVhYjdmZDEyZWIyNmY0NWVmMDZmZmY5",
+  "snapshot_id": "MTY2NTUwMDkyNSwwMDAwMDAwMGNmODMzZTU3MmQ0MjA1ZDQ5ZmJhZWM2OGUyNzFhZTU4",
   "tracks": [
     {
       "added_at": "2022-10-11 15:08:45",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-11 15:08:45",
       "album": {
-        "name": "We Were Dead Before The Ship Even Sank",
-        "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "Dashboard",
-      "url": "https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh"
-    },
-    {
-      "added_at": "2022-10-11 15:08:45",
-      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK"
+    },
+    {
+      "added_at": "2022-10-11 15:08:45",
+      "album": {
+        "name": "We Were Dead Before The Ship Even Sank",
+        "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 246173,
+      "name": "Dashboard",
+      "url": "https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh"
     },
     {
       "added_at": "2022-10-11 15:08:45",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-10-11 15:08:45",
       "album": {
-        "name": "Life For Rent",
-        "url": "https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA"
-      },
-      "artists": [
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ"
-    },
-    {
-      "added_at": "2022-10-11 15:08:45",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 132506,
       "name": "The Sound of Settling",
       "url": "https://open.spotify.com/track/0PTYTZvNNtlvdOwWRYrbfC"
+    },
+    {
+      "added_at": "2022-10-11 15:08:45",
+      "album": {
+        "name": "Life For Rent",
+        "url": "https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ"
     },
     {
       "added_at": "2022-10-11 15:08:45",

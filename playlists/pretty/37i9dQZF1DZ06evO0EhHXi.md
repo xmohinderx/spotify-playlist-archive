@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,465 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,581 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 47 | [We're a Happy Family \- 2017 Remaster](https://open.spotify.com/track/0mdK3JX6alyYa5jMrgSiip) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:40 |
 | 48 | [I Want You Around \- 2002 Remaster](https://open.spotify.com/track/5L1DHZ81ieWa8Kii7hg6Ho) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 3:04 |
 | 49 | [You Sound Like You're Sick \- 2002 Remaster](https://open.spotify.com/track/47tVRotmsKNeNqO7xU5og2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 2:41 |
-| 50 | [Go Mental \- 2018 Remaster](https://open.spotify.com/track/6HRoLDxi1mMJQmNMC98HCH) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:42 |
+| 50 | [I Just Want to Have Something to Do \- 2018 Remaster](https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:42 |
 
-Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDA5NjYyYjQ4NDNlY2NmZTUzZDFkNjUyMWUwMzUzYzA0ZQ==`
+Snapshot ID: `Mjc4OTA4MDYsMDAwMDAwMDBjYmIwYzk3MjAzNDQxZWFiNTkwZDk2YTU2YTY4YjNhZA==`

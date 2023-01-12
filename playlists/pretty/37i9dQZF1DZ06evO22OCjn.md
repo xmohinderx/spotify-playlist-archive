@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,336 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,539 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 |
 | 50 | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/track/6NoTgpadvWX0qKEK6aJYsg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/album/2Rmmtayyms1LsKbc0PoxlH) | 3:44 |
 
-Snapshot ID: `Mjc4ODk4MjMsMDAwMDAwMDAyZjg0MjNjN2M4ZTM4MmFlZGNhNjQwMTkyZTQ3YTc5Nw==`
+Snapshot ID: `Mjc4OTA4MDYsMDAwMDAwMDAyZGMyNjg2NDEyMjhmNGFkMjZlYTgwMWFkYWM1ZWY3ZA==`

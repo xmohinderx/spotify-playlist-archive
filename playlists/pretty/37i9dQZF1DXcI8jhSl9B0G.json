@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 71049,
+  "num_followers": 71060,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDczNWRjOGVlZGQxMDQ5Yzg3Mjg1ZmNlYTZhM2JlMzlm",
+  "snapshot_id": "MTY3MTEzMzUzOSwwMDAwMDAwMDQ5ZThjZWNkN2JlYzJlNzc3MTBiMTY0NWE1ZTA0ODQ2",
   "tracks": [
     {
       "added_at": "2022-12-15 08:41:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "I BELIEVE",
-        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "I BELIEVE",
-      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
         "name": "Tell Me What You Dream About",
         "url": "https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 197184,
       "name": "Tell Me What You Dream About",
       "url": "https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "I BELIEVE",
+        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "I BELIEVE",
+      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+        "name": "Grew Inside the Water",
+        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
         }
       ],
-      "duration_ms": 161000,
-      "name": "TATTOOS",
-      "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
+      "duration_ms": 284037,
+      "name": "Society's a Mansion",
+      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -755,22 +755,6 @@
       "duration_ms": 226500,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
-    },
-    {
-      "added_at": "2022-12-15 08:41:30",
-      "album": {
-        "name": "Grew Inside the Water",
-        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
-      },
-      "artists": [
-        {
-          "name": "Mimi Gilbert",
-          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
-        }
-      ],
-      "duration_ms": 284037,
-      "name": "Society's a Mansion",
-      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -803,6 +787,22 @@
       "duration_ms": 213276,
       "name": "After the Sun",
       "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
+    },
+    {
+      "added_at": "2022-12-15 08:41:30",
+      "album": {
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "TATTOOS",
+      "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
     },
     {
       "added_at": "2022-12-15 08:41:30",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-12-15 08:41:30",
       "album": {
-        "name": "Feel Like Clarity",
-        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+        "name": "Outside Kinda Kids",
+        "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
       },
       "artists": [
         {
-          "name": "Gaudion",
-          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
         }
       ],
-      "duration_ms": 188004,
-      "name": "Feel Like Clarity",
-      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+      "duration_ms": 195299,
+      "name": "Outside Kinda Kids",
+      "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
     }
   ],
   "unique_name": "Summer Daze",

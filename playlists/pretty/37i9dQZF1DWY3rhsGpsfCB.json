@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 6528,
+  "num_followers": 6556,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1OTIwMCwwMDAwMDAwMDNjMGVlNDU3NDMxNmU5MjQ4MWZmMjQ1NTRhNThkNzNh",
+  "snapshot_id": "MTY3MTM1OTIwMCwwMDAwMDAwMDgwNzk5ZDBiNjJmYmE2ZTQ5NjY2Mjc4ODk0ODA3MDg3",
   "tracks": [
     {
       "added_at": "2022-10-28 12:47:19",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 205275,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
-    },
-    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Anogo",
@@ -175,6 +159,22 @@
       "duration_ms": 190140,
       "name": "Anogo",
       "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
       "added_at": "2022-11-25 07:34:34",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
     },
     {
-      "added_at": "2022-09-23 06:31:20",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 196712,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Fair",
@@ -659,6 +643,22 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2022-09-23 06:31:20",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
-      "added_at": "2022-08-26 09:38:47",
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "WE (Warm Embrace)",
@@ -835,6 +819,22 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
+      "added_at": "2022-08-26 09:38:47",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
     },
     {
       "added_at": "2022-09-30 06:22:18",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
+    },
+    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Angel",
@@ -939,22 +955,6 @@
       "duration_ms": 164210,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "added_at": "2022-11-18 11:28:54",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
-      "added_at": "2022-08-22 18:00:00",
-      "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
-    },
-    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Lay Low",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2022-07-28 23:00:00",
       "album": {
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 121544,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
         "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2022-08-22 18:00:00",
+      "album": {
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2022-09-09 10:14:03",
@@ -1087,22 +1103,6 @@
       "duration_ms": 167735,
       "name": "Handle Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 121544,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-09-30 06:22:18",
-      "album": {
-        "name": "Love (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Love (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
-    },
-    {
       "added_at": "2022-12-18 10:26:40",
       "album": {
         "name": "Signs",
@@ -1211,6 +1191,26 @@
       "duration_ms": 210163,
       "name": "Dangerous Hearts",
       "url": "https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd"
+    },
+    {
+      "added_at": "2022-09-30 06:22:18",
+      "album": {
+        "name": "Love (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Love (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1233,26 +1233,6 @@
       "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
-    },
-    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Dangerous",
@@ -1271,6 +1251,26 @@
       "duration_ms": 181978,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2022-10-21 05:58:07",
@@ -1319,6 +1319,22 @@
       "duration_ms": 183453,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj"
+    },
+    {
+      "added_at": "2022-07-22 04:39:56",
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 186114,
+      "name": "If I Get Caught",
+      "url": "https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1435,22 +1451,6 @@
       "duration_ms": 169031,
       "name": "safe haven",
       "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
-    },
-    {
-      "added_at": "2022-07-22 04:39:56",
-      "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 186114,
-      "name": "If I Get Caught",
-      "url": "https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K"
     }
   ],
   "unique_name": "Cocoa Butter ",

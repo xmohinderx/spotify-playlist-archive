@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158081,
+      "name": "Amora",
+      "url": "https://open.spotify.com/track/3dDltvmsiTzFO6K5Pq4HFL"
+    },
+    {
+      "album": {
         "name": "Ana Wiyak",
         "url": "https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 198925,
       "name": "Appel moi",
       "url": "https://open.spotify.com/track/4gY9GulQ2nQ5Em1jG2Et70"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 215000,
       "name": "Dounya",
       "url": "https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 185142,
       "name": "Hickey",
       "url": "https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5"
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 365529,
       "name": "L7essada",
       "url": "https://open.spotify.com/track/03tv91H6kh9yQyINi9EfJc"
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 212000,
       "name": "Lalla Laaroussa",
       "url": "https://open.spotify.com/track/2K1ua085l6TZjOlHidTadV"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 135931,
       "name": "Lina",
       "url": "https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 192941,
       "name": "Liyam",
       "url": "https://open.spotify.com/track/1n73DuRMeUFn05jNoj5eFZ"
@@ -2296,7 +2314,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 177214,
       "name": "Ma B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/6hiAddGVuk3bRTiMUbNxcd"
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 231733,
       "name": "Serrek",
       "url": "https://open.spotify.com/track/2P6663NWulwljND7qHu910"
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 210572,
       "name": "Walo Maliya \u0648\u0627\u0644\u0648 \u0645\u0627\u0644\u064a\u0627",
       "url": "https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F"

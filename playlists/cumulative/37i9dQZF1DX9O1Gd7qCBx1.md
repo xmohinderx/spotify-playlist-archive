@@ -4,7 +4,7 @@
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-112 songs - 7 hr 1 min
+113 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 | 2021-11-01 |  |
 | [Don Diablo](https://open.spotify.com/track/0imrhMFOWQ9XYDCnLfecYV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:47 | 2021-11-01 |  |
 | [Drácula, Calígula, Tarántula \- Coágula Espátulo](https://open.spotify.com/track/5VgsXmsfGIBOqq0imAv4y1) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK) | 2:53 | 2021-11-01 |  |
-| [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 | 2021-11-01 |  |
+| [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 | 2021-11-01 | 2023-01-12 |
 | [El Abuelo](https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Abuelo](https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1) | 3:07 | 2021-11-01 |  |
 | [El corrido de Miguel Rivera \- Inspirado en "Coco"](https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 3:57 | 2021-11-01 |  |
 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 | 2021-11-01 |  |
@@ -49,6 +49,7 @@
 | [El Ultimo Beso](https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [El Ultimo Beso](https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl) | 2:44 | 2021-11-01 |  |
 | [Era Mi Abuelo](https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Siguiente](https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3) | 3:24 | 2021-11-01 |  |
 | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Athanai](https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68), [Dayron Ortiz](https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI) | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh) | 4:28 | 2021-11-01 |  |
+| [Gracias a la Vida](https://open.spotify.com/track/1fi85DWMkQEmQfR5odB40c) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina y el Mar \(Remasterizado\)](https://open.spotify.com/album/0eJA4NkiiRl68lTXSYaPAr) | 4:05 | 2021-11-01 |  |
 | [Halloween \- Bonus Track](https://open.spotify.com/track/6QOdoKB5nFoKIpjnjIfPYz) | [El Muertho TJ](https://open.spotify.com/artist/2Df9amNIj9EslUE9NP8vMm) | [Padre Santo \(Edición Especial Dios Culero\)](https://open.spotify.com/album/7vDPxjRE3GoH9Ybi8g0WjG) | 5:20 | 2021-11-01 | 2022-11-14 |
 | [Janitzio](https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 3:56 | 2021-11-01 |  |
 | [Kumbia Zombie](https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [God Save The Queers EP](https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ) | 4:48 | 2021-11-01 |  |

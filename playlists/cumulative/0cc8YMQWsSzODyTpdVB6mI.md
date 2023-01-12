@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-109 songs - 6 hr 14 min
+110 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,10 +59,11 @@
 | [IPANEMA](https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_II](https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ) | 2:58 | 2022-07-20 | 2022-10-15 |
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 | 2022-11-22 |
 | [It's About Time](https://open.spotify.com/track/0plbSDugi1FZzzX0A5CmSB) | [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [It's About Time](https://open.spotify.com/album/4cOi1XyWHJ28c7GbqQF9wQ) | 4:03 | 2022-11-21 |  |
-| [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 |  |
+| [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 | 2023-01-12 |
 | [Lava In The Sky](https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v) | 3:11 | 2022-09-23 | 2023-01-05 |
 | [Lava In The Sky \- Club Edit](https://open.spotify.com/track/2LHBPXrnwl2A1uwWkR9eZF) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/5xhJnDqJLk1CJtdvuSOXBu) | 4:13 | 2022-11-18 |  |
 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 | 2022-09-03 |
+| [Leather Free Seats \- Mosey Remix](https://open.spotify.com/track/77tGVhgSQbOopj3qSDKhZm) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ) | [Leather Free Seats \(Mosey Remix\)](https://open.spotify.com/album/4Aehq0oOw4WgMeWEaOr36R) | 2:58 | 2023-01-11 |  |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-11-05 |  |

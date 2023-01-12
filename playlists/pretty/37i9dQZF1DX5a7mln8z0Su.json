@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 4831,
+  "num_followers": 4833,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMzOTk5MiwwMDAwMDAwMGNjODhhZWZmOWZkNTNkOWI0ZjdjNDg3YmVkMDgzZWQx",
+  "snapshot_id": "MTY3MzMzOTk5MiwwMDAwMDAwMDgzZmFkNGQ1MDg0MGQ0ZmU4ZTdmMmJmMDdkNDMxYzQx",
   "tracks": [
     {
       "added_at": "2022-12-26 09:28:13",
@@ -343,18 +343,22 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "Space science",
-        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 233170,
-      "name": "Space science",
-      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
+      "duration_ms": 236703,
+      "name": "Tictoc Tictoc Tictoc (with Beenzino)",
+      "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -379,22 +383,18 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
       },
       "artists": [
         {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 236703,
-      "name": "Tictoc Tictoc Tictoc (with Beenzino)",
-      "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
-      "added_at": "2023-01-11 01:24:33",
+      "added_at": "2023-01-12 01:26:10",
       "album": {
         "name": "Used",
         "url": "https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr"
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "Not Beautiful (feat. Kenessi)",
-        "url": "https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl"
-      },
-      "artists": [
-        {
-          "name": "THE PIECES",
-          "url": "https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY"
-        },
-        {
-          "name": "kenessi",
-          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "Not Beautiful (feat. Kenessi)",
-      "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
         "name": "Hold tight",
         "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 174975,
       "name": "Hold tight",
       "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
+        "name": "Not Beautiful (feat. Kenessi)",
+        "url": "https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl"
+      },
+      "artists": [
+        {
+          "name": "THE PIECES",
+          "url": "https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY"
+        },
+        {
+          "name": "kenessi",
+          "url": "https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "Not Beautiful (feat. Kenessi)",
+      "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
     },
     {
       "added_at": "2022-12-26 09:28:13",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-26 09:28:13",
       "album": {
-        "name": "Je N\u2032aime Que Toi",
-        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
-      },
-      "artists": [
-        {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Je N\u2032aime Que Toi",
-      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
-    },
-    {
-      "added_at": "2022-12-26 09:28:13",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3n138B1zCEMn6gX1s850f6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 220908,
       "name": "GIRL (Feat. Yonko)",
       "url": "https://open.spotify.com/track/4dQMFWBISNYeLstXIZqfdn"
+    },
+    {
+      "added_at": "2022-12-26 09:28:13",
+      "album": {
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

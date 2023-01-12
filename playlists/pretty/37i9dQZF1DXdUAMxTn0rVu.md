@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Slum Village
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,426 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,774 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 25 | [Forest Whitiker](https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Shadows On The Sun](https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K) | 3:00 |
 | 26 | [Battle Cry](https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Army Of The Pharaohs](https://open.spotify.com/artist/13FswnDmTIttTpiK9PS0BI), [Apathy](https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS), [King Syze](https://open.spotify.com/artist/3b6EyI9X9TQqEydURC7W1c), [Crypt The Warchild](https://open.spotify.com/artist/5R3Drc8FmPbDKmGK8LNIrh), [Des Devious](https://open.spotify.com/artist/4foaZrkZMdUnXtiCGNZ0wS), [The Esoteric](https://open.spotify.com/artist/1z9jhO27qA8sIgwR4aZUAm), [Chief Kamachi](https://open.spotify.com/artist/2KrFLjILMBg3cf4TW8nTrr), [Planetary](https://open.spotify.com/artist/3tP3kbF0Echadhj6fLbCu8), [Celph Titled](https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS), [Vinnie Paz](https://open.spotify.com/artist/3rExe3A3FzAmYDlQuvW2Wx) | [The Torture Papers](https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs) | 6:06 |
 | 27 | [2000 Seasons](https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 4:13 |
-| 28 | [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 |
-| 29 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
+| 28 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
+| 29 | [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 |
 | 30 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 |
 | 31 | [Brown Skin Lady](https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:46 |
 | 32 | [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 45 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 46 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
 | 47 | [I Declare War](https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V) | [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Won](https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH) | 2:37 |
-| 48 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
-| 49 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
+| 48 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
+| 49 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
 | 50 | [W.O.L.V.E.S.](https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo) | [Krumbsnatcha](https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx), [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Krumbsnatcha Classics](https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx) | 3:53 |
 
-Snapshot ID: `MTY2NzUwOTI0NSwwMDAwMDAwMDU5ZTY3ZWY0ZTllOGM5ZWY1NGYwNzk5MGNjZmNkNGZk`
+Snapshot ID: `MTY2NzUwOTI0NSwwMDAwMDAwMDU3MWJmOWUzNGE0NDc2YmFmYWMwM2UzMjhiMzdkNDZk`

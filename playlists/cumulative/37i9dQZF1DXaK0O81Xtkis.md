@@ -4,7 +4,7 @@
 
 > make it pop! cover: The 1975
 
-512 songs - 1 day 2 hr 1 min
+513 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,8 @@
 | [That's Where I Am](https://open.spotify.com/track/0wTkxvNMVavVxuq5hmxfFN) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 4:12 | 2022-09-09 | 2022-11-13 |
 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-09-09 | 2023-01-06 |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-08-19 | 2022-10-23 |
-| [The Ballet Girl](https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I) | 3:21 | 2022-10-28 |  |
+| [The Ballet Girl](https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I) | 3:21 | 2022-10-28 | 2023-01-12 |
+| [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-01-06 |  |
 | [The Basics Are Coming Back](https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [The Basics Are Coming Back / Burnout](https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1) | 3:38 | 2022-03-11 | 2022-03-18 |
 | [the chase](https://open.spotify.com/track/2oeKs07xK7pO5b7Nxq9zOj) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [the chase](https://open.spotify.com/album/5IWhQ0YxYt1SRc6QODGWKv) | 3:25 | 2022-05-06 | 2022-07-23 |
 | [The Curse](https://open.spotify.com/track/0w1jfF6OgO3cpg8Mc74yfT) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [The Curse](https://open.spotify.com/album/3tdSVisnG7oFhR4pQE5eiI) | 3:46 | 2022-02-25 | 2022-03-26 |

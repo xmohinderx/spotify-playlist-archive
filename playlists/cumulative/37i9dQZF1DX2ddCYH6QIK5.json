@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Laras\u00fc\u00df, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ducky T., NONI, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/1pTiNWMK1b1kfL624Q3582"
+      },
+      "artists": [
+        {
+          "name": "Bon Jour",
+          "url": "https://open.spotify.com/artist/5roPkeVjygRQYcEyCoj4XA"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189716,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/5WCv12YmfSf1j3SoswLryE"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6LMDALJ7eGqZLxnN6iDeuK"
       },
@@ -392,10 +410,32 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 151741,
       "name": "alone",
       "url": "https://open.spotify.com/track/3TdCOswyXJ7o14L97MflDF"
+    },
+    {
+      "album": {
+        "name": "Altbau",
+        "url": "https://open.spotify.com/album/4EF9cdooeKayIHbQQkzYam"
+      },
+      "artists": [
+        {
+          "name": "carls8erg",
+          "url": "https://open.spotify.com/artist/4nZDWhkKuOHrd6OxwoslWp"
+        },
+        {
+          "name": "Yami Tarek",
+          "url": "https://open.spotify.com/artist/01RCUa4hnfkFVGKvg4Nu0z"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Altbau",
+      "url": "https://open.spotify.com/track/2bPB5aL4jH4CbSC0gbFSAC"
     },
     {
       "album": {
@@ -1804,7 +1844,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 215514,
       "name": "Cuts",
       "url": "https://open.spotify.com/track/6zgVXwAMPAmKBlSxuIAYAR"
@@ -1956,6 +1996,28 @@
       "duration_ms": 239459,
       "name": "Deepsea Diver",
       "url": "https://open.spotify.com/track/6jM5oiP0TdUOTLVfksllHC"
+    },
+    {
+      "album": {
+        "name": "Dehydriert",
+        "url": "https://open.spotify.com/album/6pufZ7riNQKe2uScphmKeI"
+      },
+      "artists": [
+        {
+          "name": "Ducky T.",
+          "url": "https://open.spotify.com/artist/7KJl09yTcrdozkPujCvBxC"
+        },
+        {
+          "name": "NONI",
+          "url": "https://open.spotify.com/artist/224ViDqdVyhQAga2BystL6"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Dehydriert",
+      "url": "https://open.spotify.com/track/3yhUlZhAtpZaDCMRAs6o7E"
     },
     {
       "album": {
@@ -2507,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "How About This Picture Of A Cat",
+        "url": "https://open.spotify.com/album/7es9gg8c5hl6lgy7HsgbgU"
+      },
+      "artists": [
+        {
+          "name": "Fruit Junior",
+          "url": "https://open.spotify.com/artist/4qNHQ7M4r3z1jEKUyH8NiN"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "Eight Hours",
+      "url": "https://open.spotify.com/track/0G6I2K2DU70tZkrdVZ3hxZ"
+    },
+    {
+      "album": {
         "name": "Ein Schritt zur\u00fcck",
         "url": "https://open.spotify.com/album/10WYbBTPAzTKfVnbGyk3fY"
       },
@@ -2876,7 +2956,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 259660,
       "name": "Fallen Enemies",
       "url": "https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2"
@@ -5428,7 +5508,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 257165,
       "name": "Love No Matter What",
       "url": "https://open.spotify.com/track/3qxO0Z9BUgFQJSiepeipts"
@@ -5572,7 +5652,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 135730,
       "name": "Manager",
       "url": "https://open.spotify.com/track/1ffHmgCFCqM2jdHmxLJuAj"
@@ -5738,6 +5818,24 @@
       "duration_ms": 153600,
       "name": "mikaela",
       "url": "https://open.spotify.com/track/0SY0IhdrUDPADUYfCj5tfQ"
+    },
+    {
+      "album": {
+        "name": "The Upside Down",
+        "url": "https://open.spotify.com/album/6GjJQ2rqnMNtfsxxEjIm5t"
+      },
+      "artists": [
+        {
+          "name": "BOWIE",
+          "url": "https://open.spotify.com/artist/0tFDLcpTJSyumVMRf80JST"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Milk Me",
+      "url": "https://open.spotify.com/track/7oxeWXMtMOTZMk5aZLroh7"
     },
     {
       "album": {
@@ -7956,7 +8054,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 220953,
       "name": "SLOWDANCE",
       "url": "https://open.spotify.com/track/52T9hjruVPKQBN4sj89nrJ"
@@ -8577,6 +8675,24 @@
     },
     {
       "album": {
+        "name": "Kaboodhism",
+        "url": "https://open.spotify.com/album/3kOR6reCn7tPt1TgfvU10D"
+      },
+      "artists": [
+        {
+          "name": "Savi Kaboo",
+          "url": "https://open.spotify.com/artist/41Wv5YihKZTmiieeuxQeGD"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107767,
+      "name": "Surviving",
+      "url": "https://open.spotify.com/track/3SoyKAlSQ5M9ns4y29ipzL"
+    },
+    {
+      "album": {
         "name": "Swimsuit",
         "url": "https://open.spotify.com/album/3c0DG8vqU65mDcKoNVhmwo"
       },
@@ -8974,7 +9090,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 177528,
       "name": "The Wiper",
       "url": "https://open.spotify.com/track/6S0eZIhC88aWtepgAzo5sI"
@@ -9634,6 +9750,28 @@
       "duration_ms": 280000,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6QvUhzYIBiuRaMJbm120te"
+    },
+    {
+      "album": {
+        "name": "Vuka!",
+        "url": "https://open.spotify.com/album/4EsJNgGMShrHYhR4BIN13S"
+      },
+      "artists": [
+        {
+          "name": "Berlin Wibes",
+          "url": "https://open.spotify.com/artist/6f11OTSw8tFLnVkuoDcVUe"
+        },
+        {
+          "name": "Soundz of the South",
+          "url": "https://open.spotify.com/artist/5PS6bbC5cXexJCwX3QPcgU"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Vuka!",
+      "url": "https://open.spotify.com/track/19vn6BU72dB0IIA8G6LsBW"
     },
     {
       "album": {

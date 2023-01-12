@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-236 songs - 13 hr 2 min
+237 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Best Part](https://open.spotify.com/track/5L6dqgjZVv8doJFtlar1I5) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Lúc EP](https://open.spotify.com/album/4TUtNswdfx1J2kt0eKQqE2) | 3:58 | 2022-08-26 |  |
 | [Better Now \(Acoustic\)](https://open.spotify.com/track/7BSAXJ5iT5ERuzduIvX8Ol) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2jnbvIEWopuhDSftIelDN0) | 3:40 | 2022-12-02 |  |
 | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/track/4Q8tqm45ywADimlsmdWhf7) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/album/4EEcgGddPSiUJsqLmceGQQ) | 3:11 | 2022-08-26 |  |
-| [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 | 2022-08-26 |  |
+| [Blackbird](https://open.spotify.com/track/2gHs36DV2So9lW0boL5XeY) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:19 | 2023-01-04 |  |
+| [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 | 2022-08-26 | 2023-01-12 |
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 |  |
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-14 |  |
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2022-12-02 |  |

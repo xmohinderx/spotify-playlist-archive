@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 73599,
+  "num_followers": 73670,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDE5MmNlNmFmOGIxMzFhOWUxMzZkZDlkY2FjZmRlMDEz",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGZkYzI2ODk3NzkxNjdlOGNkZThjMDUyMmI1MjBlNTk5",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -807,22 +807,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Detroit Love Vol. 2 (DJ Mix)",
-        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
       "artists": [
         {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
         }
       ],
-      "duration_ms": 339336,
-      "name": "Do It All Night (C2 Edit) - Mixed",
-      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -843,18 +839,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+        "name": "Detroit Love Vol. 2 (DJ Mix)",
+        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
       },
       "artists": [
         {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
         }
       ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+      "duration_ms": 339336,
+      "name": "Do It All Night (C2 Edit) - Mixed",
+      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
     },
     {
       "added_at": "2022-07-22 08:57:48",

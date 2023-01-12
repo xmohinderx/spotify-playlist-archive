@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 570031,
+  "num_followers": 570666,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA1ODc1MCwwMDAwMDAwMDA4MTYyNWZiMzMxYTE0Y2M4YzVmOWFlZDQ4YjdmNWZl",
+  "snapshot_id": "MTY3MzA1ODc1MCwwMDAwMDAwMDIwYWMzMGM5NGU4M2FkMGVkM2Q4OThhNzkwMGM4MGM5",
   "tracks": [
     {
       "added_at": "2021-12-17 06:00:00",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Mr Bongo Record Club, Vol. 1",
+        "url": "https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 127773,
+      "name": "Esperar pra Ver",
+      "url": "https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf"
+    },
+    {
       "added_at": "2022-03-17 01:03:21",
       "album": {
         "name": "Isaac Chambers & Dub Princess",
@@ -147,22 +163,6 @@
       "duration_ms": 336000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Mr Bongo Record Club, Vol. 1",
-        "url": "https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Esperar pra Ver",
-      "url": "https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf"
     },
     {
       "added_at": "2022-12-30 06:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
-      },
-      "artists": [
-        {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Celestial Strut",
         "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -943,18 +943,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Chaos Theories",
-        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
+        "name": "Haditouni (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/6RUXZAg8m4ye6BYiZbTVD2"
       },
       "artists": [
         {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+          "name": "Douaa",
+          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
         }
       ],
-      "duration_ms": 311546,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
+      "duration_ms": 205874,
+      "name": "Haditouni (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
     },
     {
       "added_at": "2022-11-18 17:45:27",
@@ -975,18 +975,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Haditouni (Habibi Funk 015)",
-        "url": "https://open.spotify.com/album/6RUXZAg8m4ye6BYiZbTVD2"
+        "name": "Chaos Theories",
+        "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
       },
       "artists": [
         {
-          "name": "Douaa",
-          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
         }
       ],
-      "duration_ms": 205874,
-      "name": "Haditouni (Habibi Funk 015)",
-      "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
+      "duration_ms": 311546,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1321,6 +1321,22 @@
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
+    },
+    {
       "added_at": "2022-03-29 03:12:27",
       "album": {
         "name": "On te l'avait dit",
@@ -1343,18 +1359,34 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+        "name": "Gun Metal Grey",
+        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
         }
       ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1379,22 +1411,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Gun Metal Grey",
-        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
-      },
-      "artists": [
-        {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
-      },
-      "artists": [
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        }
-      ],
-      "duration_ms": 135017,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "The Rabbit That Hunts Tigers",
         "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
@@ -1443,26 +1443,6 @@
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
-    },
-    {
-      "added_at": "2022-11-24 23:14:22",
-      "album": {
-        "name": "La Estrella",
-        "url": "https://open.spotify.com/album/4AYABoXRLfI7j1FsSrYTEk"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 208005,
-      "name": "El pavo real",
-      "url": "https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1505,20 +1485,24 @@
       "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
     },
     {
-      "added_at": "2022-08-03 03:47:10",
+      "added_at": "2022-11-24 23:14:22",
       "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+        "name": "La Estrella",
+        "url": "https://open.spotify.com/album/4AYABoXRLfI7j1FsSrYTEk"
       },
       "artists": [
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
         }
       ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
+      "duration_ms": 208005,
+      "name": "El pavo real",
+      "url": "https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7"
     },
     {
       "added_at": "2021-10-22 15:36:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 247624,
       "name": "Maktoub Aleina",
       "url": "https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE"
+    },
+    {
+      "added_at": "2022-08-03 03:47:10",
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
     },
     {
       "added_at": "2022-09-02 06:01:15",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/6K48CHl2KAbKniFKaJzoV3"
     },
     {
-      "added_at": "2022-11-25 02:06:25",
-      "album": {
-        "name": "Basta Parlare",
-        "url": "https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN"
-      },
-      "artists": [
-        {
-          "name": "Siddha-Funk",
-          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
-        }
-      ],
-      "duration_ms": 194768,
-      "name": "Basta Parlare",
-      "url": "https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Late Night Tales: Khruangbin",
@@ -1693,6 +1677,38 @@
       "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
     },
     {
+      "added_at": "2021-11-12 04:32:16",
+      "album": {
+        "name": "Good Good Dub",
+        "url": "https://open.spotify.com/album/3dPw9VuoR3OG864MMhCEND"
+      },
+      "artists": [
+        {
+          "name": "Blundetto",
+          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
+        }
+      ],
+      "duration_ms": 246034,
+      "name": "Dub Azucar",
+      "url": "https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd"
+    },
+    {
+      "added_at": "2022-11-25 02:06:25",
+      "album": {
+        "name": "Basta Parlare",
+        "url": "https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN"
+      },
+      "artists": [
+        {
+          "name": "Siddha-Funk",
+          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
+        }
+      ],
+      "duration_ms": 194768,
+      "name": "Basta Parlare",
+      "url": "https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN"
+    },
+    {
       "added_at": "2022-11-25 03:16:38",
       "album": {
         "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 (\u306a\u3093\u306b\u3082)",
@@ -1715,22 +1731,6 @@
       "duration_ms": 156000,
       "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 - \u306a\u3093\u306b\u3082",
       "url": "https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV"
-    },
-    {
-      "added_at": "2021-11-12 04:32:16",
-      "album": {
-        "name": "Good Good Dub",
-        "url": "https://open.spotify.com/album/3dPw9VuoR3OG864MMhCEND"
-      },
-      "artists": [
-        {
-          "name": "Blundetto",
-          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
-        }
-      ],
-      "duration_ms": 246034,
-      "name": "Dub Azucar",
-      "url": "https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd"
     },
     {
       "added_at": "2022-03-04 21:22:11",

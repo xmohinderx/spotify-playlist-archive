@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 ### [Prog Rock Monsters](https://open.spotify.com/playlist/37i9dQZF1DX0uqkwkR49kK)
 
-> A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
+> A collection of insane progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,302 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,458 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMGRjYWYxM2Q2NzI4MTI4YjMxYjVkZDYxOTFjMjBmZGYz`
+Snapshot ID: `MTY3MzQ1MzU3NCwwMDAwMDAwMGI5M2YwYzg1ZDhlZjQ2OTM5YjI1ZmM1ZTNkZTVmZWJi`

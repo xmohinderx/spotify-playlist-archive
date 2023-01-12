@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,609 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,516 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 24 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |
 | 25 | [Love's In Need Of Love Today](https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:05 |
 | 26 | [FOR MY PEOPLE](https://open.spotify.com/track/7CzWRneYi3P7dZqJM0SkUs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:52 |
-| 27 | [MIDDLE CHILD](https://open.spotify.com/track/2b5scDVCDxVsLalecDLAo2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:33 |
-| 28 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
-| 29 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 |
+| 27 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 |
+| 28 | [MIDDLE CHILD](https://open.spotify.com/track/2b5scDVCDxVsLalecDLAo2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:33 |
+| 29 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 |
 | 30 | [Otherside Of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
-| 31 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
-| 32 | [Slippin' Into Darkness](https://open.spotify.com/track/1jcTfIiBUz35bBqgHYItP6) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Greatest Hits](https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3) | 3:47 |
+| 31 | [Slippin' Into Darkness](https://open.spotify.com/track/1jcTfIiBUz35bBqgHYItP6) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Greatest Hits](https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3) | 3:47 |
+| 32 | [Dangote](https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:45 |
 | 33 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 34 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 |
 | 35 | [A Change Is Gonna Come](https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Change Is Gonna Come](https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI) | 3:11 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 55 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 | 56 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 |
 | 57 | [Optimistic](https://open.spotify.com/track/50ZXBncFpzrKw1QVjE2NN8) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 5:18 |
-| 58 | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\) \- Edit](https://open.spotify.com/track/1v49ImdfM7a8TcnBzwHhLY) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\)](https://open.spotify.com/album/6EiGFcgkaIJzznQF25DbFY) | 4:53 |
+| 58 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 59 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 |
-| 60 | [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 |
+| 60 | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\) \- Edit](https://open.spotify.com/track/1v49ImdfM7a8TcnBzwHhLY) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\)](https://open.spotify.com/album/6EiGFcgkaIJzznQF25DbFY) | 4:53 |
 
-Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDdlYThjYWI0ZGQ3ZjJhYTk1ZGM1Y2VmY2RlYTVjNDc2`
+Snapshot ID: `MTY0NzM2NjM4MCwwMDAwMDAwMDkxNzMwNDA2ODJhNGE3N2U0YTkwMTQwODI1NWEyNDkx`

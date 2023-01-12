@@ -1,12 +1,12 @@
 {
   "description": "Luke Bryan is taking over Heartland Country with some of his favorite tracks, kicking off with his reflective new song \"Prayin' in a Deer Stand\".",
-  "num_followers": 194790,
+  "num_followers": 194791,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDc1NmY4NzRhNTA1YzMzMGE5NDM1YjQ5Y2VhZjMwYmYw",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGRiZTNiOGM1Nzg4ZWFkMTNhNmIzZjNjMTg2NmYwYWEz",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Can't Say I Ain't Country",
-        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 229400,
       "name": "Dirt Road Anthem",
       "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Can't Say I Ain't Country",
+        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "The Big Revival",
         "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Out in the Middle",
         "url": "https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 166300,
       "name": "Out In The Middle",
       "url": "https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 226173,
       "name": "May We All",
       "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "American Nights",
-        "url": "https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "American Nights",
-      "url": "https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 206893,
       "name": "Merry Go 'Round",
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "American Nights",
+        "url": "https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "American Nights",
+      "url": "https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Buy A Girl A Drink",
-        "url": "https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8"
+        "name": "Give You My All",
+        "url": "https://open.spotify.com/album/0gas9wev1EQn8BZ2Hb2vHj"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
         }
       ],
-      "duration_ms": 196415,
-      "name": "Buy A Girl A Drink",
-      "url": "https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd"
+      "duration_ms": 171066,
+      "name": "Give You My All",
+      "url": "https://open.spotify.com/track/1wbGNtxz7WcTpXxmsdMdpn"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Give You My All",
-        "url": "https://open.spotify.com/album/0gas9wev1EQn8BZ2Hb2vHj"
+        "name": "Buy A Girl A Drink",
+        "url": "https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8"
       },
       "artists": [
         {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Give You My All",
-      "url": "https://open.spotify.com/track/1wbGNtxz7WcTpXxmsdMdpn"
+      "duration_ms": 196415,
+      "name": "Buy A Girl A Drink",
+      "url": "https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "What Makes You Country",
-        "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "What Makes You Country",
-      "url": "https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Small Town Crazy",
         "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
       },
@@ -1355,18 +1339,34 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "American Love",
-        "url": "https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW"
+        "name": "What Makes You Country",
+        "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 199746,
-      "name": "American Country Love Song",
-      "url": "https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z"
+      "duration_ms": 235266,
+      "name": "What Makes You Country",
+      "url": "https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Home Sweet",
+        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Home Sweet",
+      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+        "name": "American Love",
+        "url": "https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
+      "duration_ms": 199746,
+      "name": "American Country Love Song",
+      "url": "https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z"
     },
     {
       "added_at": "2022-11-25 05:00:00",

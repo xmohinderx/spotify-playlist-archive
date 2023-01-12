@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Tiësto
 
-381 songs - 21 hr 22 min
+382 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Atmosphere](https://open.spotify.com/track/0QLZLD0iTgwQSQFdWQybqF) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [BASTL](https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Madeleine Daye](https://open.spotify.com/artist/664JRDNrKUkhpMSQBykiXD) | [Atmosphere](https://open.spotify.com/album/06UyNlR1RcVBzt21VuYVCf) | 2:35 | 2022-07-15 | 2022-08-06 |
 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 | 2022-08-05 | 2022-11-19 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-04-15 | 2022-08-06 |
-| [Avalanche](https://open.spotify.com/track/3O9dvtdxw1LMIycQDnKkud) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Avalanche](https://open.spotify.com/album/4tczgxFNxSi7x061uaf322) | 4:21 | 2022-11-25 |  |
+| [Avalanche](https://open.spotify.com/track/3O9dvtdxw1LMIycQDnKkud) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Avalanche](https://open.spotify.com/album/4tczgxFNxSi7x061uaf322) | 4:21 | 2022-11-25 | 2023-01-12 |
+| [Avalanche \(feat\. James French\)](https://open.spotify.com/track/603laASXJ2vdJjh3LKF34C) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Avalanche \(feat\. James French\)](https://open.spotify.com/album/5jyFtBYmA9My46FTsKKjTH) | 4:21 | 2022-11-25 |  |
 | [Away From Myself](https://open.spotify.com/track/1MTHQrIE43p9HnjtC5kBDP) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Away From Myself](https://open.spotify.com/album/2X04oTtQLfh0rcvHVsbcbB) | 3:12 | 2022-01-14 | 2022-04-02 |
 | [Backfire](https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Jay Colin](https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx) | [Backfire](https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK) | 3:19 | 2022-01-14 | 2022-04-16 |
 | [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 | 2022-07-01 | 2022-08-20 |

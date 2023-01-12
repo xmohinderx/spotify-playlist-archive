@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,441 likes - 181 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,066 likes - 181 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 98 | [Glycerine](https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Glycerine](https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY) | 2:59 |
 | 99 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 |
 | 100 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 |
-| 101 | [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 |
+| 101 | [Blackbird](https://open.spotify.com/track/2gHs36DV2So9lW0boL5XeY) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:19 |
 | 102 | [Ruin My Life](https://open.spotify.com/track/2bl1hEoJTAAgbbw9u1U7wY) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/4aid7u08MEo6TJTkShJFEN) | 3:28 |
 | 103 | [Time After Time](https://open.spotify.com/track/1gcciAKMxnfM5wpiGmWMWe) | [Theresa Sokyrka](https://open.spotify.com/artist/2zAv7AJFf3oFv3OSYijDZV), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Time After Time](https://open.spotify.com/album/5nK2Jv9zFovAu7eu3SeeB2) | 3:48 |
 | 104 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 180 | [Wish You Were Here](https://open.spotify.com/track/4GKleQApcyCJduauR13QIi) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Wish You Were Here](https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn) | 3:18 |
 | 181 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 |
 
-Snapshot ID: `MTY3MjgyMTgzMiwwMDAwMDAwMDFmNzMyOGM0NGJkYzcwZDVlNzBiMDNkNGE5YjQ1MGVi`
+Snapshot ID: `MTY3MjgyMTgzMiwwMDAwMDAwMGJmYzdlZDY3ZGI2OWFlMGEyMDVkMmQzMDNmODE4Njkz`

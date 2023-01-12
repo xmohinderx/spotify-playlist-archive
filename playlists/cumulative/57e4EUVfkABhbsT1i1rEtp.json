@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
+        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2020-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
+      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
+    },
+    {
+      "album": {
         "name": "Chopin: Polonaises; Andante spianato;Minor Works",
         "url": "https://open.spotify.com/album/1gAU8fHpTCco6SgNnsR5tm"
       },
@@ -1147,24 +1165,6 @@
     },
     {
       "album": {
-        "name": "Tiersen: Six Pieces for Piano, Volume 2: 4. La Valse d'Am\u00e9lie",
-        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "date_added": "2020-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170360,
-      "name": "Six Pieces for Piano, Volume 2: No. 4 La Valse d'Am\u00e9lie",
-      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
-    },
-    {
-      "album": {
         "name": "Hilary Hahn plays Bach: Violin Sonatas Nos. 1 & 2; Partita No. 1",
         "url": "https://open.spotify.com/album/2ot197WiXh41pOZaY726OZ"
       },
@@ -1497,7 +1497,7 @@
     },
     {
       "album": {
-        "name": "J.S. Bach: The Well-Tempered Clavier: Book 1, BWV 846-869: 1. Prelude in C Major, BWV 846",
+        "name": "J.S. Bach: The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
         "url": "https://open.spotify.com/album/638fM7ibl3YWInMONVwmse"
       },
       "artists": [
@@ -1514,7 +1514,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139306,
-      "name": "The Well-Tempered Clavier: Book 1, BWV 846-869: I. Prelude in C Major, BWV 846",
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
       "url": "https://open.spotify.com/track/4i8ly7ffzWu8nfKLI8SZFj"
     },
     {

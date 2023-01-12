@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1169,
+  "num_followers": 1173,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4OTc1NCwwMDAwMDAwMGJmNDVlM2E1NTdiMzQ3MjFlOTdlNjc0NWJmNjNmNTFk",
+  "snapshot_id": "MTY3MTE4OTc1NCwwMDAwMDAwMDQxZjQ5OWRiOWZlNDU4MTU1YWMyZWEwMmNlNjUwNTYz",
   "tracks": [
     {
       "added_at": "2022-12-16 11:22:34",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
+      "added_at": "2022-11-25 11:54:44",
+      "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Part2 (Dinner in Maui)",
@@ -195,22 +211,6 @@
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
-    },
-    {
-      "added_at": "2022-11-25 11:54:44",
-      "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Nkwata Bulungi (Bailamos)",
-        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Nkwata Bulungi (Bailamos)",
-      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
-    },
-    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "Zinge",
@@ -335,6 +319,22 @@
       "duration_ms": 205000,
       "name": "Zinge",
       "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Nkwata Bulungi (Bailamos)",
+        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Nkwata Bulungi (Bailamos)",
+      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
-      "added_at": "2022-12-09 12:00:13",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
-      },
-      "artists": [
-        {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
-    },
-    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "BESTIE",
@@ -399,6 +383,22 @@
       "duration_ms": 173949,
       "name": "BESTIE",
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "added_at": "2022-12-09 12:00:13",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -493,26 +493,6 @@
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Love Hearted",
-        "url": "https://open.spotify.com/album/0XfC7XOfj7bUQzWhKiFBvk"
-      },
-      "artists": [
-        {
-          "name": "Bright Sun UG",
-          "url": "https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr"
-        },
-        {
-          "name": "Green Daddy",
-          "url": "https://open.spotify.com/artist/77C4sGNZqav9HQNGNCTXdm"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "4 U",
@@ -545,6 +525,26 @@
       "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Love Hearted",
+        "url": "https://open.spotify.com/album/0XfC7XOfj7bUQzWhKiFBvk"
+      },
+      "artists": [
+        {
+          "name": "Bright Sun UG",
+          "url": "https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr"
+        },
+        {
+          "name": "Green Daddy",
+          "url": "https://open.spotify.com/artist/77C4sGNZqav9HQNGNCTXdm"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Low",
@@ -565,24 +565,20 @@
       "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
-      "added_at": "2022-11-25 11:45:40",
+      "added_at": "2022-12-09 12:00:13",
       "album": {
-        "name": "RainFall",
-        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1lHtZjjRSOLUKtmCSgJtwl"
       },
       "artists": [
         {
-          "name": "HerbertSkillz",
-          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
-        },
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Chuksie",
+          "url": "https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9"
         }
       ],
-      "duration_ms": 209411,
-      "name": "RainFall",
-      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
+      "duration_ms": 170250,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -609,20 +605,24 @@
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
     },
     {
-      "added_at": "2022-12-09 12:00:13",
+      "added_at": "2022-11-25 11:45:40",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/1lHtZjjRSOLUKtmCSgJtwl"
+        "name": "RainFall",
+        "url": "https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK"
       },
       "artists": [
         {
-          "name": "Chuksie",
-          "url": "https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9"
+          "name": "HerbertSkillz",
+          "url": "https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba"
+        },
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 170250,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN"
+      "duration_ms": 209411,
+      "name": "RainFall",
+      "url": "https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -881,24 +881,20 @@
       "url": "https://open.spotify.com/track/3FS3nezNWMJ2iDSgxffLjF"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Second of All",
-        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
       },
       "artists": [
         {
-          "name": "Deejay Xp",
-          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
-        },
-        {
-          "name": "Recho Ray",
-          "url": "https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve"
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
         }
       ],
-      "duration_ms": 146399,
-      "name": "Obinkola",
-      "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     }
   ],
   "unique_name": "Made In Uganda",

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 202324,
+  "num_followers": 202537,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDM3NSwwMDAwMDAwMDY5MjliNzRiMTBmYzMyOTQzMTZlNTk3MjM2M2UzNTUx",
+  "snapshot_id": "MTY2ODcwMDM3NSwwMDAwMDAwMDM5OGViZDA3NWQ1NmZhMjE3YWFjYTEzZWYxOTk5NGYz",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Double Fantasy Stripped Down",
-        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Double Fantasy Stripped Down",
+        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Woman - Remastered 2010",
+      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 270651,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 270651,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb"
     },
     {
-      "added_at": "2022-03-28 14:29:51",
-      "album": {
-        "name": "Above The Clouds - The Collection (Deluxe)",
-        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 352760,
-      "name": "You Belong To The City",
-      "url": "https://open.spotify.com/track/0b8eSsBka9epA2J0wnPMax"
-    },
-    {
       "added_at": "2020-12-08 17:52:17",
       "album": {
         "name": "Invisible Touch",
@@ -1279,6 +1263,22 @@
       "duration_ms": 229560,
       "name": "Throwing It All Away - 2007 Remaster",
       "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
+    },
+    {
+      "added_at": "2022-03-28 14:29:51",
+      "album": {
+        "name": "Above The Clouds - The Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 352760,
+      "name": "You Belong To The City",
+      "url": "https://open.spotify.com/track/0b8eSsBka9epA2J0wnPMax"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Boogie Nights / Music From The Original Motion Picture",
         "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 419400,
       "name": "Brothers in Arms",
       "url": "https://open.spotify.com/track/26tWBbtjvgi0tipRL2VQ2X"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 393866,
-      "name": "Your Latest Trick",
-      "url": "https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Tug Of War",
         "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 148853,
       "name": "Here Today - Remixed 2015",
       "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
+    },
+    {
+      "added_at": "2022-01-05 10:29:16",
+      "album": {
+        "name": "The Completion Backward Principle",
+        "url": "https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi"
+      },
+      "artists": [
+        {
+          "name": "The Tubes",
+          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Don't Want To Wait Anymore",
+      "url": "https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -1573,20 +1573,20 @@
       "url": "https://open.spotify.com/track/4ae0AmiDt3o18FvSmQOOYc"
     },
     {
-      "added_at": "2022-01-05 10:29:16",
+      "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "The Completion Backward Principle",
-        "url": "https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi"
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
       "artists": [
         {
-          "name": "The Tubes",
-          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 258333,
-      "name": "Don't Want To Wait Anymore",
-      "url": "https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5"
+      "duration_ms": 393866,
+      "name": "Your Latest Trick",
+      "url": "https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5"
     },
     {
       "added_at": "2020-12-08 17:52:17",

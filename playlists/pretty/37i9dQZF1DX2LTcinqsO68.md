@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,401,385 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,402,185 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 96 | [Evil](https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58) | 4:44 |
 | 97 | [Wheels of Steel \- 2009 Remastered Version](https://open.spotify.com/track/4ie42LCUKcp68EnZOMw9PG) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Wheels of Steel \(2009 Remastered Version\)](https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J) | 5:58 |
 | 98 | [Angel Witch](https://open.spotify.com/track/4G3Nnoae2XF1cdbdgATKKq) | [Angel Witch](https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS) | [Angel Witch \(30th Anniversary Edition\)](https://open.spotify.com/album/1a3pru3t4DuZoGHBpCNM66) | 3:23 |
-| 99 | [Fast as a Shark](https://open.spotify.com/track/204523f9MSgEfc0oDJycNS) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Restless And Wild](https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX) | 3:48 |
+| 99 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/4r299IW4ua73XaiXYFtLwP) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group](https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR) | 4:09 |
 | 100 | [We Rock](https://open.spotify.com/track/4cMKvXUOLFbC6lRLCz5HPg) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last in Line](https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9) | 4:35 |
 
-Snapshot ID: `MTY2OTkxMjQ3MiwwMDAwMDAwMDU4MDQzZGE5NGU3OTc0MzNiZjlmNTIxYWU1ZDQ2NTk4`
+Snapshot ID: `MTY2OTkxMjQ3MiwwMDAwMDAwMDc1ODRiMjRhMGIwMzNkMWQ1ZmNkYTBjYTNhNDg3YzQ1`

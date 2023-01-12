@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: ماجد الرسلاني
 
-178 songs - 12 hr 8 min
+180 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Amam Mrayti](https://open.spotify.com/track/4d3Ek4ZbFFe9voy0cGKkP6) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Amam Mrayti](https://open.spotify.com/album/40IhIA2n0ms58X0MVpAfVB) | 4:29 | 2022-11-10 |  |
 | [Amina Haf](https://open.spotify.com/track/0Vj0ZTyPQIlRwOcbHZW6A4) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Amina Haf](https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0) | 3:04 | 2022-04-04 | 2022-09-29 |
 | [An Hob](https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [An Hob](https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy) | 3:05 | 2022-10-11 |  |
+| [Ana Al Sadeq](https://open.spotify.com/track/5oVHTvO2sQ2xPknS1umd0p) | [Moner Zayed](https://open.spotify.com/artist/5cEK4do8F3Ln4G7XOvcpXa) | [Ana Al Sadeq](https://open.spotify.com/album/73VepX2okJI7LPnJ43BHDN) | 3:20 | 2023-01-11 |  |
 | [Ana Wa Anti](https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Ana Wa Anti](https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5) | 4:44 | 2022-08-20 | 2022-08-23 |
 | [Ani Aredak](https://open.spotify.com/track/66gIjtTp56i7n5I0D2CclW) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Ani Aredak](https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED) | 3:02 | 2021-12-23 | 2022-04-02 |
 | [Arba3inak](https://open.spotify.com/track/6xlgx1TgbkUGoeNRpigIvR) | [Hamad Al Qattan](https://open.spotify.com/artist/3GyxnOcf3qKxX6QaaBCbYD) | [Arba3inak](https://open.spotify.com/album/4cIGmqnGdZ82lZgmZsmvUy) | 3:54 | 2022-03-01 | 2022-08-13 |
@@ -148,6 +149,7 @@
 | [Wayn Ma Wayn](https://open.spotify.com/track/1kqMk4SFhqjURfdHaZHP5k) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Wayn Ma Wayn](https://open.spotify.com/album/527Um3zJpKjclamlE7OGuS) | 3:16 | 2022-03-03 | 2022-08-13 |
 | [Weddi Aeref](https://open.spotify.com/track/2zpd1Epv2gf5MUTtMCuaMv) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Weddi Aeref](https://open.spotify.com/album/0GGhAFHqI12OYD0TX0frVl) | 4:04 | 2021-12-23 | 2022-05-14 |
 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-11-17 |  |
+| [Wetha Yaani](https://open.spotify.com/track/1AVs6owHMcViBmCphwxICa) | [Nasser Naaif](https://open.spotify.com/artist/33bjbNhbiBxt1GoUQeYl96) | [Wetha Yaani](https://open.spotify.com/album/0tRiqBGwVie1KHRqABqXOU) | 3:17 | 2023-01-11 |  |
 | [Wfr Alathar](https://open.spotify.com/track/7AByqTA1IoxIjUYODUrjK9) | [Emarat Art](https://open.spotify.com/artist/2HBZw1oHSJLodozzPFVV7k) | [Golo](https://open.spotify.com/album/5eYv9T9otfSlmJOIjNhDEA) | 5:24 | 2022-10-27 |  |
 | [Ya Ghaeba](https://open.spotify.com/track/133pYgsSCKjNL09LSOSZ2r) | [Abdullah Tariq](https://open.spotify.com/artist/5ZZAY6x3JLcusD13tjQzQg) | [Ya Ghaeba](https://open.spotify.com/album/3vde6lu7iLNycIgcjJ0FIX) | 5:01 | 2022-03-17 | 2022-08-27 |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-01 | 2022-11-08 |
@@ -171,7 +173,7 @@
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-01-10 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 | 2022-08-13 |
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 | 2022-09-09 |
-| [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 |  |
+| [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 | 2023-01-12 |
 | [عندي أهم](https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [عندي أهم](https://open.spotify.com/album/6Gl8OmHtePVXiJtyVenWLY) | 3:39 | 2021-12-23 | 2022-03-02 |
 | [فرقاه](https://open.spotify.com/track/4wVVSDmBXA9MHeNUC7AGIu) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [فرقاه](https://open.spotify.com/album/5GdgJnx6r9A6DlxZlI5lhL) | 2:55 | 2022-11-24 |  |
 | [فوق تحت](https://open.spotify.com/track/5rFL1zYLe4HXY7QR6WCSWZ) | [Faris Al Balad](https://open.spotify.com/artist/3HpHVn0w30wsHoLBxP5lNP) | [فوق تحت](https://open.spotify.com/album/3l25EQJ6dkSjMwl99fA460) | 2:29 | 2022-07-20 | 2022-07-27 |

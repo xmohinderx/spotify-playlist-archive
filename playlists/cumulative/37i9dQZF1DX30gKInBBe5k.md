@@ -2,7 +2,7 @@
 
 ### [slowcore](https://open.spotify.com/playlist/37i9dQZF1DX30gKInBBe5k)
 
-> Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
+> a hardcore home for slowcore fans.
 
 126 songs - 11 hr 30 min
 

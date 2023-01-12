@@ -1,13 +1,53 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21145,
+  "num_followers": 21144,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAxMTEsN2UwM2I3YzA2YmJjZTBkYTVhZGI3MWZmMDA4YWJmZjI2OGE0ZWY3Mw==",
+  "snapshot_id": "MTAxMTUsYTIxNWQ0MTBlN2QzZGU3MWFkYjE1OTU1NTAwMjllZWY2MTIwYTQ2OA==",
   "tracks": [
+    {
+      "added_at": "2023-01-11 20:20:38",
+      "album": {
+        "name": "Everyday, Everyday (Live Edit)",
+        "url": "https://open.spotify.com/album/0HecV8KVJugnC7z3OrK1uW"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 389310,
+      "name": "Everyday, Everyday - Live Edit",
+      "url": "https://open.spotify.com/track/4lqEaB69YUYkV2i9T7ZuU0"
+    },
+    {
+      "added_at": "2023-01-11 20:20:10",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e"
+      },
+      "artists": [
+        {
+          "name": "Taylor Kade",
+          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1YUxhMsagttgRockQyd58z"
+    },
     {
       "added_at": "2022-12-02 16:45:58",
       "album": {

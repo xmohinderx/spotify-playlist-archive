@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-666 songs - 1 day 20 hr 24 min
+667 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Daylight](https://open.spotify.com/track/1say3kpM3yexV7hazGgXP1) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Daylight](https://open.spotify.com/album/49Hveg3Dzx8xSwY6a81lsr) | 4:00 | 2022-06-07 | 2022-11-13 |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-23 |  |
 | [Different](https://open.spotify.com/track/23taGXZI9sFYIxdBrqeVaz) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Different](https://open.spotify.com/album/4LF8VqmmnKz9NTmYWvPA7b) | 3:33 | 2022-08-11 | 2022-11-13 |
-| [Dive Back In Time](https://open.spotify.com/track/4ik2ylkYi7xBgx6C1suLTM) | [bicaso](https://open.spotify.com/artist/4DPo2oq4P35PLqBIjKUg50), [Gen Kakon](https://open.spotify.com/artist/3TX8QjkcSiYi5dvvCSeVLQ) | [Dive Back In Time](https://open.spotify.com/album/3PYK68Kz3gaJfnlgpjNjpl) | 2:49 | 2022-06-07 |  |
+| [Dive Back In Time](https://open.spotify.com/track/4ik2ylkYi7xBgx6C1suLTM) | [bicaso](https://open.spotify.com/artist/4DPo2oq4P35PLqBIjKUg50), [Gen Kakon](https://open.spotify.com/artist/3TX8QjkcSiYi5dvvCSeVLQ) | [Dive Back In Time](https://open.spotify.com/album/3PYK68Kz3gaJfnlgpjNjpl) | 2:49 | 2022-06-07 | 2023-01-12 |
 | [DiViNE](https://open.spotify.com/track/6gjkal8BbkbHQst6XUvNsr) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [DiViNE](https://open.spotify.com/album/1JUj1PESaeSlFYf788rqrY) | 4:01 | 2022-06-07 | 2022-06-22 |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-23 | 2023-01-07 |
 | [Don't Know Why](https://open.spotify.com/track/77IWDKuXUNjFyj0MuVQqT5) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:36 | 2022-06-07 | 2022-07-21 |
@@ -298,6 +298,7 @@
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-06-07 | 2022-07-28 |
 | [Shinkai](https://open.spotify.com/track/44VYdLnwvhn1H1cfieb84a) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:26 | 2022-06-07 |  |
 | [SHINOBI\-NAI](https://open.spotify.com/track/4AhgsImL4D8rtJexUM9wss) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [SHINOBI\-NAI](https://open.spotify.com/album/3JZFR8yrhKphRDBatZRAfY) | 3:30 | 2022-06-07 | 2022-06-17 |
+| [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-07 |  |
 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 | 2022-06-07 |  |
 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2022-06-07 |  |
 | [Shout Baby](https://open.spotify.com/track/5j4GrEcK99AsgDspM9tCQ2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/3tcpxLYAgsW7lYKp6TbCqz) | 4:25 | 2022-06-07 | 2022-07-29 |

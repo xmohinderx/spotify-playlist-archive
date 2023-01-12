@@ -762,7 +762,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 229881,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3"
@@ -1250,6 +1250,24 @@
       "duration_ms": 153026,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
+    },
+    {
+      "album": {
+        "name": "Dance Away The Pain",
+        "url": "https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in"
+      },
+      "artists": [
+        {
+          "name": "Number One Popstar",
+          "url": "https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176813,
+      "name": "Dance Away The Pain",
+      "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
     },
     {
       "album": {

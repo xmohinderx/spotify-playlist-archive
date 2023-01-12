@@ -4,7 +4,7 @@
 
 > 2023
 
-751 songs - 1 day 9 hr 17 min
+752 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Gelatin](https://open.spotify.com/track/1wOay2szDcifnT9fQOB1rL) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Gelatin](https://open.spotify.com/album/0CvzVONcVBwmMV6mOS0HrG) | 3:00 | 2022-03-10 | 2022-03-25 |
 | [GET THE POINT](https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [GET THE POINT](https://open.spotify.com/album/648H90bGSGPjRsxshE3AOx) | 2:58 | 2022-05-12 | 2022-08-12 |
 | [GITT](https://open.spotify.com/track/7jjBieRzHT48hUUA1ZAwHC) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [GITT](https://open.spotify.com/album/6HIedHgGtmRQSJBiqIn7yg) | 2:50 | 2022-09-29 | 2022-11-11 |
-| [GLIDER FÖRBI](https://open.spotify.com/track/79QHrdDudHItZ0EMtWmesM) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [GLIDER FÖRBI](https://open.spotify.com/album/4inwta0WyLnLg5RWICQExT) | 2:22 | 2022-12-01 |  |
+| [GLIDER FÖRBI](https://open.spotify.com/track/79QHrdDudHItZ0EMtWmesM) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [GLIDER FÖRBI](https://open.spotify.com/album/4inwta0WyLnLg5RWICQExT) | 2:22 | 2022-12-01 | 2023-01-12 |
 | [Go](https://open.spotify.com/track/4pfbgKqJhmEdS2c4m1P4XI) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Go](https://open.spotify.com/album/3kKGQwZiuURqq8d4eNkPHV) | 2:14 | 2022-06-30 | 2022-09-16 |
 | [Go Getter \(feat\. Imenella\)](https://open.spotify.com/track/3IZinCbESX16Mb67ylKiho) | [Keya](https://open.spotify.com/artist/6Fzcb6MUQTqnojF8woJsKd), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Go Getter \(feat\. Imenella\)](https://open.spotify.com/album/2zGvslZSz4Bapzqou9gWls) | 2:55 | 2021-12-16 | 2021-12-24 |
 | [God Morgon Stockholm](https://open.spotify.com/track/4JsYowYTLukNhh1UzMhYZ9) | [Nomad](https://open.spotify.com/artist/264V8HSZDhiq3MPrTnVmed), [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [More 10](https://open.spotify.com/artist/2tp6KnR4tYjOrpnwwwWGeu) | [God Morgon Stockholm](https://open.spotify.com/album/52cC7FLccByndLXuBSTmZ3) | 3:35 | 2022-05-26 | 2022-06-10 |
@@ -496,6 +496,7 @@
 | [No Time](https://open.spotify.com/track/5ukf2b3SjLBDpSLlddBegy) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [No Time](https://open.spotify.com/album/5BiqZqNoE5PtNpxDpIyIEf) | 2:38 | 2022-08-19 | 2022-10-28 |
 | [Noll tålamod](https://open.spotify.com/track/2xcoIJDrvYzzlhBlfrAJFb) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Noll tålamod](https://open.spotify.com/album/3JjzheMxZilwSzhrrRM63w) | 3:13 | 2022-03-17 | 2022-04-08 |
 | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/track/0nRssz1xxPRC6B22k5lG06) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/album/1whyLxdmgza9nO22aEsW93) | 2:59 | 2022-05-20 | 2022-05-27 |
+| [Nordvästra](https://open.spotify.com/track/3ASPB2ukVZ11cvK7oIMHOE) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nordvästra](https://open.spotify.com/album/12f4UbS9xpt5QzE7qpC2W2) | 2:35 | 2023-01-11 |  |
 | [NUMBER](https://open.spotify.com/track/5wEOkGKgNaCDQUhYOsKhZX) | [RAMEL](https://open.spotify.com/artist/0z93GFJBTRReYcrVMmVg6h), [PERALTA](https://open.spotify.com/artist/5SxgrFNQ6ZeuBcvFfClaMa) | [NUMBER](https://open.spotify.com/album/6khYXZo4YuYPN076H2WHEO) | 2:08 | 2022-10-20 | 2022-11-18 |
 | [Nummer](https://open.spotify.com/track/0Y5EYCS8FSDbdj76Uab3hl) | [ABDIFATAH](https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0) | [Nummer](https://open.spotify.com/album/46RueclWxkg4hN7tNVvjvx) | 2:07 | 2022-12-15 |  |
 | [Närvaro](https://open.spotify.com/track/46NGCnt4LHBc7fJMBRye4Z) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Närvaro](https://open.spotify.com/album/6nnUu4Im9qLyuvDT0xp6WX) | 2:28 | 2022-07-07 | 2022-09-09 |

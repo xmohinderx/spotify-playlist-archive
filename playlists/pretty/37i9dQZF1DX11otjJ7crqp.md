@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Mckenna Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,278 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,355 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 30 | [Guilty](https://open.spotify.com/track/4hrhbBDsHsyPRlRmAhr0B7) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Guilty](https://open.spotify.com/album/7rQjX2ZepaAedLLcl4Fah6) | 3:13 |
 | 31 | [High](https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [High](https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5) | 2:22 |
 | 32 | [can't say goodbye](https://open.spotify.com/track/4Y5LCWJIbyX5lm5Y5nqhoN) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [can't say goodbye](https://open.spotify.com/album/0NV1aiCYnjqbJTPpytd1KY) | 1:48 |
-| 33 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:24 |
+| 33 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 34 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 |
 | 35 | [Oblivious](https://open.spotify.com/track/7je9QhqPx6emqE0e9Tgz14) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Oblivious](https://open.spotify.com/album/5UkU5F6IrBh8So6BSjRm9g) | 3:04 |
 | 36 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 |

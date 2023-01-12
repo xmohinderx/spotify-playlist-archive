@@ -4,7 +4,7 @@
 
 > Soft acoustic sounds for your massage session.
 
-128 songs - 7 hr 13 min
+129 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Beautiful Mistakes \- Acoustic](https://open.spotify.com/track/0pXzUDxuD3DvVNYILK8MjE) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Beautiful Mistakes \(Acoustic\)](https://open.spotify.com/album/01di81nQaDVDEQO8epsg7M) | 3:03 | 2022-08-29 | 2023-01-06 |
 | [Better Now \(Acoustic\)](https://open.spotify.com/track/7BSAXJ5iT5ERuzduIvX8Ol) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2jnbvIEWopuhDSftIelDN0) | 3:40 | 2022-12-06 |  |
 | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/track/4Q8tqm45ywADimlsmdWhf7) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Big Yellow Taxi \(Acoustic\)](https://open.spotify.com/album/4EEcgGddPSiUJsqLmceGQQ) | 3:11 | 2022-08-29 |  |
-| [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 | 2022-08-29 |  |
+| [Blackbird](https://open.spotify.com/track/2gHs36DV2So9lW0boL5XeY) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:19 | 2023-01-05 |  |
+| [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 | 2022-08-29 | 2023-01-12 |
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 |  |
 | [Blue Moon](https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Blue Moon](https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D) | 2:04 | 2022-08-29 |  |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2023-01-05 |  |

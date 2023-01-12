@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 1592945,
+  "num_followers": 1593054,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI0MDQ2MywwMDAwMDAwMDA5N2ZlMzZlZjYzNGFhOTcxOWE0YjFhYWU4ZjYyYzk4",
+  "snapshot_id": "MTY3MTI0MDQ2MywwMDAwMDAwMDZjMzczYzIzMjMzMzVmMTRlNTVjZWJkZmFmZmExYmVm",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -283,26 +283,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         },
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+      "duration_ms": 178786,
+      "name": "Brand New 911",
+      "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -323,22 +319,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
         }
       ],
-      "duration_ms": 178786,
-      "name": "Brand New 911",
-      "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "247",
-      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 102397,
       "name": "ROUND HERE (PART ONE)",
       "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "247",
+      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Barely Miss",
-        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Barely Miss",
-      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 175306,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Barely Miss",
+        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 193656,
+      "name": "Barely Miss",
+      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2022-12-16 05:00:00",

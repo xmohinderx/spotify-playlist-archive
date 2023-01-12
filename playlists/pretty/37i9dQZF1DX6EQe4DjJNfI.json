@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Duquesa",
-  "num_followers": 156582,
+  "num_followers": 156640,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk3NDA2MCwwMDAwMDAwMGRkM2UzNjRmNGE5MGI2MjVhOGRlMjBmZjBhMjBkMTJl",
+  "snapshot_id": "MTY3Mjk3NDA2MCwwMDAwMDAwMDAzNTNjMDQyMDc0MDNhMjhkZDdmYTlmNGI5ZjEzOWFi",
   "tracks": [
     {
       "added_at": "2023-01-06 03:01:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Bem Calma",
-        "url": "https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS"
-      },
-      "artists": [
-        {
-          "name": "Shamilla",
-          "url": "https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bem Calma",
-      "url": "https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
+        "name": "Bem Calma",
+        "url": "https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS"
+      },
+      "artists": [
+        {
+          "name": "Shamilla",
+          "url": "https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bem Calma",
+      "url": "https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -923,26 +923,18 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Rec\u00edproco",
-        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
-          "name": "Victor JR",
-          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
-        },
-        {
-          "name": "Ingrid Milanez",
-          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Rec\u00edproco",
-      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -971,6 +963,30 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
+        "name": "Rec\u00edproco",
+        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+      },
+      "artists": [
+        {
+          "name": "Victor JR",
+          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
+        },
+        {
+          "name": "Ingrid Milanez",
+          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rec\u00edproco",
+      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+      },
+      "artists": [
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 133564,
       "name": "Eterno Esquema",
       "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
-      },
-      "artists": [
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
+        "name": "Nosso Futuro",
+        "url": "https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF"
+      },
+      "artists": [
+        {
+          "name": "Isis Orbelli",
+          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
+        }
+      ],
+      "duration_ms": 123185,
+      "name": "Nosso Futuro",
+      "url": "https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
         "name": "Seu Bem",
         "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Paierin",
-        "url": "https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt"
-      },
-      "artists": [
-        {
-          "name": "Flav",
-          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
-        }
-      ],
-      "duration_ms": 210504,
-      "name": "Paierin",
-      "url": "https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
         "name": "Ventilador",
         "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
@@ -1259,18 +1259,34 @@
     {
       "added_at": "2023-01-06 03:01:00",
       "album": {
-        "name": "Nosso Futuro",
-        "url": "https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF"
+        "name": "Paierin",
+        "url": "https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt"
       },
       "artists": [
         {
-          "name": "Isis Orbelli",
-          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
+          "name": "Flav",
+          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
         }
       ],
-      "duration_ms": 123185,
-      "name": "Nosso Futuro",
-      "url": "https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6"
+      "duration_ms": 210504,
+      "name": "Paierin",
+      "url": "https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C"
+    },
+    {
+      "added_at": "2023-01-06 03:01:00",
+      "album": {
+        "name": "10%",
+        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
+      },
+      "artists": [
+        {
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
     },
     {
       "added_at": "2023-01-06 03:01:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 134476,
       "name": "Sobrenome",
       "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
-    },
-    {
-      "added_at": "2023-01-06 03:01:00",
-      "album": {
-        "name": "10%",
-        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
-      },
-      "artists": [
-        {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
     },
     {
       "added_at": "2023-01-06 03:01:00",

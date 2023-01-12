@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 135448,
+  "num_followers": 135472,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDdhNTBkODRjMjBhOTA1MzcyNzBmNDdiOTdlNWFiOGQ3",
+  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMGUxMDY2ODJjZTAwNmM4MTQ0MWE2NTAxYjQ2ZGFmZmFh",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -655,22 +655,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 169127,
-      "name": "At My Worst (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -695,6 +695,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 169127,
+      "name": "At My Worst (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 173021,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 220693,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Dahan",
-        "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Dahan",
-      "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Binalewala",
         "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 268486,
       "name": "Binalewala - Original Version",
       "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Dahan",
+        "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "Dahan",
+      "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Dalan Liyane",
-        "url": "https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        }
-      ],
-      "duration_ms": 256417,
-      "name": "Dalan Liyane",
-      "url": "https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Jet Lag",
         "url": "https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 150011,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Dalan Liyane",
+        "url": "https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "duration_ms": 256417,
+      "name": "Dalan Liyane",
+      "url": "https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Accetto Miracoli",
-        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
         }
       ],
-      "duration_ms": 225386,
-      "name": "In Mezzo A Questo Inverno",
-      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+      "duration_ms": 223546,
+      "name": "Your Song (My One and Only You)",
+      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1491,6 +1491,22 @@
       "duration_ms": 202386,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Accetto Miracoli",
+        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 225386,
+      "name": "In Mezzo A Questo Inverno",
+      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
-      },
-      "artists": [
-        {
-          "name": "Julie Anne San Jose",
-          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Your Song (My One and Only You)",
-      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Zina",
         "url": "https://open.spotify.com/album/4tOUBy2cTlm0bliEb6ZeiU"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 230266,
       "name": "Sumpah",
       "url": "https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Malay Mo, Tayo",
+        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 274291,
+      "name": "Malay Mo",
+      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
-      },
-      "artists": [
-        {
-          "name": "Mari Kraimbrery",
-          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "criminal",
         "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
       },
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
+      },
+      "artists": [
+        {
+          "name": "Mari Kraimbrery",
+          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "100 Days My Prince (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 232083,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Malay Mo, Tayo",
-        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 274291,
-      "name": "Malay Mo",
-      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sajni",
-        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
-      },
-      "artists": [
-        {
-          "name": "The Yellow Diary",
-          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Sajni",
-      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "From Midnight To Sunrise",
         "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 264666,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sajni",
+        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crying memories",
-        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 219913,
-      "name": "\u672a\u958b\u5c01\u306e\u604b",
-      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Night within you",
         "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 254360,
       "name": "Night within you",
       "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crying memories",
+        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "duration_ms": 219913,
+      "name": "\u672a\u958b\u5c01\u306e\u604b",
+      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Don't forget me (Prod. ROCOBERRY)",
-        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 193047,
-      "name": "Don't forget me (Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Akustikhane",
         "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
-        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
+        "name": "Don't forget me (Prod. ROCOBERRY)",
+        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
       },
       "artists": [
         {
-          "name": "\uc801\uc7ac",
-          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 307500,
-      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
-      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
+      "duration_ms": 193047,
+      "name": "Don't forget me (Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2295,6 +2279,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
+        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
+      },
+      "artists": [
+        {
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
+        }
+      ],
+      "duration_ms": 307500,
+      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
+      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "DOCUMENTARY",
         "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 249545,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Cardamom Tea",
+        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Cardamom Tea",
+      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Cardamom Tea",
-        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Cardamom Tea",
-      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
     },
     {
       "added_at": "2022-10-17 15:00:00",

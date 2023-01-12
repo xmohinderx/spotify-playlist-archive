@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "From across the globe. New artists on the horizon. Cover: Rhove.",
+  "description": "From across the globe. New artists on the horizon. ",
   "name": "RADAR Global",
   "tracks": [
     {
@@ -531,7 +531,7 @@
       "artists": [
         {
           "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+          "url": "https://open.spotify.com/artist/2iPg15EzAFriexYcsD0xTH"
         },
         {
           "name": "Abdullah Kasumbi",
@@ -4826,6 +4826,24 @@
       "duration_ms": 185333,
       "name": "Frontiar",
       "url": "https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn"
+    },
+    {
+      "album": {
+        "name": "FU In My Head",
+        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
       "album": {
@@ -12101,6 +12119,24 @@
     },
     {
       "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
+    },
+    {
+      "album": {
         "name": "show",
         "url": "https://open.spotify.com/album/10n3HLhK3UHwFcGhqk0Fzc"
       },
@@ -13490,6 +13526,24 @@
       "duration_ms": 233064,
       "name": "Tocame",
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+    },
+    {
+      "album": {
+        "name": "tonight (acoustic version)",
+        "url": "https://open.spotify.com/album/5ryNZHfaCaC1PAuyWD1CIm"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283596,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/56N95Y06bapESD01RBPQTf"
     },
     {
       "album": {

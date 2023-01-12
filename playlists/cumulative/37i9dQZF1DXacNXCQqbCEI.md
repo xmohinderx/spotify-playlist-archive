@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-233 songs - 17 hr 3 min
+234 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Kuff Kumbia](https://open.spotify.com/track/0baLUARvOaeW1NRkwGjWB7) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Cassady](https://open.spotify.com/artist/1wmNYMPb8bzurTpnHt1Lzy) | [Bersa Discos \#6](https://open.spotify.com/album/6q77N8JBpxNPMyK9hbBLQN) | 4:41 | 2022-04-15 | 2022-04-21 |
 | [Kungfu Cumbia Afrobeat \- Original mix](https://open.spotify.com/track/2Foy01KYBIQlawY1dSbVVN) | [Manati](https://open.spotify.com/artist/5GMDdaAVWX3s1LK9r3Qc3r) | [Nauta](https://open.spotify.com/album/63vw1QvO72pYdKNxUurrK6) | 4:32 | 2022-04-15 | 2022-04-20 |
 | [La Añoranza \- Original Version](https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Will Love](https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu) | [La Añoranza](https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj) | 3:43 | 2021-11-26 | 2022-07-27 |
-| [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 | 2022-04-15 |  |
+| [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 | 2022-04-15 | 2023-01-12 |
 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 | 2021-11-26 | 2022-09-28 |
 | [La Cosecha \- Captain Planet Remix](https://open.spotify.com/track/2gult4wJ3eyiR18mTpZBk0) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Prender el Alma \(Remixed\)](https://open.spotify.com/album/4y3uhN2bdMetvSRhZbGHYd) | 4:22 | 2021-11-26 | 2022-07-24 |
 | [La Cumbia De La Ansiedad](https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 5:00 | 2021-11-26 | 2022-07-29 |
@@ -123,6 +123,7 @@
 | [Mama Clo](https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Benjamín Vanegas](https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF) | [Mama Clo](https://open.spotify.com/album/2zq7CXbAWx4JcraR3Lghn8) | 3:44 | 2021-11-26 | 2022-07-29 |
 | [Mamakumba](https://open.spotify.com/track/5ChVKFg7u4c3ebjuICumUD) | [Vitu Valera](https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45) | [KUMBA](https://open.spotify.com/album/6kARIV1QmKZnKpxWBLXfnf) | 4:04 | 2021-11-26 | 2022-06-21 |
 | [Manana Tepotzlan](https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/290Qd3iRmfn85z6YGpCE7X) | 4:00 | 2021-11-26 | 2022-07-29 |
+| [Mano de Fatima](https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt) | 3:55 | 2022-04-15 |  |
 | [Mano de Fatima](https://open.spotify.com/track/66vLZytisIBNQiQz4qn6n5) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [Mano de Fatima](https://open.spotify.com/album/6ZJ6wDxhI7dvFnw8abL199) | 3:55 | 2022-02-18 | 2022-07-28 |
 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 | 2022-04-15 | 2022-04-19 |
 | [Marimba Tambó](https://open.spotify.com/track/2rNagq4lJvSat406m0mBGs) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Marimba Tambó](https://open.spotify.com/album/3bKcrO1iIfu2L8eznLVyLs) | 4:15 | 2021-11-26 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,413 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,426 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [SOMEONE ELSE \(feat\. Jacob Banks\)](https://open.spotify.com/track/4R6rTr9UY7r9aeSHpy4GBB) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [SOMEONE ELSE \(feat\. Jacob Banks\)](https://open.spotify.com/album/7GcRDb1Li5vr4q1hLQCWdM) | 3:42 |
 | 50 | [Sink or Swim](https://open.spotify.com/track/5ldyAFx6EaPRi9vw9GgUNf) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:38 |
 
-Snapshot ID: `Mjc4ODk4MjQsMDAwMDAwMDA5OTE3MGI5MDI1ZTcxNzdkMjRmOGIyZmExZjA4ZjFkNg==`
+Snapshot ID: `Mjc4OTA4MDYsMDAwMDAwMDAxZjg2ZTlmMjUwNzZjZTBiNjYyZGMwZGZlOTUzZjU5Zg==`

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1692981,
+  "num_followers": 1693837,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDc2NWNhZDJiZjE5ODA4OTZkMWQ3MGVmYjIwZTVkMzhi",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGFmNGJkOTg3ODk5YThkY2EwMTI2OTE2MjdlZTg1ZTFl",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "You Want My Love",
-        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "You Want My Love",
-      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "FWM",
         "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 199533,
       "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "You Want My Love",
+        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "You Want My Love",
+      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
     },
     {
       "added_at": "2022-07-15 04:00:00",

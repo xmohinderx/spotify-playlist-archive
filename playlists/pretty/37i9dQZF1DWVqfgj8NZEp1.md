@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,433,501 likes - 136 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,433,885 likes - 136 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 43 | [Fatamorgana](https://open.spotify.com/track/5wsvrblb3ooRyJQol7A2tN) | [Rasmus Holm Quartet](https://open.spotify.com/artist/6Uipo5JiSrwG7oeHHE1E3Q) | [FATAMORGANA](https://open.spotify.com/album/2pK0HHq3Rc7WHfjNelmvTD) | 4:32 |
 | 44 | [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 |
 | 45 | [One Fine Day](https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [One Fine Day](https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5) | 4:24 |
-| 46 | [Moonlight in Vermont](https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Moonlight in Vermont](https://open.spotify.com/album/2uGDhyFVW5LusWVFn5XtsU) | 6:53 |
+| 46 | [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 |
 | 47 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 |
 | 48 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 |
 | 49 | [Why Did I Choose You](https://open.spotify.com/track/5KT7qJe8KOoafHAkUFWmRd) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [Reminiscing at Rudy's](https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4) | 4:12 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 135 | [Mommy's Shawl](https://open.spotify.com/track/7u38kj1yGDoExUnP6gxxor) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Blooming Tall Phlox](https://open.spotify.com/album/6flIHnOYOMbCz53SOdGle3) | 5:05 |
 | 136 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY3MzM1NDc2MiwwMDAwMDAwMGFmNjVlZGE2MTZiNWJiMzM3YzRiNWUyNWEzNThhNTJm`
+Snapshot ID: `MTY3MzM1NDc2MiwwMDAwMDAwMDQ0NTE5MzkzM2EyZDJlNzY3MDdlN2YxNGQ4YzcxNDFi`
