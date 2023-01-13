@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,596 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,585 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 96 | [All About Christ](https://open.spotify.com/track/4ALHLGk4L3iJ1FsaHbnQWu) | [Jevon Brock and Restoration](https://open.spotify.com/artist/1HUj4pDexJbZLp2D8s9zBr) | [All About Christ](https://open.spotify.com/album/3rmvbkeXmb9eTQOj26Hg6t) | 3:21 |
 | 97 | [Glory To The Lamb](https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 5:40 |
 | 98 | [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 |
-| 99 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
+| 99 | [Warm](https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv) | [AO1 Collective](https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Warm](https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC) | 2:56 |
 | 100 | [No Christmas Without You](https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Presents The Family, No Christmas Without You](https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6) | 4:21 |
 
-Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDk2MTNkZGVhNWZhODIxOGM1ZDYzOTIwZjhjNDNjOGUw`
+Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMDU4ZjQxMzMxMGFmNWI1OGUwYWY2MGRiZTEwOTc1OWNi`

@@ -2,7 +2,7 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> 
+> De aquí y de allá\. Un poquito de todo\. Cover: Danny Schiller
 
 327 songs - 17 hr 45 min
 

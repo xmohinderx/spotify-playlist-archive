@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-107 songs - 7 hr 19 min
+110 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Guitar Interlude in Bb](https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii) | 1:59 | 2022-04-15 | 2022-10-23 |
 | [Home Alone](https://open.spotify.com/track/1IWK7wCyYkUiTbY78KE0jr) | [Soothing Dog Sounds](https://open.spotify.com/artist/30tUXL7OQLtFE7DmKCKLCo) | [Blues Music for Dogs](https://open.spotify.com/album/42KEN0fc3AtktxdETSDlZa) | 2:56 | 2022-04-15 |  |
 | [Howlin' For You](https://open.spotify.com/track/66YQ2ghOLvlI2s8B4SqgzY) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:13 | 2022-11-18 |  |
+| [I've Started To Lose Track](https://open.spotify.com/track/31LJ8qz6oyssmej1vs9Hcc) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 3:37 | 2023-01-13 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi) | [Berdon Kirksaether](https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o), [The Twang Bar Kings](https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo) | [Blues](https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-04-15 |  |
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 |  |
@@ -108,12 +109,14 @@
 | [The Route Home](https://open.spotify.com/track/1DdyCpQHozMxfuQnV0Nkvc) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:56 | 2022-11-18 |  |
 | [The Wanderer](https://open.spotify.com/track/1IgbPXZ3PG57sOoCxDbfYF) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:57 | 2023-01-06 |  |
 | [Things Are Changing](https://open.spotify.com/track/7bNnYkFBVaGzgscgh4XAtX) | [Papa Don McMinn](https://open.spotify.com/artist/6JcG0JQqJTWl0lAa2wPy3L) | [Blues Ain't a Color](https://open.spotify.com/album/2zMqZ4gu3kmRZAY1l8XpxO) | 3:38 | 2022-04-15 |  |
+| [This Time Another Year](https://open.spotify.com/track/7hXVQQlcLFngiAOHLgBmBt) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 2:34 | 2023-01-13 |  |
 | [Tracks and Lines \- 2000 Remaster](https://open.spotify.com/track/2E5QCoyvDTM7oLJpF6K2wc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 3:01 | 2022-04-15 |  |
 | [Train Ride](https://open.spotify.com/track/2kuGJ5Dfda4zr6j3AtSU4m) | [Josh Henning](https://open.spotify.com/artist/3E7euSFqjyYvuAzF69w1Zk) | [Train Ride](https://open.spotify.com/album/2IJcIF95WPnyh0CAwqDBcI) | 2:56 | 2022-10-14 |  |
 | [Twin Cities Blues](https://open.spotify.com/track/5QTNOAonSo9nw9mYNjb07R) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Stormy Sea](https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p) | 2:02 | 2022-10-14 |  |
 | [Unique Ambience for Staying Home](https://open.spotify.com/track/0oHsRS3yY9FZ5eJHbwgvKw) | [Instrumental Blues Retro](https://open.spotify.com/artist/6ynE2UtjVmR7Ljqr8hBbq0) | [Slow Blues Guitar \- Ambiance for Working](https://open.spotify.com/album/6sUMKVFDCkCiX3oR34ii2j) | 2:40 | 2022-04-15 |  |
 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 | 2022-04-15 |  |
 | [When I'm With You](https://open.spotify.com/track/5FWOKwCQMQrStHCwSa0nSW) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [When I'm With You](https://open.spotify.com/album/5Uph6wx9f8zrVNDke8fIot) | 2:22 | 2023-01-06 |  |
+| [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 | 2023-01-13 |  |
 | [You Don't Know Me](https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 5:41 | 2022-12-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

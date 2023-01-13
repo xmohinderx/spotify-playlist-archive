@@ -4,7 +4,7 @@
 
 > Listen to soundtracks from SF anime series "TRIGUN"./ 世界中から愛される名作SF「トライガン」TVアニメ＆劇場版サントラが遂にSpotifyに到着！© 内藤泰弘/少年画報社・トライガン製作委員会
 
-31 songs - 1 hr 43 min
+32 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Unhappy Song](https://open.spotify.com/track/4qgw4QfoK7FWpwqzVMZj5Q) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 2:47 | 2021-05-26 |  |
 | [you've blown it over the sands](https://open.spotify.com/track/57hyjxTe2HKiujEV7vpMC4) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 1:52 | 2021-05-26 |  |
 | [トマクン](https://open.spotify.com/track/6qC9EuTHWb6G5yNSBTnEZR) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 3:09 | 2021-05-26 |  |
+| [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-01-12 |  |
 | [楽園](https://open.spotify.com/track/1WSgqqmMQZgxMJZj7l31VL) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 5:17 | 2021-05-26 |  |
 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 | 2021-05-26 |  |
 | [風が止んだ時](https://open.spotify.com/track/6ymDCa24f89mWrg7sukd5v) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 0:51 | 2021-05-26 |  |

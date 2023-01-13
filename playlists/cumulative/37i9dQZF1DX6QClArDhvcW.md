@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-274 songs - 10 hr 10 min
+278 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Heavy Dreams](https://open.spotify.com/track/7FdEwJPi1n1pEMrcyUpC9C) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Heavy Dreams](https://open.spotify.com/album/3h0XZmY58lpOsoAU6gwzll) | 2:50 | 2022-05-20 | 2022-05-27 |
 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 | 2022-05-20 |  |
 | [hollows](https://open.spotify.com/track/1LsBuFMHgiUlXYcH4PT2nv) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [hollows](https://open.spotify.com/album/2S50kPdsCPHNGvUiUeW7A4) | 2:50 | 2022-05-20 | 2022-09-17 |
+| [holy...moly](https://open.spotify.com/track/2m5DFBYpnTMmKXv6mgvDYh) | [GoldFuzion](https://open.spotify.com/artist/4PLfIjxmgFV3L62gIpMjvd) | [holy...moly](https://open.spotify.com/album/2jCFMyPutf2JBXUWMa6NMi) | 2:19 | 2023-01-13 |  |
 | [Home Sweet Home](https://open.spotify.com/track/08d2tsBYDh0Qy936jmFAhS) | [Jhillazz](https://open.spotify.com/artist/6K5cabsg32lZlLnr6x09CA) | [Home Sweet Home](https://open.spotify.com/album/7wriuDh2VUOJLu5denfx0G) | 2:06 | 2022-07-22 | 2022-09-09 |
 | [Homeward Bound](https://open.spotify.com/track/3FHjxtWKejXgZywQxhPj6t) | [Cammie](https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO), [Sandy Beats](https://open.spotify.com/artist/6qLCrre2jNXyIY7BhMx9sj) | [The Journey Home Pt\. 2](https://open.spotify.com/album/3bGxqqDx4E5buiBhZDGq91) | 2:44 | 2022-10-28 |  |
 | [Hot Shot](https://open.spotify.com/track/2E8ilANKW5yhhtA7KMcTKX) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Hot Shot](https://open.spotify.com/album/2rO7x2YIhfAjxhbWsESVxG) | 2:25 | 2022-06-24 | 2022-11-20 |
@@ -136,6 +137,7 @@
 | [leyawiin](https://open.spotify.com/track/6ZQ6OSk8nA6iPoE6rDhili) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/0SUtI8v2vOliyEU2WO2yMn) | 1:28 | 2022-09-16 |  |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2022-05-20 |  |
 | [light](https://open.spotify.com/track/0gVICqppHibNGhptGLJ0W5) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [light](https://open.spotify.com/album/5mSh2CSilJ2RE8nkA80nVr) | 1:25 | 2022-07-29 |  |
+| [limetree](https://open.spotify.com/track/01qFX1TLJiH3AcySgEhhLu) | [southlinden](https://open.spotify.com/artist/35BnARl8sJesME3tMmUow8) | [limetree](https://open.spotify.com/album/2nsOr2vqDKooSxQ7qgnUIk) | 2:05 | 2023-01-13 |  |
 | [Lonesome](https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lonesome](https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn) | 2:35 | 2022-05-20 |  |
 | [lost love.](https://open.spotify.com/track/6lMyaA24CjS5PvdOzYjCl3) | [KhloeAutumn](https://open.spotify.com/artist/5CS3nzAktIkqgSL0IgqyLy) | [lost love.](https://open.spotify.com/album/4QrgErJxylEf8TSt8ylZRX) | 1:00 | 2022-11-11 |  |
 | [lost memories](https://open.spotify.com/track/1dpmFHAy4bxWpWjOJPt33n) | [minor5](https://open.spotify.com/artist/59n0ix9TW7WoF1LCr1og2g) | [lost memories](https://open.spotify.com/album/7xAPf47vM4zzTL2EPy8GHt) | 2:27 | 2022-05-20 | 2022-09-09 |
@@ -145,6 +147,7 @@
 | [Lycium](https://open.spotify.com/track/6UN9NdeZ6xoVrTeXOcgj8t) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Lycium](https://open.spotify.com/album/5auTxR0jOmqgaeEhNC368p) | 2:15 | 2022-05-20 |  |
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2022-05-20 |  |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2022-05-20 |  |
+| [Meadows](https://open.spotify.com/track/1JfFZNt2JY3hslCny4Nlnv) | [Groovetide](https://open.spotify.com/artist/1WPcKTIAEsxAnyAsfFWZE7) | [Meadows](https://open.spotify.com/album/2SsXBo5fCM1mpBrJfw1oWO) | 2:43 | 2023-01-13 |  |
 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 | 2022-05-20 | 2022-09-09 |
 | [Midnight Drive](https://open.spotify.com/track/4As7GSrNZ9KdczyqSP3asZ) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [In My Mind](https://open.spotify.com/album/4625gAejmwqcXrUuuPX3FZ) | 2:03 | 2022-05-20 | 2022-09-09 |
 | [Mint](https://open.spotify.com/track/3X25fIddwnzr7YYooU9bR5) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Mint](https://open.spotify.com/album/0ClDcnu6twQ1uxxKFTPdOp) | 1:43 | 2022-05-20 |  |
@@ -275,6 +278,7 @@
 | [What I Wouldn't Give](https://open.spotify.com/track/3RzhjKBCVghvkRStpV23Ua) | [Atium](https://open.spotify.com/artist/0PW19PrYxmKaE37EEaH9s9) | [The Love of Others](https://open.spotify.com/album/4rAf6xMcvu5nqVa10IwVoT) | 2:51 | 2022-05-20 | 2022-06-17 |
 | [What Is Your Story?](https://open.spotify.com/track/4TR425bbXD95wspJRqroWJ) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [What Is Your Story?](https://open.spotify.com/album/1SkfVYardPOl3Piwd9nH4m) | 2:14 | 2022-08-12 |  |
 | [Wind In Your Hair](https://open.spotify.com/track/62C1GZiAPZTP5aBXIqgW4c) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Wind In Your Hair](https://open.spotify.com/album/1ccqNGL7JEoo3LYjzXVi6E) | 2:47 | 2022-09-23 |  |
+| [Winter Alone](https://open.spotify.com/track/0u8decP9rdaAAYlrvwIGGV) | [Chilly Hombre](https://open.spotify.com/artist/6RTB2IWMIbxgwhsUzgXlQc) | [Winter Alone](https://open.spotify.com/album/3atLe1nWJR5XddX2PnV4rj) | 2:24 | 2023-01-13 |  |
 | [Winter Sunrise](https://open.spotify.com/track/0UYlZGpx52tuJ23cCzLBV6) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Winter Sunrise](https://open.spotify.com/album/0yonwWWmLJfxMHSzsWcTkA) | 1:58 | 2022-12-09 |  |
 | [With The Flow](https://open.spotify.com/track/315f5pmGe8a0AW7d3umluS) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [With The Flow](https://open.spotify.com/album/57rI5hxOpdIK3fO7IyNoOO) | 2:18 | 2022-09-16 |  |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-05-20 |  |

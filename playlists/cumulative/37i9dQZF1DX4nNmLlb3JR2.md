@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-164 songs - 6 hr 27 min
+168 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Another Love \- Lofi](https://open.spotify.com/track/28DdaEL9ZlLIa72Q7F65dQ) | [Sunday Without You](https://open.spotify.com/artist/2kfCeQSDYdHyURFQtS9I53) | [Another Love \(Lofi\)](https://open.spotify.com/album/7iLXkQQgmd2DEOHxkQqmhO) | 1:50 | 2022-09-02 | 2022-11-12 |
 | [Anti\-Hero](https://open.spotify.com/track/5EBcTHjNbzyTU8ESzD7bd8) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Anti\-Hero](https://open.spotify.com/album/2NgYRdlV18RPqXnGSAh2L7) | 1:56 | 2022-12-09 |  |
 | [As It Was](https://open.spotify.com/track/7dSoV6Suc4ye0JCoyNWJJR) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [As It Was](https://open.spotify.com/album/6SSGQmNoS5n0ojWzSHQTh3) | 2:30 | 2022-10-14 |  |
+| [Bad Habits](https://open.spotify.com/track/6XuohehgXJ3OLFFV3sdHMm) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [INDUSTRY BABY](https://open.spotify.com/album/5y9jSiiVOhg9Lw97EEVXUp) | 2:38 | 2023-01-13 |  |
 | [Bad Habits](https://open.spotify.com/track/7y161CHpc3KkKVMJZ1bNEQ) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Bad Habits](https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW) | 1:28 | 2022-09-02 |  |
 | [beautiful](https://open.spotify.com/track/6jT6EJPndW8rDZZ1QZuFtK) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [beautiful](https://open.spotify.com/album/4TzUGKjAEbpIzrH9XlhN1P) | 1:56 | 2022-10-28 |  |
 | [Better Now](https://open.spotify.com/track/42BDtgy019hkiSTGhhabQO) | [Granlund](https://open.spotify.com/artist/2dZvcVqJDI3Lbxnwg5hQ8m) | [My Name Is Spruce](https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE) | 3:20 | 2022-09-02 |  |
@@ -87,6 +88,7 @@
 | [It´ll Be Okay](https://open.spotify.com/track/4eWIDMit0TNSjc2bm4PM1T) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [It´ll Be Okay](https://open.spotify.com/album/2mGgf7bFW0I5ACBaUQZ0oI) | 1:56 | 2022-10-28 |  |
 | [I´m Still Standing](https://open.spotify.com/track/6kmwihvFKZPwBURQ26nYtT) | [2 Liter](https://open.spotify.com/artist/13FWCiQOR1emUlfK9wN9FM) | [I´m Still Standing](https://open.spotify.com/album/6XbMvEssxmKHWMW0ROe4vt) | 2:47 | 2022-11-11 |  |
 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 | 2022-09-23 |  |
+| [Just Dance](https://open.spotify.com/track/3Sh9C9k6uZcYK68u76gTA9) | [Chill With Lofi](https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI), [Cidus](https://open.spotify.com/artist/4hHO8tDVAyaTdDKl3R12WH), [Emil Lonam](https://open.spotify.com/artist/0eJbpPFhB19EvgEmYBIwLG) | [Covers, Vol\. 18](https://open.spotify.com/album/6X5rlOkzgx4K9wO4RzAUEJ) | 2:54 | 2023-01-13 |  |
 | [Just the Way You Are](https://open.spotify.com/track/25YXuoEjxt8mPjilPh0oCu) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Just the Way You Are](https://open.spotify.com/album/2XsNMs7FezfBjQJRPzL8uo) | 2:48 | 2022-09-02 |  |
 | [Killing Me Softly](https://open.spotify.com/track/4kXpvrCczkZ11zHR9wFR88) | [ombinate](https://open.spotify.com/artist/6KuoBtG1drbXBIdkbloqEP) | [Killing Me Softly](https://open.spotify.com/album/3M0jCVqUviBEgWe1XyK3pE) | 2:24 | 2022-10-28 |  |
 | [leave the door open](https://open.spotify.com/track/2bNqkCkkkFBQZYIW8WtjPq) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [leave the door open](https://open.spotify.com/album/7ndC4fkH7GALSEjwQXpJic) | 2:28 | 2022-11-11 |  |
@@ -100,6 +102,7 @@
 | [Love Yourself](https://open.spotify.com/track/3ZTOe4igHH1Di0taZWXJh7) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Love Yourself](https://open.spotify.com/album/5w0HSHiP2Dzfq9W4kOTO10) | 1:50 | 2022-09-16 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/4zbDddvck9LUqoh1nojkVh) | [Dab Rosser](https://open.spotify.com/artist/1rIG28M0NJsbl5DDp6x8GA) | [Meet Me At Our Spot](https://open.spotify.com/album/5zu8UTGoKBr1NiJyfuJdGR) | 1:57 | 2022-10-28 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/45atCi3vYyXtz9ijskqGN5) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Mr\. Brightside](https://open.spotify.com/album/4P0Osalw7TaQLM0JKIyHOy) | 2:04 | 2022-09-02 |  |
+| [My Mind & Me](https://open.spotify.com/track/43M3Hb61vb3BQVLKPx5zqC) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [Portals pt 2](https://open.spotify.com/album/7yOQ2GIiEZz4nVo4BF7CPb) | 2:38 | 2023-01-13 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/6mb3ei1PSzzZgZyOeQN5QA) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Never Gonna Give You Up](https://open.spotify.com/album/6k9mZX2jUO3e2xkQTDVScA) | 2:08 | 2022-09-02 |  |
 | [No Suprises](https://open.spotify.com/track/4TVrdSsBbr4RYWBqyVdATT) | [Granlund](https://open.spotify.com/artist/2dZvcVqJDI3Lbxnwg5hQ8m) | [My Name Is Spruce](https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE) | 2:56 | 2022-09-02 |  |
 | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/track/5kDdYabORKt6kskxz1sd1S) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/album/3jtPNM44kEtKnG2CxSeixS) | 2:40 | 2022-11-11 |  |
@@ -157,6 +160,7 @@
 | [Umbrella](https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Umbrella](https://open.spotify.com/album/7nhVqmRzva6w501zTLcZJn) | 1:48 | 2022-09-23 |  |
 | [Unholy](https://open.spotify.com/track/1wloYvGkQimOKMG1h86Jt9) | [Bow Malik](https://open.spotify.com/artist/1e6kAoiCHHdonzjnSIkUkk) | [Unholy](https://open.spotify.com/album/7fsmqpkBQ0Z6Z08n2UtSjd) | 2:41 | 2022-11-11 |  |
 | [Viva La Vida](https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Viva La Vida](https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci) | 2:57 | 2022-09-30 |  |
+| [want to want me](https://open.spotify.com/track/5puZEIkF0RN3zcaTpehfkf) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [want to want me](https://open.spotify.com/album/2SoUBW7aej6obPHrEFAuoE) | 2:08 | 2023-01-13 |  |
 | [Waterfalls](https://open.spotify.com/track/3jmfoWW30Cuan6o9PVAx2P) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Waterfalls](https://open.spotify.com/album/40p2rxjyHKwvB94u7jrqrK) | 2:09 | 2022-10-14 |  |
 | [Waterfalls](https://open.spotify.com/track/6bMbTTdcIYR6vwvkO6nkqc) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Waterfalls](https://open.spotify.com/album/4PTqPayFlbjxXceUkXtTNj) | 2:03 | 2022-09-02 | 2022-09-23 |
 | [Watermelon Sugar](https://open.spotify.com/track/3vHaS2v1VAYSTzNaUTnZmi) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:16 | 2022-11-11 |  |

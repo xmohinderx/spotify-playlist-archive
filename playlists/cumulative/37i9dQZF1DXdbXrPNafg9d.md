@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Cuco
 
-4,630 songs - 11 day 7 hr 54 min
+4,631 songs - 11 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Against the Day](https://open.spotify.com/track/2E73KHhNlLFZBg4rmWyJmO) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Against the Day](https://open.spotify.com/album/5qYnpNnYRMa3ifyJQhkcnT) | 4:12 | 2019-10-18 | 2019-11-15 |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-06 | 2022-06-22 |
 | [Agreeable](https://open.spotify.com/track/0yeDzSWRH7HDeWMcXvgUaA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Agreeable](https://open.spotify.com/album/42wXjVpz6KItN0kZUhq23d) | 2:14 | 2020-09-18 | 2020-10-24 |
-| [AIIWO](https://open.spotify.com/track/3FTjiO85PtTwTPfdTu6Wl8) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [AIIWO](https://open.spotify.com/album/4sydfLJRNEKm90ka4cy6mS) | 3:24 | 2022-11-18 |  |
+| [AIIWO](https://open.spotify.com/track/3FTjiO85PtTwTPfdTu6Wl8) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [AIIWO](https://open.spotify.com/album/4sydfLJRNEKm90ka4cy6mS) | 3:24 | 2022-11-18 | 2023-01-13 |
 | [AIN'T GON STOP ME](https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Ain't Gon Stop Me](https://open.spotify.com/album/2Kc5M1TGl7foXJrnmklLbT) | 1:36 | 2021-03-19 | 2021-05-22 |
 | [Ain’t Ready](https://open.spotify.com/track/4boDLotD4BHuMM6d0SpWts) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Ain’t Ready](https://open.spotify.com/album/1CzJCyaLt2yG09FMJqlDXk) | 3:26 | 2022-06-17 | 2022-07-16 |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2021-10-02 | 2021-10-23 |
@@ -3621,7 +3621,7 @@
 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-07-22 | 2022-09-03 |
 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 | 2019-05-26\* | 2019-06-21 |
 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 | 2021-12-03 | 2022-03-26 |
-| [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 | 2022-12-23 |  |
+| [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 | 2022-12-23 |  |
 | [Somebody Told Me](https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Somebody Told Me](https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk) | 4:15 | 2022-05-27 | 2022-07-09 |
 | [Somehow](https://open.spotify.com/track/1PgIuKWTHhnx7hOKuioUbg) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Somehow](https://open.spotify.com/album/0NYuDe1iCmD73TONNBTot9) | 3:23 | 2020-06-29 | 2020-07-18 |
 | [Someone](https://open.spotify.com/track/2E8xVnA1LW1oX4hg9euHym) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Someone](https://open.spotify.com/album/3dYhaVRzAWNsUcylwLCvzR) | 3:41 | 2020-05-29 | 2020-07-10 |
@@ -3711,6 +3711,7 @@
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 | 2021-09-11 | 2021-11-20 |
 | [stay alone](https://open.spotify.com/track/4oGe4nBE3pxLq1oO31qtux) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [stay alone](https://open.spotify.com/album/1wI3MfvcXTKLLSayHDqHIw) | 1:58 | 2022-11-04 | 2022-12-10 |
 | [Stay And Run](https://open.spotify.com/track/4HBNn1sMNTRF0MS4RDHO04) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Stay And Run](https://open.spotify.com/album/37JopaNwfdGCogE8VCWBUT) | 3:16 | 2022-11-18 | 2023-01-06 |
+| [Stay And Run](https://open.spotify.com/track/6xVa4HmgtgkxmdF8ZTF0Kj) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Stay And Run](https://open.spotify.com/album/0x9rcOJY9aUZueSwdrDISe) | 3:16 | 2022-11-18 |  |
 | [Stay High](https://open.spotify.com/track/3fDqdR9QqcsgFTRFqy14Ki) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High](https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c) | 3:11 | 2019-07-20 | 2019-09-06 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-07-24 | 2021-09-18 |
 | [Stay High \- Recorded at East West Studios](https://open.spotify.com/track/663sv7qnXdkEkorvYmd3nY) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 3:34 | 2020-04-18 | 2020-05-22 |

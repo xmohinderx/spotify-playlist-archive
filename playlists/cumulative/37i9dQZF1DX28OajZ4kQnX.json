@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Ballin Boo",
+        "url": "https://open.spotify.com/album/156LCwHl913XNW7GiMNoGk"
+      },
+      "artists": [
+        {
+          "name": "GEOXwill",
+          "url": "https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207725,
+      "name": "Ballin Boo",
+      "url": "https://open.spotify.com/track/0FP3ZHQcDKf2FHZtAGMoEq"
+    },
+    {
+      "album": {
         "name": "Geezy",
         "url": "https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd"
       },
@@ -60,6 +78,24 @@
       "duration_ms": 184868,
       "name": "Been Bout My Thang",
       "url": "https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K"
+    },
+    {
+      "album": {
+        "name": "benzez",
+        "url": "https://open.spotify.com/album/6fV7spq5PUYkY1n1ooTl6G"
+      },
+      "artists": [
+        {
+          "name": "itsjamer",
+          "url": "https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "benzez",
+      "url": "https://open.spotify.com/track/5hr2xpp7hR6sUTTxsZuLQg"
     },
     {
       "album": {
@@ -316,7 +352,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 256049,
       "name": "Energy Guud, Chic Bad",
       "url": "https://open.spotify.com/track/73Sb2aSpSvDuM0OKp6bAre"
@@ -526,7 +562,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 231131,
       "name": "Independent",
       "url": "https://open.spotify.com/track/424DjMFtS0JGIVM8aBFntp"
@@ -697,6 +733,28 @@
     },
     {
       "album": {
+        "name": "Church Boy",
+        "url": "https://open.spotify.com/album/5FqLdR3exCWZYptLPrlZH0"
+      },
+      "artists": [
+        {
+          "name": "Small Q",
+          "url": "https://open.spotify.com/artist/7ltlgswsQ4Q6Mdcw8GoFZn"
+        },
+        {
+          "name": "Fresh Kid Ug",
+          "url": "https://open.spotify.com/artist/4qNgSGAZglFBFQbcqYG9ZX"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194455,
+      "name": "Mubire",
+      "url": "https://open.spotify.com/track/709bcWwT5PaVkz1R0ykrKg"
+    },
+    {
+      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ"
       },
@@ -836,7 +894,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 185208,
       "name": "Ooh Oh",
       "url": "https://open.spotify.com/track/0FzlmiqeA77DpGyNg9Pr7e"

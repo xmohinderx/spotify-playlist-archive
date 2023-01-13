@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 144000,
       "name": "blossom bliss",
       "url": "https://open.spotify.com/track/6rTcq4gZhytJ0IC1JJfCdE"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 135106,
       "name": "Blurry Window",
       "url": "https://open.spotify.com/track/2hz1J59cpfD0nhVvxsTyML"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 124500,
       "name": "Cassis",
       "url": "https://open.spotify.com/track/0fERk8rJySrdXAFYwzfJ50"
@@ -4193,6 +4193,32 @@
     },
     {
       "album": {
+        "name": "Cr\u00e9puscule",
+        "url": "https://open.spotify.com/album/7MgEfkPgcdO1YWmCZMk0E2"
+      },
+      "artists": [
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Cr\u00e9puscule",
+      "url": "https://open.spotify.com/track/49hM4gDmHiEuVfGxA0Vphz"
+    },
+    {
+      "album": {
         "name": "Cuban Link",
         "url": "https://open.spotify.com/album/66KnQ7hFtOzpc3E8xTZaxr"
       },
@@ -4679,6 +4705,24 @@
     },
     {
       "album": {
+        "name": "diner coffee pleasure",
+        "url": "https://open.spotify.com/album/09ZEMgTrK2X9rIDvajGv2h"
+      },
+      "artists": [
+        {
+          "name": "Beats Me, Innit?",
+          "url": "https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "diner coffee pleasure",
+      "url": "https://open.spotify.com/track/76VazeRgBoYf7fTdVEvH8x"
+    },
+    {
+      "album": {
         "name": "Dinner At Dorsia",
         "url": "https://open.spotify.com/album/4yyb3x5c41vIydwTNXoIbR"
       },
@@ -4774,6 +4818,50 @@
       "duration_ms": 106666,
       "name": "Divine steps",
       "url": "https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV"
+    },
+    {
+      "album": {
+        "name": "Don Done",
+        "url": "https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Adrian Planitz",
+          "url": "https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa"
+        },
+        {
+          "name": "Gabb.",
+          "url": "https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131707,
+      "name": "Don Done",
+      "url": "https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq"
+    },
+    {
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/4jQRoP0tEDHtDCfxzEUEso"
+      },
+      "artists": [
+        {
+          "name": "Okinawa-ARN",
+          "url": "https://open.spotify.com/artist/5nrNy29dvYPOfRSE8m07cp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL"
     },
     {
       "album": {
@@ -5244,7 +5332,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 147000,
       "name": "Elegance",
       "url": "https://open.spotify.com/track/2GuALvh4GVknl4YeUbUnSj"
@@ -5576,6 +5664,24 @@
       "duration_ms": 116666,
       "name": "Espresso & Cream",
       "url": "https://open.spotify.com/track/7AQiWfM6nsLQrnTOgEd9Bp"
+    },
+    {
+      "album": {
+        "name": "Evening in Paris",
+        "url": "https://open.spotify.com/album/0sVMOzSb1WAiStmLWRdf3z"
+      },
+      "artists": [
+        {
+          "name": "Amiga Waves",
+          "url": "https://open.spotify.com/artist/7yUqxpRcN4HHW9E4mdMitx"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "Evening in Paris",
+      "url": "https://open.spotify.com/track/1ncOlXm45y8SEk3EsLUML0"
     },
     {
       "album": {
@@ -6371,6 +6477,24 @@
     },
     {
       "album": {
+        "name": "Snow Vol. 7",
+        "url": "https://open.spotify.com/album/68ZfEDS3HexVA552oFG42S"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87272,
+      "name": "folks on the hill",
+      "url": "https://open.spotify.com/track/3hN7Pz2yb7LkKPvbgFjoE9"
+    },
+    {
+      "album": {
         "name": "Automated Improvisation",
         "url": "https://open.spotify.com/album/1Ohw6AOhIhhYojNRWl9UbL"
       },
@@ -6400,7 +6524,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 135529,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/3I9GvlSWGxEWKs32vDM5Ej"
@@ -7240,6 +7364,24 @@
       "duration_ms": 124230,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/6fr0Zk5MAlEvTW6nPf5lad"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4QhcEzNzmGzYWuhtT2MI1n"
+      },
+      "artists": [
+        {
+          "name": "Ted Fresco",
+          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/4tN5jfueFkQ7I52tNTp925"
     },
     {
       "album": {
@@ -9564,7 +9706,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 174545,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/634oZE0Q6wEddj3FjrVt5B"
@@ -9904,7 +10046,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 106820,
       "name": "latte time",
       "url": "https://open.spotify.com/track/1XFeczt2nYur7cAxxnC1mG"
@@ -11238,7 +11380,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 159069,
       "name": "Memphis",
       "url": "https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk"
@@ -12068,7 +12210,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 132289,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/0bM7Mq0kt0N4aCpyrnMVzW"
@@ -12236,6 +12378,24 @@
       "duration_ms": 138000,
       "name": "Nardis",
       "url": "https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9"
+    },
+    {
+      "album": {
+        "name": "natten EP",
+        "url": "https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "natten",
+      "url": "https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ"
     },
     {
       "album": {
@@ -14001,6 +14161,24 @@
     },
     {
       "album": {
+        "name": "Pineapple Express",
+        "url": "https://open.spotify.com/album/7fKEeaUOD1ZA860EYRIrKS"
+      },
+      "artists": [
+        {
+          "name": "Tama",
+          "url": "https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90360,
+      "name": "Pineapple Express",
+      "url": "https://open.spotify.com/track/0pF0kQeKgp8dboMoOvrCpK"
+    },
+    {
+      "album": {
         "name": "Pink Waters",
         "url": "https://open.spotify.com/album/6ggugqKNKHGdB96D6Ujotj"
       },
@@ -14472,7 +14650,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 178500,
       "name": "Quickly",
       "url": "https://open.spotify.com/track/3klS1XdaiAt2mkvtHYfOCK"
@@ -14660,6 +14838,24 @@
       "duration_ms": 155294,
       "name": "Really Get Going",
       "url": "https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi"
+    },
+    {
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/3Eiu3BJ4na9P7qkYlqDvVE"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135624,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/6UUhPwauX4nAieYExAj9FH"
     },
     {
       "album": {
@@ -15666,7 +15862,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 122192,
       "name": "seconds",
       "url": "https://open.spotify.com/track/6ZkCReU1yPck3lPBursVuV"
@@ -16854,6 +17050,24 @@
       "duration_ms": 121681,
       "name": "starwish",
       "url": "https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn"
+    },
+    {
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O"
     },
     {
       "album": {
@@ -19338,7 +19552,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 93529,
       "name": "Untold Stories",
       "url": "https://open.spotify.com/track/1PG43ycJcN4SEU1FuAlUn8"
@@ -20480,6 +20694,24 @@
       "duration_ms": 149647,
       "name": "wrong room?",
       "url": "https://open.spotify.com/track/6zvGDFWAM91P1huvcUgPo3"
+    },
+    {
+      "album": {
+        "name": "Wrong Turn",
+        "url": "https://open.spotify.com/album/23TgVhteU8ps5VPXiER7Ti"
+      },
+      "artists": [
+        {
+          "name": "Halfspeed",
+          "url": "https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82758,
+      "name": "Wrong Turn",
+      "url": "https://open.spotify.com/track/78gnsPk8zQmrUiUu2Mp8Kf"
     },
     {
       "album": {

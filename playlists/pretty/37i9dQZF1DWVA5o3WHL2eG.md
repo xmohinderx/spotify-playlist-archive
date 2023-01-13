@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,378 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,384 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 15 | [Vertrau dir nicht](https://open.spotify.com/track/0rc5Xe21tVqyPlIzfRFOQp) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Vertrau dir nicht](https://open.spotify.com/album/0zjzXGObG8eQ8XYO28qWhg) | 2:41 |
 | 16 | [Wach](https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Wach](https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7) | 2:39 |
-| 17 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
-| 18 | [Das Boot](https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Das Boot \(Edit\)](https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir) | 6:04 |
-| 19 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
-| 20 | [PANIK](https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [KAAS](https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk) | [PANIK](https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc) | 3:23 |
-| 21 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 |
+| 17 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
+| 18 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
+| 19 | [Das Boot](https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Das Boot \(Edit\)](https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir) | 6:04 |
+| 20 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 |
+| 21 | [PANIK](https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [KAAS](https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk) | [PANIK](https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc) | 3:23 |
 | 22 | [Wenn du's eh nicht tust](https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Wenn du's eh nicht tust](https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ) | 2:46 |
 | 23 | [Wer bist du?](https://open.spotify.com/track/3gissJWkvQ4DvGy5eAB6Fu) | [Celo Minati](https://open.spotify.com/artist/21VV9fUe6whK3Zo2BPoHnd) | [Wer bist du?](https://open.spotify.com/album/5Kd64BNr7TYPBpyuoz4l0D) | 2:35 |
 | 24 | [schön naiv :\)](https://open.spotify.com/track/2ykcuqXjl9bg3ouHsfeISI) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [schön naiv :\)](https://open.spotify.com/album/38apSHIt2ShQsodAhOAzP7) | 2:28 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [Everyone Is Getting Old](https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Everyone Is Getting Old](https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR) | 2:57 |
 | 44 | [a line in my skin](https://open.spotify.com/track/1ke4aQ72kFgtq0g3Chl4iB) | [Karo Lynn](https://open.spotify.com/artist/6kTgqFXtx6GogRc1rp81W7) | [a line in my skin](https://open.spotify.com/album/1kmmKwqENIDHbavzvodyu5) | 3:36 |
 | 45 | [QUEEN](https://open.spotify.com/track/5hr39FQi0R8NHeg8pSmFCQ) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [QUEEN](https://open.spotify.com/album/4dF2UXtndUYmrezTiZhmp6) | 2:47 |
-| 46 | [Over Control](https://open.spotify.com/track/0Fi279thY3ggBulre48k6N) | [TEll A VISION](https://open.spotify.com/artist/0o4PC35iPXR3eK4CPkl353) | [Over Control](https://open.spotify.com/album/31pgYJ9ceUDBJvNJELmgWv) | 3:04 |
-| 47 | [Headed Home](https://open.spotify.com/track/3QLJiQKjhp8eyxSz6nDRVi) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Headed Home](https://open.spotify.com/album/5pNCBxmKPZIIFlbRGHRLCU) | 3:49 |
+| 46 | [Headed Home](https://open.spotify.com/track/3QLJiQKjhp8eyxSz6nDRVi) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Headed Home](https://open.spotify.com/album/5pNCBxmKPZIIFlbRGHRLCU) | 3:49 |
+| 47 | [Over Control](https://open.spotify.com/track/0Fi279thY3ggBulre48k6N) | [TEll A VISION](https://open.spotify.com/artist/0o4PC35iPXR3eK4CPkl353) | [Over Control](https://open.spotify.com/album/31pgYJ9ceUDBJvNJELmgWv) | 3:04 |
 | 48 | [Not For Me](https://open.spotify.com/track/0kZ60vnXZw6dkPnjxq6jZC) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Not For Me](https://open.spotify.com/album/3kYAKFbVeUAh6GLqflEvhR) | 2:51 |
 | 49 | [Gnxta Love](https://open.spotify.com/track/6ZiepO0OmSYOEI6WRhuw5K) | [Dimi Rompos](https://open.spotify.com/artist/6qPNkgCHtyhe6Q2mqqH4pL) | [Gnxta Love](https://open.spotify.com/album/2sx1blo3dHoC3itrX3yBxD) | 3:07 |
 | 50 | [Villain \- Live Version](https://open.spotify.com/track/6FXyKhbMs5lEnoBgGiq8bY) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Villain \(Live Version\)](https://open.spotify.com/album/229KTGQ0nvTlk2Apx2sGkB) | 5:14 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDg3ZDQ5YTk1YmUyNDViMWIzNjQ4ODZmMTMxMTA2ZjRk`
+Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDQ4OTU4NGRmYThlOTQyM2M2ZWY3NjBkMzliYjY1ZmMx`

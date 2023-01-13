@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Awdella
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Mario G klau
 
 146 songs - 9 hr 14 min
 

@@ -4,12 +4,13 @@
 
 > Ambient waves for ethereal days
 
-138 songs - 9 hr 33 min
+142 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20220317](https://open.spotify.com/track/1abk890JenHyZiwFUM374T) | [Zazenkai](https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh), [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [20220317](https://open.spotify.com/album/170JimhdaR5ThyVbcgxraG) | 3:31 | 2022-10-14 |  |
 | [40,000ft \(IV\)](https://open.spotify.com/track/1bKdskMZB1pnGa9Iwr5jLN) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [40,000ft](https://open.spotify.com/album/4IOCIwtFbUqszEGTPd3zDZ) | 3:46 | 2022-08-05 |  |
+| [A Long Line of Violet Hills](https://open.spotify.com/track/4d6CikfRNaivEqMOrqtHuF) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:07 | 2023-01-13 |  |
 | [Above the Clouds](https://open.spotify.com/track/3gpvkHtd5Tl48wZkkw0xoz) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Above the Clouds](https://open.spotify.com/album/5l5Obv9lGFcDTXs1yfikCk) | 3:22 | 2022-08-05 |  |
 | [Aether Talk](https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Aether Talk](https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC) | 2:52 | 2022-09-08 |  |
 | [Aftensol](https://open.spotify.com/track/7nJROsInAKwIAJocNsAMzf) | [Sullen Sky](https://open.spotify.com/artist/0ptQgQTBR2qUJzNVSrkBQO) | [Aftensol](https://open.spotify.com/album/5Ia3BDFg9VEJtxXK5SgrAs) | 3:34 | 2022-08-05 |  |
@@ -64,6 +65,7 @@
 | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/track/60OkaddPGoz4Wx3NkTgpnn) | [Abeo Abara](https://open.spotify.com/artist/0BIybKZiOMOMdUmCKZsY0O) | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/album/0Li6vZK0i0e1wkTK8Xo24R) | 2:32 | 2022-11-11 |  |
 | [Geometric \- Version 2](https://open.spotify.com/track/5SnPJfIBhEMN8V8a5hyBJi) | [Atmoda](https://open.spotify.com/artist/09MhmAWoBHWYVo2RyKlcYw) | [Geometric](https://open.spotify.com/album/6L1cljzvurPjMM11yhel01) | 2:57 | 2022-08-19 |  |
 | [Havasu](https://open.spotify.com/track/66V97mH6dRUB1O4KsK328B) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Havasu](https://open.spotify.com/album/51OEnFQxXRMJBemtp0qSLV) | 3:12 | 2022-08-05 |  |
+| [Healing Mind](https://open.spotify.com/track/1VjVARByjHVPoKM4LUmSY9) | [Meditación Maestro](https://open.spotify.com/artist/5N7UeskN33MFFsoLfWWdUE) | [Meditación Curación](https://open.spotify.com/album/3CpQigghVY6fn92zAA3bFW) | 2:41 | 2023-01-13 |  |
 | [Hills](https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l) | 2:33 | 2023-01-06 |  |
 | [Homesick](https://open.spotify.com/track/1KAjfOhwtBDkhhGhDH27Z0) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Homesick](https://open.spotify.com/album/6IoxzKrzEWprrw1yUN9Da1) | 2:16 | 2022-10-14 |  |
 | [I'm Not Sure We Belong](https://open.spotify.com/track/0rSmtDpnf2x4s1Hgnbdv15) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [Mysterious Shapes and Remembered Rhythms](https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP) | 10:29 | 2022-12-20 |  |
@@ -116,6 +118,7 @@
 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 | 2022-08-05 |  |
 | [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-14 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-19 |  |
+| [Snoozy Bliss](https://open.spotify.com/track/1vsJH9KHxzOtxvNiutXn9a) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Wellness Sleep Zone](https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo) | 3:23 | 2023-01-13 |  |
 | [Sol](https://open.spotify.com/track/6HeiO63dKxpOf7v3L8lS16) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 5:04 | 2022-08-05 |  |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-09-08 |  |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-09-08 |  |
@@ -143,6 +146,7 @@
 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 | 2022-08-05 |  |
 | [When Everything Fades \- Applefish Rework](https://open.spotify.com/track/1TM6iMXR7IdX3Zc1rCwO9r) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Forever Ago](https://open.spotify.com/album/06LhQdbiI54iofiFmoOx12) | 4:44 | 2022-08-05 |  |
 | [Where We Start Again](https://open.spotify.com/track/01MyFW53bmiQ3hSolZVU1M) | [Luca Longobardi](https://open.spotify.com/artist/3u2Sq4N5nNzSumzKsbZwDW), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Paint and Blood](https://open.spotify.com/album/2yVBRpgdh94WhSEBU1QGAa) | 4:16 | 2022-08-05 |  |
+| [Wilderness](https://open.spotify.com/track/6FHHNUmzQYCVxqraPzUchi) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:46 | 2023-01-13 |  |
 | [Yes I](https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd) | [Answer Code Request](https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Yes I](https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR) | 5:41 | 2022-08-05 |  |
 | [Yugen](https://open.spotify.com/track/7koQRxHvQ7HLK6TpxnuaSB) | [zarr.](https://open.spotify.com/artist/0X0R3ScmiUkMFxi2mE7Bys) | [cloudform](https://open.spotify.com/album/3kdr7RcqUSwrk2zGD9GwPY) | 8:18 | 2022-08-05 | 2022-12-21 |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-09-08 |  |

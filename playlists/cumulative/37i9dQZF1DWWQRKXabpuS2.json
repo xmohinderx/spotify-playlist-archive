@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 348794,
       "name": "Ahl Aleshg",
       "url": "https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a"
@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Dayem As2al",
+        "url": "https://open.spotify.com/album/4Es99k05nZJfeVH300PR8Q"
+      },
+      "artists": [
+        {
+          "name": "Meteb Alshalan",
+          "url": "https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226022,
+      "name": "Dayem As2al",
+      "url": "https://open.spotify.com/track/4P5CkS0Omk3weM19g82WXb"
+    },
+    {
+      "album": {
         "name": "Dehkat Ayami",
         "url": "https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 245721,
       "name": "Hala Bek",
       "url": "https://open.spotify.com/track/2gNIpFX1xqfGKwUNPSHMXJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Soffia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,490 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,487 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 51 | [Segredo](https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [Segredo](https://open.spotify.com/album/1ASqKOHKRjm5j0qQlSCGz3) | 2:58 |
 | 52 | [Deu Saudade](https://open.spotify.com/track/1w3RC48VhtAiYKCiGy88ro) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [EREN](https://open.spotify.com/artist/2wx6CMJZtsVGvyMngwkoHs) | [Deu Saudade](https://open.spotify.com/album/210kypIEoUxUzSaMEGAkQM) | 3:07 |
 | 53 | [Não Tô Com Ela](https://open.spotify.com/track/0AdzI4Q1mx7md7UbYSThKY) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Não Tô Com Ela](https://open.spotify.com/album/1VcEx47nWTn5rj7w9VNzev) | 2:31 |
-| 54 | [Uva](https://open.spotify.com/track/4r4vZuM0uoQTAK9C5hrDcI) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:30 |
+| 54 | [Uva](https://open.spotify.com/track/4r4vZuM0uoQTAK9C5hrDcI) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:30 |
 | 55 | [Minha Vibe](https://open.spotify.com/track/3dJyxvnh7AhC05MAyotxt1) | [Dom](https://open.spotify.com/artist/4xTYyi8DMAejeE8L10qS1O), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Minha Vibe](https://open.spotify.com/album/09ObdtyOsHF4sKc2B4U6YL) | 2:40 |
 | 56 | [Cena de Novela](https://open.spotify.com/track/79bIEshFkFlLaVAXfvotZi) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Cena de Novela](https://open.spotify.com/album/61busd9vyYd74C962UYlzU) | 2:23 |
 | 57 | [Dose de Mim](https://open.spotify.com/track/43fxMNRsFOroRjU8rs2c9a) | [Bibi Tatto](https://open.spotify.com/artist/7DMZbnexJOhSBi0WVlIFca), [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Dose de Mim](https://open.spotify.com/album/6drDpS4S8GkkkV6vWVIMv3) | 2:18 |

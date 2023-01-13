@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shanna Shannon
 
 116 songs - 7 hr 16 min
 

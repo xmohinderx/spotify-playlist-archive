@@ -4,7 +4,7 @@
 
 > Cold beer\. Hot wings\. Great rock.
 
-166 songs - 10 hr 33 min
+167 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Step Aside](https://open.spotify.com/track/5SSX2AJTtYjpk0x2p0LnUA) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/5nkGvHymejZPp7gdB1JwG4) | 4:07 | 2021-12-09 | 2022-07-29 |
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2022-06-17 |  |
 | [Survivor](https://open.spotify.com/track/4xdUk9rp5wOd3ZLwwNfjwd) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Survivor](https://open.spotify.com/album/7zsfcfnaarayjDTB4KBRDV) | 4:02 | 2021-08-12 |  |
-| [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2020-05-15 |  |
+| [Sweet Emotion](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 | 2022-11-07 |  |
+| [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2020-05-15 | 2023-01-13 |
 | [Take a Sip](https://open.spotify.com/track/3zgzbGes5o5X0ExPhj0zpl) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Take a Sip](https://open.spotify.com/album/6gwaYJ4J8cZsN91wJmiY3d) | 3:21 | 2020-05-15 | 2022-07-29 |
 | [Take a Sip](https://open.spotify.com/track/4Tqrg7OkfVYIa5x95vUpaV) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Young Man](https://open.spotify.com/album/6ms8IXNl6dXiPkQ8vq0VaT) | 3:21 | 2022-06-17 |  |
 | [Take a Sip \- Chris Webby Remix](https://open.spotify.com/track/7zDgvZRJwa6CTpf8pvmFub) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK), [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Take a Sip \(Chris Webby Remix\)](https://open.spotify.com/album/7twbnLkFlfsbv7GlBGWtcA) | 3:21 | 2022-11-07 | 2022-11-13 |

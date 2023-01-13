@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Nicole y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10880,
+  "num_followers": 10885,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDEzYjEzNzEzM2QyYTA4MTNkNWIyYmMzYjYxMzQ0NWY0",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDM3NGY3NTdlMjE1YzFjOGUxYzFkMTJmMGJiZDE0YmY4",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Buena Suerte Muchacha",
-        "url": "https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 193340,
-      "name": "Buena Suerte Muchacha",
-      "url": "https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "Cr\u00f3nicas de un cora roto",
         "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
       },
@@ -207,18 +191,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+        "name": "Buena Suerte Muchacha",
+        "url": "https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0"
       },
       "artists": [
         {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+      "duration_ms": 193340,
+      "name": "Buena Suerte Muchacha",
+      "url": "https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -235,6 +219,22 @@
       "duration_ms": 181013,
       "name": "COPACABANA",
       "url": "https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "Yo quiero bailar",
+        "url": "https://open.spotify.com/album/4ArfKzjVQOL3XNOrpktPPi"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marinkovic",
+          "url": "https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el"
+        }
+      ],
+      "duration_ms": 195593,
+      "name": "Yo quiero bailar",
+      "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 232173,
       "name": "Detonaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Yo quiero bailar",
-        "url": "https://open.spotify.com/album/4ArfKzjVQOL3XNOrpktPPi"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marinkovic",
-          "url": "https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el"
-        }
-      ],
-      "duration_ms": 195593,
-      "name": "Yo quiero bailar",
-      "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Voz Que Sana",
-        "url": "https://open.spotify.com/album/1hdKat0bGuYY7vcPF9ywSp"
-      },
-      "artists": [
-        {
-          "name": "Almeyda",
-          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/7F7Bga2mi1fYcuY7gspC2G"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 178055,
       "name": "Loco",
       "url": "https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Voz Que Sana",
+        "url": "https://open.spotify.com/album/1hdKat0bGuYY7vcPF9ywSp"
+      },
+      "artists": [
+        {
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/7F7Bga2mi1fYcuY7gspC2G"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "La P\u00f3cima",
         "url": "https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 179247,
       "name": "La P\u00f3cima",
       "url": "https://open.spotify.com/track/3478RKENZliWK21KgkqCxs"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
     },
     {
       "added_at": "2023-01-04 03:00:00",

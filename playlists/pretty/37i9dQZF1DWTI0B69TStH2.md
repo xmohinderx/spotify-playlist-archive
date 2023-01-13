@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Nago \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,137 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,148 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 5 | [Jenot](https://open.spotify.com/track/6r4PxkbuSvSfEHe25E6xqR) | [Dłonie](https://open.spotify.com/artist/3Ya6VPgR8fqYmPsvA4Icpo) | [Goniłem Za Słońcem, Bo Myślałem, Że to Dojrzałe Mango](https://open.spotify.com/album/4pI2ZUHX6OciCfKmjzwpVl) | 3:44 |
 | 6 | [Apple Cake](https://open.spotify.com/track/3ngJEdR8mdQicBQn3PnSsS) | [Filip Sterniuk](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw), [Daniel Hawes](https://open.spotify.com/artist/5VGSBJHxdNEpZcI8Kx09HH) | [Apple Cake](https://open.spotify.com/album/4cXLQRQn0cOr7OQZMjvd7V) | 3:13 |
 | 7 | [Wolność](https://open.spotify.com/track/5LnwQyYt33PrCwGXEA5qEY) | [Owocducha](https://open.spotify.com/artist/3l41EJwmxmOMFQWcXrkCnR), [Julia Bukowska](https://open.spotify.com/artist/2gfnTvpi4KA1kRtEDeF5uG), [Steven](https://open.spotify.com/artist/4dBlLmecgiq7Xg2tZbfVp4) | [Wolność](https://open.spotify.com/album/7FkluXOrcasBUqIeEacUoj) | 5:00 |
-| 8 | [Akacje](https://open.spotify.com/track/400NyXxU3mhiraKbR6n9G9) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Akacje](https://open.spotify.com/album/2PxOPG4hFj9tNimmLrbSm8) | 7:08 |
+| 8 | [Akacje](https://open.spotify.com/track/400NyXxU3mhiraKbR6n9G9) | [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP), [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Akacje](https://open.spotify.com/album/2PxOPG4hFj9tNimmLrbSm8) | 7:08 |
 | 9 | [Zbolałe serce](https://open.spotify.com/track/6kGgWNW2d1VxR8MoTcqCfO) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3), [Jacek Sienkiewicz](https://open.spotify.com/artist/6fcsAWZGM9kW8wcGiPRWxY) | [Zbolałe serce](https://open.spotify.com/album/20MIyb4ORaFuDkwjZdIHA2) | 4:05 |
 | 10 | [Jestem rumieńcem](https://open.spotify.com/track/4UzO037yMI5kgPWdCm78sa) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [MonF](https://open.spotify.com/artist/2M6JiX4PKQK9Y70ONwi8Nl) | [Jestem rumieńcem](https://open.spotify.com/album/2IUxt1lxRkGaWfQffwmPDU) | 4:16 |
 | 11 | [Jutro może nie być niczego](https://open.spotify.com/track/3IJW89o8NsR7UxWTX2RcBu) | [Weronika Borowiec](https://open.spotify.com/artist/3H7MczsYp9tx6jskw9kodx), [AronBeats](https://open.spotify.com/artist/5v455njudD1baLI5cX1YqJ) | [Jutro może nie być niczego](https://open.spotify.com/album/3vwONl1MxWhWrFg5Vae9z2) | 3:17 |

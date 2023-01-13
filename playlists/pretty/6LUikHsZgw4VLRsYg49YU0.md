@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > All your favorite openings &amp; ending songs from the top anime shows and films\. Includes Chainsaw Man, BLEACH, Evangelion, Bocchi The Rock, Naruto, My Hero Academia, Kill La Kill, Devilman Crybaby, Seven Deadly Sins and many more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 3,930 likes - 43 songs - 2 hr 53 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 3,929 likes - 43 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

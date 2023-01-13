@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Angela Torres.
 
-154 songs - 7 hr 30 min
+155 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [UH LA LA](https://open.spotify.com/track/5yLKkXLJKwygToVcT5CISv) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [SIX PACK](https://open.spotify.com/album/7kE61YnaJ8Lf0iFK8Jzz9a) | 1:57 | 2022-12-06 |  |
 | [UN BANDOLERO \(feat\. C.R.O\)](https://open.spotify.com/track/3vh0hTfg90xqPMI5J6Z90p) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [HÍBRIDO](https://open.spotify.com/album/7uJq7ArZ8F9RLehwiooxlo) | 3:22 | 2022-05-24 |  |
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-22 |  |
-| [Una Copa](https://open.spotify.com/track/0m8vNCtnh1tjDba8yvKzox) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/65XAMVE0qjVlN9wcnpxKl7) | 2:21 | 2023-01-09 |  |
+| [Una Copa](https://open.spotify.com/track/0m8vNCtnh1tjDba8yvKzox) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/65XAMVE0qjVlN9wcnpxKl7) | 2:21 | 2023-01-09 | 2023-01-13 |
+| [Una Copa](https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK) | 2:21 | 2023-01-09 |  |
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2022-11-18 |  |
 | [Unfollow](https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Unfollow](https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB) | 3:16 | 2022-05-24 |  |
 | [Verificada](https://open.spotify.com/track/6wIByDvOQvyjqR3hBtOECG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/3WfkSS2h0jiJedZwYVmOsq) | 2:38 | 2022-05-24 | 2022-07-29 |

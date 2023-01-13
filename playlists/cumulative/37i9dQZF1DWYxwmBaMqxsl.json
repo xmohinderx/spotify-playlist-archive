@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Anse Source d'Argent",
+        "url": "https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238077,
+      "name": "Anse Source d'Argent",
+      "url": "https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR"
+    },
+    {
+      "album": {
         "name": "April's Fooling No One",
         "url": "https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS"
       },
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 153362,
       "name": "Madison",
       "url": "https://open.spotify.com/track/4XJwaQOwqrfkiXkAuxZSNd"
@@ -2610,6 +2628,24 @@
       "duration_ms": 174803,
       "name": "On a rainy night",
       "url": "https://open.spotify.com/track/23UsmEE9f1y1OTRWpxZsnx"
+    },
+    {
+      "album": {
+        "name": "Somewhere Only We Go",
+        "url": "https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258976,
+      "name": "Only in Whispers",
+      "url": "https://open.spotify.com/track/0Pd354Pb7GcN36FRTPhdfw"
     },
     {
       "album": {
@@ -3261,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Only We Go",
+        "url": "https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227778,
+      "name": "Somewhere Only We Go",
+      "url": "https://open.spotify.com/track/3FUPP0Q5E2JKopEUHXIwdw"
+    },
+    {
+      "album": {
         "name": "Somewhere Over the Rainbow",
         "url": "https://open.spotify.com/album/2zTKHtbXJclLO5YKvLTITF"
       },
@@ -3614,7 +3668,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 220443,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb"

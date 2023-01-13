@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 277223,
       "name": "Futaba",
       "url": "https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4"
@@ -3287,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "SHUNKA RYOUGEN",
+        "url": "https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc"
+    },
+    {
+      "album": {
         "name": "NEW ME",
         "url": "https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU"
       },
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 139000,
       "name": "NO SWEAT",
       "url": "https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj"
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 168680,
       "name": "odoru yo-ni",
       "url": "https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva"
@@ -4245,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "harutosyura",
+        "url": "https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259360,
+      "name": "sekaiwotorikaeshiteokure",
+      "url": "https://open.spotify.com/track/0WWcJVmz8Yj5hOwJkyycxo"
+    },
+    {
+      "album": {
         "name": "Unleash",
         "url": "https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw"
       },
@@ -4422,6 +4458,24 @@
       "duration_ms": 275259,
       "name": "SHOW YOU MY SOY SAUCE",
       "url": "https://open.spotify.com/track/4hzf8FrONSbzKWqYSWiX5s"
+    },
+    {
+      "album": {
+        "name": "SHUNKA RYOUGEN",
+        "url": "https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219349,
+      "name": "Shunrai",
+      "url": "https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT"
     },
     {
       "album": {

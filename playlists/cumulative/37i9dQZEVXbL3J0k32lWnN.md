@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-932 songs - 2 day 0 hr 55 min
+933 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,7 @@
 | [Krystalkuglen](https://open.spotify.com/track/0lVG3xhpjArK0F589JEjHV) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 0:38 | 2022-01-08 | 2022-01-12 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-12 | 2022-09-25 |
 | [Kun 1](https://open.spotify.com/track/5XNRshEiBsUg1IA6iDkf8G) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:44 | 2022-10-15 | 2022-10-19 |
-| [Kun Med Dig](https://open.spotify.com/track/22ureEREoYmAIwxm8ZBSIK) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Kun Med Dig](https://open.spotify.com/album/3PhijiZGRTGtAT2HCG8guv) | 3:07 | 2022-09-05 |  |
+| [Kun Med Dig](https://open.spotify.com/track/22ureEREoYmAIwxm8ZBSIK) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Kun Med Dig](https://open.spotify.com/album/3PhijiZGRTGtAT2HCG8guv) | 3:07 | 2022-09-05 | 2023-01-13 |
 | [Kurder I København \(feat\. ZK & Luna Ersahin\)](https://open.spotify.com/track/4VIOi72qy3y5lgSqX7tqjZ) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 4:19 | 2022-10-22 | 2022-11-05 |
 | [Kærlighed](https://open.spotify.com/track/1HT4tiNLC1CnHcVTuDwD2P) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kærlighed](https://open.spotify.com/album/0UKQ7Tm0wYJc7laBIzg51b) | 3:11 | 2021-05-09 | 2021-08-22 |
 | [Kærlighed I Luften](https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Kærlighed I Luften](https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR) | 3:03 | 2022-04-30 | 2022-06-05 |
@@ -685,6 +685,7 @@
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-03-27\* | 2021-05-16 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2022-01-01 |
 | [Peligrosa](https://open.spotify.com/track/0SYgFUs4mbY9iNUxmUZ9iX) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:35 | 2022-01-15 | 2022-04-11 |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-12 |  |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-11 | 2023-01-03 |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-08-05 | 2022-08-10 |
 | [Permanent \(feat\. Edo6k\)](https://open.spotify.com/track/3XjIc4Cjcp5eqia6aLBupf) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa) | [Junglebogen](https://open.spotify.com/album/2n8BxYEaoLcsdAQXOvSsiX) | 2:36 | 2022-02-26 | 2022-02-28 |

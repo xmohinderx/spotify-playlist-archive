@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Mary Had a Little Lamb",
+        "url": "https://open.spotify.com/album/6eD3IBFS08wBGKU0urZKdD"
+      },
+      "artists": [
+        {
+          "name": "Isa Hopkins",
+          "url": "https://open.spotify.com/artist/7qXmB3myPVahbop7iJTgoz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132761,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/3NpjpqDMXGWnELu2sCrkc2"
+    },
+    {
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx"
       },

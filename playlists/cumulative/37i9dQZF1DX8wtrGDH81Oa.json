@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Sthlm Snow",
+        "url": "https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme"
+      },
+      "artists": [
+        {
+          "name": "Maea Sid",
+          "url": "https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201627,
+      "name": "Sthlm Snow",
+      "url": "https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf"
+    },
+    {
+      "album": {
         "name": "Still Dancin\u2019",
         "url": "https://open.spotify.com/album/4IOtWCPyVqIcughxyJQU6w"
       },

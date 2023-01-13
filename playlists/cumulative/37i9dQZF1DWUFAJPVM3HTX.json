@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Fade to Black.",
+        "url": "https://open.spotify.com/album/719jb8MKVDSGsfYqB4JspY"
+      },
+      "artists": [
+        {
+          "name": "Marvin Dolo",
+          "url": "https://open.spotify.com/artist/5UQBWR0edHp1ZuQvqsdsT3"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "All We Know",
+      "url": "https://open.spotify.com/track/375zznhvM0rsnYOHYCw8vH"
+    },
+    {
+      "album": {
         "name": "Look What You've Done",
         "url": "https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood"
       },
@@ -1834,6 +1852,28 @@
       "duration_ms": 242803,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/7GZINgiZVPkuqZ2M8lxbll"
+    },
+    {
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/74ss0t5fmhxC56U1yWw08F"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hush",
+          "url": "https://open.spotify.com/artist/0wN8Xcwcr6dcHiLM3lpgPz"
+        },
+        {
+          "name": "Mellina Tey",
+          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127972,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2L8H2Agsg9UKfb4zoOHbih"
     },
     {
       "album": {
@@ -16968,6 +17008,24 @@
       "duration_ms": 171777,
       "name": "Where You At",
       "url": "https://open.spotify.com/track/7BR0HcQah51twleQzGfVFL"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/1tyWE89nzY3lj2sxYIlGAL"
+      },
+      "artists": [
+        {
+          "name": "Muwosi",
+          "url": "https://open.spotify.com/artist/0O0LFxVzzKXHPl4YkxW6y2"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/1UBRExDo8VoRSMchX9C0xm"
     },
     {
       "album": {

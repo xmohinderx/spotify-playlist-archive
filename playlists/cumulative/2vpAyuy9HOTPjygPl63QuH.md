@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-665 songs - 1 day 14 hr 24 min
+666 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [DONT TRUST EM](https://open.spotify.com/track/1J4mWlkB9pWVEEXpiBwlwW) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DONT TRUST EM](https://open.spotify.com/album/5mFfGGuALPOKq9NNPN0fxZ) | 3:16 | 2022-06-24 | 2022-07-02 |
 | [Don’t Forget My Love \- CID Remix](https://open.spotify.com/track/6pHvuivUFmCoqytTCAozmR) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Don’t Forget My Love \(CID Remix\)](https://open.spotify.com/album/6PbbZPJyIm49q44SpU49Gl) | 2:37 | 2022-06-10 | 2022-06-18 |
 | [Don’t Forget To Breathe](https://open.spotify.com/track/0cSXY3uBw8wuEjJeQAwOGO) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [Don’t Forget To Breathe](https://open.spotify.com/album/1Z3cPY7x3yBjhWlhyhbJX7) | 3:08 | 2022-06-17 | 2022-06-25 |
+| [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-13 |  |
 | [Drop It](https://open.spotify.com/track/4h9RxRzTdbJlV8gFyOIdv0) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Damegon](https://open.spotify.com/album/0mQGDkwYMzKgTWFLBIq2QV) | 3:25 | 2022-06-03 | 2022-06-11 |
 | [Drop It](https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Drop It](https://open.spotify.com/album/78miEQ02KsHuz0bRIjxzRA) | 3:12 | 2022-08-05 | 2022-09-03 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-09-02 | 2022-09-10 |

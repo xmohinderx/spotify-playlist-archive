@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-520 songs - 22 hr 54 min
+525 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Camila](https://open.spotify.com/track/5dNpam7kD3OsBJOVQC5YyX) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Camila](https://open.spotify.com/album/516cqGsOEFiDxIhqbRWCuy) | 2:19 | 2022-08-05 | 2022-10-29 |
 | [Campeche](https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Serenata Huasteca](https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk) | 3:38 | 2021-12-08 | 2022-03-26 |
 | [Cape Verde](https://open.spotify.com/track/6iXra1rxJdrWxzzeiklNJW) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Cape Verde](https://open.spotify.com/album/1mwFAxMM37n91KzyMFMJ2H) | 2:32 | 2021-12-08 | 2022-10-29 |
+| [Capulet](https://open.spotify.com/track/71cwIqUl6Zuqxdms9Bkwg2) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Capulet](https://open.spotify.com/album/7I2zx3Yc5sAx2qAblV1Mlh) | 2:04 | 2023-01-13 |  |
 | [Carcassonne](https://open.spotify.com/track/3qDeU6b8Fopj9VJ11SIEH2) | [Ludwig Van Bergen](https://open.spotify.com/artist/2hnIX2H6zuWej61nQDuSaj) | [Carcassonne](https://open.spotify.com/album/41TT6I8Nv5rknmR0o0LYul) | 2:58 | 2021-12-08 | 2022-04-06 |
 | [Caricia](https://open.spotify.com/track/53fIluEA1o43sxC3H5740i) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Caricia](https://open.spotify.com/album/3I2pgNuXuCXKrl1xxUjYQ2) | 2:32 | 2021-12-08 | 2022-05-11 |
 | [Cariño](https://open.spotify.com/track/29LzwygJfEJtzgZlyWPQmB) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Saudades](https://open.spotify.com/album/1G6203TrVhpBAOqjDOlZc6) | 3:07 | 2021-12-08 | 2022-05-11 |
@@ -229,6 +230,7 @@
 | [It's a Small World After All](https://open.spotify.com/track/6k6TA8HG6ja8XYkoGXAGZ3) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [It's a Small World After All](https://open.spotify.com/album/4P5JA1Iv5QpmnYyVNRwJ6N) | 2:55 | 2022-04-05 |  |
 | [Jeanne d’Arc](https://open.spotify.com/track/29d4MmvvsUte4F2PvKpgPn) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Jeanne d’Arc](https://open.spotify.com/album/15zbSnXBeFOZ1LFNMkElTV) | 2:14 | 2021-12-08 | 2022-06-10 |
 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 | 2021-12-08 | 2022-07-08 |
+| [John Brown's Song](https://open.spotify.com/track/3ra589FIibT7CerHiH8D1o) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [John Brown's Song](https://open.spotify.com/album/23Hqgehm8Jpgc5yW1WgGr7) | 1:36 | 2023-01-13 |  |
 | [Julieta](https://open.spotify.com/track/2INWzibx7vOzJzI7117HXq) | [Almudena Senza](https://open.spotify.com/artist/6tVnjpRX2xCJzaLr7XID1v) | [Julieta](https://open.spotify.com/album/5QZhzlKhVTJ1rIsjRSaWKb) | 2:23 | 2022-10-07 |  |
 | [Just Dipping My Toe](https://open.spotify.com/track/3Q97tyLwBoqT3hgpXC9h42) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Just Dipping My Toe](https://open.spotify.com/album/5bexksdhIDIVk8vDVaHpgq) | 3:47 | 2022-09-09 |  |
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2021-12-08 | 2022-04-06 |
@@ -519,8 +521,11 @@
 | [Where The River Ends](https://open.spotify.com/track/3CqKDahwi9OVbSqErqolPY) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [Where The River Ends](https://open.spotify.com/album/6B4j3Ib3hKVSFnRvHhsmna) | 1:39 | 2022-07-01 | 2022-10-07 |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2022-11-18 |
 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2022-10-07 |  |
+| [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 | 2023-01-13 |  |
 | [Wings](https://open.spotify.com/track/5xLAxPugJr9xHcF9sfuzQP) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Victorian](https://open.spotify.com/album/0bC7eBMRFhjMOtSTIepws4) | 3:10 | 2022-07-08 | 2022-09-03 |
 | [Winter In Tarifa](https://open.spotify.com/track/1sgGFGC1iftGshE6fH03yL) | [Álvaro Mondo Fernández](https://open.spotify.com/artist/2V18SFrY5UqNXeFLJZlYX9) | [Winter In Tarifa](https://open.spotify.com/album/52S7cB4WieRJMibAj4w2Cv) | 2:05 | 2022-10-28 |  |
+| [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-13 |  |
+| [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-01-13 |  |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2022-07-01 |  |
 | [Wonderland Is Real](https://open.spotify.com/track/7jhgZmvTTPMj20FGQocws1) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Wonderland Is Real](https://open.spotify.com/album/2I1OftcagAk67igxS6Przx) | 3:57 | 2022-10-07 |  |
 | [Woods](https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Woods](https://open.spotify.com/album/6Bsv4F8PGSosuGjvqOn1Pu) | 1:53 | 2022-12-09 |  |

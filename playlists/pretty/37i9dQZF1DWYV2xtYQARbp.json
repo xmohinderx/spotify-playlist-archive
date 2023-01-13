@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 9507,
+  "num_followers": 9525,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDRiZThmNzFiM2MyMmIzYzU4MzZjNTkxN2Y0ZmFiMjRk",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDJmMmJjNmIzYTRkOTM2NzJkYTA3NjM2OWU5MDU0MTBk",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Nitroglycerine",
-      "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Talking 'bout",
         "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 134040,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 232626,
+      "name": "Nitroglycerine",
+      "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Fire of Love (Remastered 2020)",
+        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
+      },
+      "artists": [
+        {
+          "name": "The Gun Club",
+          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+        }
+      ],
+      "duration_ms": 157995,
+      "name": "Promise Me - Remastered 2020",
+      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "I Know You Be Houserockin'",
         "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 183533,
       "name": "I Can't Stop Thinking About It",
       "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Fire of Love (Remastered 2020)",
-        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
-      },
-      "artists": [
-        {
-          "name": "The Gun Club",
-          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
-        }
-      ],
-      "duration_ms": 157995,
-      "name": "Promise Me - Remastered 2020",
-      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
     },
     {
       "added_at": "2022-03-28 20:14:58",

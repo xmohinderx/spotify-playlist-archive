@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "B.O.B.O",
+        "url": "https://open.spotify.com/album/5Jt2hPVNvcrNuMfz2I3wFQ"
+      },
+      "artists": [
+        {
+          "name": "Estelas",
+          "url": "https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "B.O.B.O",
+      "url": "https://open.spotify.com/track/4w7myQXkKXXGASKa9wQAri"
+    },
+    {
+      "album": {
         "name": "College Music Presents: In The Loop",
         "url": "https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya"
       },
@@ -4133,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "On the Corner",
+        "url": "https://open.spotify.com/album/0Kn7xQhZXkqeUi8aSr3Vc1"
+      },
+      "artists": [
+        {
+          "name": "Kid Tar\u00f4",
+          "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132566,
+      "name": "On the Corner",
+      "url": "https://open.spotify.com/track/1FDa7VQ4X1KPCTtfw4huDR"
+    },
+    {
+      "album": {
         "name": "Break Again",
         "url": "https://open.spotify.com/album/1yL7GuPfFfhM1764j3dB6s"
       },
@@ -5476,6 +5512,28 @@
       "duration_ms": 106345,
       "name": "Switch",
       "url": "https://open.spotify.com/track/0cYvmlZCNXdvsjs7GRXFQh"
+    },
+    {
+      "album": {
+        "name": "synesthesia",
+        "url": "https://open.spotify.com/album/28WD8pPSjgs38eXv0FZlTQ"
+      },
+      "artists": [
+        {
+          "name": "WOOLFSON",
+          "url": "https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d"
+        },
+        {
+          "name": "Harvs Le Toad",
+          "url": "https://open.spotify.com/artist/0oHlJUy0hxYquC9wWeezG2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114146,
+      "name": "synesthesia",
+      "url": "https://open.spotify.com/track/3VEJU06N5LAHhmcMiPEQa0"
     },
     {
       "album": {

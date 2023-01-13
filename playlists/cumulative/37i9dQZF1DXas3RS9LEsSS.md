@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-73 songs - 4 hr 57 min
+74 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Preocupado y Aburrido](https://open.spotify.com/track/4u34ORMzURyViyUF2OIks4) | [Alambre Gonzalez](https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU) | [Alambre González & Amigos](https://open.spotify.com/album/6Uyq3DIYiEi3eRVX1m2CHO) | 3:57 | 2020-12-01 |  |
 | [Putreblues](https://open.spotify.com/track/1E9kMrrh3q58raTfz3L0kC) | [Blues Motel](https://open.spotify.com/artist/2VD4qhDrH6pU7dbaK9nuni) | [Abrazo Insomnio](https://open.spotify.com/album/7aw5ksKElZajzM9OPC0MTf) | 4:29 | 2020-12-01 |  |
 | [Que Curioso](https://open.spotify.com/track/2CyvqsB03KpExsynQbXme9) | [Nasta Super](https://open.spotify.com/artist/2BHl0Z177jpqHlFR5f4G9D), [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Sólo por Mí](https://open.spotify.com/album/0B1UcrgwdRhCvHKhECshAZ) | 5:14 | 2020-12-01 |  |
-| [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 | 2022-10-14 |  |
+| [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 | 2022-10-14 | 2023-01-13 |
+| [Que Pena](https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora Es Cuando](https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq) | 2:52 | 2022-10-14 |  |
 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 | 2020-12-01 |  |
 | [Ruta 66](https://open.spotify.com/track/3nl6qTl9qmaWYgNkvxt9v7) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 3:06 | 2020-12-01 | 2022-07-29 |
 | [The King of The Latin Blues \(feat\. Steve Hunter & Bobby Alexander\)](https://open.spotify.com/track/29ovCP4ChViCwSYWYO9TuD) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Bobby Alexander](https://open.spotify.com/artist/4ZmSudkqArrYnDIrQmWi4l) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 4:31 | 2020-12-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 406006,
+  "num_followers": 406275,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTY2MCwwMDAwMDAwMDI4OWYxMTJlYzYwYWNkMjA5NWQ0YjEwODI1NTE5YjYy",
+  "snapshot_id": "MTY3Mjk1OTY2MCwwMDAwMDAwMDhhZGQ3YTEyNzI2NTBhZDEzZjdiMmJiMmM1MDk2N2U2",
   "tracks": [
     {
       "added_at": "2023-01-05 23:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "Back To My Place",
         "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 146949,
+      "name": "SEX IS GOOD BUT HAVE U EVER",
+      "url": "https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
       },
       "artists": [
         {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -547,34 +563,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
       },
       "artists": [
         {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
         }
       ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 146949,
-      "name": "SEX IS GOOD BUT HAVE U EVER",
-      "url": "https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU"
+      "duration_ms": 169000,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Deeper Conversations EP",
-        "url": "https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR"
-      },
-      "artists": [
-        {
-          "name": "Peter Schumann",
-          "url": "https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I"
-        }
-      ],
-      "duration_ms": 481537,
-      "name": "House Magic",
-      "url": "https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "lo-fi_house.zip",
         "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 375000,
       "name": "100 reasons",
       "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Deeper Conversations EP",
+        "url": "https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR"
+      },
+      "artists": [
+        {
+          "name": "Peter Schumann",
+          "url": "https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I"
+        }
+      ],
+      "duration_ms": 481537,
+      "name": "House Magic",
+      "url": "https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "14 Joints in a Spaceship",
-        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
-      },
-      "artists": [
-        {
-          "name": "_tillus",
-          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
-        }
-      ],
-      "duration_ms": 340645,
-      "name": "14 Joints in a Spaceship",
-      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+        "name": "14 Joints in a Spaceship",
+        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
       },
       "artists": [
         {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
         }
       ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+      "duration_ms": 340645,
+      "name": "14 Joints in a Spaceship",
+      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -739,6 +723,22 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -795,38 +795,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "10Min JAM_V2",
-        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
-      },
-      "artists": [
-        {
-          "name": "Berus",
-          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
-        }
-      ],
-      "duration_ms": 99495,
-      "name": "10Min JAM_V2",
-      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
-        "name": "Mellow Mornings",
-        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
-      },
-      "artists": [
-        {
-          "name": "Shopan",
-          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
-        }
-      ],
-      "duration_ms": 154814,
-      "name": "Mellow Mornings",
-      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "breath tapes",
         "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 215222,
       "name": "suddenly",
       "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "10Min JAM_V2",
+        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
+      },
+      "artists": [
+        {
+          "name": "Berus",
+          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
+        }
+      ],
+      "duration_ms": 99495,
+      "name": "10Min JAM_V2",
+      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -859,34 +843,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Kelch 3",
-        "url": "https://open.spotify.com/album/3jwaDpSUtAgBXOTasnH7rf"
+        "name": "Mellow Mornings",
+        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
       },
       "artists": [
         {
-          "name": "Robert Babicz",
-          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+          "name": "Shopan",
+          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
         }
       ],
-      "duration_ms": 433147,
-      "name": "Paradise Lost",
-      "url": "https://open.spotify.com/track/0YrLUslQDapsSlPeOdjTjq"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 230748,
-      "name": "True Romance (Maja Edit)",
-      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+      "duration_ms": 154814,
+      "name": "Mellow Mornings",
+      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -911,18 +879,34 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Invisible Man",
-        "url": "https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq"
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
       },
       "artists": [
         {
-          "name": "Ayzon",
-          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
         }
       ],
-      "duration_ms": 176482,
-      "name": "YOU CAN DO IT",
-      "url": "https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4"
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Kelch 3",
+        "url": "https://open.spotify.com/album/3jwaDpSUtAgBXOTasnH7rf"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "duration_ms": 433147,
+      "name": "Paradise Lost",
+      "url": "https://open.spotify.com/track/0YrLUslQDapsSlPeOdjTjq"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -939,6 +923,46 @@
       "duration_ms": 275131,
       "name": "Chilli Heatwave",
       "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Invisible Man",
+        "url": "https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq"
+      },
+      "artists": [
+        {
+          "name": "Ayzon",
+          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
+        }
+      ],
+      "duration_ms": 176482,
+      "name": "YOU CAN DO IT",
+      "url": "https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Watarase",
+        "url": "https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7"
+      },
+      "artists": [
+        {
+          "name": "Fumio Itabashi",
+          "url": "https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        },
+        {
+          "name": "Kuniyuki",
+          "url": "https://open.spotify.com/artist/2VSRaCnQFPp4C5Xo2UuIzl"
+        }
+      ],
+      "duration_ms": 409619,
+      "name": "Watarase - Henrik Schwarz Version",
+      "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -963,38 +987,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Nunca Mais",
-        "url": "https://open.spotify.com/album/7D3xxINz3rlq2of2T5AVb0"
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
       "artists": [
         {
-          "name": "Gayance",
-          "url": "https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic"
-        },
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq"
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Nunca Mais",
-      "url": "https://open.spotify.com/track/7aB7N3XsgHhkAb9sULXsdn"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 221900,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw"
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2023-01-05 23:01:00",

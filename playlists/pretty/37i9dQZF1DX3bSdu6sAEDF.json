@@ -1,12 +1,12 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 483792,
+  "num_followers": 483794,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDA1ZDJkM2RkMjAxYzlmZjhiZTRjNzhiYjM3NjhlNDk2",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGI5ZTIzMjA5YjAxZGIzNzQ0MmVlMTEzYjk5NzEwYmNj",
   "tracks": [
     {
       "added_at": "2022-12-02 05:01:00",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
       "added_at": "2022-01-19 18:36:18",
       "album": {
         "name": "Fall Into Me",
@@ -475,6 +459,22 @@
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2022-01-19 18:36:18",

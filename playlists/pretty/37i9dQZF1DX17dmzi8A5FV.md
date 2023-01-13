@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 ### [Ultimate Boybands](https://open.spotify.com/playlist/37i9dQZF1DX17dmzi8A5FV)
 
-> All the biggest hits from the biggest boybands\. Cover: BTS
+> All the biggest hits from the biggest boybands!  Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,549 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,736 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 74 | [House of Love](https://open.spotify.com/track/0HgDGw5QDBIfDCTIrdV1Tx) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Walthamstow](https://open.spotify.com/album/5hVUeW05qGAIc1YA3h2Y7O) | 4:29 |
 | 75 | [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 |
 
-Snapshot ID: `MTY3MTc3MzIxMywwMDAwMDAwMGEyNTU3NDU1YjQzNzNkYWJkMzVlODgyN2I2Nzg3NjBk`
+Snapshot ID: `MTY3MTc3MzIxMywwMDAwMDAwMDA1YTczZTk0Nzg3Mjk0NzY3ZWMyYjRiNzNmMzIxYTFj`

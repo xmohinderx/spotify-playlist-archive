@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-169 songs - 9 hr 20 min
+170 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Mal Agüero](https://open.spotify.com/track/1eg8EWKfaRltn806sZvuDa) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Mal Agüero](https://open.spotify.com/album/0o0Kw1aYR6GShDsEk1jML9) | 3:41 | 2022-01-21 |  |
 | [Mala Rata](https://open.spotify.com/track/1k87K4HuqbvBwRoDOAr9Cl) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Tork](https://open.spotify.com/artist/2gZByjNu2u3Zs9x3BUdCzY) | [Mala Rata](https://open.spotify.com/album/284jtZLcOUO8oq72sUB4PF) | 3:20 | 2022-08-04 | 2022-09-17 |
 | [Man On The Moon](https://open.spotify.com/track/51H6AVeUAybOfvVukBMVqQ) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Sceno](https://open.spotify.com/artist/75CrPxuxEtojeIeFidQeMH), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Man On The Moon](https://open.spotify.com/album/3P0Ghlma3E7wcq58X1sOyW) | 2:58 | 2022-01-21 | 2022-03-05 |
-| [Mar de Males](https://open.spotify.com/track/2dt8G6Jx5Ngp5WKvZQoXf1) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/64lovgnKDKb6b0RZrgRozI) | 3:36 | 2022-01-21 |  |
+| [Mar de Males](https://open.spotify.com/track/2dt8G6Jx5Ngp5WKvZQoXf1) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/64lovgnKDKb6b0RZrgRozI) | 3:36 | 2022-01-21 | 2023-01-13 |
+| [Mar de Males](https://open.spotify.com/track/7ox34DRBx7WjFQkeukX2Zd) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/7kmm1jkiaazsTLMW0OX6MC) | 3:36 | 2022-12-05 |  |
 | [Marbella](https://open.spotify.com/track/2x24RnqY2Q2KwFpTZd3sCX) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Playa Virginia](https://open.spotify.com/album/5uixDevlvCeyO7Ns1KYHp9) | 3:12 | 2022-10-28 | 2022-11-22 |
 | [Marciana](https://open.spotify.com/track/51jkZND8TQ9JHFKXMLvxIf) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Marciana](https://open.spotify.com/album/2z3guyyKU1RNMP7b3AYi5m) | 2:58 | 2022-06-21 | 2022-07-20 |
 | [Marvin](https://open.spotify.com/track/2A2gwWp7rMVCJUGkZ9wWTd) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Marvin](https://open.spotify.com/album/5QCTjbwZed8JuADmPG1Dgj) | 4:56 | 2022-01-21 | 2022-02-05 |

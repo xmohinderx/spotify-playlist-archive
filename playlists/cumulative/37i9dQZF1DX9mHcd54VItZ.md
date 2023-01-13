@@ -4,7 +4,7 @@
 
 > Only the best in South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
 
-170 songs - 10 hr 4 min
+172 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 | 2022-05-27 |
 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 | 2022-11-24 |  |
 | [Autobiography of an Evening](https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Autobiography of an Evening](https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF) | 3:11 | 2022-04-08 | 2022-09-03 |
-| [Awake](https://open.spotify.com/track/25TN22SHRxXPlPlobiyXr6) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/3WzW1B4xGh1xTVJaAFvLsW) | 4:20 | 2022-04-28 |  |
+| [Awake](https://open.spotify.com/track/25TN22SHRxXPlPlobiyXr6) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/3WzW1B4xGh1xTVJaAFvLsW) | 4:20 | 2022-04-28 | 2023-01-13 |
 | [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 | 2022-04-28 | 2022-11-13 |
 | [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 | 2022-11-11 |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
@@ -112,6 +112,7 @@
 | [Ons Het Gewen](https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Ons Het Gewen](https://open.spotify.com/album/2hJ1WMh8F9qtnLHpgr9J3O) | 3:02 | 2021-06-10 | 2022-11-18 |
 | [Out & About](https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj) | [Nomadic Orchestra](https://open.spotify.com/artist/27EGFQK4v27KEpLcdJhORE) | [Out & About](https://open.spotify.com/album/4HHFN1jXBNoSxpHUUupEbJ) | 2:52 | 2021-12-09 | 2022-09-16 |
 | [Outer Space](https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Outer Space](https://open.spotify.com/album/5LsVvRpDG6HIju5gZK1gRe) | 4:00 | 2022-02-17 | 2022-08-05 |
+| [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 | 2023-01-12 |  |
 | [OVERTHINKING](https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Christian James](https://open.spotify.com/artist/3vIPpGcOC1CWD5MVg9xX8x) | [OVERTHINKING](https://open.spotify.com/album/5N6VbOBsJUIaMlihQn6S5M) | 1:48 | 2022-05-26 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |
@@ -122,7 +123,7 @@
 | [Raise a Glass](https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70) | [Kabaal Klankbaan](https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb) | [Hunted Women](https://open.spotify.com/album/1NLDUu7ubHfSYJhJG8nEUp) | 3:08 | 2021-11-11 | 2022-03-18 |
 | [Ready to Die](https://open.spotify.com/track/0s0DYUz6tg1Ma14AV2zD9R) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Ready to Die](https://open.spotify.com/album/3stCq0SbASgsSGZH2cjMb1) | 3:50 | 2022-03-17 | 2022-09-23 |
 | [Red Handed](https://open.spotify.com/track/2G0YeSyBBpGRDk1p2xMZe8) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 5:07 | 2022-03-31 | 2022-11-18 |
-| [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 | 2022-04-08 |  |
+| [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 | 2022-04-08 | 2023-01-13 |
 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 | 2022-09-15 | 2022-11-18 |
 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 | 2022-12-01 |  |
 | [Selfish Lover](https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:14 | 2022-02-25 | 2022-03-19 |
@@ -141,6 +142,7 @@
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 | 2022-09-23 |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 | 2022-08-05 |
 | [Soul Parasite](https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:31 | 2022-02-25 | 2022-11-25 |
+| [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 | 2023-01-12 |  |
 | [State of Emergency](https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [State of Emergency](https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj) | 3:12 | 2021-10-14 | 2022-03-25 |
 | [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 | 2022-09-22 |  |
 | [Suburban Casualty](https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K) | [Julian Place](https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr) | [Suburban Casualty](https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI) | 3:54 | 2022-12-08 |  |

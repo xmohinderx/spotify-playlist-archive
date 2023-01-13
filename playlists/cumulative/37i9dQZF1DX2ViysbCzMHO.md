@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-210 songs - 11 hr 34 min
+211 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Next Girl \- Live](https://open.spotify.com/track/2ooUIGpVzp1ShWDUnc1CPa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl \(Live\)](https://open.spotify.com/album/6Tlu6gZUgwBuSlrcSsxH44) | 2:43 | 2021-12-17 | 2022-07-27 |
 | [No Daylight](https://open.spotify.com/track/1TPLR8pO3aE6KnG2Wj7SmO) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [No Daylight](https://open.spotify.com/album/0Olp5J32pg0Gcq1GDDUzKj) | 4:15 | 2021-12-17 | 2022-07-29 |
 | [No Now](https://open.spotify.com/track/6QqXvIQk3T9jLQq6aSynAU) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:37 | 2021-12-17 | 2022-07-19 |
+| [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:44 | 2023-01-06 |  |
 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr) | 2:44 | 2022-03-11 | 2022-10-08 |
 | [Nothing's Better \(stripped\)](https://open.spotify.com/track/7LrZr7EXh5KRqE9s6Tl1Te) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nothing's Better \(stripped\)](https://open.spotify.com/album/330eJ14qrFWqFF3gcKgs1r) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [One Of These Days \- sad piano version](https://open.spotify.com/track/6y9Zf5yNGmLPOQhjUuAAP9) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days \(sad piano version\)](https://open.spotify.com/album/4mi2BDMTw7pfqhGibxmmBJ) | 3:38 | 2022-04-29 | 2022-08-08 |
@@ -185,7 +186,7 @@
 | [Thought This Through](https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Thought This Through](https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC) | 2:52 | 2021-12-17 |  |
 | [Tired of Flying](https://open.spotify.com/track/0KwQzDrdpYsXLPsEJ0d5bj) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Tired of Flying](https://open.spotify.com/album/6PEIJVqo2koMRHcpaSNdKf) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Truth About You \- Piano Version](https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You \(Piano Version\)](https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM) | 3:25 | 2021-12-17 |  |
-| [Turning Stones](https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Turning Stones](https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE) | 2:26 | 2022-10-21 |  |
+| [Turning Stones](https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Turning Stones](https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE) | 2:26 | 2022-10-21 | 2023-01-13 |
 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 | 2021-12-17 |  |
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD) | 3:05 | 2022-07-15 |  |
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5jZgXhm2cSQmOTDJQENojy) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/7216gXKQDpH8s38HJasmhS) | 3:05 | 2021-12-17 | 2022-07-29 |

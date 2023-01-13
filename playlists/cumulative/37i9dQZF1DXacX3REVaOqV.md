@@ -4,7 +4,7 @@
 
 > The best in house music
 
-284 songs - 20 hr 55 min
+285 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-14 |  |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2022-04-14 |  |
 | [TALI](https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [TALI](https://open.spotify.com/album/2xjaexaUErg3fBhqoRRzKS) | 6:31 | 2022-04-26 | 2022-07-29 |
-| [TALI](https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:31 | 2022-12-22 |  |
+| [TALI](https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:31 | 2022-12-22 | 2023-01-13 |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-12 | 2022-06-03 |
 | [Tell You What It Is \- Shermanology SoulTec Mix](https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is \(Shermanology SoulTec Mix\)](https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV) | 3:39 | 2022-06-02 |  |
 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 | 2022-04-14 |  |
@@ -274,6 +274,7 @@
 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 | 2022-04-14 | 2022-11-19 |
 | [Warning \(feat\. Lynn Lockamy\) \- Mixed](https://open.spotify.com/track/4lVQ27mBsZva3LVf216HcQ) | [Rhemi](https://open.spotify.com/artist/6OJ0BWygNpfxuUmT43DBde), [Lynn Lockamy](https://open.spotify.com/artist/2XOEklbTNr4EWToREJRBSp) | [Defected Ibiza 2017 \(Mixed\)](https://open.spotify.com/album/26ork6IJgSSdV3Xt9tOsyr) | 4:38 | 2022-04-14 | 2022-07-28 |
 | [We Are The One](https://open.spotify.com/track/4uz0UYsssS48EJhUoxizFQ) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Brillstein](https://open.spotify.com/artist/1kSRf6gfG0ogCiEszdaHER), [DJ Vas](https://open.spotify.com/artist/1OkLz8h6zrd7o9GPsYj3sU) | [Play It Down 100](https://open.spotify.com/album/4uQ9tLHsZ1E4TRqiBhQBQF) | 6:19 | 2022-04-14 |  |
+| [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-12 |  |
 | [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2022-04-14 |  |
 | [When U Go \- Edit](https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [When U Go](https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI) | 3:32 | 2022-04-20 | 2022-10-14 |
 | [Whisper \(with James Yuill\)](https://open.spotify.com/track/0RwDjtiwRatY6Ai8z5AIna) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [James Yuill](https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps) | [Whisper \(with James Yuill\)](https://open.spotify.com/album/4ySI6Tst0tSVb7papl2evR) | 2:40 | 2022-04-14 |  |

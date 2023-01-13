@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-402 songs - 18 hr 8 min
+406 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/3Eg6NOSgAuaA3wmTcvDFUI) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Cherry Blossom](https://open.spotify.com/album/2lIfecqavjn0OLbc1YCapM) | 1:50 | 2021-12-08 | 2022-06-10 |
 | [Chiara](https://open.spotify.com/track/2ebDPxcvmDGVyvXeIMnjWk) | [Joseph Winkler](https://open.spotify.com/artist/7kRkQ9MMlq3wIzX6LOJbhr) | [Chiara](https://open.spotify.com/album/66SeV3uOJWL9qxrYDkKBph) | 3:32 | 2021-12-08 | 2022-08-05 |
 | [Chinar Es \(Arr\. by João Kouyoumdjian\)](https://open.spotify.com/track/2NIOzaefQJpBxnuMMaI8Om) | [Komitas](https://open.spotify.com/artist/4Yiwp7GT4REEHykKPHSWv3), [João Kouyoumdjian](https://open.spotify.com/artist/097DtxFwNclp8H7VUPsRx1) | [Gakavig Fantasy: Armenian Music Arranged & Composed for Classical Guitar](https://open.spotify.com/album/7gnyqhBCrjcYap8XFfry1D) | 2:57 | 2022-06-24 | 2022-12-10 |
+| [Claim on the future](https://open.spotify.com/track/1hS0hVNC5GpM6MAD4jxd8K) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Claim on the future](https://open.spotify.com/album/2JNt3pBwJk8VjEt06E3kcC) | 2:09 | 2023-01-13 |  |
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-05-27 | 2022-10-07 |
 | [Colors Of Spirit](https://open.spotify.com/track/0usXBNEX4RoDTQODT1ZJEO) | [Iron Ore](https://open.spotify.com/artist/4kgygMrQyq2ABMHuhm07fZ) | [Colors Of Spirit](https://open.spotify.com/album/75y49kivSa0YKGV050ODBr) | 4:03 | 2022-10-07 |  |
 | [Come With Me](https://open.spotify.com/track/0RafPtjiIYR2VcS9JortFA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Used To Be You](https://open.spotify.com/album/2lcIAj5uXylIb7Lz8QRIdW) | 2:56 | 2022-10-07 |  |
@@ -187,6 +188,8 @@
 | [Labyrinth](https://open.spotify.com/track/56GaSp5xjMWEwsbSnI35JQ) | [Gairloch](https://open.spotify.com/artist/6EHbx04jKV7mm9YB8X3Ywd) | [Labyrinth](https://open.spotify.com/album/4E8Eyp8NYNqSRtxPp5F59Y) | 2:32 | 2021-12-08 | 2022-02-02 |
 | [Lagoon Mirim](https://open.spotify.com/track/75dxJIXB8A184w1TiDUMhu) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Vieques](https://open.spotify.com/album/7a3lu2zOOxadhzI3Z2cRpV) | 2:49 | 2021-12-08 | 2022-04-06 |
 | [Lake Michigan](https://open.spotify.com/track/3JJperyiS45dHKTBeDNyaT) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Lake Michigan](https://open.spotify.com/album/6rNNYU4OAgapOr4dr8DO35) | 1:54 | 2022-11-25 |  |
+| [Lakes of Covadonga](https://open.spotify.com/track/03Vp5T4fXcsPL0cUTiKDy8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Lakes of Covadonga](https://open.spotify.com/album/22qbaZkVfusEm4ljcynslY) | 2:23 | 2023-01-13 |  |
+| [Landers](https://open.spotify.com/track/6HHfL2CCnQaCqNFIisujwc) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Landers](https://open.spotify.com/album/4nVN5RTxkCYoFXoSaaI9lG) | 2:43 | 2023-01-13 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-05 |  |
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2022-01-11 |  |
 | [Last Light](https://open.spotify.com/track/0uaPSyka3LHsbwWyENj4pZ) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Last Light](https://open.spotify.com/album/0SRaNgW2jcWKEVBpFvUqhp) | 2:24 | 2023-01-06 |  |
@@ -247,6 +250,7 @@
 | [No es mi mente](https://open.spotify.com/track/7ni5mRayDGv27vipkVC1Gg) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [No es mi mente](https://open.spotify.com/album/1bus1UdLODz3yjXO1czJKt) | 2:30 | 2021-12-08 |  |
 | [Norske Danser](https://open.spotify.com/track/6xXLnSFpf5WViZrDbLr7n2) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Norske Danser](https://open.spotify.com/album/2YpOK5hE3INrNHYZwMpWW3) | 3:12 | 2021-12-08 | 2022-04-06 |
 | [Nostalgia](https://open.spotify.com/track/5fFb1wh3iw9mqIuQmKmEwW) | [Sylvain Lowe](https://open.spotify.com/artist/6R5QFCQdTlzmpIq18rRLw7) | [Nostalgia](https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ) | 3:35 | 2021-12-08 |  |
+| [Nothing But The Voice](https://open.spotify.com/track/3q28VuO8a9Xp7ny9Etai55) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Nothing But The Voice](https://open.spotify.com/album/3GQE8sJgKYDPGgJx5J9l65) | 2:38 | 2023-01-13 |  |
 | [Nuages](https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ) | [Alain Levet](https://open.spotify.com/artist/6P8zq55n2r1dlVgQuIRZcM) | [Nuages](https://open.spotify.com/album/1PlJ20AoHnT8YM3upB3ViZ) | 2:05 | 2021-12-08 | 2022-06-17 |
 | [Nunchi](https://open.spotify.com/track/56dSERi4dcA0Hv9VXHpfZq) | [Nike Calla](https://open.spotify.com/artist/6zZwjc4tZSFUjkHu3MrFxV) | [Nunchi](https://open.spotify.com/album/74YL0JSKlpzABHMKdmzIYS) | 2:00 | 2023-01-06 |  |
 | [Nuvens e o mar](https://open.spotify.com/track/30ysQXKf4nbCOsXMpg4v7Y) | [Flaudicia](https://open.spotify.com/artist/1JEhjxH1R2Jvu17PzmphGl) | [Nuvens e o mar](https://open.spotify.com/album/7o3XGmZuDlvSZr6ox3jrWE) | 2:51 | 2021-12-08 |  |

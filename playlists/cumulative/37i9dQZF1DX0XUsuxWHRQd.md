@@ -4,7 +4,7 @@
 
 > Music by Moneybagg Yo, Lil Durk, Drake and 21 Savage.
 
-1,471 songs - 3 day 3 hr 48 min
+1,472 songs - 3 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [MONEY ON ME](https://open.spotify.com/track/681ZlxQVB8XBPRZD1Wk4oi) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [MONEY ON ME](https://open.spotify.com/album/2Vp1RasgkrsG8iDul3p7OE) | 2:23 | 2021-07-24 | 2021-08-07 |
 | [Money Talk](https://open.spotify.com/track/2YwC2IM0ykBxtMBH9aMe5m) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Money Talk](https://open.spotify.com/album/7BdXFwf9b2bnQ8w9A7GYwE) | 2:54 | 2020-01-17 | 2020-02-07 |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2022-10-20 | 2022-10-22 |
+| [Money, Power & Respect \(feat\. DMX & Lil' Kim\)](https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Money, Power & Respect](https://open.spotify.com/album/1fkGVz3LWxjax7F0Mrj3f5) | 4:30 | 2023-01-12 |  |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-21 | 2022-05-14 |
 | [Mood Swings](https://open.spotify.com/track/2xE16muNCmhZwSOv3i1d1H) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Mood Swings](https://open.spotify.com/album/0ewO3paYhoJwMGX1Yjyebw) | 2:36 | 2019-09-13 | 2019-12-13 |
 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 | 2020-08-07 | 2020-08-14 |

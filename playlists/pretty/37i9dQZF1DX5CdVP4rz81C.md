@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,816 likes - 81 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,113 likes - 81 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,6 +88,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 78 | [break my heart](https://open.spotify.com/track/5nlKcuzD8Pd79njhGXt1vT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [break my heart](https://open.spotify.com/album/3Bx72slNcFS4gRjmtiBl7b) | 2:58 |
 | 79 | [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 |
 | 80 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 |
-| 81 | [Up In The Sky](https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Up In The Sky](https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd) | 3:53 |
+| 81 | [Up In The Sky](https://open.spotify.com/track/6aiwsDQ9wttCKCzEllCFiN) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Up In The Sky](https://open.spotify.com/album/6PzvzVKOu8vwDYxxeurUAW) | 3:53 |
 
-Snapshot ID: `MTY3MzA0MzA1NSwwMDAwMDAwMDVhODRkMzg2NDg5NWYyMDhiZDg3OTdkNjlkOWJiMDNj`
+Snapshot ID: `MTY3MzA0MzA1NSwwMDAwMDAwMGVkYTBkN2E5OTEwMmMzMzFjZTJiYTcyZGQxNjI1OGY2`

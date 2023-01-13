@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ"
+      },
+      "artists": [
+        {
+          "name": "Sharmoofers",
+          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149420,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim"
+    },
+    {
+      "album": {
         "name": "CARTHA",
         "url": "https://open.spotify.com/album/4ivmPNd6b6xmwNJN2iXzOH"
       },
@@ -1824,6 +1842,24 @@
       "duration_ms": 151110,
       "name": "Good Morning Baby",
       "url": "https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU"
+    },
+    {
+      "album": {
+        "name": "Habeena",
+        "url": "https://open.spotify.com/album/5YeLEiEYQMMvDNC46cKLGx"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198855,
+      "name": "Habeena",
+      "url": "https://open.spotify.com/track/4IoEukjtpg13X8pPHZidgH"
     },
     {
       "album": {
@@ -4228,7 +4264,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 223469,
       "name": "Welad El Nas",
       "url": "https://open.spotify.com/track/7IVOH9iOYCLh4ghPc2IjEn"
@@ -4578,7 +4614,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 198545,
       "name": "\u0627\u062d\u0646\u0627 \u0641\u064a \u062d\u062a\u0629 \u062a\u0627\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/2qf81ena3saXA1BHE9Kbxk"
@@ -4742,6 +4778,24 @@
       "duration_ms": 177560,
       "name": "\u0627\u0646\u062a \u0627\u0644\u0623\u0635\u0644",
       "url": "https://open.spotify.com/track/35wZyDR2zaKlPRhT0x3sdt"
+    },
+    {
+      "album": {
+        "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
+        "url": "https://open.spotify.com/album/5ZaJ1VJlCJWf3pjUSdTb3Z"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217787,
+      "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
+      "url": "https://open.spotify.com/track/652w7al7VpQIS7zBsU2gY9"
     },
     {
       "album": {
@@ -5390,7 +5444,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 216356,
       "name": "\u064a\u0645\u0643\u0646 \u062e\u064a\u0631",
       "url": "https://open.spotify.com/track/70pc3FZNGfIHJ2pnU4fJBA"

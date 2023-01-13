@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 128000,
       "name": "Belor\u00e1",
       "url": "https://open.spotify.com/track/0TjZORJlPmVEbJSmxmsqgm"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 140000,
       "name": "Bon Clay",
       "url": "https://open.spotify.com/track/0A2Jy5sjNZeFxqHvUGTMgq"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 187058,
       "name": "Dripht",
       "url": "https://open.spotify.com/track/0OGA7zBgWPrd0FW6au6TVN"
@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Magic Mellow",
+        "url": "https://open.spotify.com/album/0pHQbJIEfpoazU7rhbIrXi"
+      },
+      "artists": [
+        {
+          "name": "KaspaHauser",
+          "url": "https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143693,
+      "name": "Magic Mellow",
+      "url": "https://open.spotify.com/track/4r4zfbVrsRbxkIi1Oq0nVz"
+    },
+    {
+      "album": {
         "name": "Manteuffel",
         "url": "https://open.spotify.com/album/1f2H3WKDJKnQAi4JcJYDO4"
       },
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 154173,
       "name": "Mercurial",
       "url": "https://open.spotify.com/track/1XsNK59EhoEqsM9UFX8p1K"
@@ -3588,6 +3606,24 @@
       "duration_ms": 170232,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/7Ie8lJIE5yvP3a68q8OnDD"
+    },
+    {
+      "album": {
+        "name": "One Year",
+        "url": "https://open.spotify.com/album/5FSxO4bGZiFWPrCgrjDU62"
+      },
+      "artists": [
+        {
+          "name": "DYVN",
+          "url": "https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "One Year",
+      "url": "https://open.spotify.com/track/5Lqhf0MAaWVY0IlWZkPa3w"
     },
     {
       "album": {
@@ -5391,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Wisdome",
+        "url": "https://open.spotify.com/album/5stwyaVvtsLDZYjwYEX4xh"
+      },
+      "artists": [
+        {
+          "name": "Vilda C",
+          "url": "https://open.spotify.com/artist/5N7Z08HAUyapDLBRoW6m5I"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71153,
+      "name": "Wisdome",
+      "url": "https://open.spotify.com/track/0unuwNzX708VxHAAXKGsVG"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1lBJll6oj2KKlaQXoEXlDk"
       },
@@ -5424,6 +5478,28 @@
       "duration_ms": 169750,
       "name": "Yadaf",
       "url": "https://open.spotify.com/track/108uhYQrnQtJ7W0fUEGrff"
+    },
+    {
+      "album": {
+        "name": "You Gave Me Your Phone",
+        "url": "https://open.spotify.com/album/7zZ8VuEwBprTTvWkoglRrz"
+      },
+      "artists": [
+        {
+          "name": "Altair Blake",
+          "url": "https://open.spotify.com/artist/7GHdxiYiGpD4ZHM3jfyIOr"
+        },
+        {
+          "name": "Amadezia",
+          "url": "https://open.spotify.com/artist/0mYyBuMUxKUAcvOxgBe5uR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "You Gave Me Your Phone",
+      "url": "https://open.spotify.com/track/0LT4gakUZZ4rZRT4fqAN7e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdLK5wjKyhVm"

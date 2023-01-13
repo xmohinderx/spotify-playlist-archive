@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Albiceleste",
+        "url": "https://open.spotify.com/album/3r7eBEkJvRHOO9yKZyGMmF"
+      },
+      "artists": [
+        {
+          "name": "Elisa Higgs",
+          "url": "https://open.spotify.com/artist/57W9BWXBXBGuRgGnyWogps"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256640,
+      "name": "Albiceleste",
+      "url": "https://open.spotify.com/track/1LiAUwPURWhY2F6p7zecXH"
+    },
+    {
+      "album": {
         "name": "Alfredo",
         "url": "https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr"
       },
@@ -922,6 +940,24 @@
       "duration_ms": 231111,
       "name": "call me baby",
       "url": "https://open.spotify.com/track/0hMigou1Jhjczm0Hr1Ocqw"
+    },
+    {
+      "album": {
+        "name": "calm down",
+        "url": "https://open.spotify.com/album/2bMxPgd0LHaQiXulRb1gFC"
+      },
+      "artists": [
+        {
+          "name": "Penga Scain",
+          "url": "https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128804,
+      "name": "calm down",
+      "url": "https://open.spotify.com/track/5SgKvrdnB9t3uxvfyQ54Mo"
     },
     {
       "album": {
@@ -4228,6 +4264,24 @@
       "duration_ms": 192300,
       "name": "Star Reflections",
       "url": "https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0"
+    },
+    {
+      "album": {
+        "name": "Sthlm Snow",
+        "url": "https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme"
+      },
+      "artists": [
+        {
+          "name": "Maea Sid",
+          "url": "https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201627,
+      "name": "Sthlm Snow",
+      "url": "https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf"
     },
     {
       "album": {

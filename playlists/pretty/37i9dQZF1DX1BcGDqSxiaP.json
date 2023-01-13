@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 16855,
+  "num_followers": 16868,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMGEyN2JlNTc0N2M2MjI4YTA5ZDIwOTE0ZTBhZTk4MWQz",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDg3MGI4ZmQ4OWRkMWQxMzljMzE5NGQxZmE1NmU1Zjdm",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -291,6 +291,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Winning Hand",
+        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Sound Of A Broken Man",
+      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Let's Buzz",
         "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 219066,
       "name": "Wild About You, Baby",
       "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Winning Hand",
-        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Sound Of A Broken Man",
-      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
     },
     {
       "added_at": "2020-09-21 10:42:33",

@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-257 songs - 16 hr 36 min
+258 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [I Touch Myself](https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW) | [Anekka](https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd), [Brazilian Jazz Cuts](https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o) | [I Touch Myself](https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu) | 3:20 | 2021-11-19 | 2022-11-25 |
 | [I Will Fly](https://open.spotify.com/track/0IpMEZdKu7FB5KOpNEg8x3) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Journey](https://open.spotify.com/album/3SH84FCoy3IDaXQBZPBqsJ) | 3:40 | 2021-11-19 | 2022-02-09 |
 | [I'd Run to the Moon](https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP) | [Meryl Rudy](https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc), [Sophie Wellington](https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C) | [Featuring EP](https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC) | 2:56 | 2021-11-19 | 2022-11-25 |
+| [I'll Be Seeing You](https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [I'll Be Seeing You](https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy) | 2:30 | 2023-01-12 |  |
 | [I'm Alive](https://open.spotify.com/track/1HnAHTqxft8BhqvNYiGrSF) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Pick Me Up Off The Floor \(Deluxe Edition\)](https://open.spotify.com/album/6Qlru4pwL5Xf6zp0syH6RU) | 4:16 | 2022-02-08 | 2022-12-09 |
 | [If I'd Had Your Heart](https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U) | [Untitled](https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE) | [Reverie](https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt) | 3:49 | 2022-07-14 | 2022-11-25 |
 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 | 2021-11-19 | 2022-07-29 |
@@ -179,7 +180,7 @@
 | [My Cherie Amour](https://open.spotify.com/track/0bE5p8nLKOyUGKiQZUO0bw) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [My Cherie Amour](https://open.spotify.com/album/4GdXMNeDeA8HES1Lx9Ilht) | 3:16 | 2021-11-19 | 2022-07-29 |
 | [My Cherie Amour](https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 3:16 | 2022-07-14 |  |
 | [My One and Only Love](https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK) | [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [My One and Only Love](https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S) | 4:06 | 2021-11-19 | 2022-11-25 |
-| [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 | 2021-11-19 |  |
+| [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 | 2021-11-19 | 2023-01-13 |
 | [New Orleans](https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn) | [Elly Hoyt](https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG) | [The Composers' Voice: Celebrating Australian Women Composers](https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y) | 3:19 | 2021-11-19 | 2022-11-25 |
 | [No Meanness](https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [No Meanness](https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj) | 3:58 | 2021-11-19 |  |
 | [Not for Me](https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not For Me](https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd) | 4:03 | 2021-11-19 | 2022-11-25 |

@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-400 songs - 17 hr 38 min
+401 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Apologize](https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Apologize](https://open.spotify.com/album/6vJNBwBTkIuRRPIdbyJCH2) | 2:26 | 2022-01-13 | 2022-10-12 |
 | [Apologize](https://open.spotify.com/track/0l1E291U7ZCyuDa2C3HVTX) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Apologize](https://open.spotify.com/album/4Ip6BPr0KtnxAl5z6R98tG) | 2:26 | 2022-10-11 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Astronaut In The Ocean](https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg) | 2:13 | 2022-01-13 |  |
-| [Astronaut In The Ocean](https://open.spotify.com/track/02SYgGfAb4sD5JiPfu8JKk) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42) | [Astronaut In The Ocean](https://open.spotify.com/album/4QxNGi6jYv1kGGluY7jqa7) | 3:01 | 2022-01-13 |  |
+| [Astronaut In The Ocean](https://open.spotify.com/track/02SYgGfAb4sD5JiPfu8JKk) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42) | [Astronaut In The Ocean](https://open.spotify.com/album/4QxNGi6jYv1kGGluY7jqa7) | 3:01 | 2022-01-13 | 2023-01-13 |
+| [Astronaut In The Ocean](https://open.spotify.com/track/4OVmZkBJ5s5U4g1yRCHDeR) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42) | [Music Paradise 2023](https://open.spotify.com/album/2LKnEJQ6FM0nWV7lOTjb0A) | 3:01 | 2022-10-27 |  |
 | [Ayo Technology \- Dimitri Vegas Edit](https://open.spotify.com/track/6A1CXveAYSTsfX9l86pEbd) | [Dino Warriors](https://open.spotify.com/artist/59d7SdvkSXhrqrPUKF7WYM), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Ayo Technology \(Dimitri Vegas Edit\)](https://open.spotify.com/album/6AVMYhtBTLLZYhIdlPMCor) | 2:53 | 2022-01-13 |  |
 | [Bad Day](https://open.spotify.com/track/3VPrQOtCuEs1CpTOfqAqhY) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Tim Savey](https://open.spotify.com/artist/3TEL2DJbZdLd1YzZ39lDvL) | [Bad Day](https://open.spotify.com/album/2t2mIPzXkT9DI41TJf2VOF) | 2:43 | 2022-06-28 |  |
 | [Bad Habits](https://open.spotify.com/track/3Vmp5MScokXmDWMtrYrPXq) | [Cour](https://open.spotify.com/artist/2wXlDjhPhTLuw6Fs6vc2xS), [Onda Norte](https://open.spotify.com/artist/1bQ3iOIv9mCNc5AZrMZe6E) | [Bad Habits](https://open.spotify.com/album/4qN5IswckA7VnTVhgN2sf0) | 2:31 | 2022-02-24 |  |

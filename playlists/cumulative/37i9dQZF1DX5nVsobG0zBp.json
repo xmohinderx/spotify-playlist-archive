@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 147820,
       "name": "Conclus\u00e3o",
       "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
@@ -648,6 +648,24 @@
       "duration_ms": 182362,
       "name": "Galileu",
       "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/6SHG5fLpeFLKiMERSwkSWu"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192232,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0K5qOmqrJa7tk2RxE0sZxw"
     },
     {
       "album": {
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 214872,
       "name": "Vivi Good",
       "url": "https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 144881,
       "name": "Volta",
       "url": "https://open.spotify.com/track/7CPEsaAl6Itcr0r7g9jUhR"

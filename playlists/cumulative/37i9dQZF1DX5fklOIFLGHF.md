@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-269 songs - 17 hr 53 min
+270 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Don Luis](https://open.spotify.com/track/68XyowC5GNGLnaKQ01GBG6) | [Chole](https://open.spotify.com/artist/5H4ORJM3AxCkrxJlWq7a7s), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [Don Luis](https://open.spotify.com/album/4NyQb7MRDZK1MwPjz7GNWm) | 3:19 | 2022-07-08 | 2022-07-20 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-07-08 |  |
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-07-08 | 2023-01-12 |
+| [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2022-12-16 |  |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 | 2022-07-08 |  |
 | [El Amor Anda Suelto](https://open.spotify.com/track/2fokXSTVf0Zh2gVLvoYOhx) | [El Astillero](https://open.spotify.com/artist/7C9yOG9qOJrWjU2DlvCUhr) | [Sesiones](https://open.spotify.com/album/1KWVmkHiaNR01ozodyG1G3) | 3:41 | 2022-05-20 | 2022-07-23 |
 | [El Comienzo del Final](https://open.spotify.com/track/14mNmaD7yPKqrmhJzW1rgI) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [El Comienzo del Final](https://open.spotify.com/album/7v5G14UAYQXW4A4Sndk8BX) | 2:54 | 2022-09-23 | 2022-12-17 |
@@ -174,7 +175,7 @@
 | [Más Allá o Más Acá](https://open.spotify.com/track/0a65V3gxWZ1BB5xC9im6o1) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Relajo Pero Con Orden](https://open.spotify.com/album/7jY3OUqHjakSJU1dV08cba) | 3:07 | 2022-05-20 | 2022-07-29 |
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-08 |  |
 | [Naufrago](https://open.spotify.com/track/71V8zf39OwEpP54LQp3Bgo) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Surcando](https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n) | 3:38 | 2022-05-20 | 2022-07-29 |
-| [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 | 2022-05-20 | 2023-01-10 |
+| [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 | 2022-05-20 |  |
 | [No Te Imaginas](https://open.spotify.com/track/6l0ClSGxF3VwZIvxseYERY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No Te Imaginas](https://open.spotify.com/album/3HVgc5TzbVgLBA77uOevdv) | 3:26 | 2022-05-20 |  |
 | [Noche de Rock](https://open.spotify.com/track/6PNwXxUpvti9wg6YrAHpYS) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Todo para Ser Feliz](https://open.spotify.com/album/6Fi5vaAjftLNztATYex34a) | 3:12 | 2022-07-01 | 2022-07-29 |
 | [Nos dijimos todo](https://open.spotify.com/track/5i9BN55sSR94Lfdes8seDp) | [Once Tiros](https://open.spotify.com/artist/7w79n5kCkTEaewxNBynvhM) | [Imán](https://open.spotify.com/album/0JVFqH6RjuRpECnOovHqcH) | 3:32 | 2022-05-20 | 2022-07-28 |
@@ -233,7 +234,7 @@
 | [Superhéroes](https://open.spotify.com/track/6RA3Qq8YcT92IgcgIipigE) | [Martín Rosito](https://open.spotify.com/artist/6lyFcWleIV9hy1Xl5FmSJn), [Garo Arakelián](https://open.spotify.com/artist/2PTDMiM5qpGaHuy03Rkk5K) | [Superhéroes](https://open.spotify.com/album/0GRPrw5VBuKbW2IqXQlLv3) | 3:44 | 2022-07-08 | 2022-07-11 |
 | [Surtido](https://open.spotify.com/track/61Vz32W74Ty0OwM8KGeSud) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Surtido](https://open.spotify.com/album/2mCfQzd2pUWD1l71xRIP0E) | 3:38 | 2022-12-02 | 2022-12-17 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2022-07-08 |  |
-| [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-07-08 |  |
+| [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-07-08 | 2023-01-13 |
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2022-07-08 |  |
 | [Sí Sí Valor](https://open.spotify.com/track/1ZHrub2uSgbY1iMsuk7pCS) | [Buenos Muchachos](https://open.spotify.com/artist/4FQG5l6GOTXcsF7BuA62l2) | [Vendrás a Verte Morir](https://open.spotify.com/album/1E06gw8wltIDjqNbHVrfkc) | 4:44 | 2022-07-08 | 2022-07-24 |
 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 | 2022-05-20 | 2022-11-13 |
@@ -271,7 +272,7 @@
 | [Voy](https://open.spotify.com/track/25q67SbyQAN3X6V8vKDw5C) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy) | [Voy](https://open.spotify.com/album/14w0Fgd6L5OtsUsYvQc2oh) | 3:37 | 2022-05-20 | 2022-07-29 |
 | [Voz en Mi Cabeza](https://open.spotify.com/track/6Z2r66G06TMpeuZpz9DfJz) | [Interferencia](https://open.spotify.com/artist/4a0SjDR2G5p3wOL3Wp2QKa) | [Voz en Mi Cabeza](https://open.spotify.com/album/6zFN3Hn3ucFZWHDscKZ6Ek) | 4:47 | 2022-07-08 | 2022-07-29 |
 | [Vuelve](https://open.spotify.com/track/3RRttS6eFjDaPMGaSM4HCF) | [Sordromo](https://open.spotify.com/artist/0rIPrzD0oGKrG2JF5bNwXb) | [Aquí..\. Ahora...](https://open.spotify.com/album/7iweYlNNAtQfH2uKdze8HI) | 4:43 | 2022-05-20 | 2022-07-23 |
-| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2022-07-08 |  |
+| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2022-07-08 | 2023-01-13 |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-07-08 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2022-07-08 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/6pomd8NkFiNATdlq7eXO2o) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/5XGU2Rnh7THy4bHIDNqREp) | 4:16 | 2022-05-20 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,874 likes - 135 songs - 6 hr 20 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,875 likes - 135 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 120 | [Dancing With The Devil](https://open.spotify.com/track/5PVSKhsZuIDwPzYzHtt1wW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Dancing With The Devil](https://open.spotify.com/album/4S6cOtQhoyXmnz8rh5M2AE) | 2:55 |
 | 121 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 122 | [e](https://open.spotify.com/track/5vqDfXxQbSgY4YTJCka5UJ) | [Cadence Floria](https://open.spotify.com/artist/11Vu80Yb4WYdbkqROFixrS) | [& so,](https://open.spotify.com/album/4SmQFE30fSa6NTaldKFsCe) | 3:26 |
-| 123 | [Welcome 2 the Trenches](https://open.spotify.com/track/4BCoHnSgyGfsHELrlS1jIl) | [TG Kommas](https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv) | [Welcome 2 the Trenches](https://open.spotify.com/album/0qHLWXq6yVPDx0A6MdXBTc) | 2:55 |
+| 123 | [Welcome 2 The Trenches](https://open.spotify.com/track/4BCoHnSgyGfsHELrlS1jIl) | [TG Kommas](https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv) | [Welcome 2 The Trenches](https://open.spotify.com/album/0qHLWXq6yVPDx0A6MdXBTc) | 2:55 |
 | 124 | [This Christmas](https://open.spotify.com/track/7ryDMjQUkbiBXjpsjAIcGV) | [Kenndog](https://open.spotify.com/artist/2NLseG7xyv3fHY5U8AUntx) | [This Christmas](https://open.spotify.com/album/7DUTGQcjw6zko30hopA2N9) | 2:16 |
 | 125 | [Stacy's Mom \- Live from Salt Lick Sessions](https://open.spotify.com/track/2IRAP8idrxWaGnSYP1gGE8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [Stacy's Mom \(Live from Salt Lick Sessions\)](https://open.spotify.com/album/3voJd9y1mapvwHz8xzZPbq) | 3:28 |
 | 126 | [Naughty With You \(This Christmas\)](https://open.spotify.com/track/2iefNdjhqC50RdhjyyNAy3) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Naughty With You \(This Christmas\)](https://open.spotify.com/album/0qcrSaxBWO8A5zjgn5WFXx) | 2:56 |

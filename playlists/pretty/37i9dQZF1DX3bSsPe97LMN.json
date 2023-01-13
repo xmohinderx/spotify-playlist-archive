@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle BI en portada.",
-  "num_followers": 47506,
+  "num_followers": 47525,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDdmZWQwMDQxMjRkNTE0N2RkOWNjNmRmMGZmZGNkMzM2",
+  "snapshot_id": "MTY3MTc3NTIwMCwwMDAwMDAwMDkzYjNmY2I4ODNjNzA5YjhiNGVhMDU0Zjc5ZGM1NmFh",
   "tracks": [
     {
       "added_at": "2022-12-23 06:00:00",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 213711,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
-    },
-    {
       "added_at": "2022-12-02 06:00:00",
       "album": {
         "name": "F E F",
@@ -887,6 +871,22 @@
       "duration_ms": 273770,
       "name": "F E F",
       "url": "https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 213711,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "En Cada Trago",
-        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "En Cada Trago",
-      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Extra\u00f1o Tus Besos",
@@ -1197,6 +1181,22 @@
       "url": "https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL"
     },
     {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "En Cada Trago",
+        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "duration_ms": 172645,
+      "name": "En Cada Trago",
+      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
+    },
+    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Nada Contigo",
@@ -1211,26 +1211,6 @@
       "duration_ms": 179413,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Amarte Es Mi Destino",
-        "url": "https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR"
-      },
-      "artists": [
-        {
-          "name": "Los De La Verde",
-          "url": "https://open.spotify.com/artist/2OApbndSzlwqPTIUrxCGN2"
-        },
-        {
-          "name": "Juan Caly",
-          "url": "https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Amarte Es Mi Destino",
-      "url": "https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1255,6 +1235,26 @@
       "duration_ms": 148578,
       "name": "No Le Muevan Al Viej\u00f3n",
       "url": "https://open.spotify.com/track/5vEO1CsJTtXg4myKwjiZZp"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Amarte Es Mi Destino",
+        "url": "https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR"
+      },
+      "artists": [
+        {
+          "name": "Los De La Verde",
+          "url": "https://open.spotify.com/artist/2OApbndSzlwqPTIUrxCGN2"
+        },
+        {
+          "name": "Juan Caly",
+          "url": "https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Amarte Es Mi Destino",
+      "url": "https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5"
     },
     {
       "added_at": "2022-12-23 06:00:00",

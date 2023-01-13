@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Alleen maar motion en good vibes. Cover: Lani Manila",
+  "description": "Alleen maar motion en good vibes. Cover: Bilal Wahib",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 131525,
       "name": "1 Blik",
       "url": "https://open.spotify.com/track/3YD8JSsQWSyRr3OhIrUR6y"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 129003,
       "name": "Apart is Hard",
       "url": "https://open.spotify.com/track/22Kvgia3NR8zRizu0eyZoO"
@@ -462,6 +462,24 @@
       "duration_ms": 223275,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0HqEMF1lSEXSY16U9b3oK3"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 125714,
       "name": "Balans",
       "url": "https://open.spotify.com/track/6VFaDDAwBsrFgiHpvEUMb9"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 142857,
       "name": "Blind Op Zoek (Trapagas)",
       "url": "https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy"
@@ -1018,10 +1036,44 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 139685,
       "name": "Body On Top",
       "url": "https://open.spotify.com/track/3XzXpiHPDi8SMObGM0GEE7"
+    },
+    {
+      "album": {
+        "name": "Bon de man",
+        "url": "https://open.spotify.com/album/0vZJSBBTLTlrBCUyRHCjFT"
+      },
+      "artists": [
+        {
+          "name": "Atje",
+          "url": "https://open.spotify.com/artist/0fIJF6TTabIOnx7aU7e95h"
+        },
+        {
+          "name": "Cloverkidd",
+          "url": "https://open.spotify.com/artist/4jevDsPCsCpIznBS7IgjGi"
+        },
+        {
+          "name": "Dayvoo",
+          "url": "https://open.spotify.com/artist/3Y7dSW6r0DdlIMpj8EnjAl"
+        },
+        {
+          "name": "Galie",
+          "url": "https://open.spotify.com/artist/46PFMcBXxL82FQxfHw4dnr"
+        },
+        {
+          "name": "Jamatkd",
+          "url": "https://open.spotify.com/artist/50ceaeyvwYt6apoe5csFNC"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Bon de man",
+      "url": "https://open.spotify.com/track/2EhjS2hrwSKUH8T4nQirEe"
     },
     {
       "album": {
@@ -1136,7 +1188,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 165600,
       "name": "Buiten",
       "url": "https://open.spotify.com/track/2Yc0MhEyiSl6opAT00cKJO"
@@ -1443,6 +1495,32 @@
     },
     {
       "album": {
+        "name": "Completa",
+        "url": "https://open.spotify.com/album/6R296oxm7z26FnyDRYJ3qm"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Enmeris",
+          "url": "https://open.spotify.com/artist/0Hl7eFs2Jcti4isY5n9qSx"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144136,
+      "name": "Completa",
+      "url": "https://open.spotify.com/track/7ExsepdpDGcseWOi6LEdKm"
+    },
+    {
+      "album": {
         "name": "Consciousness",
         "url": "https://open.spotify.com/album/0D3M7NwWQe4iL0rMNfPWQk"
       },
@@ -1746,7 +1824,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 345663,
       "name": "Designed By The Divine",
       "url": "https://open.spotify.com/track/2Uc6BX7wCobNV33MLhA0BB"
@@ -1807,7 +1885,7 @@
         },
         {
           "name": "Alessio",
-          "url": "https://open.spotify.com/artist/4WsApWfFCmjX4bFF60Bd4R"
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
         }
       ],
       "date_added": "2023-01-09",
@@ -1938,6 +2016,24 @@
       "duration_ms": 137058,
       "name": "DITA",
       "url": "https://open.spotify.com/track/74zIftyUMD0GRoZhlxrJiv"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/1gTywEF0u2qLADTzEnwbsd"
+      },
+      "artists": [
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1V4XSOJzzGKNMjr9S5Ml2Q"
     },
     {
       "album": {
@@ -2466,7 +2562,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 105621,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/5flCckja1d9VP17SojleOS"
@@ -2554,10 +2650,36 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 184900,
       "name": "Gran Canaria",
       "url": "https://open.spotify.com/track/0hgm955vBh1mR0f8kHzsV2"
+    },
+    {
+      "album": {
+        "name": "Gymnastic",
+        "url": "https://open.spotify.com/album/3PpoGIk4czgWjtzo72L5lj"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        },
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/4FaQ2MFkq0JucRaCw69qLY"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142009,
+      "name": "Gymnastic",
+      "url": "https://open.spotify.com/track/0BEJH3Z1ssdYqAQmWttViM"
     },
     {
       "album": {
@@ -2833,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "Hypnose",
+        "url": "https://open.spotify.com/album/0ImQAxOInCW0kb2RLhqz7W"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172775,
+      "name": "Hypnose",
+      "url": "https://open.spotify.com/track/3qU98CXuNSZgJFsqLhNvoF"
+    },
+    {
+      "album": {
         "name": "Reset The Levels IV",
         "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
       },
@@ -2910,6 +3050,28 @@
       "duration_ms": 128655,
       "name": "If You Need Me",
       "url": "https://open.spotify.com/track/1WvvjdsTsdPWrE2G7anjQQ"
+    },
+    {
+      "album": {
+        "name": "Ik Space",
+        "url": "https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Fabi\u00ebnne Bergmans",
+          "url": "https://open.spotify.com/artist/5jr2E2PmFI95byNB12yK01"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157655,
+      "name": "Ik Space",
+      "url": "https://open.spotify.com/track/0xLnJgUHvPnq6n2ESDSMXF"
     },
     {
       "album": {
@@ -3498,7 +3660,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 133533,
       "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/29lH6pPwUsKYGP5oyt3JQZ"
@@ -4316,7 +4478,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 154520,
       "name": "Moli Moli",
       "url": "https://open.spotify.com/track/5yYFfbkDd6QefIIDQI4YcY"
@@ -4628,7 +4790,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 163006,
       "name": "Naughty doen",
       "url": "https://open.spotify.com/track/4Fbzrtl6GUGhCUIeBUas6r"
@@ -5108,7 +5270,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 145000,
       "name": "Oogcontact",
       "url": "https://open.spotify.com/track/0PnJySpHldNFH2iNe6luhy"
@@ -6561,6 +6723,28 @@
     },
     {
       "album": {
+        "name": "TGIF (No Dulling)",
+        "url": "https://open.spotify.com/album/39RisHj4vCJUxVRVPGRliq"
+      },
+      "artists": [
+        {
+          "name": "Sico Vox",
+          "url": "https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP"
+        },
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "TGIF (No Dulling)",
+      "url": "https://open.spotify.com/track/6cLdVU7fjmrKgW0xbcqd4I"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/2rGjEQT6cFiefWaz6690Sd"
       },
@@ -7252,6 +7436,28 @@
       "duration_ms": 150153,
       "name": "Whine It",
       "url": "https://open.spotify.com/track/6cXYZU8NJoWrMhHpABkRVS"
+    },
+    {
+      "album": {
+        "name": "Whiskey y Coco",
+        "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186477,
+      "name": "Whiskey y Coco",
+      "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
     },
     {
       "album": {

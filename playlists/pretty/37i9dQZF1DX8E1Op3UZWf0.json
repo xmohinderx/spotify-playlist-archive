@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 225354,
+  "num_followers": 225428,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NzE4NSwwMDAwMDAwMGJjZjFjMmY3MDAyNTVjYzUxZTI0YjI2NTE1MGY3NWU3",
+  "snapshot_id": "MTY3Mjc1NzE4NSwwMDAwMDAwMGU3OGZkZmRkMTNjNjVlYTZlYzU5NWRjZWVjMjA5NDI2",
   "tracks": [
     {
       "added_at": "2022-11-25 14:39:00",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
-      "added_at": "2023-01-12 01:30:19",
+      "added_at": "2023-01-13 01:14:30",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza"
     },
     {
-      "added_at": "2023-01-12 01:30:19",
+      "added_at": "2023-01-13 01:14:30",
       "album": {
         "name": "Without Fear",
         "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
@@ -895,18 +895,22 @@
     {
       "added_at": "2022-11-25 14:39:00",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
         }
       ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
     }
   ],
   "unique_name": "Morning Run ",

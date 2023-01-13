@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Mita Gami.",
-  "num_followers": 417425,
+  "num_followers": 417564,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDI3OWIwMmFkY2FmNGM3ZmYwODg2MjgyZDBmOTc1NTVk",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDI3NDUxZTk5Y2FkOTY5ZWQ2MzljZDVkODQ2NmI4MzUx",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx"
+      },
+      "artists": [
+        {
+          "name": "Pascal Letoublon",
+          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Scandalous (feat. Tinashe) [Remixes]",
         "url": "https://open.spotify.com/album/0AILrrwUAttkpst8ABOXNK"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 232857,
       "name": "Scandalous (feat. Tinashe) - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/1DCIiRF0PZdrZFBwuVf8QH"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx"
-      },
-      "artists": [
-        {
-          "name": "Pascal Letoublon",
-          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
-        },
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Into Pieces",
-        "url": "https://open.spotify.com/album/2TG3AsCuDCqMziFsBNurgS"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 170570,
-      "name": "Into Pieces",
-      "url": "https://open.spotify.com/track/5hh0N3JTS51Y4TWMOeRIOC"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Golden Door",
         "url": "https://open.spotify.com/album/153hNVE9Gd8KEaRUH72vgP"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 457875,
       "name": "Golden Door",
       "url": "https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Into Pieces",
+        "url": "https://open.spotify.com/album/2TG3AsCuDCqMziFsBNurgS"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 170570,
+      "name": "Into Pieces",
+      "url": "https://open.spotify.com/track/5hh0N3JTS51Y4TWMOeRIOC"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "MIASMA",
-        "url": "https://open.spotify.com/album/0EWp37e7mt7gqaOZNvkD69"
-      },
-      "artists": [
-        {
-          "name": "fkbambam",
-          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
-        }
-      ],
-      "duration_ms": 97215,
-      "name": "MIASMA",
-      "url": "https://open.spotify.com/track/0TYsk9EIu9N8ClJJ21G6m7"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 412561,
       "name": "Hannah",
       "url": "https://open.spotify.com/track/6ZXZmVgW4rqBMnSNa13wbv"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "MIASMA",
+        "url": "https://open.spotify.com/album/0EWp37e7mt7gqaOZNvkD69"
+      },
+      "artists": [
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "duration_ms": 97215,
+      "name": "MIASMA",
+      "url": "https://open.spotify.com/track/0TYsk9EIu9N8ClJJ21G6m7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Grief",
-        "url": "https://open.spotify.com/album/1wcUv6Befd6dXq3FmlxMVO"
+        "name": "Flute",
+        "url": "https://open.spotify.com/album/3hX0c1fJ7PCVh4BlkiaFl6"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        },
-        {
-          "name": "Ismael Ndir",
-          "url": "https://open.spotify.com/artist/1Spvcron2o1egnWF0lC6DY"
+          "name": "Lancie Green",
+          "url": "https://open.spotify.com/artist/7nEMUaXfIQ3Hw3XmEgqe5b"
         }
       ],
-      "duration_ms": 400046,
-      "name": "Grief",
-      "url": "https://open.spotify.com/track/5MlykoUDvpCcfbcX2ECweH"
+      "duration_ms": 142857,
+      "name": "Flute",
+      "url": "https://open.spotify.com/track/7LrEjduZDF1raTJcxz1D7m"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -927,34 +923,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Flute",
-        "url": "https://open.spotify.com/album/3hX0c1fJ7PCVh4BlkiaFl6"
+        "name": "Grief",
+        "url": "https://open.spotify.com/album/1wcUv6Befd6dXq3FmlxMVO"
       },
       "artists": [
         {
-          "name": "Lancie Green",
-          "url": "https://open.spotify.com/artist/7nEMUaXfIQ3Hw3XmEgqe5b"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "Ismael Ndir",
+          "url": "https://open.spotify.com/artist/1Spvcron2o1egnWF0lC6DY"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Flute",
-      "url": "https://open.spotify.com/track/7LrEjduZDF1raTJcxz1D7m"
+      "duration_ms": 400046,
+      "name": "Grief",
+      "url": "https://open.spotify.com/track/5MlykoUDvpCcfbcX2ECweH"
     },
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/2b8PLK1gK1UatJ14AdhCPD"
+        "name": "Gonna Get You Real Good EP",
+        "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
       },
       "artists": [
         {
-          "name": "Gorge",
-          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+          "name": "Tom Zeta",
+          "url": "https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy"
         }
       ],
-      "duration_ms": 279475,
-      "name": "Almost There",
-      "url": "https://open.spotify.com/track/5K9l5XqKz9kSLFyuWxx23O"
+      "duration_ms": 359238,
+      "name": "Bocha Bocha",
+      "url": "https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -975,6 +975,38 @@
       "duration_ms": 208780,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4AyLlInZOKim5wDqoW0f6L"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/2b8PLK1gK1UatJ14AdhCPD"
+      },
+      "artists": [
+        {
+          "name": "Gorge",
+          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+        }
+      ],
+      "duration_ms": 279475,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/5K9l5XqKz9kSLFyuWxx23O"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er"
+      },
+      "artists": [
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1031,38 +1063,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Gonna Get You Real Good EP",
-        "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
-      },
-      "artists": [
-        {
-          "name": "Tom Zeta",
-          "url": "https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy"
-        }
-      ],
-      "duration_ms": 359238,
-      "name": "Bocha Bocha",
-      "url": "https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er"
-      },
-      "artists": [
-        {
-          "name": "Maurice Lessing",
-          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Stalker / Eye See",
         "url": "https://open.spotify.com/album/6wt3GU8t5baagnR9Xh5F8G"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 246174,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/680Z9vPsGjxH3cjY31etQa"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR"
-      },
-      "artists": [
-        {
-          "name": "Maxim Lany",
-          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Madhouse",
-        "url": "https://open.spotify.com/album/2iP0400PbH6t0W7X4nalH8"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR"
       },
       "artists": [
         {
-          "name": "RSquared",
-          "url": "https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2"
+          "name": "Maxim Lany",
+          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
         }
       ],
-      "duration_ms": 383416,
-      "name": "Madhouse",
-      "url": "https://open.spotify.com/track/2P7CJvGFArsE3f4649oReX"
+      "duration_ms": 200930,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 161904,
       "name": "You Only",
       "url": "https://open.spotify.com/track/4KemO2k9SBBM25MEwrwmNB"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Madhouse",
+        "url": "https://open.spotify.com/album/2iP0400PbH6t0W7X4nalH8"
+      },
+      "artists": [
+        {
+          "name": "RSquared",
+          "url": "https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2"
+        }
+      ],
+      "duration_ms": 383416,
+      "name": "Madhouse",
+      "url": "https://open.spotify.com/track/2P7CJvGFArsE3f4649oReX"
     },
     {
       "added_at": "2023-01-06 05:00:00",

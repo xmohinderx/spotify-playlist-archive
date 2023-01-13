@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-137 songs - 6 hr 58 min
+138 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 | 2022-02-24 |  |
 | [Heaven Passport](https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN) | 3:07 | 2022-02-24 | 2022-11-11 |
 | [Hold Me Close](https://open.spotify.com/track/7s489YdEjOl8mGcSRFLgzi) | [Jadel](https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH) | [Hold Me Close](https://open.spotify.com/album/03D71UZopQLwbVFH88n1zr) | 3:53 | 2020-09-25 | 2022-11-13 |
-| [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 | 2020-09-25 |  |
+| [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 | 2020-09-25 | 2023-01-13 |
 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 | 2022-02-24 |  |
 | [I Wish \- Raw](https://open.spotify.com/track/2U110D3cv4pWCi04QMQcF1) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/7KUycbr4gbHJnpW4RmoC2B) | 2:55 | 2022-02-24 | 2022-07-29 |
 | [Issa Snack](https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL) | 3:03 | 2022-02-24 |  |
@@ -69,6 +69,7 @@
 | [It Ain't Me](https://open.spotify.com/track/4VCNJoI3aRQevBrvu6WRIo) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2020](https://open.spotify.com/album/6n7s47MvtPNdP5l4IxVVKH) | 2:22 | 2020-09-25 | 2022-07-29 |
 | [Kiss](https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 2:31 | 2022-02-24 |  |
 | [Kiss](https://open.spotify.com/track/0MxxWHbOpqdF9f1O9jCw8L) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/7aBnHH25YAEGR3y2tuEfDv) | 2:31 | 2020-09-25 | 2022-07-28 |
+| [Like Dat](https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy) | 2:16 | 2022-02-24 |  |
 | [Like Dat](https://open.spotify.com/track/5dNlxKgi1aVsi5sTuOcN4P) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Like Dat](https://open.spotify.com/album/6z720xQ3VQnESEKUDISzno) | 2:16 | 2022-02-24 | 2022-12-04 |
 | [Like Dat](https://open.spotify.com/track/5gIP7kfd73zpGwLaEPDJoQ) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/1UHFn0wek8vYkeargs63b1) | 2:16 | 2022-02-24 | 2023-01-07 |
 | [Like Dat](https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/5l7lnLGSa1TFfpKQioDPI0) | 2:16 | 2022-02-24 | 2022-10-06 |

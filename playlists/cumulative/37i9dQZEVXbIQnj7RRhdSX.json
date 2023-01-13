@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
@@ -11245,6 +11245,28 @@
     },
     {
       "album": {
+        "name": "Lamette (feat. Salmo)",
+        "url": "https://open.spotify.com/album/0Q0o2IRC1cRIbyEHMCU7Qq"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Lamette (feat. Salmo)",
+      "url": "https://open.spotify.com/track/2Nr4PguvvtFORJfUWNrBRD"
+    },
+    {
+      "album": {
         "name": "LAPROVINCE #1",
         "url": "https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS"
       },
@@ -13760,7 +13782,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 160204,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/6SQmh0L5icrThwGDTeLkg1"
@@ -14696,7 +14718,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 150000,
       "name": "NIENTE DI SPECIALE",
       "url": "https://open.spotify.com/track/2HYb7h6j7uQEqPZRylzGI6"

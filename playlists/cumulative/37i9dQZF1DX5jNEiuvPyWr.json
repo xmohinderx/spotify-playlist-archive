@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DTF",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 154758,
       "name": "Audrey Tautou",
       "url": "https://open.spotify.com/track/0N4ETYavqM5JEM0h2nBN6t"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 227373,
       "name": "Black Pearl",
       "url": "https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS"
@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "G.A.G",
+        "url": "https://open.spotify.com/album/7pm92hIaWeEYJPm67Xv1mC"
+      },
+      "artists": [
+        {
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162481,
+      "name": "G.A.G",
+      "url": "https://open.spotify.com/track/3ZWw9cswGcI33ckwAje8zC"
+    },
+    {
+      "album": {
         "name": "GRENADE",
         "url": "https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 183008,
       "name": "Gris",
       "url": "https://open.spotify.com/track/3g7084K6EoChR796wdRo0i"
@@ -1000,6 +1018,24 @@
       "duration_ms": 138591,
       "name": "GUCCI (feat. F430) [jet]",
       "url": "https://open.spotify.com/track/3K88jIpeWTdAQYRyqfitHD"
+    },
+    {
+      "album": {
+        "name": "HEKLA",
+        "url": "https://open.spotify.com/album/5yeEwZ9b8zPXWrFoA3jw6R"
+      },
+      "artists": [
+        {
+          "name": "Chanje",
+          "url": "https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147934,
+      "name": "HEKLA",
+      "url": "https://open.spotify.com/track/0Tr0TQ1Jca4eEXMwON5XMt"
     },
     {
       "album": {
@@ -1058,7 +1094,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 209453,
       "name": "High",
       "url": "https://open.spotify.com/track/4lpWpolbOCSrlEe9FN3G9F"
@@ -1441,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "MARK LANDERS",
+        "url": "https://open.spotify.com/album/5LQIFAhrEQseK0St28dQ9z"
+      },
+      "artists": [
+        {
+          "name": "Lazer MMZ",
+          "url": "https://open.spotify.com/artist/5Ae1qozZeLofVqeQjJswoD"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183828,
+      "name": "MARK LANDERS",
+      "url": "https://open.spotify.com/track/0Ob5R4MJD5L4AfCke7cJVE"
+    },
+    {
+      "album": {
         "name": "Maudit",
         "url": "https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV"
       },
@@ -1452,7 +1506,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 229863,
       "name": "Maudit",
       "url": "https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi"
@@ -1670,6 +1724,24 @@
       "duration_ms": 145443,
       "name": "Nuage",
       "url": "https://open.spotify.com/track/07r5QxQIHnfgnOI4Bkdy7o"
+    },
+    {
+      "album": {
+        "name": "Nuit et jour",
+        "url": "https://open.spotify.com/album/2VvNdPoTyrPTR30iBFzFJf"
+      },
+      "artists": [
+        {
+          "name": "Kekra",
+          "url": "https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Nuit et jour",
+      "url": "https://open.spotify.com/track/3xAlSc7IFjhBwQq4HSDpor"
     },
     {
       "album": {
@@ -1944,7 +2016,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 142900,
       "name": "Printemps - Live Spectre",
       "url": "https://open.spotify.com/track/2OoO0L9cFKiR2shTXVsDZ6"
@@ -2281,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/18A1iN7kZJ2HbaXANnonUH"
+      },
+      "artists": [
+        {
+          "name": "LVZ",
+          "url": "https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155155,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/3u7O99o8DB5D3r1AL37v0g"
+    },
+    {
+      "album": {
         "name": "Sur ma vie",
         "url": "https://open.spotify.com/album/37NDtMlLsm4h2hqhDbzg0m"
       },
@@ -2404,6 +2494,28 @@
       "duration_ms": 194181,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9nith (feat. Booba)",
+        "url": "https://open.spotify.com/album/7LIy7jLgPFiNJoYxnbDf8t"
+      },
+      "artists": [
+        {
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+        },
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204590,
+      "name": "Z\u00e9nith (feat. Booba)",
+      "url": "https://open.spotify.com/track/6z41QMdRgnRTAUdcQ0pxyH"
     },
     {
       "album": {

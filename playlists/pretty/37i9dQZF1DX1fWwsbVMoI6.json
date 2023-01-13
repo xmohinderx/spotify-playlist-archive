@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Hnos Yaipen",
-  "num_followers": 88906,
+  "num_followers": 89004,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDkyNTNiM2ZiNjAzZGIxMDQyMDA2ZDI2MThmZjg2OTQx",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMGFhOTg4NGU3OGY3YTVjN2NiZmM2ZDAzZjdjMjExZTc2",
   "tracks": [
     {
       "added_at": "2022-11-11 23:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "Solo \u00c9xitos",
-        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Candela",
-          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
-    },
-    {
-      "added_at": "2022-11-11 23:00:00",
-      "album": {
         "name": "Embri\u00e1game Suavecito/Los Reyes De La Cumbia",
         "url": "https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 215333,
       "name": "El Arbolito",
       "url": "https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ"
+    },
+    {
+      "added_at": "2022-11-11 23:00:00",
+      "album": {
+        "name": "Solo \u00c9xitos",
+        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
     },
     {
       "added_at": "2022-11-11 23:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "Goza Tu Cumbia: Peruvian Cumbia",
-        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Caribe\u00f1os de Guadalupe",
-          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "El Solitario",
-      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
-    },
-    {
-      "added_at": "2022-11-11 23:00:00",
-      "album": {
         "name": "Homenaje a Mallanep: Donde Est\u00e1 el Amor / Una Aventura M\u00e1s / Me Rio de Ti",
         "url": "https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ"
       },
@@ -455,18 +439,34 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "A..estilo propio y jaranero",
-        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
+        "name": "Goza Tu Cumbia: Peruvian Cumbia",
+        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
       },
       "artists": [
         {
-          "name": "Los Campesinos de Bambamarca",
-          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
+          "name": "Orquesta Caribe\u00f1os de Guadalupe",
+          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
         }
       ],
-      "duration_ms": 365493,
-      "name": "La Chismosa",
-      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
+      "duration_ms": 261600,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
+    },
+    {
+      "added_at": "2022-11-11 23:00:00",
+      "album": {
+        "name": "He Sentido Amor",
+        "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
+      },
+      "artists": [
+        {
+          "name": "Amaya Hnos",
+          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
+        }
+      ],
+      "duration_ms": 235154,
+      "name": "He Sentido Amor",
+      "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
     },
     {
       "added_at": "2022-11-11 23:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "He Sentido Amor",
-        "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
+        "name": "A..estilo propio y jaranero",
+        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
       },
       "artists": [
         {
-          "name": "Amaya Hnos",
-          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
+          "name": "Los Campesinos de Bambamarca",
+          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
         }
       ],
-      "duration_ms": 235154,
-      "name": "He Sentido Amor",
-      "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
+      "duration_ms": 365493,
+      "name": "La Chismosa",
+      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
     },
     {
       "added_at": "2022-11-11 23:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "Amor Incomparable",
-        "url": "https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88"
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543"
       },
       "artists": [
         {
-          "name": "Grupo Guinda",
-          "url": "https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD"
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
         }
       ],
-      "duration_ms": 194746,
-      "name": "Amor Incomparable",
-      "url": "https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN"
+      "duration_ms": 234880,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/4QeJ9ICMlwED0XfR5o2FRs"
     },
     {
       "added_at": "2022-11-11 23:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543"
+        "name": "Amor Incomparable",
+        "url": "https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88"
       },
       "artists": [
         {
-          "name": "Deyvis Orosco",
-          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+          "name": "Grupo Guinda",
+          "url": "https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD"
         }
       ],
-      "duration_ms": 234880,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/4QeJ9ICMlwED0XfR5o2FRs"
+      "duration_ms": 194746,
+      "name": "Amor Incomparable",
+      "url": "https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN"
     },
     {
       "added_at": "2022-11-11 23:00:00",

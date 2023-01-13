@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-165 songs - 9 hr 35 min
+166 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Intezaar](https://open.spotify.com/track/3H4sTrJAYCXvtcBteQn4O7) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Intezaar](https://open.spotify.com/album/5ozneiz9CThETspoy1xJiJ) | 4:02 | 2022-09-05 |  |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2022-04-29 |  |
 | [Jaagay Hain](https://open.spotify.com/track/3vCWWOxmJHHl25fjf38znc) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:48 | 2021-12-06 | 2022-01-29 |
+| [JADU](https://open.spotify.com/track/5BFDwitXIlpGKPcLCZVcpA) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [JADU](https://open.spotify.com/album/1YsuVDWON04EsjwPloOWZS) | 3:10 | 2023-01-12 |  |
 | [Jia](https://open.spotify.com/track/1OldtKIXBu5lzLtW37UkqR) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Ram Pam Para](https://open.spotify.com/album/6DiiOftBUslEpML79kbVNW) | 4:04 | 2022-11-30 | 2023-01-11 |
 | [Jo Tu Chahay](https://open.spotify.com/track/4SaTP95BkR4m1NkunRCDiK) | [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassaan Bin Shaheen](https://open.spotify.com/artist/3XpqnPbSJ2ZNYAYzEOj6R2) | [Jo Tu Chahay](https://open.spotify.com/album/732ZY5OgnrJ3MDBApSHTXS) | 2:25 | 2021-12-06 |  |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2022-11-30 | 2023-01-11 |
@@ -106,7 +107,7 @@
 | [Mujhe Leh Chal](https://open.spotify.com/track/4odsSGg1pT5Qrpj3ZOqQx0) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Mujhe Le Chal \(From "Meryem"\)](https://open.spotify.com/album/7qNMiJoulUjrnisg5eQeEN) | 3:29 | 2022-11-30 | 2023-01-11 |
 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 | 2022-03-15 | 2022-06-17 |
 | [NAAL](https://open.spotify.com/track/4ZCIQlHFG44NvcwpoXvEob) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [NAAL](https://open.spotify.com/album/62DhFkn8ipPEpbmokdXyaM) | 2:36 | 2023-01-10 |  |
-| [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2021-12-06 |  |
+| [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2021-12-06 | 2023-01-13 |
 | [Nakhray](https://open.spotify.com/track/1wsAK9hEisW2JkLeSqVDAz) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Nakhray](https://open.spotify.com/album/21WzqW9p3vJnpcKWn8X3gE) | 2:41 | 2022-09-14 |  |
 | [Naraaz \- ft\. Fatima Khan, E.t Lone & Zahra Paracha](https://open.spotify.com/track/4GutOo3yby1CgYARF8WkVK) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Fatima Khan](https://open.spotify.com/artist/1by9q5I9gcwqYHX93a9WlD), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K), [E.t Lone](https://open.spotify.com/artist/3yLnzeXNaquKBMLBe4oSnK) | [Woh Hai Kahaan](https://open.spotify.com/album/02T1FufJa9tsuQy8MAxpKB) | 4:25 | 2021-12-06 |  |
 | [No Roses](https://open.spotify.com/track/5IGUQ0DfmXTp3kVJJxST5I) | [Big Mood](https://open.spotify.com/artist/49gX0zm1ncUuXsCz1Ug8u1), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW) | [No Roses](https://open.spotify.com/album/2rjTrNWnpYGVchCRKmoMF5) | 3:23 | 2021-12-06 | 2022-03-05 |

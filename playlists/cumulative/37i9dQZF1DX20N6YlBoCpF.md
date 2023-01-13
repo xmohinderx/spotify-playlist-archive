@@ -2,9 +2,9 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH?si=wRplUt7FSF2\-9SmbK0jmwA">Juan Boucher</a>
+> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=\_C6sSLVRQEy7zkFbaZTbtg">JAN JAN JAN</a>
 
-202 songs - 11 hr 24 min
+204 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Boerenooi](https://open.spotify.com/track/6wkvjsw6zfFdWLwcEH12E8) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Hardwerkende Man](https://open.spotify.com/album/5joOuKhuwIZvrZjUpMXHpK) | 3:29 | 2022-12-27 | 2023-01-02 |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 | 2022-11-25 |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 |  |
+| [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 | 2023-01-12 |  |
 | [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 | 2022-09-08 | 2022-10-28 |
 | [BRANDARM \- Original](https://open.spotify.com/track/0i3zJthM72JmUTSWuAOXsP) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ), [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1), [Reece De Lange](https://open.spotify.com/artist/159BNRMrDpH05xWIe06go3), [Enrique van Wyngaardt](https://open.spotify.com/artist/1IgzCmZUt2UItNeD4irOje) | [BRANDARM \(Original\)](https://open.spotify.com/album/0oZ0lXiOZlgj0KbSouiTTE) | 2:28 | 2022-10-13 | 2022-10-28 |
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2022-12-27 | 2023-01-02 |
@@ -42,7 +43,7 @@
 | [Daai Ding](https://open.spotify.com/track/79V2WUCLP5FSjwupdCOlfS) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Daai Ding](https://open.spotify.com/album/19IqK8AZOph118avK1LdaV) | 3:11 | 2022-12-27 | 2023-01-02 |
 | [Damlelielief](https://open.spotify.com/track/2kRdu5wltX9zryXxByd0k6) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Damlelielief](https://open.spotify.com/album/38MBvOQS34uUOnCItemclJ) | 3:31 | 2022-12-27 | 2023-01-02 |
 | [Dans Met Gevaar](https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dans Met Gevaar](https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV) | 4:09 | 2022-12-15 |  |
-| [December \- Radio Edit](https://open.spotify.com/track/4GjQQH4S0Zk1AxixUYaGhf) | [Tizel](https://open.spotify.com/artist/5GxWSg5bans5XQW52qCqSn) | [December](https://open.spotify.com/album/79wXpGDlUEWsTpMsILSGcP) | 2:51 | 2022-12-08 |  |
+| [December \- Radio Edit](https://open.spotify.com/track/4GjQQH4S0Zk1AxixUYaGhf) | [Tizel](https://open.spotify.com/artist/5GxWSg5bans5XQW52qCqSn) | [December](https://open.spotify.com/album/79wXpGDlUEWsTpMsILSGcP) | 2:51 | 2022-12-08 | 2023-01-13 |
 | [Die Breils](https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Die Breils](https://open.spotify.com/album/5TW1O0JwrQHoEm99vysUjQ) | 3:03 | 2022-09-15 | 2022-10-04 |
 | [Die Lyn](https://open.spotify.com/track/2cyzkXDexN5TzYehFULwu6) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Kleindorp \- Dromer](https://open.spotify.com/album/5ZTYJZu8aeOgZ6NAevn9BF) | 3:34 | 2022-12-27 | 2023-01-02 |
 | [Die Seën](https://open.spotify.com/track/2JrpZZXrSjd6FeWsMYlZ9Z) | [Johan Anker](https://open.spotify.com/artist/3VawlZLcw70cya2MhFCj5b) | [Die Seën](https://open.spotify.com/album/79zq6kAHXeUyMLu6CWDrQV) | 6:56 | 2022-11-04 | 2022-11-25 |
@@ -168,6 +169,7 @@
 | [Sonskyn](https://open.spotify.com/track/1qCuSf3gbjZ1A7msPrpcMx) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Sonskyn](https://open.spotify.com/album/11xQmc2iXHJMcJ9pL8CPVL) | 2:56 | 2022-10-20 | 2022-12-09 |
 | [Soos Die Reën](https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Soos Die Reën](https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF) | 2:44 | 2022-10-27 | 2022-11-18 |
 | [Spicy](https://open.spotify.com/track/7cMWtLwxWs08ckWJFSFpZ0) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Spicy](https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf) | 2:49 | 2022-10-13 | 2022-10-28 |
+| [Spitsverkeer\(D\)](https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Spitsverkeer\(D\)](https://open.spotify.com/album/2xk4b9wcfDMILyM5nD4FaJ) | 2:40 | 2023-01-12 |  |
 | [Standbeelde](https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Matthew John Duncan](https://open.spotify.com/artist/5UKMBy6AbIo4xMA9krrPIY) | [Standbeelde](https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C) | 3:16 | 2022-10-06 | 2022-10-28 |
 | [Sterre Brand](https://open.spotify.com/track/1xT34fo4r7js5GIDpybGgb) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Sterre Brand](https://open.spotify.com/album/6qh0I1uJKdu9mZMKUQBmDC) | 3:35 | 2022-12-27 | 2023-01-02 |
 | [Suiderkruis](https://open.spotify.com/track/2gpZFeb0JcmHvTdXVIilW5) | [Red Sheep](https://open.spotify.com/artist/0bbA7qEn8IvbHSfdtgpwBt) | [Suiderkruis](https://open.spotify.com/album/7KDVfeBwV71kAoXBdaW67l) | 4:08 | 2022-12-27 | 2023-01-02 |
@@ -203,7 +205,7 @@
 | [Wat Maak Hy Daar \- Afrikaans Wil Dans Remix](https://open.spotify.com/track/2B9d5djNsd5lDYWG65Orx7) | [Kris Ray](https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN), [Afrikaans Wil Dans](https://open.spotify.com/artist/4uXWqQQz8WPtWg6lYvuKlN) | [Wat Maak Hy Daar \(Afrikaans Wil Dans Remix\)](https://open.spotify.com/album/3urG2w4h4n7HrgbUjXLWFK) | 4:03 | 2022-12-01 |  |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-11 |
 | [Wees Net Beter](https://open.spotify.com/track/5AXAgPFHnFzv8pz9ZOffct) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT), [Hiram Koopman](https://open.spotify.com/artist/4UBl5Ny7y89gOnqp8AM0EH) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 3:26 | 2022-11-10 | 2022-12-09 |
-| [Wie's Jou Kat?](https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Wie's Jou Kat?](https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG) | 3:25 | 2022-10-27 |  |
+| [Wie's Jou Kat?](https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Wie's Jou Kat?](https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG) | 3:25 | 2022-10-27 | 2023-01-13 |
 | [Wind Oor Die Berge](https://open.spotify.com/track/0VJlsGRJCojYup9mWi72t2) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Wind Oor Die Berge](https://open.spotify.com/album/2dJlSMrpuRPH1HkKqNjogS) | 3:21 | 2023-01-05 |  |
 | [Witblits](https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Witblits](https://open.spotify.com/album/1j0JxyVmQLkrFIZRY4m9xT) | 3:07 | 2022-08-11 | 2022-11-05 |
 | [Wolkedans](https://open.spotify.com/track/2X2QSGLuvsDZX7i0s2fXnC) | [Leon Gropp](https://open.spotify.com/artist/6IuWDLRpLJQk3xUQoTMuYU) | [Wolkedans](https://open.spotify.com/album/0NZATPM2wR2yYJuKy1sZsM) | 4:45 | 2022-10-27 | 2022-11-18 |

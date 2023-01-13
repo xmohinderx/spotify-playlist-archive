@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍 Photo: Moonshine
 
-155 songs - 10 hr 19 min
+156 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fiohna Mukusa](https://open.spotify.com/track/5dseKmdnMxEJnlKPtyg2J5) | [Ministre Manzaka DJ](https://open.spotify.com/artist/45cBTgK3RwWjZwoBwJuukk) | [Monde A Part](https://open.spotify.com/album/1E45xmBvN36ojia6LMr1bL) | 4:13 | 2022-09-23 |  |
 | [Fololo \(Liberté\)](https://open.spotify.com/track/2MAG2l8Jjrj9K53fBa6Hui) | [Teddy Diso](https://open.spotify.com/artist/2ASkZeQXjHQCTVZBNU2Ujc) | [Liberté](https://open.spotify.com/album/5y7sY65Ip1uT0IRFO5V48q) | 4:40 | 2022-12-30 |  |
 | [Francis Manuana](https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin](https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s) | 5:53 | 2022-08-12 | 2022-10-15 |
+| [Furah](https://open.spotify.com/track/5ddDDkPFaCkbl9WBBlFeI4) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Furah](https://open.spotify.com/album/5rD89G23WIlfKzGbGXiJJx) | 3:44 | 2023-01-06 |  |
 | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Charlotte Dipanda](https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL) | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe) | 7:40 | 2022-12-02 | 2022-12-17 |
 | [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 |  |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |

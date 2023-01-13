@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-238 songs - 13 hr 30 min
+239 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BETTER WITH YOU \(REMIX\) \(feat\. Aaron Cole\)](https://open.spotify.com/track/4924clSyc49KgbJvFwmU58) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [BETTER WITH YOU \(REMIX\) \(feat\. Aaron Cole\)](https://open.spotify.com/album/5ixQak7hjnX9zR5GmmXqQn) | 2:53 | 2021-10-31 | 2022-06-23 |
 | [Bigger](https://open.spotify.com/track/0LBzNdxVmIuQ6ooIHSYEud) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:21 | 2021-10-31 | 2022-07-27 |
 | [Bigger Story](https://open.spotify.com/track/012DUuLdefLSpuOvf3StFg) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/29nMOkMn9xImaQuisSbqJ8) | 3:06 | 2021-10-31 | 2022-07-26 |
+| [Bigger Story](https://open.spotify.com/track/13HkQZltEHWmzmn8D2nWpc) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw) | 3:06 | 2021-10-31 |  |
 | [Bless The Lord](https://open.spotify.com/track/3A0KrHyYnmRKiXXuCOwMaC) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj) | [Reside](https://open.spotify.com/album/3es85GWxsLXstpaSBeYAlF) | 4:30 | 2021-10-31 | 2022-07-04 |
 | [Blessings](https://open.spotify.com/track/6Xrk1n7PqfRTnkKoLJGMzI) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sammie Lee](https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Encantado](https://open.spotify.com/album/42WYfIPep0OcmxSzSezYzV) | 2:42 | 2021-10-31 | 2022-07-18 |
 | [Bored](https://open.spotify.com/track/1kidkXF4OCEVPzdMZdx1Dg) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Bored](https://open.spotify.com/album/4WeH44pkQTOML7iar8HWD3) | 3:42 | 2021-10-31 | 2022-07-21 |
@@ -190,7 +191,7 @@
 | [Shout to the Lord](https://open.spotify.com/track/5QbdIj9omsOxwpkZXGWDTU) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Shout to the Lord](https://open.spotify.com/album/48USOS8BlA33ib4hR7HhLn) | 2:38 | 2021-10-31 | 2022-07-28 |
 | [Simple](https://open.spotify.com/track/23dLLEKDVrTgl4tskBDAFG) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Simple](https://open.spotify.com/album/7e73FXisj7dWJgfAJ7M51J) | 3:15 | 2021-10-31 | 2022-07-23 |
 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 | 2021-10-31 |  |
-| [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 | 2021-10-31 |  |
+| [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 | 2021-10-31 | 2023-01-13 |
 | [Soldier On](https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:02 | 2021-10-31 |  |
 | [Something Like Love](https://open.spotify.com/track/77TAjJOkVGmgG3XD4oDgJx) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Something Like Love](https://open.spotify.com/album/3T6mnvfBIXgV8xsNpOQBjc) | 3:22 | 2021-10-31 | 2022-07-27 |
 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 | 2021-10-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: skaiwater.",
-  "num_followers": 33407,
+  "num_followers": 33573,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGRmN2RkYTI3YzIzODY0ZDliYzdjYjBlMTgxOGMzNmJl",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDE3ZmI1MTVhZjVjN2NkN2QzYmM3NjI0MzRkYjAwZDM1",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Luhh Galore",
+        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        }
+      ],
+      "duration_ms": 88302,
+      "name": "Luhh Galore",
+      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "bla bla bla",
         "url": "https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 126955,
       "name": "Can You Bounce? - Remix",
       "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Luhh Galore",
-        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        }
-      ],
-      "duration_ms": 88302,
-      "name": "Luhh Galore",
-      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Anxious",
-        "url": "https://open.spotify.com/album/6gpmtNqKezX1vcJLljbZZB"
+        "name": "Orange Soda (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Sjayy",
+          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
         }
       ],
-      "duration_ms": 121306,
-      "name": "Anxious",
-      "url": "https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7"
+      "duration_ms": 111304,
+      "name": "Orange Soda - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
     }
   ],
   "unique_name": "Jersey Club Heat",

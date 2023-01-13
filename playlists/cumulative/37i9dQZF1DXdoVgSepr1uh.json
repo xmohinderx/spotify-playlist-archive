@@ -2986,10 +2986,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 141428,
       "name": "Una Copa",
       "url": "https://open.spotify.com/track/0m8vNCtnh1tjDba8yvKzox"
+    },
+    {
+      "album": {
+        "name": "Una Copa",
+        "url": "https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK"
+      },
+      "artists": [
+        {
+          "name": "Albere",
+          "url": "https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Una Copa",
+      "url": "https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX"
     },
     {
       "album": {

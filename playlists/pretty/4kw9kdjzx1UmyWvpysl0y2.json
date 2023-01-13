@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127148,
+  "num_followers": 127144,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg5NCxjYmJjMDNhMWNhNzg3MjU4MmI2NTZjNGZiMjVhOTdjNzI5ZjAzNTEw",
+  "snapshot_id": "Mzg5NixkN2MwZWYwOWFhNjYyMzlmM2VmODk5MTNhN2E0MjBiZjkwNjI3OTZj",
   "tracks": [
+    {
+      "added_at": "2023-01-12 18:12:21",
+      "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Thrones of Blood",
+      "url": "https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy"
+    },
     {
       "added_at": "2023-01-11 21:42:10",
       "album": {
@@ -1115,22 +1131,6 @@
       "duration_ms": 271500,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "scars",
-        "url": "https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "scars",
-      "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

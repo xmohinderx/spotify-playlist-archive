@@ -1,18 +1,18 @@
 {
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: <a href=\"https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=i0H2aCbMQJS7HrwsS4kZWw\"> Lasmid </a>",
-  "num_followers": 11204,
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: <a href=\"https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc?si=oq-l4JLCRouigELPLZZh0w\"> Bisa Kdei </a>",
+  "num_followers": 11218,
   "original_name": "Ghana Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1ODc1MSwwMDAwMDAwMGU5YTUyNGY0Y2M1ZGU4MmMyMDk0ZWExMmQzYThmNTlj",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDA0MmYwNGZkNzUxNDdhMzBhOGE1NjFlYmNlYjAxZDNm",
   "tracks": [
     {
-      "added_at": "2022-11-04 06:32:33",
+      "added_at": "2022-12-18 10:19:11",
       "album": {
-        "name": "Atele",
-        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd"
       },
       "artists": [
         {
@@ -20,9 +20,45 @@
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 166885,
-      "name": "Atele",
-      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
+      "duration_ms": 176468,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR"
+    },
+    {
+      "added_at": "2022-11-04 06:32:33",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 167767,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"
+    },
+    {
+      "added_at": "2022-11-04 06:32:33",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 148374,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
     },
     {
       "added_at": "2022-11-04 06:32:33",
@@ -49,20 +85,20 @@
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
-      "added_at": "2022-12-18 10:19:11",
+      "added_at": "2022-11-04 06:32:33",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd"
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
       "artists": [
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 176468,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR"
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2022-11-04 06:32:33",
@@ -87,18 +123,18 @@
     {
       "added_at": "2022-11-04 06:32:33",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi"
+        "name": "Atele",
+        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 167767,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"
+      "duration_ms": 166885,
+      "name": "Atele",
+      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -233,26 +269,6 @@
       "url": "https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY"
     },
     {
-      "added_at": "2022-11-04 06:32:33",
-      "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 148374,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
-    },
-    {
       "added_at": "2022-12-02 00:00:00",
       "album": {
         "name": "Sankofa (5 Star Remix)",
@@ -377,22 +393,6 @@
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
     },
     {
-      "added_at": "2022-11-04 06:32:33",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
-    },
-    {
       "added_at": "2022-11-15 09:40:15",
       "album": {
         "name": "Enigma",
@@ -423,26 +423,6 @@
       "duration_ms": 186666,
       "name": "Eboso",
       "url": "https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI"
-    },
-    {
-      "added_at": "2022-12-18 10:19:11",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6zjTiaL3Q1WdSmDhJtXPxg"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Joe",
-          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/3qBGf7ZlkiT9FRgxigUYOT"
     },
     {
       "added_at": "2022-11-15 09:40:15",
@@ -621,22 +601,6 @@
       "url": "https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0"
     },
     {
-      "added_at": "2022-12-18 10:19:11",
-      "album": {
-        "name": "BAYIN'YAA (Mad Dog)",
-        "url": "https://open.spotify.com/album/3PwhfGA64MMYAZjdqnDzsJ"
-      },
-      "artists": [
-        {
-          "name": "Fancy Gadam",
-          "url": "https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "BAYIN'YAA (Mad Dog)",
-      "url": "https://open.spotify.com/track/2XXZpGsijSDPEh5opFFvvX"
-    },
-    {
       "added_at": "2022-11-04 06:32:33",
       "album": {
         "name": "Ring My Line (feat. Headie One)",
@@ -705,50 +669,6 @@
       "url": "https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa"
     },
     {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/4Wdcgz2fJE5JOJyesJfKD9"
-      },
-      "artists": [
-        {
-          "name": "Ayesem",
-          "url": "https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 263184,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/5iWC5AEn2Jm68LnPluwedn"
-    },
-    {
-      "added_at": "2022-11-04 06:32:33",
-      "album": {
-        "name": "Connecting the Dots",
-        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        }
-      ],
-      "duration_ms": 165142,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
-    },
-    {
       "added_at": "2022-11-04 06:32:33",
       "album": {
         "name": "Champagne",
@@ -783,34 +703,6 @@
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
-    },
-    {
-      "added_at": "2022-11-04 06:32:33",
-      "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 225767,
-      "name": "My Size",
-      "url": "https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ"
     },
     {
       "added_at": "2022-11-04 06:32:33",
@@ -975,26 +867,6 @@
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
-    },
-    {
-      "added_at": "2022-11-25 07:51:05",
-      "album": {
-        "name": "Fakye",
-        "url": "https://open.spotify.com/album/2dQzVzAlQXPiFEO4xTHGiX"
-      },
-      "artists": [
-        {
-          "name": "Kay 9ice",
-          "url": "https://open.spotify.com/artist/7wNBctbXr4d5zWHVAiVf9y"
-        },
-        {
-          "name": "Adina Thembi",
-          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
-        }
-      ],
-      "duration_ms": 237374,
-      "name": "Fakye",
-      "url": "https://open.spotify.com/track/4mQfRdTt9CLowA0UgLaLfj"
     },
     {
       "added_at": "2022-11-04 06:32:33",

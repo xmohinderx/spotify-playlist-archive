@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-114 songs - 5 hr 45 min
+115 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Supra](https://open.spotify.com/track/1rR0zygfSEsJrsi3nAx9uh) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Supra](https://open.spotify.com/album/1mdwDeA5cJru1CWtwITW1m) | 2:28 | 2022-07-15 |  |
 | [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 2:32 | 2022-05-13 |  |
 | [Tales](https://open.spotify.com/track/6sDT5Hy4pAS6r0KqcY2em5) | [Blake Newton](https://open.spotify.com/artist/248FFgnhqpwX9kcgXtLWKK) | [Water](https://open.spotify.com/album/6Y67bPBC2FOf0WLVrRcq7p) | 3:23 | 2022-05-13 |  |
+| [Tattersail](https://open.spotify.com/track/0IHbvuQpvJlWyaGmrTgFjB) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [There, Nearly](https://open.spotify.com/album/45A6tOKDWTOjmbfZzPEkCf) | 2:34 | 2023-01-13 |  |
 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 3:07 | 2022-05-13 |  |
 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 | 2022-05-13 |  |
 | [The Journey](https://open.spotify.com/track/1XcOci00g6G98QaDipUiPb) | [Jimmie Stills](https://open.spotify.com/artist/64FYFlv9Z4qfU4rXS6Ri5E) | [The Actress](https://open.spotify.com/album/2VOcYwupehwQHrQieOWbCH) | 3:12 | 2022-05-13 |  |

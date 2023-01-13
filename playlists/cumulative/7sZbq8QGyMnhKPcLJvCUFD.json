@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/2dOfeD6IChI72iXCkNRQAE"
+      },
+      "artists": [
+        {
+          "name": "ReauBeau",
+          "url": "https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND"
+        },
+        {
+          "name": "Eline Mann",
+          "url": "https://open.spotify.com/artist/7B68JAWDHgVV7OiLmtjxtu"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/004GETE44RiciWPNPUGqZK"
+    },
+    {
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu"
       },
@@ -3466,7 +3488,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 183750,
       "name": "When I'm With You - EMIDEX Remix",
       "url": "https://open.spotify.com/track/5bFtowNLiwn67wZUDhF8Cl"
@@ -3510,7 +3532,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 182614,
       "name": "When I'm With You - T-Rice Remix",
       "url": "https://open.spotify.com/track/199yqPnwlybLMjMNY5Hjxy"

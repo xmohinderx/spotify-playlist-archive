@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-213 songs - 13 hr 35 min
+214 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [I Want Her](https://open.spotify.com/track/0WwappRzOx2WD4ns9CqAuz) | [Von Pariahs](https://open.spotify.com/artist/1ZTgRXHRnEsxf1pwq25GQK) | [Genuine Feelings](https://open.spotify.com/album/30dc25H7Z3AMEAiPuyhKJj) | 3:47 | 2022-01-03 | 2022-06-24 |
 | [I Was Told](https://open.spotify.com/track/2zaAzeUiTErdnNpnD6Cuz2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [I Was Told](https://open.spotify.com/album/0zWiTtWOkCq97ilSJOO5A1) | 3:33 | 2022-06-30 |  |
 | [I'll Never Let You Down](https://open.spotify.com/track/6csJiNDFkSveL0m9GimnLJ) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Storm Orchestra \(Deluxe\)](https://open.spotify.com/album/4GOQKvNxE2SBS8s5wjqjwi) | 3:00 | 2022-04-17 | 2022-07-29 |
-| [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-31 |  |
+| [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-31 | 2023-01-13 |
 | [If Only They Could](https://open.spotify.com/track/2TJdettbWrIvxsUsTki1S4) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/230xxMa21n51rU8HT8e9OK) | 3:51 | 2021-12-15 | 2022-07-29 |
 | [If Only They Could](https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa) | 3:51 | 2022-11-28 |  |
 | [In Friends We Trust](https://open.spotify.com/track/3yJbGoyLue9B5R6guLIVjI) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Something For Nothing](https://open.spotify.com/album/2pMtWnQ1jQH6sfsh5tBLzl) | 3:27 | 2021-12-30 | 2022-01-01 |
@@ -144,6 +144,7 @@
 | [Néant](https://open.spotify.com/track/5YHPFzrnaP31PXYCirRS0y) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:09 | 2022-04-17 |  |
 | [O.E.](https://open.spotify.com/track/5QbRcqJpmlDgN9VBCIpBPn) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [O.E.](https://open.spotify.com/album/4pJCbw5VR9tiDkAtV26XT8) | 3:39 | 2021-12-15 | 2022-07-28 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |
+| [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 |  |
 | [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 |  |
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 | 2022-07-29 |
 | [Pas la peine](https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [V](https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum) | 1:47 | 2021-12-31 |  |

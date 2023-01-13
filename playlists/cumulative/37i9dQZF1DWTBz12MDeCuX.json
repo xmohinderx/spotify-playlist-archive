@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/2Fs0WFILf3bV6D1Ph6iFhm"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160084,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5hDjdcUB4Ex143S8BSVsFG"
+    },
+    {
+      "album": {
         "name": "AC MAILAND",
         "url": "https://open.spotify.com/album/5OafNf1sosM26tzS0t8WWj"
       },
@@ -390,7 +408,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 147906,
       "name": "AC MAILAND",
       "url": "https://open.spotify.com/track/5CzDztuZCdeQI2SBO79yiw"
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 138374,
       "name": "blame's on me",
       "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
@@ -1826,6 +1844,24 @@
       "duration_ms": 248373,
       "name": "Car's Outside",
       "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
+    },
+    {
+      "album": {
+        "name": "CAROLINE",
+        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192951,
+      "name": "CAROLINE",
+      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
     },
     {
       "album": {
@@ -2370,7 +2406,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 143200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/2kQ9udZ0v3H8PFSVmbY1Kq"
@@ -2961,6 +2997,32 @@
     },
     {
       "album": {
+        "name": "Eislaufen",
+        "url": "https://open.spotify.com/album/08nPh3jAfcmfxLS4cEZu5R"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        },
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        },
+        {
+          "name": "Sick & Tired",
+          "url": "https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149733,
+      "name": "Eislaufen",
+      "url": "https://open.spotify.com/track/60VPXRz8whne8goYlXmMpe"
+    },
+    {
+      "album": {
         "name": "Elendig",
         "url": "https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE"
       },
@@ -3400,7 +3462,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 139633,
       "name": "falling apart (die young VIP)",
       "url": "https://open.spotify.com/track/4MSmRBs920YvYh4eYdE8lD"
@@ -4333,6 +4395,28 @@
     },
     {
       "album": {
+        "name": "Heartbreaks",
+        "url": "https://open.spotify.com/album/0YztKqJaUavgKgW90Ohgcd"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Alle Hassen Montag",
+          "url": "https://open.spotify.com/artist/4GIxVHRG8N5puZrn8cyNpY"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155387,
+      "name": "Heartbreaks",
+      "url": "https://open.spotify.com/track/2XDS8ycI3PtXHv8x21Q2DY"
+    },
+    {
+      "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
       },
@@ -4638,6 +4722,24 @@
       "duration_ms": 183942,
       "name": "i hate waking up (feat. Rxseboy, SadBoyProlific & Alek Olsen)",
       "url": "https://open.spotify.com/track/5ubG9w0UF7rCL5mkWVMcRJ"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/50CVUrCt0tL8377L8r2pOC"
+      },
+      "artists": [
+        {
+          "name": "Moritz",
+          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140922,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ"
     },
     {
       "album": {
@@ -5008,7 +5110,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 177609,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
@@ -5767,6 +5869,24 @@
     },
     {
       "album": {
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
+    },
+    {
+      "album": {
         "name": "LOS",
         "url": "https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo"
       },
@@ -6030,6 +6150,32 @@
       "duration_ms": 195745,
       "name": "Medizin (feat. Jamule)",
       "url": "https://open.spotify.com/track/3fAz5OBCj54Ar8vzps112y"
+    },
+    {
+      "album": {
+        "name": "Meer fahren",
+        "url": "https://open.spotify.com/album/7rpUPj1XDs9hXOeppLX1Gl"
+      },
+      "artists": [
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221867,
+      "name": "Meer fahren",
+      "url": "https://open.spotify.com/track/1lqcZN0Gmlg8XeWpp996Xl"
     },
     {
       "album": {
@@ -6995,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "NUR F\u00dcR DICH",
+        "url": "https://open.spotify.com/album/4PBv7AzTCGMRnmwJuzg1Gn"
+      },
+      "artists": [
+        {
+          "name": "Zensery",
+          "url": "https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140489,
+      "name": "NUR F\u00dcR DICH",
+      "url": "https://open.spotify.com/track/2Gs2OF3QWXTpDeqvHv4T7V"
+    },
+    {
+      "album": {
         "name": "Nur gespielt",
         "url": "https://open.spotify.com/album/00aUv158y0SsrfGOu349lb"
       },
@@ -7200,6 +7364,24 @@
       "duration_ms": 171692,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
+    },
+    {
+      "album": {
+        "name": "on my way",
+        "url": "https://open.spotify.com/album/53QtBl3qgJHO18Qim2o1YF"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215063,
+      "name": "on my way",
+      "url": "https://open.spotify.com/track/0DH7ZmouflLanUgjYaUP0e"
     },
     {
       "album": {
@@ -7472,10 +7654,32 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 137647,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q"
+    },
+    {
+      "album": {
+        "name": "Party Sahne (aber schneller)",
+        "url": "https://open.spotify.com/album/3B2VGgBgf4dCYN5dzDK1og"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Moritz",
+          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146833,
+      "name": "Party Sahne (aber schneller)",
+      "url": "https://open.spotify.com/track/72FMrJkNyj6GF4nx73cego"
     },
     {
       "album": {
@@ -7874,7 +8078,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 87417,
       "name": "regen\u0f3a\u2661\u2727+++",
       "url": "https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy"
@@ -7926,7 +8130,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 155533,
       "name": "Renne",
       "url": "https://open.spotify.com/track/1EjbUHdYjVMhgu1gN3oZa2"
@@ -10020,7 +10224,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 134444,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3zMK5gFf92gp8w7SxW2PrZ"
@@ -10266,7 +10470,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 162380,
       "name": "Unique",
       "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"

@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "ARETHA",
+        "url": "https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388320,
+      "name": "At Last (with Lou Rawls) - Live",
+      "url": "https://open.spotify.com/track/7wAleLENYvPLATrmuPkrA5"
+    },
+    {
+      "album": {
         "name": "Now Is The Time",
         "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
       },
@@ -256,7 +278,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 178240,
       "name": "Blues Is A Woman",
       "url": "https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL"
@@ -852,7 +874,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 134943,
       "name": "Nine Pound Hammer",
       "url": "https://open.spotify.com/track/1gbdDazbGiV83TxannfdyL"
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "Scotch & Soda",
       "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
@@ -1152,7 +1174,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 182600,
       "name": "Stormy Weather (Keeps Rainin' All The Time) - 2006 Remaster",
       "url": "https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N"
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 154012,
       "name": "The Biggest Lover In Town",
       "url": "https://open.spotify.com/track/1eRtP4Opm3CpNNSc8yvocW"
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 120986,
       "name": "Unforgettable - Live",
       "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 318213,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD"

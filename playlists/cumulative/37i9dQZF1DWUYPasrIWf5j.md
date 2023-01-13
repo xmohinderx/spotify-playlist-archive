@@ -2,7 +2,7 @@
 
 ### [Instrumental Ukulele Covers](https://open.spotify.com/playlist/37i9dQZF1DWUYPasrIWf5j)
 
-> 
+> Instrumental covers of favourites played on ukulele.
 
 106 songs - 6 hr 3 min
 

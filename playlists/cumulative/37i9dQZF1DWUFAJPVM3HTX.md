@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Dende\. Updates every Wednesday.
 
-923 songs - 2 day 0 hr 3 min
+926 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [All There Is](https://open.spotify.com/track/4X9Emc9xzo2X5xcw8iJnJn) | [Jasmine Janai](https://open.spotify.com/artist/7vNrZ0Dps51Eg9LrY0FVjU) | [All There Is](https://open.spotify.com/album/3nrwZaK2dheRVsisWn8MA1) | 2:33 | 2022-10-28 | 2022-12-01 |
 | [All They Wanna Do](https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [All They Wanna Do](https://open.spotify.com/album/10R0owBaqbjtUM5A8XeSYN) | 2:38 | 2022-05-20 | 2022-08-11 |
 | [All This Shit](https://open.spotify.com/track/3vFDCpTCWOHZsiASHOBsSl) | [YaYa](https://open.spotify.com/artist/0lnt4wK63mus1T57yf7aUE) | [All This Shit](https://open.spotify.com/album/2uVS8UpmidkIccUAdbHCNV) | 2:06 | 2022-02-23 | 2022-03-17 |
+| [All We Know](https://open.spotify.com/track/375zznhvM0rsnYOHYCw8vH) | [Marvin Dolo](https://open.spotify.com/artist/5UQBWR0edHp1ZuQvqsdsT3) | [Fade to Black.](https://open.spotify.com/album/719jb8MKVDSGsfYqB4JspY) | 2:35 | 2023-01-12 |  |
 | [Already Lost](https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Look What You've Done](https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood) | 3:33 | 2022-03-11 | 2022-04-28 |
 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 | 2022-04-27 | 2022-07-10 |
 | [Always Be Watching](https://open.spotify.com/track/5fBUjUMi2lOn5dTJATQMQa) | [Jword](https://open.spotify.com/artist/6Dp6OYo93kad6QAcXezQRq) | [Always Be Watching](https://open.spotify.com/album/1QuzG9U2zBvd8eChYUCiwU) | 3:26 | 2022-02-02 | 2022-03-12 |
@@ -104,6 +105,7 @@
 | [Blackjack](https://open.spotify.com/track/3dl5p7f6pdabQaNFcWTmnP) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Blackjack](https://open.spotify.com/album/1VFpByIyWmtt0OhUVzQYxh) | 2:29 | 2022-10-05 | 2022-12-01 |
 | [Blame Me](https://open.spotify.com/track/6SKkgrMcSnI2M6QIOt1xju) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Blame Me](https://open.spotify.com/album/2dXYAAZlYGkWTbhFeDrkvH) | 3:30 | 2022-09-28 | 2022-12-01 |
 | [Blessings](https://open.spotify.com/track/7GZINgiZVPkuqZ2M8lxbll) | [Zernell Fontaine](https://open.spotify.com/artist/59JhFlFdFsPB8BUgQIi5ih) | [Blessings](https://open.spotify.com/album/7bnAXyzsbRnwgjAUiu6wlF) | 4:02 | 2022-10-14 | 2022-12-01 |
+| [Blind](https://open.spotify.com/track/2L8H2Agsg9UKfb4zoOHbih) | [Jordan Hush](https://open.spotify.com/artist/0wN8Xcwcr6dcHiLM3lpgPz), [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Blind](https://open.spotify.com/album/74ss0t5fmhxC56U1yWw08F) | 2:07 | 2023-01-12 |  |
 | [Blow My Mind](https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Blow My Mind](https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR) | 4:08 | 2022-03-30 | 2022-05-12 |
 | [Blue](https://open.spotify.com/track/1NiH4J1846vGnZPRsQ0Ae0) | [Anilee List](https://open.spotify.com/artist/0J6c4BWHYZIc2Yw9PQUxt4) | [Blue](https://open.spotify.com/album/4vm8tAw3PzjRfZ4zpJxTk4) | 3:10 | 2022-03-02 | 2022-03-17 |
 | [Blue](https://open.spotify.com/track/1o1bEFROirftkoCx4x7hbc) | [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Blue](https://open.spotify.com/album/6OrDIkwW3EM4DnLtYFJR37) | 2:32 | 2022-04-06 | 2022-06-03 |
@@ -901,6 +903,7 @@
 | [Where They At](https://open.spotify.com/track/2UVqSu3dddJBmQJhSw1KTT) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Where They At](https://open.spotify.com/album/2B3O15rAAYV2zLDrIm5ZpG) | 2:09 | 2022-10-05 |  |
 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 | 2022-07-27 | 2022-09-03 |
 | [Where You At](https://open.spotify.com/track/7BR0HcQah51twleQzGfVFL) | [Alexis Finley](https://open.spotify.com/artist/6m6yePXuEWZorIjEmJC95H) | [Where You At](https://open.spotify.com/album/3v63Aea27Ngz2QJj2hbzAb) | 2:51 | 2022-02-02 | 2022-03-12 |
+| [Who I Am](https://open.spotify.com/track/1UBRExDo8VoRSMchX9C0xm) | [Muwosi](https://open.spotify.com/artist/0O0LFxVzzKXHPl4YkxW6y2) | [Who I Am](https://open.spotify.com/album/1tyWE89nzY3lj2sxYIlGAL) | 2:29 | 2023-01-12 |  |
 | [whose fault](https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [whose fault](https://open.spotify.com/album/5XcLFnMT5SBsTVfAwm5Vl0) | 2:06 | 2022-05-26 | 2022-08-27 |
 | [WHY](https://open.spotify.com/track/5orKju2PjW1eFaJKri6YmQ) | [Jotti Singh](https://open.spotify.com/artist/24K9MIPDuCz4AoXJlSEgSs) | [WHY](https://open.spotify.com/album/6RBiIzp0RfDDliqyERgJdh) | 2:46 | 2022-01-26 | 2022-03-03 |
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-27 | 2022-06-10 |

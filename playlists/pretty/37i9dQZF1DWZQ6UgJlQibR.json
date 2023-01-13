@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 54378,
+  "num_followers": 54439,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMGZlNTAxZmRiZGJjMDY5Mjc3M2EyZjA0Yzk2ZWExMTIy",
+  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMDQzYTlmNmUxZjJkY2MxZTkyNmUzNDgyN2NkNTQ1NTAz",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Law Fina",
-        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
-      },
-      "artists": [
-        {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
-        }
-      ],
-      "duration_ms": 371890,
-      "name": "Law Fina",
-      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Badak Maleoun Seneh",
         "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 954506,
       "name": "Ala Babee Waqef Qamaren",
       "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Law Fina",
+        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "duration_ms": 371890,
+      "name": "Law Fina",
+      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Sahra (Live Rare Concert Recording)",
-        "url": "https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Tair ya hawa - Live",
-      "url": "https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Beateriflik",
         "url": "https://open.spotify.com/album/5Io8slUHRxxvIsRulY3WBI"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 542998,
       "name": "Beateriflik",
       "url": "https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Sahra (Live Rare Concert Recording)",
+        "url": "https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Tair ya hawa - Live",
+      "url": "https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie"
     },
     {
       "added_at": "2022-09-13 14:22:57",

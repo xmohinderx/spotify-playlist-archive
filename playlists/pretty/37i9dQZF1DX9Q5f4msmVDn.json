@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 4359,
+  "num_followers": 4397,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGZkMjMyNTBjMGRiZGVjNTc5ODdjMjY1MjNkYWRkOGRi",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDU0MWQ2YzEwYWJmNTlmNzU1Y2M1OTZlY2MwMDM5ZGYy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "Dragonball Durag",
+      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 361280,
       "name": "Double Up (feat. Belly and Dom Kennedy)",
       "url": "https://open.spotify.com/track/4iVD0fTHGxV9JWloujsL3s"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "Dragonball Durag",
-      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Out The Trunk",
-        "url": "https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "Smoothies In 1991",
-      "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 93799,
       "name": "Lick Back",
       "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Out The Trunk",
+        "url": "https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "Smoothies In 1991",
+      "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Little Ghost",
+        "url": "https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Too Much to Ask",
+      "url": "https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Little Ghost",
-        "url": "https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Too Much to Ask",
-      "url": "https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK"
     }
   ],
   "unique_name": "Archie Davis' Taste",

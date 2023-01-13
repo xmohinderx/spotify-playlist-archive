@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-263 songs - 1 day 0 hr 51 min
+265 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 | 2020-10-09 | 2023-01-11 |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2020-10-09 | 2022-03-11 |
 | [Body and Soul](https://open.spotify.com/track/1yKzcK9jV55JNsf0wQ43tZ) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:11 | 2022-09-29 |  |
+| [Bosse Zorro](https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are) | [OHOJ](https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh) | [Bosse Zorro](https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY) | 4:07 | 2023-01-12 |  |
 | [Can't Help Loving](https://open.spotify.com/track/4zRweMHazlqCTUe6GvviYf) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Way You Look Tonight](https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO) | 3:41 | 2020-10-09 |  |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/75MUAXmFXalRbe44eYPzfG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Canción Contra La Indecisión](https://open.spotify.com/album/6M21ytCR5Bld1vicN8JvQc) | 4:12 | 2020-10-09 | 2022-06-29 |
 | [Canción Y Danza VI](https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 5:14 | 2020-10-09 | 2022-05-03 |
@@ -135,6 +136,7 @@
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2020-10-09 |  |
 | [Ken](https://open.spotify.com/track/3oRRbrNXNLU21IYIcL0Ivb) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 6:19 | 2022-04-07 |  |
 | [La fin justifie les moyens](https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ) | [Joran Cariou Trio](https://open.spotify.com/artist/0EmoB83lbpEcH9Eh77Sp9K), [Damien Varaillon](https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M), [Stéphane Adsuar](https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2) | [The Path Up](https://open.spotify.com/album/54mnf1vkHCoNfWDP0Hu3dG) | 7:13 | 2020-10-09 | 2022-04-08 |
+| [La Margaillette](https://open.spotify.com/track/0DqU9yL6tcAKzXnJeP2kUs) | [Eric van der Westen](https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d) | [The Crown & Lobster Trilogy, Pt\. II: Blue Is All That's Left](https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40) | 4:51 | 2023-01-12 |  |
 | [Lakeside](https://open.spotify.com/track/2I7beEwUv30n9ESSlGaxQi) | [Enj Society](https://open.spotify.com/artist/5EKXN5TohOAPNKy3crMBI4), [Michael Erian](https://open.spotify.com/artist/7JsCpL0GcN4OSJWVyuoK7m), [DANIEL NÖSIG](https://open.spotify.com/artist/5zNqt0nq9dYQVavAcfBXOh), [Milan Nikolic](https://open.spotify.com/artist/3XwMZpo9e5gyDoYxaNmWqM), [Howard Curtis](https://open.spotify.com/artist/0ol2v5NACVEO9ZRrL7AGIL) | [Here And Now](https://open.spotify.com/album/4WZX9ItzvEW9HAw6PAJBtp) | 6:08 | 2022-11-24 |  |
 | [Landmarks](https://open.spotify.com/track/5bjV2B1rH2gkdtJ4qr0qQy) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Landmarks](https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) | 8:20 | 2020-10-09 | 2022-02-18 |
 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 | 2020-10-09 |  |

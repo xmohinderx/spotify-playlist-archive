@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-514 songs - 1 day 9 hr 4 min
+517 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Breezin](https://open.spotify.com/track/3wUHfX5JyU1ipP9BOXBLB5) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [Breezin](https://open.spotify.com/album/1OiSBgpilimYhIUmfuOpuZ) | 3:08 | 2020-10-20\* | 2021-08-25 |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2021-08-25 | 2022-02-11 |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2020-10-20\* | 2021-07-09 |
+| [Buenos Aires Bound](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9) | [Jack's Mistress Frida](https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS) | [Buenos Aires Bound](https://open.spotify.com/album/3wvvETVls0zK62Op0KeWID) | 4:20 | 2023-01-13 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2021-11-10 |  |
 | [Caelitum](https://open.spotify.com/track/2xmAadSMKANmzwXLytaqhd) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO), [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Caelitum](https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP) | 4:51 | 2020-12-24 | 2021-03-06 |
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2020-10-20\* | 2021-06-23 |
@@ -113,6 +114,7 @@
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-02-10 |  |
 | [Cul de Sac](https://open.spotify.com/track/4AMrfTJror50C9Tx3zX5Z2) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Cul de Sac](https://open.spotify.com/album/0KcH619DqxpelLGbWgRA0J) | 3:35 | 2020-10-20\* | 2021-06-23 |
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2021-01-29 |  |
+| [Dancing On The Ceiling](https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Dancing On The Ceiling](https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz) | 3:51 | 2023-01-13 |  |
 | [Dawncaller](https://open.spotify.com/track/68RwfkkJ1VFOr5g3Apeif7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Raincaller](https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc) | 4:04 | 2020-10-20\* | 2021-05-13 |
 | [Deep Forest](https://open.spotify.com/track/1wVd0OZYD1aUQfqwwJqf7U) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Deep Forest](https://open.spotify.com/album/0efSrTP5Bp6QsyZdUJV6rj) | 5:18 | 2020-12-24 | 2021-01-29 |
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2021-05-13 | 2021-10-16 |
@@ -513,6 +515,7 @@
 | [White Socks](https://open.spotify.com/track/6IEJBZIXVSXMU2yV7U2r8W) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Dress Code](https://open.spotify.com/album/44QW9u5vUUHxGZVMZKeRvs) | 1:35 | 2020-10-20\* | 2021-06-23 |
 | [Wild Run](https://open.spotify.com/track/5C9c9qv5ImHMPFA0D6LyQC) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Wild Run](https://open.spotify.com/album/5kMEhcZoAmS51niPJjm3Iw) | 2:17 | 2021-06-04 | 2021-07-09 |
 | [Window to the Soul](https://open.spotify.com/track/1G964AW9s14yKF7kJahxV2) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Waiting for the Sun to Rise](https://open.spotify.com/album/7ik4kx0saV6Fjo4gAd5Zbi) | 7:04 | 2021-03-25 | 2021-08-25 |
+| [Winter Sun](https://open.spotify.com/track/2dnqHctmOYFgLGs8AM6vKF) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Winter Sun](https://open.spotify.com/album/37SUbcSIk3X5xxfVQYeBlC) | 2:14 | 2023-01-13 |  |
 | [Wonderland](https://open.spotify.com/track/35NXCV8pnH2PMGBJw4WM6i) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Wonderland](https://open.spotify.com/album/4mUaHKnvqRotURBNspjer4) | 4:23 | 2021-02-12 | 2021-07-09 |
 | [Wood](https://open.spotify.com/track/1jySrrqnp7ux50ZdKFCwTZ) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Nature](https://open.spotify.com/album/5zeYZeKbnrF0jNt6AYCHY4) | 4:32 | 2022-05-10 |  |
 | [Woodland](https://open.spotify.com/track/7hHrKHSTH6QFoKWl4xdZhx) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Woodland](https://open.spotify.com/album/3jeXBKbRQdPtQm924oDr4t) | 3:37 | 2020-11-28 | 2022-04-15 |

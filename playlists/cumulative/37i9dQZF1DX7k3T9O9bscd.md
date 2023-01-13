@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-253 songs - 20 hr 34 min
+255 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Fuzz Jam](https://open.spotify.com/track/1HCryhiL05CN22G3YgWWlA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Fuzz Jam](https://open.spotify.com/album/2HCsaRqXdUTlqOIt0MZs2j) | 4:26 | 2022-01-28 | 2022-07-29 |
 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 | 2022-01-28 |  |
 | [Fórmula](https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [A Group Called CoBrA](https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn) | 4:33 | 2021-11-12 | 2022-07-05 |
+| [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-12 |  |
 | [Goatfuzz](https://open.spotify.com/track/2LITu4fhbVMfjTg3mn8Vl5) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Requiem](https://open.spotify.com/album/1YNpikcqLN0DiQ2WX9SYFF) | 6:56 | 2021-11-12 | 2022-07-29 |
 | [God of Sun](https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6) | [My Expansive Awareness](https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND) | [Taste of Blood](https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn) | 4:29 | 2021-11-12 | 2022-07-26 |
 | [Golden Dawn](https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:50 | 2021-11-12 |  |
@@ -163,8 +164,9 @@
 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 | 2021-11-12 | 2022-07-13 |
 | [Panic In Babylon](https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn) | 4:38 | 2021-11-12 |  |
 | [Panic In Babylon](https://open.spotify.com/track/6nh4bNcaY1DHZ2k6lQEcLi) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/63XqaziPkNvU0DgABaitR1) | 4:38 | 2021-11-12 | 2022-07-25 |
+| [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-12 |  |
 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 | 2021-11-12 |  |
-| [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 | 2022-09-30 |  |
+| [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 | 2022-09-30 | 2023-01-13 |
 | [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2021-11-12 | 2022-07-10 |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/6P3wuqOj57ljpXpSHOy8fH) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/30MHkRh4rQIwdFDopFGTbC) | 3:39 | 2021-11-12 | 2022-07-29 |
 | [Planet Caravan](https://open.spotify.com/track/0drFLipk0M6e8Oj9mSeiFx) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Planet Caravan](https://open.spotify.com/album/5sZzZ9CXT4b9dMBIvuVRji) | 9:11 | 2021-11-12 | 2022-07-29 |
@@ -173,7 +175,7 @@
 | [Pollution Rise](https://open.spotify.com/track/4vGQm0QW07GtI44ks50qp0) | [Red Belmont](https://open.spotify.com/artist/0V5q8bb8VlZqaHh6TpEDx6) | [Into My Own](https://open.spotify.com/album/2FZTKvIax4NkqVHEOdV7Sw) | 4:17 | 2021-11-12 | 2022-07-07 |
 | [Posthumous Forgiveness](https://open.spotify.com/track/3rQ0ZaLrkLv8HhAAKSbAC0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Posthumous Forgiveness](https://open.spotify.com/album/0AA8MiQS9djcrznNT83ViG) | 6:06 | 2021-11-12 | 2022-07-27 |
 | [premonition / ‚óØ / it shines through](https://open.spotify.com/track/1oQrm94AgXdhDE0wusgKrc) | [HOLY](https://open.spotify.com/artist/6TNGPJ14slujZq0YSywpsQ) | [premonition](https://open.spotify.com/album/22ccKxifv1lmzw5C9pdznt) | 6:37 | 2021-11-12 | 2022-07-29 |
-| [Put Your Thing On Me](https://open.spotify.com/track/55uKi2bQPxwGgFkxOiMicQ) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny](https://open.spotify.com/album/2wdDKLGzrJ0SR1Q3ydZ4P0) | 4:36 | 2021-11-12 |  |
+| [Put Your Thing On Me](https://open.spotify.com/track/55uKi2bQPxwGgFkxOiMicQ) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny](https://open.spotify.com/album/2wdDKLGzrJ0SR1Q3ydZ4P0) | 4:36 | 2021-11-12 | 2023-01-13 |
 | [Put Your Thing On Me](https://open.spotify.com/track/4VFMCnFF9Hc5Ki6mO9km5J) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny \(Digitally Remastered\)](https://open.spotify.com/album/5qGe0KjGNFeVqGBHRwZwfT) | 4:36 | 2021-11-12 | 2022-07-28 |
 | [På knivan](https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j) | [Sammal](https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk) | [På knivan](https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5) | 3:29 | 2022-09-03 | 2022-12-06 |
 | [Rasayana](https://open.spotify.com/track/1mf0q8XDtJwuQVP8mnpsfz) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A New Day Dawning](https://open.spotify.com/album/7CvbhsQF1ESh1ZXb2h0Sx4) | 9:00 | 2021-11-12 | 2022-10-06 |

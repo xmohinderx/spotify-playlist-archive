@@ -4,7 +4,7 @@
 
 > Listen to the women of the world at full volume\. Cover: NewJeans
 
-901 songs - 2 day 1 hr 39 min
+903 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 | 2022-09-07 | 2023-01-05 |
 | [Can't Stop This Party](https://open.spotify.com/track/4RXfSjaK8jCqLyvfwKS1wo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/0V0GnJig9oBwwU6YX5KfrL) | 3:42 | 2022-04-06 | 2022-05-05 |
 | [Cappuccino](https://open.spotify.com/track/6GKRPpcQJdAeUgBoA6zhrv) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Cappuccino](https://open.spotify.com/album/25DheoRNWjv32utcAC6I25) | 4:15 | 2022-03-08 | 2022-04-07 |
+| [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-01-13 |  |
 | [Carelessly](https://open.spotify.com/track/1VS4rziqnnUk5VTwcQh8eg) | [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Ate Sandali](https://open.spotify.com/album/7hVgdOi9Mc1TtOCcC72YaS) | 3:54 | 2022-07-06 | 2022-08-04 |
 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 | 2022-08-03 | 2022-09-09 |
 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 | 2022-09-07 | 2023-01-12 |
@@ -371,6 +372,7 @@
 | [Kirpiklerin](https://open.spotify.com/track/2NxBMC0gGCcQItr2iotAwZ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kirpiklerin](https://open.spotify.com/album/0SQuzuNMouc0l3NcgRYzrp) | 2:56 | 2022-01-05 | 2022-02-03 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-07 | 2022-10-05 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-11 | 2022-01-06 |
+| [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 | 2023-01-13 |  |
 | [KIW"](https://open.spotify.com/track/5SaKZSsiSOqxOH1N2qpAsh) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [POP SEBLAY](https://open.spotify.com/album/4QUd17mSKbu7lOHBcPtiCW) | 4:12 | 2022-04-06 | 2022-05-05 |
 | [Kleine Warme Kamer](https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [SABINA](https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5) | 3:50 | 2022-11-02 | 2022-12-01 |
 | [Ku](https://open.spotify.com/track/40I9VS4TKqDHjd4wyFHw2Y) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Ku](https://open.spotify.com/album/4nGcz59HrKCQHjvJVrkwaH) | 4:35 | 2022-02-02 | 2022-03-08 |

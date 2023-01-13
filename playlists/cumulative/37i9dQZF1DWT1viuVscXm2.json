@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A bailar con la mejor cumbia sudamericana. Foto: Los Palmeras & Soledad.",
+  "description": "A bailar con la mejor cumbia sudamericana. ",
   "name": "Esto es Cumbia",
   "tracks": [
     {
@@ -3341,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
+    },
+    {
+      "album": {
         "name": "Mi Unico Amor",
         "url": "https://open.spotify.com/album/1PgEY4CHlURqdIO5lru0Fv"
       },
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 214264,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"

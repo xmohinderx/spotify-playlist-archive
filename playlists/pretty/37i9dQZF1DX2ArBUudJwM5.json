@@ -1,12 +1,12 @@
 {
   "description": "Escuch\u00e1 a Mora Navarro y a m\u00e1s mujeres a todo volumen. \nDales PLAY, dales POWER.",
-  "num_followers": 24638,
+  "num_followers": 24635,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGY3Y2U2ZmM5ZDAyNDE1MWUyYWIzODE2NWQ2YjExNGI4",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDk1MDhlMTc0N2VjNjAwYTU2NjY3OGM4NzYyMmY2YjM4",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Jesica Alegr\u00eda",
-        "url": "https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Ivan C. Bakmas",
-          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
-        }
-      ],
-      "duration_ms": 186824,
-      "name": "Jesica Alegr\u00eda",
-      "url": "https://open.spotify.com/track/1y230lSPJFvc1VGxQn2bDU"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "La Luna",
         "url": "https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 172384,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Jesica Alegr\u00eda",
+        "url": "https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        },
+        {
+          "name": "Ivan C. Bakmas",
+          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
+        }
+      ],
+      "duration_ms": 186824,
+      "name": "Jesica Alegr\u00eda",
+      "url": "https://open.spotify.com/track/1y230lSPJFvc1VGxQn2bDU"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "Santa Basura [1]",
+        "url": "https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Escalante",
+          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
+        }
+      ],
+      "duration_ms": 79338,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Ir al Cielo",
         "url": "https://open.spotify.com/album/1CeEByiGtu4Vk3JmZPOnHB"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 198010,
       "name": "envoltorio",
       "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Santa Basura [1]",
-        "url": "https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Escalante",
-          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
-        }
-      ],
-      "duration_ms": 79338,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf"
     }
   ],
   "unique_name": "EQUAL Argentina",

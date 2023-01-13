@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-142 songs - 10 hr 10 min
+143 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [困在你的雨季](https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [困在你的雨季](https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC) | 4:32 | 2022-09-05 |  |
 | [在狂雨中](https://open.spotify.com/track/7exYTigadzsYN668TBami6) | [David Huang](https://open.spotify.com/artist/78NfAbd1srddKUQz4ytHWd) | [手下留情](https://open.spotify.com/album/3liazabJeymD8r6oLWSTVF) | 6:05 | 2021-11-22 | 2022-07-29 |
 | [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 | 2021-11-22 | 2023-01-11 |
+| [夜雨](https://open.spotify.com/track/3UoF18UQUsMcNpZCnYzpd4) | [派對紳士](https://open.spotify.com/artist/2zYn9LCK3BBJEzF7e9fh0Y) | [專屬暗號](https://open.spotify.com/album/5NMw4YxVESOHqA5hqVXRxz) | 4:01 | 2023-01-10 |  |
 | [夜雨](https://open.spotify.com/track/7mFCNlD2iFvaSxBvZsm7Yk) | [派對紳士](https://open.spotify.com/artist/2hPOuwoy5IpYmDHJmWMsvq) | [專屬暗號](https://open.spotify.com/album/0odBFuc4f0g84KxyhqAxLE) | 4:01 | 2021-11-22 | 2022-07-26 |
 | [大雨](https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1) | [娃娃](https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg) | [金智娟經典重生輯](https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC) | 4:49 | 2022-09-05 |  |
 | [大雨](https://open.spotify.com/track/5R1E4MtvQNtvhvVD80grCa) | [娃娃\(金智娟\)](https://open.spotify.com/artist/7CBfgNCTGhh2SNpMbJr7ck) | [金智娟經典重生輯](https://open.spotify.com/album/729LG3tZYJFE9BybOMXOL3) | 4:49 | 2021-11-22 | 2022-07-29 |
@@ -120,7 +121,7 @@
 | [雨下得真好](https://open.spotify.com/track/6CoS4JNpTyILwqD8zMu4jw) | [Harlem Yu](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) | [靠近](https://open.spotify.com/album/6FPVhgOuGhengkAf916BRs) | 4:48 | 2021-11-22 | 2022-07-28 |
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2021-11-22 |  |
 | [雨中漫步 \(feat\. Polly\)](https://open.spotify.com/track/1tRmb5T439pSwUH1ImjCwd) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [Polly](https://open.spotify.com/artist/3cYDoS8wWlR3ttRBIJkqxC) | [雨中漫步 \(feat\. Polly\)](https://open.spotify.com/album/3QYtIT9ZPrsBnT3YWL6emO) | 2:32 | 2021-11-22 | 2022-07-19 |
-| [雨你](https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Kin Lee](https://open.spotify.com/artist/0IC9cjThGaA7tg8teGugWN) | [雨你](https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC) | 3:03 | 2021-11-22 |  |
+| [雨你](https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Kin Lee](https://open.spotify.com/artist/0IC9cjThGaA7tg8teGugWN) | [雨你](https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC) | 3:03 | 2021-11-22 | 2023-01-13 |
 | [雨停之後 \(網絡劇《在悠長的時光裡等你》插曲\)](https://open.spotify.com/track/5ExaLMiN88y3anmQZM2Oi9) | [莫非定律More Feel](https://open.spotify.com/artist/5GhwOMwt3cfHb5LX8cCf7j) | [《在悠長的時光里等你》網絡劇原聲帶](https://open.spotify.com/album/7oGUwwttjGTePD4ZD6NwCZ) | 4:43 | 2021-11-22 | 2022-07-29 |
 | [雨停雨下](https://open.spotify.com/track/3cM2mN3vHLpMVXQb4CzWge) | [林文荪](https://open.spotify.com/artist/0lCnaAXCVtMY2wizkUfr3F) | [最高的地方](https://open.spotify.com/album/2Ihs0bP0lAkMfVPMXETVEz) | 6:06 | 2021-11-22 | 2022-07-22 |
 | [雨和太陽](https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 3:20 | 2021-11-22 |  |

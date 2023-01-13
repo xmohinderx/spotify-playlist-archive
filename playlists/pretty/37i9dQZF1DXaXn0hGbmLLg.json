@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: <a href=\"spotify:artist:43FIX6vzpqRHK1VXQmRlKE\">Robin Kester</a>",
-  "num_followers": 5437,
+  "num_followers": 5436,
   "original_name": "EQUAL Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2MDY1MCwwMDAwMDAwMGRlOGJiODZhMjA5MDQ5MzU4NDhiNmIzODM2NmU1NjI5",
+  "snapshot_id": "MTY3MzUyODE2NSwwMDAwMDAwMGU2OTkxOWUzNzVjOTgyM2VkZDFkNDhlMWZiYzg1OGJl",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
+        "name": "Mannen",
+        "url": "https://open.spotify.com/album/6lRglIK0XJzsKiRvRGsHqO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 237740,
+      "name": "Mannen",
+      "url": "https://open.spotify.com/track/2nnS74QHtdJCLjuo4nBuBr"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
         "name": "California Christmas",
         "url": "https://open.spotify.com/album/3GbA3XhIdDq3cKR3p4om85"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 129022,
       "name": "7 Maanden",
       "url": "https://open.spotify.com/track/7fPUAntzxh9gSaSRLXmE2y"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/4ZvVqOIiixaU0msVsNBnGL"
-      },
-      "artists": [
-        {
-          "name": "Mia Nicolai",
-          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
-        }
-      ],
-      "duration_ms": 147124,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/58TthkG07zuSC5SI778XiD"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -759,22 +759,6 @@
       "duration_ms": 173800,
       "name": "CONFIDENCE",
       "url": "https://open.spotify.com/track/3T0PUDcJyh2WEObEwoNjpO"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "Mannen",
-        "url": "https://open.spotify.com/album/6lRglIK0XJzsKiRvRGsHqO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 237740,
-      "name": "Mannen",
-      "url": "https://open.spotify.com/track/2nnS74QHtdJCLjuo4nBuBr"
     },
     {
       "added_at": "2023-01-05 23:00:00",

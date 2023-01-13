@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The first This is Frequency of 2023\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,457 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,605 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 35 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 | 36 | [IT''S OVA](https://open.spotify.com/track/1uAvFUP7Hb2FSnYvQp7t2v) | [WildChild](https://open.spotify.com/artist/4UnIHoaqlFMIpXlqmQ5DmY) | [IT''S OVA](https://open.spotify.com/album/28czJjV94yMENQyNIWSDS3) | 3:24 |
 | 37 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
-| 38 | [Solo](https://open.spotify.com/track/6kEM5db5pw2M3FxT6DLbJ9) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Road Trip To Venus](https://open.spotify.com/album/7uTzR5iK2Z99343yEgvrBn) | 3:26 |
+| 38 | [Solo](https://open.spotify.com/track/6kEM5db5pw2M3FxT6DLbJ9) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Road Trip To Venus](https://open.spotify.com/album/7uTzR5iK2Z99343yEgvrBn) | 3:40 |
 | 39 | [Kilowade](https://open.spotify.com/track/5vq552tT4rTr69emMUfDUt) | [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Kilowade](https://open.spotify.com/album/6bJkqgxZg76IiicFC2fqjh) | 3:01 |
-| 40 | [Bounce](https://open.spotify.com/track/4r2uWObQEwCtSBCYsxNhCw) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Isthatcj](https://open.spotify.com/artist/1TMe6xskMEKY49EllPvA2x) | [Out The Blue](https://open.spotify.com/album/1cKGIXzXOungeIa8BlzHn5) | 1:47 |
+| 40 | [Bounce](https://open.spotify.com/track/3BKjOhixJtBAtvdS9L5Da5) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Isthatcj](https://open.spotify.com/artist/1TMe6xskMEKY49EllPvA2x) | [Out The Blue](https://open.spotify.com/album/3s5WLnRl4wMjJELKRJijbf) | 1:50 |
 | 41 | [Portfolio](https://open.spotify.com/track/5tN1tWxAk6OeM2kkmQuv0d) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Portfolio](https://open.spotify.com/album/56Y1OegS89eSqEZwKhJJsP) | 2:47 |
 | 42 | [All the Way Around](https://open.spotify.com/track/1Ouiguvh09ZaooSPlbVCvb) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [All the Way Around](https://open.spotify.com/album/0laKoMP2l8XW2huyJiD8jR) | 2:33 |
 | 43 | [In Da Mixx](https://open.spotify.com/track/0mvE6o32FHmTSHrSVTJEgh) | [Dorrough Music](https://open.spotify.com/artist/5MAp6rMiUJjRLXMWtArXRS), [Rocko](https://open.spotify.com/artist/0T5OJgMVjKIX3b3W3ekqOl) | [Shut The City Down](https://open.spotify.com/album/0My9dH0iJdwJPIpH9HzTgD) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 |
 | 100 | [It Ain't My Fault](https://open.spotify.com/track/7BQkupVjSN5fDbESwX8xKv) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich \(Complete Edition\)](https://open.spotify.com/album/1Czu4sLTqiIh9gz2valbYx) | 3:15 |
 
-Snapshot ID: `MTY3Mjk4Mjg3OSwwMDAwMDAwMDZjNzk5ZDY3Y2I5NjcwNDg1NTY2YTkxOTFjNDRmZjA4`
+Snapshot ID: `MTY3Mjk4Mjg3OSwwMDAwMDAwMGE0YjI5YmMyZmNkMWJmMGU3YjMyNDZhODc5ODA2ZGYz`

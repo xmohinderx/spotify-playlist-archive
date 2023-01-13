@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-268 songs - 10 hr 30 min
+271 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Calico Citrus](https://open.spotify.com/track/4lmekINZ116MuKS8lmxwCC) | [Kid Gnasher](https://open.spotify.com/artist/3Qyo0y91QA458PKIuWso2j) | [Calico Citrus](https://open.spotify.com/album/2ctF0am26hNhUGvHjGKsOa) | 2:54 | 2022-05-27 |  |
 | [Camping](https://open.spotify.com/track/6JJOCnGGphX1aSLMEDeY3m) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Camping](https://open.spotify.com/album/1GjAfuFpQgKk3IcbUbjEPN) | 1:40 | 2022-10-28 |  |
 | [Chance](https://open.spotify.com/track/1FPqkuTb743SfNFyDGwh1d) | [Side Sledge](https://open.spotify.com/artist/04ZyJQLsMY92swDhrrSqGe) | [Chance](https://open.spotify.com/album/4MaBzgmtaK2k7QOr9cFs5g) | 3:43 | 2022-05-27 |  |
+| [Chasing Sunsets](https://open.spotify.com/track/60aVSWvHQyVRhXYCUHj3DK) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Chasing Sunsets](https://open.spotify.com/album/1MzclGSbvMjLt1Nt4qIYAA) | 2:00 | 2023-01-13 |  |
 | [Chazzed](https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Longings](https://open.spotify.com/album/304bggytiHFgGxQr93ftkm) | 2:17 | 2022-05-27 |  |
 | [Check It](https://open.spotify.com/track/6C94TkFvFvfzKfgUZeIW7R) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Fly Footage](https://open.spotify.com/album/7ENKoGVELyvs5Jndq3O9hT) | 2:19 | 2022-08-19 |  |
 | [Chen](https://open.spotify.com/track/0Y7igTuXHLFO41mnaShhLw) | [JimmieLuv](https://open.spotify.com/artist/2E3vr1mH5nTjLRPDRdUcO2) | [Chen](https://open.spotify.com/album/5l2P8YxW3MQ4s1n95V5voL) | 2:25 | 2023-01-06 |  |
@@ -65,6 +66,7 @@
 | [Creme De La Creme](https://open.spotify.com/track/5q3ixgSPx7VC5pC2O1CnQe) | [G O L](https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden) | [Creme De La Creme](https://open.spotify.com/album/7rbmVzwB6iBNmLkMGoUmr3) | 2:15 | 2022-05-27 |  |
 | [Cubism Crunk](https://open.spotify.com/track/47PMOlkzkBanoQC4LknwZ5) | [HEIXI](https://open.spotify.com/artist/5XhBFCP9dO1Mi0elkhmC7s) | [Cubism Crunk](https://open.spotify.com/album/5mEhuvyfqlFX0N8fva83BP) | 1:35 | 2022-08-12 |  |
 | [daydreamer](https://open.spotify.com/track/5F8AIxDJRMmr4dBo4B340I) | [Patient Zero Beats](https://open.spotify.com/artist/6PXzb9jaG5bAOY7ccICh47) | [daydreamer](https://open.spotify.com/album/1GgCmTQ8Gar7oKEqrkZBVY) | 2:12 | 2022-09-02 |  |
+| [Dear Friends](https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU) | [d\-Tergent](https://open.spotify.com/artist/6ye4fgFvJaIMRV9Hsry5Ta) | [Dear Friends](https://open.spotify.com/album/5dT9sOgkg4vuBzcDwnWvM0) | 2:15 | 2023-01-13 |  |
 | [Digital lounge](https://open.spotify.com/track/24XhVpnlzq5fsf7TPFccwx) | [Roboto 23](https://open.spotify.com/artist/4BqXrDIymPUviUv9HXmmjO) | [Digital lounge](https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt) | 2:09 | 2022-05-27 |  |
 | [Dizzy Dino](https://open.spotify.com/track/0JEt2ZD8qL4JNMb2klnalV) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Dizzy Dino](https://open.spotify.com/album/7vGE2cjl9s1fBj8MJcTDLj) | 2:48 | 2022-07-15 |  |
 | [Dont Cry Shorty](https://open.spotify.com/track/27u6SntXD6nJuYAArR9qjg) | [Alexander Vera](https://open.spotify.com/artist/4zQnlSlfg2Hy87ULJpjzkB) | [Dont Cry Shorty](https://open.spotify.com/album/5fF9t8zqLg4WKE3arCwn2k) | 1:37 | 2022-11-25 |  |
@@ -132,6 +134,7 @@
 | [Lasting Friendships](https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r) | [Silk Surgeon](https://open.spotify.com/artist/43o413mKchb010kYQuLcyI) | [Lasting Friendships](https://open.spotify.com/album/6xhxC2JdPDkcvgGb318RiD) | 1:56 | 2022-06-24 | 2022-07-08 |
 | [Leaks](https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Leaks](https://open.spotify.com/album/1YF3DE75jwhTCNwEYl2CsP) | 2:51 | 2022-07-29 | 2022-09-30 |
 | [leave the lights on](https://open.spotify.com/track/7d5KOapwEiUVGxa9fGOD8a) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [leave the lights on](https://open.spotify.com/album/7sh2RAqZITfrhnAOhoTKmi) | 2:12 | 2023-01-06 |  |
+| [Leaves](https://open.spotify.com/track/3zyz4vMxFmUEBuSyA19zVa) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Leaves](https://open.spotify.com/album/2wiPdIreJ1C3tInhudu60R) | 2:12 | 2023-01-13 |  |
 | [Let's Downgrade!](https://open.spotify.com/track/3xIjrwRT9LFeMjKAO9NPGy) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Let's Downgrade!](https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3) | 2:21 | 2022-06-24 |  |
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-27 | 2022-11-20 |
 | [Limitless Romance](https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/6M1TTWauVFCg2mIvPDmvXf) | 2:25 | 2022-11-11 | 2022-12-14 |

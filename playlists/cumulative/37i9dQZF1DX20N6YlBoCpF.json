@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH?si=wRplUt7FSF2-9SmbK0jmwA\">Juan Boucher</a>",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=_C6sSLVRQEy7zkFbaZTbtg\">JAN JAN JAN</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Braaf Soos 'n Boerboel",
+        "url": "https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Braaf Soos 'n Boerboel",
+      "url": "https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb"
+    },
+    {
+      "album": {
         "name": "Brand Die Skepe",
         "url": "https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6"
       },
@@ -660,7 +678,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 171428,
       "name": "December - Radio Edit",
       "url": "https://open.spotify.com/track/4GjQQH4S0Zk1AxixUYaGhf"
@@ -3045,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Spitsverkeer(D)",
+        "url": "https://open.spotify.com/album/2xk4b9wcfDMILyM5nD4FaJ"
+      },
+      "artists": [
+        {
+          "name": "Leon-Ben Lamprecht",
+          "url": "https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160582,
+      "name": "Spitsverkeer(D)",
+      "url": "https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp"
+    },
+    {
+      "album": {
         "name": "Standbeelde",
         "url": "https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C"
       },
@@ -3726,7 +3762,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 205294,
       "name": "Wie's Jou Kat?",
       "url": "https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX"

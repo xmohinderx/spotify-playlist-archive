@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "INDUSTRY BABY",
+        "url": "https://open.spotify.com/album/5y9jSiiVOhg9Lw97EEVXUp"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/6XuohehgXJ3OLFFV3sdHMm"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW"
       },
@@ -1507,6 +1525,32 @@
     },
     {
       "album": {
+        "name": "Covers, Vol. 18",
+        "url": "https://open.spotify.com/album/6X5rlOkzgx4K9wO4RzAUEJ"
+      },
+      "artists": [
+        {
+          "name": "Chill With Lofi",
+          "url": "https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI"
+        },
+        {
+          "name": "Cidus",
+          "url": "https://open.spotify.com/artist/4hHO8tDVAyaTdDKl3R12WH"
+        },
+        {
+          "name": "Emil Lonam",
+          "url": "https://open.spotify.com/artist/0eJbpPFhB19EvgEmYBIwLG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/3Sh9C9k6uZcYK68u76gTA9"
+    },
+    {
+      "album": {
         "name": "Just the Way You Are",
         "url": "https://open.spotify.com/album/2XsNMs7FezfBjQJRPzL8uo"
       },
@@ -1754,6 +1798,24 @@
       "duration_ms": 124137,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/45atCi3vYyXtz9ijskqGN5"
+    },
+    {
+      "album": {
+        "name": "Portals pt 2",
+        "url": "https://open.spotify.com/album/7yOQ2GIiEZz4nVo4BF7CPb"
+      },
+      "artists": [
+        {
+          "name": "Miro Mas",
+          "url": "https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158685,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/43M3Hb61vb3BQVLKPx5zqC"
     },
     {
       "album": {
@@ -2860,6 +2922,24 @@
       "duration_ms": 177272,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW"
+    },
+    {
+      "album": {
+        "name": "want to want me",
+        "url": "https://open.spotify.com/album/2SoUBW7aej6obPHrEFAuoE"
+      },
+      "artists": [
+        {
+          "name": "lonely call",
+          "url": "https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128131,
+      "name": "want to want me",
+      "url": "https://open.spotify.com/track/5puZEIkF0RN3zcaTpehfkf"
     },
     {
       "album": {

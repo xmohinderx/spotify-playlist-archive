@@ -5295,6 +5295,28 @@
     },
     {
       "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/754RRtCBYndQ8IC9yfSFAE"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "Celina Sharma",
+          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/1XuFjxGwGRaWYJ4NGLWg1V"
+    },
+    {
+      "album": {
         "name": "S T C",
         "url": "https://open.spotify.com/album/0VUbfZndGqGZr0KOELDUzU"
       },

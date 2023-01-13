@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Josiel Konrad Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,935 likes - 51 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,072 likes - 51 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

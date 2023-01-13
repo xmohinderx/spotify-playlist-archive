@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked indie to nourish the ears.",
-  "num_followers": 110153,
+  "num_followers": 110242,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1Mjg2OSwwMDAwMDAwMDEyNDI3MGZlMDNmZjQxMzY0NDk1NTk4NzdlOGZlZjMy",
+  "snapshot_id": "MTY3MjI1Mjg2OSwwMDAwMDAwMGZiMmQ5ZjQwYjdkZTU5MGNmM2MyY2M2OTQ1NTcyZDg0",
   "tracks": [
     {
       "added_at": "2022-12-28 18:41:09",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "Every Side Of You",
-        "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "Every Side Of You",
-      "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
-    },
-    {
-      "added_at": "2022-12-28 18:41:09",
-      "album": {
         "name": "Big Fan of the Sesh, Vol. 1",
         "url": "https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 180949,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM"
+    },
+    {
+      "added_at": "2022-12-28 18:41:09",
+      "album": {
+        "name": "Every Side Of You",
+        "url": "https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "Every Side Of You",
+      "url": "https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj"
     },
     {
       "added_at": "2022-12-28 18:41:09",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "hey girl",
-        "url": "https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "hey girl",
-      "url": "https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw"
-    },
-    {
-      "added_at": "2022-12-28 18:41:09",
-      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg"
+    },
+    {
+      "added_at": "2022-12-28 18:41:09",
+      "album": {
+        "name": "hey girl",
+        "url": "https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "hey girl",
+      "url": "https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw"
     },
     {
       "added_at": "2022-12-28 18:41:09",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
-      },
-      "artists": [
-        {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
-        }
-      ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2022-12-28 18:41:09",
-      "album": {
         "name": "Corduroy",
         "url": "https://open.spotify.com/album/0fwUb7KbDTiccmTkgaSemE"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 238053,
       "name": "Corduroy",
       "url": "https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb"
+    },
+    {
+      "added_at": "2022-12-28 18:41:09",
+      "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
     },
     {
       "added_at": "2022-12-28 18:41:09",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        }
+      ],
+      "duration_ms": 182681,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/6h3iuoFDWScrQZn3sy0tmA"
+    },
+    {
+      "added_at": "2022-12-28 18:41:09",
+      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 233533,
       "name": "Blue Hours",
       "url": "https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN"
-    },
-    {
-      "added_at": "2022-12-28 18:41:09",
-      "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/17Y9wzA3ofGRyTWxRVphQV"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        }
-      ],
-      "duration_ms": 182681,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/6h3iuoFDWScrQZn3sy0tmA"
     },
     {
       "added_at": "2022-12-28 18:41:09",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
+    },
+    {
+      "added_at": "2022-12-28 18:41:09",
+      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
-      },
-      "artists": [
-        {
-          "name": "Nature TV",
-          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
-        }
-      ],
-      "duration_ms": 222776,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
-    },
-    {
-      "added_at": "2022-12-28 18:41:09",
-      "album": {
         "name": "A Prayer Of My Own",
         "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
       },
       "artists": [
         {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+          "name": "Nature TV",
+          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
+      "duration_ms": 222776,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
     },
     {
       "added_at": "2022-12-28 18:41:09",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 216027,
-      "name": "Comingback - Single Version",
-      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
-    },
-    {
-      "added_at": "2022-12-28 18:41:09",
-      "album": {
         "name": "Song for Nick Drake",
         "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+    },
+    {
+      "added_at": "2022-12-28 18:41:09",
+      "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 216027,
+      "name": "Comingback - Single Version",
+      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
     },
     {
       "added_at": "2022-12-28 18:41:09",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "I Found Out When the Day Had Come",
-        "url": "https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5eTNCoC0nFPoBnF4LmubUJ"
       },
       "artists": [
         {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+          "name": "James Beau Barclay",
+          "url": "https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q"
+        },
+        {
+          "name": "Blu Wiley",
+          "url": "https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy"
         }
       ],
-      "duration_ms": 164000,
-      "name": "I Found Out When the Day Had Come",
-      "url": "https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4"
+      "duration_ms": 217875,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JYzvdXx2apa4twRQfVOah"
     },
     {
       "added_at": "2022-12-28 18:41:09",
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2022-12-28 18:41:09",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5eTNCoC0nFPoBnF4LmubUJ"
+        "name": "I Found Out When the Day Had Come",
+        "url": "https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc"
       },
       "artists": [
         {
-          "name": "James Beau Barclay",
-          "url": "https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q"
-        },
-        {
-          "name": "Blu Wiley",
-          "url": "https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy"
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
         }
       ],
-      "duration_ms": 217875,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7JYzvdXx2apa4twRQfVOah"
+      "duration_ms": 164000,
+      "name": "I Found Out When the Day Had Come",
+      "url": "https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4"
     },
     {
       "added_at": "2022-12-28 18:41:09",

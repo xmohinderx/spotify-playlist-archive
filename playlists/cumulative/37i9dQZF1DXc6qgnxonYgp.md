@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc6qgnxonYgp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc6qgnxonYgp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6qgnxonYgp)
 
-### [Indie Hip Hop Tamil](https://open.spotify.com/playlist/37i9dQZF1DXc6qgnxonYgp)
+### [Tamil Indie : Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DXc6qgnxonYgp)
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [101 BARS](https://open.spotify.com/track/7InqCDpJSQtfk6yztl6CaK) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb) | [101 BARS](https://open.spotify.com/album/1oyKQKZ1Z3ZRt1zMUEobaO) | 5:06 | 2022-06-15 |  |
-| [600039](https://open.spotify.com/track/5SUbOeVzczkG4z3894WM6i) | [M\. Sunil](https://open.spotify.com/artist/0hZWKc0w4Vky1fWHzeCpEW), [N.K\. Mad](https://open.spotify.com/artist/7wL4vjb1NAlZtX7O9aFBoj), [Nirmal](https://open.spotify.com/artist/0bqPBTxYkdXKw1MBbWzvTU) | [600039](https://open.spotify.com/album/2Bl6Mi65zOQbinTgCGJimB) | 2:07 | 2021-12-01 |  |
+| [600039](https://open.spotify.com/track/5SUbOeVzczkG4z3894WM6i) | [M\. Sunil](https://open.spotify.com/artist/0hZWKc0w4Vky1fWHzeCpEW), [Va Bro Inna Bro](https://open.spotify.com/artist/3e4VY6V75BfKTzKytWCMW4), [N.K\. Mad](https://open.spotify.com/artist/7wL4vjb1NAlZtX7O9aFBoj), [Nirmal](https://open.spotify.com/artist/4UmYdFSHNACw4dCRJpm9kW) | [600039](https://open.spotify.com/album/2Bl6Mi65zOQbinTgCGJimB) | 2:07 | 2021-12-01 |  |
 | [Abinaya](https://open.spotify.com/track/4FUYIGcLpLMzBCx1HLL4sR) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA) | [Abinaya](https://open.spotify.com/album/1GWKkv8LNAaDwbUde9L8Ex) | 3:18 | 2021-12-01 |  |
 | [Adi Odi \- From "Atti Culture"](https://open.spotify.com/track/6tlUm9EuYRInZ17qzJkbDv) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Adi Odi \(From "Atti Culture"\)](https://open.spotify.com/album/3WYI2KVMESqV8vLrpmVIGc) | 2:28 | 2022-10-28 |  |
 | [Alter Ego](https://open.spotify.com/track/4egiVxNCTQNvY63F4tRz5z) | [Af Althaf](https://open.spotify.com/artist/4ZkDVtrxzutTjT9anZMfgT), [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb) | [Alter Ego](https://open.spotify.com/album/7IttKyHCno9MeswRpMG5Lg) | 2:54 | 2021-12-01 |  |

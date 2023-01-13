@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-633 songs - 1 day 22 hr 25 min
+634 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,8 +232,9 @@
 | [Hey Stoopid](https://open.spotify.com/track/7gvFV0ndhy4s79EZSGIFXe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 4:33 | 2022-04-28 | 2022-07-27 |
 | [Hit Or Miss](https://open.spotify.com/track/3nviljxwgZPAb3VLgDPM3F) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Nothing Gold Can Stay](https://open.spotify.com/album/4PK8Q8HHprwJlo5LS5foJI) | 3:15 | 2022-04-28 | 2022-05-25 |
 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 | 2022-04-28 | 2022-07-29 |
+| [Hole Hearted](https://open.spotify.com/track/1cItNpcJskTVETprljc7HV) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 3:39 | 2022-11-17 |  |
 | [Hole Hearted](https://open.spotify.com/track/454prfBh6yhYBJ05NUGHJ4) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 3:39 | 2022-04-28 | 2022-07-29 |
-| [Hole In My Soul](https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 6:10 | 2022-04-28 |  |
+| [Hole In My Soul](https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 6:10 | 2022-04-28 | 2023-01-13 |
 | [Holiday](https://open.spotify.com/track/5vkkhwtKWnGkFu3tagE71D) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:24 | 2022-04-28 | 2022-07-25 |
 | [Holyman](https://open.spotify.com/track/5MPF0247HKaCPDekTMSxXP) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 4:47 | 2022-04-28 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/50mKJolpvGLvDYaelNZhK6) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 4:00 | 2022-04-28 | 2022-07-28 |
@@ -386,7 +387,7 @@
 | [Pick A Part That's New](https://open.spotify.com/track/1MJQETipF2J0UXxHt2lgFc) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Decade In The Sun \- Best Of Stereophonics \(Deluxe\)](https://open.spotify.com/album/4tm2y6cW1crczFhkylSSHZ) | 3:32 | 2022-04-28 | 2022-07-28 |
 | [Piggy](https://open.spotify.com/track/5BVFE2iCwnhQTn2CBq8eEz) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 4:24 | 2022-04-28 | 2022-07-20 |
 | [Pillars](https://open.spotify.com/track/0nqItUdx96RDxP32foWt7H) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [How It Feels To Be Something On](https://open.spotify.com/album/7lUd8epbP1tQlpxwZfCSZv) | 4:57 | 2022-04-28 | 2022-07-19 |
-| [Pink](https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:55 | 2022-04-28 |  |
+| [Pink](https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:55 | 2022-04-28 | 2023-01-13 |
 | [Pink Triangle](https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:58 | 2022-04-28 |  |
 | [Pity For A Dime](https://open.spotify.com/track/7AMkh36MntX0MkZzBFemFc) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [My Own Prison](https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud) | 5:29 | 2022-04-28 | 2022-07-02 |
 | [Please](https://open.spotify.com/track/7DwqzWCSdLEYvzqU30Pd4L) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:02 | 2022-04-28 | 2022-07-27 |
@@ -406,7 +407,7 @@
 | [Put Your Lights On \(feat\. Everlast\)](https://open.spotify.com/track/3uRaD26t3RkJ8n549udQ83) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:47 | 2022-04-28 | 2022-07-28 |
 | [Queer](https://open.spotify.com/track/39EiewBOjNSygetLhv43nA) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/7FH4wo4ceRR39By76ONfuw) | 4:36 | 2022-04-28 | 2022-07-29 |
 | [Quiet \- Remastered](https://open.spotify.com/track/3so2oO0PUu9Mj5YTgVd3ef) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:42 | 2022-04-28 | 2022-07-26 |
-| [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 | 2022-04-28 | 2023-01-12 |
+| [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 | 2022-04-28 |  |
 | [Radio Song](https://open.spotify.com/track/5UBeN0XvvIvnEjyp6uThr4) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:15 | 2022-04-28 | 2022-07-29 |
 | [Rain King](https://open.spotify.com/track/7s4JCyY8YIZSsKvtwStBQ6) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:15 | 2022-04-28 |  |
 | [Raw Power](https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:11 | 2022-04-28 | 2022-05-18 |

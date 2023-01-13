@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,144 likes - 141 songs - 8 hr 7 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,145 likes - 142 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,5 +149,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 139 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 |
 | 140 | [Pragmatica](https://open.spotify.com/track/4CRIvwzEP4uxqn6uDHWbrS) | [Dull Reality](https://open.spotify.com/artist/0MQQCmEALPoYI6rEYKCiXL) | [Pragmatica](https://open.spotify.com/album/6avpFSjEDoBZHQF4XdXCND) | 4:23 |
 | 141 | [PCH \(Pretty Cold Heart\) \- Owen Jackson Remix](https://open.spotify.com/track/6ERM3XDlUMaSH7JpJSOkZI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [Owen Jackson](https://open.spotify.com/artist/3XXJdZeiZdrrzj5oRq9SVD) | [Heartbreak County, Vol\. 2 \(Remix Pack\)](https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA) | 3:41 |
+| 142 | [You](https://open.spotify.com/track/7mGMjDKyFiEvBReptdRyeG) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You](https://open.spotify.com/album/5QQq7rHmsOgNnFvWYpslmW) | 2:48 |
 
-Snapshot ID: `MTAxMTUsYTIxNWQ0MTBlN2QzZGU3MWFkYjE1OTU1NTAwMjllZWY2MTIwYTQ2OA==`
+Snapshot ID: `MTAxMTYsYjQ4NzJjMDVhN2I1YmVkYmU2Mzc3Mzg4N2RjM2Q3YTdlZDY0Y2EwYw==`

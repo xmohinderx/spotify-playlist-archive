@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 82142,
+  "num_followers": 82220,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDIxYmE1MGU2ZTA3NmExZTI4ZjEwMmQ3NjJkMDhlNmQy",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDIzMWIwYmUxNjI4NDM5YzlhNTY5NTU2MjY3ODc0ZTll",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 97477,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 205033,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Dutch From The 5th",
-        "url": "https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b"
-      },
-      "artists": [
-        {
-          "name": "dutchavelli",
-          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
-        }
-      ],
-      "duration_ms": 138620,
-      "name": "Never Really Mine",
-      "url": "https://open.spotify.com/track/62K84Fv61CS9dGt7JQqDlM"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Why you gotta lie?",
         "url": "https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE"
       },
@@ -351,18 +335,34 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Hoods Hottest",
-        "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
+        "name": "Dutch From The 5th",
+        "url": "https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b"
       },
       "artists": [
         {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
         }
       ],
-      "duration_ms": 187617,
-      "name": "Hoods Hottest",
-      "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
+      "duration_ms": 138620,
+      "name": "Never Really Mine",
+      "url": "https://open.spotify.com/track/62K84Fv61CS9dGt7JQqDlM"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -387,6 +387,22 @@
       "duration_ms": 159183,
       "name": "Popular Loner (Remix) [feat. ARZ & JBee]",
       "url": "https://open.spotify.com/track/7IAfy3gQAOXhp2GZUUZwC6"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Hoods Hottest",
+        "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 187617,
+      "name": "Hoods Hottest",
+      "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -455,54 +471,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Have You Ever Heard A Love Song On Drill?",
-        "url": "https://open.spotify.com/album/5jEmBbvQ1imzmzg37p2F98"
-      },
-      "artists": [
-        {
-          "name": "Isong",
-          "url": "https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z"
-        }
-      ],
-      "duration_ms": 245034,
-      "name": "Have You Ever Heard A Love Song On Drill?",
-      "url": "https://open.spotify.com/track/6ytZECedDqFmfyuoRMnaJQ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 97477,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "No Games",
-        "url": "https://open.spotify.com/album/6mdanK35TKkMBZDVOEAjwc"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 153912,
-      "name": "No Games",
-      "url": "https://open.spotify.com/track/3wpnvzQY2AKFnIvrx1o9Mf"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 174846,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/1sRe7j48EAAJcr3uHAb6Z5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/6mdanK35TKkMBZDVOEAjwc"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 153912,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/3wpnvzQY2AKFnIvrx1o9Mf"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Have You Ever Heard A Love Song On Drill?",
+        "url": "https://open.spotify.com/album/5jEmBbvQ1imzmzg37p2F98"
+      },
+      "artists": [
+        {
+          "name": "Isong",
+          "url": "https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z"
+        }
+      ],
+      "duration_ms": 245034,
+      "name": "Have You Ever Heard A Love Song On Drill?",
+      "url": "https://open.spotify.com/track/6ytZECedDqFmfyuoRMnaJQ"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Pain Interlude",
         "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
         }
       ],
-      "duration_ms": 168182,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
+      "duration_ms": 180047,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -667,26 +683,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "No Pain",
         "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
       },
@@ -699,6 +695,22 @@
       "duration_ms": 163723,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "One Mic Freestyle (S3-EP1)",
+        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 121624,
+      "name": "One Mic Freestyle (S3-EP1)",
+      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -735,18 +747,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Mic Freestyle (S3-EP1)",
-        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
         }
       ],
-      "duration_ms": 121624,
-      "name": "One Mic Freestyle (S3-EP1)",
-      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Pop",
-        "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
-      },
-      "artists": [
-        {
-          "name": "Glizz",
-          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "One Pop",
-      "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Rise Above Hate",
         "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 112043,
       "name": "SS Interlude",
       "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "One Pop",
+        "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
+      },
+      "artists": [
+        {
+          "name": "Glizz",
+          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "One Pop",
+      "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -831,22 +847,6 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Moston Vale (Freestyle)",
+        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 100466,
+      "name": "Moston Vale - Freestyle",
+      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 152137,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Moston Vale (Freestyle)",
-        "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
-      },
-      "artists": [
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 100466,
-      "name": "Moston Vale - Freestyle",
-      "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111250,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Novacane",
         "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 182648,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111250,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
-      },
-      "artists": [
-        {
-          "name": "NSJ Mali",
-          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Home For Winter",
         "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
+      },
+      "artists": [
+        {
+          "name": "NSJ Mali",
+          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1652,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     },
     {
       "added_at": "2022-08-02 15:42:28",

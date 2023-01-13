@@ -3944,10 +3944,32 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 107604,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/4r2uWObQEwCtSBCYsxNhCw"
+    },
+    {
+      "album": {
+        "name": "Out The Blue",
+        "url": "https://open.spotify.com/album/3s5WLnRl4wMjJELKRJijbf"
+      },
+      "artists": [
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        },
+        {
+          "name": "Isthatcj",
+          "url": "https://open.spotify.com/artist/1TMe6xskMEKY49EllPvA2x"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110184,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3BKjOhixJtBAtvdS9L5Da5"
     },
     {
       "album": {
@@ -24271,7 +24293,7 @@
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206053,
+      "duration_ms": 220546,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6kEM5db5pw2M3FxT6DLbJ9"
     },

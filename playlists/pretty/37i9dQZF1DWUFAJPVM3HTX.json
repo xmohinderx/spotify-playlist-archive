@@ -1,12 +1,12 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: Dende. Updates every Wednesday.",
-  "num_followers": 180098,
+  "num_followers": 180376,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1OTQwNCwwMDAwMDAwMDY1MDI2ZjQzYTE2MDczZjE5ZjNhNjJiNzdmNDdhYzk1",
+  "snapshot_id": "MTY3MzU0MzcwMywwMDAwMDAwMGY1MzY4MzYyYmRiYWNmMjEyMGEzMmMzZmQ4NWQ0NDZk",
   "tracks": [
     {
       "added_at": "2023-01-11 17:50:04",
@@ -249,6 +249,42 @@
       "url": "https://open.spotify.com/track/7g4CppGVpNpA6fYJH47NjS"
     },
     {
+      "added_at": "2023-01-12 17:15:03",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/1tyWE89nzY3lj2sxYIlGAL"
+      },
+      "artists": [
+        {
+          "name": "Muwosi",
+          "url": "https://open.spotify.com/artist/0O0LFxVzzKXHPl4YkxW6y2"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/1UBRExDo8VoRSMchX9C0xm"
+    },
+    {
+      "added_at": "2023-01-12 17:15:03",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/74ss0t5fmhxC56U1yWw08F"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hush",
+          "url": "https://open.spotify.com/artist/0wN8Xcwcr6dcHiLM3lpgPz"
+        },
+        {
+          "name": "Mellina Tey",
+          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+        }
+      ],
+      "duration_ms": 127972,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2L8H2Agsg9UKfb4zoOHbih"
+    },
+    {
       "added_at": "2023-01-11 17:50:04",
       "album": {
         "name": "OTW",
@@ -267,6 +303,22 @@
       "duration_ms": 203614,
       "name": "OTW",
       "url": "https://open.spotify.com/track/7lq0QaJx33Etieu5w4QD5B"
+    },
+    {
+      "added_at": "2023-01-12 17:15:03",
+      "album": {
+        "name": "Fade to Black.",
+        "url": "https://open.spotify.com/album/719jb8MKVDSGsfYqB4JspY"
+      },
+      "artists": [
+        {
+          "name": "Marvin Dolo",
+          "url": "https://open.spotify.com/artist/5UQBWR0edHp1ZuQvqsdsT3"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "All We Know",
+      "url": "https://open.spotify.com/track/375zznhvM0rsnYOHYCw8vH"
     },
     {
       "added_at": "2023-01-11 17:50:04",

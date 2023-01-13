@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-126 songs - 6 hr 55 min
+132 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Be Quiet](https://open.spotify.com/track/3JQpHo7uX0O2IjC6BRpS2o) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:02 | 2021-12-09 |  |
 | [BEASTMODE](https://open.spotify.com/track/1eE7QzYxnnh06pJaZ4QhwN) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:15 | 2021-12-09 |  |
 | [Beautiful](https://open.spotify.com/track/3utoyXrzB3d8ahf4tqazTs) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:24 | 2021-12-09 |  |
+| [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-01-12 |  |
 | [Beautiful Night](https://open.spotify.com/track/6kDTdIoSgVqm4hWj0EIhHz) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:03 | 2021-12-09 |  |
 | [BEBE](https://open.spotify.com/track/6VaRKTYjONpko7YC6mBpEC) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:45 | 2021-12-09 |  |
 | [Because of U](https://open.spotify.com/track/0KCKvKmHFoIbVqrETayBan) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:03 | 2021-12-09 |  |
@@ -34,6 +35,9 @@
 | [Carry on](https://open.spotify.com/track/0QOLYRdOahFvQkWJkrm1eQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Phenomenon](https://open.spotify.com/album/6APn2IbS6uJSVauXAQlQXk) | 3:39 | 2021-12-09 |  |
 | [Chaotic](https://open.spotify.com/track/4yGRanEl6SCBuUsmprGhZH) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:35 | 2021-12-09 |  |
 | [COOL LOVE \(Prod\. dress\)](https://open.spotify.com/track/3BgamBEaNxWkO7BFe1EzzL) | [HONGBIN](https://open.spotify.com/artist/42v37YfovlfevjT7WkYk9G), [HYUNGWON](https://open.spotify.com/artist/2X7BGapA7C4ELFcpFWNNTx) | [THE LOVE OF SUMMER : THE PERFORMANCE](https://open.spotify.com/album/6FVAyZtifggLrVvbz5IH7b) | 3:23 | 2021-12-09 |  |
+| [Crescendo](https://open.spotify.com/track/17WqzLortqHvftKKGRAxXu) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:05 | 2023-01-12 |  |
+| [Daydream](https://open.spotify.com/track/1UbjPSgETXPg3bdzYLCrhO) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 2:26 | 2023-01-12 |  |
+| [Deny](https://open.spotify.com/track/7Kg8zkls7jEP5H89mCG1vz) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 2:53 | 2023-01-12 |  |
 | [DRAMARAMA](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:06 | 2021-12-09 |  |
 | [Ex Girl \(feat.Whee In Of MAMAMOO\)](https://open.spotify.com/track/1Nuhlx9wTWUECCGZ3XpiVs) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [THE CLAN pt.1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:23 | 2021-12-09 |  |
 | [FANTASIA](https://open.spotify.com/track/59lh6XYTsfhoXXTNU8TUrz) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:06 | 2021-12-09 |  |
@@ -58,12 +62,14 @@
 | [Incomparable](https://open.spotify.com/track/1z7cjsOaKkcEnNMVkFS3fU) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHINE FOREVER](https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj) | 3:43 | 2021-12-09 |  |
 | [INTRO: WE ARE HERE](https://open.spotify.com/track/1cFrRHNHae4bw6ssxvGdNZ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 1:12 | 2021-12-09 |  |
 | [IT AIN'T OVER](https://open.spotify.com/track/6N45wltlGQDQbxabEYhxun) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:10 | 2021-12-09 |  |
+| [IT'S ALRIGHT](https://open.spotify.com/track/4oy5p3PSyc3QGgBEUqdiXn) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 2:55 | 2023-01-12 |  |
 | [Jealousy](https://open.spotify.com/track/3TM7sUA8tMzndo6G8E526g) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CONNECT : DEJAVU](https://open.spotify.com/album/33jGMiM6HwvRfrW8bevNWo) | 3:27 | 2021-12-09 |  |
 | [Just love](https://open.spotify.com/track/1JYumffldxoPtGhe7HN8Mx) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:12 | 2021-12-09 |  |
 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-12-09 |  |
 | [Last Carnival](https://open.spotify.com/track/2ToiAuPuVZGOUC96jOvmmW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 2:54 | 2021-12-09 |  |
 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 | 2022-08-09 |  |
 | [Livin' It Up \- Korean Version](https://open.spotify.com/track/7faNO2qAPfd8oFlMUQaxpn) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:44 | 2021-12-09 |  |
+| [LONE RANGER](https://open.spotify.com/track/0R4axRx5Y4rwYY22UZhx2e) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:23 | 2023-01-12 |  |
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-04-28 |  |
 | [Love Killa](https://open.spotify.com/track/4hxNs73449mNhfLIvAC9zz) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 | 2021-12-09 |  |
 | [LOVE U](https://open.spotify.com/track/1RWlEElordcRjV8qNjgKxw) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 2:40 | 2021-12-09 |  |

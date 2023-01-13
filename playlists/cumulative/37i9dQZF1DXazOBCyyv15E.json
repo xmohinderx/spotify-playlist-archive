@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Ben Gregory",
+  "description": "The home of the best new alternative music. Cover: Young Fathers",
   "name": "The Other List",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 143550,
       "name": "adrenaline",
       "url": "https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo"
@@ -1044,10 +1044,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 180357,
       "name": "Andie Anderson",
       "url": "https://open.spotify.com/track/0wtMVE2uUH0t2qD7zpEVbu"
+    },
+    {
+      "album": {
+        "name": "Boy Next Door",
+        "url": "https://open.spotify.com/album/2QMCpjvLh6wtwaz75dyKzC"
+      },
+      "artists": [
+        {
+          "name": "Orlando",
+          "url": "https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180357,
+      "name": "Andie Anderson",
+      "url": "https://open.spotify.com/track/37RZ5wmlJoamhzyJySgSno"
     },
     {
       "album": {
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 179293,
       "name": "Autumn Song",
       "url": "https://open.spotify.com/track/0ZfA5mDADY5z0jlrozOeAa"
@@ -1882,6 +1900,24 @@
       "duration_ms": 179000,
       "name": "Be Me",
       "url": "https://open.spotify.com/track/5N4s8x2zmP3nq6VXnYLobP"
+    },
+    {
+      "album": {
+        "name": "Be On Your Way",
+        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
     },
     {
       "album": {
@@ -2746,6 +2782,24 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+    },
+    {
+      "album": {
+        "name": "bones",
+        "url": "https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB"
+      },
+      "artists": [
+        {
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168382,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF"
     },
     {
       "album": {
@@ -4816,7 +4870,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 193471,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/2hMWi3NNNyQbXo0MtrC1ST"
@@ -5126,7 +5180,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 430346,
       "name": "deathbed hangover",
       "url": "https://open.spotify.com/track/61WMop1HdgbxsneJ2IuTxx"
@@ -6247,6 +6301,24 @@
     },
     {
       "album": {
+        "name": "essential",
+        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162656,
+      "name": "essential",
+      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
+    },
+    {
+      "album": {
         "name": "Everybody's Dead Inside",
         "url": "https://open.spotify.com/album/4oHeacwCvgD4xibkx6uWEn"
       },
@@ -6456,7 +6528,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 185040,
       "name": "F2F",
       "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
@@ -7629,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/52YYOCFppDW7DIEgppakty"
+      },
+      "artists": [
+        {
+          "name": "The Go! Team",
+          "url": "https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163382,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/5GKhU5qwmkUefsTPqRwDOt"
+    },
+    {
+      "album": {
         "name": "Gen Z Baby",
         "url": "https://open.spotify.com/album/6MYS4E03V0rHrV7mueXk1f"
       },
@@ -8204,6 +8294,28 @@
       "duration_ms": 174680,
       "name": "Gone (with Jensen McRae)",
       "url": "https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b"
+    },
+    {
+      "album": {
+        "name": "Good For Now",
+        "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241877,
+      "name": "Good For Now (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
     },
     {
       "album": {
@@ -10662,7 +10774,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 217746,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/79D28tx4kK2OVBFcEZHH6l"
@@ -10684,7 +10796,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 143376,
       "name": "Insecure (Love Yourself) (feat. Deyaz)",
       "url": "https://open.spotify.com/track/4Vki1XyASpyV6VcTOZJUE6"
@@ -12330,7 +12442,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 174292,
       "name": "lost in her phone",
       "url": "https://open.spotify.com/track/2SsMgATz0w6t594iTbxhS8"
@@ -12881,6 +12993,24 @@
     },
     {
       "album": {
+        "name": "manifest*",
+        "url": "https://open.spotify.com/album/4NIBcdoYFDmpfUD031ErU4"
+      },
+      "artists": [
+        {
+          "name": "Ben Gregory",
+          "url": "https://open.spotify.com/artist/5ySqcP3quTUGx0l48NMDGm"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291920,
+      "name": "manifest*",
+      "url": "https://open.spotify.com/track/6B3uxVkSkgLr1vN59oLJqf"
+    },
+    {
+      "album": {
         "name": "MANY FACES",
         "url": "https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc"
       },
@@ -13058,7 +13188,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 190667,
       "name": "Messages",
       "url": "https://open.spotify.com/track/4C83d5U54HagBz6DtseAB9"
@@ -13362,7 +13492,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 176122,
       "name": "MONSOON",
       "url": "https://open.spotify.com/track/5tJKPKs5A6PrcLWJ08AkOM"
@@ -13446,6 +13576,24 @@
       "duration_ms": 249207,
       "name": "More Than Friends (with HONNE)",
       "url": "https://open.spotify.com/track/6Bxon4eYGOOwxXtSX9lhQo"
+    },
+    {
+      "album": {
+        "name": "More Than I Can Afford",
+        "url": "https://open.spotify.com/album/0ISg5alCzCZh4w1Wc8jqmm"
+      },
+      "artists": [
+        {
+          "name": "Bad Sounds",
+          "url": "https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186419,
+      "name": "More Than I Can Afford",
+      "url": "https://open.spotify.com/track/6rM8PhpdxO2vtY5MCs29xV"
     },
     {
       "album": {
@@ -14477,6 +14625,24 @@
     },
     {
       "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
+    },
+    {
+      "album": {
         "name": "November (feat. Hak Baker)",
         "url": "https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v"
       },
@@ -14514,7 +14680,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 356766,
       "name": "now rest.",
       "url": "https://open.spotify.com/track/7w2BFaIljW2VETno4xiwsr"
@@ -14728,6 +14894,24 @@
       "duration_ms": 174735,
       "name": "ocean view",
       "url": "https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j"
+    },
+    {
+      "album": {
+        "name": "Oceans Niagara",
+        "url": "https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271656,
+      "name": "Oceans Niagara",
+      "url": "https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ"
     },
     {
       "album": {
@@ -16335,6 +16519,24 @@
     },
     {
       "album": {
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/0DOmgiyED79X8WnZ4qKMcp"
+      },
+      "artists": [
+        {
+          "name": "Finn Foxell",
+          "url": "https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/0O187ycWfb1HFfLCicRLPJ"
+    },
+    {
+      "album": {
         "name": "Red Skies",
         "url": "https://open.spotify.com/album/6Sd3aCrziICCU1VYeSfUnB"
       },
@@ -16382,7 +16584,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 129511,
       "name": "reload",
       "url": "https://open.spotify.com/track/2O3J4YJwcqLMX0i5D3E5NI"
@@ -16494,6 +16696,24 @@
       "duration_ms": 238651,
       "name": "Rhetorical Figure",
       "url": "https://open.spotify.com/track/1MgnKMohBBLMyHKAIor2HV"
+    },
+    {
+      "album": {
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
     },
     {
       "album": {
@@ -16732,7 +16952,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 283506,
       "name": "Rotten Bun",
       "url": "https://open.spotify.com/track/2pakEACVxDopSL00z5I7Un"
@@ -16808,6 +17028,24 @@
       "duration_ms": 171568,
       "name": "RUBBER BANDS",
       "url": "https://open.spotify.com/track/4Ui0mQgS3pDEjFXmDnBo24"
+    },
+    {
+      "album": {
+        "name": "RUDEBOY",
+        "url": "https://open.spotify.com/album/0bbIAvjGn9LtCUJNKvwQ0H"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200957,
+      "name": "RUDEBOY",
+      "url": "https://open.spotify.com/track/6zewICx5nFMLM9GxCr0zNT"
     },
     {
       "album": {
@@ -17891,6 +18129,24 @@
     },
     {
       "album": {
+        "name": "Heart-Shaped Bruise",
+        "url": "https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Smile For The Camera",
+      "url": "https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg"
+    },
+    {
+      "album": {
         "name": "Smoke And Fire",
         "url": "https://open.spotify.com/album/3spa4GdH5GBOmEId6gOOWm"
       },
@@ -18279,6 +18535,24 @@
     },
     {
       "album": {
+        "name": "Sore Bear",
+        "url": "https://open.spotify.com/album/5yQKXT60TtiTBhdcYTqBkh"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251106,
+      "name": "Sore Bear",
+      "url": "https://open.spotify.com/track/5JtQfeIhkLsqvSKTMxVcwM"
+    },
+    {
+      "album": {
         "name": "Sorry Kid",
         "url": "https://open.spotify.com/album/3aRiyOMsItDXz8maSUadnH"
       },
@@ -18498,6 +18772,24 @@
       "duration_ms": 134482,
       "name": "Sports & Tattoos",
       "url": "https://open.spotify.com/track/0UfdMqql8BAEFccEw62CZS"
+    },
+    {
+      "album": {
+        "name": "Prize",
+        "url": "https://open.spotify.com/album/54wyPNueynFWwQJdpkts2f"
+      },
+      "artists": [
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275306,
+      "name": "Spot Thirteen",
+      "url": "https://open.spotify.com/track/4jQxhcVxn3mjdOAA9OFfNk"
     },
     {
       "album": {
@@ -19676,7 +19968,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 190812,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
@@ -20710,7 +21002,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 263061,
       "name": "Time is Not a Healer it's a Fuel for Resentment",
       "url": "https://open.spotify.com/track/6S5nMMtAlLRo24nkDLG6yh"

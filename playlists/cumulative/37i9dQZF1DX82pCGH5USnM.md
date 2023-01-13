@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-674 songs - 1 day 15 hr 2 min
+681 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2Ez](https://open.spotify.com/track/4cmuPWbhVeM4Nnji22zCvG) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Low blood sugar? enable cookies](https://open.spotify.com/album/1ZXrj4cZXMGgdE3mGTnoFp) | 2:58 | 2021-04-15 | 2022-07-15 |
 | [909s & Love](https://open.spotify.com/track/7Be77VVrbw2KIowC61nTGM) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [909s & Love](https://open.spotify.com/album/6OwJEOqpDZ5zqMr2YsSIFT) | 2:27 | 2022-09-09 | 2023-01-07 |
 | [A Breeze](https://open.spotify.com/track/3mgEJOoRRqnlxkTTAUMyMW) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [A Breeze](https://open.spotify.com/album/2rILFeDjgejBvUd4kJAJHp) | 3:00 | 2023-01-06 |  |
+| [A drink after take\-off](https://open.spotify.com/track/7cHnZBAUNwh09TzgiWghqL) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [A drink after take\-off](https://open.spotify.com/album/1DZala6E1MxVEP0jiqvorM) | 2:56 | 2023-01-13 |  |
 | [A Love \(Like Yours\)](https://open.spotify.com/track/1muPGFPeXv874v9w3eyNAu) | [Rowan Hutsch](https://open.spotify.com/artist/3XVfjQgN1wXGgEmLFI9kf5) | [A Love \(Like Yours\)](https://open.spotify.com/album/6w8AARrkog4p2ql2VeVPIB) | 2:44 | 2021-11-08 | 2022-07-29 |
 | [a place where middle class memories are made](https://open.spotify.com/track/695KQoR1NQ1cLt6hy7kQEP) | [no.notnow](https://open.spotify.com/artist/3IaxAPJPafH59f2qinqbkb) | [a place where middle class memories are made](https://open.spotify.com/album/6GoMQl7xOJilRMOoDA3Mfj) | 2:05 | 2020-04-03\* | 2020-07-22 |
 | [A Snake Walking](https://open.spotify.com/track/4NzZbh6XXqpc8vKNdudcAM) | [Roral Ceef](https://open.spotify.com/artist/6gknYSsRHR4U2rU4MaTp7B) | [Don't You Dare](https://open.spotify.com/album/0b6Vu47sKXKXzdjHT91JQs) | 3:04 | 2020-04-21 | 2020-05-06 |
@@ -147,6 +148,7 @@
 | [Days.Spent Alone](https://open.spotify.com/track/0ms65AqkeniLWjSmR6y7Iw) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Days.Spent Alone](https://open.spotify.com/album/2dReQBDfSGNihzZQ5M9qbf) | 2:17 | 2022-08-19 |  |
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2021-04-29 | 2021-09-09 |
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2021-11-08 |  |
+| [deep swim](https://open.spotify.com/track/34GgOWtvEh28eFmPaKo9CT) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [deep swim](https://open.spotify.com/album/29l4sL3pTRXmuXZOMOEDm0) | 4:07 | 2023-01-13 |  |
 | [Delta\-Omicron](https://open.spotify.com/track/4y3vErFuRlu6i2SyO0nkD1) | [Loell](https://open.spotify.com/artist/3jDHiq5XFmo97S6L5NtGsn) | [Delta\-Omicron](https://open.spotify.com/album/53NmGCs59O0EYT2uRNDW5x) | 2:51 | 2021-01-05 | 2022-01-22 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-10-06 |  |
 | [Deseable](https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Deseable](https://open.spotify.com/album/0e5TXcaLggVbVsaBhU0iGo) | 2:29 | 2022-06-24 |  |
@@ -160,7 +162,7 @@
 | [Differentia](https://open.spotify.com/track/7vPDIGMLri3GgfhHERDMMz) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Differentia](https://open.spotify.com/album/4YUyPcYe3sp1l44sAhIgLY) | 5:43 | 2021-02-10 | 2021-06-02 |
 | [Dimensions](https://open.spotify.com/track/5rTy1sH9jfGEHzdZ5oUG3P) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Dimensions](https://open.spotify.com/album/6908Dm8onq9f0UfdmhFzg2) | 3:16 | 2021-11-08 | 2022-07-08 |
 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 | 2021-07-08 |  |
-| [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2021-03-06 |  |
+| [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2021-03-06 | 2023-01-13 |
 | [Doja Dojo](https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Doja Dojo](https://open.spotify.com/album/3oyC5IKHH1VdM7L9o18gfA) | 4:12 | 2021-11-08 |  |
 | [Doliing](https://open.spotify.com/track/0psCXzD0edhxVFv8oiK6YY) | [GVNN](https://open.spotify.com/artist/0zXUbyiI3f7ZkCjBtDh2fV) | [SAKKYA EP](https://open.spotify.com/album/2WEBSGLnvi8EjZuenG9b5F) | 4:18 | 2020-04-14 | 2020-07-22 |
 | [Don't Wait Blue](https://open.spotify.com/track/22lKedeOAiGBpMOPW60PwD) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Don't Wait Blue](https://open.spotify.com/album/6HgQpYP3a9omdYczFyTjdg) | 3:05 | 2022-07-01 |  |
@@ -171,6 +173,7 @@
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2021-08-20 |  |
 | [Drifting Birds](https://open.spotify.com/track/5nOth6ffzv6CJoz1Uo2G0u) | [Marcelo Paladini](https://open.spotify.com/artist/25BgfscpzfJH0pk8VR0jkx) | [Drifting Birds](https://open.spotify.com/album/7CckFa2hnZAMN9wIuxuE4O) | 7:35 | 2021-02-10 | 2021-08-20 |
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2021-09-09 |  |
+| [driver seat](https://open.spotify.com/track/2Ttja9UD1t9GeD8MzL8J4v) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [driver seat](https://open.spotify.com/album/1WKAAaqwcZpMP3gA7JhZGf) | 2:18 | 2023-01-13 |  |
 | [Easy Living](https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Easy Living](https://open.spotify.com/album/10WJanvowjMB3sktk90S1g) | 6:30 | 2020-11-11 | 2020-12-02 |
 | [eazy eve](https://open.spotify.com/track/29cC6bQqSFxERHGHm9XNWS) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [eazy eve](https://open.spotify.com/album/414wliVLhq5yZEXrtL02n6) | 2:21 | 2022-10-07 |  |
 | [Echo Valley](https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL) | [Spreading Rhythm](https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB) | 4:01 | 2022-10-28 |  |
@@ -188,6 +191,7 @@
 | [Equanimity](https://open.spotify.com/track/5isIut0C8hN4bId0imeKog) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [Zachary Bowe](https://open.spotify.com/artist/49flxx7eVrsc0uBG1KolV6) | [Equanimity](https://open.spotify.com/album/7xhqEbF1zKfa3ONmbSwIyQ) | 2:33 | 2021-04-15 | 2021-04-21 |
 | [Extra Sauce](https://open.spotify.com/track/1hciDzduTo3NzRZAUbn8MF) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Extra Sauce](https://open.spotify.com/album/093GCiTifgpyMmpiWDOCUE) | 2:54 | 2022-06-10 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-04-15 | 2021-08-20 |
+| [F@F](https://open.spotify.com/track/2fb8xvdu2oIcSy6MHvF8E8) | [Vandrz](https://open.spotify.com/artist/39aL8sGmqpSVt5hgraIRhw) | [AVIATION](https://open.spotify.com/album/0sjgGJyQ74hhzRNwOKFzPl) | 3:33 | 2023-01-13 |  |
 | [Fabulous Vegas](https://open.spotify.com/track/1N0xapomYwqNTLekadIR0F) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Fabulous Vegas](https://open.spotify.com/album/2dFnTZGUsOA55HZEa3Pp1m) | 3:03 | 2022-10-14 |  |
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2021-09-22 | 2022-07-08 |
 | [fascination](https://open.spotify.com/track/2ZiOzyhYErIcdZUgAqprwO) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Fascination](https://open.spotify.com/album/5gcMQyg7DqkvElsPY5pyVb) | 2:41 | 2020-11-19 | 2022-06-24 |
@@ -331,6 +335,7 @@
 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 | 2022-09-09 |  |
 | [Leopard](https://open.spotify.com/track/6iGlQo9EoxSWmtg9g0d4oP) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Leopard](https://open.spotify.com/album/1CgRMTVsUt7wY2L963K4UF) | 3:33 | 2022-10-07 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2021-07-08 |  |
+| [Level](https://open.spotify.com/track/5jDuQ3ny56TrffGzVgZMDg) | [Book Klubs](https://open.spotify.com/artist/54C2mTHSbSRat5IAo3cg8j) | [Level](https://open.spotify.com/album/0hQ23CmIPkWi8dsNb0V5ZM) | 3:33 | 2023-01-13 |  |
 | [Life Is So Beautiful](https://open.spotify.com/track/6luAShpeqHTE84A4pY6Zcg) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Life Is So Beautiful](https://open.spotify.com/album/5TDlvVG8byo9mRv80j9Zsg) | 2:02 | 2020-04-03\* | 2021-03-18 |
 | [Life Should Be \(Easy\)](https://open.spotify.com/track/55lEo1OXIh57bA9qTIpmxA) | [D\. Bailed](https://open.spotify.com/artist/5N5LNdCxE7DlBojEneu0Hu) | [Life Should Be \(Easy\)](https://open.spotify.com/album/5297D0O6pcL9C1vSJz5mH6) | 6:27 | 2021-03-18 | 2021-06-02 |
 | [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 |  |
@@ -356,6 +361,7 @@
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2021-04-21 | 2021-09-09 |
 | [Magic Touch](https://open.spotify.com/track/6K43OgWy4rxmz7iKHij6Ua) | [Tim Olsson](https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j) | [Magic Touch](https://open.spotify.com/album/1ontJHV8Xqor2szB88YxDP) | 2:12 | 2022-09-16 |  |
 | [Majestic Diver](https://open.spotify.com/track/5kl9KNQIIV3xPGvBP2xPmw) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Majestic Diver](https://open.spotify.com/album/46HzGw31BxoYlARH6kIspC) | 4:10 | 2020-04-14 | 2020-10-16 |
+| [Mamanuca](https://open.spotify.com/track/3EFMCEcsRrfDiDIEUlBgRi) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Mamanuca](https://open.spotify.com/album/2Ay9ThhhF500zjiEWoXBJm) | 2:16 | 2023-01-13 |  |
 | [Marathia](https://open.spotify.com/track/6Vcmffnur4CAIFaV0Z1VHv) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Marathia](https://open.spotify.com/album/3AjVuMTqsXGR7vXNo9OwSu) | 2:13 | 2022-10-28 |  |
 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 | 2021-04-15 |  |
 | [Matter](https://open.spotify.com/track/5Rd1qrMQpuDcgmqrhC1OcM) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Matter](https://open.spotify.com/album/3AjQTfwlLHoiblJkFZPTCi) | 2:39 | 2021-04-21 | 2021-09-09 |
@@ -594,6 +600,7 @@
 | [Swoosh](https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Swoosh](https://open.spotify.com/album/3WUfj10ZPtllBAqGRsnQGu) | 3:02 | 2020-10-27 | 2022-06-24 |
 | [Symbiosis](https://open.spotify.com/track/1ZdsZcijEFam8ABkebkKZX) | [Jiungsu](https://open.spotify.com/artist/3QXLTPHUZakK8KDFCBS43I) | [Symbiosis](https://open.spotify.com/album/7umm0ZxYJpYBeKZsuqvRnC) | 2:40 | 2021-01-15 | 2021-03-25 |
 | [tagada](https://open.spotify.com/track/0dZF0uYtRqO8jiomWHPaaI) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [tagada](https://open.spotify.com/album/47wnVoEyYSQHT1zKMbJkAN) | 2:26 | 2022-05-20 | 2022-05-27 |
+| [Takes Two](https://open.spotify.com/track/4t0Jd9SUVvCqDmZ08lqXcx) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 2](https://open.spotify.com/album/0xuDJrCDAVY3HPmoArJ2dj) | 3:51 | 2023-01-13 |  |
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2021-03-18 | 2021-09-22 |
 | [Talk Lines](https://open.spotify.com/track/4PoR5o9KrxitDT6gXwHTiQ) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Talk Lines](https://open.spotify.com/album/5fVn1HrAPRaZrKandc6KtL) | 3:51 | 2020-11-11 | 2021-04-21 |
 | [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2021-03-18 |  |

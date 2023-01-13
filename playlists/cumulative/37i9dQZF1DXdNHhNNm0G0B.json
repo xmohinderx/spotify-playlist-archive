@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Relax to the sounds of acoustic blues and folk...",
+  "description": "",
   "name": "Backporch Blues",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 379453,
       "name": "A Real State of Independence",
       "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
@@ -262,10 +262,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "Cool Drink of Water Blues",
       "url": "https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2"
+    },
+    {
+      "album": {
+        "name": "Cruel Old World",
+        "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172747,
+      "name": "Cruel Old World",
+      "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
     },
     {
       "album": {
@@ -352,7 +370,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 316048,
       "name": "Dodge City",
       "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
@@ -424,7 +442,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174093,
       "name": "Friar's Point Blues",
       "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
@@ -442,7 +460,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Frisco Blues",
       "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
@@ -557,6 +575,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Cannon's Jug Stompers",
+        "url": "https://open.spotify.com/album/6zMTnsHJb9V8IonCLVav1F"
+      },
+      "artists": [
+        {
+          "name": "Cannon's Jug Stompers",
+          "url": "https://open.spotify.com/artist/65oBffOa88Yjia8B9FTLAS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Heart Breakin' Blues",
+      "url": "https://open.spotify.com/track/7ct1EY3oM7uKoXGabiM9D9"
+    },
+    {
+      "album": {
         "name": "Heavy Load",
         "url": "https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1"
       },
@@ -647,6 +683,24 @@
     },
     {
       "album": {
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134960,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9"
+    },
+    {
+      "album": {
         "name": "Hurt Me",
         "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
       },
@@ -658,7 +712,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155319,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
@@ -730,7 +784,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 264880,
       "name": "Imaginational Anthem",
       "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
@@ -802,7 +856,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264386,
       "name": "Lake Shore Drive (Slight Return)",
       "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
@@ -820,7 +874,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256310,
       "name": "Lazy Sunday",
       "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
@@ -874,7 +928,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 207640,
       "name": "Lonesome Blues",
       "url": "https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg"
@@ -892,7 +946,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 245026,
       "name": "Long Nights I",
       "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
@@ -910,10 +964,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 245066,
       "name": "Long River (Allegheny)",
       "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+    },
+    {
+      "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116173,
+      "name": "Mama Don't Tear Your Clothes",
+      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
     },
     {
       "album": {
@@ -928,7 +1000,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 332240,
       "name": "Memoria Djalma",
       "url": "https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn"
@@ -1058,10 +1130,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 214786,
       "name": "Night After Sidewalk",
       "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
+    },
+    {
+      "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
     },
     {
       "album": {
@@ -1094,7 +1184,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 339320,
       "name": "Plains of Waterloo / James Connolly",
       "url": "https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg"
@@ -1148,7 +1238,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 261333,
       "name": "Right Kind of Trouble",
       "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
@@ -1210,6 +1300,28 @@
       "duration_ms": 983850,
       "name": "Seasonal Hire",
       "url": "https://open.spotify.com/track/4F3TIQlYKTQO0kCyTsrTk3"
+    },
+    {
+      "album": {
+        "name": "Seasonal Hire",
+        "url": "https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        },
+        {
+          "name": "The Black Twig Pickers",
+          "url": "https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 983850,
+      "name": "Seasonal Hire",
+      "url": "https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh"
     },
     {
       "album": {
@@ -1278,7 +1390,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 169214,
       "name": "She Ain't Nowhere - Remastered",
       "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
@@ -1386,7 +1498,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202933,
       "name": "Sunflower Blues",
       "url": "https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c"
@@ -1440,7 +1552,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231706,
       "name": "The Drifter Blues",
       "url": "https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6"
@@ -1458,7 +1570,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 186591,
       "name": "The Man From Nowhere",
       "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
@@ -1476,7 +1588,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 288626,
       "name": "There Is a Place in This Old Town",
       "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
@@ -1602,7 +1714,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192946,
       "name": "Way Down Yonder Blues",
       "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
@@ -1642,7 +1754,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 232426,
       "name": "When You Got a Good Friend",
       "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"

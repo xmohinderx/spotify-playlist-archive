@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 29538,
+  "num_followers": 29560,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGZhZjE0YjhlN2QyZTliYmVmZWVjZjBiOTM3ZDUyNGI2",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGRhZjBjMDg5YTA3OTFjYTk4ZGQwNTBhODY1YjY3NzYz",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -943,22 +943,18 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Con Salsa y Sabor",
-        "url": "https://open.spotify.com/album/4JV5MpIrOZ8GDgoUVU79Zr"
+        "name": "Rompiendo clave",
+        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
       },
       "artists": [
         {
-          "name": "Menique",
-          "url": "https://open.spotify.com/artist/3rBtQkDCUdPSBvE7k0pgfP"
-        },
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+          "name": "El Combo Belga",
+          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
         }
       ],
-      "duration_ms": 250946,
-      "name": "Con Salsa Y Sabor",
-      "url": "https://open.spotify.com/track/6N4aFctccB3Zyz1hD0SpYs"
+      "duration_ms": 264360,
+      "name": "Te conozco bacalao",
+      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -979,18 +975,22 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Rompiendo clave",
-        "url": "https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v"
+        "name": "Con Salsa y Sabor",
+        "url": "https://open.spotify.com/album/4JV5MpIrOZ8GDgoUVU79Zr"
       },
       "artists": [
         {
-          "name": "El Combo Belga",
-          "url": "https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve"
+          "name": "Menique",
+          "url": "https://open.spotify.com/artist/3rBtQkDCUdPSBvE7k0pgfP"
+        },
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
         }
       ],
-      "duration_ms": 264360,
-      "name": "Te conozco bacalao",
-      "url": "https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb"
+      "duration_ms": 250946,
+      "name": "Con Salsa Y Sabor",
+      "url": "https://open.spotify.com/track/6N4aFctccB3Zyz1hD0SpYs"
     },
     {
       "added_at": "2020-06-16 21:18:22",

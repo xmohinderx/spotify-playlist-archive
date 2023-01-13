@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-423 songs - 1 day 5 hr 53 min
+424 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Absolute](https://open.spotify.com/track/1cMZTMXTITVxkHsgXNKKeB) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Cupid & Psyche 85](https://open.spotify.com/album/0nBH3ITWaQDYT2wAWRdg3K) | 4:25 | 2019-08-02 | 2022-11-13 |
 | [Adolescent Sex](https://open.spotify.com/track/3ZnZ4m1ee47HSnFDDOcrF6) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Assemblage](https://open.spotify.com/album/0dAsUU19ezkLw7ZUMgdfc3) | 4:13 | 2019-08-02 | 2022-04-21 |
 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 | 2020-05-30 |  |
+| [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 | 2018-12-12 |  |
 | [Alice](https://open.spotify.com/track/7F6BEu2rLdtuo0Q9hfvPEj) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Original Album Series](https://open.spotify.com/album/6oiVHlMOinHZiUPoCqBQJx) | 3:34 | 2018-12-12 | 2022-04-21 |
 | [All Lined Up](https://open.spotify.com/track/1MTZLNGlaw1308UlCv9QGJ) | [Shriekback](https://open.spotify.com/artist/5zdhsKuFI263xttcgdoW3c) | [Oil and Gold](https://open.spotify.com/album/2g8KIQeN8NN1cdZOTUSLIf) | 3:45 | 2018-12-12 | 2022-07-06 |
 | [All Tomorrow's Parties \(12" Version\) \[1983 Remix\]](https://open.spotify.com/track/3KPHmatTAL8dHuFiHJc7TJ) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR), [Steven Nye](https://open.spotify.com/artist/6Nev1rFZdd5j0eTGtJ2AVq) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 5:15 | 2022-05-16 | 2022-05-27 |
@@ -276,7 +277,7 @@
 | [Pocket Calculator \- 2009 Remaster](https://open.spotify.com/track/4xa1gzSKd6ihtVGd8dWs69) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Computer World \(2009 Remaster\)](https://open.spotify.com/album/42hCHiMtfs7mfBTVX3V6k7) | 4:56 | 2018-12-12 | 2022-07-26 |
 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 | 2018-12-12 |  |
 | [Private Revolution](https://open.spotify.com/track/5GD20Q0mvpsTCuNy9BHZbA) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE) | [Private Revolution](https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey) | 4:03 | 2020-01-26 | 2022-05-21 |
-| [Psycho Killer \- Live](https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:24 | 2019-08-02 |  |
+| [Psycho Killer \- Live](https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:24 | 2019-08-02 | 2023-01-13 |
 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 | 2018-12-12 | 2022-11-13 |
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 | 2018-12-12 |  |
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/7LwlTiFehCUVQQJKEUzF5Z) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/3VWF2zk0hXCcUmtprzF4zs) | 3:58 | 2018-12-12 | 2022-07-29 |

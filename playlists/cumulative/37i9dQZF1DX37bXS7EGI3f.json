@@ -3963,6 +3963,28 @@
     },
     {
       "album": {
+        "name": "Vultures Die Alone",
+        "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
+      },
+      "artists": [
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        },
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252893,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
+    },
+    {
+      "album": {
         "name": "In The Name Of Love (feat. Cyan Kicks)",
         "url": "https://open.spotify.com/album/1BPZ8JJZTv6CFDoyU7kJY7"
       },
@@ -6702,7 +6724,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 276402,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/4xMGEdt0h9iONzUsyHrbwI"

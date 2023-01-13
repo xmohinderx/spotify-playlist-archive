@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 521384,
+  "num_followers": 521905,
   "original_name": "ROCK 'N' RUN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA2NDA5NCwwMDAwMDAwMDY5YTRiOWRmOGExYmUxMjkwNDhlZDcxN2ViNDEzYmY1",
+  "snapshot_id": "MTY2OTA2NDA5NCwwMDAwMDAwMDUxMTkwMTE4YWFhYjgxMjM4MGYzYWE4YjI4YTQzNmI5",
   "tracks": [
     {
       "added_at": "2022-11-21 20:54:53",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-21 20:54:53",
       "album": {
-        "name": "You're Gonna Miss It All",
-        "url": "https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Your Graduation",
-      "url": "https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD"
-    },
-    {
-      "added_at": "2022-11-21 20:54:53",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 230066,
       "name": "Control",
       "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2022-11-21 20:54:53",
+      "album": {
+        "name": "You're Gonna Miss It All",
+        "url": "https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Your Graduation",
+      "url": "https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD"
     },
     {
       "added_at": "2022-11-21 20:54:53",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-11-21 20:54:53",
       "album": {
-        "name": "Good Morning Revival",
-        "url": "https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p"
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 195680,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
+      "duration_ms": 213866,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
     },
     {
       "added_at": "2022-11-21 20:54:53",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-11-21 20:54:53",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+        "name": "Good Morning Revival",
+        "url": "https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
+      "duration_ms": 195680,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
     },
     {
       "added_at": "2022-11-21 20:54:53",

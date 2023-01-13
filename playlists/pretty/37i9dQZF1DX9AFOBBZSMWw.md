@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,744 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,866 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 18 | [Please](https://open.spotify.com/track/68YIQOIzbDfMLA56gq0VWo) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 2:54 |
 | 19 | [Know Me From](https://open.spotify.com/track/78gWgWOO4xjYbTbYimvBLQ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Know Me From](https://open.spotify.com/album/6eKr6UDh34UAuQ5RgRKiBF) | 3:13 |
 | 20 | [Big Michael](https://open.spotify.com/track/4zrQ9UIhPD6lL6VBISJ5aE) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:26 |
-| 21 | [Bad Blood](https://open.spotify.com/track/64vA8KSO1tQJDC7jhV1cML) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [NAO](https://open.spotify.com/artist/5wKnDHGy41unU9KToMCMrr) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 4:03 |
+| 21 | [Bad Blood](https://open.spotify.com/track/64vA8KSO1tQJDC7jhV1cML) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 4:03 |
 | 22 | [Own It \(feat\. Ed Sheeran & Burna Boy\)](https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:36 |
 | 23 | [Lessons](https://open.spotify.com/track/5iVGN1Th2DqyWVNIBM8Vwk) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:07 |
 | 24 | [Superheroes](https://open.spotify.com/track/02t2kfqtYpPW8718hxnBcV) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:31 |

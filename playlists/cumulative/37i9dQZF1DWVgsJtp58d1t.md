@@ -4,7 +4,7 @@
 
 > The first This is Frequency of 2023\. Cover: Popcaan
 
-1,530 songs - 3 day 3 hr 51 min
+1,531 songs - 3 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Bop Stick](https://open.spotify.com/track/5FA3ouHtlqYbvQjHJ7OuKX) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Bop Stick](https://open.spotify.com/album/6XHn3lHmjIZia6TKIPO2qX) | 2:06 | 2022-03-18 | 2022-04-09 |
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-05-06 | 2022-06-08 |
 | [Born Again](https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 | 2022-11-11 | 2022-12-10 |
-| [Bounce](https://open.spotify.com/track/4r2uWObQEwCtSBCYsxNhCw) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Isthatcj](https://open.spotify.com/artist/1TMe6xskMEKY49EllPvA2x) | [Out The Blue](https://open.spotify.com/album/1cKGIXzXOungeIa8BlzHn5) | 1:47 | 2022-12-30 |  |
+| [Bounce](https://open.spotify.com/track/4r2uWObQEwCtSBCYsxNhCw) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Isthatcj](https://open.spotify.com/artist/1TMe6xskMEKY49EllPvA2x) | [Out The Blue](https://open.spotify.com/album/1cKGIXzXOungeIa8BlzHn5) | 1:47 | 2022-12-30 | 2023-01-13 |
+| [Bounce](https://open.spotify.com/track/3BKjOhixJtBAtvdS9L5Da5) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Isthatcj](https://open.spotify.com/artist/1TMe6xskMEKY49EllPvA2x) | [Out The Blue](https://open.spotify.com/album/3s5WLnRl4wMjJELKRJijbf) | 1:50 | 2022-12-30 |  |
 | [Bout Mine](https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Bout Mine](https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK) | 2:27 | 2022-10-28 | 2022-11-19 |
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2022-10-22 |
 | [Bows](https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Bows](https://open.spotify.com/album/6arekQAfjAS10TzMsgacOn) | 2:34 | 2022-07-09 | 2022-08-06 |
@@ -1227,7 +1228,7 @@
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-04 | 2022-03-05 |
 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 | 2022-07-09 | 2022-08-06 |
 | [solitude/martini on mars](https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 3:15 | 2022-07-29 | 2022-08-20 |
-| [Solo](https://open.spotify.com/track/6kEM5db5pw2M3FxT6DLbJ9) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Road Trip To Venus](https://open.spotify.com/album/7uTzR5iK2Z99343yEgvrBn) | 3:26 | 2022-12-30 |  |
+| [Solo](https://open.spotify.com/track/6kEM5db5pw2M3FxT6DLbJ9) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Road Trip To Venus](https://open.spotify.com/album/7uTzR5iK2Z99343yEgvrBn) | 3:40 | 2022-12-30 |  |
 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-07-22 | 2022-08-06 |
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2022-04-23 |
 | [Somebody Told Me](https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Somebody Told Me](https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk) | 4:15 | 2022-05-27 | 2022-06-18 |

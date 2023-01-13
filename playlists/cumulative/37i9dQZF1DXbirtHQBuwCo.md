@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: JUNNY\(주니\)\)
+> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: xooos\(수스\)\)
 
-493 songs - 1 day 2 hr 48 min
+494 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [choco \(Prod\. DPR CREAM / Feat\. SOLE\)](https://open.spotify.com/track/1dVYsWzYzBDGCmxpZz9D0p) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 3:54 | 2022-07-07 | 2022-07-13 |
 | [Christmas Last Awhile \(feat\. paulkyte\)](https://open.spotify.com/track/69XPghJUtT6wPhDqwQllz3) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Christmas Last Awhile \(feat\. paulkyte\)](https://open.spotify.com/album/2HXPiOMyatUG4nQrGVJKlw) | 3:06 | 2022-12-20 | 2022-12-27 |
 | [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 | 2022-11-03 | 2022-11-23 |
-| [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 | 2022-07-27 |  |
+| [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 | 2022-07-27 | 2023-01-13 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-10 |  |
 | [Close to the end](https://open.spotify.com/track/534of4xXNHXK9DOk0BRIK9) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Close to the end](https://open.spotify.com/album/0HpwI0wcsHlnGlFED3hkNG) | 3:30 | 2022-04-19 | 2022-04-21 |
 | [Cocktail \(feat\. SAGE, RYUKIE\)](https://open.spotify.com/track/3lz3CsUEIafW2V4VNsjCue) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [RYUKIE](https://open.spotify.com/artist/0FLz2wSeTue5lYUnLtTrj6), [SAGE](https://open.spotify.com/artist/24whPzcv8YXI53WrKoodIC) | [SEOULVIBES, FOREST](https://open.spotify.com/album/2LnlkVC3FgHqsNRZNJJ2Ym) | 3:02 | 2022-08-30 | 2022-09-04 |
@@ -275,7 +275,7 @@
 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 | 2022-04-19 |  |
 | [LUH!](https://open.spotify.com/track/2Tae3EC5j3s229uZy8dm3T) | [DAHEE](https://open.spotify.com/artist/2t8ZtnTmVjirDrcaBPKwuS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [LUH!](https://open.spotify.com/album/3VxgMjHe85dofrqFLQDO9D) | 3:28 | 2022-06-10 | 2022-06-14 |
 | [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 | 2022-12-08 | 2023-01-11 |
-| [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-04-19 | 2023-01-12 |
+| [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-04-19 |  |
 | [Make the Move \(feat\. pH\-1\)](https://open.spotify.com/track/3JxRNkoNmAcPgnA5HSnKiz) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [pH\-1](https://open.spotify.com/artist/2hfyKzh49rXQLmPhBKfcH9) | [Make the Move](https://open.spotify.com/album/39kE7BbrzccyYdw9W5dCWf) | 2:57 | 2022-04-19 | 2022-07-02 |
 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 | 2022-04-19 |  |
 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/0U4U1RdFuj6TzzQdbUtYkB) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:50 | 2022-05-11 | 2022-07-19 |
@@ -300,8 +300,9 @@
 | [MUSE \(Feat\. Paloalto\)](https://open.spotify.com/track/5Quf0BbKIu8IwWxcs8e1ol) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [GENESIO](https://open.spotify.com/artist/2kH3CLwRaAFyaY2bOkHptU), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [MUSE](https://open.spotify.com/album/4xrmFGMgy9cQomzeoAynfv) | 3:47 | 2022-05-28 | 2022-07-16 |
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-18 | 2022-08-09 |
 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-10 | 2022-06-17 |
+| [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-12 |  |
 | [NBDY](https://open.spotify.com/track/1V4eSFHQuLj7g05Br8iLWy) | [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Lost In Blue](https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5) | 1:44 | 2022-04-19 | 2022-04-21 |
-| [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-12 |  |
+| [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-12 | 2023-01-13 |
 | [Nerves](https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:15 | 2022-04-19 |  |
 | [Never Came Through](https://open.spotify.com/track/555EVQqvx3hr63oIS1LdjH) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Never Came Through](https://open.spotify.com/album/0GBbah1RFbqPmIAX8BVyCD) | 3:15 | 2022-04-22 | 2022-04-26 |
 | [Never Knew](https://open.spotify.com/track/0RdEsLhIT5fEbfnU3sQNRQ) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Never Knew](https://open.spotify.com/album/128eftIRWw4wv69Ioic5SV) | 3:31 | 2022-05-04 | 2022-06-10 |

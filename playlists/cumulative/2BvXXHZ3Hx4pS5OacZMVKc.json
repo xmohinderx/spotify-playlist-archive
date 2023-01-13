@@ -1539,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/2dOfeD6IChI72iXCkNRQAE"
+      },
+      "artists": [
+        {
+          "name": "ReauBeau",
+          "url": "https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND"
+        },
+        {
+          "name": "Eline Mann",
+          "url": "https://open.spotify.com/artist/7B68JAWDHgVV7OiLmtjxtu"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/004GETE44RiciWPNPUGqZK"
+    },
+    {
+      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu"
       },

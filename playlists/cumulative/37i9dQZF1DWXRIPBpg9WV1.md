@@ -2,9 +2,9 @@
 
 ### [Relaxing Guitar Covers](https://open.spotify.com/playlist/37i9dQZF1DWXRIPBpg9WV1)
 
-> Relax and unwind with gentle guitar covers.
+> 
 
-154 songs - 8 hr 3 min
+162 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [Are You With Me](https://open.spotify.com/track/4ZBRS9HzPEaMH1NPUkHnhT) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Are You With Me](https://open.spotify.com/album/0my0OShiIp91mnj5FH6VaZ) | 2:19 | 2022-12-23 |  |
 | [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-15 |  |
 | [At Last](https://open.spotify.com/track/7yJoZTd6PwMU9J0rLFdgHH) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [At Last](https://open.spotify.com/album/0oBRuyGG8rJJAcZ3xQjkqH) | 2:57 | 2022-05-20 |  |
+| [At This Point](https://open.spotify.com/track/6ENVQhWISAF4em1AMU08Gm) | [Vera Stockhaus](https://open.spotify.com/artist/3zelFu7VpEQ4gAlbOl8C28) | [At This Point](https://open.spotify.com/album/0E5DSqASdf05sO5F3zJffo) | 2:50 | 2023-01-13 |  |
 | [Attention](https://open.spotify.com/track/7saPqdjNGYVhEB9EDIsQ3p) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Attention](https://open.spotify.com/album/1xmJoCr4u9QjkoQOOZdoAU) | 2:45 | 2022-12-02 |  |
 | [Baby Can I Hold You \- Instrumental](https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers Vol\. 3](https://open.spotify.com/album/73kpQrKjqV1DQhiC0gJ2Wh) | 3:15 | 2022-05-20 |  |
 | [Baby I love your way](https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Baby I Love Your Way](https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ) | 2:23 | 2022-09-30 |  |
+| [bad guy](https://open.spotify.com/track/1zXv69mtvZlCVNKcnutbp7) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [bad guy](https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC) | 2:21 | 2023-01-13 |  |
 | [Bad Habits](https://open.spotify.com/track/5GhGxnInJgQLbI61S4NwhM) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Bad Habits](https://open.spotify.com/album/6HwuOd0UdhwIMh4Pw8txz0) | 3:07 | 2022-12-02 |  |
 | [Black Hole Sun](https://open.spotify.com/track/3bFxHisnzoCtIc2MdZ91dl) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Black Hole Sun](https://open.spotify.com/album/2bUV5PssdRehLXjYNhFuOo) | 3:28 | 2022-05-20 |  |
 | [Blackbird](https://open.spotify.com/track/1J3oa1IgWOJvkBAhjsOcEt) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Blackbird](https://open.spotify.com/album/135qzKFdS1y482SoC5Z8Og) | 1:41 | 2022-12-23 |  |
@@ -36,6 +38,7 @@
 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 | 2022-05-20 |  |
 | [Colors Of the Wind](https://open.spotify.com/track/1vkxilXurIJu6FpIqUeOKX) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [Hits](https://open.spotify.com/album/2fhFDlDU0kLMAJxlMOmqJs) | 4:03 | 2022-05-20 | 2022-07-02 |
 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 | 2022-05-20 |  |
+| [Creep](https://open.spotify.com/track/4AstRWiBjxRZmxlQpmhwGK) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Creep](https://open.spotify.com/album/3waOvsLm5sV5tJ2xtBY8PW) | 2:26 | 2023-01-13 |  |
 | [Crush](https://open.spotify.com/track/4aUK9c6yenNpRaW4vUpky5) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Crush](https://open.spotify.com/album/6M2iRJvWOyljL7eUMJk7bB) | 2:48 | 2022-05-20 |  |
 | [Dance Monkey](https://open.spotify.com/track/3ZOMozp2217JJafowbJdeg) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Dance Monkey](https://open.spotify.com/album/7a6BdaLUK7bPGu7fPYfWTD) | 2:51 | 2022-12-02 |  |
 | [Dancing on My Own](https://open.spotify.com/track/2Xs7raB9TJRTMGVKHYI92I) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Dancing on My Own](https://open.spotify.com/album/2fzUmk4cncjiZJdd5Iiu18) | 2:42 | 2022-12-02 |  |
@@ -47,13 +50,16 @@
 | [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 3:53 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/7nZrgOtCRXGvrXCbPhuHch) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Easy On Me](https://open.spotify.com/album/1JjZRAcvYYpjY6IALupLZl) | 2:56 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/647uBk9wlI9O1PQu7YkyNG) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Easy On Me](https://open.spotify.com/album/4O4BnpRC1m5VEBqgIFFmTI) | 4:09 | 2022-05-20 | 2022-12-02 |
+| [Everglow](https://open.spotify.com/track/1q1boAVz5fOwzkWYV8IzUA) | [Valentina Canta](https://open.spotify.com/artist/3W9CjATjROYf2TXKRV7Ddk) | [Everglow](https://open.spotify.com/album/0VCxQ1inAd7BZlpXwj1x5W) | 2:38 | 2023-01-13 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1RjNPuM8U0SWtPTnUzIXhG) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Every Breath You Take](https://open.spotify.com/album/5tpnMfk0ZIYsjnwwsmzntv) | 2:45 | 2022-12-02 |  |
 | [Every Breath You Take](https://open.spotify.com/track/2TVLyjrb4R9rsPhmn6sXqf) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Every Breath You Take](https://open.spotify.com/album/0dCDATZuYREXXs4YWFStlp) | 2:55 | 2022-05-20 |  |
 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/1qeKntoqzWCSYvPOujhn5E) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Everybody's Got To Learn Sometime](https://open.spotify.com/album/4qAcqCEeAmy2xIrAqpjXs8) | 2:40 | 2022-05-20 |  |
 | [Everything I wanted](https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 3:13 | 2022-05-20 |  |
+| [Fairytale](https://open.spotify.com/track/3nEy4BBcsUD9M2A45rLjkR) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Fairytale](https://open.spotify.com/album/5vj9fKh95WbicPH55sVfeg) | 2:18 | 2023-01-13 |  |
 | [Feel It Still](https://open.spotify.com/track/4exgcc9GNT3UL0jZjiFbQI) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Feel It Still](https://open.spotify.com/album/09R9BfC4OCWe73RKLbGhcC) | 2:50 | 2022-12-02 |  |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2022-05-20 |  |
 | [Forever Young](https://open.spotify.com/track/3DqIOV0st55MNgcPADbZ5g) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [Forever Young](https://open.spotify.com/album/1RgBMeU6q2y0byQeHJk2Pb) | 3:23 | 2022-05-20 |  |
+| [Forget Me](https://open.spotify.com/track/0vIcZ4WNgj7pHPmqsYnK2D) | [Seo Hyun Lee](https://open.spotify.com/artist/2NdqMdRInEBDZ3CisuV2uu) | [Forget Me](https://open.spotify.com/album/2bYDvZ5Bt8euzp717whN33) | 2:31 | 2023-01-13 |  |
 | [Ghost](https://open.spotify.com/track/3FW8rKculGoPgzYuvvpExG) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Ghost](https://open.spotify.com/album/6wHrmWj44OsD6Z7koSa7PR) | 3:11 | 2022-05-20 |  |
 | [God Only Knows](https://open.spotify.com/track/2OzZdwUjDKvHml7nV3rVAO) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [God Only Knows](https://open.spotify.com/album/4Wv2pkk3BdYTT5DAmFPf3M) | 2:18 | 2022-05-20 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/1by7FAjCJUlTCSSCb1NZPu) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/4JPPbRiq1anB5eGisCJ4ea) | 3:13 | 2022-05-20 | 2022-07-29 |
@@ -68,6 +74,7 @@
 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 | 2022-05-20 |  |
 | [Hold Me Closer](https://open.spotify.com/track/4H0DZdsY2oT23dnD5RYyYP) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hold Me Closer](https://open.spotify.com/album/0E4psFtna3BQ3W7CVtKSKr) | 2:27 | 2022-12-23 |  |
 | [Hold on](https://open.spotify.com/track/0Wv0qxxnHhOiuvVhwNnqDv) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Hold on](https://open.spotify.com/album/6CnnqRJSFe5N2xWyfTaLip) | 3:23 | 2022-05-20 |  |
+| [Hold On, We're Going Home](https://open.spotify.com/track/6TBSODbeijsxgmcAfF0d1V) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Hold On, We're Going Home](https://open.spotify.com/album/7w4Jjt5zSnfyfTIotOHatv) | 2:36 | 2023-01-13 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/6WaePja4uzj9uw3TrZFdpM) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [How Deep Is Your Love](https://open.spotify.com/album/3foW7pDxBNyUfM4SpLFIop) | 3:21 | 2022-05-20 |  |
 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 | 2022-05-20 |  |
 | [Höstvisa](https://open.spotify.com/track/0mzIHWDRo3GNCE24OxU5Cn) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Höstvisa](https://open.spotify.com/album/2At7owW3nBBJ2OTsUucXi6) | 2:42 | 2022-05-20 |  |
@@ -117,6 +124,7 @@
 | [Snow On The Beach](https://open.spotify.com/track/3g2mR39gD6HT8jM5igcTqS) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Snow On The Beach](https://open.spotify.com/album/0kVPJ064l0EoD5U5XroBRD) | 3:08 | 2022-12-02 |  |
 | [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 | 2022-05-20 |  |
 | [Someone You Loved](https://open.spotify.com/track/6FPbcBmK0Je6EZvmXhHD5k) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:37 | 2022-12-02 |  |
+| [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 | 2023-01-13 |  |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-20 |  |
 | [Stay](https://open.spotify.com/track/5PVEhEtuO3Lr3AI8Mh2uHJ) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Stay](https://open.spotify.com/album/0wttAbqc24NaBJCE2j4BX4) | 2:29 | 2022-06-15 |  |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-05-20 |  |

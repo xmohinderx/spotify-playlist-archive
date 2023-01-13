@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-304 songs - 1 day 4 hr 26 min
+305 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [IV, III, II, I](https://open.spotify.com/track/6hFBOKrvQi5qyJ3mD3RJcd) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [Föllakzoid](https://open.spotify.com/album/28sgCIugnBXi0gmVetldj9) | 9:49 | 2021-07-30 | 2022-07-29 |
 | [Jenny Ondioline](https://open.spotify.com/track/5vUUk8J3DENArPuz9CcPBH) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transient Random\-Noise Bursts With Announcements](https://open.spotify.com/album/161DnvvWCUqCQ6vFHls1nM) | 18:07 | 2021-07-30 | 2022-08-19 |
 | [Juggernaut Jugend](https://open.spotify.com/track/3vETfQdOcYmSaYe8Zo8yNH) | [Chicken El Diablo](https://open.spotify.com/artist/57CSUqVNJcfkDfnh5vm9Te) | [Love It or level It](https://open.spotify.com/album/5uSxD9OXKWfQNrMWaotAvA) | 7:06 | 2021-07-30 |  |
-| [Just Like Everyone Else](https://open.spotify.com/track/7JGpBzoinHGOEmZgxQBWIb) | [Field Music](https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS) | [Plumb](https://open.spotify.com/album/53yBScfQowE0OjwfUs0lIb) | 3:00 | 2021-07-30 |  |
+| [Just Like Everyone Else](https://open.spotify.com/track/7JGpBzoinHGOEmZgxQBWIb) | [Field Music](https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS) | [Plumb](https://open.spotify.com/album/53yBScfQowE0OjwfUs0lIb) | 3:00 | 2021-07-30 | 2023-01-13 |
 | [JustLikeEveryoneElse](https://open.spotify.com/track/1TDgl2VR8s2nOBk28rXXEB) | [Field Music](https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS) | [Plumb](https://open.spotify.com/album/3qLqk9pgpQF7NMluq2UtMy) | 3:00 | 2021-07-30 | 2022-07-29 |
 | [King's Lead Hat \- 2004 Digital Remaster](https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:56 | 2021-07-30 |  |
 | [Kit and Holly](https://open.spotify.com/track/5xVjImmNqZSL3Owsa6dETn) | [Echoboy](https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6) | [Vol\. One](https://open.spotify.com/album/2xYvG2JLe6lytIruRbfxXE) | 5:04 | 2021-07-30 | 2022-07-29 |
@@ -200,6 +200,7 @@
 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 | 2021-07-30 |  |
 | [Our Home, The Holy Mountain](https://open.spotify.com/track/70rOjXDHnn8LMygaRstyQx) | [Throw Down Bones](https://open.spotify.com/artist/59igdlhJ64qtvlt14aJAla) | [Throw Down Bones](https://open.spotify.com/album/33MrXle1z2UahYH4NrFl4w) | 7:30 | 2021-07-30 |  |
 | [Outer Accelerator](https://open.spotify.com/track/1sTQe7ejS8AFBN1KuFcSGf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/6cgYdiQvB0FTVwe3io7LWN) | 5:21 | 2021-07-30 | 2022-07-29 |
+| [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-13 |  |
 | [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 | 2021-07-30 |  |
 | [Pendulum](https://open.spotify.com/track/1zQ9HyzqFr7xpNeUszTfUf) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/3AUkbuxvj1fH2jkbWI2gzn) | 4:21 | 2021-07-30 |  |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/6P3wuqOj57ljpXpSHOy8fH) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/30MHkRh4rQIwdFDopFGTbC) | 3:39 | 2021-07-30 |  |

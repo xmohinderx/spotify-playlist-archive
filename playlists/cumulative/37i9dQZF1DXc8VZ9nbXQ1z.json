@@ -100,7 +100,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 386052,
       "name": "AIYE",
       "url": "https://open.spotify.com/track/5IYCGJP9AjEJiPomAoCQKw"
@@ -210,6 +210,28 @@
       "duration_ms": 241716,
       "name": "Another Brick In The Wall",
       "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
+    },
+    {
+      "album": {
+        "name": "Ardiente",
+        "url": "https://open.spotify.com/album/1xuLwXO1FXzZEkpheB7KdB"
+      },
+      "artists": [
+        {
+          "name": "Peppe Citarella",
+          "url": "https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB"
+        },
+        {
+          "name": "Wnoise",
+          "url": "https://open.spotify.com/artist/3zwUlDVR1EJxeAGm2kh1ff"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314754,
+      "name": "Ardiente - Ardiente Vocal Mix",
+      "url": "https://open.spotify.com/track/2FV17jHQk8VLBw2ihxFAay"
     },
     {
       "album": {
@@ -456,7 +478,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 478631,
       "name": "Breath Of Life - Circle Dance Mix",
       "url": "https://open.spotify.com/track/0MOVU4vHlyOJwgEzuBSWLG"
@@ -486,7 +508,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 474653,
       "name": "Camagu",
       "url": "https://open.spotify.com/track/5kPKV2qy5Gdb9ZBSo9WrTP"
@@ -592,7 +614,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 483902,
       "name": "Circle of Life",
       "url": "https://open.spotify.com/track/2ckwGlnXK4PZ8mo7JYkJ5L"
@@ -618,10 +640,36 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 241950,
       "name": "Control - Radio Edit",
       "url": "https://open.spotify.com/track/3kAyD8NYOjmeNCopdd28Iw"
+    },
+    {
+      "album": {
+        "name": "Cure My Desire (feat. Clementine Douglas) [Themba Remix]",
+        "url": "https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220252,
+      "name": "Cure My Desire (feat. Clementine Douglas) - Themba Remix",
+      "url": "https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk"
     },
     {
       "album": {
@@ -654,7 +702,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 400482,
       "name": "Daje",
       "url": "https://open.spotify.com/track/5BLlSXOPVaXB5rHrnmZIIm"
@@ -738,6 +786,36 @@
       "duration_ms": 305207,
       "name": "Don\u2019t Lose Control",
       "url": "https://open.spotify.com/track/3TGLQ2nabtH5I0xYEYgjxN"
+    },
+    {
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/6SBZMPjhWsBnHPG77iHBK6"
+      },
+      "artists": [
+        {
+          "name": "Yaans",
+          "url": "https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Brittney Bouchard",
+          "url": "https://open.spotify.com/artist/4iyRlrtLkoUNq48bOWdyqm"
+        },
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427826,
+      "name": "Dr Feel's History",
+      "url": "https://open.spotify.com/track/0OVqqfA1vsHUPqQjGyF9CS"
     },
     {
       "album": {
@@ -884,7 +962,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 195362,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/7vVvsrRjGtEkKHaLxSG8Pn"
@@ -972,7 +1050,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 411048,
       "name": "Fela Is Everything",
       "url": "https://open.spotify.com/track/6qcM6WyiINHZ7eY4Cer6J4"
@@ -994,6 +1072,32 @@
       "duration_ms": 381000,
       "name": "Figo",
       "url": "https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk"
+    },
+    {
+      "album": {
+        "name": "Fire On The Mountain EP",
+        "url": "https://open.spotify.com/album/4P2uUDW2G6vPXcHAWapGsu"
+      },
+      "artists": [
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "T_Phoenix",
+          "url": "https://open.spotify.com/artist/2ZNiZiG8FpSERYTQA6VXfc"
+        },
+        {
+          "name": "Cacharel",
+          "url": "https://open.spotify.com/artist/4AAHsK3uYvYUNOFqRv2NC9"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372895,
+      "name": "Fire On The Mountain",
+      "url": "https://open.spotify.com/track/5SoELuHjlTSwZRWUK5EVjP"
     },
     {
       "album": {
@@ -1130,7 +1234,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 368429,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR"
@@ -1376,7 +1480,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 359950,
       "name": "iFu",
       "url": "https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW"
@@ -1398,7 +1502,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 393266,
       "name": "Ihlosi",
       "url": "https://open.spotify.com/track/52wp9wRmEEUxhDaNGyqPYB"
@@ -1446,7 +1550,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 386048,
       "name": "Impepho",
       "url": "https://open.spotify.com/track/21dtT6WAWKc1FNIzuKu3fF"
@@ -1564,7 +1668,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 400843,
       "name": "INSIMBI",
       "url": "https://open.spotify.com/track/3DEc9RODI7HlxccYKaRtpT"
@@ -1608,7 +1712,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 449964,
       "name": "IQHAWE",
       "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
@@ -1656,7 +1760,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 330491,
       "name": "Jama",
       "url": "https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym"
@@ -1937,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Five to Have 04",
+        "url": "https://open.spotify.com/album/6B76Tfe5leit1vE91y6YP2"
+      },
+      "artists": [
+        {
+          "name": "Tayllor",
+          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328794,
+      "name": "Lenaia",
+      "url": "https://open.spotify.com/track/5RNmJ8F8Azj6RObpaZZkr9"
+    },
+    {
+      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -1978,6 +2100,28 @@
       "duration_ms": 458888,
       "name": "Lo Hicimos",
       "url": "https://open.spotify.com/track/7HdXLscvW9kyuFMYsAY6x6"
+    },
+    {
+      "album": {
+        "name": "Fire On The Mountain EP",
+        "url": "https://open.spotify.com/album/4P2uUDW2G6vPXcHAWapGsu"
+      },
+      "artists": [
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377725,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4Ou3n93tUOCswlXXMSbtoX"
     },
     {
       "album": {
@@ -2026,7 +2170,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 408829,
       "name": "Luxury - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/2BlQJQKab1AbQmTy5N9Jta"
@@ -2244,7 +2388,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 228000,
       "name": "Mucho Bien - Joezi Remix",
       "url": "https://open.spotify.com/track/0Ddeid0TvlJGI1d01nI2G6"
@@ -2296,7 +2440,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 205725,
       "name": "Ndauya",
       "url": "https://open.spotify.com/track/0zL7I0zTANptsTUnai3lQJ"
@@ -2386,7 +2530,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 408257,
       "name": "Ngoma",
       "url": "https://open.spotify.com/track/5bUzEgwJCz0yxLe2gXCMpC"
@@ -2496,7 +2640,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 360250,
       "name": "Nwa'majelele",
       "url": "https://open.spotify.com/track/2gCnzjpfJBgMoxdCWuciB5"
@@ -2606,7 +2750,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 382374,
       "name": "Phakeme",
       "url": "https://open.spotify.com/track/4ylIEbjjtCtDr05FCXhk53"
@@ -3030,7 +3174,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 358421,
       "name": "Shweleza",
       "url": "https://open.spotify.com/track/4LwtsCTbkaunXAWHSyoo6t"
@@ -3236,7 +3380,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 212256,
       "name": "Synchro System (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
@@ -3441,6 +3585,28 @@
     },
     {
       "album": {
+        "name": "Thula EP",
+        "url": "https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1"
+      },
+      "artists": [
+        {
+          "name": "Blanka Mazimela",
+          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
+        },
+        {
+          "name": "Khonaye",
+          "url": "https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441972,
+      "name": "Thula",
+      "url": "https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG"
+    },
+    {
+      "album": {
         "name": "Thunderstorm",
         "url": "https://open.spotify.com/album/6o9D2gCHdi1KEyZRK6Q2OX"
       },
@@ -3460,7 +3626,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 422957,
       "name": "Thunderstorm - Kususa Remix",
       "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
@@ -3486,6 +3652,28 @@
       "duration_ms": 292811,
       "name": "Time (feat. Cassie)",
       "url": "https://open.spotify.com/track/5WHoJSG9bkSJfVlyf3PrqO"
+    },
+    {
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1TDa3fL6oV8P63xscAQe1n"
+      },
+      "artists": [
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385006,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/53d4K2DBs1Hb56kKsL3xOI"
     },
     {
       "album": {
@@ -3810,7 +3998,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 403439,
       "name": "Whispers - West & Hill Remix",
       "url": "https://open.spotify.com/track/1Vtj6ZbMKTdAsovB2rIakN"
@@ -3884,7 +4072,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 421512,
       "name": "XX XX - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/5ulVDD2bMcqMd4MgBAKYr6"
@@ -3910,7 +4098,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 308004,
       "name": "Yok'ba",
       "url": "https://open.spotify.com/track/1RQiSCfqj3C51Om1glomKR"
@@ -4106,7 +4294,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 290750,
       "name": "\u00c9toile Filante - Short Edit",
       "url": "https://open.spotify.com/track/7CRNnRJDsPrqaI2z7d0kfa"

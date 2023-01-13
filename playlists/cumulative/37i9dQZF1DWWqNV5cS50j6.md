@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,235 songs - 2 day 11 hr 44 min
+1,236 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [bastard](https://open.spotify.com/track/22MVIVqYMJbhA5OHRNRzdS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [bastard](https://open.spotify.com/album/2jRWZxXbVHdP0JTBQgIzSV) | 2:03 | 2021-08-17 | 2021-09-09 |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-29 | 2022-02-12 |
 | [Battery](https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Van Goghs Left Ear](https://open.spotify.com/album/1f92L2RYQBvolOuzzpQYbP) | 1:06 | 2022-05-09 | 2022-05-14 |
-| [BBC](https://open.spotify.com/track/7zgsDaX02rdtq3zpdVqrpK) | [jaboukie](https://open.spotify.com/artist/5LDOwn10Stw9m0QVi2dgNo) | [BBC](https://open.spotify.com/album/70gNu3PKq0dtMlfyytf44t) | 2:55 | 2022-10-26 |  |
+| [BBC](https://open.spotify.com/track/7zgsDaX02rdtq3zpdVqrpK) | [jaboukie](https://open.spotify.com/artist/5LDOwn10Stw9m0QVi2dgNo) | [BBC](https://open.spotify.com/album/70gNu3PKq0dtMlfyytf44t) | 2:55 | 2022-10-26 | 2023-01-13 |
 | [Beam](https://open.spotify.com/track/1IIw5oVR1xE4bzdl4JgGsc) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [It's Just Music](https://open.spotify.com/album/4fgQwJZr6I6TOLmKhffHlx) | 1:43 | 2021-02-20 | 2021-05-03 |
 | [Beam, Pt\. 2 \(feat\. Jackboy\)](https://open.spotify.com/track/5rX78TuBsOrCiYFkcwmNbw) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Beam, Pt\. 2 \(feat\. Jackboy\)](https://open.spotify.com/album/7xsy6ClgFJG4SJZI7LXxGA) | 2:00 | 2021-05-03 | 2021-10-14 |
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-09-10 | 2022-11-10 |
@@ -1162,6 +1162,7 @@
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2022-05-09 | 2022-07-19 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-16 |  |
 | [VERY POLITE](https://open.spotify.com/track/0kPPe7BI7DNPs7sq8r8h5g) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [WARHOL](https://open.spotify.com/album/6PzT3pUgfTCOHWFwM6awDM) | 2:38 | 2021-05-29 | 2021-10-16 |
+| [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-11-30 |  |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-12-26 |
 | [VI\. Over](https://open.spotify.com/track/7u9tKpw8ja6POjwhUjxv7b) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Tickle Pink Hotel](https://open.spotify.com/album/2qqPBcgbH4ydIAkMr1Pn5W) | 3:06 | 2022-07-22 | 2022-08-06 |
 | [Vibe Session 2](https://open.spotify.com/track/1mww40cWQK873rdKklWP7r) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js), [ria of mars](https://open.spotify.com/artist/0gtJJVbTPtOIhz5oKVVNhC) | [Vibe Session 2](https://open.spotify.com/album/4qIpFTCICoWrVcHwTsT6jA) | 3:33 | 2021-02-20 | 2022-02-12 |

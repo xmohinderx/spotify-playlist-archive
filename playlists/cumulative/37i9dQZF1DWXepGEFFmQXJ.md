@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Bailey Zimmerman
 
-274 songs - 14 hr 56 min
+276 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [ANYTHING LIKE ME](https://open.spotify.com/track/5JTy7gXHt5k9cXf0HFhpda) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [ANYTHING LIKE ME](https://open.spotify.com/album/39c1pwrGbKxOZhVQkMCzM4) | 3:35 | 2022-02-24 | 2022-07-15 |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2021-12-30 | 2022-04-01 |
 | [Bad Things](https://open.spotify.com/track/14TZAzaNPCqMUaVSWhsVWk) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Darlinghurst](https://open.spotify.com/album/77bjZYPdR8D10J5XhhjAmB) | 3:42 | 2021-12-30 | 2022-01-22 |
-| [Bar High](https://open.spotify.com/track/1HTmE3WQOuahpTwpoyji5i) | [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Bar High](https://open.spotify.com/album/2obFqMJf41lw1DUTMRgQOk) | 2:52 | 2022-07-21 |  |
+| [Bar High](https://open.spotify.com/track/1HTmE3WQOuahpTwpoyji5i) | [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Bar High](https://open.spotify.com/album/2obFqMJf41lw1DUTMRgQOk) | 2:52 | 2022-07-21 | 2023-01-13 |
+| [Bar Stool](https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Bar Stool](https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0) | 3:18 | 2023-01-12 |  |
 | [Beat of My Own Drum](https://open.spotify.com/track/7HK0624DLMQDA5x7rdZNkB) | [Christie Lamb](https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F) | [Beat of My Own Drum](https://open.spotify.com/album/16WLa1TPCS4sBEWWgUBxHR) | 3:06 | 2022-03-17 | 2022-05-13 |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2022-09-15 |  |
 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 | 2022-07-11 |  |
@@ -47,7 +48,7 @@
 | [Buy You a Drink](https://open.spotify.com/track/7jV8yxLZRSptgZcnDhBk6p) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci), [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c), [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Buy You a Drink](https://open.spotify.com/album/1vDqaBpfHMJDluz91XspPR) | 3:19 | 2022-12-08 |  |
 | [Car Trouble](https://open.spotify.com/track/5fVtbkqaCmEW4ilvrgP3xF) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Car Trouble](https://open.spotify.com/album/6quccN4IpdGATlsFGDZW47) | 2:56 | 2022-10-27 |  |
 | [Carefree](https://open.spotify.com/track/6gskDkFXQj5kuUvJohNhM6) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [Carefree](https://open.spotify.com/album/5ivgsUoOAhJXWwnEcezbKi) | 3:20 | 2022-07-28 | 2022-12-16 |
-| [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 | 2022-08-05 |  |
+| [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 | 2022-08-05 | 2023-01-13 |
 | [Cheap Moscato](https://open.spotify.com/track/0Sz3WfyjvMvAqjdZ8URlXH) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheap Moscato](https://open.spotify.com/album/1YVHfRtUC9nmqUTJlk2zEy) | 2:45 | 2022-02-06 | 2022-07-08 |
 | [Cheating On Me](https://open.spotify.com/track/42JCfqD9343rCiDTVwX30J) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheating On Me](https://open.spotify.com/album/3bQeWBXnHReJxagC67rkYJ) | 3:28 | 2022-08-05 | 2022-10-21 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-07-15 |
@@ -141,6 +142,7 @@
 | [Last Time Last](https://open.spotify.com/track/7ePwjDCWZSmEtzrUvFCoEy) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Last Time Last](https://open.spotify.com/album/3DvNKelL2qwF1ArBNvSec6) | 3:37 | 2022-11-10 |  |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 | 2022-05-27 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-17 | 2022-08-19 |
+| [Leona](https://open.spotify.com/track/574vxh9gV44VXNjNZfF3cS) | [Duncan Toombs](https://open.spotify.com/artist/5Jv0F98tukWFHhdP7ZNJq9) | [Steel On Steel](https://open.spotify.com/album/6cZJzkkc6oFzQWmI10Cof8) | 3:58 | 2023-01-12 |  |
 | [Let It Go](https://open.spotify.com/track/4KM1P14d6Svovepg4UEitL) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go](https://open.spotify.com/album/1DSIDbiZQGXHTrftbKArNv) | 3:26 | 2022-03-31 | 2022-07-08 |
 | [Let It Go \- Live](https://open.spotify.com/track/1nbLKD60IUsOKDipPWhdNe) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go \(Live\)](https://open.spotify.com/album/6P5FFO1n4wUSa6nFcwa1rB) | 3:16 | 2022-06-30 | 2022-10-14 |
 | [Light It Up](https://open.spotify.com/track/7zHOg6Bu16YZvvRXnlKgWP) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Light It Up](https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE) | 2:50 | 2022-02-24 | 2022-09-09 |

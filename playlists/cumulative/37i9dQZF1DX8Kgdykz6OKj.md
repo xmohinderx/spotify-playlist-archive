@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-311 songs - 17 hr 58 min
+312 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj) | 3:13 | 2021-12-16 |  |
 | [Carefree](https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Carefree](https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA) | 3:10 | 2021-12-16 |  |
 | [Careful](https://open.spotify.com/track/5KNq33xonNuXuzGyIBvhrs) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Careful](https://open.spotify.com/album/3SQQEUw8a9AR1Bt47ZO1Jg) | 2:11 | 2021-12-16 | 2022-11-21 |
+| [Careful](https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Haiku](https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9) | 2:11 | 2022-12-15 |  |
 | [Chapter 7 \(feat\. Ty\)](https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Ty](https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj) | [Chapter 7](https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI) | 4:47 | 2022-02-18 |  |
 | [Chicken Soup](https://open.spotify.com/track/7aFOTMJpmDiIjGemA3CkgV) | [Geronimus Brothers](https://open.spotify.com/artist/1l1pcO2W0FwNBFuoJNjtyO) | [Anti\-Capitalist Love Notes](https://open.spotify.com/album/2nDyVLM7bn1BAo51OXF02G) | 2:47 | 2022-04-11 | 2022-04-19 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-01-20 | 2022-10-13 |
@@ -270,7 +271,7 @@
 | [Terrapin](https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Don't Feed the Birds](https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt) | 2:53 | 2022-10-13 |  |
 | [Terrapin](https://open.spotify.com/track/5LvQxdpf7SPx0ZkpkftwwN) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Don't Feed the Birds](https://open.spotify.com/album/567ZlcK2pGAR2xDVJYmppY) | 2:53 | 2021-12-16 | 2022-11-20 |
 | [Thank Me Later](https://open.spotify.com/track/43z8SY9RCF1pFgYHeR0EoJ) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Emesa](https://open.spotify.com/artist/4TbtEjqnAiyGub7hfbrctY), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj), [8track](https://open.spotify.com/artist/1Bao9QEvTArL3kVI2mqmTp) | [Thank Me Later](https://open.spotify.com/album/1owGIyctZGbQFKJvQpvFBJ) | 2:44 | 2022-06-13 | 2022-07-12 |
-| [That Jazz](https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo) | [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [That Jazz](https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds) | 3:08 | 2021-12-16 |  |
+| [That Jazz](https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo) | [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [That Jazz](https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds) | 3:08 | 2021-12-16 | 2023-01-13 |
 | [That Love \- Radio Version](https://open.spotify.com/track/7kum3I7Lkrgzs4npdmWszD) | [Vice Beats](https://open.spotify.com/artist/0IIyN8h6bhn7pzkR0SbAS8), [Audessey](https://open.spotify.com/artist/3NKdwuQJhe3hYMBEg2YQWX), [Greg Blackman](https://open.spotify.com/artist/7r75JahMqaqUitdEipf65c), [Knuf](https://open.spotify.com/artist/3WskJiuqQaI2tSuycw5kPu) | [That Love](https://open.spotify.com/album/0RaQH6qsoWcwF8zeLnbY3V) | 3:54 | 2022-01-13 | 2022-04-24 |
 | [The Circle](https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1) | 3:29 | 2022-04-11 | 2022-11-20 |
 | [The Circle](https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs) | 3:29 | 2022-10-13 |  |

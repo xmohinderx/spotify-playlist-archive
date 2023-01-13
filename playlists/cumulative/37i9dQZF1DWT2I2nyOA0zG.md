@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-163 songs - 9 hr 23 min
+164 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,13 +128,14 @@
 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:17 | 2021-10-11 | 2022-07-29 |
 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 | 2021-10-11 |  |
 | [Right Here](https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Right Here](https://open.spotify.com/album/1DQOERqHos96P7hL1a2sCx) | 3:32 | 2021-11-11 |  |
-| [Rora](https://open.spotify.com/track/0s3NyWRBLiqsj1tfTidSpU) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/1YoKg4rLeRUTxjs9jyYk3u) | 3:51 | 2021-10-11 |  |
+| [Rora](https://open.spotify.com/track/0s3NyWRBLiqsj1tfTidSpU) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/1YoKg4rLeRUTxjs9jyYk3u) | 3:51 | 2021-10-11 | 2023-01-13 |
 | [Rora](https://open.spotify.com/track/2FV6MJfO24fmG7aRMTleX7) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/0qMcStot5HcnmYNCB2DKUT) | 3:51 | 2021-10-11 | 2022-11-13 |
 | [Rora](https://open.spotify.com/track/3FoiZ0cJwgfqY9xKHdVSnT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora](https://open.spotify.com/album/7lQwqjZihf3rb4ygUgs87p) | 3:51 | 2021-10-11 | 2022-07-29 |
 | [SABABISHA](https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 4:00 | 2022-02-24 |  |
 | [safe haven](https://open.spotify.com/track/1LObw2njH6cvdGutpDlP6e) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:49 | 2022-07-14 | 2022-07-29 |
 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
 | [Santi](https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Santi](https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ) | 3:50 | 2022-08-19 |  |
+| [Santorini](https://open.spotify.com/track/6FnU39PS4w9J2rZdDfq2dd) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [International Arrivals Vol\. 3](https://open.spotify.com/album/5lRKLzYUNjUk1pq6NL4HJp) | 7:38 | 2023-01-12 |  |
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 |  |
 | [Sexting](https://open.spotify.com/track/0x2RvkOr2bVggUZqbHNu8g) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Super Morio](https://open.spotify.com/album/2ZPizhglbQL7gSabTZFQnP) | 4:16 | 2022-11-04 |  |
 | [Sexting](https://open.spotify.com/track/1znPVhURyqTfyRpEYK7xxO) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Sexting](https://open.spotify.com/album/5uhsC5W2nibe1ucp2d6hnH) | 4:16 | 2022-11-04 | 2022-11-14 |

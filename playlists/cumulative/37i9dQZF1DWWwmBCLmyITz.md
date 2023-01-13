@@ -2,7 +2,7 @@
 
 ### [대행사\(Agency\)](https://open.spotify.com/playlist/37i9dQZF1DWWwmBCLmyITz)
 
-> Listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요!\)
+> Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
 7 songs - 26 min 25 sec
 

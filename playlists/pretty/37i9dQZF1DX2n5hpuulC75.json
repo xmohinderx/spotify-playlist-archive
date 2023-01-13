@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 246082,
+  "num_followers": 246157,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGVkY2FhOWE1OTkyNGNkMmFkMzhhMjY2MjQwMzNmNmIz",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGE3NWRiYzA1OThmOWU1MzE1MjJkNTZlYTcwNWI0Y2Vl",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -551,22 +551,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
         "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 293613,
       "name": "Your Own Truth",
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
+      "added_at": "2019-03-18 20:29:35",
+      "album": {
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "VIII",
@@ -719,22 +735,6 @@
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
-    },
-    {
-      "added_at": "2019-03-18 20:29:35",
-      "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -771,22 +771,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Homegrown (Remixes)",
-        "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        },
-        {
-          "name": "Empty Woods",
-          "url": "https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM"
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Homegrown - Empty Woods Remix",
-      "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -811,18 +807,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
+        "name": "Homegrown (Remixes)",
+        "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
       },
       "artists": [
         {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        },
+        {
+          "name": "Empty Woods",
+          "url": "https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM"
         }
       ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
+      "duration_ms": 245000,
+      "name": "Homegrown - Empty Woods Remix",
+      "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+      },
+      "artists": [
+        {
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
-      },
-      "artists": [
-        {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 339921,
       "name": "Fragment II",
       "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "EP 2",
+        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
+      },
+      "artists": [
+        {
+          "name": "Only Emily",
+          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
+        }
+      ],
+      "duration_ms": 170404,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1027,22 +1043,6 @@
       "duration_ms": 198958,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "EP 2",
-        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
-      },
-      "artists": [
-        {
-          "name": "Only Emily",
-          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
-        }
-      ],
-      "duration_ms": 170404,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
     }
   ],
   "unique_name": "Mellow Mood",

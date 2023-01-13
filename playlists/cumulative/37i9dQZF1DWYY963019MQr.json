@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "You Are Too Beautiful",
+        "url": "https://open.spotify.com/album/321bjucXAq72mVgASyC5eT"
+      },
+      "artists": [
+        {
+          "name": "Kevin Richard",
+          "url": "https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127596,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE"
+    },
+    {
+      "album": {
         "name": "A Guitar, a Man & a Song, Vol. I",
         "url": "https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM"
       },

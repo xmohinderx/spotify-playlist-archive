@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-127 songs - 10 hr 5 min
+128 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Dango \- Colloid Version](https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Dango \(Colloid Version\)](https://open.spotify.com/album/5tbc91panu3bb9H1Cg3ull) | 4:28 | 2022-05-18 |  |
 | [Dawn of Awakening](https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Dawn of Awakening](https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd) | 4:00 | 2022-12-02 |  |
 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 | 2022-05-18 |  |
-| [does it have to be beautiful](https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 1:59 | 2022-05-18 |  |
+| [does it have to be beautiful](https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 1:59 | 2022-05-18 | 2023-01-13 |
 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 | 2022-09-30 |  |
 | [Dots](https://open.spotify.com/track/0vaI72djhPZn4qH2zjZNmL) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:05 | 2022-05-18 |  |
 | [Drømmefanger \(Extended\)](https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Kingdom Two Crowns: Norse Lands Soundtrack \(Extended\)](https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry) | 3:03 | 2022-07-01 |  |
@@ -110,6 +110,7 @@
 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 | 2022-07-01 |  |
 | [Satnam Waheguru](https://open.spotify.com/track/56zp6EdRE6UhcArVLKwJGU) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/1CWjlmNEbWC5SRAKugRTyy) | 4:59 | 2022-05-18 | 2022-07-28 |
 | [Saturna](https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas) | [Nordic Hymn](https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV) | [Saturna](https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw) | 2:06 | 2022-05-18 |  |
+| [Shimmer in the Sky \- Yoko Komatsu Rework](https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Shimmer in the Sky \(Yoko Komatsu Rework\)](https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw) | 2:36 | 2022-12-30 |  |
 | [Silent Talk](https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 4:55 | 2022-09-07 |  |
 | [Sorry](https://open.spotify.com/track/1VOsiZYiNHAUisapZtXpKh) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/4ltdtRBUlN4xym6T6Isnng) | 17:40 | 2022-05-18 | 2022-07-28 |
 | [Sorry](https://open.spotify.com/track/70wiCLAuAs2yjRQHkPuMN7) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv) | 17:40 | 2022-12-02 | 2023-01-11 |

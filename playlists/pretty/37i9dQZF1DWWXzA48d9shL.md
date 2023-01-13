@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,894 likes - 85 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,101 likes - 85 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 84 | [WICKED RITUALS](https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4) | [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [WICKED RITUALS](https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq) | 1:58 |
 | 85 | [Bungee Gum](https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Bungee Gum](https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd) | 1:46 |
 
-Snapshot ID: `MTY3MzQ1MjM3MywwMDAwMDAwMDQ4MmJiNDljZDkwYjU2M2E1NDVmYTY0ZDdkM2M1MTUx`
+Snapshot ID: `MTY3MzQ1MjM3MywwMDAwMDAwMDg3OTA5ZDQ4MzdmMDBkYWM3ODYwNmRlMzg5MjgwM2Zh`

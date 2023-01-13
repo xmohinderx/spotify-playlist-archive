@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Beneteau",
+        "url": "https://open.spotify.com/album/72OsMZasJ7VMqEiVKq3K28"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Garo",
+          "url": "https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133012,
+      "name": "Beneteau",
+      "url": "https://open.spotify.com/track/3A4xiikel0UUzUKFo54Lkw"
+    },
+    {
+      "album": {
         "name": "Big Easy City",
         "url": "https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ"
       },
@@ -2502,7 +2524,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 125043,
       "name": "Guitar Vignette No. 5",
       "url": "https://open.spotify.com/track/07SkTZlDrQBUThcIjAXrKJ"
@@ -2644,7 +2666,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 157937,
       "name": "Head High",
       "url": "https://open.spotify.com/track/62OND6iBr7fNqPE2E1MiIQ"
@@ -2736,6 +2758,28 @@
       "duration_ms": 80404,
       "name": "HelloHello",
       "url": "https://open.spotify.com/track/65IGYjWJG1Esvl5vA8UTqA"
+    },
+    {
+      "album": {
+        "name": "Her Favorite Song",
+        "url": "https://open.spotify.com/album/4iaKKrFnLnkRUORSaM8nVK"
+      },
+      "artists": [
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Her Favorite Song",
+      "url": "https://open.spotify.com/track/5AlnC8OAyRCObPgv0clFl0"
     },
     {
       "album": {
@@ -2888,6 +2932,28 @@
       "duration_ms": 112000,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6eDRVIrffCAnS5ToXJk81e"
+    },
+    {
+      "album": {
+        "name": "Increment Incline",
+        "url": "https://open.spotify.com/album/2JrDDnIyNBN5l0QBu85g1E"
+      },
+      "artists": [
+        {
+          "name": "qopoqop",
+          "url": "https://open.spotify.com/artist/0dmhEkMTtLrKsd1Wfv2jhr"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106680,
+      "name": "Increment Incline",
+      "url": "https://open.spotify.com/track/0uUfB7ntFR7lPofeqayndv"
     },
     {
       "album": {
@@ -3300,7 +3366,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 165714,
       "name": "Koji",
       "url": "https://open.spotify.com/track/1nC17MFFBInGll7Wjun7XS"
@@ -3394,7 +3460,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 180310,
       "name": "Late at Night",
       "url": "https://open.spotify.com/track/7E9D2k2LU9hqzf9Wp4IZpW"
@@ -4206,7 +4272,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 151306,
       "name": "Mo' Better Soul",
       "url": "https://open.spotify.com/track/22meHhwZXjre3IRkPBmYqD"
@@ -4390,7 +4456,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 149800,
       "name": "Mount Rakko",
       "url": "https://open.spotify.com/track/3gH6U0EQHbFrCNebvbnk8Y"
@@ -4622,6 +4688,32 @@
       "duration_ms": 148419,
       "name": "North Cackalacky",
       "url": "https://open.spotify.com/track/0pnG8DPAtNKu2tUWXPI5Qs"
+    },
+    {
+      "album": {
+        "name": "Not enough memories",
+        "url": "https://open.spotify.com/album/4pjmzONlJ4mgo4DV8BPdam"
+      },
+      "artists": [
+        {
+          "name": "Flat Ruy",
+          "url": "https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke"
+        },
+        {
+          "name": "Drive",
+          "url": "https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "Not enough memories",
+      "url": "https://open.spotify.com/track/2hEv9XOeDpFbiiNMUuB30I"
     },
     {
       "album": {
@@ -5381,6 +5473,24 @@
     },
     {
       "album": {
+        "name": "Rumba popular",
+        "url": "https://open.spotify.com/album/3y6dSMk5Lip6JSfiXvtPUt"
+      },
+      "artists": [
+        {
+          "name": "Major 7th",
+          "url": "https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112102,
+      "name": "Rumba popular",
+      "url": "https://open.spotify.com/track/6FUWz7bN2d0UioEZk8Nrxn"
+    },
+    {
+      "album": {
         "name": "Dissolve",
         "url": "https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS"
       },
@@ -5428,7 +5538,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 165000,
       "name": "R\u00eaverie",
       "url": "https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi"
@@ -5731,6 +5841,28 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w"
+    },
+    {
+      "album": {
         "name": "Soft Slap",
         "url": "https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK"
       },
@@ -5804,7 +5936,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 116593,
       "name": "Something Has Happened",
       "url": "https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo"
@@ -6046,6 +6178,24 @@
       "duration_ms": 161910,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/4XRWyxfFJQvJ62KubqR1Lr"
+    },
+    {
+      "album": {
+        "name": "Summertime in Rio",
+        "url": "https://open.spotify.com/album/3J6jAhDDqs22qR4mTjEkjz"
+      },
+      "artists": [
+        {
+          "name": "\u00d6nigirisu",
+          "url": "https://open.spotify.com/artist/2wrReMufBFCidJ3Sy1UzPe"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Summertime in Rio",
+      "url": "https://open.spotify.com/track/74zTWV2U5WvSqbOt1l1atE"
     },
     {
       "album": {
@@ -6766,7 +6916,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 214000,
       "name": "Toucan",
       "url": "https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT"
@@ -6930,7 +7080,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 149647,
       "name": "Tropical Vibes",
       "url": "https://open.spotify.com/track/7t2tZV8QIUNTASlg52uUk7"
@@ -7306,7 +7456,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 151471,
       "name": "Warmer Nights",
       "url": "https://open.spotify.com/track/0nGWIqSxMU7jlkDTZoHDlE"

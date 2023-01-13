@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-91 songs - 4 hr 47 min
+92 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2022-04-12 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2022-04-12 | 2022-11-25 |
 | [Long Ago and Far Away](https://open.spotify.com/track/55m9IfGX0Hf4WWPmZa3JKv) | [Issy Tam](https://open.spotify.com/artist/1A24SZSBVcZbWE8VJ0RkfH) | [Long Ago and Far Away](https://open.spotify.com/album/4WHAAvPCu3ZMMdmxpmky2P) | 1:50 | 2022-04-12 |  |
+| [Mary Had a Little Lamb](https://open.spotify.com/track/3NpjpqDMXGWnELu2sCrkc2) | [Isa Hopkins](https://open.spotify.com/artist/7qXmB3myPVahbop7iJTgoz) | [Mary Had a Little Lamb](https://open.spotify.com/album/6eD3IBFS08wBGKU0urZKdD) | 2:12 | 2023-01-12 |  |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2022-04-12 |  |
 | [Moonlight in Vermont](https://open.spotify.com/track/6VJn0MDkRQzrGCLo098JOs) | [Donal Garcia](https://open.spotify.com/artist/6IgqfiaWleSjVYu9Dr5D0S) | [Smile](https://open.spotify.com/album/7tUDzSSUGdeeC6nnYiT7K5) | 2:15 | 2022-04-12 |  |
 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2022-04-12 |  |

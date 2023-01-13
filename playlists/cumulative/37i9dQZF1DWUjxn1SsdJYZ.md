@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mikey Dam
 
-345 songs - 16 hr 26 min
+346 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [RUNNIN](https://open.spotify.com/track/1IA11fh0nHMauEx6WrMIKy) | [MANDEM](https://open.spotify.com/artist/3uXbU6pVxmSY7ROYqa4MCy), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [RUNNIN](https://open.spotify.com/album/244s3bNXlkDgFigRPeoX0m) | 2:53 | 2022-03-21 | 2022-08-05 |
 | [Runnin' Game](https://open.spotify.com/track/7B8IYJuJ7jBW1bI1NLlMqS) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Runnin' Game](https://open.spotify.com/album/38yJe8MEpW1x4dPpOVjzQr) | 4:36 | 2022-03-21 | 2022-07-29 |
 | [Runnin’ Game](https://open.spotify.com/track/4hvcQOVrQ4rdaI0zubTwWa) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/2BSruKVc0FBm0rmWbRmrAU) | 4:36 | 2022-07-28 | 2022-08-26 |
+| [Ruthless](https://open.spotify.com/track/1XuFjxGwGRaWYJ4NGLWg1V) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [Ruthless](https://open.spotify.com/album/754RRtCBYndQ8IC9yfSFAE) | 2:59 | 2023-01-12 |  |
 | [S T C](https://open.spotify.com/track/0xu6kL34INHn1dz9LEGZGR) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Vita](https://open.spotify.com/artist/1tJ9Zlpe4xDUsEJJ8Dvbz5) | [S T C](https://open.spotify.com/album/0VUbfZndGqGZr0KOELDUzU) | 3:32 | 2022-07-28 |  |
 | [Score](https://open.spotify.com/track/3f55S7jadtYjjiCbTSU4QF) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L), [Ryan King](https://open.spotify.com/artist/4tog9u82YRH8Dnf1aSv7fY) | [Score](https://open.spotify.com/album/3HrcsQpkCgr73wSyGLTonn) | 2:56 | 2022-03-21 | 2022-03-25 |
 | [SEE NO EVIL](https://open.spotify.com/track/4Kttz3UZLMG8CUexnT6KIk) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [SEE NO EVIL](https://open.spotify.com/album/7hBUo4m5ZlZ9cJYD5M6kbf) | 3:18 | 2022-05-05 | 2022-11-04 |

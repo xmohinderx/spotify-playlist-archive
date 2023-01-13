@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-203 songs - 10 hr 37 min
+204 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2022-04-15 |  |
 | [SRY](https://open.spotify.com/track/6ReYd2EPIrieI1s7fpm41f) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [SRY / Blame Me](https://open.spotify.com/album/6abDeahvTe453GxeIP462g) | 4:44 | 2022-06-10 |  |
 | [Stay Hazy](https://open.spotify.com/track/6kO1RFWTIgletNVPVj9H5S) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Stay Hazy / Insomnia](https://open.spotify.com/album/6jiv6wvCNTN6bHiloaS8mt) | 4:44 | 2022-04-15 | 2022-05-11 |
+| [Sthlm Snow](https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Sthlm Snow](https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme) | 3:21 | 2023-01-13 |  |
 | [Still Dancin’](https://open.spotify.com/track/3wip8pMVqbfItdSuXhm1PK) | [Kheega](https://open.spotify.com/artist/1QM500pZXuktetTjJ2fHxz) | [Still Dancin’](https://open.spotify.com/album/4IOtWCPyVqIcughxyJQU6w) | 3:43 | 2022-04-15 | 2022-09-23 |
 | [Suamalie](https://open.spotify.com/track/6OIRXuSjisW4P186yxV1En) | [Slashio](https://open.spotify.com/artist/47tNKltwmA9PtSyeuGvhHe) | [Suamalie](https://open.spotify.com/album/5B8Nc7nSk7UW8Zu3ZIa4yB) | 2:47 | 2022-06-03 |  |
 | [Suede](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg) | [Alexis Dex](https://open.spotify.com/artist/0cTgUITSZa5GgXygwDcyqV) | [Suede](https://open.spotify.com/album/4AxjnlN28EuaWC1tZyOGu1) | 3:03 | 2022-04-15 |  |

@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 186000,
       "name": "Beautiful (Worth Living) [feat. Barnaba]",
       "url": "https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 217523,
       "name": "Enough",
       "url": "https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr"
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Nenda",
+        "url": "https://open.spotify.com/album/4Bv7f63ScZR7DwLapCeVgk"
+      },
+      "artists": [
+        {
+          "name": "Gabby Rnb",
+          "url": "https://open.spotify.com/artist/7qyETqoh8xSHGFFeNfOlmp"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198426,
+      "name": "Nenda",
+      "url": "https://open.spotify.com/track/6RpnK5WTfd82wHnJlKcJBS"
+    },
+    {
+      "album": {
         "name": "Midnight Train",
         "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
       },
@@ -1136,6 +1154,24 @@
       "duration_ms": 190747,
       "name": "U&I",
       "url": "https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn"
+    },
+    {
+      "album": {
+        "name": "Umeme",
+        "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
+      },
+      "artists": [
+        {
+          "name": "Willy Paul",
+          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Umeme",
+      "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
     },
     {
       "album": {

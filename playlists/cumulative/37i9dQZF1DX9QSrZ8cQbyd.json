@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Glockenspiel lullabies for your baby to fall asleep.",
+  "description": "",
   "name": "Baby Bells for Sleep",
   "tracks": [
     {
@@ -106,10 +106,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 98393,
       "name": "Air",
       "url": "https://open.spotify.com/track/0HuTyrc812WSs79vNnuDze"
+    },
+    {
+      "album": {
+        "name": "Bach in a box",
+        "url": "https://open.spotify.com/album/01bMbW51p7IR0LixT7uUdM"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137307,
+      "name": "Air on a G string",
+      "url": "https://open.spotify.com/track/6pGnSNiQUD5IY11Tw0S89u"
     },
     {
       "album": {
@@ -448,7 +466,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 208000,
       "name": "Can You Feel the Love Tonight - Wurlitzer",
       "url": "https://open.spotify.com/track/75ek2fdi2kptubO4nUyXjt"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 86803,
       "name": "Goodnight Kiss",
       "url": "https://open.spotify.com/track/2HesqUQfm0I4vGd5EbMbec"
@@ -992,6 +1010,24 @@
       "duration_ms": 88739,
       "name": "Greensleaves",
       "url": "https://open.spotify.com/track/6edPOOfxJGvHvsewUnIHEn"
+    },
+    {
+      "album": {
+        "name": "Gymnopedie 1",
+        "url": "https://open.spotify.com/album/2fy8R2V6a6BHHTyQgssKsu"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Blumenthal",
+          "url": "https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180375,
+      "name": "Gymnopedie 1",
+      "url": "https://open.spotify.com/track/06KNFx94OikYSlAxZGgQgW"
     },
     {
       "album": {
@@ -1157,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "The Swedish Music Box",
+        "url": "https://open.spotify.com/album/5PqtljsrO2JyW76jJtCS9U"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107884,
+      "name": "Idas sommarvisa",
+      "url": "https://open.spotify.com/track/77MJqVB9i9iQBe7ZG7iAmB"
+    },
+    {
+      "album": {
         "name": "If you could fly",
         "url": "https://open.spotify.com/album/54k1esexpddjve7sUPnU4q"
       },
@@ -1208,6 +1262,24 @@
       "duration_ms": 73409,
       "name": "Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/3rRgStxDZMMv1irHYhZsX8"
+    },
+    {
+      "album": {
+        "name": "Bach in a box",
+        "url": "https://open.spotify.com/album/01bMbW51p7IR0LixT7uUdM"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98571,
+      "name": "Jesu bleibet meine freude",
+      "url": "https://open.spotify.com/track/3ofThB5Eaurleq8u37zPHN"
     },
     {
       "album": {
@@ -1499,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Lullaby with Beatles",
+        "url": "https://open.spotify.com/album/2wEhoP7xxTdLYBgd5E4F3M"
+      },
+      "artists": [
+        {
+          "name": "Sarah Bainscroft",
+          "url": "https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/551hxmfEkVQ01vGBbVn3Nc"
+    },
+    {
+      "album": {
         "name": "Moment of the Stars",
         "url": "https://open.spotify.com/album/09zbOlD7GzE37jLVBk2uLY"
       },
@@ -1532,6 +1622,24 @@
       "duration_ms": 140500,
       "name": "Mommy's Here",
       "url": "https://open.spotify.com/track/6BAjXFG4YnScj3Gip9prRf"
+    },
+    {
+      "album": {
+        "name": "The Swedish Music Box",
+        "url": "https://open.spotify.com/album/5PqtljsrO2JyW76jJtCS9U"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97846,
+      "name": "Mors lilla lathund",
+      "url": "https://open.spotify.com/track/3Lung4SYb5LHbry3GacEyO"
     },
     {
       "album": {
@@ -1841,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Lullaby with Beatles",
+        "url": "https://open.spotify.com/album/2wEhoP7xxTdLYBgd5E4F3M"
+      },
+      "artists": [
+        {
+          "name": "Sarah Bainscroft",
+          "url": "https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79137,
+      "name": "Norwegian wood",
+      "url": "https://open.spotify.com/track/1ByQlFNauvORycqgO7Buav"
+    },
+    {
+      "album": {
         "name": "Norwegian Wood",
         "url": "https://open.spotify.com/album/4IAqwqxzbFdz6S3auazPvW"
       },
@@ -2072,6 +2198,24 @@
       "duration_ms": 102000,
       "name": "Siesta",
       "url": "https://open.spotify.com/track/4gCz5o087cR8iTCsDSNWan"
+    },
+    {
+      "album": {
+        "name": "Sleep Little Willow Young",
+        "url": "https://open.spotify.com/album/6pmRezdjXo5mG3CU8tfPss"
+      },
+      "artists": [
+        {
+          "name": "Cornelis Blund",
+          "url": "https://open.spotify.com/artist/2sI6McFU2OApYhH4Gg4zyp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91380,
+      "name": "Sleep Little Willow Young",
+      "url": "https://open.spotify.com/track/5QxLg1TU1IQssZ7twhj49h"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hatha Yoga](https://open.spotify.com/playlist/37i9dQZF1DWZvpVE2NxPV2)
 
-> 
+> Peaceful ambient for mind body connection.
 
 167 songs - 8 hr 30 min
 

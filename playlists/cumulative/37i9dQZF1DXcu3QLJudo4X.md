@@ -2,7 +2,7 @@
 
 ### [Blues Standards](https://open.spotify.com/playlist/37i9dQZF1DXcu3QLJudo4X)
 
-> 
+> Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
 72 songs - 4 hr 9 min
 

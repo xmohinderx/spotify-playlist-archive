@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,739 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,947 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 28 | [La Placita](https://open.spotify.com/track/5ZmmNBKHKLDureKMGrRHCJ) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Easy\-S](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Placita](https://open.spotify.com/album/46l66J5C7w8cK1EOm0LlIr) | 3:48 |
 | 29 | [La Góndola](https://open.spotify.com/track/7lly9m8Wwi6crkqGLlvEz2) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [La Góndola](https://open.spotify.com/album/0nqA4JsLWiByBgmRm5B8aP) | 3:02 |
 | 30 | [Guajiro](https://open.spotify.com/track/7mzNtZ87Ha6gc1YZCQfA6c) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Guajiro](https://open.spotify.com/album/2xWes52vgOfvY7Q8IKAYv7) | 2:58 |
-| 31 | [Mar de Males](https://open.spotify.com/track/2dt8G6Jx5Ngp5WKvZQoXf1) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/64lovgnKDKb6b0RZrgRozI) | 3:36 |
+| 31 | [Mar de Males](https://open.spotify.com/track/7ox34DRBx7WjFQkeukX2Zd) | [Mayo 214](https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn), [La Cantera](https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa) | [Mar de Males](https://open.spotify.com/album/7kmm1jkiaazsTLMW0OX6MC) | 3:36 |
 | 32 | [Silencio](https://open.spotify.com/track/4Huf56u4fIIcQwZb9RSe4A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Silencio](https://open.spotify.com/album/05QCvximYc8wuXO8q1oSZ0) | 3:06 |
 | 33 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 |
 | 34 | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/track/0qZXZnRY8HnJSwnXW3qxwu) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Dispuestos a morir \(feat\. Bardero$\)](https://open.spotify.com/album/0wge0858QmI3lcVnbJkZD7) | 4:20 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 54 | [Salgo pa la calle](https://open.spotify.com/track/2LG7Z8Izey6MTCmLIOWmqG) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Le cri de la Rue](https://open.spotify.com/album/5TnrJ9WC8HVWexiNoLVaFx) | 2:21 |
 | 55 | [Freestyle Session \#13](https://open.spotify.com/track/2yGN0LzE0AL7Ev9chjp9Nh) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Freestyle Session \#13](https://open.spotify.com/album/1erD5sfzkSeBKykn8baBla) | 5:39 |
 
-Snapshot ID: `MTY3MDI1ODIyMSwwMDAwMDAwMGM3ODhkZmNlYzYxMmI2MWNiYzJmOWQ3ZjNlZjdjNzc5`
+Snapshot ID: `MTY3MDI1ODIyMSwwMDAwMDAwMDZiMzUwNGE4OWEzNjE2MTI0MzE3ZTE4NDVjNjliMTE4`

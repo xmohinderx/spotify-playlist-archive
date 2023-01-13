@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-79 songs - 3 hr 44 min
+80 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [ROCK SHIT](https://open.spotify.com/track/0XAteuqb6RYFAM1gzpSqss) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [T\-Pablow](https://open.spotify.com/artist/0wygiZev26irRopIBGuoTR) | [MUSA](https://open.spotify.com/album/0zy1Zin37EdvVRWeqCUNSb) | 2:58 | 2022-11-19 |  |
 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 | 2022-11-19 |  |
 | [ROMANÉE \-CONTI](https://open.spotify.com/track/4J8OZi1ItHMcLjU1TIOgvI) | [MC Tyson](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd) | [THE MESSAGE III](https://open.spotify.com/album/0yVWJKqJ9jOVneyR1tjIUW) | 3:29 | 2022-11-19 |  |
+| [Run It Back](https://open.spotify.com/track/1eWlti11pK0nmijVe4kxMG) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG) | [3rd High "Resuscitation" \(mixed by DJ BULLSET\)](https://open.spotify.com/album/67iANbB3iesGmIAlUe79qf) | 3:32 | 2023-01-13 |  |
 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 | 2022-11-19 |  |
 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 | 2022-11-19 |  |
 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 | 2022-11-19 |  |

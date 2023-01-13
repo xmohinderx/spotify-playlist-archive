@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 il collettivo in cover",
+  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 in cover: ANSIAH",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 147586,
       "name": "7 su 7",
       "url": "https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn"
@@ -266,6 +266,24 @@
       "duration_ms": 181496,
       "name": "9 lives",
       "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
+    },
+    {
+      "album": {
+        "name": "</3",
+        "url": "https://open.spotify.com/album/5ujDpayGFicTPr7eBpYoZG"
+      },
+      "artists": [
+        {
+          "name": "Dem\u00ef",
+          "url": "https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122827,
+      "name": "</3",
+      "url": "https://open.spotify.com/track/2r5szHBfQFSHRREVvL0XrJ"
     },
     {
       "album": {
@@ -604,7 +622,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 181574,
       "name": "Anima Persa",
       "url": "https://open.spotify.com/track/3TV4zkCQNOaYQc4HccvZSq"
@@ -774,10 +792,36 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 178000,
       "name": "BAMBINI VECCHI (Fantasy)",
       "url": "https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q"
+    },
+    {
+      "album": {
+        "name": "Barna",
+        "url": "https://open.spotify.com/album/3RhMpDJAtwHrciiH71csMC"
+      },
+      "artists": [
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        },
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        },
+        {
+          "name": "Ardia",
+          "url": "https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144878,
+      "name": "Barna",
+      "url": "https://open.spotify.com/track/3bPekwjpEJAQzUpFlhkTh5"
     },
     {
       "album": {
@@ -1215,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "HYBRIS",
+        "url": "https://open.spotify.com/album/31pvoj49M66S7erwR0suZd"
+      },
+      "artists": [
+        {
+          "name": "Libra",
+          "url": "https://open.spotify.com/artist/6J4iZljarXRZDaza6yoNG5"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "CLIPPER 2",
+      "url": "https://open.spotify.com/track/4ule3ITCm7kCwq21ld05SH"
+    },
+    {
+      "album": {
         "name": "Coccinelle nere",
         "url": "https://open.spotify.com/album/5QtI2HPqjpsheqdkj3IPEX"
       },
@@ -1310,7 +1372,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 198375,
       "name": "Cose che ricordano te",
       "url": "https://open.spotify.com/track/2VUNUcFcHr8XtyJEbdwLOO"
@@ -1415,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "C'est Comme \u00c7a",
+        "url": "https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149251,
+      "name": "C\u2019est Comme \u00c7a",
+      "url": "https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb"
+    },
+    {
+      "album": {
         "name": "DADA (feat. Bravo, Bravissimo)",
         "url": "https://open.spotify.com/album/4FhG3n5w0taqmD6Ni1WNTS"
       },
@@ -1448,7 +1528,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
@@ -1692,7 +1772,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 182548,
       "name": "Dove Ci Siamo Lasciati",
       "url": "https://open.spotify.com/track/2cdgPHdedeVPpNJQsy3Bw6"
@@ -1714,7 +1794,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 188148,
       "name": "dove non posso guardare",
       "url": "https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw"
@@ -1808,7 +1888,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 137900,
       "name": "Efedrina",
       "url": "https://open.spotify.com/track/0mraQZ7j0QRW0Gl1Fqi6xn"
@@ -2262,7 +2342,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 148357,
       "name": "Fuoriluogo",
       "url": "https://open.spotify.com/track/6Q1NlWzwFK3KGgpBE7WUgH"
@@ -2654,7 +2734,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 181962,
       "name": "Hot All the Time",
       "url": "https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh"
@@ -2788,6 +2868,28 @@
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
+    },
+    {
+      "album": {
+        "name": "I Pi\u00f9 Strani",
+        "url": "https://open.spotify.com/album/0MJeMGgqu1bFss3sISNsTF"
+      },
+      "artists": [
+        {
+          "name": "Droppunkk",
+          "url": "https://open.spotify.com/artist/6Eq3QanvTWmcrEMYO9vuae"
+        },
+        {
+          "name": "xDiemondx",
+          "url": "https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "I Pi\u00f9 Strani",
+      "url": "https://open.spotify.com/track/6r18ZkrA6zKHvz3Gi6jP58"
     },
     {
       "album": {
@@ -3268,7 +3370,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 174814,
       "name": "Life Sux",
       "url": "https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU"
@@ -3348,6 +3450,24 @@
       "duration_ms": 171285,
       "name": "Lola",
       "url": "https://open.spotify.com/track/7CwPk4p8ZNbI4oH3cakwUl"
+    },
+    {
+      "album": {
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "album": {
@@ -3780,7 +3900,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 196465,
       "name": "more than life (feat. glaive)",
       "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
@@ -4208,7 +4328,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 170823,
       "name": "NSSDT",
       "url": "https://open.spotify.com/track/1orLi4ACMO2A3fq8Ka8tgb"
@@ -4266,7 +4386,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 171142,
       "name": "occhi rossi",
       "url": "https://open.spotify.com/track/1l3555yanzfiCs9Hf6xhXF"
@@ -4318,7 +4438,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 199690,
       "name": "OFFLINE",
       "url": "https://open.spotify.com/track/42kqn34G9jaBcTgt08yXcz"
@@ -4496,7 +4616,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 142894,
       "name": "penso a te",
       "url": "https://open.spotify.com/track/7jvDfz3I1JZYOaW4c5plrc"
@@ -4960,7 +5080,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -5076,7 +5196,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -5700,7 +5820,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 159889,
       "name": "Sottosopra",
       "url": "https://open.spotify.com/track/1b65pnfClHLMDFEEhrcLJP"
@@ -5878,7 +5998,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 137142,
       "name": "Stanotte",
       "url": "https://open.spotify.com/track/1S4ctiUy9JfEbRbMJPJh06"
@@ -5940,7 +6060,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 185644,
       "name": "STOCCOLMA",
       "url": "https://open.spotify.com/track/2YbyAH03K37nF4fOnOGkIo"
@@ -6360,7 +6480,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 179160,
       "name": "thot",
       "url": "https://open.spotify.com/track/13i8SRJERvFkyd3IDnYvnG"
@@ -6618,6 +6738,24 @@
       "duration_ms": 152053,
       "name": "Ugly Crier",
       "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
+    },
+    {
+      "album": {
+        "name": "Un Bacio",
+        "url": "https://open.spotify.com/album/6HePoa5devScemotcjLRLA"
+      },
+      "artists": [
+        {
+          "name": "Nayv",
+          "url": "https://open.spotify.com/artist/25alJcXxllT6w5Zu8rjWNK"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147279,
+      "name": "Un Bacio",
+      "url": "https://open.spotify.com/track/0aKVAk3tDuvtENyQJJTIcm"
     },
     {
       "album": {

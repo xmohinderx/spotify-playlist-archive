@@ -2555,6 +2555,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127021,
+      "name": "SuperKitties Theme Song",
+      "url": "https://open.spotify.com/track/6XrEZK701bHo6XG5w4LTWY"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
         "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
       },

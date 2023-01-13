@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Potter Payper",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish",
   "name": "Rap UK",
   "tracks": [
     {
@@ -910,6 +910,32 @@
       "duration_ms": 201398,
       "name": "8 9 10's",
       "url": "https://open.spotify.com/track/7kjAwBg9ID9eyr21Ec5f26"
+    },
+    {
+      "album": {
+        "name": "The G Tape: Volume 2",
+        "url": "https://open.spotify.com/album/5p7j9mtrmFdBxkLLbN11XR"
+      },
+      "artists": [
+        {
+          "name": "Groundworks",
+          "url": "https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc"
+        },
+        {
+          "name": "98s",
+          "url": "https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171081,
+      "name": "8 To The 9 & Back",
+      "url": "https://open.spotify.com/track/5XuS2gOlphnxDoe2mYJAVw"
     },
     {
       "album": {
@@ -5504,7 +5530,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 163961,
       "name": "Chief Rhys Freestyle",
       "url": "https://open.spotify.com/track/2NJ9SrL3cdNveVVDeoKQWu"
@@ -6746,6 +6772,24 @@
       "duration_ms": 181000,
       "name": "DARK N COLD",
       "url": "https://open.spotify.com/track/3nXukLw1jwI7Wuyvmknh78"
+    },
+    {
+      "album": {
+        "name": "Dave Flow",
+        "url": "https://open.spotify.com/album/4C5NX9Ihp0F1z5HQ7iHR2P"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218196,
+      "name": "Dave Flow",
+      "url": "https://open.spotify.com/track/5ajPDIvcDgbg0THed3G8To"
     },
     {
       "album": {
@@ -9124,7 +9168,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 141296,
       "name": "Feel Bigger",
       "url": "https://open.spotify.com/track/11PxzxEFvlNnTGBno92Spq"
@@ -14909,6 +14953,24 @@
     },
     {
       "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/04HSvKLgPa8FIddKp6fJeB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184107,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/69Y3i7ASWucfc4xyziEb4b"
+    },
+    {
+      "album": {
         "name": "Area Baby",
         "url": "https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog"
       },
@@ -16174,6 +16236,24 @@
       "duration_ms": 125454,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/4LGM8rLaSj0plQjVKd6YkK"
+    },
+    {
+      "album": {
+        "name": "No Difference",
+        "url": "https://open.spotify.com/album/1aYRvV3ymnKsWaZKlBaXU2"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "No Difference",
+      "url": "https://open.spotify.com/track/5LtruwKEsXHdOareYrBklX"
     },
     {
       "album": {
@@ -18800,7 +18880,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 175011,
       "name": "Public Figure",
       "url": "https://open.spotify.com/track/0PeQk3MMmnfBMmP1EvDOP4"
@@ -20218,7 +20298,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 157808,
       "name": "Ruining It",
       "url": "https://open.spotify.com/track/17LCwrvRDLak4BxLA1T9nH"

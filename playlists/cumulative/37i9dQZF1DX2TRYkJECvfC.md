@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-335 songs - 1 day 6 hr 29 min
+336 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Ceremony](https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 7:00 | 2022-05-03 | 2022-11-16 |
 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 | 2022-02-21 | 2022-10-18 |
 | [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 | 2022-10-28 |  |
-| [Change The Line](https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Change The Line EP](https://open.spotify.com/album/5XUUokFhb5IuDMx6Cr8Dbs) | 7:17 | 2021-12-08 |  |
+| [Change The Line](https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Change The Line EP](https://open.spotify.com/album/5XUUokFhb5IuDMx6Cr8Dbs) | 7:17 | 2021-12-08 | 2023-01-13 |
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
 | [Coyhaique](https://open.spotify.com/track/3voYKTZwwDFjtae7VdJocv) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Coyhaique](https://open.spotify.com/album/293qGUGPIbGmdYZAkIoRtC) | 6:32 | 2022-05-03 |  |
 | [Coyhaique \- Original Mix](https://open.spotify.com/track/5lvx0HcLnbXBjHIC7LcwUD) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Coyhaique](https://open.spotify.com/album/6JA0rBf9SqYOkSMWQOKbYS) | 6:32 | 2021-12-08 | 2022-07-27 |
@@ -116,6 +116,7 @@
 | [Hold On](https://open.spotify.com/track/1fyfYEmav5ovqInATtLZJa) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/5uaPCKOQy4Bihr6sEAVF5e) | 3:24 | 2022-05-03 | 2023-01-06 |
 | [Hold On](https://open.spotify.com/track/29noX0FL5ZMDF5bg77G52G) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/40Hq20k3nG8x3pH025RiIl) | 3:24 | 2022-05-03 | 2022-10-15 |
 | [Hold On](https://open.spotify.com/track/5QJ2hs1d22vxT8f2Jz29M2) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/38PIcexdesDkSJOwfnHS6K) | 3:24 | 2021-12-08 | 2022-07-29 |
+| [Horns in the Sun](https://open.spotify.com/track/6a6D34Zl60ClugkltmryYp) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Horns In the Sun](https://open.spotify.com/album/0c6GQc9Q3h5MiDco7V8z0I) | 3:19 | 2023-01-06 |  |
 | [How Do I Love You](https://open.spotify.com/track/17GYXmglkF2qLMrOhR915Z) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [How Do I Love You](https://open.spotify.com/album/08WrIRVquYjJQ0whhRkmq8) | 3:13 | 2021-12-08 |  |
 | [I Never Really Cared](https://open.spotify.com/track/05GiEzky4rkUc2aS95qaUr) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Afterlife](https://open.spotify.com/album/1GC0SjdlXjnx0NyhHV0Ug8) | 4:21 | 2021-12-08 |  |
 | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/album/4mIi7gfPx1zEvaMHtJ2Hvs) | 7:51 | 2022-05-03 |  |

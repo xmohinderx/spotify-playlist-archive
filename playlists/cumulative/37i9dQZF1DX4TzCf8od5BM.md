@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
-164 songs - 4 hr 12 min
+165 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Stretch Break](https://open.spotify.com/track/0DUt2qj0BUB6PglUKwSfk0) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:59 | 2022-03-18 |  |
 | [Super Hero](https://open.spotify.com/track/0jCZwqrvlA0j4wC5bQ1312) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends](https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT) | 2:20 | 2022-03-18 |  |
 | [Super Hero on the Beat](https://open.spotify.com/track/2pcR3WzgeApNXILR8IlI9f) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Marvel's Spidey and His Amazing Friends](https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT) | 2:31 | 2022-03-18 |  |
+| [SuperKitties Theme Song](https://open.spotify.com/track/6XrEZK701bHo6XG5w4LTWY) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI) | 2:07 | 2023-01-12 |  |
 | [T.O.T.S\. Main Title](https://open.spotify.com/track/7rllsBhVxaGhkr6gTrVstU) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:40 | 2022-03-18 |  |
 | [The Ants Go Marching](https://open.spotify.com/track/3tVoCL0q1iazXuAIP2OShD) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Nursery Rhymes Vol\. 2](https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc) | 1:22 | 2022-03-18 |  |
 | [The Baby's Coming](https://open.spotify.com/track/3LvHJlbWkT9HlAeFqMU0de) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 0:49 | 2022-03-18 |  |

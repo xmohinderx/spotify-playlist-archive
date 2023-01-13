@@ -2,7 +2,7 @@
 
 ### [Soft 10s](https://open.spotify.com/playlist/37i9dQZF1DX1uHCeFHcn8X)
 
-> Mellow songs from the 2010s.
+> Mellow songs from the 2010s\. Cover: Niall Horan.
 
 425 songs - 1 day 2 hr 19 min
 

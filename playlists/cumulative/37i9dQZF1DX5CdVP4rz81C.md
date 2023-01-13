@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Lily Meola
 
-1,117 songs - 2 day 10 hr 39 min
+1,118 songs - 2 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,8 @@
 | [Until We Leave the Ground](https://open.spotify.com/track/2e1AWudpXKLo79h33vj88C) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Until We Leave the Ground](https://open.spotify.com/album/6l6fBhgrATD6lv4TyLqlIW) | 3:00 | 2021-02-12 | 2021-03-14 |
 | [untitled](https://open.spotify.com/track/4pJcFEzvPTTpxAncONKdrk) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [untitled](https://open.spotify.com/album/1AzTLu2HMYvWizUxKPMKNP) | 2:44 | 2021-04-24 | 2021-05-22 |
 | [Up Down](https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened?](https://open.spotify.com/album/3K6gfRB0Yn4IEd5VDThMXv) | 3:10 | 2022-07-01 | 2022-08-20 |
-| [Up In The Sky](https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Up In The Sky](https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd) | 3:53 | 2022-07-12 |  |
+| [Up In The Sky](https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Up In The Sky](https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd) | 3:53 | 2022-07-12 | 2023-01-13 |
+| [Up In The Sky](https://open.spotify.com/track/6aiwsDQ9wttCKCzEllCFiN) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Up In The Sky](https://open.spotify.com/album/6PzvzVKOu8vwDYxxeurUAW) | 3:53 | 2023-01-06 |  |
 | [up to me](https://open.spotify.com/track/5pbQaprwbDRlzXBo8xVnCo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [up to me / dna \[demo\]](https://open.spotify.com/album/0GrGh2x8KprTal72UkxnBP) | 2:47 | 2021-07-17 | 2021-08-21 |
 | [Upgrade](https://open.spotify.com/track/0LvUnAADRlUQdKXJZNrl3N) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Upgrade](https://open.spotify.com/album/2L4WtU9IUTYNGpOTvnsLIr) | 2:37 | 2021-01-17 | 2021-02-06 |
 | [Ur Ex From College](https://open.spotify.com/track/2kuijEYY7xfw8TlQOQfe9u) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [Ur Ex From College](https://open.spotify.com/album/2YiB8Ph7rwsg0z87tNgQA5) | 2:46 | 2021-01-15 | 2021-02-19 |

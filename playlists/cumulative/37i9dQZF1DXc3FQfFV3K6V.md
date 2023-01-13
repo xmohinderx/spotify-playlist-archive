@@ -2,9 +2,9 @@
 
 ### [Laidback Acoustic](https://open.spotify.com/playlist/37i9dQZF1DXc3FQfFV3K6V)
 
-> Acoustic versions of well\-known songs.
+> 
 
-207 songs - 11 hr 34 min
+210 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2022-08-03 |  |
 | [Crazy](https://open.spotify.com/track/4N16zWMNASE6KCv4zsaYlZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Crazy](https://open.spotify.com/album/33Pdf5asfyOuzpassgLSmW) | 3:16 | 2021-12-09 | 2022-07-02 |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-05-05 | 2022-12-24 |
-| [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-07-01 |  |
+| [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-07-01 | 2023-01-13 |
 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/3oMuRgx0dtw4FjfQSd3j7A) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/01FzZJ8CCSjIRD52xKOYTB) | 4:06 | 2021-12-09 | 2022-07-29 |
 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/3jge9qVwcy42Za1AZz0390) | 4:06 | 2022-07-26 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Don't Be Cruel](https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq) | 2:41 | 2022-08-03 |  |
@@ -96,6 +96,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/1WSgNt0gyNHYNOkkMbNQdS) | [Denebi & Nordahl](https://open.spotify.com/artist/4A3r24KzFz3yX1YuX6iLGJ), [Moh Denebi](https://open.spotify.com/artist/3J98eO5qdJ2ps5NU9JdSLe), [Peter Nordahl](https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK) | [How Deep Is Your Love](https://open.spotify.com/album/5QdvDFFNoC6eDJX9vF6h6U) | 2:53 | 2021-12-09 | 2022-12-01 |
 | [How To Disappear Completely](https://open.spotify.com/track/2LqQGBIiRPaWZfjA3HXAvf) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/64q8FVttuqM8sKaUB1WyfV) | 3:03 | 2021-12-09 | 2022-07-02 |
 | [How Will I Know](https://open.spotify.com/track/4k8tHY77zVUMwY4TyB18vS) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [How Will I Know](https://open.spotify.com/album/3MMVkmufzMzArPQ4zTK99l) | 3:57 | 2021-12-09 |  |
+| [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 | 2023-01-13 |  |
 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2021-12-09 |  |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-11-30 |  |
 | [I Like Me Better](https://open.spotify.com/track/3XhxKOiaCZcHb7YGmN4dvO) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [I Like Me Better](https://open.spotify.com/album/4vHrQ3IWPIZiaMyZ1ZXnjd) | 3:28 | 2021-12-09 |  |
@@ -127,11 +128,13 @@
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2021-12-09 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 | 2022-09-20 | 2022-11-13 |
 | [Landslide](https://open.spotify.com/track/30TJojIypyhX15vrYGti0G) | [Joseph Neville](https://open.spotify.com/artist/4abYx9Wwc8WxkCPgtfg0qV), [Samantha Melillo](https://open.spotify.com/artist/6vgtiLBz4eTU8iJwzu4zWL) | [Landslide](https://open.spotify.com/album/0HAxAaQRtNYEGB6tXau8HK) | 3:20 | 2021-12-09 | 2022-12-01 |
+| [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-01-13 |  |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2021-12-09 |  |
 | [Let It Be \- Acoustic Cover](https://open.spotify.com/track/5Z7uQk07vVyT5lTimk0ssS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Be \(Acoustic Cover\)](https://open.spotify.com/album/6Vy6gebHPKWlIGXBWHwLTN) | 4:24 | 2022-08-03 | 2022-12-01 |
 | [Let Me Love You](https://open.spotify.com/track/7D1eleriDUxiD9BoxnGBV9) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 2:48 | 2021-12-09 | 2022-12-01 |
 | [Life Is Confusing](https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Life Is Confusing](https://open.spotify.com/album/6Etm7L6piJ0Q0p3AbnDglC) | 3:47 | 2021-12-09 |  |
 | [Light My Fire \(Acoustic\)](https://open.spotify.com/track/146msM6JSCnXKCqZC1imO9) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Reconstruct](https://open.spotify.com/album/29byaGyjRvRuCJ3Hrvf0qa) | 2:49 | 2022-05-05 | 2022-12-01 |
+| [Light On \- Acoustic](https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Light On \- Acoustic](https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC) | 3:29 | 2023-01-13 |  |
 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 | 2021-12-09 |  |
 | [Like a Prayer](https://open.spotify.com/track/0T4FWsx9iUYpd1y8mJQwdf) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Like a Prayer](https://open.spotify.com/album/1yzUOsibq34YhCxuhsypCo) | 3:53 | 2021-12-09 | 2021-12-23 |
 | [Like Everybody Else \- Acoustic](https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Like Everybody Else \(Acoustic\)](https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8) | 3:14 | 2021-12-09 |  |

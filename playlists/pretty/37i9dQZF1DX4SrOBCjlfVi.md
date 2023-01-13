@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring French Montana, Real Boston Richey and more\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,155 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,348 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [Score Or Die](https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Score Or Die](https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8) | 2:43 |
 | 28 | [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 |
 | 29 | [Uncle Elroy](https://open.spotify.com/track/3zdVqrm2m3lo73s5BOSNvd) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [LeakOut](https://open.spotify.com/album/78ZIwVQBzYdrUN9dpvr3cn) | 3:12 |
-| 30 | [Gimme Freestyle](https://open.spotify.com/track/5zHkXYdDT6903xEce1LWK8) | [Fred the Godson](https://open.spotify.com/artist/4XfZS4DTtBxAd8JjsDFMzl), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [Gimme Freestyle](https://open.spotify.com/album/6DTah7bil3pr4acSCPIqRJ) | 2:51 |
+| 30 | [Gimme Freestyle](https://open.spotify.com/track/5zHkXYdDT6903xEce1LWK8) | [Fred the Godson](https://open.spotify.com/artist/4XfZS4DTtBxAd8JjsDFMzl), [Vado](https://open.spotify.com/artist/56Ho3abDCKtIWOm0r6Hkts) | [Gimme Freestyle](https://open.spotify.com/album/6DTah7bil3pr4acSCPIqRJ) | 2:51 |
 | 31 | [Porsche Truck](https://open.spotify.com/track/3dYp2NzzYqflfSBWniwOEC) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [Porsche Truck](https://open.spotify.com/album/3qPrSg8I072UC2tzkQaMPt) | 1:04 |
 | 32 | [Like Dat](https://open.spotify.com/track/2XLh0cozp37b76JqHSZC79) | [Duece Uno](https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Like Dat](https://open.spotify.com/album/0HhVSa3NhYFXxJ3JTdhV9F) | 2:28 |
 | 33 | [BENZ](https://open.spotify.com/track/6E031JdEzh2E3mesGmlGt6) | [Young Cardi](https://open.spotify.com/artist/0xf3nf764hGg0fSptQqeDk), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [BENZ](https://open.spotify.com/album/5VvKj7hSbo59rSuF6E3CcJ) | 2:17 |

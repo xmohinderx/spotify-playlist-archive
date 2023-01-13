@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Michelle BI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,506 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,525 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 47 | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ) | 3:20 |
 | 48 | [El Sera y El Chavo](https://open.spotify.com/track/4D501jFb5aOvcXal9CWQ5J) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera y El Chavo](https://open.spotify.com/album/5j9m7pctTpHZyHS7gZ0gro) | 2:49 |
 | 49 | [El Flaco](https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [El Flaco](https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd) | 2:27 |
-| 50 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
-| 51 | [F E F](https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [F E F](https://open.spotify.com/album/6fBY0FGZiYYiE5bUFcNfMe) | 4:33 |
+| 50 | [F E F](https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [F E F](https://open.spotify.com/album/6fBY0FGZiYYiE5bUFcNfMe) | 4:33 |
+| 51 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
 | 52 | [Me Encantas](https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Me Encantas](https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht) | 3:20 |
 | 53 | [Soy Nayarita](https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Soy Nayarita](https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv) | 3:09 |
 | 54 | [El Wizard Es Mi Apodo](https://open.spotify.com/track/6P6GsfUCmIjOv6Q2zBI36s) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Wizard Es Mi Apodo](https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ) | 3:14 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 65 | [Sin Lado Izquierdo \- En Vivo](https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:06 |
 | 66 | [Sueño Americano](https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Sueño Americano](https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq) | 2:14 |
 | 67 | [No Hay Pedo Hay Peda](https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX) | [El Enfermo](https://open.spotify.com/artist/3derxbyWBTqAU8H8DPzn0q), [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [No Hay Pedo Hay Peda](https://open.spotify.com/album/1LCAjw1LW3nWqJmgPR8JqT) | 4:00 |
-| 68 | [En Cada Trago](https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [En Cada Trago](https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN) | 2:52 |
-| 69 | [Extraño Tus Besos](https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8) | 3:47 |
+| 68 | [Extraño Tus Besos](https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8) | 3:47 |
+| 69 | [En Cada Trago](https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [En Cada Trago](https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN) | 2:52 |
 | 70 | [Nada Contigo](https://open.spotify.com/track/2GH7nxSCfsR6vAtzID3S89) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [Nada Contigo](https://open.spotify.com/album/2eCgfwIDUkkfDC70C4EHkM) | 2:59 |
-| 71 | [Amarte Es Mi Destino](https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5) | [Los De La Verde](https://open.spotify.com/artist/2OApbndSzlwqPTIUrxCGN2), [Juan Caly](https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6) | [Amarte Es Mi Destino](https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR) | 3:00 |
-| 72 | [No Le Muevan Al Viejón](https://open.spotify.com/track/5vEO1CsJTtXg4myKwjiZZp) | [Moiza](https://open.spotify.com/artist/77146l5Vcu5vbpVPNXxvLC), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [No Le Muevan Al Viejón](https://open.spotify.com/album/2T49xEeAbotGF9bskLcqDa) | 2:28 |
+| 71 | [No Le Muevan Al Viejón](https://open.spotify.com/track/5vEO1CsJTtXg4myKwjiZZp) | [Moiza](https://open.spotify.com/artist/77146l5Vcu5vbpVPNXxvLC), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [No Le Muevan Al Viejón](https://open.spotify.com/album/2T49xEeAbotGF9bskLcqDa) | 2:28 |
+| 72 | [Amarte Es Mi Destino](https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5) | [Los De La Verde](https://open.spotify.com/artist/2OApbndSzlwqPTIUrxCGN2), [Juan Caly](https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6) | [Amarte Es Mi Destino](https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR) | 3:00 |
 | 73 | [El Yasion](https://open.spotify.com/track/63tKdWv76KMCnRLHBySNOX) | [Jasiel AB](https://open.spotify.com/artist/1hsZtqjs2Z7sInQ8x3oUEx) | [El Yasion](https://open.spotify.com/album/4F0IqF3EVj7uq9BzdjuEXP) | 3:24 |
 | 74 | [Bloqueado](https://open.spotify.com/track/31u0xddM70KxFebPyLawpR) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Bloqueado](https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb) | 3:01 |
 | 75 | [El Compa Foo \- En Vivo](https://open.spotify.com/track/3lOST2vPOoSEetbVkcyxtN) | [Josue Diaz Y Su Operativo](https://open.spotify.com/artist/7mTDXaBAOct0G1yBUTHNOE) | [El Compa Foo \(En Vivo\)](https://open.spotify.com/album/3aiRueTFa7pebbIv0pEtfd) | 3:22 |
 
-Snapshot ID: `MTY3MTc3NTIwMCwwMDAwMDAwMDdmZWQwMDQxMjRkNTE0N2RkOWNjNmRmMGZmZGNkMzM2`
+Snapshot ID: `MTY3MTc3NTIwMCwwMDAwMDAwMDkzYjNmY2I4ODNjNzA5YjhiNGVhMDU0Zjc5ZGM1NmFh`

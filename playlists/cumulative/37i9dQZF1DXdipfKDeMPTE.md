@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-433 songs - 16 hr 10 min
+436 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Give in to you](https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs) | [Gachagchi](https://open.spotify.com/artist/4gYhpOBdTKEhnrjRsYrhXe) | [I am the one](https://open.spotify.com/album/0hN15c8jV4wx6Q8PkqWKZf) | 1:44 | 2022-05-20 |  |
 | [gloomy forecast](https://open.spotify.com/track/0JOOhy4DD2DhsDUuFLcxKY) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [gloomy forecast](https://open.spotify.com/album/7AwLVPooBNokzJzlLyn91r) | 3:35 | 2022-05-20 |  |
 | [Golden Hours](https://open.spotify.com/track/6pFCWGvher1KJdEEsj55dn) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Autumn Here](https://open.spotify.com/album/2Ea5pKp1ORP8nXaOk85WHP) | 2:28 | 2022-05-20 | 2022-06-10 |
+| [golden lanterns](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [golden lanterns & sub zero](https://open.spotify.com/album/5BUYM7k80XcB4A2KSTK228) | 2:24 | 2023-01-13 |  |
 | [Goodwitch](https://open.spotify.com/track/6ZlVto4etUDW4TkERVP37O) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 2](https://open.spotify.com/album/4ohPIllqmhvDQ8EKBQeFou) | 2:26 | 2022-05-20 |  |
 | [gots to chill](https://open.spotify.com/track/2N0EsmVXjS2Fc3FFR2BouU) | [Dream Events](https://open.spotify.com/artist/0gaqCjCjnoxwDePjAZ9277) | [gots to chill](https://open.spotify.com/album/7IVMjmiejiglBlUzBugk5K) | 2:08 | 2022-11-11 |  |
 | [graffiti tape](https://open.spotify.com/track/0XArs5k4n9iHyNMwAsqpEX) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [graffiti tape](https://open.spotify.com/album/0KIocgWQakNy8op2OkUz2V) | 2:13 | 2022-05-20 | 2022-07-01 |
@@ -245,6 +246,8 @@
 | [Moody floral](https://open.spotify.com/track/04coIyF2UZ6pMFUw28z4at) | [DarkSkyBeats](https://open.spotify.com/artist/3au6RfUJ60t2YXgysbwf2w) | [Moody floral](https://open.spotify.com/album/20XvqhIXpmeSnmpCY3DprN) | 1:39 | 2022-05-20 | 2022-11-26 |
 | [Moon Shine](https://open.spotify.com/track/0SAnO4rUQJEC4IBxozew6W) | [Drogra](https://open.spotify.com/artist/46C1yy45Hsu5NlD7QnNFri) | [Moon Shine](https://open.spotify.com/album/30WANbBaynnPKdkVBQHgjm) | 2:49 | 2022-05-20 | 2022-07-01 |
 | [Moondust](https://open.spotify.com/track/5wVL5oe3j2S11EZc3qmA1R) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Moondust](https://open.spotify.com/album/5kwjoMQO24KAKGTX16rdRl) | 2:00 | 2022-09-23 |  |
+| [Moonlight over Berlin](https://open.spotify.com/track/7xlsc2DKFeGVpX5j75IedC) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Moonlight over Berlin](https://open.spotify.com/album/3vWziBwLsv2STXfJR2wnnJ) | 2:25 | 2023-01-13 |  |
+| [Moonlight Sonata](https://open.spotify.com/track/4Rjyl9EtVoXTf5cXiBr2R3) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Moonlight Sonata](https://open.spotify.com/album/0fFzxBcaCHEXRa4BI07oCp) | 2:45 | 2023-01-13 |  |
 | [Morgana](https://open.spotify.com/track/3DYyHUe3wG4F1ahZf2XLCm) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Lobi9](https://open.spotify.com/artist/3QO5tWYbDbzZ4jer6EDqUq) | [Mediado](https://open.spotify.com/album/5VDUfxSdbWaCOcrq0eFGMS) | 1:33 | 2022-05-20 | 2022-06-10 |
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2022-05-20 |  |
 | [moth](https://open.spotify.com/track/2cIUDGUdIV5TsFGa7FbDsX) | [benny yu](https://open.spotify.com/artist/5IIHfmIpUekEkjUethyUN0) | [moth](https://open.spotify.com/album/5NpnJyCssyy0BizGiOo0Ri) | 2:05 | 2022-05-20 |  |

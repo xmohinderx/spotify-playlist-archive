@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6?si=p9dZjX6fSu6o7ycwpmwk7Q">Marissa</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh?si=KQTB0JxQQ4C1duKbvgBvgQ">Leah</a>
 
 91 songs - 5 hr 8 min
 

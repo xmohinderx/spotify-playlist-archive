@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-608 songs - 1 day 13 hr 24 min
+609 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Love Me](https://open.spotify.com/track/2UHSah54aEHVdFxlXcSO6G) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/56mOew5JxSiZlsGtEKLxRI) | 3:21 | 2020-07-11 | 2020-10-09 |
 | [Love Will Work It Out](https://open.spotify.com/track/0BZVAlUSCoG2U4ejyPfK58) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Love Will Work It Out](https://open.spotify.com/album/6n2tvfglNOT50czZxUxLXi) | 3:45 | 2021-06-11 | 2022-07-29 |
 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 | 2022-07-28 | 2022-09-23 |
-| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-15 |  |
+| [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-15 | 2023-01-13 |
 | [Lovestreet 55](https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Lovestreet 55](https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH) | 3:58 | 2022-09-30 |  |
 | [Loving Someone \- Pt\. 1](https://open.spotify.com/track/3EohOPnAhvkc9XcVgBvbmD) | [Jaguar Skills](https://open.spotify.com/artist/3L1oMxInSBbQgoYVSjUkcR), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Loving Someone](https://open.spotify.com/album/0dMq34THSVZI5OI9KdlPU2) | 3:38 | 2021-08-06 | 2021-10-29 |
 | [Loving You](https://open.spotify.com/track/5WfaCiV8sAaSXHvu1uSSaT) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/4DwytUPjIttOwkVAC8CP7u) | 3:48 | 2021-04-17 | 2021-08-03 |
@@ -406,7 +406,7 @@
 | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/track/1I00qI4bQZyKSQ5G5AnKcv) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Refi Sings](https://open.spotify.com/artist/15X73vdLvKcEwXjB37sOIU) | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/album/6GMRzxqK9FZGpUzXwY24Vg) | 3:55 | 2021-04-17 | 2021-07-10 |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2020-11-20 | 2021-07-02 |
 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 | 2020-03-25\* | 2021-02-28 |
-| [Pills \- Single Version](https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Pills](https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw) | 2:58 | 2022-01-27 |  |
+| [Pills \- Single Version](https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Pills](https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw) | 2:58 | 2022-01-27 | 2023-01-13 |
 | [Pink Elephant](https://open.spotify.com/track/1LTN8lthZDQ3ArVXUlkwPQ) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Pink Elephant](https://open.spotify.com/album/73Y0cQYAtc71uPgMOzk1sg) | 3:12 | 2020-04-12 | 2020-05-15 |
 | [Play It Off](https://open.spotify.com/track/54cvbxeZN2GjCZJ8OQGu8i) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN) | [Play If Off](https://open.spotify.com/album/5v47sGyouyxhq4xY8GTgq7) | 3:06 | 2020-11-13 | 2021-06-11 |
 | [Please](https://open.spotify.com/track/0s1Ncm2ZxANbKVFFAQNtPN) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Do It with Love](https://open.spotify.com/album/4t9YE3Pj9wjKKX5NxTSPov) | 3:25 | 2022-07-14 | 2022-07-20 |
@@ -460,7 +460,7 @@
 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 | 2021-07-30 | 2021-09-24 |
 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 | 2022-06-20 |  |
 | [Silly Games](https://open.spotify.com/track/2hBO7RrS35vb9hquqrMYWq) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Honey Rum](https://open.spotify.com/album/0t5MuZqfifn8ulqFE39UOK) | 2:59 | 2021-03-06 | 2021-04-17 |
-| [Silver Lining](https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Silver Lining](https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG) | 3:12 | 2022-01-13 | 2022-12-30 |
+| [Silver Lining](https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Silver Lining](https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG) | 3:12 | 2022-01-13 |  |
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2020-11-13 | 2021-05-21 |
 | [Sinner](https://open.spotify.com/track/3qxbVEvpPubsqUP9FdJibk) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Sinner](https://open.spotify.com/album/4UvHnaLqvhudjFOUe8M0Lm) | 2:42 | 2021-02-24 | 2022-01-14 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-07-31 | 2022-01-28 |
@@ -615,6 +615,7 @@
 | [You're Not Wrong](https://open.spotify.com/track/11VUWwGIQKiOE9mITQrPtN) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN) | [You're Not Wrong](https://open.spotify.com/album/5obirF5HPGQv2f3DmGMBiu) | 3:10 | 2020-08-21 | 2021-04-17 |
 | [You're Still The One](https://open.spotify.com/track/5aGlygs4voalgMxBCCSg4l) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine: The Sequel](https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM) | 4:23 | 2022-09-22 |  |
 | [You've Been Hit By A Butterfly](https://open.spotify.com/track/0uqKnLucnQieGmCYKIKWC4) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [You've Been Hit By a Butterfly](https://open.spotify.com/album/17OnsvRBqfdFP3UzaSnv0b) | 3:24 | 2020-03-25\* | 2020-05-01 |
+| [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 |  |
 | [Zaddy](https://open.spotify.com/track/7GAu6GXP5HtjUReZNHl1Mk) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE), [3d Na'tee](https://open.spotify.com/artist/0qWcAUOG6kb4gSTJLZMG9B) | [Zaddy](https://open.spotify.com/album/3veOLfk8M60aoLzuJY7hap) | 5:01 | 2021-05-07 | 2021-06-11 |
 
 \*This playlist was first scraped on 2020-03-25. Prior content cannot be recovered.

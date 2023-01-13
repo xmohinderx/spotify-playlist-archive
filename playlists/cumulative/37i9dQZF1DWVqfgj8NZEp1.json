@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Bosse Zorro",
+        "url": "https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY"
+      },
+      "artists": [
+        {
+          "name": "OHOJ",
+          "url": "https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "Bosse Zorro",
+      "url": "https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are"
+    },
+    {
+      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO"
       },
@@ -2640,6 +2658,24 @@
       "duration_ms": 433786,
       "name": "La fin justifie les moyens",
       "url": "https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ"
+    },
+    {
+      "album": {
+        "name": "The Crown & Lobster Trilogy, Pt. II: Blue Is All That's Left",
+        "url": "https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40"
+      },
+      "artists": [
+        {
+          "name": "Eric van der Westen",
+          "url": "https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291498,
+      "name": "La Margaillette",
+      "url": "https://open.spotify.com/track/0DqU9yL6tcAKzXnJeP2kUs"
     },
     {
       "album": {

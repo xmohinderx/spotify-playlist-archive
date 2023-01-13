@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-226 songs - 16 hr 14 min
+227 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blame Me](https://open.spotify.com/track/2gFGw9tnS0ixQL9SmEoI0J) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/2dFXtpw7b5PTKHo5kN17bG) | 3:31 | 2021-10-15 | 2022-10-06 |
 | [Blame Me](https://open.spotify.com/track/4rYLpkGo3qNenbq8zVcILW) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/0958H6mglwYhFhwbpzHB8e) | 3:31 | 2021-10-15 | 2022-07-29 |
 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2022-09-29 |  |
+| [Blueprint](https://open.spotify.com/track/1bsqF1cwrsqVyxA3FEAIU3) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Blueprint](https://open.spotify.com/album/3r9BiB9RQwDlJR6owjqg5f) | 3:47 | 2023-01-12 |  |
 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 | 2022-04-20 | 2022-09-04 |
 | [Can I Call You](https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Can I Call You](https://open.spotify.com/album/51IbpY4dtaQ0alpNOHhsgE) | 4:22 | 2022-09-12 |  |
 | [Cherokee](https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Time Skiffs](https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv) | 7:50 | 2023-01-03 |  |
@@ -56,7 +57,7 @@
 | [Dogma](https://open.spotify.com/track/2ldqnO15Wz4U6JJQrb8kMy) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Dogma](https://open.spotify.com/album/1ZLybGNOMGNF4spedn49Om) | 3:24 | 2021-10-06 | 2022-09-13 |
 | [Don't Forget You're Precious](https://open.spotify.com/track/7r7lKry2CvHc6wK6c1ZgtO) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Don't Forget You're Precious](https://open.spotify.com/album/4lw500xSQLvXVnIvUmMWe7) | 3:41 | 2022-02-12 | 2022-08-20 |
 | [Don't Tell Me I'm Wrong](https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock \(Deluxe Edition\)](https://open.spotify.com/album/6BAwrKOz139eyfUMyYxcxL) | 3:35 | 2022-08-31 |  |
-| [Down and Lonely](https://open.spotify.com/track/6DAYxohAgspB0483KwT160) | [Azul](https://open.spotify.com/artist/5q4rW6X30YjYsD2GG0EguW), [Iris Deco](https://open.spotify.com/artist/1VP0sPzmkM1KIKV1r32clf) | [Down and Lonely](https://open.spotify.com/album/5F2nBPJP79B9TNW4fAdDFu) | 3:44 | 2022-09-29 |  |
+| [Down and Lonely](https://open.spotify.com/track/6DAYxohAgspB0483KwT160) | [Azul](https://open.spotify.com/artist/5q4rW6X30YjYsD2GG0EguW), [Iris Deco](https://open.spotify.com/artist/1VP0sPzmkM1KIKV1r32clf) | [Down and Lonely](https://open.spotify.com/album/5F2nBPJP79B9TNW4fAdDFu) | 3:44 | 2022-09-29 | 2023-01-13 |
 | [Dream St.](https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 5:24 | 2021-10-06 |  |
 | [Dry Fantasy](https://open.spotify.com/track/02AKn1Y1nrsgpQmCBBgQMq) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8) | 5:10 | 2021-10-06 | 2022-07-29 |
 | [Dry Fantasy](https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ritchie Sacramento](https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA) | 5:10 | 2021-10-06 | 2022-11-13 |

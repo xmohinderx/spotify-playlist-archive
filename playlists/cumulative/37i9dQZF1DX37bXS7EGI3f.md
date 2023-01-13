@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-506 songs - 1 day 15 hr 2 min
+507 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [I'm Here to Save You](https://open.spotify.com/track/4wn234gZXihakdPl1rmjsi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 3:47 | 2021-04-10 | 2022-01-22 |
 | [Imminent Threat](https://open.spotify.com/track/4TPMQfNauswpW8oxmY17PN) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Imminent Threat](https://open.spotify.com/album/2Rs28YNeV2Cob5Xt4JrW6w) | 5:16 | 2022-07-13 | 2022-07-29 |
 | [In the Dawn of the AI](https://open.spotify.com/track/4jzTw6omtWGIJrVmCxo5Vf) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [In the Dawn of the AI](https://open.spotify.com/album/6hKPL7QdATVIwRlbOQcxdP) | 6:07 | 2020-11-29\* | 2021-10-16 |
+| [In the Name of Love](https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 4:12 | 2023-01-12 |  |
 | [In The Name Of Love \(feat\. Cyan Kicks\)](https://open.spotify.com/track/7zcL9Z95bPLFbowuAtY9Bw) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [In The Name Of Love \(feat\. Cyan Kicks\)](https://open.spotify.com/album/1BPZ8JJZTv6CFDoyU7kJY7) | 4:12 | 2021-02-12 | 2021-08-28 |
 | [In Times of Despair](https://open.spotify.com/track/3CPTxcIAGwHLmWRDcKOiiv) | [Circus of Rock](https://open.spotify.com/artist/518jW2ZS5MdaqOKpQ5aX1q), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [In Times of Despair](https://open.spotify.com/album/4Jom2FViB0yuDP1OZGr00b) | 3:56 | 2021-07-10 | 2022-04-02 |
 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 | 2022-06-11 |  |
@@ -365,7 +366,7 @@
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-02-25 | 2022-05-21 |
 | [Sea of Suns](https://open.spotify.com/track/6jpq049BDvR4hUYmyNJeIo) | [The Helix Nebula](https://open.spotify.com/artist/5tjE7fMmvRra46r6Hz3aOA) | [Meridian](https://open.spotify.com/album/2NoWiPawAdUpzs8hyA4fAc) | 5:45 | 2022-07-13 | 2022-07-30 |
 | [Second Nature](https://open.spotify.com/track/3rVrbisqmkrfOVpfl9Plgj) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature](https://open.spotify.com/album/5rCIMFTGTvS0jLdOAc1Ljx) | 4:36 | 2022-01-21 | 2022-07-28 |
-| [Second Nature](https://open.spotify.com/track/4xMGEdt0h9iONzUsyHrbwI) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/6XcfrSUhi6QPivcula5bpO) | 4:36 | 2022-10-07 |  |
+| [Second Nature](https://open.spotify.com/track/4xMGEdt0h9iONzUsyHrbwI) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/6XcfrSUhi6QPivcula5bpO) | 4:36 | 2022-10-07 | 2023-01-13 |
 | [Second Nature](https://open.spotify.com/track/6aowG3sH4hV3KmX0InI4PR) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/0gWm0MZIxCIjOtY2Gk1xyI) | 4:36 | 2022-07-29 | 2022-10-14 |
 | [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 | 2022-03-18 |  |
 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 | 2020-11-29\* | 2021-05-28 |

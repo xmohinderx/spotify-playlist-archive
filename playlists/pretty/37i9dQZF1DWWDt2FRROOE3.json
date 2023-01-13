@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4851,
+  "num_followers": 4872,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDFlYjc0NDNmZjQ5MGM0OWIxYmM1ODJlZWFlNWE5NTI4",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDdkOGU3ZTY3NjQwZTc3OGIxYWEwZGJkZWY3ZWE4YzA0",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -463,8 +463,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Exitos De Los Chicos De London (Instrumental)",
-        "url": "https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21"
+        "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
+        "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
         }
       ],
-      "duration_ms": 201346,
-      "name": "Another One Bites the Dust - Instrumental",
-      "url": "https://open.spotify.com/track/3LdBtY99z1SVtshxrWd1vk"
+      "duration_ms": 147120,
+      "name": "Eleanor Rigby - Instrumental",
+      "url": "https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -607,8 +607,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
-        "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
+        "name": "Exitos De Los Chicos De London (Instrumental)",
+        "url": "https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
         }
       ],
-      "duration_ms": 147120,
-      "name": "Eleanor Rigby - Instrumental",
-      "url": "https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t"
+      "duration_ms": 201346,
+      "name": "Another One Bites the Dust - Instrumental",
+      "url": "https://open.spotify.com/track/3LdBtY99z1SVtshxrWd1vk"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexican Party",
-        "url": "https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm"
-      },
-      "artists": [
-        {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
-        }
-      ],
-      "duration_ms": 213936,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/7lzJGHFr3LJuKUsM0rtfMJ"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Mexipop",
         "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 280053,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/6qoY00hSrlzLUhxSbGo81U"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Mexican Party",
+        "url": "https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "duration_ms": 213936,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/7lzJGHFr3LJuKUsM0rtfMJ"
     },
     {
       "added_at": "2021-07-28 19:40:38",

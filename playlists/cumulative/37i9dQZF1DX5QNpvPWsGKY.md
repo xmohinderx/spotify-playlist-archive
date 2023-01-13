@@ -2,7 +2,7 @@
 
 ### [Taco Placero](https://open.spotify.com/playlist/37i9dQZF1DX5QNpvPWsGKY)
 
-> 
+> Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
 176 songs - 10 hr 20 min
 

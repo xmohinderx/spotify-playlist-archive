@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-313 songs - 15 hr 44 min
+316 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Acre](https://open.spotify.com/track/7zhJeqcfstD3SUCo3fGDmi) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Acre](https://open.spotify.com/album/4i4gjhsfxuQk7wmLhpU4aU) | 2:26 | 2022-11-25 |  |
 | [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2022-02-11 | 2022-07-22 |
 | [Alaska](https://open.spotify.com/track/6hxdw7ZDj7dmhpEo1TB0Fh) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Alaska](https://open.spotify.com/album/7b5SamKOOk1ryczb0JSVUk) | 1:48 | 2022-02-11 |  |
+| [Albiceleste](https://open.spotify.com/track/1LiAUwPURWhY2F6p7zecXH) | [Elisa Higgs](https://open.spotify.com/artist/57W9BWXBXBGuRgGnyWogps) | [Albiceleste](https://open.spotify.com/album/3r7eBEkJvRHOO9yKZyGMmF) | 4:16 | 2023-01-13 |  |
 | [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2021-10-12 | 2022-02-12 |
 | [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2022-02-11 |  |
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
@@ -58,6 +59,7 @@
 | [button press](https://open.spotify.com/track/1W5oSgHcgFqLZkUGSb5mgi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [button press](https://open.spotify.com/album/0gzqGvz8CA2SIhVaErYEyk) | 2:05 | 2021-10-26 | 2022-02-12 |
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2022-02-11 |  |
 | [call me baby](https://open.spotify.com/track/0hMigou1Jhjczm0Hr1Ocqw) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [call me baby](https://open.spotify.com/album/1ugcW2hjwXTxDkpZ6gn4ez) | 3:51 | 2022-09-02 |  |
+| [calm down](https://open.spotify.com/track/5SgKvrdnB9t3uxvfyQ54Mo) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [calm down](https://open.spotify.com/album/2bMxPgd0LHaQiXulRb1gFC) | 2:08 | 2023-01-13 |  |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2021-10-12 |  |
 | [Changli](https://open.spotify.com/track/1aTzMg4fhBUCG0UEqr7DED) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Changli](https://open.spotify.com/album/6bNHulXpJY2F8OMbO9NZgc) | 2:45 | 2019-10-04 | 2022-02-12 |
 | [Chill](https://open.spotify.com/track/1VfRjbEeCviSrNH2fqFi7c) | [LiQWYD](https://open.spotify.com/artist/7vZTLO4iDAVrmOtpRiyP3N) | [Chill](https://open.spotify.com/album/2uoAdcg5qM474JnnlIPuI6) | 2:54 | 2019-10-04 | 2022-02-12 |
@@ -239,6 +241,7 @@
 | [Spirals](https://open.spotify.com/track/2iLCFMUPpBkrluLl55RxI6) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Drine](https://open.spotify.com/album/2gDEjivLQAHFzY7OdUgy5n) | 3:58 | 2022-02-11 |  |
 | [stand me](https://open.spotify.com/track/3iKh3jXoEIkgF2kIMVAlCX) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [stand me](https://open.spotify.com/album/7oIs0cixveS2hwbI6rWOp3) | 2:58 | 2022-09-23 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2022-02-11 |  |
+| [Sthlm Snow](https://open.spotify.com/track/1hFH9RtFSBOYtaySQk7wlf) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Sthlm Snow](https://open.spotify.com/album/6Qe5tKlNTIeTg0bQNASLme) | 3:21 | 2023-01-13 |  |
 | [Stick with U](https://open.spotify.com/track/4MFfg6PS5YYsWaOHeUlPyF) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick with U](https://open.spotify.com/album/4zSaVRNtwB0eNCkqwBdDnK) | 2:44 | 2022-07-29 |  |
 | [Stick With U](https://open.spotify.com/track/2JquddjybdDlgVbOddsp3B) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick With U](https://open.spotify.com/album/6D65CQ4A2LiCHY4HiZbP66) | 2:44 | 2022-02-11 | 2022-07-29 |
 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 | 2022-02-11 | 2022-07-15 |

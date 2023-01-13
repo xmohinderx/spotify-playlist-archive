@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "My Input",
+        "url": "https://open.spotify.com/album/49euhFKdAYk2ijhh8FnNyi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Giserman",
+          "url": "https://open.spotify.com/artist/2SVMEVjRQzBxCcSIesRMJK"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263250,
+      "name": "My Input",
+      "url": "https://open.spotify.com/track/32ANfV6JEwOGNyE4C1qppv"
+    },
+    {
+      "album": {
         "name": "New Frontier",
         "url": "https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE"
       },
@@ -2994,6 +3012,24 @@
       "duration_ms": 227171,
       "name": "New Jade",
       "url": "https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq"
+    },
+    {
+      "album": {
+        "name": "new job",
+        "url": "https://open.spotify.com/album/6wsIt3yA3Q6XVYZAHql9mk"
+      },
+      "artists": [
+        {
+          "name": "Hasse Hans",
+          "url": "https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127971,
+      "name": "new job",
+      "url": "https://open.spotify.com/track/0CNDAJO2dkVsIvChFbDZqD"
     },
     {
       "album": {
@@ -3264,6 +3300,24 @@
       "duration_ms": 225933,
       "name": "Over and over",
       "url": "https://open.spotify.com/track/6B3yCWrksx9PrjGwu6zDzB"
+    },
+    {
+      "album": {
+        "name": "Pacha",
+        "url": "https://open.spotify.com/album/0g11iftI0EtP389i47OS9d"
+      },
+      "artists": [
+        {
+          "name": "Of An Age",
+          "url": "https://open.spotify.com/artist/5vbszQaOLYBHG5jjVvF4Le"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253304,
+      "name": "Pacha",
+      "url": "https://open.spotify.com/track/68miDOCIpjIJQ32BGLYTvh"
     },
     {
       "album": {

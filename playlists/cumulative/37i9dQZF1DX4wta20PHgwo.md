@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-308 songs - 1 day 4 hr 47 min
+309 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All I Need](https://open.spotify.com/track/7I63rA0w2lgv2iMaS7NRjY) | [Stéphane Kerecki Quartet](https://open.spotify.com/artist/20yiwcmp47i1fBanhJiVoy) | [French Touch](https://open.spotify.com/album/6x2XYBB5ROShuFabWJBMmn) | 7:12 | 2020-05-02\* | 2021-07-30 |
 | [All the Things You Are](https://open.spotify.com/track/3TSdkwPeUfvgLwNTF8gfC0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Another Day \(Remastered Anniversary Edition\)](https://open.spotify.com/album/2j5Cb61i6HgSUQlwSj7y8a) | 6:10 | 2020-05-02\* | 2021-08-20 |
 | [All the Things You Are \(feat\. Mark Turner\)](https://open.spotify.com/track/1sj18gBQAKZ8onvZx0awSw) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP) | [All the Things You Are \(feat\. Mark Turner\)](https://open.spotify.com/album/1JYmZVumPmo72c3sZFwmCP) | 5:44 | 2022-04-14 | 2022-06-09 |
-| [Amanecer](https://open.spotify.com/track/1j2D6VkPq7j7zitnxm2gt1) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [El Camino de los Vientos](https://open.spotify.com/album/4j9GcZi0kQHgDsFXDLJIF1) | 6:32 | 2022-07-21 |  |
+| [Amanecer](https://open.spotify.com/track/1j2D6VkPq7j7zitnxm2gt1) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [El Camino de los Vientos](https://open.spotify.com/album/4j9GcZi0kQHgDsFXDLJIF1) | 6:32 | 2022-07-21 | 2023-01-13 |
 | [Amanecer](https://open.spotify.com/track/7z6F8O9kR3n3g7zyc1wiAO) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [Amanecer](https://open.spotify.com/album/6vrgvSFiOv12tsg3JslQ05) | 6:32 | 2020-05-06 | 2022-07-29 |
 | [Another Land](https://open.spotify.com/track/0zCkOKYeToZAvm5rnUxcA3) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/1OVtWo9d7gohmH7LhLlIdq) | 9:18 | 2021-04-19 | 2022-07-29 |
 | [Another Land](https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS) | 9:18 | 2022-07-21 | 2022-11-13 |
@@ -93,6 +93,7 @@
 | [Down Home Blues](https://open.spotify.com/track/00ekEde0OgVWCkfWYdKQXO) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 5:10 | 2021-08-22 | 2022-05-03 |
 | [Each Dawn](https://open.spotify.com/track/1jSFoUQizDyukyLNUkYdqn) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 4:43 | 2022-03-10 | 2022-10-08 |
 | [Emily](https://open.spotify.com/track/3gleUGWbYMuPc3RfUA1mKd) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 5:28 | 2021-06-13 | 2022-06-09 |
+| [End Music](https://open.spotify.com/track/3hEBiMFNK3zMUTaIk0qYyU) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Monday](https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt) | 4:33 | 2023-01-12 |  |
 | [Ensenada](https://open.spotify.com/track/4KBULZasCMBDKHY8IPUCML) | [Bennie Maupin](https://open.spotify.com/artist/2mv4xHxofvyWTp2ViBqgZb) | [The Jewel In The Lotus](https://open.spotify.com/album/1Na5QsavsjOUqtj4f4Bxn1) | 8:15 | 2020-06-12 | 2020-10-27 |
 | [Estate](https://open.spotify.com/track/6xR0WAHOMfSdXfB8Ba9rmK) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Estate](https://open.spotify.com/album/1fr7A0vA1GCoT0gYVzNxjr) | 5:15 | 2022-09-08 | 2022-11-07 |
 | [Evermore](https://open.spotify.com/track/6m4CKe57wo7iKFqdx4k45B) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Kinds of Love](https://open.spotify.com/album/67gSqihoAVZyWcTzIRpiPR) | 7:29 | 2022-07-21 | 2022-10-08 |
