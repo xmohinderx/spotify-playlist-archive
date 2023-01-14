@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-1,018 songs - 2 day 18 hr 51 min
+1,019 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Change my future \- 『仮面ライダーギーツ×リバイス MOVIEバトルロワイヤル』主題歌](https://open.spotify.com/track/0EqJxTa17RgujcNET5uIvz) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Change my future \(『仮面ライダーギーツ×リバイス MOVIEバトルロワイヤル』主題歌\)](https://open.spotify.com/album/0denY30U0VQUrwsRuybua0) | 4:13 | 2022-12-22 | 2023-01-04 |
 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-08 | 2022-12-14 |
 | [CHRISTMAS AFTERNOON](https://open.spotify.com/track/62o7GbKYuWcNnEE7rjtnzu) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [With Regard to Christmas](https://open.spotify.com/album/72Ch3T83gNhJV2NEhJ6dkP) | 4:42 | 2022-11-29 | 2022-12-03 |
-| [Cinderella](https://open.spotify.com/track/6Q0YiUGPwMRmxsEZ6RX3q1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/1lQXrm4sRmiUupOokQ6Sgh) | 4:35 | 2023-01-12 |  |
+| [Cinderella](https://open.spotify.com/track/3X5C1Q3V5dIsIKq2Duj0PK) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK) | 4:35 | 2023-01-12 |  |
+| [Cinderella](https://open.spotify.com/track/6Q0YiUGPwMRmxsEZ6RX3q1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/1lQXrm4sRmiUupOokQ6Sgh) | 4:35 | 2023-01-12 | 2023-01-14 |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-23 |
 | [CITY LIFE](https://open.spotify.com/track/1bfky1ySIKHaornviiF6mW) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [CITY LIFE](https://open.spotify.com/album/6ofDypKApQAyvLBPrIIrbc) | 3:55 | 2022-07-26 | 2022-08-03 |
 | [close to you](https://open.spotify.com/track/6vNB1Ifizvcv6d04fZKoiZ) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [close to you](https://open.spotify.com/album/3QLKhb3MrJ4xLrRHMR5ioy) | 3:56 | 2022-05-29 | 2022-07-29 |

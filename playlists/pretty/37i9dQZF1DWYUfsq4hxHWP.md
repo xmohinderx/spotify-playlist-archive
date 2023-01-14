@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Graham Barham, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,955 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,039 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 52 | [Leave My Boots On](https://open.spotify.com/track/00VmQBlgZV5dE5ny4cUz1K) | [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1) | [No Apologies](https://open.spotify.com/album/6Tj68mnBWjxukc9pYAOiNf) | 3:09 |
 | 53 | [Somedays](https://open.spotify.com/track/0aUWveIcQbF8gL25DSmqud) | [Graham Scott Fleming](https://open.spotify.com/artist/4Ao86ITnIcDbQjDEkQPjsm) | [Somedays](https://open.spotify.com/album/1UOGvl7MG4bKKdXofZ68bL) | 3:11 |
 | 54 | [Die in a Bar](https://open.spotify.com/track/3coL4PTzgUNdpkxJJ2zHdP) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Die in a Bar](https://open.spotify.com/album/2xQyXJmVTtGabMPrs8jKyw) | 3:06 |
-| 55 | [Where's The Whiskey](https://open.spotify.com/track/0magsOYUA3wTRkqN1mxBTW) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Where's The Whiskey](https://open.spotify.com/album/5NLUd756rA6pnqBxdKeEQ5) | 3:12 |
+| 55 | [Where's the Whiskey](https://open.spotify.com/track/0magsOYUA3wTRkqN1mxBTW) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Where's the Whiskey](https://open.spotify.com/album/5NLUd756rA6pnqBxdKeEQ5) | 3:12 |
 | 56 | [Forever Gone](https://open.spotify.com/track/1iwxmfXAaw72PzwoeGeRP4) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Forever Gone](https://open.spotify.com/album/2hBrcEfY2yOz0hK046ohYI) | 3:12 |
 | 57 | [Accidents Happen](https://open.spotify.com/track/2VeQsTwoIj3G1hSyEsYhWN) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Accidents Happen](https://open.spotify.com/album/4d2KfAn8JOtt2DyRIGGeL2) | 3:27 |
 | 58 | [All The Good Ones Do](https://open.spotify.com/track/7lmEYbp3Wydbi1VIMM5JCR) | [Johnny Day](https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA) | [All The Good Ones Do](https://open.spotify.com/album/3oq7s4XXQBhantfIQ5BbgG) | 3:12 |

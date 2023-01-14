@@ -4,7 +4,7 @@
 
 > Enhance your focus with classical music.
 
-205 songs - 11 hr 9 min
+206 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Violin Concerto in D Major, Op\. 61: 3\. Rondo](https://open.spotify.com/track/4I1Yo2bxDB9ynjvhyaytjC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Frank Peter Zimmermann](https://open.spotify.com/artist/5hZj6cPZx2lFYtS7p234B2), [Shanghai Symphony Orchestra](https://open.spotify.com/artist/5axjIS5grj9EJYzXJW10IY), [Long Yu](https://open.spotify.com/artist/6PDtLxf4LD0rK9J055kocq) | [Great Recordings \(Vol\. 2\)](https://open.spotify.com/album/5n7380BCLmfU1WwKQ6U6jk) | 9:30 | 2022-02-04 | 2022-06-20 |
 | [Von fremden Ländern und Menschen \(From "Kinderszenen", Op\. 15\)](https://open.spotify.com/track/6aA88vbDLLQeid1AA8VOSp) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Van Bach tot Bernstein \- Spelenderwijs Leren Luisteren](https://open.spotify.com/album/1sUA5taIJalQVHk4KA64UG) | 1:30 | 2022-02-04 | 2022-07-29 |
 | [Von fremden Ländern und Menschen \(From "Kinderszenen", Op\. 15\)](https://open.spotify.com/track/7zB0GhZrV4cRHriPbTR53w) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Horowitz: A Reminiscence \[Expanded Edition\]](https://open.spotify.com/album/5RyB6erFytbDNGzpMEOo2l) | 1:30 | 2022-10-07 | 2022-11-13 |
+| [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [João Carlos Victor](https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb) | [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4) | 5:54 | 2023-01-14 |  |
 | [Waltz in C Minor \(Only for Piano\)](https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Blind Film](https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC) | 3:48 | 2022-02-04 | 2022-09-01 |
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-09-30 |  |
 | [Where Life and Death May Dwell \(Icelandic Folk Song\) \- Upright Piano](https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl) | [Snorri Sigfús Birgisson](https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Birgisson: Where Life and Death May Dwell \(Icelandic Folk Song\)](https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ) | 1:45 | 2022-09-02 |  |

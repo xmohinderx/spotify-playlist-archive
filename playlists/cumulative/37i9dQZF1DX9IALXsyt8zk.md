@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: SOLE
 
-177 songs - 9 hr 38 min
+178 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [MIA \(Feat\. CAMO, WOODZ\)](https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [MIA](https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V) | 3:15 | 2021-12-30 | 2023-01-12 |
 | [MOVE](https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [WAY UP](https://open.spotify.com/album/1TgcRUSvCC0QyuMsaiF3M4) | 3:32 | 2022-05-26 |  |
 | [Movin'](https://open.spotify.com/track/4URh4EuzBNOAqTllcpjHXe) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.1](https://open.spotify.com/album/1N3vXThYiEWjbR8xiYiF8H) | 3:23 | 2021-12-30 | 2022-01-07 |
+| [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-13 |  |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-28 |  |
 | [No More X](https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2021-12-30 | 2022-04-21 |
 | [No One Special \(feat\. J.O.Y & GARETH FERNANDEZ\)](https://open.spotify.com/track/0Gn4sPo3XJk1J897upDQru) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [Truman Show](https://open.spotify.com/album/6dPPKcd9FxtjGrwONNOTLR) | 2:50 | 2023-01-11 |  |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-687 songs - 1 day 13 hr 17 min
+688 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Hassna](https://open.spotify.com/track/1giF83Kz38yffC6gJoPesz) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Hassna](https://open.spotify.com/album/2wMQtCkhjjWyHCNchnWdta) | 2:32 | 2022-07-19 | 2022-08-18 |
 | [Hauli Hauli](https://open.spotify.com/track/3oMJtW4V8vuUKfUr0ZgNdn) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hauli Hauli](https://open.spotify.com/album/58a9qsPQQbGICghMaE0tY4) | 3:27 | 2022-03-22 | 2022-05-11 |
 | [Haye Jatta](https://open.spotify.com/track/6933Z2N5Fpgk7NtzLcZPgv) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Haye Jatta](https://open.spotify.com/album/6YYw4PjiL91x0ghXo9joRe) | 2:59 | 2022-04-22 | 2022-05-11 |
+| [Hazur](https://open.spotify.com/track/1Bmpsjv3BlG5NR7lR062pt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 2:42 | 2023-01-13 |  |
 | [Heer](https://open.spotify.com/track/0lzLGA5288fkENplIw8xA3) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Heer](https://open.spotify.com/album/2qTrAeWkX4YEJmQXvmNz94) | 8:08 | 2022-05-17 | 2022-05-20 |
 | [Heer Wargiye \- From: "Mahi Mera Nikka Jeha"](https://open.spotify.com/track/2z8jSGOE1jJnIMCwfZokIQ) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Heer Wargiye \(From: "Mahi Mera Nikka Jeha"\)](https://open.spotify.com/album/0PAOlllD67WewZcD27JmBg) | 3:25 | 2022-05-23 | 2022-07-06 |
 | [Hi Bye](https://open.spotify.com/track/2KhgkUOwNVBQUGSkeaNzW8) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Hi Bye](https://open.spotify.com/album/3kos90we5ZKsZeOPHJTFhY) | 3:02 | 2022-07-15 | 2022-08-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,571 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,652 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 4 | [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 |
 | 5 | [Home](https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 3:44 |
 | 6 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 |
-| 7 | [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 |
+| 7 | [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 |
 | 8 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 |
 | 9 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 |
 | 10 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 22 | [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 |
 | 23 | [Agua](https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Agua](https://open.spotify.com/album/0O0cMYT5mf86GEswEyH3D0) | 2:00 |
 | 24 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
-| 25 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 |
+| 25 | [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 |
 | 26 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
 | 27 | [fog morning](https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs) | 2:38 |
 | 28 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 |
 | 29 | [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 |
-| 30 | [re: Alive](https://open.spotify.com/track/6XHCJnkOI5DKvYCRJ57rH5) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/2U4TGes4XmalRjp1EqS6cb) | 2:21 |
+| 30 | [re: Alive](https://open.spotify.com/track/4no3Z7kB2HUBOmVtaV3vjo) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/3pyMLQw318kancb6zx4PJM) | 2:21 |
 | 31 | [Nagata Lights](https://open.spotify.com/track/3tI6ByTenOTqT0fIj5digf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Nagata Lights](https://open.spotify.com/album/44QQQMiFBKkV5aVpbIhKUf) | 2:02 |
 | 32 | [Star Lights](https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL) | 1:41 |
 | 33 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [16:18](https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [16:18](https://open.spotify.com/album/7zdPFHvktQKpNw0J1Aq95Z) | 3:17 |
 | 100 | [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMDM1Y2JhZjY5NjBhZWI4NmFjNzllYjNmZjQyZGRhNjI0`
+Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMDg1NDdlZWFkMDBiZDlkZmY3MmE0ZGM5NjQzMmYxMjIw`

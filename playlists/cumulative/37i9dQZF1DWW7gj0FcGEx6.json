@@ -754,6 +754,28 @@
     {
       "album": {
         "name": "Tundra",
+        "url": "https://open.spotify.com/album/1KSiD3nqxDKsOeJcsyvoNh"
+      },
+      "artists": [
+        {
+          "name": "Mathias Rehfeldt",
+          "url": "https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu"
+        },
+        {
+          "name": "Dark Matter Projekt",
+          "url": "https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352658,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/1ZPmsTDkoBH63pX25YLAOa"
+    },
+    {
+      "album": {
+        "name": "Tundra",
         "url": "https://open.spotify.com/album/5Uwl0AJBoJMnNsPws8jM3a"
       },
       "artists": [
@@ -768,7 +790,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 352658,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL"

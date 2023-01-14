@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Can't Stop (Drunken Kong Remix)",
+        "url": "https://open.spotify.com/album/1Xv4ThzXKntPZVO2mgYG1b"
+      },
+      "artists": [
+        {
+          "name": "Tomas Otero",
+          "url": "https://open.spotify.com/artist/0W82YncGEFtIHzKnUKe9Ue"
+        },
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277894,
+      "name": "Can't Stop - Drunken Kong Remix",
+      "url": "https://open.spotify.com/track/6nOKMOe7HvUz6gr817JoYA"
+    },
+    {
+      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
       },
@@ -2303,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "Eckstein Eckstein",
+        "url": "https://open.spotify.com/album/5I3OPusWIHYX9AKpNJjSaN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        },
+        {
+          "name": "Channel B",
+          "url": "https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187583,
+      "name": "Eckstein Eckstein",
+      "url": "https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi"
+    },
+    {
+      "album": {
         "name": "Electric Acid",
         "url": "https://open.spotify.com/album/470I5Tw4LgAe5ah3kUQBSq"
       },
@@ -2720,7 +2764,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 211617,
       "name": "Flying Octopus",
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
@@ -4422,7 +4466,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 229545,
       "name": "ME/AN",
       "url": "https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy"
@@ -4858,6 +4902,32 @@
       "duration_ms": 345800,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/0xUkLwEuLUKuTQ0QHDyii7"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3PKAIFal9g1TxpasnpBUPV"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260307,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/6LOlij2K5ipBbtIcOEHLiZ"
     },
     {
       "album": {
@@ -5709,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "Paradox EP",
+        "url": "https://open.spotify.com/album/3Vj4c0xlQr0GEBUypiLaqA"
+      },
+      "artists": [
+        {
+          "name": "Ahl Iver",
+          "url": "https://open.spotify.com/artist/0rX7Jq1AcfbVfKZGO2d6pV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418533,
+      "name": "Reverse Psychology",
+      "url": "https://open.spotify.com/track/4j6IGvQ60qnehb9apAN73W"
+    },
+    {
+      "album": {
         "name": "Riddles In The Sand EP",
         "url": "https://open.spotify.com/album/6TJgTbWzdV79E5vNSZSpsE"
       },
@@ -6434,7 +6522,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 425044,
       "name": "Subconscious Reset",
       "url": "https://open.spotify.com/track/3mlkpFLHRHmVUho7xJcKit"
@@ -7308,7 +7396,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 344136,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3kEESvip59Vvej6YtzG2HO"

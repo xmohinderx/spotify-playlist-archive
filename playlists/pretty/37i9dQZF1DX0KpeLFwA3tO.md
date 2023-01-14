@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,244 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,411 likes - 125 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 5 | [End of The Line](https://open.spotify.com/track/1bm2iagFnM4GmXJUrDlK85) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [End of The Line](https://open.spotify.com/album/6bzKH9DBpM32NRnpz4i8Va) | 2:58 |
 | 6 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 |
 | 7 | [I Think I Might Be Weird](https://open.spotify.com/track/39VxDylYw5rh4n4pDDZgZ0) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [I Think I Might Be Weird](https://open.spotify.com/album/720MWelFChw2pOuBZRgA5Q) | 3:17 |
-| 8 | [Uncertain Joys](https://open.spotify.com/track/459r5TBLEcMx05Fp8T3QIq) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/0VE0o7RLM1ESFTzpMdhgEk) | 3:23 |
+| 8 | [Uncertain Joys](https://open.spotify.com/track/27yMT64bCRQwD5hsLFd7ks) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/5K5qqlXzxEv2KhpCvT3vh1) | 3:23 |
 | 9 | [Therapy](https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Therapy](https://open.spotify.com/album/1YH5G3nbN3k50SjR3zPEfM) | 2:46 |
 | 10 | [Cool Blue](https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Cool Blue](https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ) | 3:09 |
 | 11 | [Are We Still Alive?](https://open.spotify.com/track/5RHMsPHn8wi5XQeIUX8tge) | [Topsy Turvy's](https://open.spotify.com/artist/1uFRoP0MCfPkKzA5usrdQn) | [It Can't Be Easy](https://open.spotify.com/album/3nASyylOa6l9JqsklWbGYt) | 3:21 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [hurricane](https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [hurricane](https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW) | 2:44 |
 | 125 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
 
-Snapshot ID: `MTY3MzU2ODAwMCwwMDAwMDAwMGY3MmFhNzEyY2NjM2UyNmY4MDY1NTEzZDA4N2RkOGVk`
+Snapshot ID: `MTY3MzU2ODAwMCwwMDAwMDAwMDgxZjQ3YTI3MDM3MzMwMmZjMTg3ZmRiMWY1Y2JlY2Rj`

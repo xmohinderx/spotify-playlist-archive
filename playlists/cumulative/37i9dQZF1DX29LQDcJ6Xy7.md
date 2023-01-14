@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-193 songs - 13 hr 45 min
+194 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 | 2022-07-01 |  |
 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 | 2022-08-12 |  |
 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 | 2022-08-12 |  |
+| [Totuus](https://open.spotify.com/track/110q5eExcmrgf0fsE610ON) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Omen X](https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv) | 3:26 | 2023-01-13 |  |
 | [Tyler Hadley](https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 4:51 | 2022-07-01 |  |
 | [Tyler Hadley](https://open.spotify.com/track/6zK40BRKipYTivAePTIxmd) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/15FB9uYWaMt94zhN6lYIE8) | 4:51 | 2022-07-01 | 2022-07-29 |
 | [Understand](https://open.spotify.com/track/64hRpVVHwn3EXx20zjtXlH) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Understand](https://open.spotify.com/album/5YIpDPbrprlCm3RERAbL4y) | 5:34 | 2022-07-01 | 2022-07-28 |
@@ -195,7 +196,7 @@
 | [Verrückt](https://open.spotify.com/track/7AbeYC9dss7l0YtQz9fWy0) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/3nFP3Y3TpCLQZyUYGHhzIp) | 3:21 | 2022-07-01 | 2022-07-29 |
 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 | 2022-07-01 |  |
 | [Vision 2020 Vision](https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Vision 2020 Vision](https://open.spotify.com/album/1MDfKtOfNFOlkUwa3GM8QZ) | 4:23 | 2022-07-01 | 2022-07-29 |
-| [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-29 |  |
+| [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-29 | 2023-01-14 |
 | [Void \(Single Edit\)](https://open.spotify.com/track/3ZJksw8qj1f0beS3RHm8I3) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Void](https://open.spotify.com/album/2HaACELASgZjZ7ZopojIMl) | 2:55 | 2022-07-01 | 2022-07-29 |
 | [WDYT](https://open.spotify.com/track/3Ka3b6jgY9XH6SrcUzOCjn) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [WDYT](https://open.spotify.com/album/56YLXWml8fCbCG65Za9VOC) | 3:40 | 2022-07-01 | 2022-07-29 |
 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 | 2022-08-12 |  |

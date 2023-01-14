@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-134 songs - 7 hr 46 min
+135 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-22 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-02-04 |  |
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 |  |
+| [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 | 2023-01-13 |  |
 | [It’s Never Too Late](https://open.spotify.com/track/5j7Jg9bruInMqk96DOCxjH) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [It’s Never Too Late](https://open.spotify.com/album/0NaMd9PrXKi9QU8Z05Em4v) | 3:00 | 2021-12-22 |  |
 | [Kindred Spirit](https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:19 | 2021-12-22 | 2022-11-23 |
 | [Little Swallow](https://open.spotify.com/track/1I0k8K0RQSZZKWGVXw2uDD) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Little Swallow](https://open.spotify.com/album/4JNFQHbtSsuqD9UtiNiGnN) | 3:34 | 2021-12-22 |  |
@@ -95,7 +96,7 @@
 | [Relief](https://open.spotify.com/track/59xd0X9j4l5COqxkGuZiJp) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Aureole](https://open.spotify.com/album/00qD0iqQkCuQFXN1cu5Mwx) | 3:02 | 2022-03-09 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2021-12-22 |  |
 | [Revitalizing Flow](https://open.spotify.com/track/0QdJNA24npIMsJfTmukVHV) | [Michele Cabrera](https://open.spotify.com/artist/06TthPTGTvVP112NDOYJrr) | [Peaceful Warrior](https://open.spotify.com/album/1Dt7wU8jK0VSPDymPni7D7) | 3:24 | 2021-12-22 |  |
-| [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 | 2021-12-22 |  |
+| [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 | 2021-12-22 | 2023-01-14 |
 | [Sacred Spirit](https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Beyond My Senses](https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2) | 3:12 | 2022-03-09 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2021-12-22 |  |
 | [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2022-05-05 |  |

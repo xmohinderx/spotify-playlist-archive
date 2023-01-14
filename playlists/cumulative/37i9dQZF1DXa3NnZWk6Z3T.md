@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-308 songs - 17 hr 46 min
+309 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,9 +135,10 @@
 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 | 2021-12-09 | 2022-09-22 |
 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 | 2021-12-09 | 2022-12-31 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-12-09 |  |
-| [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2021-12-09 |  |
+| [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2021-12-09 |  |
 | [Hawaii Aloha](https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Hawaii Aloha](https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq) | 3:55 | 2021-12-09 |  |
 | [Hermanos](https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Hermanos](https://open.spotify.com/album/3Ym20zSH4IO3ts16Fbl4iK) | 2:30 | 2021-12-09 |  |
+| [Hermosa Drive](https://open.spotify.com/track/3ZYlHhwB1YnzenzkURxprc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:54 | 2023-01-13 |  |
 | [Humo](https://open.spotify.com/track/6U7XONjTpMsiMPnIO8eiQq) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Humo](https://open.spotify.com/album/5wBylN4r5rKaGfDjFEePyJ) | 3:05 | 2022-04-07 | 2022-10-28 |
 | [Háblame](https://open.spotify.com/track/065HDJH9bo6LUa6qMJbwfc) | [Camila Pérez](https://open.spotify.com/artist/4I9eiDSxffyXhHmB20zStn), [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Háblame](https://open.spotify.com/album/7w28fuy5R66v2JZK5TJ9oF) | 3:23 | 2022-05-14 |  |
 | [Háblame](https://open.spotify.com/track/1E64llQs6OpxOCkUDE7yp9) | [Camila Pérez](https://open.spotify.com/artist/4I9eiDSxffyXhHmB20zStn), [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Háblame](https://open.spotify.com/album/04jQbaAhkMF1c1BlteWiiD) | 3:23 | 2021-12-09 | 2022-07-29 |
@@ -258,7 +259,7 @@
 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 | 2021-12-09 |  |
 | [Siempre Cerca \- Acústico](https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Siempre Cerca \(Acústico\)](https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca) | 3:09 | 2021-12-09 | 2022-11-13 |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2021-12-09 | 2022-10-28 |
-| [Sin Ti](https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Sin Ti](https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv) | 3:10 | 2021-12-09 |  |
+| [Sin Ti](https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Sin Ti](https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv) | 3:10 | 2021-12-09 | 2023-01-14 |
 | [Sin Vergüenza](https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z) | 4:01 | 2021-12-09 |  |
 | [Sofá de Cuero](https://open.spotify.com/track/6dNYrFxETEqQjnmF1HtBTj) | [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Sofá de Cuero](https://open.spotify.com/album/6InJpyc0Y7eyBv3Rhm49n7) | 3:04 | 2022-04-07 | 2022-04-21 |
 | [Solamente una Vez](https://open.spotify.com/track/6SUX8bUvKWeiJJoWad3bVH) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 2:28 | 2021-12-09 | 2022-07-23 |

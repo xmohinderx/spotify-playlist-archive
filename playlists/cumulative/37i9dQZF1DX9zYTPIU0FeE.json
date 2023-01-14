@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ\">Xhanthi Nokwali</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=Ol_jgjcuTPqfrN4HQDcDdQ\">Robin Fassie</a> ",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -988,6 +988,28 @@
       "duration_ms": 409666,
       "name": "Ke Nako",
       "url": "https://open.spotify.com/track/5CErXmkaO61u6tBZnCho2k"
+    },
+    {
+      "album": {
+        "name": "Klops Jol",
+        "url": "https://open.spotify.com/album/4N9ZtSXfJ6aL786oNnbMwG"
+      },
+      "artists": [
+        {
+          "name": "Robin Fassie",
+          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
+        },
+        {
+          "name": "Changui Jaca",
+          "url": "https://open.spotify.com/artist/2viYlUVzbeOfWdBsGFguUn"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560000,
+      "name": "Klops Jol",
+      "url": "https://open.spotify.com/track/7E0Rle0rkoHmTRuAUT39lA"
     },
     {
       "album": {

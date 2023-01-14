@@ -2,9 +2,9 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Neto Reyno en portada.
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Feid y DJ Premier en portada.
 
-139 songs - 7 hr 55 min
+141 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [DA KNOWLEDGE](https://open.spotify.com/track/63AIqDwBLmJyiVnxMfqCCa) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv) | [DA KNOWLEDGE](https://open.spotify.com/album/6YkpmJ3cNCP6F3BwPO7sZ1) | 2:48 | 2021-12-30 | 2022-08-25 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-30 |  |
 | [Dangerous](https://open.spotify.com/track/5lXgD4rhegsXgu1e0B3z3l) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Dangerous](https://open.spotify.com/album/57kemSNzw4eIfcB4Txky8L) | 3:10 | 2022-11-07 | 2022-12-17 |
+| [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 | 2023-01-13 |  |
 | [DHARMA](https://open.spotify.com/track/1UAQ5fMPGXDzVZO9jojOUV) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [DHARMA](https://open.spotify.com/album/2XbXnRwQEPXLSusESfJl2J) | 4:31 | 2021-12-30 | 2022-01-14 |
 | [DIOS Y LA MUERTE](https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [DIOS Y LA MUERTE](https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe) | 2:52 | 2022-03-25 |  |
 | [DISCIPLINA](https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [DISCIPLINA](https://open.spotify.com/album/1PecmtWamLOvWahwn4aFbX) | 3:40 | 2021-12-30 |  |
@@ -68,7 +69,8 @@
 | [La Canción Que Todos Bailan](https://open.spotify.com/track/6kLCS66Lpqln8uH7HwxAp6) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [La Canción Que Todos Bailan](https://open.spotify.com/album/5fLLBCD2tVuUqqV4b55xig) | 3:10 | 2021-12-30 | 2022-03-08 |
 | [La Pistola](https://open.spotify.com/track/7xZKsJJriFzemuLslrkXx5) | [Lito MC Cassidy](https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Jaula De Los Vivos](https://open.spotify.com/album/1oevsEOqgdZRJtHFLTLS3o) | 3:28 | 2021-12-30 | 2022-03-04 |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-12-30 | 2022-04-22 |
-| [Lejos de Ti](https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Lejos de Ti](https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi) | 3:40 | 2022-08-15 |  |
+| [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 | 2023-01-13 |  |
+| [Lejos de Ti](https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Lejos de Ti](https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi) | 3:40 | 2022-08-15 | 2023-01-14 |
 | [Lejos del 2](https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Lejos del 2](https://open.spotify.com/album/0ZZlgtb4U35vMmeJ46jBTh) | 2:40 | 2021-12-30 | 2022-03-11 |
 | [Lento](https://open.spotify.com/track/1eDUEqKdkt5rMTf43l6bHO) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/53tylmJHr857yvMZv0ruBz) | 3:14 | 2021-12-30 | 2022-07-29 |
 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 | 2022-06-24 |  |
@@ -83,7 +85,7 @@
 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 | 2022-03-07 |  |
 | [MANIFIESTO FREESTYLE](https://open.spotify.com/track/3TaK5hftxlrp38Gt0wAPq4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [MANIFIESTO FREESTYLE](https://open.spotify.com/album/2xiR9BHSrYTogEJvEo4nVY) | 2:42 | 2022-05-05 | 2022-05-14 |
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2022-04-11 |  |
-| [Me Inspiré](https://open.spotify.com/track/0H2sIpkNJRshjFZubiJ5lY) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [3000](https://open.spotify.com/album/21ahQhM0f44r2sUnf7saMD) | 3:22 | 2022-07-29 |  |
+| [Me Inspiré](https://open.spotify.com/track/0H2sIpkNJRshjFZubiJ5lY) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [3000](https://open.spotify.com/album/21ahQhM0f44r2sUnf7saMD) | 3:22 | 2022-07-29 | 2023-01-14 |
 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 | 2022-01-31 |  |
 | [Mi Fucking Vida Loca](https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Mi Fucking Vida Loca](https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079) | 3:26 | 2022-04-18 |  |
 | [Mi Plebada](https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Plebada](https://open.spotify.com/album/0I9dpMxQeIbfbjbCRSkqb3) | 3:42 | 2022-01-07 | 2022-02-01 |

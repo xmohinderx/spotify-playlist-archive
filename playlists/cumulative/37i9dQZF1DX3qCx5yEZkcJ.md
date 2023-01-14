@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-437 songs - 17 hr 49 min
+439 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [archipelago](https://open.spotify.com/track/2cJrM72wG5Kj1497cklAUi) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [archipelago](https://open.spotify.com/album/4uV1hspSYL4kVL8bHX85Pj) | 2:58 | 2020-11-06 | 2021-10-23 |
 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 | 2020-07-18 |  |
 | [Back & Forth](https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X) | [Back & Forth](https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa) | 2:11 | 2020-11-06 | 2022-07-01 |
-| [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 |  |
+| [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
+| [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 | 2023-01-12 |  |
 | [Bapelujah](https://open.spotify.com/track/52Hm0VKu1rFGiTU1GxYVkh) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Bapelujah](https://open.spotify.com/album/7wQMP5OKSDcA3sUO4AJrGj) | 1:17 | 2021-06-12 | 2022-07-28 |
 | [Berlin Rain](https://open.spotify.com/track/4bIti4ZqD4yOkTvHEHJ04L) | [Muscle](https://open.spotify.com/artist/7rX3arPA93JjNPBtZ9JNu2) | [Berlin Rain / At Dusk](https://open.spotify.com/album/1BzHg6Un80v0yApbtlyt90) | 1:33 | 2019-05-26\* | 2020-01-14 |
 | [Best Regards](https://open.spotify.com/track/4DAgTthT39ZAJTv6Vya7df) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Best Regards](https://open.spotify.com/album/5EFl3ZMdhYIhsBpysh8QlF) | 2:36 | 2020-06-19 | 2022-07-22 |
@@ -92,7 +93,8 @@
 | [Dedicate](https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Dedicate](https://open.spotify.com/album/1r8ZqsMWq8Z0ENt7NgLZE0) | 2:47 | 2021-05-07 | 2022-07-29 |
 | [Deux](https://open.spotify.com/track/5mrB9IuYaPXPW0BsgB608r) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Irratio](https://open.spotify.com/album/14CiVUTLsn7p8c0rv0jnDR) | 1:24 | 2019-05-26\* | 2019-08-31 |
 | [Dilladong](https://open.spotify.com/track/4tRm0nd6gsf39bWeismT5l) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Second Home](https://open.spotify.com/album/4D9G2IRMo1zfcL6TXK3rdv) | 2:32 | 2020-09-18 | 2022-07-06 |
-| [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 |  |
+| [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 | 2023-01-12 |  |
+| [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 | 2023-01-14 |
 | [Do the Right Thing](https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f) | [Do the Right Thing](https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2) | 2:01 | 2020-11-06 |  |
 | [do you](https://open.spotify.com/track/5aIn5IiaSqcSOvhHENL9v4) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [do you](https://open.spotify.com/album/5gW6DzJLkLm9O1kE8Oo3MT) | 2:49 | 2020-01-14 | 2020-06-22 |
 | [DOOM](https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T) | [DOOM](https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl) | 2:16 | 2021-01-25 | 2022-01-28 |

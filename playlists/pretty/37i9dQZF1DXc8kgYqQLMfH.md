@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,754 likes - 495 songs - 18 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,844 likes - 495 songs - 18 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 58 | [Damped Clocks](https://open.spotify.com/track/4AOj72u1p1cJeVEq8HqnCK) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [Alex Wars](https://open.spotify.com/artist/54lWa7qI424Ib2ZakrIDDg) | [Damped Clocks](https://open.spotify.com/album/4HdH4uBnMQ2igE2MTPbTfX) | 2:13 |
 | 59 | [Soul Searching](https://open.spotify.com/track/2T3as8riJfzUaLFhijPCkq) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5) | [Soul Searching](https://open.spotify.com/album/65JVfJXTiaOlE6ORw93ga2) | 1:46 |
 | 60 | [Picnic](https://open.spotify.com/track/1EPxFjUEjsPRw7XM9Yo9I3) | [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Picnic](https://open.spotify.com/album/3JrioVMOvHuEOgH42rmrxp) | 1:46 |
-| 61 | [Sunny Day](https://open.spotify.com/track/00d0LL4djhlYxtx1GzwpRz) | [B\. Still](https://open.spotify.com/artist/1AyACZ22zSPqy1sE8vf9zx) | [A Day For Yourself](https://open.spotify.com/album/1Stm3EmA3uuuuxABPciwnt) | 2:03 |
+| 61 | [Sunny Day](https://open.spotify.com/track/00d0LL4djhlYxtx1GzwpRz) | [B\. Still](https://open.spotify.com/artist/6Imdb7v3PJd9zZ5FYTF3Qn) | [A Day For Yourself](https://open.spotify.com/album/1Stm3EmA3uuuuxABPciwnt) | 2:03 |
 | 62 | [Finding Comfort](https://open.spotify.com/track/5mysc5FXOTidy1a4vAnH2S) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Finding Comfort](https://open.spotify.com/album/7aD9oyG6sHAi99kU9RyhAv) | 2:00 |
 | 63 | [garden bed](https://open.spotify.com/track/1l52MnASg7swhbLFtBhVJb) | [orcanite](https://open.spotify.com/artist/3dGc9ZNUwjtjtug9qAomYS) | [garden bed](https://open.spotify.com/album/1a1QguNAJiFe3mDVzipzY3) | 1:55 |
 | 64 | [Adrift](https://open.spotify.com/track/0GiOQXevZc3V8AgFxzp2YJ) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Adrift](https://open.spotify.com/album/6xaPAueaoRDmIgAITm9N3V) | 2:15 |

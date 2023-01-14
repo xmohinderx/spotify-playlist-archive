@@ -2,7 +2,7 @@
 
 ### [Black Coffee Blues](https://open.spotify.com/playlist/37i9dQZF1DX2Pqxel6mitp)
 
-> 
+> A cup of Joe and the raw Blues.
 
 146 songs - 9 hr 7 min
 

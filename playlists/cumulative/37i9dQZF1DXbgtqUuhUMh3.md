@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Angham
 
-368 songs - 21 hr 34 min
+369 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
 | [Aheb Essmi](https://open.spotify.com/track/1feBcyeSIn8G7yyitzKlM2) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Aheb Essmi](https://open.spotify.com/album/0q0d5bsNYPXmxtvR0P2Q0y) | 3:38 | 2022-10-13 |  |
 | [Ahlami](https://open.spotify.com/track/0lhh2VQofi8UCkXB9mPpsq) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [AHLAMI](https://open.spotify.com/album/06U0lUuJCrHrgfs1v6bLAW) | 2:55 | 2022-03-01 | 2022-07-29 |
-| [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 |  |
+| [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 | 2023-01-14 |
 | [Al Habu Al Saeb](https://open.spotify.com/track/7gr1W9mfJsE3ofCEXZZ4fP) | [Hasna](https://open.spotify.com/artist/0L58uikPHKLuqGPPo2EPWW) | [Al Habu Al Saeb](https://open.spotify.com/album/11ZGk1imwTcJ7bIafieEKH) | 3:31 | 2021-12-23 | 2022-03-02 |
 | [AL Haneen](https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [AL Haneen](https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2) | 3:20 | 2022-03-01 | 2022-12-04 |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-03-03 |  |
@@ -195,6 +195,7 @@
 | [Malleit](https://open.spotify.com/track/42HtsxHN4t1b8yt8txdrYz) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [Malleit](https://open.spotify.com/album/6QDfpW7qmf4Y4byMwmVlGW) | 4:00 | 2022-12-02 |  |
 | [Malnash Naseeb](https://open.spotify.com/track/5BTkrgvHrlwrzQuKTXMuyd) | [Enas Ezz Eldeen](https://open.spotify.com/artist/4ZZsLsV3oBkkQ2i1INk0ts) | [Malnash Naseeb](https://open.spotify.com/album/7iG0WHzIp4kJSmJyzSvwXg) | 3:04 | 2021-12-23 | 2022-03-02 |
 | [Mamlaka](https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Mamlaka](https://open.spotify.com/album/4onyPTXyL4H3qebKw8uLt0) | 3:29 | 2022-03-01 | 2022-03-04 |
+| [Mamnounlak](https://open.spotify.com/track/48kZid7PsapGIxQ1HWq40C) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Mamnounlak](https://open.spotify.com/album/4JVzSKHgVOJXWqzK1huMBy) | 2:42 | 2023-01-13 |  |
 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 | 2021-12-30 | 2022-02-27 |
 | [Marhaban](https://open.spotify.com/track/6zkq5qtCUmybCKNyZoLjBB) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Marhaban](https://open.spotify.com/album/087Ek5lR2SpnQ0Yn5RQ641) | 4:33 | 2021-12-23 | 2022-03-02 |
 | [Marra Kaman](https://open.spotify.com/track/1kwK6sbUDoz8ev1emutLAX) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Marra Kaman](https://open.spotify.com/album/3Gxs1Nc3IwumGyXtCjQHDZ) | 3:20 | 2022-03-31 | 2022-10-05 |

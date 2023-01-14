@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-138 songs - 7 hr 0 min
+139 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Feeling It](https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL) | 4:07 | 2020-09-25 | 2022-10-05 |
 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 | 2022-02-24 |  |
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2022-02-24 |  |
-| [Go Hard](https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg) | 2:44 | 2020-09-25 |  |
+| [Go Hard](https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb) | 2:44 | 2022-02-24 |  |
+| [Go Hard](https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg) | 2:44 | 2020-09-25 | 2023-01-14 |
 | [Good WiFi](https://open.spotify.com/track/6lYTAtpgedSEcb4vXBslhh) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Jakson Bay Project](https://open.spotify.com/album/2ply17SkT3hRJLs5kGh99c) | 3:19 | 2020-09-25 | 2022-07-29 |
 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 | 2022-02-24 |  |
 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 | 2022-02-24 |  |

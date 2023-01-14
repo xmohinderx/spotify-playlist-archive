@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 185317,
       "name": "Bad Radio",
       "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 102539,
       "name": "barcelona",
       "url": "https://open.spotify.com/track/6hLMs5N7rRkIaCRfgYEB9B"
@@ -2573,6 +2573,28 @@
     },
     {
       "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/6MK0vzutpi0ekxM63AJ3Ur"
+      },
+      "artists": [
+        {
+          "name": "Delawou",
+          "url": "https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt"
+        },
+        {
+          "name": "Kennyon Brown",
+          "url": "https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209359,
+      "name": "Flip",
+      "url": "https://open.spotify.com/track/1WKq2z9qobfyQs3VMnAF9h"
+    },
+    {
+      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/2BF22IRfGkJhNsdDYxVE7r"
       },
@@ -2700,6 +2722,24 @@
       "duration_ms": 192029,
       "name": "Free Lunch",
       "url": "https://open.spotify.com/track/5FX89IUKm9QJT9ymrmyK4k"
+    },
+    {
+      "album": {
+        "name": "free me",
+        "url": "https://open.spotify.com/album/3pMK4vu9TW0y3FqZaoJNya"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173705,
+      "name": "free me",
+      "url": "https://open.spotify.com/track/1scFwySIE5a0btwc1J2CHk"
     },
     {
       "album": {
@@ -3426,7 +3466,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 129444,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB"
@@ -4186,7 +4226,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 163732,
       "name": "League",
       "url": "https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8"
@@ -5416,6 +5456,24 @@
       "duration_ms": 149338,
       "name": "OLD NEWS",
       "url": "https://open.spotify.com/track/3uY6ip9RD3AB7lWJHSWAp9"
+    },
+    {
+      "album": {
+        "name": "on life",
+        "url": "https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132260,
+      "name": "on life",
+      "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
     },
     {
       "album": {
@@ -6664,6 +6722,28 @@
       "duration_ms": 183594,
       "name": "SNOWMAN",
       "url": "https://open.spotify.com/track/1uU0Q4JrDzgqWK1QWXccwb"
+    },
+    {
+      "album": {
+        "name": "so easily (with skaiwater)",
+        "url": "https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6"
+      },
+      "artists": [
+        {
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219737,
+      "name": "so easily (with skaiwater)",
+      "url": "https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > A collection of the best metal ballads\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,106 likes - 110 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,206 likes - 110 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

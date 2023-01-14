@@ -1,13 +1,29 @@
 {
-  "description": "Lo mejor de enero 2023.",
-  "num_followers": 1509236,
+  "description": "Lo mejor de enero 2023",
+  "num_followers": 1509410,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU0MTAxOSwwMDAwMDAwMGUwNjE3MGQyMWViZTBjOTg0NWJiNjdlYWQxZWZlYmFl",
+  "snapshot_id": "MTY3MzYyNzA2NCwwMDAwMDAwMDY2ZGMwYjBlZGExMTBkY2ZhNmRhZTRkZTY3MmY4Y2Qw",
   "tracks": [
+    {
+      "added_at": "2023-01-12 16:30:19",
+      "album": {
+        "name": "Dame Guerra",
+        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Dame Guerra",
+      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
+    },
     {
       "added_at": "2023-01-04 15:36:28",
       "album": {
@@ -47,26 +63,6 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2023-01-04 15:36:28",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 213279,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
     },
     {
       "added_at": "2023-01-04 15:36:28",
@@ -663,6 +659,26 @@
     {
       "added_at": "2023-01-04 15:36:28",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 213279,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+    },
+    {
+      "added_at": "2023-01-04 15:36:28",
+      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/5ZxTdt8ek2Mr5VyxIfhykS"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 201421,
       "name": "Reca\u00edda",
       "url": "https://open.spotify.com/track/2OgJGjukelwGZK6f5xxRhy"
-    },
-    {
-      "added_at": "2023-01-13 01:13:39",
-      "album": {
-        "name": "Dame Guerra",
-        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Dame Guerra",
-      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
     },
     {
       "added_at": "2023-01-04 15:36:28",

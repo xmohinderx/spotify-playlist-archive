@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113400,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
+    },
+    {
+      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },

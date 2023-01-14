@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,326 likes - 69 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,225 likes - 69 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 66 | [Unrest for Melancholy Men \(God Rest Ye Merry Gentlemen\)](https://open.spotify.com/track/5bjGI88PPV6YXDVp11rEjl) | [J.J\. Hrubovcak](https://open.spotify.com/artist/4HnsGTUdzeUdZzLWT2Rh9O) | [Death Metal Christmas](https://open.spotify.com/album/5LAqqgDqFtPc9CsD2siWsn) | 2:42 |
 | 67 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2tLnjGc2xX0ooHYcGvQ5fm) | [John Sloman \(Uriah Heep\)](https://open.spotify.com/artist/3Gr4RPLw9D8VlGdOnJLcVk), [Lea Hart](https://open.spotify.com/artist/6F7TZJPVHTlpG9jCYKw7h3) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 4:18 |
 | 68 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3YRXVd1lusaMPCJYav3pRz) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Paul Samson \(Samson\)](https://open.spotify.com/artist/4vbpbFeVJouo8UvJT6jKA3) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 3:30 |
-| 69 | [White Christmas](https://open.spotify.com/track/6xUPF0cpNS3lL1Q4c5k9fa) | [Lea Hart](https://open.spotify.com/artist/6F7TZJPVHTlpG9jCYKw7h3), [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y) | [A Very Metal Xmas](https://open.spotify.com/album/4yIcXXvkfOTl58xvAjBslh) | 4:14 |
+| 69 | [White Christmas](https://open.spotify.com/track/6xUPF0cpNS3lL1Q4c5k9fa) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Lea Hart](https://open.spotify.com/artist/6F7TZJPVHTlpG9jCYKw7h3) | [A Very Metal Xmas](https://open.spotify.com/album/4yIcXXvkfOTl58xvAjBslh) | 4:14 |
 
 Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDcwNDViYzg5MGM5NjJhNjU2NTllNzI5YzRjNzc3ODY5`

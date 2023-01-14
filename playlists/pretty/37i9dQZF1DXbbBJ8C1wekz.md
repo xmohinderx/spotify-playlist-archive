@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,922 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,039 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 14 | [Caçando Tesouro](https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Caçando Tesouro](https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA) | 3:44 |
 | 15 | [30 Dias](https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [MIDNIGHT CALLS](https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc) | 4:11 |
 | 16 | [É Sal](https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:37 |
-| 17 | [Gigante](https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita](https://open.spotify.com/artist/6obvDPjkopkQ6s9PNYdole) | [Gigante](https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC) | 2:27 |
+| 17 | [Gigante](https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [Gigante](https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC) | 2:27 |
 | 18 | [Glockada](https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Glockada](https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF) | 2:01 |
 | 19 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
 | 20 | [Assault \(Angra\)](https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Assault \(Angra\)](https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU) | 4:29 |

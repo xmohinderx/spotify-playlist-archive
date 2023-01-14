@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Latto & Glorilla
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
 
-246 songs - 11 hr 6 min
+247 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:13 | 2022-04-29 | 2022-08-27 |
 | [Designer](https://open.spotify.com/track/4F0flTfcEU2ZcStYhJsaRy) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Designer](https://open.spotify.com/album/24lFjjePi1ey6ycLdW5WxZ) | 2:17 | 2021-11-12 | 2022-03-05 |
 | [Diamond in the Rough](https://open.spotify.com/track/7o4YKb7XhbLGvzJ7CXrkHD) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Diamond in the Rough](https://open.spotify.com/album/0OyiVMDfxkwIfXn5U32iWn) | 2:31 | 2022-12-02 | 2022-12-17 |
+| [Diamond in the Rough \- Remix](https://open.spotify.com/track/5w1e87MPoDZnDufw2Hxt6Z) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Diamond in the Rough \(Remix\)](https://open.spotify.com/album/4FkOrfQaU4WwZgf94uBzGL) | 2:21 | 2023-01-13 |  |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2022-09-17 |
 | [Diva \(feat\. Emilia\)](https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Diva \(feat\. Emilia\)](https://open.spotify.com/album/74e4WmTJM2riGEO94bnG6i) | 3:35 | 2022-08-05 | 2022-10-15 |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-05-20 |
@@ -241,7 +242,7 @@
 | [Used \(feat\. Don Toliver\)](https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:26 | 2022-12-09 | 2022-12-24 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 | 2022-12-03 |
 | [Warning](https://open.spotify.com/track/7F3ugiaOXAjICskrb2yJbo) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:34 | 2021-10-29 | 2022-03-18 |
-| [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 | 2022-12-23 |  |
+| [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 | 2022-12-23 | 2023-01-14 |
 | [We Go Up \(feat\. Fivio Foreign\)](https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [We Go Up](https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI) | 4:15 | 2022-03-25 | 2022-07-23 |
 | [We Not Humping](https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We Not Humping](https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B) | 2:24 | 2021-12-03 | 2022-02-05 |
 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 | 2022-04-22 | 2022-10-29 |

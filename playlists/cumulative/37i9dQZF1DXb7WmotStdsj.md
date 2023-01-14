@@ -2,9 +2,9 @@
 
 ### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
-> Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
+> Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-129 songs - 10 hr 26 min
+130 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 | 2022-09-21 |
-| [Bravo](https://open.spotify.com/track/3v7uGitLi89jWMK5F6BUjh) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bravo](https://open.spotify.com/album/6YZsunqkk3ZzwDsJtqZHvA) | 3:59 | 2021-10-19 |  |
+| [Bravo](https://open.spotify.com/track/3v7uGitLi89jWMK5F6BUjh) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bravo](https://open.spotify.com/album/6YZsunqkk3ZzwDsJtqZHvA) | 3:59 | 2021-10-19 | 2023-01-14 |
 | [Bye Bye](https://open.spotify.com/track/03bUz9jtzmYl0XjgxpYvyN) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Bye Bye](https://open.spotify.com/album/6QlLtCE9DUZJJnvLKXgIuv) | 3:31 | 2021-10-19 | 2022-12-26 |
 | [Bye Bye lmiziria](https://open.spotify.com/track/3KjVFfbEZPUj1076iJHdLA) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Bye Bye lmiziria](https://open.spotify.com/album/503UybXLd49aqSVhY8ufvd) | 5:29 | 2021-10-19 | 2022-12-27 |
 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 | 2022-05-11 |  |
@@ -106,6 +106,7 @@
 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2022-12-12 |  |
 | [Nebghiha Fort](https://open.spotify.com/track/0WNSvpxLKFTLamuLGNjY66) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/7s3899KvA2iBSLOYmYZoY6) | 3:12 | 2022-11-20 | 2022-12-26 |
 | [Nebki 3la Teswirtek](https://open.spotify.com/track/42UfblYvwCmX9Ri9TNPlVd) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Nebki 3la Teswirtek](https://open.spotify.com/album/1ObCN69iY2W0M7H7l8lxbp) | 5:12 | 2022-09-20 |  |
+| [Nedabzou Sur Les Nerfs](https://open.spotify.com/track/0lEc7oxWZiZqF6tFvKoalb) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Nedabzou Sur Les Nerfs](https://open.spotify.com/album/0PsBfJV1yrqia6sltrwyu6) | 4:40 | 2023-01-14 |  |
 | [Nensak Dra3](https://open.spotify.com/track/4M4sHSOBAIlqtPkFikUcMo) | [Abdelkader Belabbes](https://open.spotify.com/artist/5TwUxKiLvqL7Ux6dTqVdhu) | [Nensak Dra3](https://open.spotify.com/album/1rpCdaXwkDNYvwu2dwFtPh) | 4:05 | 2022-09-20 | 2022-12-27 |
 | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/track/5yqlKsyNTsJ9FyneSZVIbm) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/album/6Aebn10r1Ar2HPXsa5msno) | 5:16 | 2022-09-20 | 2022-12-27 |
 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 | 2021-10-19 |  |

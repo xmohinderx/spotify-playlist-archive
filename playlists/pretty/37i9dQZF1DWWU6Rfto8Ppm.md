@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWU6Rfto8Ppm.md) - [plain]
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005,572 likes - 200 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,012,647 likes - 200 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWU6Rfto8Ppm.md) - [plain]
 | 99 | [Nadie Sabe](https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR) | [Cheka](https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE), [Michael Stuart](https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe) | [La Pelicula](https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME) | 3:24 |
 | 100 | [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy 3](https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub) | 2:47 |
 | 101 | [No Le Temas A Él \(feat\. Héctor & Tito\)](https://open.spotify.com/track/1eknj4ni0Cbswll0c5Fi3A) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:32 |
-| 102 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
+| 102 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
 | 103 | [Fantasma](https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 3:55 |
 | 104 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 |
 | 105 | [Déjale Caer To' El Peso \(feat\. Yomo\)](https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk) | 4:08 |

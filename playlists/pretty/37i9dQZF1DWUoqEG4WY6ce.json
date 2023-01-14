@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 964729,
+  "num_followers": 965932,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2MzcyMCwwMDAwMDAwMDJiZGE4ZTQxNTgwODk4MzM1Nzg1N2NlZTBkZjAyOTEy",
+  "snapshot_id": "MTY3MzU5MTUyMCwwMDAwMDAwMDk0OTcwNWIyYjMwNGE2MzJlYTNkNDFhNTM4NzBkNGY1",
   "tracks": [
     {
       "added_at": "2022-11-29 19:35:01",
@@ -987,6 +987,10 @@
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
       "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
         {
           "name": "Julien Baker",
           "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"

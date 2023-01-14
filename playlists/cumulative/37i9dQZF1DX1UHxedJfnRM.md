@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Mike Bahía
 
-116 songs - 8 hr 43 min
+117 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Dejame un Beso](https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame Un Beso](https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP) | 3:53 | 2022-05-13 |  |
 | [Deseándote](https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:43 | 2022-05-13 | 2022-12-24 |
 | [Deseándote](https://open.spotify.com/track/2i8otid5VKKnEaseBVO1vq) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 4:43 | 2022-12-22 |  |
-| [Dilema](https://open.spotify.com/track/3e6CZDsRIGAD85VUSe79Dj) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Dilema](https://open.spotify.com/album/7uJGgg2KJD9yBcRy0hc56P) | 4:11 | 2022-05-13 |  |
+| [Dilema](https://open.spotify.com/track/3e6CZDsRIGAD85VUSe79Dj) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Dilema](https://open.spotify.com/album/7uJGgg2KJD9yBcRy0hc56P) | 4:11 | 2022-05-13 | 2023-01-14 |
 | [Dime Cómo Hago](https://open.spotify.com/track/3WSASuEFLKfnGbn3ZelPdu) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5JvSBEoi4cOPAdFMpR178G) | 3:48 | 2022-07-15 |  |
 | [Dime Cómo Hago](https://open.spotify.com/track/5SQMbspeEIYJPkXDWeiOJH) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Oscarcito](https://open.spotify.com/artist/1BCfXYvYcVKfcNNV7h3TKJ) | [Dime Cómo Hago](https://open.spotify.com/album/5vab2Rt5XSdV8QAk1pqAqO) | 3:48 | 2022-05-13 | 2022-08-09 |
 | [Dime Cómo Hago \- \(Versión Salsa\)](https://open.spotify.com/track/4LknpTc1p9XbeRTpp2hYqf) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Dime Cómo Hago](https://open.spotify.com/album/0ZlOYdEeqYUbi4iRrOlN0x) | 3:33 | 2022-05-13 |  |
@@ -55,6 +55,7 @@
 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 | 2022-05-13 |  |
 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 | 2022-05-13 |  |
 | [Hawái](https://open.spotify.com/track/7FNyz9hceyslUreGckbfJ0) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Hawái](https://open.spotify.com/album/01r8qOZXLE3myoaNxBpXA8) | 4:09 | 2022-05-13 |  |
+| [Hey Mor / Feliz Cumpleaños / Normal](https://open.spotify.com/track/5eTUJJLZanOVNcaQp9uMy1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Hey Mor / Feliz Cumpleaños / Normal](https://open.spotify.com/album/16F7daU2uFtURzYdQh0j6h) | 4:48 | 2023-01-13 |  |
 | [Homenaje a Selena](https://open.spotify.com/track/2DVlE8GYES8tJaETtKOAaw) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Panamericana Music](https://open.spotify.com/artist/5k5ooueWxxmAMBRhb1sJLc), [CALIOPE](https://open.spotify.com/artist/6WmoeHXq2ON9pCFbrvUP2k), [Brunella](https://open.spotify.com/artist/4x9iDqP59xKtLhj5UgFR8U) | [Homenaje a Selena](https://open.spotify.com/album/4bY2UikF58FUZ5BHe6NqLX) | 6:15 | 2022-05-13 |  |
 | [Hoy He Vuelto a Ver al Amor](https://open.spotify.com/track/23ZaC0z4gQ7mhAGTUSFWj0) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:34 | 2022-05-13 |  |
 | [Hoy Que Te Vuelvo a Ver \- Versión Salsa](https://open.spotify.com/track/68ci2Ioh4qYJEoMalSb1Rv) | [Idéntico](https://open.spotify.com/artist/1rRFD7wAhD9VekIljwlLs1) | [Hoy Que Te Vuelvo a Ver \(Versión Salsa\)](https://open.spotify.com/album/4l2g8GJDkvB6PGTMXm3rhf) | 4:21 | 2022-05-13 |  |

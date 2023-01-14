@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,848 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,021 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Enfantillages pittoresques: II\. Berceuse \- Christian Löffler Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Enfantillages pittoresques: II\. Berceuse \[Christian Löffler Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS) | 5:34 |
 | 80 | [Vermilion](https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 3:17 |
 
-Snapshot ID: `MTY2OTk1MzYwMCwwMDAwMDAwMDZjNzA2YTFkOTNmZTM0YWU2MWIyYzBiOGUzZTk4MTkx`
+Snapshot ID: `MTY3MzU4MjQwMCwwMDAwMDAwMDFhOTQ1ZjEwNDUyMDRjOGI1MTdmYWFiOWFlZjkwODcy`

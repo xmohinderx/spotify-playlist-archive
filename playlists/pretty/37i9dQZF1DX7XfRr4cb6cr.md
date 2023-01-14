@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,119 likes - 120 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,691 likes - 120 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 |
 | 120 | [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 |
 
-Snapshot ID: `MTY3MjQxOTIwMSwwMDAwMDAwMDg1Nzc2NjQ1NTAyNWQ0ZWFiZmIzODc1MmY0MTc1NjA5`
+Snapshot ID: `MTY3MzYxMzI0OCwwMDAwMDAwMGY3MjQ5MWY4N2RlY2JmM2Q2ODhjOGQ2YjBkMzg4MTgx`

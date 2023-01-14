@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-207 songs - 13 hr 38 min
+208 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Deepen](https://open.spotify.com/track/13ISIZszl38y5eW6ufo977) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Yellow OST part.2](https://open.spotify.com/album/7E0DAQQ5MbqciFcxiwamBZ) | 4:37 | 2022-05-11 | 2022-07-23 |
 | [Deepening Love \(feat\. Lee Jin Woo\)](https://open.spotify.com/track/4fCm40ooTsUHeGAMNFicrb) | [Lovelybut](https://open.spotify.com/artist/59vOvq3ppXguKMpSvkt9Re), [Jinwoo Lee](https://open.spotify.com/artist/31CG6RRQeQw8Ug6nOKfITO) | [Deepening Love \(feat\. Lee Jin Woo\)](https://open.spotify.com/album/6kSXaebsFavOV1bPP84tkW) | 3:51 | 2022-05-11 | 2022-06-06 |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-09-05 |  |
-| [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 | 2022-05-11 |  |
+| [Dimly](https://open.spotify.com/track/1Pnek7frHF95HQewENySXW) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Bloody Heart, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es) | 3:32 | 2022-05-11 | 2023-01-14 |
 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 | 2022-07-04 |  |
 | [Dolls](https://open.spotify.com/track/4WgAxRROt1CI5sh3qqh2mP) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Again,Star \#01](https://open.spotify.com/album/22kTojFqWSb9RMyiFLL5YQ) | 2:58 | 2023-01-10 |  |
 | [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 | 2022-07-29 |
@@ -151,6 +151,7 @@
 | [Page](https://open.spotify.com/track/2ud2xN2O5nDoyts4fdUwAC) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n), [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Page \(406 project X zitten\)](https://open.spotify.com/album/0bgg1V8RIMCnXugSYYrNYt) | 4:26 | 2022-05-11 | 2022-07-25 |
 | [parting](https://open.spotify.com/track/1NHAUW0XDaYeWtpLqtLgrs) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [pretzel of love \(Original Television Soundtrack, Pt\. 22\)](https://open.spotify.com/album/2K391MtoTJvNNZzxOcd5Jk) | 3:37 | 2022-06-20 | 2022-07-04 |
 | [Photo album](https://open.spotify.com/track/66ah8lyaZrf7Yol7iuf5D0) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 2:31 | 2022-05-11 | 2022-06-05 |
+| [Recognize you](https://open.spotify.com/track/029L3sB2fP83DrLHiebVnq) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [No movie series : A bar with emotions OST](https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J) | 3:03 | 2023-01-14 |  |
 | [Regret](https://open.spotify.com/track/3xAWMzJepYvpalL66VmuVq) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Regret \(Emotions : Gummy\)](https://open.spotify.com/album/5szwIys3wT08homn7ED5hx) | 4:08 | 2022-05-11 | 2022-07-29 |
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2022-05-11 | 2022-07-29 |
 | [Remember](https://open.spotify.com/track/1a4GOXHBQLIg23ilouiAsl) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Remember](https://open.spotify.com/album/3RZ1A5fRgXfT9j1rDgDOuZ) | 4:25 | 2022-07-04 | 2022-07-29 |

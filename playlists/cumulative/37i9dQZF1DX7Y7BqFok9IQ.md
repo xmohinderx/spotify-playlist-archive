@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-139 songs - 8 hr 48 min
+141 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 | 2022-07-26 |
 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 |  |
+| [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2022-07-12 |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2022-08-27 |
 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 | 2022-08-31 |
@@ -53,13 +54,14 @@
 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 | 2022-12-10 |
 | [Gotta Be Movin’](https://open.spotify.com/track/6n9CPTtFd6DeOpWnP57O9i) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Gotta Be Movin'](https://open.spotify.com/album/2JWnNwLCTdvnMH081yhjAz) | 3:35 | 2021-09-10 | 2022-07-29 |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 | 2022-09-10 |
-| [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 | 2020-10-16 |  |
+| [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 | 2020-10-16 | 2023-01-14 |
 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 | 2021-03-26 |  |
 | [Hard Times](https://open.spotify.com/track/7zdR9mlXoyrrw9eqE2sNgV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Hard Times](https://open.spotify.com/album/6OplYWUMxvkCi7WtiS5RRj) | 3:26 | 2021-03-26 | 2022-07-29 |
 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 | 2022-06-07 |
 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 | 2020-10-16 | 2022-06-09 |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 |  |
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2022-02-25 | 2022-07-26 |
+| [Hurricane Coming](https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Hurricane Coming](https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC) | 3:32 | 2023-01-13 |  |
 | [I Know Who You Are](https://open.spotify.com/track/0VIcEmhGQ13EnZoIKlw89a) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Gold](https://open.spotify.com/album/4aRBy6eobn9arGrtDGDcj0) | 3:11 | 2020-10-16 | 2022-07-27 |
 | [I Need To Be](https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X) | [The Cassaday Concoction](https://open.spotify.com/artist/39jwyTOAsOtp0yMWtcxkbi) | [I Need To Be](https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp) | 4:49 | 2022-09-09 | 2022-10-15 |
 | [I See You](https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:47 | 2020-10-16 | 2022-07-29 |
@@ -118,7 +120,7 @@
 | [Still Alive and Well](https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Still Alive and Well](https://open.spotify.com/album/0pzypZjas4pni7g8u3xj5a) | 3:37 | 2022-04-26 | 2022-07-25 |
 | [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 | 2022-04-29 |  |
 | [Strange Light](https://open.spotify.com/track/3cI6ybZ2Wo5Xriz396gSH7) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/3n8eLvnrXECAFfLq1Vj7Wi) | 3:01 | 2021-08-13 | 2022-07-27 |
-| [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 |  |
+| [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 | 2023-01-14 |
 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 |  |
 | [Sunshine Lady](https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6) | [The Shelter People](https://open.spotify.com/artist/3m1rUUzCaulww0FUM2Gw1i) | [Sunshine Lady / Rock n Roll](https://open.spotify.com/album/0LZ5hsTglEgJovaQgDru6v) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 |  |

@@ -2,7 +2,7 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Uneducated Kid\(언에듀케이티드 키드\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: RB NINE\(구본겸\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
 945 songs - 2 day 4 hr 49 min
 

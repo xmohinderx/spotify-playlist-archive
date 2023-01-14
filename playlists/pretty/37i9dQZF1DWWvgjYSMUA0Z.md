@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,715 likes - 118 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,093 likes - 118 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 5 | [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 |
 | 6 | [Gemstone](https://open.spotify.com/track/7AVj2FdNkoVRGJMEQPmGaW) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Gemstone](https://open.spotify.com/album/0YonZJr6p64ujZmsEiUqjT) | 2:31 |
 | 7 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 |
-| 8 | [It’s Never Too Late](https://open.spotify.com/track/5j7Jg9bruInMqk96DOCxjH) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [It’s Never Too Late](https://open.spotify.com/album/0NaMd9PrXKi9QU8Z05Em4v) | 3:00 |
-| 9 | [Apaisantes](https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Apaisantes](https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB) | 2:14 |
-| 10 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 |
-| 11 | [Namaste Divine](https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Namaste Divine](https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP) | 4:04 |
-| 12 | [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 |
-| 13 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 |
-| 14 | [Ancestral Spirit](https://open.spotify.com/track/4pIM5eZaCM2x4P1KqUDSTk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Shaman Spirit Flute](https://open.spotify.com/album/39Q6KP8xGG0olJZMSwK7x9) | 1:15 |
-| 15 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
-| 16 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 |
-| 17 | [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 |
+| 8 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 |
+| 9 | [It’s Never Too Late](https://open.spotify.com/track/5j7Jg9bruInMqk96DOCxjH) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [It’s Never Too Late](https://open.spotify.com/album/0NaMd9PrXKi9QU8Z05Em4v) | 3:00 |
+| 10 | [Apaisantes](https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Apaisantes](https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB) | 2:14 |
+| 11 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 |
+| 12 | [Namaste Divine](https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Namaste Divine](https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP) | 4:04 |
+| 13 | [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 |
+| 14 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 |
+| 15 | [Ancestral Spirit](https://open.spotify.com/track/4pIM5eZaCM2x4P1KqUDSTk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Shaman Spirit Flute](https://open.spotify.com/album/39Q6KP8xGG0olJZMSwK7x9) | 1:15 |
+| 16 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
+| 17 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 |
 | 18 | [Revitalizing Flow](https://open.spotify.com/track/0QdJNA24npIMsJfTmukVHV) | [Michele Cabrera](https://open.spotify.com/artist/06TthPTGTvVP112NDOYJrr) | [Peaceful Warrior](https://open.spotify.com/album/1Dt7wU8jK0VSPDymPni7D7) | 3:24 |
 | 19 | [Serena´s Meditation](https://open.spotify.com/track/0wGvryNQ0SOv7VMnHLs1Nn) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Serena´s Meditation](https://open.spotify.com/album/6lF4ne4DEfrpldVN0hEEbT) | 2:30 |
 | 20 | [Emotional Healing](https://open.spotify.com/track/73r7Bj4SU8ZLdjMbtDlkjy) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Emotional Healing](https://open.spotify.com/album/4oigpI299VEBlzpSkSzHN8) | 2:31 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 117 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
 | 118 | [The Source of Life](https://open.spotify.com/track/7lsw1FcjPgrfFt2enr4Gcf) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [The Source of Life](https://open.spotify.com/album/5VrZDu1NZf4AL6U5CHHGbz) | 3:05 |
 
-Snapshot ID: `MTY3MzQzNTcxNSwwMDAwMDAwMDdiMzE1MjI5NmM1MTU4OThkY2E3ZWM5MWQ5N2E4NzA4`
+Snapshot ID: `MTY3MzYyNzQyNSwwMDAwMDAwMDA2MTNhYWI5MDViYzhlNGJhOWEwMDM0Yzg1Y2UzNGU2`

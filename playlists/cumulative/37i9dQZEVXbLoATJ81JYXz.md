@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,153 songs - 2 day 12 hr 28 min
+1,154 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Blitzkrieg 2022 \- Drammen](https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k) | [Kris Winther](https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG), [SuperJonny](https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc), [Rapposaurus Rex](https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT), [LamboLaz](https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN) | [Blitzkrieg 2022 \- Drammen](https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf) | 3:05 | 2022-06-28 | 2022-07-13 |
 | [BLOCK](https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:20 | 2021-11-14 | 2022-02-13 |
 | [Blomstertid](https://open.spotify.com/track/31gGBW3iiuwtrLwiJYLROq) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Blomstertid](https://open.spotify.com/album/6dYtRAFf281HXcXqFTPVBl) | 2:20 | 2021-07-04 | 2021-08-20 |
-| [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-28 |  |
+| [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-28 | 2023-01-14 |
 | [Bluffin](https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Bluffin](https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw) | 2:59 | 2022-02-28 | 2022-04-21 |
 | [Blå](https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Blå](https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u) | 4:19 | 2021-06-06 | 2021-09-15 |
 | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/track/1khruC7lTyH8MPLx1VYxYE) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [BLÖDER FRÅN SJÄLEN](https://open.spotify.com/album/6GqB6rQR4LCVKcEZQFvOXv) | 2:50 | 2022-09-17 | 2022-10-09 |
@@ -729,6 +729,7 @@
 | [No Doubt About It](https://open.spotify.com/track/293qCzqLqTYoqAkv1gqkdR) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:56 | 2021-11-07 | 2021-11-10 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-07 | 2022-08-27 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-10 | 2022-12-18 |
+| [Nordvästra](https://open.spotify.com/track/3ASPB2ukVZ11cvK7oIMHOE) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nordvästra](https://open.spotify.com/album/12f4UbS9xpt5QzE7qpC2W2) | 2:35 | 2023-01-13 |  |
 | [Not Anybody's Fault](https://open.spotify.com/track/6Bz3vpFpE453IiQL7WH2j4) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Not Anybody's Fault](https://open.spotify.com/album/7mtt0YvkwIIJRIlZ4mLcDE) | 3:05 | 2021-10-10 | 2021-10-11 |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-25 | 2021-07-26 |
 | [Notre\-Dame](https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Notre\-Dame](https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch) | 3:22 | 2022-04-09 | 2022-04-11 |

@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "album": {
         "name": "Back Bend (Remix)",
         "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
@@ -3302,7 +3320,7 @@
           "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
         },
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 153287,
       "name": "SMS",
       "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: Invent Animate
+> Metalcore at its finest\. Cover: Catch Your Breath
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,540 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,784 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Elysium](https://open.spotify.com/track/2q8Q78o1fFNmVLhQgK5GKE) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Elysium](https://open.spotify.com/album/5NIeT2mluYPgmRyFevja1E) | 4:48 |
-| 2 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 |
-| 3 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 |
-| 4 | [Chimera](https://open.spotify.com/track/4OEF00eP9KhyF0ZshrZ8Uj) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Chimera](https://open.spotify.com/album/46pZ010jfMgeXbMVRNaD2q) | 3:50 |
-| 5 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 |
-| 6 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 |
+| 1 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 |
+| 2 | [Elysium](https://open.spotify.com/track/2q8Q78o1fFNmVLhQgK5GKE) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Elysium](https://open.spotify.com/album/5NIeT2mluYPgmRyFevja1E) | 4:48 |
+| 3 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 |
+| 4 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 |
+| 5 | [Chimera](https://open.spotify.com/track/4OEF00eP9KhyF0ZshrZ8Uj) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Chimera](https://open.spotify.com/album/46pZ010jfMgeXbMVRNaD2q) | 3:50 |
+| 6 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 |
 | 7 | [Rise](https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Rise](https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w) | 4:42 |
 | 8 | [nuBlood \(feat\. Fame On Fire\)](https://open.spotify.com/track/2UuW4bsWhUUWcD07r2tSdq) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg), [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [nuBlood \(feat\. Fame On Fire\)](https://open.spotify.com/album/4z8wwx2xRFIrk9DJY9Aw7u) | 3:23 |
 | 9 | [Lifeless](https://open.spotify.com/track/0Bg1FB9hSXjOVIwHUD8fbu) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Chasm](https://open.spotify.com/album/2tz2IXeMDnWwGrc2EpcjNT) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 59 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
 | 60 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGMxNjk4ZGU3YjUxYjU4MjQ1M2VlYjEyNDU3MWZjNDAy`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGQ0Yzc5ZmIzNDc2ZTVlMDUzMTI2ZjA1YmI0ZjA4YTg0`

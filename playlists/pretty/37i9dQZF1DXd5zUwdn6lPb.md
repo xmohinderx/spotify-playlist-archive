@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,492 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,667 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 97 | [Bunte Reihe, S484/R149: Gondellied in F Major](https://open.spotify.com/track/13V9EABmO5Z1d4GAKBm2a7) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Valerie Tryon](https://open.spotify.com/artist/5QAb81QLlETPYzwp9DnZsX) | [Liszt: Bunte Reihe](https://open.spotify.com/album/312vjNz7O6PgDaA1x4zsPt) | 3:26 |
 | 98 | [Handel: Water Music, Suite No\. 1 in F Major, HWV 348: IV\. Andante](https://open.spotify.com/track/3LRFULohtv8BnMrqPEq3Sv) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [John Eliot Gardiner](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi), [English Baroque Soloists](https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59) | [Handel Edition Volume 9 \- Orchestral Music](https://open.spotify.com/album/35kbdKykOEAZoj86xtsLms) | 2:18 |
 | 99 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": II\. Andante](https://open.spotify.com/track/7jJCaVi6LljAVeTjYMFK2E) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Christoph Eschenbach](https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W) | [Mozart: The Piano Sonatas](https://open.spotify.com/album/0X6qA6cEIKWCPkll2aahz2) | 5:59 |
+| 100 | [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [João Carlos Victor](https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb) | [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4) | 5:54 |
 
-Snapshot ID: `MTY3MzM1NzI4MSwwMDAwMDAwMDQwODM4NWI2MWMzYTFjNDU0YWNjMzc2OTNhY2M2MDhh`
+Snapshot ID: `MTY3MzU4MjQwMCwwMDAwMDAwMDM1ZTFiNGJlYTM2M2FiZjczYjQwZDMzZDA0NTY3NmFh`

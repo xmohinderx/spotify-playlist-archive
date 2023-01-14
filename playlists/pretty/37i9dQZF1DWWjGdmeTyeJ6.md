@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Babebee\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,836 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,994 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 17 | [SE17](https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U), [Danny Chaska](https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP) | [SE17](https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC) | 3:22 |
 | 18 | [Burnt Sage](https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz) | [Le Siren](https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC) | [Take Care of Yourself](https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo) | 2:37 |
 | 19 | [Nowhere](https://open.spotify.com/track/0b0ZGaHZoPC5dcrsjnDu08) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Time Revealed](https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6) | 2:31 |
-| 20 | [New Year's](https://open.spotify.com/track/3qkwuWuGClBAuuPd0DXN05) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's](https://open.spotify.com/album/2gn2hmGCUywSWW5NBQO2hT) | 3:28 |
+| 20 | [New Year's](https://open.spotify.com/track/5tyBNExaQp6AcemEFHnds3) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's EP](https://open.spotify.com/album/2fCxFcHye0AWepx9y9Yk22) | 3:28 |
 | 21 | [Specialty](https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Specialty](https://open.spotify.com/album/3IV5khV7VfuX3DCnIMF8ZQ) | 1:52 |
 | 22 | [BENZ](https://open.spotify.com/track/6E031JdEzh2E3mesGmlGt6) | [Young Cardi](https://open.spotify.com/artist/0xf3nf764hGg0fSptQqeDk), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [BENZ](https://open.spotify.com/album/5VvKj7hSbo59rSuF6E3CcJ) | 2:17 |
 | 23 | [Forgotten Sentiment](https://open.spotify.com/track/0aDeph3nbtNMNvtxyQAJoD) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl) | [Controlled Demolition EP](https://open.spotify.com/album/56oz7if7WaYBGZcJtV8Hh4) | 6:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 79 | [Cool Down](https://open.spotify.com/track/02ZFYSc6wtuKxqIifA5Ema) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Cool Down](https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w) | 5:08 |
 | 80 | [Creatures](https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH) | [Senchai](https://open.spotify.com/artist/4We6N72dQVLiXWXyLLBDP0) | [Insomnia EP](https://open.spotify.com/album/65VEew3wzPdc7xJTO4Bxu6) | 3:46 |
 
-Snapshot ID: `MTY3MzQ2NTA4OCwwMDAwMDAwMGY5ZmY0MzI2NzdmMWYxODgzMDM1NDZjYmU4MzllNmU1`
+Snapshot ID: `MTY3MzQ2NTA4OCwwMDAwMDAwMDM0YzQ2NDAyMDcwZTliNWU1MmM3MWJjNGQzOGQzY2Vk`

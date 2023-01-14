@@ -4,7 +4,7 @@
 
 > Tutu e Fafá e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP, MC Daniel
 
-132 songs - 7 hr 15 min
+133 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cai de vagarinho até embaixo](https://open.spotify.com/track/4V0OqVsxQOtwSkzh4540xl) | [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS) | [Cai de vagarinho até embaixo](https://open.spotify.com/album/3VcMfyvef4qBNzEdZ7vnRu) | 2:21 | 2021-12-31 | 2022-07-29 |
 | [Cai de vagarinho até embaixo](https://open.spotify.com/track/2p04GXqx4j9sggMTFJpEBa) | [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS), [DJ Braga Oficial](https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG) | [Cai de vagarinho até embaixo](https://open.spotify.com/album/0HximOntVcjaDrMQcPxUXq) | 2:13 | 2022-07-22 | 2022-11-26 |
 | [Calma Bb, Tá nos Melhores Amigos](https://open.spotify.com/track/3Ox3DxqqRCEEVCPnENVx3g) | [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [DJ Tacinho](https://open.spotify.com/artist/1j7PjmYNRQUYk1xNfPDox7), [Dj Terrorista](https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Calma Bb, Tá nos Melhores Amigos](https://open.spotify.com/album/4D5GA8l7iTQ5G59bJC4NQd) | 2:11 | 2021-12-31 | 2022-07-16 |
+| [Camisa de Time \(Desce Só de Label\)](https://open.spotify.com/track/5oF3fkS6ZVqmb3W5UJc0s8) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Camisa de Time \(Desce Só de Label\)](https://open.spotify.com/album/3jhqCIMpu2YIu6hq4dzhPw) | 2:39 | 2023-01-13 |  |
 | [Canto da Sereia](https://open.spotify.com/track/5onALPPboSh4z6cO24tOvW) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Canto da Sereia](https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO) | 2:31 | 2022-02-18 | 2022-12-17 |
 | [Casamento](https://open.spotify.com/track/0yKDJQltVxekfkwLlJHIq2) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Casamento](https://open.spotify.com/album/5UjqjPRdmEbHhFHli8kzyB) | 3:12 | 2021-12-31 | 2022-04-12 |
 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-07-08 |  |

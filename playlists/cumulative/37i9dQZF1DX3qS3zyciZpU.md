@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-151 songs - 8 hr 59 min
+152 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [I Run To You](https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Lady Antebellum](https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh) | 4:16 | 2021-09-17 |  |
 | [I Swear](https://open.spotify.com/track/553tCwkqeLLa1uCPPNd6az) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 4:24 | 2021-09-17 |  |
 | [I WILL, I SWEAR, I DO](https://open.spotify.com/track/5qkzYOVjOAcKE1zhmNBsL9) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [I WILL, I SWEAR, I DO](https://open.spotify.com/album/0tMuDCcWqJCwg09caTmgOh) | 3:13 | 2021-11-05 |  |
+| [I'll Never](https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T) | 2:43 | 2023-01-13 |  |
 | [I'll Say I Do](https://open.spotify.com/track/4eSOx2FzrVXpKmtssY59LB) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [I'll Say I Do](https://open.spotify.com/album/6sDNyjuQ8lvAKoc6qf6K6A) | 3:55 | 2021-09-17 |  |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-09-17 |  |
 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 | 2021-09-17 |  |

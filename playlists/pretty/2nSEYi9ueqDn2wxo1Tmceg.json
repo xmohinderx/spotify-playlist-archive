@@ -1,13 +1,37 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78647,
+  "num_followers": 78646,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzYxNSxiNmJlOTM5NjA5NmFmNTI0ZDUzYWVkNDI3ZDJlM2MyOWZjNjAwNDhk",
+  "snapshot_id": "MzYxNixlYjdjYzZkMjNhZTEzOGRkNjZhYjFhNDdmZDk1MTdmOTFhZmRiYjk2",
   "tracks": [
+    {
+      "added_at": "2023-01-13 10:30:09",
+      "album": {
+        "name": "The Great White Sea Eagle",
+        "url": "https://open.spotify.com/album/3sE3Ya11uxwRYdeMQNkePS"
+      },
+      "artists": [
+        {
+          "name": "James Yorkston",
+          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
+        },
+        {
+          "name": "Nina Persson",
+          "url": "https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c"
+        },
+        {
+          "name": "The Second Hand Orchestra",
+          "url": "https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh"
+        }
+      ],
+      "duration_ms": 115640,
+      "name": "Sam and Jeanie McGreagor",
+      "url": "https://open.spotify.com/track/4GZxOH1P8EdjJyEZY0SfPo"
+    },
     {
       "added_at": "2023-01-11 15:13:08",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,868 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,921 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 61 | [Closer \- Edit](https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Closer](https://open.spotify.com/album/6XVwl4AeJhcFWOLlZiKsgO) | 2:56 |
 | 62 | [Summer Of Love](https://open.spotify.com/track/56YpW3nISMuVvM6pHkR9oU) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Summer Of Love](https://open.spotify.com/album/6RXP288ktFUg8VsitQDnqc) | 3:15 |
 | 63 | [Dancina](https://open.spotify.com/track/61jdtRg1I7iOUdRul25oc5) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Empress](https://open.spotify.com/album/6WMZNFEdj2g4VQRKeC4XaG) | 2:24 |
-| 64 | [Trouble \- Spotify Singles](https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Trouble \- Spotify Singles](https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8) | 2:50 |
+| 64 | [Trouble \- Spotify Singles](https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Trouble \- Spotify Singles](https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8) | 2:50 |
 | 65 | [Don't Hit My Line](https://open.spotify.com/track/1ydVJBv3N3MHIkOYtuNsT7) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Don't Hit My Line](https://open.spotify.com/album/4kcvM6m4TvHuLN27Nvme8Y) | 3:39 |
 | 66 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 |
 | 67 | [Jaiye \(Aluna and Sigag Lauren Remix\)](https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA) | [Jaiye \(Aluna and Sigag Lauren Remix\)](https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA) | 3:41 |

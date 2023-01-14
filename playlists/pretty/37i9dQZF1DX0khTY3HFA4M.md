@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,727 likes - 500 songs - 19 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,122 likes - 500 songs - 19 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -393,7 +393,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 383 | [Red Flowers](https://open.spotify.com/track/0VxqtLxLyvQq2KjTq5Zddm) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Tavolo Fantastico](https://open.spotify.com/album/2FdG8vYQLA0CnxKpiiEZQ8) | 1:58 |
 | 384 | [Heart\-Shaped](https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM) | [Lovely Rascals](https://open.spotify.com/artist/3vxzErr7ghDB5qnfFXnaw3) | [Heart\-Shaped](https://open.spotify.com/album/3QREKCZ4wBIIjZT9iLnXN8) | 2:48 |
 | 385 | [atmospheres](https://open.spotify.com/track/5Oxza8p0bfQ1uSPXEmSYGI) | [ponders](https://open.spotify.com/artist/58XtDX4Y4y7SADRSYBfzMr), [Mason Parks](https://open.spotify.com/artist/1ppPctMVAtXdP9m1MRVsVp) | [atmospheres](https://open.spotify.com/album/2NohzDISWGnM9Ft9UgyhPe) | 2:27 |
-| 386 | [Waiting For You](https://open.spotify.com/track/2t34h7N3TrNa2fJC88vac7) | [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Waiting For You](https://open.spotify.com/album/5LN6me7rc0fPF2dZCcS97o) | 2:05 |
+| 386 | [Waiting For You](https://open.spotify.com/track/2t34h7N3TrNa2fJC88vac7) | [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Waiting For You](https://open.spotify.com/album/5LN6me7rc0fPF2dZCcS97o) | 2:05 |
 | 387 | [Minnie](https://open.spotify.com/track/3f0RvnmyJxeS6zCCM4sLiv) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Minnie](https://open.spotify.com/album/6wTdtIZYKOe1DxfGWLrfvi) | 3:10 |
 | 388 | [Eclipse](https://open.spotify.com/track/5H1tKPVBdaVyt9dkmBlSDV) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Eclipse](https://open.spotify.com/album/4Clb3sOSCzx7LvSmm52jeB) | 2:27 |
 | 389 | [Endless Landscape](https://open.spotify.com/track/5eBWV0otW9jAPv13Fg5zpA) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ), [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu) | [Endless Landscape](https://open.spotify.com/album/19VzMjdR63ZFav71jd3j67) | 2:44 |

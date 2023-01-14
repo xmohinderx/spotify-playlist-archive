@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,503 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,063 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Ne m'en veux pas](https://open.spotify.com/track/33HgKezjJccCOoq6PdE7TY) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN) | [Ne m'en veux pas](https://open.spotify.com/album/1CSaSzEaRr5dczL82YWQc3) | 2:48 |
 | 50 | [Ole Gan](https://open.spotify.com/track/5mkGlDnaz1DCJZ5B2NyPkj) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Ole Gan](https://open.spotify.com/album/6ey8rNqRKrbcxFdO2zulry) | 2:53 |
 
-Snapshot ID: `MTY3MzU2NDQwMCwwMDAwMDAwMDQxNDZjN2QyNDYxNjk5OGVlMmMxZGM0YmNiOGFkNTBi`
+Snapshot ID: `MTY3MzU3MjQ1NywwMDAwMDAwMDJmNGZmOTQ4MTBmY2UxMTdjYmU5NGRhZGI3NzllNWI1`

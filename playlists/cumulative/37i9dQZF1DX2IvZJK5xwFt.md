@@ -2,9 +2,9 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Måneskin
+> Only the best rock in the world\. Cover: Måneskin, Tom Morello
 
-247 songs - 15 hr 31 min
+248 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 | 2022-08-11 |  |
 | [Going Down](https://open.spotify.com/track/0a4ToUsRYorLaTvEwPQZy3) | [Anesthetic Youth](https://open.spotify.com/artist/2O6q4MZHDzJBDTcaTwMxkX) | [ECHOES](https://open.spotify.com/album/6JbRfyLukQYqBSI81ykc4L) | 3:52 | 2022-05-26 | 2022-10-07 |
 | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty) | 2:34 | 2022-06-02 | 2022-06-17 |
+| [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-14 |  |
 | [Greedy Vanity](https://open.spotify.com/track/5r1gOO65ieb4tg83AhBRm7) | [Anesthetic Youth](https://open.spotify.com/artist/2O6q4MZHDzJBDTcaTwMxkX) | [Greedy Vanity](https://open.spotify.com/album/73QBzjepXfJNwiNCvlC8a9) | 4:22 | 2022-05-06 | 2022-05-27 |
 | [Hammersmith \- UK Bonus Track](https://open.spotify.com/track/6k9LUdX6Tf4ZY8xqb2cE1q) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Hammersmith \(UK Bonus Track\)](https://open.spotify.com/album/4iNZZ3NSc0FIlfJ9j88KdR) | 3:44 | 2022-08-11 | 2022-08-26 |
 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 | 2022-05-06 | 2022-08-12 |
@@ -246,7 +247,7 @@
 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 | 2022-06-02 | 2022-07-08 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2022-12-15 |  |
 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 | 2022-06-30 | 2022-07-22 |
-| [You Are the Answer](https://open.spotify.com/track/0zrhMTMFHij7VS1qwpdK2o) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [You Are the Answer](https://open.spotify.com/album/1U5vw22mfYwf7OHwitSH6c) | 4:23 | 2022-07-21 |  |
+| [You Are the Answer](https://open.spotify.com/track/0zrhMTMFHij7VS1qwpdK2o) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [You Are the Answer](https://open.spotify.com/album/1U5vw22mfYwf7OHwitSH6c) | 4:23 | 2022-07-21 | 2023-01-14 |
 | [You Got The Best Of Me](https://open.spotify.com/track/6knSCaCg0rVEw7jnvM4x19) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [You Got The Best Of Me](https://open.spotify.com/album/4IZ1clgmbfd5Vh3MwKZ0nt) | 5:33 | 2022-05-06 | 2022-05-13 |
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-08-25 |  |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-07-14 | 2022-07-22 |

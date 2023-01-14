@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
       },
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -12393,7 +12411,7 @@
     },
     {
       "album": {
-        "name": "Mentalit\u00e9 (Part.1)",
+        "name": "Mentalit\u00e9 (Pt. 1)",
         "url": "https://open.spotify.com/album/1fLfmnXNbu9crr25QC3esR"
       },
       "artists": [
@@ -18280,7 +18298,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 172466,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/4DRF0J8DUc5GPzcbOTD1gu"
@@ -22462,7 +22480,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 206840,
       "name": "\u0398. Macarena",
       "url": "https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD"

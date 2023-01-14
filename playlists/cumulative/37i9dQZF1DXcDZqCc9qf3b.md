@@ -2,9 +2,9 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: Spirit Rangers.
+> Groove to music from your Netflix Kids favorites! Cover: Princess Power.
 
-105 songs - 4 hr 29 min
+106 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Ordinary Me](https://open.spotify.com/track/7oTWEMowWcNShU0LhOoP9z) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB), [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [graywolfe](https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 1:26 | 2022-10-12 | 2022-11-24 |
 | [Paws Off](https://open.spotify.com/track/4F0lrCxtYqDPsg5HXzEbPE) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Román Zaragoza](https://open.spotify.com/artist/6RHHwTVRq68EP7uB86Krpj) | [Spirit Rangers: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/17xy5eOeUcNuJpAyIjKjIF) | 1:04 | 2022-10-12 | 2022-11-17 |
 | [Paws Off](https://open.spotify.com/track/7qSk3rPjRoksldhlwcZdc7) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Román Zaragoza](https://open.spotify.com/artist/6RHHwTVRq68EP7uB86Krpj) | [Spirit Rangers: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4pTf1x9AErsPd3Dt5FLyPf) | 1:04 | 2022-10-12 |  |
+| [Princess Power Theme Song \(from the Netflix Series\)](https://open.spotify.com/track/3FRY7aHuPSHpmwIbmTYUr0) | [Princess Power](https://open.spotify.com/artist/48rvn0SQ8YkKH1wcjggkVr) | [Princess Power Theme Song \(from the Netflix Series\)](https://open.spotify.com/album/1HZXJsFLRSufKj7HExLmG8) | 1:31 | 2023-01-13 |  |
 | [Proud Of My Hair](https://open.spotify.com/track/32Mar6wKUVHa886N2iwcG0) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Karma’s World](https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA) | 2:10 | 2022-04-08 |  |
 | [Reach Out I'll Be There](https://open.spotify.com/track/7kMlkg1X3DTi2S5H11o626) | [Motown Magic Cast](https://open.spotify.com/artist/2ejbZK38MVvz9L9lOx7cEw) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 4:01 | 2022-04-08 |  |
 | [Rise Above \(From The Netflix Series: “Ridley Jones”\) \(feat\. Ridley Jones Cast\)](https://open.spotify.com/track/1LaGlSuXnL6px2J6OjXR5M) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR) | [Ridley Jones \(Music From The Netflix Series\)](https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn) | 1:01 | 2022-04-08 |  |

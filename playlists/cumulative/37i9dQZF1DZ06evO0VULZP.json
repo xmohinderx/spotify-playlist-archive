@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/2HADzzKMyCh4FfXSSfSXNA"
+    },
+    {
+      "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 185066,
       "name": "Cameage",
       "url": "https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 104400,
       "name": "Descendents",
       "url": "https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby"

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Armani White\)
 
-952 songs - 2 day 0 hr 39 min
+954 songs - 2 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [2 Certified](https://open.spotify.com/track/0I5ETO3rKcbvlFApCVVPqT) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [2 Certified](https://open.spotify.com/album/6lHMIYfSo2at38b3VzZdbY) | 3:21 | 2022-12-29 |  |
 | [2 FAST](https://open.spotify.com/track/46V1hYokhPkAGAAkFKRruk) | [Xin](https://open.spotify.com/artist/3iMKRpTz1tnL15FaSV5XOd) | [2 FAST](https://open.spotify.com/album/1d0Sww6VR50zc8K92Oosb5) | 1:34 | 2022-12-08 |  |
 | [2 Freaks \(feat\. Snoop Dogg\)](https://open.spotify.com/track/0bZoGGitOSSriBDfjT5g5J) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2 Freaks \(feat\. Snoop Dogg\)](https://open.spotify.com/album/1IUHCNX0sOEYnpfzo1vgBk) | 2:55 | 2022-06-02 | 2022-07-15 |
+| [2 LIVE](https://open.spotify.com/track/1pbSwjVmaoVgHIU2bQeuxI) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [2 Live](https://open.spotify.com/album/67xulMesSVTsFmOwpO4gaw) | 2:29 | 2023-01-12 |  |
 | [2 Step \- From the new “House Party” Original Motion Picture Soundtrack](https://open.spotify.com/track/4FO8Tg6i1wLU0DRO3gwuJL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [2 Step \(From the new “House Party” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15lrVWXxXVT9GNhdIepIXJ) | 2:10 | 2022-10-13 | 2022-12-09 |
 | [2007](https://open.spotify.com/track/6KNNqqLaousABh4LeVhdJ9) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 7:26 | 2022-11-03 | 2022-12-30 |
 | [2022 \(Feat\. pH\-1\)](https://open.spotify.com/track/1uTK1dNRZTlP7uvwDAc0pc) | [PARKHYUNJIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [2022](https://open.spotify.com/album/3MlBroyoDkjfnPSpQkIlon) | 2:16 | 2023-01-12 |  |
@@ -452,6 +453,7 @@
 | [Kill My Vibe](https://open.spotify.com/track/6Yw1M9IInxbueyLJS5sUB8) | [Intensify](https://open.spotify.com/artist/78qYDrWobH852jEpmwogeK), [Zamaera](https://open.spotify.com/artist/615EQd7FBV6I9KZahoOttg), [Samad Savage](https://open.spotify.com/artist/6J18Ox8UlTuFKcBn8Dx6hK) | [Kill My Vibe](https://open.spotify.com/album/4TcFJs3dyc2CPaQfBnGy8d) | 2:45 | 2023-01-06 |  |
 | [KILLY KILLY](https://open.spotify.com/track/6wQKRXROfrY55AJobw6mmO) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Crazy Life of Sin](https://open.spotify.com/album/2nESlXExv01jc8uPwBhaeV) | 3:24 | 2022-12-22 |  |
 | [Kind of Girl](https://open.spotify.com/track/7jLAeMiItnMaSOl8QGIMdL) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Kind of Girl](https://open.spotify.com/album/2OpuPiHLYuvfJM54CVc4jd) | 2:57 | 2022-06-16 | 2022-07-29 |
+| [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 | 2023-01-12 |  |
 | [Koubou \- Shiroi Enban Series \[No.4\] \-](https://open.spotify.com/track/3fQMl83Je3mo73zyJz20K3) | [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Koubou \- Shiroi Enban Series \[No.4\] \-](https://open.spotify.com/album/2dOOaSa3CrZ3tWpT5IPRSR) | 3:05 | 2022-01-20 | 2022-02-11 |
 | [L.U.I](https://open.spotify.com/track/4svavNUCjZhNJORDO5qVr0) | [Sippy Straw Greg](https://open.spotify.com/artist/1DFQXOIxESL4R3NeBIPl70) | [L.U.I](https://open.spotify.com/album/4i5THvwVuZ06al000XhDMa) | 3:28 | 2022-03-18 | 2022-04-01 |
 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/0UO48o2FQlksTxH1o8m4kS) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/5AqfTcATeonwu2i5yLV6Zy) | 3:15 | 2022-04-14 | 2022-06-03 |

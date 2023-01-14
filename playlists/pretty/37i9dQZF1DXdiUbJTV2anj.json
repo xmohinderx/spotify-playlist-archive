@@ -1,47 +1,15 @@
 {
   "description": "Heavy new bands you need to have an eye on. Cover: Castle Rat",
-  "num_followers": 21044,
+  "num_followers": 21432,
   "original_name": "New Blood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGQxZmM2MTNkNDFjNzdhOTBlMjRlMjA4NjAxOGRhZmRk",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGJhOGU2MTBjODg3ZTczOGE3YjVlMDg3ZjM0YmQwMjY1",
   "tracks": [
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Feed The Dream",
-        "url": "https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA"
-      },
-      "artists": [
-        {
-          "name": "Castle Rat",
-          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Feed The Dream",
-      "url": "https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "September Rain",
-        "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 213874,
-      "name": "September Rain",
-      "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "No Cure",
         "url": "https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t"
@@ -61,7 +29,39 @@
       "url": "https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Feed The Dream",
+        "url": "https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA"
+      },
+      "artists": [
+        {
+          "name": "Castle Rat",
+          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Feed The Dream",
+      "url": "https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Self-Hatred",
+        "url": "https://open.spotify.com/album/11AkDom3SSzweUq98OkWj1"
+      },
+      "artists": [
+        {
+          "name": "Going Off",
+          "url": "https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9"
+        }
+      ],
+      "duration_ms": 146693,
+      "name": "Self-Hatred",
+      "url": "https://open.spotify.com/track/1RpoVQ6JCRSOnMD92wzwVS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Remnants of the Vessel",
         "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
@@ -77,7 +77,39 @@
       "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Brick",
+        "url": "https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK"
+      },
+      "artists": [
+        {
+          "name": "Oceanhoarse",
+          "url": "https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys"
+        }
+      ],
+      "duration_ms": 165591,
+      "name": "Brick",
+      "url": "https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "September Rain",
+        "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 213874,
+      "name": "September Rain",
+      "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9"
@@ -93,7 +125,23 @@
       "url": "https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "I'm Deranged",
+        "url": "https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 134488,
+      "name": "I'm Deranged",
+      "url": "https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
@@ -109,39 +157,7 @@
       "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Myriad",
-        "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
-      },
-      "artists": [
-        {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
-        }
-      ],
-      "duration_ms": 274718,
-      "name": "Exoskeleton",
-      "url": "https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "The Debt",
-        "url": "https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE"
-      },
-      "artists": [
-        {
-          "name": "Lift The Curse",
-          "url": "https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "The Debt",
-      "url": "https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "DEATHWESTERN",
         "url": "https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY"
@@ -157,7 +173,75 @@
       "url": "https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Ex Negativo",
+        "url": "https://open.spotify.com/album/0I8jW0HrBdY33udMgxPPTT"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        },
+        {
+          "name": "Marcus Lundqvist",
+          "url": "https://open.spotify.com/artist/0q08CFLbXbVGCeLsduyGFe"
+        }
+      ],
+      "duration_ms": 225349,
+      "name": "Ex Negativo",
+      "url": "https://open.spotify.com/track/10ENVmCdFwJI56CLLYBps7"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "The Debt",
+        "url": "https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE"
+      },
+      "artists": [
+        {
+          "name": "Lift The Curse",
+          "url": "https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "The Debt",
+      "url": "https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/72VaQUDx8Yw8Jz5qJW1lLW"
+      },
+      "artists": [
+        {
+          "name": "Jigsaw Youth",
+          "url": "https://open.spotify.com/artist/4nyGm04ANLhY9t8TnId45y"
+        }
+      ],
+      "duration_ms": 208021,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/2zadmTSePlxYA2LYq81c8U"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Myriad",
+        "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "duration_ms": 274718,
+      "name": "Exoskeleton",
+      "url": "https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Memory Theater",
         "url": "https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr"
@@ -173,7 +257,23 @@
       "url": "https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Flesh Vehicle, Pt. 2",
+        "url": "https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf"
+      },
+      "artists": [
+        {
+          "name": "We Weren't Invited",
+          "url": "https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa"
+        }
+      ],
+      "duration_ms": 274929,
+      "name": "A Fly on the Wall (Nobody is Home)",
+      "url": "https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Tearing Your Life Away",
         "url": "https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT"
@@ -189,23 +289,7 @@
       "url": "https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Paint It In Blood",
-        "url": "https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt"
-      },
-      "artists": [
-        {
-          "name": "The Tryals",
-          "url": "https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs"
-        }
-      ],
-      "duration_ms": 188544,
-      "name": "Paint It In Blood",
-      "url": "https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Permanent Rebellion",
         "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
@@ -221,7 +305,7 @@
       "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Blacklight",
         "url": "https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp"
@@ -237,39 +321,7 @@
       "url": "https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Abandon Meant",
-        "url": "https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo"
-      },
-      "artists": [
-        {
-          "name": "Graysea",
-          "url": "https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "Abandon Meant",
-      "url": "https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "WRAITH",
-        "url": "https://open.spotify.com/album/10JZyQw2rMA75MUEAxTTHy"
-      },
-      "artists": [
-        {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/78hZlTj2u4UeefGLPJKhUG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Fakin' Tha Funk (You Get Did)",
         "url": "https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW"
@@ -285,7 +337,87 @@
       "url": "https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Thinking About The Immortality Of The Crab",
+        "url": "https://open.spotify.com/album/7nVjrWv2SnmcQGD6aUYszS"
+      },
+      "artists": [
+        {
+          "name": "The Holy Ghost Tabernacle Choir",
+          "url": "https://open.spotify.com/artist/2kxwiJIwlucn6VobGQLhul"
+        }
+      ],
+      "duration_ms": 91975,
+      "name": "Thinking About The Immortality Of The Crab",
+      "url": "https://open.spotify.com/track/0xQPg3JWj1Sb5FFzeVvPDc"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Paint It In Blood",
+        "url": "https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt"
+      },
+      "artists": [
+        {
+          "name": "The Tryals",
+          "url": "https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "Paint It In Blood",
+      "url": "https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Abandon Meant",
+        "url": "https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo"
+      },
+      "artists": [
+        {
+          "name": "Graysea",
+          "url": "https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Abandon Meant",
+      "url": "https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/5lEWhmhXFXiMH9O6Wu27aD"
+      },
+      "artists": [
+        {
+          "name": "Corker",
+          "url": "https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64"
+        }
+      ],
+      "duration_ms": 146969,
+      "name": "Lice",
+      "url": "https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "WRAITH",
+        "url": "https://open.spotify.com/album/10JZyQw2rMA75MUEAxTTHy"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/78hZlTj2u4UeefGLPJKhUG"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "F.E.A.R",
         "url": "https://open.spotify.com/album/5jX83sx5FCaNZXEcr4TPRz"
@@ -301,7 +433,7 @@
       "url": "https://open.spotify.com/track/7qZuKXe9aArtkaaugXBba1"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Flex Fiesta",
         "url": "https://open.spotify.com/album/7JsB718EyNSdTNg6onGTLb"
@@ -317,7 +449,7 @@
       "url": "https://open.spotify.com/track/69396kL1HvsUm6PWiv7ftJ"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Until Falling",
         "url": "https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc"
@@ -333,23 +465,7 @@
       "url": "https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Ded to Me",
-        "url": "https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL"
-      },
-      "artists": [
-        {
-          "name": "Vended",
-          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
-        }
-      ],
-      "duration_ms": 224350,
-      "name": "Ded to Me",
-      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Soul Burn",
         "url": "https://open.spotify.com/album/7rtcZw6pUN8wv227KWwlNe"
@@ -365,7 +481,7 @@
       "url": "https://open.spotify.com/track/72STRbMtY5ypgxtEJ5v6OU"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx"
@@ -381,7 +497,7 @@
       "url": "https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
@@ -397,7 +513,7 @@
       "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Find You Soon",
         "url": "https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L"
@@ -413,7 +529,7 @@
       "url": "https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Mirror Glue",
         "url": "https://open.spotify.com/album/5vuqiIimLosYL6Gql82oXV"
@@ -429,7 +545,7 @@
       "url": "https://open.spotify.com/track/0fEWlqJr3lJXEXmLk7KFOD"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "The Dearly Beloved",
         "url": "https://open.spotify.com/album/3985j1Z12r21NCWCbGHTY2"
@@ -445,7 +561,7 @@
       "url": "https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Fortified by Bloodshed",
         "url": "https://open.spotify.com/album/0l7KbR4AxPTAVs9R22MrIM"
@@ -461,7 +577,7 @@
       "url": "https://open.spotify.com/track/3A54tdbCgDX2vYzjjqGMlv"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/2nLucUgoU2DW05o2FUEULd"
@@ -477,7 +593,7 @@
       "url": "https://open.spotify.com/track/2jHCuaT5m1iXLnugNCERSh"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Rakshak",
         "url": "https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q"
@@ -493,7 +609,7 @@
       "url": "https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Can't Take This Away",
         "url": "https://open.spotify.com/album/02TZLTvmL28QjqPIEHUiWY"
@@ -509,27 +625,7 @@
       "url": "https://open.spotify.com/track/69xZZJ0lSlw6PgDOXdIP3R"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "The Enemy",
-        "url": "https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty"
-      },
-      "artists": [
-        {
-          "name": "The GFM Band",
-          "url": "https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK"
-        },
-        {
-          "name": "Gold, Frankincense, & Myrrh",
-          "url": "https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj"
-        }
-      ],
-      "duration_ms": 261396,
-      "name": "The Enemy",
-      "url": "https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "I Sing Alone",
         "url": "https://open.spotify.com/album/0qxrvbiTs5U7exUPdyBlYP"
@@ -545,7 +641,7 @@
       "url": "https://open.spotify.com/track/2H4jNC3nMl22tyVK1BeLGH"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "For The Recognition",
         "url": "https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b"
@@ -561,7 +657,7 @@
       "url": "https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Felt Like Home",
         "url": "https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE"
@@ -577,7 +673,7 @@
       "url": "https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Yenta",
         "url": "https://open.spotify.com/album/4FLhtqLQqVAt5qtnrugfPs"
@@ -593,23 +689,7 @@
       "url": "https://open.spotify.com/track/4TPiNzixt2pRgAFWHPy2Wt"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Extending Obscurity",
-        "url": "https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0"
-      },
-      "artists": [
-        {
-          "name": "The Spirit",
-          "url": "https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah"
-        }
-      ],
-      "duration_ms": 234165,
-      "name": "Extending Obscurity",
-      "url": "https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Burying Brightness",
         "url": "https://open.spotify.com/album/4B4bNthhcQ9ph657TTYsbG"
@@ -625,7 +705,7 @@
       "url": "https://open.spotify.com/track/3nyfxtCg9RD30h3aTnbVFW"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "EXPLICIT: The MiXXXtape",
         "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
@@ -641,7 +721,7 @@
       "url": "https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Enveloping Absurdity",
         "url": "https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy"
@@ -657,7 +737,7 @@
       "url": "https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk"
@@ -673,7 +753,7 @@
       "url": "https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4lvR3TmGeAdG6CesUqaPBd"
@@ -689,23 +769,7 @@
       "url": "https://open.spotify.com/track/69MHdGzxzt4GMliiXqpWn4"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Punishing Myself Before God Does",
-        "url": "https://open.spotify.com/album/222AtgmkJIArvoRoP5KC8S"
-      },
-      "artists": [
-        {
-          "name": "Confessions of a Traitor",
-          "url": "https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9"
-        }
-      ],
-      "duration_ms": 223736,
-      "name": "Lovecraft",
-      "url": "https://open.spotify.com/track/5XMJ0iPqfYdVSAMZaZu6x3"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Still Waiting",
         "url": "https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9"
@@ -721,7 +785,7 @@
       "url": "https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Barbie & Ken",
         "url": "https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq"
@@ -741,7 +805,7 @@
       "url": "https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Chlorine Tears",
         "url": "https://open.spotify.com/album/7uk1TiN9BcMF8iL9amIteu"
@@ -755,70 +819,6 @@
       "duration_ms": 237640,
       "name": "Chlorine Tears",
       "url": "https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Smokes, Let's Go",
-        "url": "https://open.spotify.com/album/6kv22qz0FjQJTRpbo0vADA"
-      },
-      "artists": [
-        {
-          "name": "Don't Get Comfy",
-          "url": "https://open.spotify.com/artist/5EE1DDFDPJTVYnJdLUXtfE"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "Smokes, Let's Go",
-      "url": "https://open.spotify.com/track/0nCjt3hXKjGFbsqUDtMPOR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Worn Out",
-        "url": "https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA"
-        }
-      ],
-      "duration_ms": 215634,
-      "name": "Worn Out",
-      "url": "https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Day One",
-        "url": "https://open.spotify.com/album/0R0odwfRh10a2dWPwVGUHI"
-      },
-      "artists": [
-        {
-          "name": "Avalanche Effect",
-          "url": "https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb"
-        }
-      ],
-      "duration_ms": 272931,
-      "name": "Day One",
-      "url": "https://open.spotify.com/track/0hG8zv8V3CAIx8Hud0c46z"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Burning Throne",
-        "url": "https://open.spotify.com/album/6Yq21ajQ4U8heAmedI5Iho"
-      },
-      "artists": [
-        {
-          "name": "Acres",
-          "url": "https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD"
-        }
-      ],
-      "duration_ms": 207496,
-      "name": "Burning Throne",
-      "url": "https://open.spotify.com/track/7AL1DLcTLWyQ77xueiH8QJ"
     }
   ],
   "unique_name": "New Blood",

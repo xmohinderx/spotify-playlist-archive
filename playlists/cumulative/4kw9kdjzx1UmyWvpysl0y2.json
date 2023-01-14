@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Dream of You",
+        "url": "https://open.spotify.com/album/0b2VziRlntuir19sjg1thx"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163498,
+      "name": "Dream of You",
+      "url": "https://open.spotify.com/track/2WF1F1BeYTsYVxAJcKicV9"
+    },
+    {
+      "album": {
         "name": "Dream On",
         "url": "https://open.spotify.com/album/0aaBetdnkoTWbFliLbrtnA"
       },
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 271500,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4"
@@ -5175,6 +5193,28 @@
     },
     {
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59"
+    },
+    {
+      "album": {
         "name": "Parhelion",
         "url": "https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj"
       },
@@ -5830,7 +5870,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 234562,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/1nMcBqQJHunwJk7SSE8tGa"

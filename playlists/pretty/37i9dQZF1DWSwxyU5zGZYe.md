@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,881 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,032 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dil Na Jaaneya](https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Dil Na Jaaneya \(From "Good Newwz"\)](https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR) | 3:51 |
 | 2 | [Meri Tum Ho \(Unplugged\)](https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:33 |
 | 3 | [Tose Naina Lage \(Unplugged\)](https://open.spotify.com/track/3ceyAysjbknWYu2C3Bgkin) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Tose Naina Lage \(Unplugged\) \- Single](https://open.spotify.com/album/26mT72BDl53qzqXSR9bRUD) | 2:09 |
-| 4 | [Bana Sharabi \- Reprise](https://open.spotify.com/track/5uQe4p4rE9CTzBIXaqzJ7v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Lakshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG) | [Govinda Naam Mera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ITI5Ck5zhQ3WTNfwiesZ9) | 2:29 |
+| 4 | [Bana Sharabi \- Reprise](https://open.spotify.com/track/5uQe4p4rE9CTzBIXaqzJ7v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG) | [Govinda Naam Mera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ITI5Ck5zhQ3WTNfwiesZ9) | 2:29 |
 | 5 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:00 |
 | 6 | [Mitra Re \(Reprise\)](https://open.spotify.com/track/0VvSU2eXRF3E0b1hClv1uX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(Reprise\)](https://open.spotify.com/album/1IeFurDxEca30wboHFE2I7) | 3:29 |
 | 7 | [Ananya](https://open.spotify.com/track/6ikAlFXHkc3OCZDCaHgfCP) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Toofaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OyNs3aq7N8uwIRlZS7pdq) | 3:52 |

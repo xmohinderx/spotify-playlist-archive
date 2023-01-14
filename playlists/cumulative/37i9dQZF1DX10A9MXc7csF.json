@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado & Jos\u00e9 Mej\u00eda",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Omar Rodriquez ",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -822,7 +822,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 208919,
       "name": "De Eso Se Trata",
       "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 191477,
       "name": "El De La 31",
       "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 221124,
       "name": "El Pochito",
       "url": "https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2"
@@ -1908,6 +1908,24 @@
       "duration_ms": 235749,
       "name": "Estas En Mi Pasado",
       "url": "https://open.spotify.com/track/62PeKIJQiist979Q2GBrFc"
+    },
+    {
+      "album": {
+        "name": "Este Sentimiento",
+        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "Este Sentimiento",
+      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
     },
     {
       "album": {
@@ -2665,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "Las Rayas",
+        "url": "https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD"
+      },
+      "artists": [
+        {
+          "name": "Christian Nava",
+          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190636,
+      "name": "Las Rayas",
+      "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
+    },
+    {
+      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -2784,7 +2820,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 193328,
       "name": "Lograr Olvidarte",
       "url": "https://open.spotify.com/track/4a1xLbxQVA0v1N4tO3B6Ze"
@@ -3084,10 +3120,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 135069,
       "name": "me olvidaste",
       "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
+    },
+    {
+      "album": {
+        "name": "Me Saliste Regular",
+        "url": "https://open.spotify.com/album/79dk6KkeC4SNEobig0hmCy"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226499,
+      "name": "Me Saliste Regular",
+      "url": "https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul"
     },
     {
       "album": {
@@ -3178,6 +3232,24 @@
       "duration_ms": 218960,
       "name": "Mi Corrido",
       "url": "https://open.spotify.com/track/5l6eB9hu5ymOl7nrk864qy"
+    },
+    {
+      "album": {
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "album": {
@@ -3607,6 +3679,28 @@
     },
     {
       "album": {
+        "name": "Nos Acoplamos Macizo",
+        "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246059,
+      "name": "Nos Acoplamos Macizo",
+      "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
+    },
+    {
+      "album": {
         "name": "Nuestra Profec\u00eda",
         "url": "https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n"
       },
@@ -3890,6 +3984,24 @@
       "duration_ms": 182073,
       "name": "Pr\u00e9stame Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+    },
+    {
+      "album": {
+        "name": "Puro Pa' Delante",
+        "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153679,
+      "name": "Puro Pa' Delante",
+      "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
     },
     {
       "album": {
@@ -4467,6 +4579,28 @@
     },
     {
       "album": {
+        "name": "SUR 99",
+        "url": "https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        },
+        {
+          "name": "Primera Elegancia",
+          "url": "https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "SUR 99",
+      "url": "https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T"
+    },
+    {
+      "album": {
         "name": "Te Amo Yo",
         "url": "https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L"
       },
@@ -4676,7 +4810,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 181310,
       "name": "Un Rato",
       "url": "https://open.spotify.com/track/0iej2fZX8h0bzPg46JgtwG"
@@ -4912,7 +5046,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 198206,
       "name": "Vete A La :)",
       "url": "https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V"

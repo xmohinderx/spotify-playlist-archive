@@ -610,7 +610,7 @@
     {
       "album": {
         "name": "Eventide in Orbit",
-        "url": "https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p"
+        "url": "https://open.spotify.com/album/3H964Moy8xa1byJHwfAbXl"
       },
       "artists": [
         {
@@ -621,6 +621,24 @@
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 334139,
+      "name": "Interaxial",
+      "url": "https://open.spotify.com/track/24xZyfDFeYG8BUPGYA3AG7"
+    },
+    {
+      "album": {
+        "name": "Eventide in Orbit",
+        "url": "https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p"
+      },
+      "artists": [
+        {
+          "name": "Manami",
+          "url": "https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
       "duration_ms": 334139,
       "name": "Interaxial",
       "url": "https://open.spotify.com/track/2NIq1oc9Vhv4OggKMPi9fs"

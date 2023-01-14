@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-428 songs - 1 day 4 hr 3 min
+429 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [D.N.R.](https://open.spotify.com/track/3vckmBdhTb0QdZQ1vZXgVr) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa), [Ricky Hoover](https://open.spotify.com/artist/3at4A0WjozNDWJQZEXZuhi) | [D.N.R.](https://open.spotify.com/album/3Jb26tZv6zc3zRwyWi4dKG) | 3:32 | 2022-07-08 |  |
 | [D.N.R.](https://open.spotify.com/track/4i7VEzLgepdg2J5FTsnqUH) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Will Ramos](https://open.spotify.com/artist/0cKGJiHcOele76iiBqiSMR), [Ricky Hoover](https://open.spotify.com/artist/6BiPtQhhJgcAFyTpQIQm2I) | [D.N.R.](https://open.spotify.com/album/15lkO5OuZ4U90LUnAfYUxW) | 3:32 | 2021-12-17 | 2022-07-27 |
 | [Dance of the Witch](https://open.spotify.com/track/7IQc2cjFhxtH8x5DH3KMrI) | [At Rest](https://open.spotify.com/artist/1mGqOe3tbEj9gFuRaoEzGx) | [The Perversion of Morality](https://open.spotify.com/album/6Cr8g6lRiZGMIVHyU0BGDp) | 4:42 | 2021-12-17 | 2022-02-09 |
+| [Dancing on a Pin](https://open.spotify.com/track/3SFYfWiTxhj9l1Erllc64i) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Dancing on a Pin](https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV) | 2:21 | 2023-01-13 |  |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 |  |
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2021-12-17 | 2022-07-13 |
 | [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2021-12-17 |  |
@@ -435,6 +436,6 @@
 | [You Can't Kill Us](https://open.spotify.com/track/1GIorOlAwn81ZF5gRpThU1) | [Stillbirth](https://open.spotify.com/artist/3zBRwsfsphAy6eNvh2bPiG) | [You Can't Kill Us](https://open.spotify.com/album/4pZhwCEP2dLJmFhy8TlB3c) | 3:37 | 2022-01-14 | 2022-07-26 |
 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 | 2022-12-16 |  |
 | [Zerotonin 2](https://open.spotify.com/track/2ZsLiGgkF2Kedip9JMNigf) | [Darknet](https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502) | [Self\-Titled](https://open.spotify.com/album/7qyhP5CSj4KpC87XnHO92f) | 3:17 | 2021-12-17 | 2022-02-09 |
-| [Zombieland!](https://open.spotify.com/track/4QvMku9TtjxpLS7Xa3x804) | [ROMA JONSON](https://open.spotify.com/artist/21v9qLqZzJBzxIKZZNgD1a), [OLD SOUL](https://open.spotify.com/artist/3asFJeOEKhiHfWckvTdbC7) | [Zombieland!](https://open.spotify.com/album/2xDsQsNrYHAVIkQS4gP1tk) | 2:01 | 2023-01-06 |  |
+| [Zombieland!](https://open.spotify.com/track/4QvMku9TtjxpLS7Xa3x804) | [ROMA JONSON](https://open.spotify.com/artist/21v9qLqZzJBzxIKZZNgD1a), [OLD SOUL](https://open.spotify.com/artist/3asFJeOEKhiHfWckvTdbC7) | [Zombieland!](https://open.spotify.com/album/2xDsQsNrYHAVIkQS4gP1tk) | 2:01 | 2023-01-06 | 2023-01-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

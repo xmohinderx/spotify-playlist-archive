@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > Dinner with Friends? Here's the perfect playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,507,328 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,508,290 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [shut up](https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/3YuXuSnRfq8NuYE7UjHQKk) | 2:50 |
 | 100 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
 
-Snapshot ID: `MTY3MjI2MjcxNiwwMDAwMDAwMDJlMGI3MjRmY2NiNDM4MmNhNGM2OTI4OTFlODQ2YzAw`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDQxZmQyMzdlZTA5NTRlYmY3Nzg5NWMyMmM1OTZjYzk5`

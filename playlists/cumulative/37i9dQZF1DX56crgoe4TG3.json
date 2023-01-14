@@ -2741,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli"
+      },
+      "artists": [
+        {
+          "name": "Joy Kills Sorrow",
+          "url": "https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253346,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns"
+    },
+    {
+      "album": {
         "name": "Summer's End",
         "url": "https://open.spotify.com/album/5zgTm1cISmkEXTC6Vo2IYH"
       },

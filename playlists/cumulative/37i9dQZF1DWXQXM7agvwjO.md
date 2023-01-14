@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: ikkubaru \(Indonesia\)
 
-543 songs - 1 day 8 hr 29 min
+544 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 | 2022-10-06 |  |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-04 | 2022-08-19 |
 | [In Your Loudest Fear](https://open.spotify.com/track/4oAUeju7DwlPHBWqbzGDP5) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Water Will Find Me](https://open.spotify.com/album/7b89kC8vOz2uvWgdG4ZybI) | 6:05 | 2022-07-21 | 2022-09-02 |
+| [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 | 2023-01-13 |  |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2022-10-07 |
 | [Inside My Head](https://open.spotify.com/track/6hSMqvjk4l5L59IowzeRHi) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Inside My Head](https://open.spotify.com/album/3kKFVFHrArAgfAKoRZzmMk) | 3:12 | 2022-09-08 | 2022-10-21 |
 | [insomnia](https://open.spotify.com/track/0qbRKE96kcbb8LNhs43cTs) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [insomnia](https://open.spotify.com/album/60u9cSJBnwIS0QuoBUQMWz) | 4:46 | 2022-04-07 | 2022-05-13 |
@@ -548,7 +549,7 @@
 | [門](https://open.spotify.com/track/5fXbJBMOQWcjPyMTQJnevE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 4:45 | 2022-04-28 | 2022-05-07 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-03-24 | 2022-04-01 |
 | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/track/7j4sdJ48LRUNMGl7pJSSTw) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/album/2rqKcP5HHJtneNxcvXGLNi) | 3:56 | 2022-12-09 | 2023-01-13 |
-| [언더 독 ! Under Dog ! \(feat\. CHOILB\)](https://open.spotify.com/track/7H6MYg2AnfdG3pWpLxjSvx) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [나는야 락스타 ! I’m a rockstar !](https://open.spotify.com/album/1qwt7wQigAO7zle4yXYEM9) | 3:16 | 2022-11-17 |  |
+| [언더 독 ! Under Dog ! \(feat\. CHOILB\)](https://open.spotify.com/track/7H6MYg2AnfdG3pWpLxjSvx) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [나는야 락스타 ! I’m a rockstar !](https://open.spotify.com/album/1qwt7wQigAO7zle4yXYEM9) | 3:16 | 2022-11-17 | 2023-01-14 |
 | [환란의 세대 The Generation of Tribulation](https://open.spotify.com/track/31OivIYnFwCpGRVp19DxD3) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:46 | 2022-03-24 | 2022-04-08 |
 | [황혼](https://open.spotify.com/track/1u3bWaIqpoOnqc71bS3hKI) | [서월](https://open.spotify.com/artist/2eELgy11Ifx8aTjeSxsOaX) | [황혼](https://open.spotify.com/album/7iwyBncx4Jy5gwLXrt3dXS) | 5:18 | 2022-10-13 | 2022-11-25 |
 

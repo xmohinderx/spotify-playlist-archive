@@ -2323,6 +2323,32 @@
     },
     {
       "album": {
+        "name": "Just Like Jesus",
+        "url": "https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE WORSHIP",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583300,
+      "name": "Just Like Jesus",
+      "url": "https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq"
+    },
+    {
+      "album": {
         "name": "Now (Live)",
         "url": "https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA"
       },

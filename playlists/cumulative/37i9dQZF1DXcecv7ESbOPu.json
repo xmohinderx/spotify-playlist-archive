@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "2 Live",
+        "url": "https://open.spotify.com/album/67xulMesSVTsFmOwpO4gaw"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "2 LIVE",
+      "url": "https://open.spotify.com/track/1pbSwjVmaoVgHIU2bQeuxI"
+    },
+    {
+      "album": {
         "name": "2 Mins of Pain",
         "url": "https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx"
       },
@@ -19558,6 +19580,28 @@
       "duration_ms": 172682,
       "name": "Cloudberries",
       "url": "https://open.spotify.com/track/7orvwHvLtMwbNoIkUImAlv"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM"
     },
     {
       "album": {
@@ -38430,10 +38474,32 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 152250,
       "name": "Give Me More",
       "url": "https://open.spotify.com/track/0RTGoMGBDmm4kpYyex1JYN"
+    },
+    {
+      "album": {
+        "name": "Give Me More",
+        "url": "https://open.spotify.com/album/5AKAe4bYmPiMqoFhwzy1tW"
+      },
+      "artists": [
+        {
+          "name": "Viva La Panda",
+          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+        },
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Give Me More",
+      "url": "https://open.spotify.com/track/7sUGmX3MRE9Ea7fW0lou76"
     },
     {
       "album": {
@@ -40948,7 +41014,7 @@
     {
       "album": {
         "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/3Na5cAxszF8HmkxRkpp9Tw"
+        "url": "https://open.spotify.com/album/24raYd6ZGduYvk9D9SN7AC"
       },
       "artists": [
         {
@@ -40963,6 +41029,28 @@
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131557,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/1Jh4ZV1XJ2ZOLqTTP56ucW"
+    },
+    {
+      "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/3Na5cAxszF8HmkxRkpp9Tw"
+      },
+      "artists": [
+        {
+          "name": "VARGENTA",
+          "url": "https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo"
+        },
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
       "duration_ms": 131557,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1zmOhNzWOoS2EJVa8Nt4GP"
@@ -43768,6 +43856,24 @@
       "duration_ms": 161780,
       "name": "Her Lips Are Sayin' (La La La)",
       "url": "https://open.spotify.com/track/1OpVvYQjS9FptnKYeKXBPa"
+    },
+    {
+      "album": {
+        "name": "Her Old Friends",
+        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256117,
+      "name": "Her Old Friends",
+      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
       "album": {
@@ -55539,6 +55645,24 @@
     },
     {
       "album": {
+        "name": "Kill Bill",
+        "url": "https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137528,
+      "name": "Kill Bill - Sped Up Version",
+      "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
+    },
+    {
+      "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
@@ -55898,6 +56022,28 @@
       "duration_ms": 251709,
       "name": "King of Sweden",
       "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
+    },
+    {
+      "album": {
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
     },
     {
       "album": {
@@ -88963,7 +89109,7 @@
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213031,
+      "duration_ms": 217196,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
     },
@@ -109046,6 +109192,28 @@
       "duration_ms": 303626,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
+    },
+    {
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
     },
     {
       "album": {

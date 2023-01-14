@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=\_1tjXUnTS2CRapuxEexbmA">Msaki</a> and <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=FlqIEG2USBCH2hQnLNMxew">Tubatsi Mpho Moloi</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt?si=zFL7PN4xQeGiobr82qdkxw">Zuko SA</a>
 
-310 songs - 22 hr 19 min
+312 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amazing Grace](https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:06 | 2022-07-07 | 2022-09-16 |
 | [Anaconda](https://open.spotify.com/track/5z4TYCJddMV0BNBauAv8XF) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 4:06 | 2022-10-28 |  |
 | [Anaconda](https://open.spotify.com/track/71UeIOgkpbPG13l2lyHAAW) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Anaconda](https://open.spotify.com/album/3HEpRngOWlMvGzjLPWeWhD) | 4:06 | 2022-10-28 | 2022-11-17 |
+| [Andikalibali](https://open.spotify.com/track/4AbvGdL2ZwSv1f1SzYtDMi) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Andikalibali](https://open.spotify.com/album/5vjJ9ZSTiCJpFmcvPpkjGV) | 4:19 | 2023-01-13 |  |
 | [Andizenzi](https://open.spotify.com/track/2ctMtVQcjzsSnMQAOCse9R) | [Tee Tee](https://open.spotify.com/artist/4aBFsMUKrFmmWErhjffHBW) | [Andizenzi](https://open.spotify.com/album/7ohfjw7a9nVzeMdadcX3yw) | 4:10 | 2022-07-14 | 2022-08-05 |
 | [Angeke](https://open.spotify.com/track/1TlGAC6DkwEwlHMhjh1owp) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Tee Tee](https://open.spotify.com/artist/4aBFsMUKrFmmWErhjffHBW) | [Angeke](https://open.spotify.com/album/1G6kHZef1AqXAQWlngOyDr) | 4:32 | 2022-10-13 | 2022-12-16 |
 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 | 2022-05-05 |  |
@@ -258,6 +259,7 @@
 | [Sondela My Love](https://open.spotify.com/track/1OKkFjd0I0vGXRMDKTc1jf) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Tee Tee](https://open.spotify.com/artist/4aBFsMUKrFmmWErhjffHBW) | [Sondela My Love](https://open.spotify.com/album/0AQvG3M6bwk3QlGYYDXgO5) | 3:49 | 2022-09-29 |  |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-03-31 | 2022-10-14 |
 | [Sphila](https://open.spotify.com/track/0eRjEAAgM2ERSlIo98hviS) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Sphila](https://open.spotify.com/album/4b96sbHZRnkTRdUvlbiQga) | 5:49 | 2022-10-13 | 2022-11-08 |
+| [Stimela](https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd) | [2Point1](https://open.spotify.com/artist/6Z6xrqezBTUUDnCinhPwCO), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Nthabi Sings](https://open.spotify.com/artist/2JN2Yx7wsJaGHbtzoAE4k7) | [Stimela](https://open.spotify.com/album/6j3BUkIFmKkXGIZiyEpZ71) | 5:14 | 2023-01-13 |  |
 | [Subaleka](https://open.spotify.com/track/7nb5iVaBLVlEXP9Q1sBUkA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Subaleka](https://open.spotify.com/album/4schUnB8YRMkXvEDAGlZHQ) | 3:03 | 2022-12-01 | 2022-12-16 |
 | [Summervibe](https://open.spotify.com/track/04KdURLmbVwbgHx6S7mmIw) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Summervibe](https://open.spotify.com/album/4oeaWOOTG0kt2JbN3U15KZ) | 2:22 | 2022-05-26 | 2022-07-01 |
 | [Sundays Are For Lovers](https://open.spotify.com/track/3EgaEehSd9raC0RAUbwtQh) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Amagama \(Deluxe\)](https://open.spotify.com/album/0DP3kKlV04ZUmNbFoxDnjs) | 4:43 | 2022-08-11 | 2022-10-29 |

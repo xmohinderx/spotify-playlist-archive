@@ -2,9 +2,9 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Foto: Paulo Londra
+> Una selección de temas de amor y desamor, con mucho feeling\. Tiago PZK en portada.
 
-79 songs - 4 hr 19 min
+80 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 | 2022-04-25 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-25 |  |
 | [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 | 2022-04-25 |  |
+| [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 | 2023-01-13 |  |
 | [Borracho](https://open.spotify.com/track/1PcZnmrMO6FOjBrpFjKyrW) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:38 | 2022-07-23 |  |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2022-04-25 |  |
 | [Café](https://open.spotify.com/track/55jK8S4pNyrHAfkMq7oGxM) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Neutro](https://open.spotify.com/album/6vsqSYcjmlq80EUqG3le2b) | 3:47 | 2022-04-25 |  |

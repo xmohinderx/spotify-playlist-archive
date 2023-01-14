@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-375 songs - 19 hr 40 min
+376 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Somewhere Else](https://open.spotify.com/track/5pE4svRKo7XAXlxclmO9t1) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Somewhere Else](https://open.spotify.com/album/0mHXN4UA7yTQj976qxyBnr) | 3:40 | 2022-05-26 |  |
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2022-05-26 |  |
+| [Sonorous](https://open.spotify.com/track/2USZ5ONIbBIfwazRCZoszB) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Sonorous](https://open.spotify.com/album/61Zt1lXmBJenHNPlkLP6Rf) | 3:07 | 2023-01-13 |  |
 | [Soothing You](https://open.spotify.com/track/1D0CY5Zv9PW1ELhyppJtSK) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [The Sleepers](https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3) | 3:15 | 2022-09-30 |  |
 | [Spaces](https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:27 | 2022-05-26 |  |
 | [Spirits on My Mind](https://open.spotify.com/track/44taQM4lPyUeGSrt5TYhGh) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [Spirits on My Mind](https://open.spotify.com/album/7LGeDsQaq0qZNgDxhxTdCj) | 3:10 | 2023-01-09 |  |
@@ -375,7 +376,7 @@
 | [Way of Life](https://open.spotify.com/track/7gGiPzciQGoxl8NfE5alBj) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Way of Life](https://open.spotify.com/album/2WJ3Et6BMjC0ePyPbsEAQc) | 3:21 | 2022-05-26 |  |
 | [weightless mind](https://open.spotify.com/track/7KujAid8IJ07XiTbtWccve) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [dream loop](https://open.spotify.com/album/18QvxWz9cpcqw0PwpByVwR) | 2:46 | 2022-05-26 |  |
 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 | 2022-05-26 |  |
-| [whispering stars](https://open.spotify.com/track/6O2TxcISQMos975gfH6JDm) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [soft clouds & whispering stars](https://open.spotify.com/album/6DpOC26Jxy1lKu9plVmuVu) | 3:27 | 2022-05-26 |  |
+| [whispering stars](https://open.spotify.com/track/6O2TxcISQMos975gfH6JDm) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [soft clouds & whispering stars](https://open.spotify.com/album/6DpOC26Jxy1lKu9plVmuVu) | 3:27 | 2022-05-26 | 2023-01-14 |
 | [With Hope](https://open.spotify.com/track/5ROmMRpdkiYdBM26Xt9ea4) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [With Hope](https://open.spotify.com/album/7GQddjmAKOMZBFHdKFIKnA) | 2:25 | 2022-05-26 |  |
 | [With Open Eyes](https://open.spotify.com/track/6QXHqKvlat4nfKOqfCPKiP) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [Shore Of Dreams](https://open.spotify.com/album/4ZdktUBxsfIRCZOloKNtxk) | 2:48 | 2022-11-11 |  |
 | [Within](https://open.spotify.com/track/6yy6c0Oy0fg69Zy0htgXsm) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Senses](https://open.spotify.com/album/42n9gHTqtCogUygsmvO49n) | 2:55 | 2022-10-21 |  |

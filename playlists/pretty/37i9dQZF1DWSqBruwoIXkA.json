@@ -1,28 +1,28 @@
 {
-  "description": "Somehow heartbreak feels good in a place like this. Cover: Taylor Swift",
-  "num_followers": 1362043,
+  "description": "Somehow heartbreak feels good in a place like this. Cover: Gracie Abrams",
+  "num_followers": 1367252,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDU4ZWU5N2VmMjFjZTJlYjFkODc5ZjNiNDdiOGRhOTE1",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGU5MWQ5NjAzMjllOTFmNmQ3OTVmMDU4MGNlZTdhNWQ3",
   "tracks": [
     {
-      "added_at": "2023-01-04 16:45:50",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+        "name": "Where do we go now?",
+        "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 218502,
-      "name": "Bigger Than The Whole Sky",
-      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+      "duration_ms": 243599,
+      "name": "Where do we go now?",
+      "url": "https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -75,18 +75,34 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 158840,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
+      "duration_ms": 218502,
+      "name": "Bigger Than The Whole Sky",
+      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "PARACHUTES",
+        "url": "https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc"
+      },
+      "artists": [
+        {
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+        }
+      ],
+      "duration_ms": 164934,
+      "name": "PARACHUTES",
+      "url": "https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -107,6 +123,38 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "paper",
+        "url": "https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 167675,
+      "name": "paper",
+      "url": "https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -119,22 +167,6 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "What A Convincing Illusion",
-      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -155,38 +187,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Locksmith",
-        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Locksmith",
-      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "Love Me Like That",
-        "url": "https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Love Me Like That",
-      "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "Guitar Songs",
         "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "Locksmith",
+        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Locksmith",
+      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "Men On The Moon",
         "url": "https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr"
       },
@@ -1053,6 +1069,26 @@
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
+    },
+    {
       "added_at": "2023-01-04 16:45:50",
       "album": {
         "name": "Blood Harmony (Deluxe)",
@@ -1215,6 +1251,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 158536,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "feel like shit",
         "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
       },
@@ -1259,22 +1311,6 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 158536,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1331,22 +1367,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -1391,6 +1411,22 @@
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1707,22 +1743,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "I Would've",
         "url": "https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U"
       },
@@ -1735,6 +1755,22 @@
       "duration_ms": 150583,
       "name": "I Would've",
       "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2311,6 +2347,38 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "What A Convincing Illusion",
+      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Love Me Like That",
+        "url": "https://open.spotify.com/album/5IXVmq7591VkI4Yy4xw33g"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/4iAIwW9LIaRc0elSN0EX5Z"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "Always Love",
         "url": "https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba"
       },
@@ -2387,70 +2455,6 @@
       "duration_ms": 136480,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/4mJ0rQth1WbwdVl4zgnFqs"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "do all my friends hate me?",
-        "url": "https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "do all my friends hate me?",
-      "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "As Written, Vol. 1",
-        "url": "https://open.spotify.com/album/16MDQU312oTRDCAb1GeCmK"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 244390,
-      "name": "all i need (the distance song)",
-      "url": "https://open.spotify.com/track/1ZYjhvNnxN6sk6f0SMLcR9"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/0pro3pYtDog6bp669jZywP"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 181247,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "We Didn't Even Date",
-        "url": "https://open.spotify.com/album/1fbzhxaZrW2EtlUKuHj9Ck"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 177567,
-      "name": "We Didn't Even Date",
-      "url": "https://open.spotify.com/track/2iVj3gmnl8NiCU0ZTrFtag"
     }
   ],
   "unique_name": "sad hour",

@@ -2,9 +2,9 @@
 
 ### [Jersey Club Heat](https://open.spotify.com/playlist/37i9dQZF1DXajwQAxzrT4Q)
 
-> Bounce to the Brick City sound\. From New Jersey to the world\. Cover: skaiwater.
+> Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Smallz 732
 
-227 songs - 9 hr 3 min
+228 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,9 +191,10 @@
 | [Round4round](https://open.spotify.com/track/0nFYvP0Em4u6m6ZGy43Bo3) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [CLUB 20](https://open.spotify.com/album/7dPcRnySi2qjjFPjOCklZl) | 2:39 | 2022-12-30 | 2023-01-06 |
 | [Rude Boy Giddy Up](https://open.spotify.com/track/0IKltPY3yqdkTmHmS1ER3a) | [Dj Tameil](https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1) | [Tek 9 EP](https://open.spotify.com/album/5dre3XqtodIt7WswuWsBQp) | 3:52 | 2022-02-11 | 2022-07-29 |
 | [Rude Boy Giddy Up](https://open.spotify.com/track/5r4ZtJLtLbMufaMw8UBK6Q) | [Dj Tameil](https://open.spotify.com/artist/7jpsm3UOVdNAI0GK2EbzV1) | [Tek 9 EP](https://open.spotify.com/album/6i1d5z3aSskkAMjbrm0LpY) | 3:52 | 2022-07-22 | 2022-12-31 |
+| [Running Back](https://open.spotify.com/track/0zfcwI0dfnPT5pXwUXQSR3) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [Running Back](https://open.spotify.com/album/18sVi4pRnMPPpsPq9t0Iqs) | 2:58 | 2023-01-13 |  |
 | [Running Man Challenge \(My Boo\)](https://open.spotify.com/track/60JiEa7IaQguLaV3Vc6GUc) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Running Man Challenge \(My Boo\)](https://open.spotify.com/album/0hENRboSeMbq3feQzjSMBA) | 1:57 | 2022-04-01 | 2022-05-10 |
 | [Ryde Dat](https://open.spotify.com/track/40NRmZ9L2ZMv33VOiHecTA) | [Leemz](https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN) | [Ryde Dat](https://open.spotify.com/album/0vwFCu3RX5O8paW5Cg2mjV) | 3:32 | 2022-02-11 | 2022-08-30 |
-| [Saint Laurent](https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Saint Laurent](https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj) | 2:32 | 2022-02-11 |  |
+| [Saint Laurent](https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Saint Laurent](https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj) | 2:32 | 2022-02-11 | 2023-01-14 |
 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 | 2022-10-28 |  |
 | [Shake Dat](https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3) | [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Shake Dhat](https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL) | 0:56 | 2022-02-11 | 2022-12-31 |
 | [Shake Dhat](https://open.spotify.com/track/1XH4xf7YuCDDCKvHRwGFR8) | [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK), [Philly Goat Dice](https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl), [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y) | [Shake Dhat](https://open.spotify.com/album/1pH2ngtMry9rL8fXvvdlvI) | 2:40 | 2022-02-11 | 2022-07-29 |

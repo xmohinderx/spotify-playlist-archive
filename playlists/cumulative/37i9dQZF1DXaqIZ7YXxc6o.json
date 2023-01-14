@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "BLUDLUST",
+        "url": "https://open.spotify.com/album/2dGoT7WDRE88lnMGVRsybR"
+      },
+      "artists": [
+        {
+          "name": "Daegho",
+          "url": "https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS"
+        },
+        {
+          "name": "NGXT",
+          "url": "https://open.spotify.com/artist/6UyLAGcCJ6gdpbw2i9lcsa"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "BLUDLUST",
+      "url": "https://open.spotify.com/track/6axf2WERHn79EpcSEb0jku"
+    },
+    {
+      "album": {
         "name": "Body Breathe",
         "url": "https://open.spotify.com/album/4GIEyRGFd3rDKRc696fsbA"
       },
@@ -1124,7 +1146,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 171808,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq"
@@ -1164,7 +1186,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 171750,
       "name": "Give It To Me - Remix",
       "url": "https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r"

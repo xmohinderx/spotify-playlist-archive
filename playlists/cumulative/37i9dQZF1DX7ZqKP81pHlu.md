@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-107 songs - 6 hr 29 min
+108 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-05-31 | 2022-11-04 |
 | [Dounia](https://open.spotify.com/track/0RuXUc6UeufJkqvk8LIrIx) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Dounia](https://open.spotify.com/album/6wENSfn6GWCxj5gF8N4mFP) | 3:09 | 2022-03-10 | 2022-06-03 |
 | [El Walida](https://open.spotify.com/track/72IaF2DNQpXfYVG349uPI6) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [El Walida](https://open.spotify.com/album/6KZu4hCRZdB3dtQc8ABbE2) | 4:10 | 2022-10-09 | 2023-01-11 |
-| [El Walida](https://open.spotify.com/track/0WwInt3BRuOpnEp8jFddBO) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [DZ Power](https://open.spotify.com/album/2mzpUy8MENhCidI0KwT3Ed) | 4:12 | 2022-11-03 |  |
+| [El Walida](https://open.spotify.com/track/0WwInt3BRuOpnEp8jFddBO) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [DZ Power](https://open.spotify.com/album/2mzpUy8MENhCidI0KwT3Ed) | 4:12 | 2022-11-03 | 2023-01-14 |
 | [El Walida](https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [El Walida](https://open.spotify.com/album/5BUWjVJMOXZkOl6gN2pEBc) | 4:12 | 2021-12-09 | 2022-10-14 |
 | [ELGHIRA](https://open.spotify.com/track/42Vy5zKc5KcUsz5dyGEMQI) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/51jFeqsDRYtQDse8p4zTL5) | 2:47 | 2022-11-07 |  |
 | [Engagé](https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Engagé](https://open.spotify.com/album/7z4Os1feFjBgWHdQlEv5xD) | 4:44 | 2021-12-09 | 2022-12-26 |
@@ -115,5 +115,6 @@
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-12-09 | 2022-12-06 |
 | [Zo3ama](https://open.spotify.com/track/4nkTyblMWmFkGuNWGUUlED) | [Catani](https://open.spotify.com/artist/3EAwGrrl1XMcypPptaKLUs) | [Zo3ama](https://open.spotify.com/album/3vMTLVSza1gHcK1khw9ioc) | 3:59 | 2021-12-09 | 2022-08-06 |
 | [Ça fait des années](https://open.spotify.com/track/1Opks4WxGK1c1KvjJ1OlL9) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Ca fait des années](https://open.spotify.com/album/0yp3ImaA7EvBSJQBLj19lr) | 3:55 | 2021-12-09 | 2022-07-19 |
+| [اصبر أقلبي صبار \- Guitar Version](https://open.spotify.com/track/7GypUUjgqKRhIyoEWwMVuP) | [Maghreb production](https://open.spotify.com/artist/3Yp7wA52nMHtiFJg9aNjdV) | [اصبر أقلبي صبار](https://open.spotify.com/album/5zF8zGfl20GPsBYbSrBucQ) | 12:39 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

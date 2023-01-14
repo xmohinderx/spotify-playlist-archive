@@ -2,9 +2,9 @@
 
 ### [Shuffle Syndrome](https://open.spotify.com/playlist/37i9dQZF1DWUq3wF0JVtEy)
 
-> <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
+> 
 
-289 songs - 14 hr 14 min
+291 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,9 @@
 | [Lovin' You](https://open.spotify.com/track/3XkAdIenMaTqCnNBRkUOLw) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Moonway](https://open.spotify.com/artist/5TD5NIfep7zFBj02sGPudp), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [Lovin' You](https://open.spotify.com/album/4amastQmuNwMbAR7Pj2OQ9) | 2:22 | 2021-10-29 | 2022-08-06 |
 | [Magic Carpet](https://open.spotify.com/track/4BAc3BAru7sZajWAftSsAA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [MAY BBY](https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU) | [Magic Carpet](https://open.spotify.com/album/7bjaj1UGXKRZA9SiOtBNu4) | 2:48 | 2021-10-29 | 2022-07-29 |
 | [Magic Carpet](https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [MAY BBY](https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU) | [Magic Carpet](https://open.spotify.com/album/0ChRkheFcAH3Zu3OOfPKVa) | 2:48 | 2022-07-22 | 2022-11-11 |
-| [Make a Living](https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Make a Living](https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p) | 2:57 | 2022-08-12 |  |
+| [Make a Living](https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Make a Living](https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p) | 2:57 | 2022-08-12 | 2023-01-14 |
+| [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 | 2023-01-13 |  |
+| [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 | 2023-01-13 |  |
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2022-08-05 |  |
 | [Maybe Don't \(feat\. JP Saxe\) \- MOTi Remix](https://open.spotify.com/track/40J6jOlSe5eS8rJYcYEmCR) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Maybe Don't \(feat\. JP Saxe\) \[MOTi Remix\]](https://open.spotify.com/album/2sCV27AuUvZB5Jg5vKKX2Q) | 3:06 | 2021-10-29 | 2022-08-06 |
 | [Miami \(Öwnboss Extended Remix\) \[feat\. Nile Rodgers\]](https://open.spotify.com/track/3lUJNlIFgP9lvunZIqgZH3) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Miami \(Öwnboss Remix\) \[feat\. Nile Rodgers\]](https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ) | 3:45 | 2023-01-06 |  |
@@ -272,7 +274,7 @@
 | [This Is Love](https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [This Is Love](https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN) | 2:08 | 2022-04-01 |  |
 | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Jaxon Rose](https://open.spotify.com/artist/0IyRRQX0XYxwropqhXgZLz) | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/album/0AHVfgQ7mjSC2cocVF5uOx) | 3:22 | 2021-10-29 | 2023-01-06 |
 | [Thugstools](https://open.spotify.com/track/3XpMVGPshroNu6iEuzCqwv) | [FRATTA](https://open.spotify.com/artist/2NFs798ZCPVsZAAZcZziGI), [Gaba](https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I) | [Thugstools](https://open.spotify.com/album/2M142UzZMRGFHA5dDhGolv) | 3:35 | 2021-10-29 | 2022-07-29 |
-| [Time](https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Time](https://open.spotify.com/album/2d2ED1cEdtypHWeJR9RxOl) | 2:56 | 2022-03-18 |  |
+| [Time](https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Time](https://open.spotify.com/album/2d2ED1cEdtypHWeJR9RxOl) | 2:56 | 2022-03-18 | 2023-01-14 |
 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2021-10-29 | 2022-08-06 |
 | [Tonight](https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Tonight](https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit) | 3:40 | 2022-02-18 |  |
 | [Too Soon](https://open.spotify.com/track/0ybwuh7d9YF7dVWBqDgpzd) | [Benwah](https://open.spotify.com/artist/5MDZ4Vx0HejqeFJXMDBYIG) | [Too Soon](https://open.spotify.com/album/72lIoWchPeGzLPUZXhgZHs) | 4:09 | 2021-10-29 | 2022-07-29 |

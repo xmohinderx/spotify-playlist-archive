@@ -1161,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Fade To What",
+        "url": "https://open.spotify.com/album/2dn3g6XKsqthu7LBgZZBQz"
+      },
+      "artists": [
+        {
+          "name": "Crouwel",
+          "url": "https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE"
+        },
+        {
+          "name": "Erik Buschmann",
+          "url": "https://open.spotify.com/artist/6ayPPyDLx13CCYtvlO9YhD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269063,
+      "name": "Fade To What",
+      "url": "https://open.spotify.com/track/4UcL3esUZ0vZK2u4dQnKI9"
+    },
+    {
+      "album": {
         "name": "Fall into My Ocean (Edit)",
         "url": "https://open.spotify.com/album/69WbK7Rsp8HEmVpZS3X9JD"
       },
@@ -1814,7 +1836,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 411431,
       "name": "Hide",
       "url": "https://open.spotify.com/track/2u1bIcxWR13A21dAFFr8Bp"
@@ -2501,6 +2523,32 @@
     },
     {
       "album": {
+        "name": "Let Us Be Free",
+        "url": "https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga"
+      },
+      "artists": [
+        {
+          "name": "Nicon\u00e9",
+          "url": "https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI"
+        },
+        {
+          "name": "Dirty Doering",
+          "url": "https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427815,
+      "name": "Let Us Be Free",
+      "url": "https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun"
+    },
+    {
+      "album": {
         "name": "Underyourskin 100",
         "url": "https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj"
       },
@@ -2824,7 +2872,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 304753,
       "name": "Message",
       "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
@@ -3902,7 +3950,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 223873,
       "name": "Sky Is the Limit - Edit",
       "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"
@@ -4726,6 +4774,24 @@
       "duration_ms": 376791,
       "name": "Wanna Know",
       "url": "https://open.spotify.com/track/4UVh9wuv6yubeC03Uc3GsX"
+    },
+    {
+      "album": {
+        "name": "Erlking",
+        "url": "https://open.spotify.com/album/4iyNvCmvwszqIz0XRFW41J"
+      },
+      "artists": [
+        {
+          "name": "Avidus",
+          "url": "https://open.spotify.com/artist/6v1l56EZ8Wl7gpZhfihaKQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279085,
+      "name": "We Know",
+      "url": "https://open.spotify.com/track/1ZELlMbQISLH9XfQkHRbtO"
     },
     {
       "album": {

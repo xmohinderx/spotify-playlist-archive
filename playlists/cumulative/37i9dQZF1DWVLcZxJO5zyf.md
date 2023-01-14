@@ -4,7 +4,7 @@
 
 > Ouça os hits do momento do pop BR! Foto: Vivi
 
-159 songs - 7 hr 26 min
+160 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 |  |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-10-21 |  |
 | [Amor Sem Pausa](https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Amor Sem Pausa](https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io) | 2:57 | 2022-12-09 |  |
-| [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/1Z3Y8hQXKVaD0RY72CRt5E) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/album/3lGLYMe25ojYNWqfTpwyk2) | 3:03 | 2022-01-14 |  |
+| [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/1Z3Y8hQXKVaD0RY72CRt5E) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/album/3lGLYMe25ojYNWqfTpwyk2) | 3:03 | 2022-01-14 | 2023-01-14 |
 | [ANESTESIA](https://open.spotify.com/track/1soqtHYm1K8oChNDEmpZrP) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [ANESTESIA](https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c) | 2:22 | 2022-12-09 |  |
 | [APENAS UM NENÉM](https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:10 | 2022-08-05 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-01 | 2022-07-23 |
@@ -96,6 +96,7 @@
 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 | 2022-01-14 | 2022-02-12 |
 | [Meninos e Meninas](https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 | 2022-08-05 | 2022-09-24 |
 | [Meu Amor](https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Meu Amor](https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ) | 2:41 | 2022-03-04 | 2022-07-19 |
+| [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-01-13 |  |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2022-01-14 | 2022-12-24 |
 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 | 2022-09-02 |  |
 | [Muito Prazer](https://open.spotify.com/track/4lr83Y9bskhsphElLXuAs6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Muito Prazer](https://open.spotify.com/album/7agqEu7aGQlbqZMWVqkq00) | 2:40 | 2022-01-14 | 2022-02-05 |

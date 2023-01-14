@@ -4,7 +4,7 @@
 
 > make it pop! cover: The 1975
 
-513 songs - 1 day 2 hr 4 min
+515 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-09-24 |
 | [Deja Vu](https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Deja Vu](https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY) | 2:31 | 2022-06-10 | 2022-08-13 |
 | [Destination](https://open.spotify.com/track/49JXBEa33UUqVb0sdiGIQS) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/5WFKsYhq4eXgAx0mbEYkw6) | 2:43 | 2022-09-23 | 2022-12-15 |
-| [Destination](https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5) | 2:43 | 2022-09-23 |  |
+| [Destination](https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5) | 2:43 | 2022-09-23 | 2023-01-14 |
 | [Destination](https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/3HNG2SeXfTjlK6uB714dns) | 2:43 | 2022-09-23 | 2022-11-06 |
 | [Die Right Here](https://open.spotify.com/track/7fXYFuCTmNrYRGwEUUf5iz) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Die Right Here](https://open.spotify.com/album/5AYf4H1ZSeVznqc6nuPm89) | 2:07 | 2021-12-17 | 2022-02-26 |
 | [dirty white chucks](https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dirty white chucks](https://open.spotify.com/album/6CUvOeg6Sn0Lnhh6yiYwHN) | 2:38 | 2022-10-14 |  |
@@ -337,6 +337,7 @@
 | [OH WELL](https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [OH WELL](https://open.spotify.com/album/2AGtYibeIFAnUVQadCVr16) | 2:54 | 2021-11-12 | 2022-03-18 |
 | [Okay](https://open.spotify.com/track/2Vm6N90nP3iVAm4ejHrl1a) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Okay](https://open.spotify.com/album/76MulsxJQcZuCf9EphKOi1) | 3:08 | 2022-02-04 | 2022-03-18 |
 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 | 2022-05-20 | 2022-07-30 |
+| [on life](https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [on life](https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy) | 2:12 | 2023-01-13 |  |
 | [one day before i die](https://open.spotify.com/track/1Q9ZEONnl5uedGaWs6Pq8x) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [one day before i die](https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc) | 3:01 | 2022-03-11 | 2022-04-29 |
 | [Only Fan \(feat\. Cordae\)](https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:33 | 2022-09-16 | 2022-11-12 |
 | [only human](https://open.spotify.com/track/1XLZcAceP6w4b7f6IdhYZ8) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [only human.](https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ) | 2:30 | 2021-10-29 | 2022-01-22 |
@@ -458,6 +459,7 @@
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 | 2022-04-29 |
 | [The Good Part](https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:47 | 2021-10-29 | 2022-10-01 |
 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 | 2022-08-12 | 2022-09-03 |
+| [The Lows](https://open.spotify.com/track/3cBpzG7DTbm5w85KfuJUo7) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The Lows](https://open.spotify.com/album/1oKZwEjUSRsqeACfHXcDgf) | 2:50 | 2023-01-13 |  |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-05 | 2022-08-06 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 |  |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-18 | 2022-02-26 |
@@ -468,7 +470,7 @@
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-01-29 |
 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 | 2023-01-06 |  |
 | [This Time](https://open.spotify.com/track/1wMUAnJhrgVa2Q2CkMto4b) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Time](https://open.spotify.com/album/5ujq3EIdXLsz6TpXcsd7ze) | 2:13 | 2022-04-29 | 2022-07-16 |
-| [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 |  |
+| [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2023-01-14 |
 | [to be mine \(is to lose your mind\)](https://open.spotify.com/track/6WRoccjEMu5Nj5iOSm3LOX) | [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [to be mine \(is to lose your mind\)](https://open.spotify.com/album/4xT48QQILicoukeueJ1hXl) | 3:27 | 2021-10-29 | 2021-12-25 |
 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 | 2022-07-01 | 2022-08-13 |
 | [Too Late \(To Call\)](https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Too Late \(To Call\)](https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz) | 3:41 | 2022-03-18 | 2022-03-30 |

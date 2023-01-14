@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-277 songs - 13 hr 26 min
+278 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Purgatorium](https://open.spotify.com/track/09Gy2And4Ys7RtuMUvaLfK) | [お月さま交響曲](https://open.spotify.com/artist/6C3lQzZk0S0JZO2MfruFGc) | [Arcaea Sound Collection: Memories of Conflict](https://open.spotify.com/album/45slopREa0Xk7yxQGrDxrn) | 2:31 | 2022-03-29 |  |
 | [PUSHER](https://open.spotify.com/track/1PmIXXi8zlZZ3cM2vbLNcC) | [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [PUSHER](https://open.spotify.com/album/2yrbYwPc9Y7ZVkePBb5Mpg) | 2:08 | 2022-04-06 |  |
 | [RAGE](https://open.spotify.com/track/6rkmQku6PiCQ1ULmcAI7z6) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM) | [RAGE](https://open.spotify.com/album/2LcBUuUXyBKuaYXxm0sch8) | 2:46 | 2022-03-19 |  |
-| [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-16 |  |
+| [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-16 | 2023-01-14 |
 | [Ready For The Madness](https://open.spotify.com/track/4JwIGYAdOi3vbY5XBxEyNc) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [Lose Control](https://open.spotify.com/album/0tMlXtDtwKQ4BCpKjqFJZI) | 1:58 | 2022-02-01 |  |
 | [red light](https://open.spotify.com/track/1e3ObInsynsBsdBKZqOoG3) | [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [red light](https://open.spotify.com/album/0PNCzyo0fhQDuoCpccCo80) | 2:28 | 2022-06-19 |  |
 | [Reflections](https://open.spotify.com/track/1msdCkmMraSkcmjwILl9Bs) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Reflections](https://open.spotify.com/album/40yI1vDHFA1bn5h7jusdJp) | 4:11 | 2022-04-06 |  |
@@ -201,6 +201,7 @@
 | [REVIVER](https://open.spotify.com/track/1p6WtbNY4bDjiFBmSZolJY) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [S・S・S](https://open.spotify.com/album/0fIXE9BDAKai3jMx2IWoiC) | 4:50 | 2022-03-26 |  |
 | [Rising Sun](https://open.spotify.com/track/5C1FYwcy85HmSOsHdxjVhL) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [Rising Sun](https://open.spotify.com/album/71gnoKRnDB33CACSjIBzT8) | 3:19 | 2022-02-24 |  |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-02-02 |  |
+| [Samurai](https://open.spotify.com/track/1uIybDOAoTSiTquV3aQjwY) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Big Boss Mulaa](https://open.spotify.com/artist/1psB4RmBYaifiXZUyW2Tcv) | [Tales of a Sad Boy](https://open.spotify.com/album/2nLNaNERF12jqdaUX73FeQ) | 3:13 | 2023-01-14 |  |
 | [Sanemi Shinazugawa](https://open.spotify.com/track/329pprHVEBKU706gwR1Nmb) | [KinovariSquad](https://open.spotify.com/artist/2uW8Pzer75F784OcilgGIx) | [Hashira](https://open.spotify.com/album/5iy0wwlV67LhWfepTvOzvz) | 2:09 | 2022-08-30 |  |
 | [sasuke uchiha.exe](https://open.spotify.com/track/0tMZiTEmeHj5uaTVEQwW9b) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq) | [sasuke uchiha.exe](https://open.spotify.com/album/2P8iJlrnyiHgn8CxbTKgkm) | 2:05 | 2022-08-20 |  |
 | [Secret Of Life](https://open.spotify.com/track/2xWkq8lw57YIPHb55jpPZs) | [Araysen](https://open.spotify.com/artist/35C5llip6ED8ovG6EutX6d), [Chavetas](https://open.spotify.com/artist/4DA6LpZ4yL3Z9TR8wNi5qj), [Scantraxx](https://open.spotify.com/artist/52lKMhQlx5f7tM11qGkhKs) | [Secret Of Life](https://open.spotify.com/album/0csrYOkCDK4q2nWPrVtHlC) | 3:04 | 2022-02-21 |  |

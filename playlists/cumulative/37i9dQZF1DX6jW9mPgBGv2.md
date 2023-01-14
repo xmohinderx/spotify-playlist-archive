@@ -2,9 +2,9 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Foto: Duki
+> El rango más alto\. Ellos lo tienen y lo saben\. Ozuna y YOVNGCHIMI plantando cara.
 
-67 songs - 4 hr 18 min
+68 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 | 2021-12-01 |  |
 | [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 | 2021-12-01 |  |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-28 |  |
-| [Gran Vida](https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:27 | 2022-04-25 |  |
+| [Gran Vida](https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:27 | 2022-04-25 | 2023-01-14 |
 | [Hitboy](https://open.spotify.com/track/51dqvo5QYezL3rjL6qjksA) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:58 | 2021-12-01 |  |
 | [Invicto](https://open.spotify.com/track/7zooAwAq4UbQGXA82G2nVv) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 4:01 | 2021-12-01 |  |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-02-15 |  |
@@ -57,6 +57,7 @@
 | [Nos Matamos](https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Nos Matamos](https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV) | 4:30 | 2021-12-01 | 2022-12-09 |
 | [Pinky Ring \- Remix](https://open.spotify.com/track/4mKa1LcRNQILp6xSr9s1S0) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Pinky Ring \(Remix\)](https://open.spotify.com/album/3MwzPtb1MkNtwCQJrIkJnE) | 4:43 | 2021-12-01 |  |
 | [Puesto pal' Millón \- Remix](https://open.spotify.com/track/1csGDtYYiqJmQi2E8ZYl6O) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Puesto pal' Millón \(Remix\)](https://open.spotify.com/album/3zLaa4J3ZOMzlo52FlaMMA) | 5:18 | 2021-12-01 |  |
+| [Quien Va a Frontiar](https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Quien Va a Frontiar](https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf) | 2:54 | 2023-01-13 |  |
 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 | 2021-12-01 |  |
 | [Sauce Boy Freestyle III](https://open.spotify.com/track/4Fdots9nLaSYVe9nZ9QNnJ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boy Freestyle III](https://open.spotify.com/album/0Muum5bu2hmAIb6yBXQkAU) | 2:45 | 2021-12-01 |  |
 | [Sauceboy \- Freestyle](https://open.spotify.com/track/72Jqumw3QMWPr7sQikK1t9) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauceboy](https://open.spotify.com/album/61IRj6MxpchkIXZQpFhxUv) | 2:22 | 2022-04-25 |  |

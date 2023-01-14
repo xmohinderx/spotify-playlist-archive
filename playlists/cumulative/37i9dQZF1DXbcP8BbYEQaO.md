@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-482 songs - 1 day 3 hr 17 min
+484 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Good Cry](https://open.spotify.com/track/4kLFM89C6XMeIMxlrfyM2M) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Good Cry](https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv) | 3:17 | 2021-07-17 | 2022-04-09 |
 | [Good Love](https://open.spotify.com/track/2cp6teLsYgSg4IOrZIc4vd) | [The Greys](https://open.spotify.com/artist/0a0MZlZx2q8XnvljZxRlDx) | [Unfortunately the Response Has Been Less Than Enthusiastic](https://open.spotify.com/album/7BGRsZGGdw34ThqGU1keZo) | 3:06 | 2021-07-04 | 2022-01-22 |
 | [Good Nights \(feat\. Mascolo\)](https://open.spotify.com/track/08Kj0lvbsqAxzeUOBYZRL6) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Life of a Wallflower, Vol\. 1](https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2) | 2:45 | 2021-06-26 | 2021-11-16 |
+| [Good Time \- Bright Light Bright Light Remix](https://open.spotify.com/track/4YAmOTejshVDYM2kaVJzmK) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [THEIR VERSIONS](https://open.spotify.com/album/6j6E8QjZqtdM4ts263uEB6) | 4:59 | 2023-01-13 |  |
 | [Goodbye](https://open.spotify.com/track/7ugxl0JmzLzfKQwzcdyWcr) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Goodbye](https://open.spotify.com/album/7ucPVCRtolBzcgcGW3WD5g) | 2:48 | 2021-07-04 | 2022-01-22 |
 | [Growing on Me](https://open.spotify.com/track/503a5QlhcxNE79QYPspRGh) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:09 | 2022-04-16 | 2022-05-20 |
 | [Hallucinogenics \- Japanese Wallpaper & Winona Oak Remix](https://open.spotify.com/track/1AEpQvwq5ChyCIKF7kZK5F) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Hallucinogenics \(Japanese Wallpaper & Winona Oak Remix\)](https://open.spotify.com/album/05CbF1IuykrdARnwteDJh8) | 3:40 | 2020-11-18 | 2021-07-10 |
@@ -294,6 +295,7 @@
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2021-11-27 | 2022-01-29 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-12-04 |  |
 | [Milk](https://open.spotify.com/track/6UXU0TkzArLcCdJBhVKczv) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God \(Deluxe\)](https://open.spotify.com/album/49xoGbYKxnS0PEfapnFG6c) | 3:30 | 2021-11-27 | 2022-04-17 |
+| [Mindreader](https://open.spotify.com/track/3KM1RuZ2aZlfnX5tuaPafx) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Mindreader](https://open.spotify.com/album/5LO5R8Zuu4GiyKovnRKprb) | 3:10 | 2023-01-13 |  |
 | [Missing You](https://open.spotify.com/track/31fmFbMiMICIUhzJx7IxXg) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Take Me When You Go \(Deluxe Version\)](https://open.spotify.com/album/429PrNZhn59C6djYU7caTn) | 3:32 | 2020-10-13\* | 2021-07-10 |
 | [Missing You](https://open.spotify.com/track/4orWSOYbKWFvbyKvgJCnXV) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/0fpY1kn7EQZCMmTT1Y9D84) | 4:35 | 2020-10-13\* | 2021-06-26 |
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2020-10-13\* | 2021-06-26 |
@@ -375,7 +377,7 @@
 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 | 2022-12-01 |
 | [Set You Free](https://open.spotify.com/track/2qKdc7t4aM7yPFvZLosJE3) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Set You Free](https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU) | 3:21 | 2021-09-25 | 2022-01-29 |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-09-23 | 2022-10-08 |
-| [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 |  |
+| [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2023-01-14 |
 | [Sirens](https://open.spotify.com/track/5EcN4hZ85eZ45MTS1oRyHY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens](https://open.spotify.com/album/3gTvVImhfT0nAA3YYdpX9L) | 3:58 | 2022-03-31 | 2022-07-29 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 | 2022-07-21 |  |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-07-12 |
@@ -394,7 +396,7 @@
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-10-23 | 2021-12-04 |
 | [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 | 2022-02-25 | 2022-10-15 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2020-10-13\* | 2020-11-18 |
-| [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 |  |
+| [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2023-01-14 |
 | [Sometimes](https://open.spotify.com/track/2ObEl8XMk6XQIPGFZwAQa9) | [Cajsa Siik](https://open.spotify.com/artist/0YoNeQ5nyDVM6lRAhnzvk8) | [Sometimes](https://open.spotify.com/album/5QcY7Mu7dY9PeFRtKwNc8b) | 4:03 | 2022-12-16 |  |
 | [sorry](https://open.spotify.com/track/7EcUaKyjR0WlujOxkpUxh1) | [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [sorry](https://open.spotify.com/album/2FgOGpo1bbhTUmfUUdUrrr) | 2:34 | 2022-05-16 | 2022-06-24 |
 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 | 2020-11-18 | 2021-02-19 |

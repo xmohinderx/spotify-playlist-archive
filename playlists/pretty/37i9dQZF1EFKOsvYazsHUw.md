@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Hx1xrkC8KHm5UrNq9oCWi">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 53 | [Selfish](https://open.spotify.com/track/2AX0I1Oc4cx5tVYo7hUJcr) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [The Spectrum](https://open.spotify.com/album/27DemjtuFRsE68xR1AnIe5) | 3:56 |
 | 54 | [Careless \(feat\. Chiiild\)](https://open.spotify.com/track/48uu14gBG62vUglGGsDAt5) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Spectrum](https://open.spotify.com/album/27DemjtuFRsE68xR1AnIe5) | 3:23 |
 | 55 | [Hold On Till We Get There](https://open.spotify.com/track/2tWWiYOQ5bqMAeT6Wbbc0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:40 |
-| 56 | [We Need To Talk](https://open.spotify.com/track/4KXrNQAEEtCaSzceiAtAaR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
-| 57 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 |
+| 56 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 |
+| 57 | [We Need To Talk](https://open.spotify.com/track/4KXrNQAEEtCaSzceiAtAaR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
 | 58 | [Lotus](https://open.spotify.com/track/3TGGENjrxEOwl1zBZZqKGc) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:18 |
 | 59 | [13 Months of Sunshine](https://open.spotify.com/track/16ISIfafspiGHjPH7EZmJe) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:27 |
 | 60 | [Wasting Time](https://open.spotify.com/track/5bKVgdkF1rcrHlWnlphL3P) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 1:44 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 77 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 78 | [Like the Ocean](https://open.spotify.com/track/60QQcUiVLsyYEHqNnDyZdX) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Manhattan Records Presents "The Hits" \[Vol.2 \(mixed by DJ TAKU\)\]](https://open.spotify.com/album/00oKx39MIe4ioCBDFur4aD) | 2:12 |
 
-Snapshot ID: `Mjc4OTI4NjYsMDAwMDAwMDAwZDg3NzkyMzExZTJkY2RmOWNkYjM5ZWEwZGNiZjI5OA==`
+Snapshot ID: `Mjc4OTUzODYsMDAwMDAwMDAwZjRiODM1MDM5ZmNhYjM4YmFjNzU2MzU1ZDUwY2EwZg==`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,653 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,045 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
 | 2 | [Party All Night](https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Chi City](https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF) | [Supah Fly](https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0) | 2:25 |
-| 3 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
+| 3 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 |
 | 4 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 |
 | 5 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 |
-| 6 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 |
+| 6 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
 | 7 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 |
 | 8 | [Aarena \(Knock2 Remix\)](https://open.spotify.com/track/61xflUm94Khk7PVeyJIyJ3) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [niteharts](https://open.spotify.com/album/6cCrdstrak2Yk4iITOOy7B) | 3:27 |
 | 9 | [Rage](https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Rage](https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq) | 2:55 |
@@ -123,15 +123,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 113 | [Rock Like This](https://open.spotify.com/track/18RDXgNcOosDmIxB2Bk8ke) | [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Rock Like This](https://open.spotify.com/album/4YOlaEvz0Ttj6jYZa2EPHQ) | 2:37 |
 | 114 | [G Spot](https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Algo](https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK) | [Licked](https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4) | 5:18 |
 | 115 | [Move](https://open.spotify.com/track/0JQmitIV9VQMT91VcvVNCU) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Move](https://open.spotify.com/album/1b40F6fRwL4ddLOyii65M0) | 4:13 |
-| 116 | [Doubt](https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Doubt](https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5) | 3:24 |
-| 117 | [Who I Am](https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Who I Am](https://open.spotify.com/album/544B3hUGZ39KuHoZXeWWD1) | 3:48 |
-| 118 | [Arrival](https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Arrival](https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9) | 3:27 |
-| 119 | [Blow](https://open.spotify.com/track/05oGtv3kNxsX8zTejIrO1u) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Blow / Moving](https://open.spotify.com/album/3C6IMkUGDNmTkmgnBzABrV) | 3:40 |
-| 120 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 |
-| 121 | [Westcoaster \- AC Slater Remix](https://open.spotify.com/track/3rcqrxKzMgfmJGUCDRYrgO) | [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Westcoaster \(AC Slater Remix\)](https://open.spotify.com/album/2tflgDhdqeFcODUF7SfbBf) | 3:50 |
-| 122 | [FYPM](https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [FYPM](https://open.spotify.com/album/4LhjGLJTESeDO0fiqqy5VA) | 4:25 |
-| 123 | [Get Twisted](https://open.spotify.com/track/1bp9JRk8v2Y6EoRvoPTnig) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR) | 3:45 |
-| 124 | [Hold Up](https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Hold Up](https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to) | 2:29 |
-| 125 | [In The Dark](https://open.spotify.com/track/1OJ4gP2TXojTGiblN3l4eh) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [In The Dark](https://open.spotify.com/album/1jP8pfWbFhtpUSMZQtCdmA) | 5:42 |
+| 116 | [Se Acabo \(feat\. Method Man\) \- 4B Remix](https://open.spotify.com/track/6BRlY9uFQOfYhDY1B7vMJC) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Se Acabo \(feat\. Method Man\) \[4B Remix\]](https://open.spotify.com/album/1r0qOyGLiM9eGU0GC8sWPI) | 2:21 |
+| 117 | [Doubt](https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Doubt](https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5) | 3:24 |
+| 118 | [Who I Am](https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Who I Am](https://open.spotify.com/album/544B3hUGZ39KuHoZXeWWD1) | 3:48 |
+| 119 | [Arrival](https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Arrival](https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9) | 3:27 |
+| 120 | [Blow](https://open.spotify.com/track/05oGtv3kNxsX8zTejIrO1u) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Blow / Moving](https://open.spotify.com/album/3C6IMkUGDNmTkmgnBzABrV) | 3:40 |
+| 121 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 |
+| 122 | [Westcoaster \- AC Slater Remix](https://open.spotify.com/track/3rcqrxKzMgfmJGUCDRYrgO) | [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Westcoaster \(AC Slater Remix\)](https://open.spotify.com/album/2tflgDhdqeFcODUF7SfbBf) | 3:50 |
+| 123 | [FYPM](https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [FYPM](https://open.spotify.com/album/4LhjGLJTESeDO0fiqqy5VA) | 4:25 |
+| 124 | [Get Twisted](https://open.spotify.com/track/1bp9JRk8v2Y6EoRvoPTnig) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR) | 3:45 |
+| 125 | [Hold Up](https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Hold Up](https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to) | 2:29 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDg4ZTJkZjQ0MDZmZDljZGViYmMwNTFjMzQ2NGQ3OGRk`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDM3N2EzZGNlZjA5YTg3ZjcyMWVjZGNiYTFkYTYwYjAy`

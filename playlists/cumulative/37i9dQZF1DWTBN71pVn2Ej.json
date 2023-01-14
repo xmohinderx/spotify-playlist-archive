@@ -1348,11 +1348,33 @@
         {
           "name": "Jaws the Shark",
           "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        },
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220799,
+      "name": "Destroy the World",
+      "url": "https://open.spotify.com/track/3cqCrByCAW5x9RGcrICmYf"
+    },
+    {
+      "album": {
+        "name": "Jaws the Shark",
+        "url": "https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
         }
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 189474,
       "name": "Didn't Even Know What I Was Looking For",
       "url": "https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG"
@@ -2365,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Into the Trap",
+        "url": "https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Into the Trap",
+      "url": "https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E"
+    },
+    {
+      "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh"
       },
@@ -2841,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Persona Non Grata",
+        "url": "https://open.spotify.com/album/6CrN61hu9FHKyWKbyNHlyK"
+      },
+      "artists": [
+        {
+          "name": "Pale Shelter",
+          "url": "https://open.spotify.com/artist/2rrl6d6AQ73RanJg4lE76W"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Misplaced",
+      "url": "https://open.spotify.com/track/1Ymfg3ga6MgtBaD3Cal5Q0"
+    },
+    {
+      "album": {
         "name": "Sub Atomic Party Cool",
         "url": "https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm"
       },
@@ -3018,7 +3076,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 229573,
       "name": "New Glasses",
       "url": "https://open.spotify.com/track/4miicEbDryBAnFO0c2xODc"
@@ -3223,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Stadium Dreams On A Bedroom Budget",
+        "url": "https://open.spotify.com/album/5OmL7X45YNYmlN4JECxdi3"
+      },
+      "artists": [
+        {
+          "name": "LOSER",
+          "url": "https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201834,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3IDxRzc2zzTc16pGEz90LA"
+    },
+    {
+      "album": {
         "name": "Only You Say It",
         "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
@@ -3270,7 +3346,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 179746,
       "name": "Out Of the Dark and into the Light",
       "url": "https://open.spotify.com/track/2M01sUTKph6pqR7J5j79Er"
@@ -4174,7 +4250,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 145718,
       "name": "take it back (feat. Beck)",
       "url": "https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE"

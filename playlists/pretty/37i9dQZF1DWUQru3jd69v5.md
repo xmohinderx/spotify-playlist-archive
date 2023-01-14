@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Don Pero
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,135 likes - 52 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,210 likes - 52 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

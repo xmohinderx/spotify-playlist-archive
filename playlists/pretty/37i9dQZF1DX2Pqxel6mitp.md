@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 ### [Black Coffee Blues](https://open.spotify.com/playlist/37i9dQZF1DX2Pqxel6mitp)
 
-> 
+> A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,427 likes - 120 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,614 likes - 120 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Smoke In Heaven](https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Roots](https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd) | 3:42 |
 | 120 | [Feelin' Blue](https://open.spotify.com/track/1QMo3fXF53HQFinomEYAHX) | [Shaun Horton's Del Rio Ramblers](https://open.spotify.com/artist/0chn4uz177ClEt71qGG9Nl) | [Go Away Hound Dog](https://open.spotify.com/album/1wakGicpDlN2r6Gu3pNMZ3) | 2:28 |
 
-Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMGM4OTk0NjhhMjkxYTM1ZmY4MWJkMGQ0ZjNlOWYyYWU4`
+Snapshot ID: `MTY3MzYzMDkzNywwMDAwMDAwMGY0MDFmMDQxODIxNDQ1NTYyMDM0MTk2MjYzY2Q0Yzk2`

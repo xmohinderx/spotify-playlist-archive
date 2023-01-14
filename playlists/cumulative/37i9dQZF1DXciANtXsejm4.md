@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-185 songs - 11 hr 9 min
+186 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 | 2022-07-15 |  |
 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 | 2022-04-15 | 2022-11-13 |
 | [Culpable](https://open.spotify.com/track/2jOBay9vG5Za3c4fgTd70V) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Ustedes Lo Hicieron Posible, Gracias!](https://open.spotify.com/album/4N1yJatkYhl9ErFagjQZp9) | 4:09 | 2022-06-03 | 2022-07-18 |
+| [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb) | 2:51 | 2023-01-13 |  |
 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 | 2022-07-15 |  |
 | [Cómo Pude Amarla](https://open.spotify.com/track/5Sc4aKJpElEE4s8573uBgz) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:25 | 2022-04-15 | 2022-07-29 |
 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 | 2022-04-15 |  |
@@ -130,7 +131,7 @@
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/4gZ7QF4fqPd5yau5jAqaod) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más Sin Verte](https://open.spotify.com/album/3kZcFcNcTXvlTIvV4GPmxG) | 4:05 | 2022-04-15 | 2022-07-29 |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 | 2022-07-15 |  |
 | [Paloma](https://open.spotify.com/track/25JRvUTvdnLwxdog75mJSY) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A), [Claudio Benitez](https://open.spotify.com/artist/3xj9078sS7agJpcsdQGjuo) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 3:47 | 2022-06-10 | 2022-07-29 |
-| [Paloma](https://open.spotify.com/track/3MxI6yhm9SPQSB1xXmvcfs) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 3:42 | 2022-12-16 |  |
+| [Paloma](https://open.spotify.com/track/3MxI6yhm9SPQSB1xXmvcfs) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 3:42 | 2022-12-16 | 2023-01-14 |
 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 | 2022-04-15 |  |
 | [Perdido por Ti](https://open.spotify.com/track/5nYFh4mbCDGDVHse3PuCKy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Perdido por Ti](https://open.spotify.com/album/1RZsKu4AKUB1iMnLWNNhzk) | 3:35 | 2022-11-04 | 2022-12-17 |
 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 | 2022-04-15 | 2022-07-29 |

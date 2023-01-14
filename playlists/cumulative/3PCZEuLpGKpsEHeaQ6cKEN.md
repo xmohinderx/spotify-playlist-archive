@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Armin van Buuren, Matoma, Teddy Swims
 
-396 songs - 21 hr 5 min
+397 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [To Live](https://open.spotify.com/track/5W3oXLcRmw5xyZEeay7rBH) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [To Live](https://open.spotify.com/album/6kIxQnSZY1FKxSWi60jueE) | 4:02 | 2022-12-01 | 2023-01-13 |
 | [To The Light](https://open.spotify.com/track/73IQDyJLNCQ6YsLMTUIt7H) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU) | [To The Light](https://open.spotify.com/album/2rGp9FQxzSJfB9JTA87fnV) | 4:21 | 2022-06-09 | 2022-10-21 |
 | [To The Light](https://open.spotify.com/track/0CmajvgCrFK5dD0yn0a9x3) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Soul Seekers](https://open.spotify.com/album/0w3cHPzFHsKTeYFZMgXZNS) | 4:21 | 2022-10-20 | 2022-12-02 |
+| [To The Sun](https://open.spotify.com/track/0D4FgJNbKv34ru9sfM4O26) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [To The Sun](https://open.spotify.com/album/2hJFARaXaTvURrbVJNMrjc) | 3:00 | 2023-01-13 |  |
 | [Tocando El Sol](https://open.spotify.com/track/35owcKBe4QmnJirBikwvUD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Tocando El Sol](https://open.spotify.com/album/3wnBV8czggs8nlnfxOmqNm) | 2:44 | 2022-11-10 | 2023-01-13 |
 | [Told You](https://open.spotify.com/track/25IWOBNRnaBP1DYxhvte3Y) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [Fundamentals](https://open.spotify.com/album/3Fg2bjkd8gLAhJAV5w9800) | 2:31 | 2022-10-06 | 2022-11-11 |
 | [Touching Skin](https://open.spotify.com/track/29d2gllqCl2S0wAPfNBgJO) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Touching Skin](https://open.spotify.com/album/7qYvZjtiQ9Ujia0i3KvqcX) | 2:55 | 2022-09-01 | 2022-11-11 |

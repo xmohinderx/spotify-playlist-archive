@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,558 likes - 150 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,909 likes - 150 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 149 | [Origin](https://open.spotify.com/track/1519QNTFdjIgk7YWYOw59y) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Origin](https://open.spotify.com/album/6hnpvDAwZAokcIjPRli0wE) | 3:54 |
 | 150 | [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 |
 
-Snapshot ID: `MTY3MzAwNzUyMywwMDAwMDAwMDBiYTlhMTcyYWY4YzdmMGRmZTYzNjM5ZDQ4ZjcxMjE5`
+Snapshot ID: `MTY3MzYyMDY1NiwwMDAwMDAwMDhiYmMxOTc4NGQ5ODBhNjE3ZTg5YzA3MTY2M2RlZDFh`

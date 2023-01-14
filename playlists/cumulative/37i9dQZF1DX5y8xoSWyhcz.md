@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\. bestfriend on the cover.
+> it's a vibe \(◡ ‿ ◡ ✿\)\. JAWNY on the cover.
 
-1,004 songs - 2 day 3 hr 34 min
+1,006 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 | 2020-11-21 | 2021-03-14 |
 | [Camp Anonymous](https://open.spotify.com/track/0BVNjqMhsxCioq76mhDUez) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Camp Anonymous](https://open.spotify.com/album/4YScZstfkp3TeCPnNOVhlg) | 2:49 | 2022-08-19 |  |
 | [Can I Tell You I Like You?](https://open.spotify.com/track/6LSkLGDk87wGKawiRTqwdy) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Can I Tell You I Like You?](https://open.spotify.com/album/0vH5RGYzgJNm1nS6bkFu5u) | 2:18 | 2023-01-06 |  |
-| [Can We Take The Night Off?](https://open.spotify.com/track/7uOvb1oTvrCGiU42h4rzE5) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Can We Take The Night Off?](https://open.spotify.com/album/4wgjdiDDwSiSkL4QwUZKlG) | 3:30 | 2022-09-16 |  |
+| [Can We Take The Night Off?](https://open.spotify.com/track/7uOvb1oTvrCGiU42h4rzE5) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Can We Take The Night Off?](https://open.spotify.com/album/4wgjdiDDwSiSkL4QwUZKlG) | 3:30 | 2022-09-16 | 2023-01-14 |
 | [Cardigan](https://open.spotify.com/track/7CCKYz9WZ0G2D3nELghKl3) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Cardigan](https://open.spotify.com/album/5boWNREF7G7SqWNGOzmhFO) | 3:10 | 2022-09-23 |  |
 | [Catch Me](https://open.spotify.com/track/6AdgfvJ4y3BzOVvUYX6xkb) | [LilSaku](https://open.spotify.com/artist/1ArRwk2d2zyiu9MKfFkUie), [wethher](https://open.spotify.com/artist/4U3s5eKRWiJYp9S9G0B1To) | [Catch Me](https://open.spotify.com/album/7nXGtcBDdEwWiSV4MwCCMJ) | 2:09 | 2021-01-23 | 2021-02-06 |
 | [Cereal](https://open.spotify.com/track/5iHj8CCVD7xRTSMnOamWme) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Cereal](https://open.spotify.com/album/1jNLVtINHcTDpV68Qc0BM9) | 2:59 | 2020-11-03 | 2021-01-30 |
@@ -427,7 +427,7 @@
 | [I Could Do This All Night](https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [I Could Do This All Night](https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V) | 3:08 | 2022-07-15 | 2022-12-10 |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-22 | 2021-08-21 |
 | [I Don't Care](https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/17GLkeQ4HyRAWfTDjzEKYP) | 3:45 | 2020-10-29\* | 2021-01-21 |
-| [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 |  |
+| [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 | 2023-01-14 |
 | [I Don't Mind \(feat\. Ben Chandler\)](https://open.spotify.com/track/09hLpQRURHahZf6JyprZQ4) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [I Don't Mind \(feat\. Ben Chandler\)](https://open.spotify.com/album/6bZWHIR8LigmUPLooVCaiE) | 1:57 | 2020-10-29\* | 2021-01-30 |
 | [i don't mind winter coming](https://open.spotify.com/track/0oE2VxwMlovqGKTGyBnb2R) | [Rohail](https://open.spotify.com/artist/4cMwLUBLGviBNs20HxdocC) | [i don't mind winter coming](https://open.spotify.com/album/1m3PrR8S7js7DUR8mmZBF7) | 2:42 | 2020-11-21 | 2020-12-19 |
 | [i don't wanna let u go](https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [i don't wanna let u go](https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA) | 2:24 | 2022-01-07 | 2022-04-29 |
@@ -526,6 +526,7 @@
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-05-03 | 2021-07-17 |
 | [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-04 | 2021-10-02 |
 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 | 2021-07-24 | 2021-09-11 |
+| [Little Pieces](https://open.spotify.com/track/6CL2VtLYkdN5OKB8Di9zLq) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Little Pieces](https://open.spotify.com/album/5hWcZBLkzeBtfDQAJxTYCm) | 3:23 | 2023-01-13 |  |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-04-24 | 2021-06-19 |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-06-05 | 2022-02-05 |
 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 | 2022-11-11 |  |
@@ -915,6 +916,7 @@
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-27 | 2021-06-05 |
 | [Trees](https://open.spotify.com/track/6YLhqdCWw0RYe0kDFUWRqh) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Lonely Never Felt So Good](https://open.spotify.com/album/2CiV7RABTWEJJnkbAMuAq3) | 2:51 | 2021-03-27 | 2021-06-05 |
 | [Tropical Sour Candy](https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 3:09 | 2022-04-01 | 2022-08-06 |
+| [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-13 |  |
 | [Trust Issues](https://open.spotify.com/track/2cHh0Ujnr6SHW3IyghLOl5) | [køra](https://open.spotify.com/artist/4jARu3YlrrxTKVZyn8y4yx) | [Trust Issues](https://open.spotify.com/album/0qr9MWYhPD3QdRWmlTn5Mt) | 2:33 | 2021-06-12 | 2021-09-11 |
 | [Try Me](https://open.spotify.com/track/3fVGXrjmPhAWZyLa0XA4Wp) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Try Me](https://open.spotify.com/album/7DizTlgR24QXu7x8qwgMMB) | 2:34 | 2021-12-04 | 2022-04-29 |
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2021-09-18 | 2021-10-30 |

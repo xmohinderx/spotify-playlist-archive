@@ -3505,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Kip",
+        "url": "https://open.spotify.com/album/1uQZiWHm7zqy9S9mninlDY"
+      },
+      "artists": [
+        {
+          "name": "Omnium Tal",
+          "url": "https://open.spotify.com/artist/5aWinRRUMWDwSjwUMCNZP9"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157014,
+      "name": "Kip",
+      "url": "https://open.spotify.com/track/2OFRqrTCGaxJgi5pKICi8t"
+    },
+    {
+      "album": {
         "name": "Kustlijnen",
         "url": "https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii"
       },
@@ -5554,7 +5572,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 191428,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2KCD0Kx46ftF8quaA1I0cP"

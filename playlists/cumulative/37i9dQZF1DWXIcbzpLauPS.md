@@ -2,7 +2,7 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: Invent Animate
+> Metalcore at its finest\. Cover: Catch Your Breath
 
 619 songs - 1 day 15 hr 8 min
 

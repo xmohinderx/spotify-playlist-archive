@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-152 songs - 10 hr 9 min
+153 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Harimau](https://open.spotify.com/track/2pRilzRQGc3pAIlpZWYgZG) | [Zatua](https://open.spotify.com/artist/75bOXA83zDlnrFh1clMrCj) | [Sin Existencia](https://open.spotify.com/album/6IjQpSZvu3171WDCQAaHf2) | 5:13 | 2020-10-20 |  |
 | [HATE](https://open.spotify.com/track/7BCnH6TnAy4bpO21NcqEHe) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [Amerikraine Dream](https://open.spotify.com/album/0q2WCwd8k4rSiuvha8aap5) | 3:32 | 2020-10-20 |  |
 | [Have You Felt Lately?](https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Let's Turn It Into Sound](https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3) | 3:54 | 2022-08-31 | 2022-11-04 |
+| [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 | 2023-01-13 |  |
 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 | 2020-10-20 |  |
 | [HP2\-TGP \(I.D.N.C.G.2.D\)](https://open.spotify.com/track/6ouS8C8HiS1KLepNmIHWGX) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [HOLLOW POINT](https://open.spotify.com/album/5jyegl401HqGWNCXbVChqF) | 5:22 | 2022-08-31 |  |
 | [I Need You Right Now](https://open.spotify.com/track/2cTRPYsaUO8pwEfSGilPYt) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [Gemstore](https://open.spotify.com/album/0PgCvPIPHv9zq64d7Lv8BB) | 4:07 | 2021-06-23 |  |
@@ -78,7 +79,7 @@
 | [Le Samouraï](https://open.spotify.com/track/1DFE2U27L7JgQlBL831UGo) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2) | [Still](https://open.spotify.com/album/44xQ4JlxgaSiT8my6ahJhS) | 5:05 | 2022-08-31 |  |
 | [Leilani](https://open.spotify.com/track/5PMFcvLm1IA4lVAQW8FIXY) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Leilani](https://open.spotify.com/album/2YvWLUA9liTFn0a1Y4kGPg) | 2:17 | 2021-07-09 | 2022-11-26 |
 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 | 2022-11-03 |  |
-| [Marco](https://open.spotify.com/track/3cA7sk49Fbtc7mgF2fVuWd) | [Everest Magma](https://open.spotify.com/artist/3NB3jpSQ4F2Ief62BpDCFs) | [Alto//Piano](https://open.spotify.com/album/0szhDIrd23Ck9wiMkQYYts) | 2:16 | 2022-11-25 |  |
+| [Marco](https://open.spotify.com/track/3cA7sk49Fbtc7mgF2fVuWd) | [Everest Magma](https://open.spotify.com/artist/3NB3jpSQ4F2Ief62BpDCFs) | [Alto//Piano](https://open.spotify.com/album/0szhDIrd23Ck9wiMkQYYts) | 2:16 | 2022-11-25 | 2023-01-14 |
 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 | 2020-10-20 |  |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2020-10-20 |  |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/43Ti9176DSMC4AvCA5jq5q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc) | 2:50 | 2020-10-20 | 2022-07-29 |

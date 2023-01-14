@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Eric Bibb
 
-170 songs - 10 hr 2 min
+173 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [Follow Me](https://open.spotify.com/track/0sgSnT7ltGmbtDk6oYCORs) | [Jessarae](https://open.spotify.com/artist/6g09G6rt0abMMLVp4xyKx6) | [Follow Me](https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M) | 3:54 | 2021-04-09 | 2022-05-07 |
 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 | 2022-03-25 |  |
-| [Freedom on My Mind](https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [Freedom on My Mind](https://open.spotify.com/album/1eud6Bh9tfW68cYCw5xGqb) | 4:44 | 2022-10-21 |  |
+| [Freedom on My Mind](https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [Freedom on My Mind](https://open.spotify.com/album/1eud6Bh9tfW68cYCw5xGqb) | 4:44 | 2022-10-21 | 2023-01-14 |
+| [Get That Feeling](https://open.spotify.com/track/7byvzE9N2GZ976Vc96oZdY) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [Get That Feeling](https://open.spotify.com/album/2L9TOZMYzAq4hL9Ln0Z9HL) | 3:55 | 2023-01-13 |  |
 | [Give Praises](https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt) | [Give Praises](https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4) | 3:36 | 2022-09-02 |  |
 | [Gone](https://open.spotify.com/track/33hXeP9dCStIHmtUWNepnA) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Gone](https://open.spotify.com/album/2xheRzFSbejr9p1g18pQOu) | 3:02 | 2021-08-30 | 2022-06-19 |
 | [Good for Nothing](https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Good for Nothing](https://open.spotify.com/album/3uflPsxAFtm3IWLcb8yoY5) | 3:10 | 2021-12-17 | 2022-06-19 |
@@ -120,6 +121,7 @@
 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 | 2022-02-25 |  |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 |  |
 | [Rain Gonna Fall](https://open.spotify.com/track/2aRbqrv0y95UlmSFwE9832) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Rain Gonna Fall](https://open.spotify.com/album/2Zc0N5hjKfYTecNWMollgM) | 3:50 | 2021-02-05 | 2022-03-26 |
+| [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 |  |
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-18 | 2022-02-26 |
 | [Rollin' On](https://open.spotify.com/track/6ol3k9BqQi7tOX98KPnVPa) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Rollin' On](https://open.spotify.com/album/4MREwsWckfOXSbAjNd1c3N) | 5:08 | 2021-08-20 |  |
 | [Rolling Around in It](https://open.spotify.com/track/5612f3JIJJmcUsauIUYdbP) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Rolling Around in It](https://open.spotify.com/album/4NQBdWlyIvwhINkgBg2TD4) | 3:22 | 2022-05-20 | 2022-08-27 |
@@ -168,6 +170,7 @@
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 |  |
 | [What A Life](https://open.spotify.com/track/5du3Ypki8pqdygkoHZnTsd) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [What A Life](https://open.spotify.com/album/1W1PdT8nTmx1qO8poarynl) | 3:02 | 2021-02-05 | 2022-03-26 |
 | [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 | 2022-08-05 |  |
+| [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 | 2023-01-13 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 |  |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |

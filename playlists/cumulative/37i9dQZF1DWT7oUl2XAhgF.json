@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 195257,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 207240,
       "name": "Dare You Be Mine",
       "url": "https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467"
@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Good Ol' Loving",
+        "url": "https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Good Ol' Loving",
+      "url": "https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw"
+    },
+    {
+      "album": {
         "name": "Nothing at All / Good Times",
         "url": "https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 247133,
       "name": "I'm Broke",
       "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 235213,
       "name": "It Rains Love",
       "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
@@ -2117,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Live From Easy Eye Sound",
+        "url": "https://open.spotify.com/album/6lY1atAneLktIAWKI9ixrh"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179764,
+      "name": "Looking For A Brand New Game - Live From Easy Eye Sound",
+      "url": "https://open.spotify.com/track/1sU1M5bEdRDSfPactx6LdK"
+    },
+    {
+      "album": {
         "name": "Party For One / Looking For Moses",
         "url": "https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN"
       },
@@ -2182,7 +2218,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 189933,
       "name": "Love Bird",
       "url": "https://open.spotify.com/track/280aVp4Q3m5g9RZkVSp50p"
@@ -2236,7 +2272,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 183902,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/1Asp0SvN71201WaMcmKAPW"
@@ -2994,7 +3030,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 176032,
       "name": "Rolodex",
       "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"

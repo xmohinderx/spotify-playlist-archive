@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-178 songs - 14 hr 38 min
+179 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 |  |
 | [Under The Thunder](https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc) | [Now Unlimited](https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS) | [Euphoric Forest](https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr) | 2:00 | 2022-11-11 |  |
 | [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 | 2023-01-09 |
-| [Vienna](https://open.spotify.com/track/6PibtWZknVsZQ47haQGrQ7) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Vienna](https://open.spotify.com/album/3r31xSQ3tlMN2CGbY9tMlq) | 2:11 | 2023-01-06 |  |
+| [Vienna](https://open.spotify.com/track/2lKNGpiuqPUnQTbhMYjJ9T) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/4j1o6OTO5ff3UABzIqHnhx) | 2:11 | 2023-01-06 |  |
+| [Vienna](https://open.spotify.com/track/6PibtWZknVsZQ47haQGrQ7) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Vienna](https://open.spotify.com/album/3r31xSQ3tlMN2CGbY9tMlq) | 2:11 | 2023-01-06 | 2023-01-14 |
 | [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korosassu](https://open.spotify.com/artist/6qPn1ijyT49nZV6xjylFAx) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 | 2023-01-06 |  |
 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 | 2023-01-07 |
 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 | 2022-12-20 |  |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/37i9dQZF1DX5R53BjnKBjk)
 
-> Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: Guilé / Arte: Isu Kim
+> Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: THAIS / Arte: Isu Kim
 
-255 songs - 13 hr 14 min
+257 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 | 2022-12-02 |  |
 | [Ei Você](https://open.spotify.com/track/6kEsR6wVuS0TF0pzdhq5ge) | [BarbarAmor](https://open.spotify.com/artist/3HvaQsJWVdi2WvuWyq2SBJ) | [Ei Você](https://open.spotify.com/album/5flpZHlJ5BH0veAKsqJ3Nm) | 2:51 | 2022-08-19 | 2022-12-04 |
 | [Embalo](https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c) | [TIRI](https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab) | [Embalo](https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ) | 3:21 | 2022-11-18 |  |
-| [Então Me Diz](https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Então Me Diz](https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay) | 2:51 | 2022-10-07 |  |
+| [Então Me Diz](https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Então Me Diz](https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay) | 2:51 | 2022-10-07 | 2023-01-14 |
 | [Escuro \- Remix](https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Escuro \(Remix\)](https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T) | 3:04 | 2022-11-25 |  |
 | [Espectro do Tempo](https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO) | [Inês é Morta](https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG) | [Espectro do Tempo](https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S) | 4:33 | 2022-01-07 | 2022-08-13 |
 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 | 2022-10-28 |  |
@@ -108,6 +108,7 @@
 | [I Love U](https://open.spotify.com/track/6tseZ9t3jhmhXPYOcQnPxJ) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [INTENSA](https://open.spotify.com/album/3ZbLBHaFgZVmgIACf80ucp) | 3:03 | 2022-01-07 | 2022-01-29 |
 | [Idaí](https://open.spotify.com/track/2eB3z0UXLOc9pK6VP9lNZI) | [Murillinho](https://open.spotify.com/artist/0k88J2mpnd7mSwnqxx5pIi) | [Idaí](https://open.spotify.com/album/0iVRUGL5GGMetJWjNAKDOM) | 2:42 | 2022-09-02 | 2022-12-08 |
 | [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 | 2022-09-23 |  |
+| [Iluminação](https://open.spotify.com/track/5sp58UU6H0Nt64JyW2AteE) | [Ramatís](https://open.spotify.com/artist/7v956Fy6H2PndqEGwJFPy3) | [Iluminação](https://open.spotify.com/album/0ylkFXM9W3rU9KdYKCcxhz) | 3:02 | 2023-01-13 |  |
 | [Ilusão](https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Ilusão](https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm) | 3:21 | 2022-11-18 |  |
 | [Imaginando Você](https://open.spotify.com/track/5Bhq9x8xbI9E3zNaJ0GLIv) | [Nando](https://open.spotify.com/artist/1OMDP7hWcTXihQ96nYbkDE), [Zi](https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup) | [Imaginando Você](https://open.spotify.com/album/53KmpwZFFaDmIUuHPdIprt) | 2:21 | 2022-01-07 | 2022-03-12 |
 | [Imenso Verão](https://open.spotify.com/track/0QdxNLZ1tmwC74Ye3JoOwo) | [Isabel Lenza](https://open.spotify.com/artist/4wx7m9Don9e1xVi6Ao0OHs) | [Imenso Verão](https://open.spotify.com/album/0qYsVy99UyyBBLEHxSz8N9) | 5:08 | 2022-01-07 | 2022-07-23 |
@@ -150,6 +151,7 @@
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
 | [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 | 2022-12-09 |  |
 | [ninho](https://open.spotify.com/track/3xWLmF4mjDE6hBtHUZhQF3) | [Kelton](https://open.spotify.com/artist/29WFp1aJPBMaKswnXrbd2B) | [Ofício da Solidão](https://open.spotify.com/album/2IU7pbJO1GW9OjoIOrb3LH) | 3:10 | 2022-01-07 | 2022-02-19 |
+| [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 | 2023-01-13 |  |
 | [Nossa História](https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz) | [Carolina Andrade](https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q) | [Nossa História](https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC) | 2:40 | 2022-09-30 |  |
 | [Nuvem \(Ai Claud\)](https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM) | [CARU](https://open.spotify.com/artist/1ydgPMXuGFMb7d6KFcMWVl) | [Paris, Bahia](https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn) | 3:08 | 2022-05-16 | 2022-10-29 |
 | [Não Complica](https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [Não Complica](https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ) | 2:41 | 2022-12-02 |  |
@@ -254,7 +256,7 @@
 | [Você Chegou na Hora Certa](https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Você Chegou na Hora Certa](https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln) | 2:28 | 2022-11-18 |  |
 | [Você Deveria Saber](https://open.spotify.com/track/6bt69Qzr4sj6kPNH3oMQFe) | [Miguel Arcanjo](https://open.spotify.com/artist/5pEeF9Rqc5QgLrVYeSR8MS) | [Você Deveria Saber](https://open.spotify.com/album/41s7qY4qhz77MgprH4wYJ5) | 3:24 | 2022-01-07 | 2022-08-13 |
 | [Você Sabe](https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf) | [TEGÊ](https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F) | [Você Sabe](https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF) | 2:35 | 2022-10-28 |  |
-| [Você se foi](https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf) | [Thalicia](https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz) | [Você se foi](https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX) | 2:35 | 2022-10-14 |  |
+| [Você se foi](https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf) | [Thalicia](https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz) | [Você se foi](https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX) | 2:35 | 2022-10-14 | 2023-01-14 |
 | [Voraz](https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Voraz](https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw) | 2:11 | 2022-12-23 |  |
 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 | 2022-08-26 | 2022-12-10 |
 | [Vício](https://open.spotify.com/track/01qSQbvzNX5K5NoJ6Xhrjd) | [Akin](https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [Vício](https://open.spotify.com/album/15o7kghlFD3WBZoHsJpQAx) | 4:20 | 2022-01-28 | 2022-09-24 |

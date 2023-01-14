@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-110 songs - 8 hr 14 min
+113 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,11 +90,13 @@
 | [Red Sheep Fom Hill](https://open.spotify.com/track/5SXXqDmDYBBThqafTiwzni) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 9:03 | 2022-05-19 | 2022-07-29 |
 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 | 2022-07-22 |  |
 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 | 2022-05-19 |  |
+| [Reflective](https://open.spotify.com/track/4GPJa1iMFV79V9qK7p39v8) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Reflective](https://open.spotify.com/album/2mYM2fsupjohB2ewFw6tca) | 3:46 | 2023-01-13 |  |
 | [Relax 6 \(Awakening\)](https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Sleep Better](https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG) | 9:59 | 2022-09-20 | 2022-11-23 |
 | [remembering grasshoppers](https://open.spotify.com/track/4cW3NRXreChDL9MYh2LHKL) | [Byelti](https://open.spotify.com/artist/6bdFkBtj91aLGfeMzRzXOQ), [demo sphere](https://open.spotify.com/artist/4austkFDBkQqxEUpnYnveI) | [Cirrus](https://open.spotify.com/album/6BDNBMYOVxBQVb3mgx18DT) | 5:46 | 2022-06-17 |  |
 | [Resonance Necklace](https://open.spotify.com/track/3BeKvMlTb7A3J2RV7WIjX9) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 5:55 | 2022-05-19 |  |
 | [retreat](https://open.spotify.com/track/72IyK6qGDgNeLlpqS5BsNS) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [retreat](https://open.spotify.com/album/5RzMEYZDsUGeyqCw6azdAg) | 4:10 | 2022-09-06 |  |
 | [Reversing Existence](https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Apperception](https://open.spotify.com/album/5fMca3DSzcJFKY24ttQfFO) | 6:39 | 2022-05-19 |  |
+| [Serenity Dream](https://open.spotify.com/track/7KFrmgDHafUUei1CEuhnA2) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Wellness Sleep Zone](https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo) | 3:09 | 2023-01-13 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-19 |  |
 | [Sleet](https://open.spotify.com/track/1e3ZjpUwm6yRzVaqIIHWdc) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 8:28 | 2022-07-22 |  |
 | [Sleet](https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 8:28 | 2022-05-19 | 2022-07-29 |
@@ -113,6 +115,7 @@
 | [Unpacked](https://open.spotify.com/track/12XBxkyD9xTjxWawn0o31Z) | [Moving Gradients](https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy) | [Unpacked](https://open.spotify.com/album/1Jo4vSCOYpYYslXc1jvE0n) | 2:47 | 2022-05-19 | 2022-10-20 |
 | [Unpacked](https://open.spotify.com/track/42ZuxJ7oNK1pzdyAlfA9aQ) | [Moving Gradients](https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy) | [Dream Escape](https://open.spotify.com/album/0pwvAzTU1nq61P5PKmOY4o) | 2:47 | 2022-10-14 |  |
 | [Visionary Dream](https://open.spotify.com/track/6UTc4IzOaeCIFFTjc49Mni) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 3:28 | 2022-12-30 |  |
+| [W\(e\) ave](https://open.spotify.com/track/2c7iYzP1tXuWYZinkscVXn) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [W\(e\) ave](https://open.spotify.com/album/6KmOntC15CAQj0cmWyuAZJ) | 3:44 | 2023-01-13 |  |
 | [watching the stars \(Slowed + Reverb\)](https://open.spotify.com/track/6V3bFXfMuKX7xJ3v2ate2J) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars \(Remixes\)](https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy) | 1:57 | 2022-09-12 |  |
 | [We Don't Like You](https://open.spotify.com/track/08cdH83ZfXtkGphVBTmDEa) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [We Don't Like You](https://open.spotify.com/album/6YYArKrqw0tL9cG1y0Mr65) | 4:58 | 2022-07-08 |  |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-05-19 |  |

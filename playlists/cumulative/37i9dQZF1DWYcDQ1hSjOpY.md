@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-373 songs - 18 hr 32 min
+374 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Somnium](https://open.spotify.com/track/13o8mCXKQvMhuuNErL4JZ2) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Somnium](https://open.spotify.com/album/6GGCSed3CmViPzJ244Wggg) | 3:30 | 2022-09-30 |  |
 | [somnus state](https://open.spotify.com/track/6mVQDQzb0msscfSVhVwp7g) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [somnus state](https://open.spotify.com/album/71t1pesucp5VobQLTKOqhI) | 4:40 | 2021-11-10 |  |
 | [Soul Connect](https://open.spotify.com/track/1EVG8oKkYocWnjot9oPZHB) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Soul Connect](https://open.spotify.com/album/4CA9koIi5G0oRNLrPxv6UL) | 3:16 | 2021-11-10 |  |
+| [Soundness](https://open.spotify.com/track/45rdJZmlX5VNVcBEqEO89p) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Soundness](https://open.spotify.com/album/4uSscDI9dHSSI62hpoaHCp) | 3:05 | 2023-01-13 |  |
 | [South of Lapland](https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [South of Lapland](https://open.spotify.com/album/2Ms9zH4Skbpa0fbIYTLeu5) | 3:16 | 2021-11-10 |  |
 | [Spaces](https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:27 | 2021-11-10 |  |
 | [Spiritual Tour](https://open.spotify.com/track/14cdbX7Qi3fiyW7nFhhr6G) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Spiritual Tour](https://open.spotify.com/album/6h7UEB79V0eA9lrb2LEBTC) | 3:50 | 2021-11-10 |  |

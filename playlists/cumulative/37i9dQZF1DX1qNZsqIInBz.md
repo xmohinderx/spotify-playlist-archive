@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-120 songs - 5 hr 28 min
+122 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 |  |
 | [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 |  |
 | [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 |  |
+| [Lxve](https://open.spotify.com/track/6VlP7dD900vqTtL31OrwBd) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [Lxve](https://open.spotify.com/album/6QcnBfg7bNYyeo1ARkenbb) | 2:06 | 2023-01-13 |  |
 | [LXVE TXWN](https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LXVE TXWN](https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm) | 2:38 | 2022-10-10 |  |
 | [MACHINE](https://open.spotify.com/track/2Ygz10JmWDwVigM6jN94H8) | [mxnarch](https://open.spotify.com/artist/42WdWoZDRwUeWhGOYDhfuj), [CERAZ](https://open.spotify.com/artist/2qN0KCCSg4BwDSagUxmEfR) | [MACHINE](https://open.spotify.com/album/6QeJDinj9YHIbiermHKxB6) | 2:47 | 2022-10-10 |  |
 | [MEANING OF LIFE](https://open.spotify.com/track/0JeAofgLJ7A0wnO8ecBm23) | [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [MEANING OF LIFE](https://open.spotify.com/album/0lxBekjKWscjykmqz3xOHR) | 2:28 | 2022-10-10 |  |
@@ -104,7 +105,8 @@
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-10-10 |  |
 | [SEE U IN WINTER](https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL) | [winternarnia](https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [SEE U IN WINTER](https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9) | 2:31 | 2022-12-23 |  |
 | [Shiver](https://open.spotify.com/track/3fZfQWOg4xv8YUPAvnPaty) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [Shiver](https://open.spotify.com/album/3dT2NMs4X8OUay4JJ2weY7) | 2:25 | 2022-10-10 |  |
-| [Silence](https://open.spotify.com/track/6y3VTYZgLPVARFbC5dw8Py) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/7op6zDji4CCSGJc21Hrfzt) | 3:26 | 2022-10-10 |  |
+| [Silence](https://open.spotify.com/track/6y3VTYZgLPVARFbC5dw8Py) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/7op6zDji4CCSGJc21Hrfzt) | 3:26 | 2022-10-10 | 2023-01-14 |
+| [Silence 2](https://open.spotify.com/track/1idjy7sCMW8gMYFKZ9kD8z) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence 2](https://open.spotify.com/album/3UsOnUVD1sr7KN7rzMP4S2) | 2:48 | 2023-01-13 |  |
 | [Silent Night](https://open.spotify.com/track/1EapFpXRLVRnK3PXUoJtTh) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi), [XVNNDRO](https://open.spotify.com/artist/5sSge1Liv1eU8WJPDH1dI5) | [Silent Night](https://open.spotify.com/album/4adqBewUGNtWm6p5gfCEnY) | 2:33 | 2022-10-10 |  |
 | [South](https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 3:12 | 2022-10-10 |  |
 | [Space](https://open.spotify.com/track/5ZTwRO2Yy2ardUblJsVSAA) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Space](https://open.spotify.com/album/5jQNBxuQV1LK4SsVuqX78Z) | 2:00 | 2022-12-09 |  |

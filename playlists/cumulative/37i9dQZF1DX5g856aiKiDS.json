@@ -160,7 +160,7 @@
           "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
         }
       ],
-      "date_added": "2023-01-11",
+      "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172500,
@@ -1170,6 +1170,24 @@
       "duration_ms": 212713,
       "name": "First Time",
       "url": "https://open.spotify.com/track/6cE3BMT0MTw9M1GCm5gBxX"
+    },
+    {
+      "album": {
+        "name": "Fling",
+        "url": "https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ"
+      },
+      "artists": [
+        {
+          "name": "DIVE",
+          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174841,
+      "name": "Fling",
+      "url": "https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO"
     },
     {
       "album": {
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 194000,
       "name": "Love Yourself (feat. Kelsey Kuan)",
       "url": "https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF"
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 170400,
       "name": "Pieces (2022)",
       "url": "https://open.spotify.com/track/7FBb9OkuS4JrQN4Hnf3i2z"
@@ -3352,6 +3370,32 @@
       "duration_ms": 213146,
       "name": "Red Muhly",
       "url": "https://open.spotify.com/track/6eW9BHXYB5hgosR6zQ4WxB"
+    },
+    {
+      "album": {
+        "name": "Refresh (feat. Gist & Kid Wine)",
+        "url": "https://open.spotify.com/album/0Nt3sn3MrZhQb3hfR3xEvL"
+      },
+      "artists": [
+        {
+          "name": "LOTI",
+          "url": "https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209346,
+      "name": "Refresh (feat. Gist & Kid Wine)",
+      "url": "https://open.spotify.com/track/30SwX34WgPlXKkqnJHrhlG"
     },
     {
       "album": {
@@ -4622,7 +4666,7 @@
           "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
         }
       ],
-      "date_added": "2023-01-11",
+      "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180061,
@@ -4936,7 +4980,7 @@
           "url": "https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD"
         }
       ],
-      "date_added": "2023-01-11",
+      "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195749,

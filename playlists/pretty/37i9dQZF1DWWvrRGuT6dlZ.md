@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Adriel\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,797 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,803 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 9 | [we don't have to be alone](https://open.spotify.com/track/5FpTK4Z1piJvDuuq3vmtxA) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [we don't have to be alone](https://open.spotify.com/album/0ZLZ0eD69PGmrtuRYvfxz3) | 3:55 |
 | 10 | [Physical](https://open.spotify.com/track/2jZiBBDtv6PxKgpnoKujkM) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq) | [Physical](https://open.spotify.com/album/3GUvyZmAqeb9deklhEdYr5) | 2:46 |
 | 11 | [Nervous](https://open.spotify.com/track/0EWw0f8uvX4kfOtIEQsyRH) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Nervous](https://open.spotify.com/album/6KPNk9pGhIQPzJFxhqGUAt) | 3:39 |
-| 12 | [HUMPTY DUMPTY REPRISE](https://open.spotify.com/track/2Zy15gif4V2WLt0GUaCv89) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [Wovensound](https://open.spotify.com/artist/5EdTcCnecu4gcvXdZHqsfq), [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [kozy allways](https://open.spotify.com/artist/68IGPZDzdsLulAkXZ3Hk6G), [Frission](https://open.spotify.com/artist/5M1V53sRLGDLuZXV4Xz1es), [Hasyir Ibrahim](https://open.spotify.com/artist/2s7x0aJAEuKTbiREMBkrp9), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [REPRISE](https://open.spotify.com/album/3gavjGfvl4aiy0OIfByV3e) | 2:30 |
+| 12 | [HUMPTY DUMPTY REPRISE](https://open.spotify.com/track/2Zy15gif4V2WLt0GUaCv89) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [Wovensound](https://open.spotify.com/artist/5EdTcCnecu4gcvXdZHqsfq), [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [kozy allways](https://open.spotify.com/artist/68IGPZDzdsLulAkXZ3Hk6G), [Frission](https://open.spotify.com/artist/6LZBEV05qn9E7o6KZSqQ9l), [Hasyir Ibrahim](https://open.spotify.com/artist/2s7x0aJAEuKTbiREMBkrp9), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [REPRISE](https://open.spotify.com/album/3gavjGfvl4aiy0OIfByV3e) | 2:30 |
 | 13 | [summersad](https://open.spotify.com/track/3b9vvKIbi2gCzm6MKW5QQl) | [motifs](https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB) | [remember a stranger](https://open.spotify.com/album/64qGaGX2B8mWIGHAPj8Rn6) | 5:48 |
 | 14 | [Love Quizzes](https://open.spotify.com/track/3AnCQUv83JUHosFh9OVmLp) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Love Quizzes](https://open.spotify.com/album/3bhofzk3jj1AH0mzuksbDK) | 3:32 |
 | 15 | [Shine On](https://open.spotify.com/track/1lHv8uFKGahvJVdrm2TJHC) | [Diana Danielle](https://open.spotify.com/artist/7DKEUCaijEd8l0Fv7COGr6) | [Shine On](https://open.spotify.com/album/6Axm0VoAPHjQUe8KvVidDh) | 3:28 |

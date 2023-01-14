@@ -1,28 +1,28 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 110793,
+  "num_followers": 110800,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcxODA5MiwwMDAwMDAwMDMzODE0MjU5NGMzYTkyNWJhZTE0MTJkMTI0MDEyMzYx",
+  "snapshot_id": "MTY3MzYxMjU2OSwwMDAwMDAwMDZkZDMxMzczMTg2MTY5ZmY4OWIyZTY0NmRlYTEzMmVk",
   "tracks": [
     {
-      "added_at": "2022-11-25 00:00:00",
+      "added_at": "2022-12-22 14:08:12",
       "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+        "name": "PAINLESS (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+      "duration_ms": 217712,
+      "name": "rid of me",
+      "url": "https://open.spotify.com/track/42rzGiopJljAAAPqS9zEnx"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -75,18 +75,18 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 139146,
-      "name": "im so happy",
-      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Love Will Get You There",
-        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "Love Will Get You There",
-      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
+        "name": "Love Will Get You There",
+        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Love Will Get You There",
+      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     },
     {
-      "added_at": "2023-01-13 01:23:27",
+      "added_at": "2022-12-22 14:08:12",
       "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
@@ -487,6 +503,22 @@
       "duration_ms": 268906,
       "name": "Roman Holiday",
       "url": "https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj"
+    },
+    {
+      "added_at": "2023-01-13 12:22:49",
+      "album": {
+        "name": "Return My Head",
+        "url": "https://open.spotify.com/album/7268G8ZBtoLP1tU5y4FtBW"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Return My Head",
+      "url": "https://open.spotify.com/track/7hbvq2vHYcYTgRs2tJgiel"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -735,6 +767,22 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Most Normal",
         "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
       },
@@ -763,22 +811,6 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
-        "name": "Dreams, Pains & Paper Planes",
-        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 201942,
-      "name": "I'm Just High",
-      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
         "name": "I Know You Care",
         "url": "https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t"
       },
@@ -1039,6 +1055,38 @@
     {
       "added_at": "2022-11-25 00:00:00",
       "album": {
+        "name": "Dreams, Pains & Paper Planes",
+        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "I'm Just High",
+      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
+    },
+    {
+      "added_at": "2023-01-13 12:22:49",
+      "album": {
+        "name": "Six-Pack",
+        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
+    },
+    {
+      "added_at": "2022-11-25 00:00:00",
+      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY"
       },
@@ -1051,6 +1099,22 @@
       "duration_ms": 294173,
       "name": "Be By Your Side",
       "url": "https://open.spotify.com/track/2Om9dYuAMsw8jnCLpwVMhx"
+    },
+    {
+      "added_at": "2023-01-13 12:22:49",
+      "album": {
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2"
     },
     {
       "added_at": "2022-11-25 00:00:00",
@@ -1227,70 +1291,6 @@
       "duration_ms": 227115,
       "name": "Never Good Enough",
       "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Factor 50!",
-        "url": "https://open.spotify.com/album/7x3JedGA6zLR2K8nmYQy9H"
-      },
-      "artists": [
-        {
-          "name": "Medicine Cabinet",
-          "url": "https://open.spotify.com/artist/11SWPw9bCw0O51KV6LSwij"
-        }
-      ],
-      "duration_ms": 147427,
-      "name": "Factor 50!",
-      "url": "https://open.spotify.com/track/1vEFlprBbhVZTU0SAlPwDW"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "At Least I'm Free",
-        "url": "https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP"
-      },
-      "artists": [
-        {
-          "name": "WAAX",
-          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Read Receipts",
-      "url": "https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun"
-    },
-    {
-      "added_at": "2022-11-25 00:00:00",
-      "album": {
-        "name": "Green Dream in F#",
-        "url": "https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq"
-      },
-      "artists": [
-        {
-          "name": "The Bug Club",
-          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
-        }
-      ],
-      "duration_ms": 125733,
-      "name": "Love For Two",
-      "url": "https://open.spotify.com/track/4h0yZCpf4CunKMi06y8kqZ"
     }
   ],
   "unique_name": "pulp",

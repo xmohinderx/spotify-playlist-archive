@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,059 songs - 2 day 14 hr 29 min
+1,061 songs - 2 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Antigone \- Edit](https://open.spotify.com/track/0UIwRVLDc0POG4oaLEEsY3) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Antigone](https://open.spotify.com/album/6mA5zAxBOtN4ojyu6pDZyS) | 3:39 | 2019-08-09\* | 2020-03-29 |
 | [Anybody Else \- Alyx Ander Remix](https://open.spotify.com/track/70ssLyL7lsxio25h7maT7I) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [Alyx Ander](https://open.spotify.com/artist/4gxmaAX3cWO9PUVmEYVAhd) | [Anybody Else \(Alyx Ander Remix\)](https://open.spotify.com/album/6MJzg2V7MhrpNQ6GTZSsNh) | 3:24 | 2022-07-08 |  |
 | [Anything For You](https://open.spotify.com/track/4HmuPzVgJtdhRI1YUL5XHp) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Anything For You](https://open.spotify.com/album/0bwSexfmiVJ0snck4drx1E) | 2:53 | 2019-08-09\* | 2020-03-29 |
+| [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 | 2023-01-13 |  |
 | [Anywhere](https://open.spotify.com/track/0xXFbhvHXGD4oBScDW8nQs) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Anywhere](https://open.spotify.com/album/264D8HpMjqEvxADgy6gYVY) | 3:19 | 2021-03-27 | 2022-05-14 |
 | [Anywhere](https://open.spotify.com/track/4Y6KniuLzyH0GbOR3QpVf6) | [Oli Harper](https://open.spotify.com/artist/2YEiH1sR74zLrmZ7pw8dDA), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Anywhere](https://open.spotify.com/album/2SSPgedNqQVpr9cQWFnNyC) | 3:20 | 2020-10-30 | 2021-09-25 |
 | [Anywhere With You](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ) | 2:38 | 2022-07-22 | 2022-12-03 |
@@ -331,6 +332,7 @@
 | [Given Up](https://open.spotify.com/track/3QC3zy7WN5VYdIsYXaU6Jb) | [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [Given Up](https://open.spotify.com/album/3tpV3cPFcQapyScxFcvr5i) | 3:53 | 2019-08-09\* | 2020-03-29 |
 | [Go Easy \- Andrelli Remix](https://open.spotify.com/track/5CcJk7UhQxdBHaTQ6cnDhG) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Go Easy \(Andrelli Remix\)](https://open.spotify.com/album/6bBij89ga7fyohyTIMRlN7) | 3:13 | 2020-06-04 | 2021-09-11 |
 | [God Only Knows \(GATTÜSO Remix\)](https://open.spotify.com/track/0ReSY5XOCFXFRooRS7hPxk) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [God Only Knows \(GATTÜSO Remix\)](https://open.spotify.com/album/5gdySuafgIrPQvdKzjbmIi) | 3:18 | 2019-08-28 | 2020-10-30 |
+| [Gold](https://open.spotify.com/track/4pvluLhHImzU3wDZ0HWMjI) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Gold](https://open.spotify.com/album/5a6dr67Jiow1YSYp1qdHRe) | 3:44 | 2023-01-13 |  |
 | [Gold Dust](https://open.spotify.com/track/3lcuERI7leyYwfFGv1ZP5e) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:54 | 2019-08-10 | 2019-08-27 |
 | [Gold Dust \- East & Young Remix](https://open.spotify.com/track/4H8rKQSD1a8qgG8Jwy82MR) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [East & Young](https://open.spotify.com/artist/1KBhxS7BNH6eVsm0Gaz5qP) | [Gold Dust \(Remixes\)](https://open.spotify.com/album/5yCWSLGuQIQcbPuGXtazwD) | 4:53 | 2020-04-16 | 2021-05-08 |
 | [Gold Mine Gutted](https://open.spotify.com/track/0hos5WWaY0nqo4J8pWxxDJ) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Digital Ash In A Digital Urn](https://open.spotify.com/album/69uTyNumTCoUWD1qvfoMNb) | 3:56 | 2019-08-09\* | 2019-08-27 |

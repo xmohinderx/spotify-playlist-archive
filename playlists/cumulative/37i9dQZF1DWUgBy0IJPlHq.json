@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: The Panhandlers",
+  "description": "A new shade of Country. Cover: Margo Price",
   "name": "Indigo",
   "tracks": [
     {
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Bed of Roses",
+        "url": "https://open.spotify.com/album/1UK1SQs4pkjWsjZPxR58le"
+      },
+      "artists": [
+        {
+          "name": "El Dorodo",
+          "url": "https://open.spotify.com/artist/6sUWXsmu4XcTynrokoDkg7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224903,
+      "name": "Bed of Roses",
+      "url": "https://open.spotify.com/track/1KiOU4CV744ifyal32xXP6"
+    },
+    {
+      "album": {
         "name": "Been To The Mountain",
         "url": "https://open.spotify.com/album/79EPswgfIWpxNAr63nLWAs"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 327520,
       "name": "Been To The Mountain",
       "url": "https://open.spotify.com/track/7fqPyOPznptdLLOnD63d8g"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220796,
       "name": "Bonfire At Tina's",
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 247493,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/0NJXZQRMMGovlDAwktotqQ"
@@ -4410,10 +4428,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 224733,
       "name": "No Reservations",
       "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
+    },
+    {
+      "album": {
+        "name": "Norfolk Blues",
+        "url": "https://open.spotify.com/album/52KKsBzwQkRk6V023B6agW"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214208,
+      "name": "Norfolk Blues",
+      "url": "https://open.spotify.com/track/2Vcbe4OxUHnWZme46fcLgs"
     },
     {
       "album": {
@@ -5004,6 +5040,28 @@
       "duration_ms": 220885,
       "name": "Quittin' Time",
       "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169186,
+      "name": "Radio [Feat. Sharon Van Etten]",
+      "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Angela Torres.
+> Argentina en la casa! Foto: Albere.
 
 155 songs - 7 hr 33 min
 

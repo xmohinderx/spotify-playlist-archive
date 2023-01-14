@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 8 min
+51 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,11 @@
 | [Black Mire](https://open.spotify.com/track/6CCLJ76iRqM0ERHv15ntjX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 4:12 | 2022-09-16 | 2022-10-29 |
 | [Bottled Time](https://open.spotify.com/track/5AOTvul1pG5guRXeWvq1Za) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Dust & Bones](https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4) | 3:07 | 2022-11-17 |  |
 | [Bottled Time](https://open.spotify.com/track/6S3jt0KW7ZAxUOP360WEDE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Dust & Bones](https://open.spotify.com/album/0ZfE9R2b4E0cP0O2A58nZ3) | 3:07 | 2022-09-16 | 2022-11-18 |
-| [Bound](https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:36 | 2022-09-16 |  |
+| [Bound](https://open.spotify.com/track/6jsMPT55Il0q1VfaWaqBhy) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Open Door](https://open.spotify.com/album/6AzBVVQb8qfA92sPKWljH4) | 3:33 | 2023-01-14 |  |
+| [Bound](https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:36 | 2022-09-16 | 2023-01-14 |
 | [Bright Eyes](https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 2:57 | 2022-09-16 |  |
 | [Call of Horses](https://open.spotify.com/track/6v8FKws7OnXpmuafTQpH9X) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 5:33 | 2022-09-16 | 2022-10-13 |
-| [Chasing Knives](https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:54 | 2022-09-18 | 2022-10-22 |
+| [Chasing Knives](https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:54 | 2022-09-18 |  |
 | [Collider](https://open.spotify.com/track/3YXJiuIDgdL020cRiF0mK2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/04Gk32cZfKW7LoU1flIAWf) | 3:08 | 2022-09-16 | 2022-10-29 |
 | [Collider](https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs) | 3:08 | 2022-10-29 |  |
 | [Comfortably Numb](https://open.spotify.com/track/4ZkWXW2OtGj1a6XHMX0OOd) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Comfortably Numb](https://open.spotify.com/album/5W807C61706WSJAlIFBjW5) | 6:19 | 2022-09-16 | 2022-10-31 |

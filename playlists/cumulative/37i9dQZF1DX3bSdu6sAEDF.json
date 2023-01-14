@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
@@ -4618,6 +4618,24 @@
       "duration_ms": 206672,
       "name": "You're Already Gone",
       "url": "https://open.spotify.com/track/4DuquLkwkYPUJEgWRmq7dT"
+    },
+    {
+      "album": {
+        "name": "Your Internet Sucks",
+        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Your Internet Sucks",
+      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3bSdu6sAEDF"

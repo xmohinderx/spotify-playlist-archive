@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-313 songs - 16 hr 10 min
+314 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Southward Bound \(432 Hz\)](https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Southward Bound](https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr) | 2:34 | 2022-11-11 |  |
 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 | 2022-11-11 |  |
 | [Spirito](https://open.spotify.com/track/7t8ODF7MgfkJzRRkpNb4DP) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 4:38 | 2022-05-25 | 2022-09-28 |
-| [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-25 |  |
+| [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-25 | 2023-01-14 |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-09-27 |  |
 | [Stillness](https://open.spotify.com/track/6oVsQtNZKr5LjNRPSOprTr) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [Stillness](https://open.spotify.com/album/1Pl1k6Mkk5NVWy1BLzCi7H) | 3:31 | 2022-05-25 |  |
 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 | 2022-05-25 |  |
@@ -300,6 +300,7 @@
 | [True Awakening](https://open.spotify.com/track/0s7Qc2ytTasqhqjA9K2U2S) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 3:21 | 2022-05-25 | 2022-09-28 |
 | [Twin Peaks Theme](https://open.spotify.com/track/3eIxdm9dIgW7gtVdrIhanL) | [Tranquil Cove](https://open.spotify.com/artist/7wcYGhAdnlsglHP4ty9b26) | [Ambient Hits](https://open.spotify.com/album/6BVBcOJXOcrihLn9YSmEWQ) | 3:30 | 2022-05-25 | 2022-09-28 |
 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2022-07-15 |  |
+| [Unwind](https://open.spotify.com/track/3e1SIAaOU2ai7MGF77qxUi) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Unwind](https://open.spotify.com/album/7LX0QJNQOhEOEHGsHyUeie) | 2:15 | 2023-01-13 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-05-25 |  |
 | [Vast Surroundings](https://open.spotify.com/track/6xCgUaot7EEpxQRGtW7S0O) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:13 | 2022-05-25 |  |
 | [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-09-30 | 2023-01-10 |

@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-209 songs - 12 hr 28 min
+210 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Better Man](https://open.spotify.com/track/58vvWxNX1uQVs0ZRBAOfOi) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/3BTQHNtVLjqVHKIRb3CZwj) | 2:21 | 2021-10-01 | 2022-07-29 |
 | [Big Time](https://open.spotify.com/track/0OhZEVzS5iCdPyVANAqGqm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/5cYoVs8TyCVkTUr8vjpIFF) | 4:07 | 2022-06-01 | 2022-07-29 |
 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2022-06-01 |  |
-| [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2023-01-06 |  |
+| [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2023-01-05 |  |
 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 | 2022-06-01 |  |
 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 | 2021-10-01 | 2022-01-31 |
 | [Bossy](https://open.spotify.com/track/1WNtjvH8NmueY4kV10ZI93) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Bossy](https://open.spotify.com/album/3EF1kZp1nzZdHzYS7501za) | 3:18 | 2022-06-01 | 2022-07-20 |
@@ -126,7 +126,7 @@
 | [Monterey](https://open.spotify.com/track/6naEBVsSQonTSqTOsquBA9) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Monterey](https://open.spotify.com/album/2ttSZFH721F5dC6fbZznTb) | 3:28 | 2022-08-02 |  |
 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 | 2021-10-01 |  |
 | [Morning Terrors Nights of Dread](https://open.spotify.com/track/419cNVI2TzuYFlXmp4BNDU) | [Shilpa Ray](https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw) | [Door Girl](https://open.spotify.com/album/6DV3VOHDapKGREdDgjPrly) | 4:27 | 2021-10-01 | 2022-07-29 |
-| [Morning Terrors Nights of Dread](https://open.spotify.com/track/429zYwDePDJxSut57xtLFe) | [Shilpa Ray](https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw) | [Door Girl](https://open.spotify.com/album/3absnEPdv3f3dhTBCb6EYS) | 4:27 | 2022-06-01 |  |
+| [Morning Terrors Nights of Dread](https://open.spotify.com/track/429zYwDePDJxSut57xtLFe) | [Shilpa Ray](https://open.spotify.com/artist/2aBdKyqYmbMAxMFCujJSqw) | [Door Girl](https://open.spotify.com/album/3absnEPdv3f3dhTBCb6EYS) | 4:27 | 2022-06-01 | 2023-01-14 |
 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 | 2022-06-01 |  |
 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/4x1vhOOK3VJhhq9BkMNq9z) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/0pZUQKSLyTeTHIy0A4Q0Zb) | 5:52 | 2021-10-01 | 2022-07-29 |
 | [Never Been A Captain](https://open.spotify.com/track/70IqB1OoLQWVZExqbhMefW) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1L50DFmecIs4D04tbzlcsY) | 4:41 | 2021-10-01 | 2022-07-29 |
@@ -160,6 +160,7 @@
 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 | 2021-10-01 | 2022-11-13 |
 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 | 2022-08-02 |  |
 | [Rebel Heart](https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:58 | 2022-06-01 |  |
+| [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 | 2023-01-13 |  |
 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 | 2021-10-01 |  |
 | [Right Time](https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:21 | 2021-10-01 | 2022-07-23 |
 | [Riot In The Streets](https://open.spotify.com/track/0eLCcBWdvRM6yJSKMte1cj) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Riot In The Streets](https://open.spotify.com/album/2hcrGEtQpu9v79CoOEFYLL) | 3:40 | 2021-10-01 | 2022-07-29 |

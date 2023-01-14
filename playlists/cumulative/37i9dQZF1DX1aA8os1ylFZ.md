@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-260 songs - 13 hr 46 min
+261 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Control](https://open.spotify.com/track/73dizJioW3V6zacAOr1tg3) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [Covers](https://open.spotify.com/album/3uuBQUwNStdBuJs2Xoidbs) | 4:01 | 2021-12-16 | 2023-01-13 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-12-16 | 2023-01-13 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-01-12 |  |
+| [Do It Again](https://open.spotify.com/track/2bXsC1eJ9UftAkhmYRuLmA) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Do It Again](https://open.spotify.com/album/2XuZiWSqq5CgMNjUQVWjkx) | 2:37 | 2023-01-12 |  |
 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2023-01-12 |  |
 | [Don't Go Changing](https://open.spotify.com/track/0dNN5wjTkbJnQkOnzh9WUH) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Don't Go Changing](https://open.spotify.com/album/0dJk7K8gB2utiR1cUtWrzF) | 3:09 | 2021-12-16 | 2023-01-13 |
 | [Don't Let Me Go \- Acoustic](https://open.spotify.com/track/2Z7kD2hHqeAobmKvmOrM8z) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Don't Let Me Go](https://open.spotify.com/album/4ekuM8n60Nc0oahtk00eks) | 2:26 | 2021-12-16 | 2022-07-29 |
@@ -241,7 +242,7 @@
 | [Use Me](https://open.spotify.com/track/1lCuIWvYcXXxLheYI3wgyq) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF) | [Use Me](https://open.spotify.com/album/6JxNpOwdjprJWXSMJGJT5J) | 2:14 | 2022-02-10 | 2023-01-13 |
 | [Vibe Doesn't Lie](https://open.spotify.com/track/1k0y6lbJZ2YRIbDBECYTNF) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/2RVOqPHzhLkoVoBXX6J2mF) | 3:18 | 2022-07-22 | 2023-01-13 |
 | [Vibe Doesn't Lie](https://open.spotify.com/track/5sQ8edicOdj8xHNP0bIfx2) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/0h5cShxWVXZL92q4IlDwP2) | 3:18 | 2022-03-10 | 2022-10-14 |
-| [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2023-01-12 |  |
+| [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2023-01-12 | 2023-01-14 |
 | [Vibez](https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez](https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt) | 2:43 | 2023-01-12 |  |
 | [VICES](https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 3:03 | 2023-01-12 |  |
 | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/track/3cMAS9DjZHrAnKvPrTIw7Z) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F) | 2:33 | 2021-12-16 | 2022-01-21 |

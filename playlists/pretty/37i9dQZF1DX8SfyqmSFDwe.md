@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772,837 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,774,250 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 80 | [Quitate Tu Pa Ponerme Yo](https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 4:51 |
 | 81 | [La Locura Automática \- Reggaeton](https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4) | [La Secta](https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW), [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Reggaeton Viejo](https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An) | 4:05 |
 | 82 | [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 |
-| 83 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
+| 83 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
 | 84 | [Déjale Caer To' El Peso \(feat\. Yomo\)](https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk) | 4:08 |
 | 85 | [Mi Fanatica](https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 3:48 |
 | 86 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 |

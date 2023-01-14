@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 207303,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 211597,
       "name": "Lay",
       "url": "https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 151133,
       "name": "Lullaby (feat. Syd)",
       "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
@@ -1210,6 +1210,46 @@
       "duration_ms": 249106,
       "name": "Movies",
       "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
+    },
+    {
+      "album": {
+        "name": "Lyfe 268-192",
+        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Jennings",
+          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233440,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
+    },
+    {
+      "album": {
+        "name": "My Thoughts",
+        "url": "https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        },
+        {
+          "name": "KeKe Wyatt",
+          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268515,
+      "name": "My First Love",
+      "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
     },
     {
       "album": {
@@ -1970,6 +2010,24 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
+    },
+    {
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291906,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
     },
     {
       "album": {

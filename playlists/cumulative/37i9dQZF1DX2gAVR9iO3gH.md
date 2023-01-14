@@ -4,7 +4,7 @@
 
 > Miami me lo confirmó featuring Romeo Santos & Chris Lebron
 
-192 songs - 10 hr 53 min
+194 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 | 2022-05-25 | 2022-07-09 |
 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 | 2022-12-02 |  |
 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 | 2022-09-23 |  |
-| [Confesión](https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu) | 3:20 | 2022-08-19 |  |
+| [Confesión](https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu) | 3:20 | 2022-08-19 | 2023-01-14 |
+| [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 | 2023-01-09 |  |
 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 | 2022-05-25 | 2022-12-02 |
 | [CTRL](https://open.spotify.com/track/4QIQmXC0OI5ZEQPvwCXbdI) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [CTRL](https://open.spotify.com/album/6494FU89k0o3Kfgz9LqH9H) | 2:18 | 2022-08-19 |  |
 | [Dame Lu \- Remix](https://open.spotify.com/track/3lyi8wF8mZ3rET1MCXgEQj) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Dame Lu \(Remix\)](https://open.spotify.com/album/4nsSWLgnntv4HgUqNnfSd3) | 5:23 | 2022-09-23 | 2022-12-02 |
@@ -193,7 +194,8 @@
 | [Vapor](https://open.spotify.com/track/4yXBfJAPsDZjpjMEp9NyjT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:28 | 2022-12-02 | 2022-12-21 |
 | [Vapor](https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:28 | 2022-12-06 |  |
 | [Vaticano](https://open.spotify.com/track/6yJtb1FFa1fQ1V4p1Bx7w5) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Vaticano](https://open.spotify.com/album/5imyvG8HR56AqU6UKnEIgs) | 2:55 | 2022-05-25 | 2022-08-20 |
-| [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 | 2022-08-19 |  |
+| [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 | 2023-01-09 |  |
+| [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 | 2022-08-19 | 2023-01-14 |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-12-02 |  |
 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-12-02 |  |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-08 |  |

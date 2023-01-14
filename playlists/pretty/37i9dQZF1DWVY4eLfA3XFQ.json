@@ -1,13 +1,105 @@
 {
-  "description": "Tech house technicians, featuring ESSEL. ",
-  "num_followers": 572705,
+  "description": "Tech house technicians, featuring Sosa UK. ",
+  "num_followers": 572916,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDQ0Nzg1MmIwZDA2ZmVmN2U4Nzk0OWNhY2RhYWE1YmUz",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDA3ZGNmYmM1ODE4NjI3MTNlOGFkODIwZmFlOGJlZjI2",
   "tracks": [
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Bugbeat",
+        "url": "https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "Bugbeat",
+      "url": "https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Naquele Pique",
+        "url": "https://open.spotify.com/album/6fI3H75qJT7G9cnv1vLLvh"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 159975,
+      "name": "Naquele Pique",
+      "url": "https://open.spotify.com/track/05mKeQVuFbZWOG30zfwvAG"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Playin\u2019 Around",
+        "url": "https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Samuele Scelfo",
+          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Playin\u2019 Around",
+      "url": "https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB"
+    },
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
@@ -43,22 +135,6 @@
       "duration_ms": 226615,
       "name": "Lipstick (feat. Robbie Rise)",
       "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -121,6 +197,22 @@
       "url": "https://open.spotify.com/track/2j9Cp1haqQMOtpxwaoUn2e"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Sultan",
+        "url": "https://open.spotify.com/album/1A70Tdp7GctvhkDEwEvv6Q"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 166338,
+      "name": "Sultan",
+      "url": "https://open.spotify.com/track/1ERes0uWCuGgcSJrh9jTTi"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "In The Yuma (feat. Aatig)",
@@ -139,46 +231,6 @@
       "duration_ms": 156215,
       "name": "In The Yuma (feat. Aatig)",
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Naquele Pique",
-        "url": "https://open.spotify.com/album/6fI3H75qJT7G9cnv1vLLvh"
-      },
-      "artists": [
-        {
-          "name": "Gabe",
-          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
-        },
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 159975,
-      "name": "Naquele Pique",
-      "url": "https://open.spotify.com/track/05mKeQVuFbZWOG30zfwvAG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -215,6 +267,30 @@
       "duration_ms": 177204,
       "name": "Hendrix Flow",
       "url": "https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Music Is The Medication",
+        "url": "https://open.spotify.com/album/6rXEvtsxkwDdGqRpN0nthf"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "I Jah",
+          "url": "https://open.spotify.com/artist/2zoDXV6Ko316CBoCnGLDoS"
+        }
+      ],
+      "duration_ms": 192366,
+      "name": "Music Is The Medication",
+      "url": "https://open.spotify.com/track/5FRsalFMNTPxCPEzpoVCF4"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -401,6 +477,22 @@
       "url": "https://open.spotify.com/track/5fi3bVjGZQACpKP7cy4wYB"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Emphasis",
+        "url": "https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "Emphasis",
+      "url": "https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Pouring Rain",
@@ -419,6 +511,30 @@
       "duration_ms": 191612,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "The Last Goodbye (Hayden James Remix)",
+        "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
+      "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -459,26 +575,6 @@
       "duration_ms": 209794,
       "name": "On The Beach - Eli Brown Remix",
       "url": "https://open.spotify.com/track/2mHsfuHrY40djfLRFVxCm2"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl"
-      },
-      "artists": [
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1067,22 +1163,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Looking For Something EP",
-        "url": "https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0"
-      },
-      "artists": [
-        {
-          "name": "Sante Sansone",
-          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Looking For Something",
-      "url": "https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Remember (feat. Stevie Appleton) [Hannah Laing Remix]",
         "url": "https://open.spotify.com/album/64a0UqIlnTLywJPSdaBUrs"
       },
@@ -1423,26 +1503,6 @@
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/50cWoaxMOmyNqzpBhdzAD7"
-      },
-      "artists": [
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        },
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        }
-      ],
-      "duration_ms": 247634,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/6NFBQbUIMyF69QfEkgokqk"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1827,42 +1887,6 @@
       "duration_ms": 204094,
       "name": "Closure",
       "url": "https://open.spotify.com/track/4Ndpfmb5C6LTYJT9qOeOV1"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Don't Make Sense",
-        "url": "https://open.spotify.com/album/2ePUvWGz3ZKUUIGOZ0eFZl"
-      },
-      "artists": [
-        {
-          "name": "Claude VonStroke",
-          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
-        }
-      ],
-      "duration_ms": 372032,
-      "name": "Don't Make Sense",
-      "url": "https://open.spotify.com/track/3yMf03Q6Vqr1cXIYdUo1Mz"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Watcha Need (feat. Joy Farrukh)",
-        "url": "https://open.spotify.com/album/7q97V486Eb22gpy325ya5X"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        },
-        {
-          "name": "Joy Farrukh",
-          "url": "https://open.spotify.com/artist/6bYeMHJHXkOurzcYC2vkPC"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Watcha Need (feat. Joy Farrukh)",
-      "url": "https://open.spotify.com/track/3NliyvOp9V9n5zsTzGg2Ff"
     }
   ],
   "unique_name": "Operator",

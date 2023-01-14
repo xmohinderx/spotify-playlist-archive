@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,499 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,751 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 74 | [Mirage](https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mirage](https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc) | 4:20 |
 | 75 | [Mind Control \- Stephan Jolk Remix](https://open.spotify.com/track/2ig7zIzaD3omrWSgJdlx4W) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Mind Control Remixes](https://open.spotify.com/album/5ojPPLGixsheh2u3SXPYy5) | 5:12 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDM2M2NjY2RlYjg5YTBjZmYxMWY4OGQ2ZTg3ODMyOTAw`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDJjMDRmM2E5YjRhZWI2MDEyZjliYjM1NzlkYWE2OWQ0`

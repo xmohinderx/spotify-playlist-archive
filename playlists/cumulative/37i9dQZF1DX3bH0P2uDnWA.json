@@ -530,7 +530,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 164257,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 213015,
       "name": "Headless Horseman",
       "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
@@ -1570,6 +1570,32 @@
       "duration_ms": 216352,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO"
+    },
+    {
+      "album": {
+        "name": "Hit the Road Jack (Tech House Mix)",
+        "url": "https://open.spotify.com/album/4fBsTXzwLoKA5y6YMlefYe"
+      },
+      "artists": [
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        },
+        {
+          "name": "Dorade",
+          "url": "https://open.spotify.com/artist/1IC32zAAG7hcdf8PGjjDNm"
+        },
+        {
+          "name": "Maskarade",
+          "url": "https://open.spotify.com/artist/6xNIw26ydx4yTG1QJ5VZse"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171152,
+      "name": "Hit the Road Jack - Tech House Mix",
+      "url": "https://open.spotify.com/track/5fNIQLOnHUvmK0g2w6OgRm"
     },
     {
       "album": {
@@ -1966,8 +1992,8 @@
           "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
         },
         {
-          "name": "Might be Vero",
-          "url": "https://open.spotify.com/artist/0jupxdp3vnb3D29bU0jRo6"
+          "name": "Vero Nouk",
+          "url": "https://open.spotify.com/artist/2v0uFs8azjBPPdwtOd2fiE"
         }
       ],
       "date_added": "2022-11-25",
@@ -4306,6 +4332,28 @@
       "duration_ms": 226672,
       "name": "To the Bat Cave",
       "url": "https://open.spotify.com/track/5QQrPVZv6mlJ7rB3UEoZck"
+    },
+    {
+      "album": {
+        "name": "Tom's Diner (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/7oIVtGiQ1cZE8S5DKqh9dw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
+        },
+        {
+          "name": "Kasia Buja",
+          "url": "https://open.spotify.com/artist/0Raqt5611HhEAPm88g2aeg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191176,
+      "name": "Tom's Diner - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/1DvthxX5TD7RHuyOAM2H77"
     },
     {
       "album": {

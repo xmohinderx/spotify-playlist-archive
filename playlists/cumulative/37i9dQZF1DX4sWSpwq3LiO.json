@@ -5383,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "Santosha",
+        "url": "https://open.spotify.com/album/0i7YAD1BjzmuSWhrG6aex8"
+      },
+      "artists": [
+        {
+          "name": "Challem",
+          "url": "https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159433,
+      "name": "Decor",
+      "url": "https://open.spotify.com/track/1XA8P59ZUJRDRqB30BOuNV"
+    },
+    {
+      "album": {
         "name": "Decor",
         "url": "https://open.spotify.com/album/00JVC2TaTfUyLe43XMxjz0"
       },
@@ -5412,7 +5430,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 159433,
       "name": "Decor",
       "url": "https://open.spotify.com/track/798dMbomgbBMCgcLHXoHSe"

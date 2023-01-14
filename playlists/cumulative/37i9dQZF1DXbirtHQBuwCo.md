@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: xooos\(수스\)\)
 
-494 songs - 1 day 2 hr 51 min
+495 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Never Knew](https://open.spotify.com/track/0RdEsLhIT5fEbfnU3sQNRQ) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Never Knew](https://open.spotify.com/album/128eftIRWw4wv69Ioic5SV) | 3:31 | 2022-05-04 | 2022-06-10 |
 | [never know \(Mafia Mix\) \(Feat\. Paloalto, PUFF DAEHEE\)](https://open.spotify.com/track/3OdLXkWiLcdkjH8POKwQ9w) | [zin](https://open.spotify.com/artist/7KPRlWVq4NZrXWmHTseuTW), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [PUFF DAEHEE](https://open.spotify.com/artist/3JZuQV3uJJtoDkkWDNt1oJ) | [never know](https://open.spotify.com/album/6PbJqrmPhpFGlkYlw7XMcl) | 3:51 | 2022-08-18 | 2022-08-31 |
 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-12-09 | 2023-01-11 |
+| [Never Let Me Go](https://open.spotify.com/track/60O330MwrWVWCp9fpxzulM) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-01-14 |  |
 | [NEW GIRL \(feat\. Kid Milli\)](https://open.spotify.com/track/1Ga3nLN6OuWfYlVotVhBAy) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [NEW GIRL \(feat\. Kid Milli\)](https://open.spotify.com/album/2Q2A0i59Uk99vBKRjLvvKx) | 3:44 | 2022-04-19 | 2022-04-21 |
 | [nike \(feat\. Rovv\)](https://open.spotify.com/track/75JEZqR29zVCZQ4BE6iSii) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 3:07 | 2022-04-19 | 2022-04-21 |
 | [Nikon \(Prod\. Strawberrybananaclub\)](https://open.spotify.com/track/3Gs9FpGGc9bUwr8QDGoGzE) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:51 | 2022-11-09 | 2022-12-06 |
@@ -316,7 +317,7 @@
 | [No Type \(Prod\. hayul\)](https://open.spotify.com/track/022vyzDtNPZjI72vVyt66x) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-09 | 2022-11-23 |
 | [No way](https://open.spotify.com/track/3HXqyLcx0FcD6qZrFZ6GFf) | [Ban Estin](https://open.spotify.com/artist/3VphqJqtfCgQT3Sc5spgUR), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [No way](https://open.spotify.com/album/5b4Pzx6dW9s4cbIuAMYqCi) | 3:11 | 2022-07-24 | 2022-07-28 |
 | [No worries, I'm good](https://open.spotify.com/track/4knaEneI5Aus0Iro4Kn6PA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/2FP4cEo5GPPe1HnQDuOE6C) | 2:49 | 2022-12-03 | 2022-12-10 |
-| [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-04-19 |  |
+| [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-04-19 | 2023-01-14 |
 | [Not About You](https://open.spotify.com/track/4fVyrplBcb6lVgij1b8pIO) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:56 | 2022-08-12 | 2022-08-19 |
 | [Not Anymore](https://open.spotify.com/track/2HJ5BHQ3pguvRIiCXqXuL7) | [VAITEI](https://open.spotify.com/artist/3ql4XNI00x7aUyzk26dDNO) | [Not Anymore](https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X) | 2:49 | 2022-06-09 | 2022-06-19 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-05-28 | 2022-07-27 |

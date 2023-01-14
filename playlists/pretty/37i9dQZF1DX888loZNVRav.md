@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,100 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,149 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 48 | [Can't Take My Eyes off of You \- From "Jersey Boys"](https://open.spotify.com/track/77IRyrOkpKBIlNQu59zdvX) | [John Lloyd Young](https://open.spotify.com/artist/4QTd2YuZS6ShgqWfeREdB3) | [Jersey Boys Original Broadway Cast Recording](https://open.spotify.com/album/5sCVURwZOOd13unG0uJmNX) | 3:17 |
 | 49 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 |
 | 50 | [Can You Feel The Love Tonight](https://open.spotify.com/track/7zb4dWm9K6Hr4kk1pOwSDS) | [Heather Headley](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0), [Jason Raize](https://open.spotify.com/artist/7wtyPvLmy8LAf2CO0Xwy4p), [Max Casella](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8), [Tom Alan Robbins](https://open.spotify.com/artist/25X8ispTOFwbyfJEpkGh50), [Ensemble \- The Lion King](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp) | [The Lion King: Original Broadway Cast Recording](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) | 4:59 |
-| 51 | [The Human Heart](https://open.spotify.com/track/2SstrDmpPTmtHfpW9Z5Fy2) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Once On This Island Storytellers](https://open.spotify.com/artist/3CoXUJj9mSjynSVi2e9Ax4) | [Once on This Island \(New Broadway Cast Recording\)](https://open.spotify.com/album/4Gbxn6WBheHhcMXTC8jIQs) | 3:58 |
+| 51 | [The Human Heart](https://open.spotify.com/track/3hN5ozYYSzesDQGg6opMwg) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Once On This Island Storytellers](https://open.spotify.com/artist/2Am9K49DTac0Pf0YOa3qwF) | [Once on This Island \(New Broadway Cast Recording\)](https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi) | 3:58 |
 | 52 | [Last Night Of The World \- Live](https://open.spotify.com/track/6p6PB9VGzcPrz65D15UGHq) | [Miss Saigon Original Cast](https://open.spotify.com/artist/0HMbvm4fAT9B8bAV3mBMJY), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Alistair Brammer](https://open.spotify.com/artist/2gQyb8LfnPZdPHykQ17FMk) | [Miss Saigon: The Definitive Live Recording](https://open.spotify.com/album/2xUT7XzLvPodBwB2qpViK4) | 4:09 |
 | 53 | [All The Wasted Time](https://open.spotify.com/track/0ZBRs1C3g6nZykR7jPFPBi) | [Sierra Boggess](https://open.spotify.com/artist/6QB1J3JKvV9KXWu33g1r7W), [Julian Ovenden](https://open.spotify.com/artist/4MtwwZvqAt5fXJTV9dlnuu) | [Together At A Distance](https://open.spotify.com/album/59ninoXyrak9KxDAeGqVVi) | 4:42 |
 | 54 | [Song on the Sand](https://open.spotify.com/track/3LX9Tcu3b3gQGYYUmHvzqQ) | [Kelsey Grammer](https://open.spotify.com/artist/3GKxKd2D1EybXwKgXb0iPp), [Douglas Hodge](https://open.spotify.com/artist/41TGcX4Gl8saiG0wUI4Rkq) | [La Cage Aux Folles \(New Broadway Cast Recording\)](https://open.spotify.com/album/4iQ4C2Wtz3pXSXJs9KyxdV) | 4:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 74 | [What You Mean To Me \- Original Broadway Cast Recording](https://open.spotify.com/track/0M9CNqwzeyijhwOsL7ZXF7) | [Matthew Morrison](https://open.spotify.com/artist/3Fx1vJHj530oWC2AxnZq5z), [Laura Michelle Kelly](https://open.spotify.com/artist/6korWWGsk6Mbm51fHRzWdP) | [Finding Neverland \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3EO8LoU4K02HxE2RQ6eA9w) | 3:34 |
 | 75 | [All I've Ever Known](https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Reeve Carney](https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:03 |
 
-Snapshot ID: `MTY3MjI0OTY2OSwwMDAwMDAwMDk3MWE3MTBhNmI1Y2UxODU3NjBmOGFhMDgxMWM5MDk0`
+Snapshot ID: `MTY3MjI0OTY2OSwwMDAwMDAwMDE1NmYwYmU2YmY1NmY5YzRkZGRlMWM1NDhjZGRkOTQz`

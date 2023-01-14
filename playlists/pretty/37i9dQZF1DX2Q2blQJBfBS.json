@@ -1,13 +1,153 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 31840,
+  "num_followers": 32423,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGJkNjc5OTk3NDBjN2NmNmM4MWI5ODk5YWUwMmNlMDI0",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDAwMDI3NjAzZWQzOGNhZWZhNmFjMmU0M2Q2NjcwZGQw",
   "tracks": [
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "HERBERT",
+        "url": "https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 243618,
+      "name": "GOTTA RAP",
+      "url": "https://open.spotify.com/track/6BktHfgC3lb8szkKoy5lk9"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "YOD Presents: The Shining",
+        "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 177234,
+      "name": "Brinks Truck",
+      "url": "https://open.spotify.com/track/0abTpOdogNljPxfGX1mePE"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Reed Richards",
+        "url": "https://open.spotify.com/album/0FKaavI4Yci2nBpuRVJWQM"
+      },
+      "artists": [
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Reed Richards",
+      "url": "https://open.spotify.com/track/09eh6cOxW0eIriVnTHHEuN"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/02fWoTpbvMxNPNovxENfBW"
+      },
+      "artists": [
+        {
+          "name": "Monday Night",
+          "url": "https://open.spotify.com/artist/2McZu1EnlbfSEz7TG5jTQ3"
+        },
+        {
+          "name": "3wayslim",
+          "url": "https://open.spotify.com/artist/2LKHssgPWJJiBvSxBr6Ude"
+        }
+      ],
+      "duration_ms": 157838,
+      "name": "Kwanzaa",
+      "url": "https://open.spotify.com/track/3Xyt2ihA6IUTpPhuEzGiQf"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Beware of the Monkey",
+        "url": "https://open.spotify.com/album/52743dknIjnsCqQrKSIX5r"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Ipari Park",
+      "url": "https://open.spotify.com/track/2ZdG0AMgHunnhkhSCNuiqt"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "WORSHIP!",
+        "url": "https://open.spotify.com/album/44umuAHKYapRGNmTmMfCQr"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sinatra",
+          "url": "https://open.spotify.com/artist/1E3rzFDTfHIV06whRtoKmy"
+        }
+      ],
+      "duration_ms": 135263,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/5s0wa2KbTamHFDdABfDuAF"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "nobody home in soulville {ep}",
+        "url": "https://open.spotify.com/album/6zABKKibr0es2Z2UcXnupk"
+      },
+      "artists": [
+        {
+          "name": "Chester Watson",
+          "url": "https://open.spotify.com/artist/1vmLIa1VRY38hZoar8AyYS"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "day trip (clocks)",
+      "url": "https://open.spotify.com/track/7voRcwJoLV5OstiZfZYQL6"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "The Mind Of A Saint",
+        "url": "https://open.spotify.com/album/69xKJvae3fQJT7cDcIgCLq"
+      },
+      "artists": [
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        },
+        {
+          "name": "The Other Guys",
+          "url": "https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X"
+        }
+      ],
+      "duration_ms": 236725,
+      "name": "Eminent Domain",
+      "url": "https://open.spotify.com/track/2zjoR8YXRgNRibedPSREKy"
+    },
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
@@ -497,6 +637,22 @@
       "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
     },
     {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 98720,
+      "name": "Time: The Donut of the Heart",
+      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "This Thing Of Ours",
@@ -521,22 +677,6 @@
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 98720,
-      "name": "Time: The Donut of the Heart",
-      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "The Plugs I Met",
@@ -555,22 +695,6 @@
       "duration_ms": 268339,
       "name": "Crowns for Kings (Feat. Black Thought)",
       "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -617,7 +741,7 @@
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
-      "added_at": "2023-01-13 01:13:52",
+      "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
@@ -659,6 +783,22 @@
       "duration_ms": 161971,
       "name": "Black Balloons Reprise",
       "url": "https://open.spotify.com/track/2csZLnXBMuw6ETZuRxdUZF"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -907,22 +1047,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Why Worry",
-        "url": "https://open.spotify.com/album/7GAOMkrIBSwqvC28f8bXTj"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 150561,
-      "name": "Why Worry",
-      "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -1065,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
     },
     {
-      "added_at": "2023-01-13 01:13:52",
+      "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -1161,7 +1285,7 @@
       "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
     },
     {
-      "added_at": "2023-01-13 01:13:52",
+      "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "YOD Presents: The Shining",
         "url": "https://open.spotify.com/album/734gKy1eJWd5ZtWZ3XPFDM"
@@ -1399,22 +1523,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Fantastic, Vol. 2.10",
         "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
       },
@@ -1481,7 +1589,7 @@
       "url": "https://open.spotify.com/track/61asDMua0oGUCDXOhIsN0u"
     },
     {
-      "added_at": "2023-01-13 01:13:52",
+      "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "Narcan",
         "url": "https://open.spotify.com/album/4D1kEyNNQvPZy4sJ3togDl"
@@ -1595,26 +1703,6 @@
       "duration_ms": 227661,
       "name": "Reefer Clouds",
       "url": "https://open.spotify.com/track/6MryJ1KbKurnBs2ELzzrGh"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
-      },
-      "artists": [
-        {
-          "name": "Willie The Kid",
-          "url": "https://open.spotify.com/artist/0hZvVmOluFCV1ZjvvqtRB6"
-        },
-        {
-          "name": "V Don",
-          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
-        }
-      ],
-      "duration_ms": 107379,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
       "added_at": "2022-07-29 12:00:00",
@@ -1845,30 +1933,6 @@
       "url": "https://open.spotify.com/track/2HfwP1SaxQTGPwobr06lXP"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Dump YOD: Krutoy Edition",
-        "url": "https://open.spotify.com/album/5w84qVnNHvWnplOXOki2ch"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
-    },
-    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Royal (feat. Blu & Joell Ortiz)",
@@ -1899,82 +1963,6 @@
       "duration_ms": 213920,
       "name": "Royal (feat. Blu & Joell Ortiz)",
       "url": "https://open.spotify.com/track/5uzxflxVqVEbyukRQim0v4"
-    },
-    {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "Classic Nuts Vol. 1",
-        "url": "https://open.spotify.com/album/7KaF7n11alFO2bnACY7Ypi"
-      },
-      "artists": [
-        {
-          "name": "The Beatnuts",
-          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
-        },
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Cuban Link",
-          "url": "https://open.spotify.com/artist/1ZAujONMGo6GGiHxDQCGeA"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Off the Books (feat. Big Pun & Cuban Link)",
-      "url": "https://open.spotify.com/track/7bzw2mWw2pPAARJfZoapRN"
-    },
-    {
-      "added_at": "2022-10-29 04:00:00",
-      "album": {
-        "name": "Soon You'll Understand",
-        "url": "https://open.spotify.com/album/3y9LcyWa7gYevziWBx4wiu"
-      },
-      "artists": [
-        {
-          "name": "Monday Night",
-          "url": "https://open.spotify.com/artist/2McZu1EnlbfSEz7TG5jTQ3"
-        },
-        {
-          "name": "Heather Grey",
-          "url": "https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE"
-        }
-      ],
-      "duration_ms": 240501,
-      "name": "Randy Moss / Twenty-Six",
-      "url": "https://open.spotify.com/track/1fIsoghaCZ5i61AB9Lv5Is"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Tha Souf Got Sum 2 Say",
-        "url": "https://open.spotify.com/album/7b8a8EzAo2N6UPichCYdLJ"
-      },
-      "artists": [
-        {
-          "name": "MARCO PLUS",
-          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
-        }
-      ],
-      "duration_ms": 271775,
-      "name": "Neva Bend + Son of Sam",
-      "url": "https://open.spotify.com/track/4PfKc88Rb4ctJxgH7Ckvtn"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     }
   ],
   "unique_name": "The Skate Shop",

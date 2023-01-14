@@ -1,13 +1,29 @@
 {
-  "description": "New England music breaking waves. Cover, Meech",
-  "num_followers": 1228,
+  "description": "New England music breaking waves. Cover, Luke Bar$",
+  "num_followers": 1230,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQwOTAwNSwwMDAwMDAwMGJlNTk3ZjljMzFmYTI2ZTliYzQ3MGNjNTRmZGQ5YWM0",
+  "snapshot_id": "MTY3MzU5MTg4NiwwMDAwMDAwMDY4MjY2ZjEwOTQ0NzdhZmExMmI5ZGU3ZTNhYmNkNDk0",
   "tracks": [
+    {
+      "added_at": "2023-01-13 06:38:06",
+      "album": {
+        "name": "Angels Never Die",
+        "url": "https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "duration_ms": 166979,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1"
+    },
     {
       "added_at": "2022-12-02 21:40:57",
       "album": {
@@ -61,20 +77,40 @@
       "url": "https://open.spotify.com/track/4tFF4rUola2OtZbesM6PFo"
     },
     {
-      "added_at": "2022-12-30 14:03:25",
+      "added_at": "2023-01-13 06:38:06",
       "album": {
-        "name": "AND SOON",
-        "url": "https://open.spotify.com/album/4fIRYkHAwXFuBu4jhdUPwW"
+        "name": "Tables Turn",
+        "url": "https://open.spotify.com/album/7KABJMQEJ3zu9R31eMDPBC"
       },
       "artists": [
         {
           "name": "Luke Bar$",
           "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        },
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
         }
       ],
-      "duration_ms": 105600,
-      "name": "AND SOON",
-      "url": "https://open.spotify.com/track/2MG6HlcjrozHZgnNC0ic2i"
+      "duration_ms": 183963,
+      "name": "Tables Turn",
+      "url": "https://open.spotify.com/track/1jRA4kpssddqi0W6D6efva"
+    },
+    {
+      "added_at": "2023-01-13 06:38:06",
+      "album": {
+        "name": "RIDE THE WAVE!",
+        "url": "https://open.spotify.com/album/1qROXmq8dciE3jPJgyKlke"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 123649,
+      "name": "RIDE THE WAVE!",
+      "url": "https://open.spotify.com/track/5W8s7MrKDEk1j9gtD0TeQm"
     },
     {
       "added_at": "2022-12-30 14:03:25",
@@ -205,6 +241,22 @@
       "url": "https://open.spotify.com/track/42GQNRreA17dEBYxevJtpJ"
     },
     {
+      "added_at": "2023-01-13 06:38:06",
+      "album": {
+        "name": "21 (rushed)",
+        "url": "https://open.spotify.com/album/4zeD7Bmtq6sCiAhyiYOkop"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "21 (rushed)",
+      "url": "https://open.spotify.com/track/4eYCtzuYSoe70Wu9u4lsNc"
+    },
+    {
       "added_at": "2022-12-02 21:40:57",
       "album": {
         "name": "Trippin",
@@ -293,6 +345,22 @@
       "url": "https://open.spotify.com/track/60flkro3V81oYYSo6uceUo"
     },
     {
+      "added_at": "2022-12-30 14:03:25",
+      "album": {
+        "name": "AND SOON",
+        "url": "https://open.spotify.com/album/4fIRYkHAwXFuBu4jhdUPwW"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "AND SOON",
+      "url": "https://open.spotify.com/track/2MG6HlcjrozHZgnNC0ic2i"
+    },
+    {
       "added_at": "2022-09-30 22:42:10",
       "album": {
         "name": "Lord Flow",
@@ -307,22 +375,6 @@
       "duration_ms": 163343,
       "name": "Lord Flow",
       "url": "https://open.spotify.com/track/5me40Wxw2M3Ubpcac1w8Mo"
-    },
-    {
-      "added_at": "2022-09-09 19:33:50",
-      "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": "2022-09-09 19:33:50",
@@ -577,22 +629,6 @@
       "url": "https://open.spotify.com/track/2DAWd9getY6cG4mpUOBdt4"
     },
     {
-      "added_at": "2022-12-30 14:03:25",
-      "album": {
-        "name": "Get The Gat",
-        "url": "https://open.spotify.com/album/48THGiijGql0YItnekn1C8"
-      },
-      "artists": [
-        {
-          "name": "Luke Bar$",
-          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
-        }
-      ],
-      "duration_ms": 132017,
-      "name": "Get The Gat",
-      "url": "https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn"
-    },
-    {
       "added_at": "2022-10-25 18:05:16",
       "album": {
         "name": "GLOCK WALK",
@@ -647,22 +683,6 @@
       "duration_ms": 151579,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/0b0ZGaHZoPC5dcrsjnDu08"
-    },
-    {
-      "added_at": "2022-09-30 22:42:10",
-      "album": {
-        "name": "By Now",
-        "url": "https://open.spotify.com/album/2SFtO9DqVuZuK7X0znR1pm"
-      },
-      "artists": [
-        {
-          "name": "Najee Janey",
-          "url": "https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/29bVVMiVYtBoDhV56nQuyR"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -745,6 +765,26 @@
       "url": "https://open.spotify.com/track/7CL7eL9XeEXV7lLN2NkvIJ"
     },
     {
+      "added_at": "2023-01-13 06:38:06",
+      "album": {
+        "name": "ROXBURY XMAS",
+        "url": "https://open.spotify.com/album/0tF0pLf3KPclrIRdNVtf5V"
+      },
+      "artists": [
+        {
+          "name": "Maye Star",
+          "url": "https://open.spotify.com/artist/6tIaLRmjzCYkWZ71pmaBFr"
+        },
+        {
+          "name": "Milkshaw Benedict",
+          "url": "https://open.spotify.com/artist/2IfyFWtOkkV4HgQIEDjIRO"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "ROXBURY XMAS",
+      "url": "https://open.spotify.com/track/33azAH3MN2gbRWUHScsVGN"
+    },
+    {
       "added_at": "2022-12-02 21:40:57",
       "album": {
         "name": "Talk To My City, I Know They Listening",
@@ -797,24 +837,48 @@
       "url": "https://open.spotify.com/track/5lbUq4I5aA8a8KXD4F74mu"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
+      "added_at": "2023-01-13 06:38:06",
       "album": {
-        "name": "AMARGO",
-        "url": "https://open.spotify.com/album/6chzwZs0XxkACWKqDIqtyG"
+        "name": "Long As I Live",
+        "url": "https://open.spotify.com/album/2N95cCOlPG0EtDrCcNM4zk"
       },
       "artists": [
         {
-          "name": "Nino Francis",
-          "url": "https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr"
+          "name": "P. Lowe",
+          "url": "https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa"
         },
+        {
+          "name": "M&n Pro",
+          "url": "https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK"
+        },
+        {
+          "name": "Lennie de Souza",
+          "url": "https://open.spotify.com/artist/4cPlcdKPhfmqJkkKc1ay4U"
+        }
+      ],
+      "duration_ms": 298166,
+      "name": "Long As I Live",
+      "url": "https://open.spotify.com/track/2zyD7OKTv8zPNIjCl0SNdY"
+    },
+    {
+      "added_at": "2023-01-13 06:38:06",
+      "album": {
+        "name": "BillyBlue",
+        "url": "https://open.spotify.com/album/5GSY7gTZ8mZkNTeA6MgXo0"
+      },
+      "artists": [
         {
           "name": "Riel Santana",
           "url": "https://open.spotify.com/artist/5lqkAKnq679k0QQWD3tqcd"
+        },
+        {
+          "name": "Heavyjay809",
+          "url": "https://open.spotify.com/artist/3vqLRQhAdNZHnzSYbGmstr"
         }
       ],
-      "duration_ms": 181368,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/0IIYgRbAacTBPBhBvqJyMA"
+      "duration_ms": 162493,
+      "name": "BillyBlue",
+      "url": "https://open.spotify.com/track/1XV9RTgnzM9tN5fS5Be1qu"
     },
     {
       "added_at": "2022-09-16 21:07:32",
@@ -835,26 +899,6 @@
       "duration_ms": 151462,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/01uqWW7DLwj0L7DCq9yX34"
-    },
-    {
-      "added_at": "2022-09-01 14:39:30",
-      "album": {
-        "name": "Prend\u00edo",
-        "url": "https://open.spotify.com/album/4Ch7xOR54Wxka7R6CLPEfv"
-      },
-      "artists": [
-        {
-          "name": "Partywithrami",
-          "url": "https://open.spotify.com/artist/61gpgVeT7ElOAy5IiItoCx"
-        },
-        {
-          "name": "Tatto RD",
-          "url": "https://open.spotify.com/artist/3lcIJzukw4BIRATVEYXisw"
-        }
-      ],
-      "duration_ms": 190393,
-      "name": "Prend\u00edo",
-      "url": "https://open.spotify.com/track/3Sj44uPrlioAmGR8c5zCKv"
     },
     {
       "added_at": "2022-06-07 21:56:35",
@@ -889,26 +933,6 @@
       "url": "https://open.spotify.com/track/36aRN8cZQOsNCzflng8p4u"
     },
     {
-      "added_at": "2022-09-01 14:39:30",
-      "album": {
-        "name": "MOMMA i MAKE ART: SEE YOUR BOY IS NOT A LOSER!",
-        "url": "https://open.spotify.com/album/6uDLjfr1RrtYJOxkivdSFs"
-      },
-      "artists": [
-        {
-          "name": "WHYTRI",
-          "url": "https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys"
-        },
-        {
-          "name": "Jon Glass",
-          "url": "https://open.spotify.com/artist/1u2PrmG6RI8ldR2974GdMn"
-        }
-      ],
-      "duration_ms": 162058,
-      "name": "PROUD OF YOU TRI",
-      "url": "https://open.spotify.com/track/09COZZ6scdIaRSP8KQl2nV"
-    },
-    {
       "added_at": "2022-12-02 21:40:57",
       "album": {
         "name": "META",
@@ -927,22 +951,6 @@
       "duration_ms": 116767,
       "name": "META",
       "url": "https://open.spotify.com/track/69pzcNpanhADxvrySSBRfG"
-    },
-    {
-      "added_at": "2022-12-30 14:03:25",
-      "album": {
-        "name": "Don't You Want a Dance",
-        "url": "https://open.spotify.com/album/7JhYplmnPrrC41tOPRGiIi"
-      },
-      "artists": [
-        {
-          "name": "Kevin George",
-          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "Don't You Want a Dance",
-      "url": "https://open.spotify.com/track/6QjNAhZeUolYYMmRcCrZOz"
     }
   ],
   "unique_name": "Ripple Effect: New England",

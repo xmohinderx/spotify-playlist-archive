@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,427 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,487 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 15 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
 | 16 | [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 |
 | 17 | [The Encounters \- Silent Poets Remix](https://open.spotify.com/track/5QTqbpSEZKLPG9IVVG08ko) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Silent Poets](https://open.spotify.com/artist/0v8kJy6pfyJsO20V77miAI) | [The Encounters \(Silent Poets Remix\)](https://open.spotify.com/album/3v3qmBZy8dW8pWYp2L8txf) | 6:26 |
-| 18 | [こんな夜だから](https://open.spotify.com/track/5Ralo2KHQoYP0BlxPS317J) | [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG) | [こんな夜だから](https://open.spotify.com/album/6cI5c2QvIDJhLVtbdUgsEA) | 3:04 |
+| 18 | [Konna Yoru Dakara](https://open.spotify.com/track/1o4Q88xRSLjA5DbIBChOst) | [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG) | [Konna Yoru Dakara](https://open.spotify.com/album/6M1NO2vixcPRER6o4xcvnU) | 3:04 |
 | 19 | [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 |
 | 20 | [Version Blue](https://open.spotify.com/track/6oOgdj7i9Mql2NDIhDBZX0) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Playing Nowhere](https://open.spotify.com/album/3oiGkzurwVioYdQd3dqrNo) | 4:35 |
 | 21 | [Round & Round](https://open.spotify.com/track/1IoMNOQ6m4GQjc1HP8oe9M) | [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Round & Round](https://open.spotify.com/album/1sTIeDRLjYnAOgI2Qe7nK9) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 60 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGNjNjhmNTJmNmNiNTllNWYzYWNiMTNhNTZlZWU2NzBi`
+Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGQ0ZDI4ZWU2MmQ2OGQwYWViMDIwZmYzYzg2OTJkNmNi`

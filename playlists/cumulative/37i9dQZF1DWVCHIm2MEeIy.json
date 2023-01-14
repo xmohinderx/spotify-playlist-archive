@@ -145,6 +145,24 @@
     },
     {
       "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -435,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Barry",
+        "url": "https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409844,
+      "name": "Barry",
+      "url": "https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF"
+    },
+    {
+      "album": {
         "name": "Beide alleine",
         "url": "https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte"
       },
@@ -498,6 +534,28 @@
       "duration_ms": 364146,
       "name": "Better Mind - Original Mix",
       "url": "https://open.spotify.com/track/5tPhxNJsIAe7LKSJ7bhy1C"
+    },
+    {
+      "album": {
+        "name": "The Future Is Past",
+        "url": "https://open.spotify.com/album/2imy0VhO06dOf7nJG5mYiC"
+      },
+      "artists": [
+        {
+          "name": "Sezer Uysal",
+          "url": "https://open.spotify.com/artist/4y0Bho33I93MMxrgsRwMOj"
+        },
+        {
+          "name": "Khainz",
+          "url": "https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422954,
+      "name": "Beyond the Veil",
+      "url": "https://open.spotify.com/track/1bjzfytg5QSOFtG9jDBr4g"
     },
     {
       "album": {
@@ -763,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
+    },
+    {
+      "album": {
         "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
         "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
       },
@@ -834,7 +910,7 @@
           "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
         }
       ],
-      "date_added": "2022-12-31",
+      "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208358,
@@ -942,7 +1018,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 401750,
       "name": "Confide (Contour 1)",
       "url": "https://open.spotify.com/track/6GbgqFsJbytKNRlmcZIHqL"
@@ -1228,7 +1304,7 @@
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "date_added": "2022-12-31",
+      "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250702,
@@ -1910,7 +1986,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 407419,
       "name": "Gummihammer",
       "url": "https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi"
@@ -2196,7 +2272,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 430016,
       "name": "I Believe in Bass",
       "url": "https://open.spotify.com/track/0dUCqSb59SrJm7I2sl8HSY"
@@ -2236,7 +2312,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 224000,
       "name": "I Go - Edit",
       "url": "https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4"
@@ -2784,7 +2860,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 412859,
       "name": "Loving You Like Always - Sainte Vie Remix",
       "url": "https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d"
@@ -2868,7 +2944,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 163909,
       "name": "Make You Scream",
       "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
@@ -3336,7 +3412,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 244513,
       "name": "Paradise - \u00c2me Remix",
       "url": "https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs"
@@ -3763,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Revision",
+        "url": "https://open.spotify.com/album/5zfHOeT9bFwQQm8H95crzB"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433170,
+      "name": "Revision",
+      "url": "https://open.spotify.com/track/6Sx4f9KKwMl2YRguEqiL0A"
+    },
+    {
+      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -3808,6 +3902,28 @@
       "duration_ms": 247441,
       "name": "Riddm - DJ \u00c6DIDIAS Remix",
       "url": "https://open.spotify.com/track/6AlWtGphjy0VWq2mpOEWqe"
+    },
+    {
+      "album": {
+        "name": "Rituals",
+        "url": "https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J"
+      },
+      "artists": [
+        {
+          "name": "Steand",
+          "url": "https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI"
+        },
+        {
+          "name": "Andy Kulter",
+          "url": "https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357559,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO"
     },
     {
       "album": {
@@ -3938,7 +4054,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 424332,
       "name": "She Could!",
       "url": "https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d"
@@ -4582,7 +4698,7 @@
           "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
         }
       ],
-      "date_added": "2022-12-31",
+      "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 403676,
@@ -4744,7 +4860,7 @@
           "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "date_added": "2022-12-31",
+      "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224274,
@@ -4950,6 +5066,46 @@
       "duration_ms": 439680,
       "name": "Vodka & Orange",
       "url": "https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL"
+      },
+      "artists": [
+        {
+          "name": "Alex Kennon",
+          "url": "https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a"
+    },
+    {
+      "album": {
+        "name": "Unfold Voices Remixes",
+        "url": "https://open.spotify.com/album/5nLteuz9han8SVe4foGVCS"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        },
+        {
+          "name": "Malandra Jr.",
+          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425348,
+      "name": "Voices - Malandra Jr. Remix",
+      "url": "https://open.spotify.com/track/2z52FxRUYc13V25jBtI9PL"
     },
     {
       "album": {

@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Kibou",
+        "url": "https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq"
+      },
+      "artists": [
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Kibou",
+      "url": "https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV"
+    },
+    {
+      "album": {
         "name": "My Story, The Buraku Story (An Original Soundtrack)",
         "url": "https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP"
       },
@@ -2088,6 +2106,24 @@
       "duration_ms": 186368,
       "name": "Prepare",
       "url": "https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx"
+    },
+    {
+      "album": {
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Rear View",
+      "url": "https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A"
     },
     {
       "album": {
@@ -3214,6 +3250,28 @@
       "duration_ms": 371866,
       "name": "Water Copy",
       "url": "https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48"
+    },
+    {
+      "album": {
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP"
+      },
+      "artists": [
+        {
+          "name": "Tsugi-Hagi",
+          "url": "https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf"
+        },
+        {
+          "name": "Republyric",
+          "url": "https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Whales",
+      "url": "https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0"
     },
     {
       "album": {

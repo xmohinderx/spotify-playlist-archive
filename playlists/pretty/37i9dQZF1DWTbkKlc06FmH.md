@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,501 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,659 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 31 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 32 | [Another One](https://open.spotify.com/track/0hI90Rfg7XR90i773C7EPo) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Another One](https://open.spotify.com/album/0pKHkskgK1hYJFkrpEGyZq) | 2:50 |
 | 33 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 |
-| 34 | [こんな夜だから](https://open.spotify.com/track/5Ralo2KHQoYP0BlxPS317J) | [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG) | [こんな夜だから](https://open.spotify.com/album/6cI5c2QvIDJhLVtbdUgsEA) | 3:04 |
+| 34 | [Konna Yoru Dakara](https://open.spotify.com/track/1o4Q88xRSLjA5DbIBChOst) | [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG) | [Konna Yoru Dakara](https://open.spotify.com/album/6M1NO2vixcPRER6o4xcvnU) | 3:04 |
 | 35 | [enemy](https://open.spotify.com/track/1qCnJZRn6iAXbWOCfiFhak) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [enemy](https://open.spotify.com/album/4qRXeEzlFMUJozSzXGCDX4) | 3:46 |
 | 36 | [Bayside Lover](https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe) | 3:26 |
 | 37 | [escape](https://open.spotify.com/track/69CmBp10fwZ0n1jtGvH1ts) | [CBS](https://open.spotify.com/artist/7AHhB1P3XhzSw4oPT2unag) | [Classic Brown Sounds 2](https://open.spotify.com/album/6ZMduZkmgybXYfnO2SflMF) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 79 | [SEOUL DRIFT](https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [SEOUL DRIFT](https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC) | 3:19 |
 | 80 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGUwMjFmZDFjMDc3OTVhZWU0ZjdmM2U1MmZhNmM4ZmI3`
+Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMDJjNzk2OWNlMWRkMGYxZTc3ZTAwZDRkZTJjNmY5ODEx`

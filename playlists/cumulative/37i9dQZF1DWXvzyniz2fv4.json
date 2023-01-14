@@ -869,6 +869,36 @@
     },
     {
       "album": {
+        "name": "Interfone",
+        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Juanzin",
+          "url": "https://open.spotify.com/artist/2PWtdYOUTo0ZBgHbCab8H0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Interfone",
+      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+    },
+    {
+      "album": {
         "name": "Ir Embora",
         "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },
@@ -1080,6 +1110,28 @@
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
+    },
+    {
+      "album": {
+        "name": "Marquinha",
+        "url": "https://open.spotify.com/album/2v8M0Lrx542HX0W11xEeVp"
+      },
+      "artists": [
+        {
+          "name": "Yan Silvestre",
+          "url": "https://open.spotify.com/artist/6pm78bdVnxw8tyRluvJlhZ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Marquinha",
+      "url": "https://open.spotify.com/track/4killZKEjakHnPgOPKzHL1"
     },
     {
       "album": {

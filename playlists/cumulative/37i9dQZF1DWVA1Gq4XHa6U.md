@@ -4,7 +4,7 @@
 
 > Taking it way back! Cover: Cam'ron
 
-193 songs - 13 hr 48 min
+194 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Shut Up \(feat\. Duece Poppito of 24 Karatz, Trina, & Co of Tre +\)](https://open.spotify.com/track/66MsAs4nVj68t6va1lygIm) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Duece Poppito](https://open.spotify.com/artist/76ir7a6NKz1Cx5nixMtUxB), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Co of Tre +6](https://open.spotify.com/artist/6OM5vgzcjqfl2LzRO0ECF3) | [Book of Thugs: Chapter AK Verse 47](https://open.spotify.com/album/3GOuHgx0OeU8IIaDd5s9JG) | 4:22 | 2021-03-05 | 2022-02-12 |
 | [Slippin'](https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Flesh Of My Flesh, Blood Of My Blood](https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T) | 5:05 | 2021-04-09 | 2022-02-12 |
 | [Smile](https://open.spotify.com/track/2wxO3ZydJTZRi4Bbc02q7i) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/5wmfZWzWjS1UARhcZSirf4) | 5:00 | 2021-03-05 | 2022-02-12 |
-| [Smile](https://open.spotify.com/track/3q0e7q1txYuW8rRzCqzRBS) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/0GpeXsjkK2xLv2xTDEWn45) | 5:00 | 2022-09-29 |  |
+| [Smile](https://open.spotify.com/track/3q0e7q1txYuW8rRzCqzRBS) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/0GpeXsjkK2xLv2xTDEWn45) | 5:00 | 2022-09-29 | 2023-01-14 |
 | [Smoke Buddah](https://open.spotify.com/track/3eY9pixHny3kVRLeqNezQx) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters](https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h) | 2:34 | 2021-12-14 | 2022-02-12 |
 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 | 2022-05-26 |  |
 | [Some Cut \(feat\. Cutty\)](https://open.spotify.com/track/07u02f6biDHx5VexfAs41b) | [Trillville](https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY), [Cutty](https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB) | [The King Of Crunk & BME Recordings Present: Welcome to Trillville USA](https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu) | 4:43 | 2022-03-13 | 2022-10-05 |
@@ -173,6 +173,7 @@
 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 | 2022-10-20 |  |
 | [Ten Crack Commandments \- 2014 Remaster](https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:24 | 2021-03-05 | 2022-02-12 |
 | [That Girl](https://open.spotify.com/track/1Vl4ESWb6U7gKSPfK4qenq) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:01 | 2022-02-11 | 2022-03-14 |
+| [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 | 2023-01-13 |  |
 | [The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 3:54 | 2021-07-02 | 2022-02-12 |
 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 | 2022-02-11 |  |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2022-02-15 | 2022-05-27 |

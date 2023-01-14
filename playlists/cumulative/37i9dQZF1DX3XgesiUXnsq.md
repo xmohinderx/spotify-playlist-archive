@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: The Alchemist
 
-274 songs - 15 hr 19 min
+275 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [E\-Z on the Motion](https://open.spotify.com/track/7v0NXl6RTU9XMhHrUp0gQJ) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU) | [E\-Z on the Motion / Hard Copy](https://open.spotify.com/album/4FP694zjOnV4aPP6c8wn5a) | 3:58 | 2022-04-29 |  |
 | [E\. Coli \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/3GXSywNvYLAVUCtjMHkKDh) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Bread](https://open.spotify.com/album/6HB5Nq7lSjvTs3gJom6BXI) | 2:12 | 2022-12-16 |  |
 | [Earth, Wind & Fire](https://open.spotify.com/track/4IO7F7UsuktRmQiAl9PoTc) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [Earth, Wind & Fire](https://open.spotify.com/album/4yUM68qkDkpZvGqgLCtqe2) | 2:55 | 2022-04-29 | 2022-06-25 |
-| [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-04-29 |  |
+| [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-04-29 | 2023-01-14 |
 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 | 2022-04-29 |  |
 | [ETA \(with Snoop Dogg, Busta Rhymes & Anderson .Paak\)](https://open.spotify.com/track/0bzX26mfmUi0djOLemE2b8) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [ETA \(with Snoop Dogg, Busta Rhymes & Anderson .Paak\)](https://open.spotify.com/album/6F7pAFd441t7xmlYit9I9L) | 3:57 | 2022-04-29 | 2022-10-29 |
 | [Ether](https://open.spotify.com/track/1Mxs3wyD4S81j9vpF6A6ov) | [EdwOrdS](https://open.spotify.com/artist/3Wps34Gtn7dTxmDADXDBBJ) | [Low Key EP](https://open.spotify.com/album/4oxBXOoRIccgbrtGMHYonQ) | 2:51 | 2022-06-10 | 2022-08-27 |
@@ -242,6 +242,7 @@
 | [The Highs & The Lows](https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Highs & The Lows](https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a) | 4:15 | 2022-06-17 |  |
 | [The I.N.C\. Ride](https://open.spotify.com/track/37iYAAUVZezZRmgTGnWbhY) | [Masta Ace Incorporated](https://open.spotify.com/artist/2tcM9c26zzqpFdijVdVwuB) | [Sittin' On Chrome](https://open.spotify.com/album/2q1spdp27utA1XbwK9Eb7q) | 4:10 | 2022-04-29 | 2022-07-16 |
 | [The Learning \(Burn\) \(feat\. Big Noyd\)](https://open.spotify.com/track/20ccLIFUpfzgX5kSbDakH4) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Big Noyd](https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F) | [Infamy](https://open.spotify.com/album/2hSnMHuLYfpp8hvdpZRjAk) | 4:15 | 2022-11-11 | 2022-11-19 |
+| [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 | 2023-01-14 |  |
 | [The Scoop On Heaven](https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:43 | 2022-07-22 |  |
 | [The Title](https://open.spotify.com/track/5AcNJ4zqJEDKjO4ZZhCUTS) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [The Title](https://open.spotify.com/album/2ZxNKF3uu9vW4auJRfSqx2) | 2:43 | 2022-08-12 | 2022-11-19 |
 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 | 2022-07-22 |  |

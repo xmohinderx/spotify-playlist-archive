@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-155 songs - 8 hr 18 min
+156 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cosmic Awareness](https://open.spotify.com/track/4piid7tPoN2WkIqAxathMC) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awareness](https://open.spotify.com/album/3hecCEF63VmN2b0ZUbhMAV) | 4:28 | 2021-12-10 | 2022-07-29 |
 | [Crescent Moon](https://open.spotify.com/track/54aSz8TCN9F3UmYBao3S6Q) | [Cameron Heap](https://open.spotify.com/artist/4vYseAXrGI36H1oD7MM054) | [Crescent Moon](https://open.spotify.com/album/6i0LnT3zpICqfc2kD5N4wj) | 2:36 | 2021-12-10 |  |
 | [Cwtch](https://open.spotify.com/track/7ljE0RT8coNsbBYAhGOilP) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwtch](https://open.spotify.com/album/3AQOCwhGHVw8pfKTn8ZBNt) | 2:31 | 2021-12-10 |  |
+| [Dawning](https://open.spotify.com/track/2OqSCeCuxFkMyXHV2tzNBG) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning](https://open.spotify.com/album/2RgLANbWOUnPesH8imnEZw) | 2:23 | 2023-01-13 |  |
 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 | 2021-12-10 |  |
 | [Drapier's Letters](https://open.spotify.com/track/2s7tc96Wb1bN80mhXr2ao4) | [Enlightened Spaces](https://open.spotify.com/artist/0t2TYx0kWvbBu9s9OwGBhG) | [Drapier's Letters](https://open.spotify.com/album/5BZDUeEv57uJKYMSmyUv2o) | 2:42 | 2021-12-10 |  |
 | [Dusk](https://open.spotify.com/track/2aNBp9LFC8M9LG08Emc02A) | [Amanda Narjus](https://open.spotify.com/artist/2ovZf6yEaQI0zPwVK6Pfnu) | [Dusk](https://open.spotify.com/album/0hde9bIuxtlCFGByHbCtfF) | 3:33 | 2021-12-10 |  |
@@ -93,7 +94,7 @@
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2021-12-10 |  |
 | [milagro](https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [milagro](https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC) | 3:02 | 2022-12-02 |  |
 | [Mind\-Drift](https://open.spotify.com/track/53sNuDhuyhtVTPNXbk4dEN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Drift Off](https://open.spotify.com/album/6LMJYwLucOwVe1Nex4vxah) | 4:00 | 2021-12-10 |  |
-| [Mindful Composition](https://open.spotify.com/track/3nV4LSDVjCjv2hDeeTkvCH) | [Enzo Electronic](https://open.spotify.com/artist/4kyWODlwZxF4tiAe4LblhX) | [Mindful Composition](https://open.spotify.com/album/5WgvNWZyUGSx2MShXGAsN4) | 3:29 | 2021-12-10 |  |
+| [Mindful Composition](https://open.spotify.com/track/3nV4LSDVjCjv2hDeeTkvCH) | [Enzo Electronic](https://open.spotify.com/artist/4kyWODlwZxF4tiAe4LblhX) | [Mindful Composition](https://open.spotify.com/album/5WgvNWZyUGSx2MShXGAsN4) | 3:29 | 2021-12-10 | 2023-01-14 |
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2021-12-10 |  |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-12-10 |  |
 | [Monsoon](https://open.spotify.com/track/0FXj7j1qnZ33pPfZJsdYVE) | [Tokyo Atmospheres](https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r) | [Tokyo Atmospheres](https://open.spotify.com/album/23nI7Is88g5gn0kzKevRmr) | 3:51 | 2022-06-29 |  |

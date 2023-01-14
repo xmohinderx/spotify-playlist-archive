@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 169568,
+  "num_followers": 169793,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGViMTQzZjUzZGZhYmFlNjYyNDAwOWE0NjBhNzk1NWQz",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGUxOTMxNTZmYmJmNWU1Yzc3NTVhMDI1NDU5NDY4NjVh",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -109,6 +109,26 @@
       "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Galaxias",
+        "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 236905,
+      "name": "Galaxias (Radio Edit)",
+      "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "I Can See Your House From Here",
@@ -159,6 +179,30 @@
       "duration_ms": 353666,
       "name": "Bad Asteroid",
       "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "VHS Fireplace Love (Live)",
+        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "SmokeFace",
+          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "VHS Fireplace Love - Live",
+      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -439,26 +483,6 @@
       "duration_ms": 243000,
       "name": "Hard-Wired",
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Galaxias",
-        "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 236905,
-      "name": "Galaxias (Radio Edit)",
-      "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1459,30 +1483,6 @@
       "duration_ms": 378927,
       "name": "Aslan",
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Eastern Kaleidoscope",
-        "url": "https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI"
-      },
-      "artists": [
-        {
-          "name": "Usein Bekirov",
-          "url": "https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y"
-        },
-        {
-          "name": "Max Malyshev",
-          "url": "https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw"
-        },
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 384356,
-      "name": "Eastern Kaleidoscope",
-      "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     }
   ],
   "unique_name": "Fusion Fest",

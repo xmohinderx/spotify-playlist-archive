@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-537 songs - 1 day 0 hr 0 min
+540 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Awash](https://open.spotify.com/track/52yJEEIQMe7WbhGGqR8myV) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Nutrients](https://open.spotify.com/album/7ApnDVqkJTEWUB7ye95jVd) | 1:54 | 2022-01-13 | 2022-07-08 |
 | [B\-Boy Meets B\-Girl](https://open.spotify.com/track/5n0NIb4O98klpL6E0vSs0F) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [B\-Boy Meets B\-Girl](https://open.spotify.com/album/5ORiWIvK84Z1wE5V5o2jEe) | 4:24 | 2022-07-21 | 2022-07-29 |
 | [Baby Since I Got You](https://open.spotify.com/track/7hAdCAQps5pBHyGE6RIWhW) | [Yaboy](https://open.spotify.com/artist/261tfDi8O7e45yOgAiukDl) | [Having A Ball](https://open.spotify.com/album/3Umnf8FuQpVwrEwK0r2RCK) | 2:18 | 2021-12-23 | 2022-04-16 |
-| [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 |  |
+| [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
+| [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 | 2023-01-12 |  |
 | [Back in the Days](https://open.spotify.com/track/47mSNiKIWzJKJieuPBYqp4) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Back in the Days](https://open.spotify.com/album/6Sz92KHrkhWuXpIx5vRqqS) | 1:56 | 2021-12-23 | 2022-07-29 |
 | [Balkan's note](https://open.spotify.com/track/7kS133srGVKhP0pcpCakvh) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA) | [Balkan's note](https://open.spotify.com/album/5fN5rupmALg7QxMiPvfw2o) | 3:45 | 2021-12-23 | 2022-07-26 |
 | [bay](https://open.spotify.com/track/0fTKmtZaWDLDl40LSzug3v) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [bay](https://open.spotify.com/album/5WP2xh5FcWDrsKnNHMGVQR) | 3:12 | 2021-12-23 | 2022-07-29 |
@@ -121,7 +122,8 @@
 | [dialogue](https://open.spotify.com/track/0qKlKYrqonxvIFse1gjR0N) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v), [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4) | [dialogue](https://open.spotify.com/album/1HAdeAsJDRBJDhmP5OIIgz) | 3:36 | 2021-12-23 | 2022-07-25 |
 | [Dipping Time](https://open.spotify.com/track/3pzDRMgVcypNZR8PQKGhz3) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI), [ΔKTR](https://open.spotify.com/artist/4D2f1c2id2Udc2EcUONGv6) | [Breaking Point // Dipping Time](https://open.spotify.com/album/3xMXxcR16P9JzZ1OShYMUK) | 2:22 | 2022-02-10 | 2022-07-23 |
 | [Disco A](https://open.spotify.com/track/3w6HHJ3eWazjQoaDYDzpn3) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Pulchra Ondo](https://open.spotify.com/album/3T6NjKer6Y8obnNywZrJzq) | 2:02 | 2022-01-06 | 2022-01-12 |
-| [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 |  |
+| [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 | 2023-01-12 |  |
+| [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 | 2023-01-14 |
 | [Dntleave](https://open.spotify.com/track/1CQyXpkx1jEC39RyijeOHy) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [Dntleave](https://open.spotify.com/album/4eronGCeRlA7EwC7knCUV1) | 2:15 | 2021-12-23 | 2022-05-20 |
 | [DON](https://open.spotify.com/track/1sAJ1LjvLUhgQkQZ35BEI3) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [DON](https://open.spotify.com/album/11A2qjPlbkOjDOA0xq8EkV) | 2:40 | 2021-12-23 | 2022-07-21 |
 | [Don't Cry](https://open.spotify.com/track/3Y753I7WavrP3HQMoAdlXK) | [aMi](https://open.spotify.com/artist/5N8JfzZRD67QcuFn1tBxWm) | [YELLOW BAP](https://open.spotify.com/album/7kPUD4ZjRc3rsDtY6nc3zw) | 2:49 | 2021-12-23 | 2022-07-08 |
@@ -377,7 +379,8 @@
 | [Raining](https://open.spotify.com/track/2COYh59wnIaHLKjth7pM19) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Raining](https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS) | 1:45 | 2022-01-13 | 2022-07-10 |
 | [Rainydays](https://open.spotify.com/track/6EanWbtCMZrDPgDza9DQBC) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [MY EMOTION](https://open.spotify.com/album/0LCgkMgJ97oKmX4HMIzckz) | 2:24 | 2021-12-23 | 2022-07-11 |
 | [Re/Make \- Instrumental](https://open.spotify.com/track/5utiaVyir3pVH2iCFgkDKx) | [Pack3](https://open.spotify.com/artist/79HBbVB3ebJhK9q7gjcHW5) | [PACKQAGE \(Instrumentals\)](https://open.spotify.com/album/4GripUr5ToelZpSxPWwiU6) | 2:58 | 2021-12-23 | 2022-07-19 |
-| [re: Alive](https://open.spotify.com/track/6XHCJnkOI5DKvYCRJ57rH5) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/2U4TGes4XmalRjp1EqS6cb) | 2:21 | 2023-01-12 |  |
+| [re: Alive](https://open.spotify.com/track/4no3Z7kB2HUBOmVtaV3vjo) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/3pyMLQw318kancb6zx4PJM) | 2:21 | 2023-01-12 |  |
+| [re: Alive](https://open.spotify.com/track/6XHCJnkOI5DKvYCRJ57rH5) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/2U4TGes4XmalRjp1EqS6cb) | 2:21 | 2023-01-12 | 2023-01-14 |
 | [re: Belief](https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:03 | 2022-07-28 |  |
 | [re: Belief](https://open.spotify.com/track/0g1Pc2u4bltu3qWzidT1Yk) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/0QWsMY7mIJFA7Rj4gDiHIN) | 2:03 | 2022-07-28 | 2022-08-01 |
 | [re: Belief](https://open.spotify.com/track/1zJGVQOqRG5n3Tkdg56ZbM) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/7scWksNtviv53vicGDfGQr) | 2:03 | 2022-07-07 | 2022-07-29 |

@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "B.B.L (Bad Bitch Love)",
+        "url": "https://open.spotify.com/album/3UxBSyzHCGqY9DqSZkCvyc"
+      },
+      "artists": [
+        {
+          "name": "Mulalo",
+          "url": "https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "B.B.L (Bad Bitch Love)",
+      "url": "https://open.spotify.com/track/3rCGwUaOvhS3NDIF3DKb5a"
+    },
+    {
+      "album": {
         "name": "Baby & Baby",
         "url": "https://open.spotify.com/album/00QG5oFJQkqM0xHsT1i0oN"
       },

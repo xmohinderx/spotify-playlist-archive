@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: WILSN",
+  "description": "Featuring that new vintage. Cover: Blessing Offor",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 216573,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7bxXiHye5YkfWVzB1KpKDu"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 215787,
       "name": "Pain",
       "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
@@ -3813,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+    },
+    {
+      "album": {
         "name": "Rolling Back",
         "url": "https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK"
       },
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 223720,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB"
@@ -4228,7 +4246,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 164533,
       "name": "Stay in Bed and F*** (While The World Burns)",
       "url": "https://open.spotify.com/track/07DAMNunYyHvoG6PC88laF"

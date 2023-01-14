@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,235 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,354 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 |
 | 2 | [Serendipia](https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa \(Nouvelle édition\)](https://open.spotify.com/album/5VXsO0AdwwtazdWJfEP1Ag) | 2:53 |
-| 3 | [Le bateau coule](https://open.spotify.com/track/2BJTC2ecrYNJlDicV2seY6) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/6pMBX4kMdtRQvaBJmOPHVj) | 3:19 |
+| 3 | [Le bateau coule](https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:19 |
 | 4 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 |
 | 5 | [Baby Boo](https://open.spotify.com/track/3uuSSAMq7Otspek5jPLVU3) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Glow Up](https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9) | 2:50 |
 | 6 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [À mon piano](https://open.spotify.com/track/7DeQDEEvkoLmxLCD2ViR0w) | [Turquoise M](https://open.spotify.com/artist/3MbVetgAiX77R6xRxd8D1V) | [À mon piano](https://open.spotify.com/album/5CyFBycuoCeJIaYLpaXOiw) | 4:04 |
 | 50 | [L'océan](https://open.spotify.com/track/4WutcheedbzII83QtSUu67) | [Luxie](https://open.spotify.com/artist/46vs9UZGRcEdKbS8jTTP9k) | [Les Flots](https://open.spotify.com/album/1K8LYXCo7bMT5vHd40AiFV) | 3:21 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMGM3Mzk0MDExNjc0YzE2ZGZjMjkwZDdlYjJkNzM3MDY2`
+Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDNhMWQwNzUzYzJiODA1MGI0MDY0YjIxMWFlMmEzZmY4`

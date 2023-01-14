@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-121 songs - 6 hr 3 min
+123 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Beyond Peaceful](https://open.spotify.com/track/0PTqmbNYUtVviUHSVpcHhF) | [Don Eylert](https://open.spotify.com/artist/3vPhTEUkre5n2L7pr8krQA) | [Beyond Peaceful](https://open.spotify.com/album/0braIMpM5FqFaR6nRbdNA7) | 3:06 | 2022-02-28 | 2022-05-27 |
 | [Beyond the Horizon](https://open.spotify.com/track/1i1H08SnaptEAMlZcESXL8) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 2:04 | 2022-02-28 |  |
 | [Blue Depths](https://open.spotify.com/track/1rLeCtjTSyVONLUcAen2ZZ) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Blue Depths](https://open.spotify.com/album/44NPPHtkt0LzfAkAqGQoLB) | 3:34 | 2022-12-30 |  |
+| [Canopy](https://open.spotify.com/track/5w0R9CF9qaTfwghKBi6Tb0) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Canopy](https://open.spotify.com/album/6LjRKT71Go9zcqsSxT9FrV) | 3:06 | 2023-01-13 |  |
 | [Changes](https://open.spotify.com/track/4ZhzH1W6DUDPXcXzkqSYrb) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Changes](https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol) | 2:41 | 2022-04-08 |  |
 | [Chill Spa Music](https://open.spotify.com/track/1Nvjwg3i5wiWOoG1SN0J8q) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Guitar Meditation](https://open.spotify.com/album/7oJFr5m28N95DBG6dv54UX) | 2:13 | 2022-04-08 |  |
 | [Clermont](https://open.spotify.com/track/0WNOQLJP7OsYJ9nLUO1IPY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Clermont](https://open.spotify.com/album/0XciGzBUV8HJUcSkYo0vku) | 2:11 | 2022-07-08 |  |
@@ -46,6 +47,7 @@
 | [Facile Senses](https://open.spotify.com/track/6Om9JiR0nLPL5w0XG8krNc) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Facile Senses](https://open.spotify.com/album/1IhQrP1R85Jk319wNJWEzW) | 3:06 | 2022-10-14 |  |
 | [Fais de beaux rêves](https://open.spotify.com/track/7fl8RV1XaQbClOH3cDyJEl) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:28 | 2022-10-21 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2022-02-28 |  |
+| [Fleeting Thoughts](https://open.spotify.com/track/7KIiDekYdnY4vQUjyzsG8N) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Fleeting Thoughts](https://open.spotify.com/album/2Lh2xrVBPsJXMOkW7xLQmD) | 2:55 | 2023-01-13 |  |
 | [Forests and Hills](https://open.spotify.com/track/2SGRhqZAjesAw183DQmV9L) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Forests and Hills](https://open.spotify.com/album/4RIXar48wxLqPfxwnycwNF) | 4:14 | 2022-02-28 |  |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-02-28 | 2022-12-31 |
 | [Gymnopedie](https://open.spotify.com/track/3TB9KL7iUVd7N5ihzghGw4) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 3:37 | 2022-02-28 |  |

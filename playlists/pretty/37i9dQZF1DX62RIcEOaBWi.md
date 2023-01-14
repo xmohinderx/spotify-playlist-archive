@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62RIcEOaBWi.md) - [plain]
 
 > Música alegre para que el trabajo se te pase volando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,642 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,728 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

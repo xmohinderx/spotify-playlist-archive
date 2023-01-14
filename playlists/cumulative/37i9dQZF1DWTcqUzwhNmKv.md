@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Self Deception on top of the biggest Metal playlist!
+> Sleep Token on top of the biggest Metal playlist!
 
-346 songs - 22 hr 57 min
+349 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 | 2022-03-11 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-07-15 | 2022-09-17 |
 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-01-14 | 2022-04-29 |
-| [Caravan of Broken Ghosts](https://open.spotify.com/track/1CzKggMZT7p836VUa1lRDc) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Astral Fortress](https://open.spotify.com/album/0BKXemLWwkU9t6KiYCdVzj) | 7:53 | 2022-11-04 |  |
+| [Caravan of Broken Ghosts](https://open.spotify.com/track/1CzKggMZT7p836VUa1lRDc) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Astral Fortress](https://open.spotify.com/album/0BKXemLWwkU9t6KiYCdVzj) | 7:53 | 2022-11-04 | 2023-01-14 |
 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 | 2022-01-07 | 2022-02-11 |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-03-03 | 2022-06-10 |
 | [Church Burns](https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Church Burns](https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB) | 3:03 | 2022-01-21 | 2022-02-11 |
@@ -67,7 +67,7 @@
 | [Cut Throat](https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Cut Throat](https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur) | 3:07 | 2022-05-20 | 2022-07-08 |
 | [Cyberhex](https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Cyberhex](https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA) | 4:35 | 2022-03-11 | 2022-04-15 |
 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 | 2021-12-20 | 2022-04-22 |
-| [Dance Devil Dance](https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/1PUgDRbQP4XeJtbKRbOttp) | 4:00 | 2022-11-18 |  |
+| [Dance Devil Dance](https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/1PUgDRbQP4XeJtbKRbOttp) | 4:00 | 2022-11-18 | 2023-01-14 |
 | [Dancing with the Dead](https://open.spotify.com/track/2wRwogyIPvVRAJWEdqbBwB) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Dancing with the Dead](https://open.spotify.com/album/1KBFqITCyMhonkokYPluHD) | 2:49 | 2021-12-20 | 2022-02-11 |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 | 2022-06-24 |
 | [Days Of The Lost](https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7) | 3:37 | 2022-04-15 | 2022-06-07 |
@@ -111,6 +111,7 @@
 | [Fight Fire With Gasoline](https://open.spotify.com/track/78frUxVotRtpMrNMcyYtns) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Fight Fire With Gasoline](https://open.spotify.com/album/4IXfMV0iTA3p0cjPQavnAY) | 3:48 | 2022-12-02 |  |
 | [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 | 2022-08-13 |
 | [Find a Way or Make One](https://open.spotify.com/track/4NtpLuz8QFPrCofWmeBYy8) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/49RfDv9BawZQq8hJq0V5wB) | 4:30 | 2022-08-12 |  |
+| [Firewake](https://open.spotify.com/track/09J9qdc3gOR14WF3mvEHoX) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Firewake](https://open.spotify.com/album/4rf0rEWBkexEneZBSxZDuO) | 3:41 | 2023-01-13 |  |
 | [Flesh And Stone](https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Flesh And Stone](https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj) | 4:10 | 2022-05-13 | 2022-06-07 |
 | [Flood](https://open.spotify.com/track/2N4qPl1Nuq1xVopkvJmf7m) | [Outrun the Fall](https://open.spotify.com/artist/6U70wG368rrDhQXmAfa4lP) | [Flood](https://open.spotify.com/album/5tUFQmv76ZpirBKax54jrw) | 3:09 | 2021-12-20 | 2022-03-18 |
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 | 2022-12-17 |
@@ -138,7 +139,7 @@
 | [Heads Off](https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/3okB1Cp9n0bKsUcjXWu3gu) | 4:31 | 2022-07-29 | 2022-11-20 |
 | [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 | 2022-11-18 | 2022-12-10 |
 | [Heart To Stone](https://open.spotify.com/track/1dlmBnF9hFmhhsCKzZWyrT) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Heart To Stone](https://open.spotify.com/album/13ixlRB348zXf1RObOOZN7) | 3:16 | 2022-05-27 | 2022-07-30 |
-| [Heartache](https://open.spotify.com/track/2TBDweMyj3Wen6bu9gYwrn) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Heartache](https://open.spotify.com/album/1202mNUlTJufiL8oVbS7nO) | 3:45 | 2022-06-17 |  |
+| [Heartache](https://open.spotify.com/track/2TBDweMyj3Wen6bu9gYwrn) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Heartache](https://open.spotify.com/album/1202mNUlTJufiL8oVbS7nO) | 3:45 | 2022-06-17 | 2023-01-14 |
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 | 2022-07-30 |
 | [HEAVEN DON'T CRY](https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [HEAVEN DON'T CRY](https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX) | 4:25 | 2022-08-19 | 2022-11-08 |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-15 | 2022-10-08 |
@@ -284,6 +285,7 @@
 | [The Death We Seek](https://open.spotify.com/track/6NYdAmvdebGyB2zASPBEKg) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/7uIpT4POQxZW0LQK3eu7q0) | 4:05 | 2022-11-25 | 2022-12-03 |
 | [The Deathless Sun](https://open.spotify.com/track/0A4Xb4Io50uHnHZ1V8x2KC) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Opvs Contra Natvram](https://open.spotify.com/album/4HJqsD4Aw2HHa24liDoxFe) | 4:43 | 2022-09-30 | 2022-10-29 |
 | [The Deathless Sun](https://open.spotify.com/track/6b0HdwX9k0RtOUHRvWYl4J) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Deathless Sun](https://open.spotify.com/album/1gMfx6El7vzamoJJi6J7u3) | 4:43 | 2022-08-05 | 2022-09-03 |
+| [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 | 2023-01-13 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2022-08-13 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-10-14 |  |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2022-08-26 |  |
@@ -297,6 +299,7 @@
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-07-15 | 2022-07-29 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-07-15 | 2022-10-08 |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 | 2022-04-22 |
+| [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-13 |  |
 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 | 2022-02-11 | 2022-04-01 |
 | [The Vulture Club](https://open.spotify.com/track/15R3KwPfM0dZS0TAc2vbwm) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Boombox](https://open.spotify.com/album/67G7x4a0RqR00Y1jH3UwlH) | 3:34 | 2022-05-06 | 2022-07-23 |
 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 | 2022-08-19 | 2022-11-26 |

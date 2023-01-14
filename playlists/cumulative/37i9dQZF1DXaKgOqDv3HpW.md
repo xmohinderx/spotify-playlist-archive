@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-208 songs - 10 hr 11 min
+209 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-03-21 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2022-02-18 |  |
 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 | 2022-02-18 |  |
-| [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2022-02-18 |  |
+| [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2022-02-18 | 2023-01-14 |
 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 | 2022-02-18 |  |
 | [Amanhã](https://open.spotify.com/track/6dGdz2BG7ZhQz4euJxcfo9) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Amanhã](https://open.spotify.com/album/2hlLndsKhLp6wM30IzwtoA) | 3:16 | 2022-02-18 | 2022-06-25 |
 | [Ancient Presence](https://open.spotify.com/track/4fEP8wZL27vkaydhMuZGzq) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Ancient Presence](https://open.spotify.com/album/2x8VkZap61imM4ukBV26P8) | 2:09 | 2022-02-18 | 2022-09-15 |
@@ -108,6 +108,7 @@
 | [Joie](https://open.spotify.com/track/1VmHLEPjlDmL3zCWQcygGC) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Joie](https://open.spotify.com/album/5VPBHff5jua2ebI7UIWquX) | 2:54 | 2022-11-11 |  |
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2022-02-18 |  |
 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 | 2022-02-18 |  |
+| [Kip](https://open.spotify.com/track/2OFRqrTCGaxJgi5pKICi8t) | [Omnium Tal](https://open.spotify.com/artist/5aWinRRUMWDwSjwUMCNZP9) | [Kip](https://open.spotify.com/album/1uQZiWHm7zqy9S9mninlDY) | 2:37 | 2023-01-13 |  |
 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 | 2022-02-18 |  |
 | [Lagoom](https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [Lagoom](https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC) | 2:51 | 2022-12-30 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 |  |

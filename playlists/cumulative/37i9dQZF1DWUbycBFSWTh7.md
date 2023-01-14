@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-141 songs - 13 hr 33 min
+142 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Paradiso Mediterraneo](https://open.spotify.com/track/6Birlo8g8BUkpvTIAUJdbB) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Paradiso Mediterraneo](https://open.spotify.com/album/5YvJshaHEDcKSlTosoNk7x) | 6:21 | 2022-09-15 |  |
 | [Petal Dance](https://open.spotify.com/track/62O40xq82udtEfBYeWdAN8) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Petal Dance](https://open.spotify.com/album/62WzNA7gboQydhAvDadrxg) | 3:49 | 2022-09-15 |  |
 | [Pilsplaat](https://open.spotify.com/track/66ydKEoF7uofQdlA9yVsKK) | [Bonkers](https://open.spotify.com/artist/3aJmqZGZ6nTlu7Uoy3vWyz) | [Pilsplaat](https://open.spotify.com/album/6sPPr8BBqg8ZdI27N6ZaHr) | 3:05 | 2022-09-15 |  |
+| [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 | 2023-01-13 |  |
 | [Pushin](https://open.spotify.com/track/7k4pU2Rr9oBZXDPZQ1uwWL) | [Janeret](https://open.spotify.com/artist/2gZsnEsBvdXe4JBS9l5Xtf), [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv), [Janeko](https://open.spotify.com/artist/2ePWXq2s8JoCqUB9g8tf73) | [Concentrate EP](https://open.spotify.com/album/0yeM1hDanvANzJfSm131xj) | 7:11 | 2022-09-15 |  |
 | [Puyehue](https://open.spotify.com/track/6fFjRNvCLJJRhppQudATr3) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Puyehue](https://open.spotify.com/album/18mI8WiuN86Dn7CUIxOJnf) | 6:32 | 2022-09-15 |  |
 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 | 2022-09-15 | 2023-01-13 |

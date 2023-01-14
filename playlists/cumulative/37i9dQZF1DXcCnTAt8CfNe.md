@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-238 songs - 11 hr 17 min
+239 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-12-09 |  |
 | [After The Rain](https://open.spotify.com/track/4AyYtj639eTCj84hyaee28) | [Giovanna Gallo](https://open.spotify.com/artist/2vmNQKFEBJ85NupICrIMUT) | [After The Rain](https://open.spotify.com/album/2DrKbf1pApesHoTExO3hLP) | 2:40 | 2022-02-03 |  |
 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 |  |
-| [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-12-09 |  |
+| [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-12-09 | 2023-01-14 |
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2021-12-09 |  |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-09 |  |
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2021-12-09 |  |
@@ -102,6 +102,7 @@
 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2021-12-09 | 2022-08-13 |
 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 | 2021-12-09 | 2022-03-22 |
+| [Juste un peu de temps](https://open.spotify.com/track/46kX9joHbnA0xNSlQbGjIN) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Juste un peu de temps](https://open.spotify.com/album/5ayE5YMhM1ptPPL5iuirTi) | 3:05 | 2023-01-13 |  |
 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 | 2021-12-09 |  |
 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 | 2021-12-09 |  |
 | [Lake Huron](https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 3:15 | 2021-12-09 |  |

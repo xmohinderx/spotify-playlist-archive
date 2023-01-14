@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,916 likes - 250 songs - 14 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,237 likes - 250 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,7 +218,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 208 | [Caves](https://open.spotify.com/track/6WPtRyhuxR2g4q6fMZi6Xx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 3:53 |
 | 209 | [Better Now](https://open.spotify.com/track/0cmCJXoVxi0sUDyzlWMw1m) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [No One Else Can Wear Your Crown \(Deluxe\)](https://open.spotify.com/album/2PERPMWWY1pchfPKeNUJx8) | 3:18 |
 | 210 | [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 |
-| 211 | [Alaska](https://open.spotify.com/track/0x1nOGuuxzd8lhJCw7hbHO) | [Kwassa](https://open.spotify.com/artist/29ZiI4pYFArKpFQvHtZg7I) | [Alaska](https://open.spotify.com/album/6Ank0OEOGBECg03QfyRbaN) | 2:21 |
+| 211 | [Alaska](https://open.spotify.com/track/0x1nOGuuxzd8lhJCw7hbHO) | [Kwassa](https://open.spotify.com/artist/29ZiI4pYFArKpFQvHtZg7I), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Alaska](https://open.spotify.com/album/6Ank0OEOGBECg03QfyRbaN) | 2:21 |
 | 212 | [Details in the Fabric \(feat\. James Morrison\)](https://open.spotify.com/track/7EvZucbeXRDEwT4cFpHEi8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 5:45 |
 | 213 | [H.O.L.Y\. \- Acoustic](https://open.spotify.com/track/3wH9KuHeuYHNRF2Yt6z0cc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Acoustic Sessions](https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX) | 3:13 |
 | 214 | [For Seasons to Come](https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 3:12 |
@@ -227,9 +227,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 217 | [Move Together](https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:35 |
 | 218 | [Room](https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [EGO](https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ) | 2:52 |
 | 219 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
-| 220 | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/track/6hhk528iV6EGtIh9DRlJdM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/3r9bDmZ0W3CROXfLusAymH) | 4:31 |
+| 220 | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/track/6hhk528iV6EGtIh9DRlJdM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/3r9bDmZ0W3CROXfLusAymH) | 4:31 |
 | 221 | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/track/4q1WaJZoHTtojqDHX8QvaC) | [VAX](https://open.spotify.com/artist/6cQVcprcYDxGM79YmyCkcQ), [Teddy Sky](https://open.spotify.com/artist/6D0UYqXOF2HFQOet85VDKd) | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/album/1vsaHaeuDcnd9YufInpKfp) | 3:11 |
-| 222 | [Stay Alive \- Cover](https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Stay Alive \(COVERS\)](https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm) | 3:53 |
+| 222 | [Stay Alive \- Cover](https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive \(COVERS\)](https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm) | 3:53 |
 | 223 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 |
 | 224 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 |
 | 225 | [Rainbow](https://open.spotify.com/track/5C1FM56hBj76tK4CFPEi7A) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/2nbaIZHfhRXEkmADZ9jSzG) | 3:51 |

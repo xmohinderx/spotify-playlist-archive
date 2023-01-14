@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Rubi",
+        "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Absurda",
+      "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
+    },
+    {
+      "album": {
         "name": "Amizade Colorida",
         "url": "https://open.spotify.com/album/7hznLbksGP4RpBEPGNAkd2"
       },
@@ -727,6 +749,28 @@
     },
     {
       "album": {
+        "name": "Cactos (Nocaute)",
+        "url": "https://open.spotify.com/album/0SdzvmEjq0UVEFcxN9TXnE"
+      },
+      "artists": [
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "Maloka Nunes",
+          "url": "https://open.spotify.com/artist/4f2xOMcY8gsaHcUh3PgOrl"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Cactos (Nocaute)",
+      "url": "https://open.spotify.com/track/0zXM2UXbP4KtpA02umMwLj"
+    },
+    {
+      "album": {
         "name": "Capa do Meu Celular",
         "url": "https://open.spotify.com/album/2ZAJqalLQnD57owN0xDO6U"
       },
@@ -1008,7 +1052,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 184363,
       "name": "Deixa Rolar",
       "url": "https://open.spotify.com/track/4FDp39kZIKmTFPbk3H1Yyj"
@@ -1248,7 +1292,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 108144,
       "name": "Ela Quer Ter Meu Sobrenome",
       "url": "https://open.spotify.com/track/1RqstZfFa7b2q51pr8Ww8s"
@@ -1300,6 +1344,28 @@
       "duration_ms": 205720,
       "name": "Envolvid\u00e3o",
       "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
+    },
+    {
+      "album": {
+        "name": "Erro Seu",
+        "url": "https://open.spotify.com/album/0Jdg27IUCMRsWvF7DtZkkn"
+      },
+      "artists": [
+        {
+          "name": "R98",
+          "url": "https://open.spotify.com/artist/5fDd69gmpJ62smbw86OlmS"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182048,
+      "name": "Erro Seu",
+      "url": "https://open.spotify.com/track/0DwUXCXjAjFWOBcE1VrPS8"
     },
     {
       "album": {
@@ -1541,6 +1607,32 @@
     },
     {
       "album": {
+        "name": "Fa\u00e7o Com Vontade Amor",
+        "url": "https://open.spotify.com/album/0aFTO9sYGXRwuLoULUfI1K"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        },
+        {
+          "name": "L\u00e9o da Bodega",
+          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117948,
+      "name": "Fa\u00e7o Com Vontade Amor",
+      "url": "https://open.spotify.com/track/0tau87KGvLrRu2U9I7UH2E"
+    },
+    {
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4ms8gh4HzAV6LLWSfMB6jO"
       },
@@ -1648,7 +1740,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 149647,
       "name": "Fogo de Cama",
       "url": "https://open.spotify.com/track/6998l50tOJbGCzzidvT6HU"
@@ -1880,6 +1972,44 @@
       "duration_ms": 171085,
       "name": "Jeniffer S2",
       "url": "https://open.spotify.com/track/72k9WRVKsSHKEly0C2lXw8"
+    },
+    {
+      "album": {
+        "name": "Jhony Convida #4 - Se Quiser Falar de Amor",
+        "url": "https://open.spotify.com/album/4LSYYArcJfGHKuUDWGu8tU"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "MAGR\u00c3O XRE",
+          "url": "https://open.spotify.com/artist/4k8NJnF9h7zTQbuJBT4lCY"
+        },
+        {
+          "name": "Spike mc",
+          "url": "https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP"
+        },
+        {
+          "name": "Vitu",
+          "url": "https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Jhony Convida #4 - Se Quiser Falar de Amor",
+      "url": "https://open.spotify.com/track/0V9FtpyDuKBWhOQ9D6n66J"
     },
     {
       "album": {
@@ -2226,6 +2356,28 @@
       "duration_ms": 173147,
       "name": "Meu Grande Amor",
       "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
+    },
+    {
+      "album": {
+        "name": "Mil Cora\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1wlrdpEvZxFu7921y6jihY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Sip\u00e1",
+          "url": "https://open.spotify.com/artist/11xMHR8MnmZtIBpnE2ZCYT"
+        },
+        {
+          "name": "HUN\u00c1",
+          "url": "https://open.spotify.com/artist/5vOmxFH1OeYhdO1zEEayI1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127997,
+      "name": "Mil Cora\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/6K8Ww03BdmW6NLlBryYfK5"
     },
     {
       "album": {
@@ -2988,7 +3140,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 166103,
       "name": "Phone",
       "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
@@ -3308,7 +3460,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 167090,
       "name": "Rei de Gelo",
       "url": "https://open.spotify.com/track/0qW5Y9jLq21f6FqqsSfaPD"
@@ -3522,7 +3674,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 158400,
       "name": "Semana Que Vem",
       "url": "https://open.spotify.com/track/545IGh8s0x4tniaiBLHL6t"

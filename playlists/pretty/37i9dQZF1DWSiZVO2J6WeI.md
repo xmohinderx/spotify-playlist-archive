@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,872 likes - 180 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,597 likes - 180 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 179 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 |
 | 180 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 |
 
-Snapshot ID: `MTY3MzAyNjM3MCwwMDAwMDAwMGRiNzk5OTQzYjNlZWM0OWM0ZGJhYzFmZjMyMDdmN2Nl`
+Snapshot ID: `MTY3MzYyODE1OCwwMDAwMDAwMDEwNTgxY2UyMzM0YTFjM2JmN2QzNmY2ZmE1NGEyZDdi`

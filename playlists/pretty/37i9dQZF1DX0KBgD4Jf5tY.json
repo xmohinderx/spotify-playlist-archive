@@ -1,13 +1,29 @@
 {
-  "description": "Solo musica indipendente, aggiornata ogni venerd\u00ec. Cover: <a href=\"spotify:artist:1rWg0CyGoCsRYYtpj5NC5P\">Sillyelly</a>",
-  "num_followers": 6277,
+  "description": "Solo musica indipendente, aggiornata ogni venerd\u00ec. Cover: <a href=\"spotify:artist:5wu37JsDSxwAvkZIdYT3Nn\">Asjatica</a>",
+  "num_followers": 6287,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM0MTMyNCwwMDAwMDAwMGFhMWIzOTc3OTVlYTJmMDk0M2ZhNjljYWI2ZTgwMGE5",
+  "snapshot_id": "MTY3MzYyMTE4MSwwMDAwMDAwMDJkZmEwMTc2MGRmOTRmOTVkMDJjYTI5OTlhOTIzMWM5",
   "tracks": [
+    {
+      "added_at": "2023-01-10 09:02:04",
+      "album": {
+        "name": "0 SENTIMENTO",
+        "url": "https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE"
+      },
+      "artists": [
+        {
+          "name": "Asjatica",
+          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
+        }
+      ],
+      "duration_ms": 149629,
+      "name": "0 SENTIMENTO",
+      "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
+    },
     {
       "added_at": "2023-01-10 09:02:04",
       "album": {
@@ -159,22 +175,6 @@
       "duration_ms": 157714,
       "name": "Lilo e Stitch",
       "url": "https://open.spotify.com/track/4yiHkUuvdgOhuxjbBiUW8I"
-    },
-    {
-      "added_at": "2023-01-10 09:02:04",
-      "album": {
-        "name": "0 SENTIMENTO",
-        "url": "https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE"
-      },
-      "artists": [
-        {
-          "name": "Asjatica",
-          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
-        }
-      ],
-      "duration_ms": 149629,
-      "name": "0 SENTIMENTO",
-      "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
     },
     {
       "added_at": "2023-01-10 09:02:04",

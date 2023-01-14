@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Taj Mahal",
-  "num_followers": 42583,
+  "num_followers": 42672,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGViYWVlOGRlMjQ2ZDEyMjE2MWViODliZWNlODhkNmFh",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDJkYjE4MmI3Y2RkZGE1YWIyOWViNjE0Mjk4MmQ4OWMy",
   "tracks": [
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "That's What Love Will Make You Do",
+        "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
+    },
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 231333,
       "name": "Gee Baby Ain't I Good To You",
       "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -41,10 +77,10 @@
       "url": "https://open.spotify.com/track/1h5ohHc3D1kqp4keFCNfR0"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
+      "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Hello, it's the Blues",
-        "url": "https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H"
+        "name": "Don't Walk Out That Door",
+        "url": "https://open.spotify.com/album/5rtVWnIqV2kos0M7PE0KdO"
       },
       "artists": [
         {
@@ -52,9 +88,9 @@
           "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
         }
       ],
-      "duration_ms": 406261,
-      "name": "Hello, it's the Blues",
-      "url": "https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes"
+      "duration_ms": 249045,
+      "name": "Don't Walk Out That Door",
+      "url": "https://open.spotify.com/track/7dlPFiCTg6YXAjqmn6GwjA"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1669,22 +1705,6 @@
       "url": "https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Alone With Blues",
-        "url": "https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN"
-      },
-      "artists": [
-        {
-          "name": "Diesel",
-          "url": "https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR"
-        }
-      ],
-      "duration_ms": 219641,
-      "name": "Mirror Blues",
-      "url": "https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Raisin' Kane",
@@ -1703,22 +1723,6 @@
       "duration_ms": 178680,
       "name": "Raisin' Kane",
       "url": "https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 383360,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU"
     }
   ],
   "unique_name": "Got Blues",

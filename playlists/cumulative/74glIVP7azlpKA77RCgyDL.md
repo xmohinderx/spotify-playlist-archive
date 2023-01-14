@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sleep Token
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Grave Pleasures
 
-299 songs - 19 hr 17 min
+305 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Body Bag](https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Body Bag](https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN) | 3:16 | 2022-06-17 |  |
 | [Born of Satan's Flesh](https://open.spotify.com/track/0Rzmvz1zLlmO6lhN8ZMxSK) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Born of Satan's Flesh](https://open.spotify.com/album/0iecjoOhajVnZQyOO8Ccv9) | 4:08 | 2022-07-29 |  |
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 |  |
+| [Burn the System](https://open.spotify.com/track/0xT8lO6AN5wEgkPxw7aCSm) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Burn the System](https://open.spotify.com/album/47CnioO06kBWZ9poXwiDPB) | 4:49 | 2023-01-13 |  |
 | [Cage Intimacy](https://open.spotify.com/track/36QLWRuc1cdQBQEC6hqiwn) | [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Cage Intimacy](https://open.spotify.com/album/1PhB912BQ5if1T7ynBeA7W) | 11:02 | 2022-04-15 |  |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 |  |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 |  |
@@ -228,6 +229,7 @@
 | [Shifting Eyes](https://open.spotify.com/track/77rCSuHa7OZ4Dd06E0dkRx) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Shifting Eyes](https://open.spotify.com/album/6EDWJHxJjudI9xNRgwoeVV) | 2:33 | 2022-04-22 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 |  |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
+| [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 |  |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 |  |
 | [Spirit Liberation](https://open.spotify.com/track/4fnNlOmWOoLJtwETdf38bC) | [Mutually Assured Destruction](https://open.spotify.com/artist/674hXtod8wUNvAUKUvElhf), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Spirit Liberation](https://open.spotify.com/album/0QVaj5KVMxrrDg4KAnCWBK) | 2:30 | 2022-04-15 |  |
 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-06-24 |  |
@@ -273,6 +275,7 @@
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 |  |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 |  |
+| [Turn to Me](https://open.spotify.com/track/1hXtv1txnXMXAvZU2YdRme) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 3:42 | 2023-01-13 |  |
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-04 |  |
 | [Under the Weight of a Billion Souls](https://open.spotify.com/track/1ZwssJSK0DVLZ2vrHbrvlC) | [Chrome Waves](https://open.spotify.com/artist/2R5Sry7fmvqc3QnoV2myJ4) | [Under the Weight of a Billion Souls](https://open.spotify.com/album/0L2edepdKR9dK85X70lIz1) | 8:27 | 2022-12-16 |  |
 | [UNTENDED GRAVES](https://open.spotify.com/track/4t9E4wj0PHqNozXXIboLYM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [UNTENDED GRAVES](https://open.spotify.com/album/1hsYH0Y9c8o3siY9FQy1Wm) | 2:17 | 2022-12-16 |  |
@@ -294,7 +297,9 @@
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 |  |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 |  |
 | [Who Am I?](https://open.spotify.com/track/038fGCIlWDQgHlUw9OxHuN) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Who Am I?](https://open.spotify.com/album/4J87NYm51J7khqQSQTHoOh) | 2:37 | 2022-03-18 |  |
+| [Why Can't You Behave](https://open.spotify.com/track/7lZO9PeYcZU3i24q1n92rc) | [See You Next Tuesday](https://open.spotify.com/artist/2j5thxS6vaOqDNEAh0SFEx) | [Why Can't You Behave](https://open.spotify.com/album/1KnefAiKV5RWaA5h9KE1tm) | 2:02 | 2023-01-13 |  |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-06-10 |  |
+| [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 | 2023-01-13 |  |
 | [Wings of Mariposa](https://open.spotify.com/track/32UZPkMZrB0ZAyzLaVrMbY) | [Will Haven](https://open.spotify.com/artist/6oHhpIAHJlyqi70DdfWeJX) | [Wings of Mariposa](https://open.spotify.com/album/4xSONNw1z07iJq9P2IoB2G) | 2:46 | 2022-05-27 |  |
 | [Wired For Destruction](https://open.spotify.com/track/4UeTms4wgdOHut4jLtzi2p) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Wired For Destruction](https://open.spotify.com/album/7DLD3wgKis2uwClmtZI9V9) | 3:07 | 2022-03-25 |  |
 | [Words Fail](https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Words Fail](https://open.spotify.com/album/5vKiKQXUrAudV0tY61l8G7) | 1:36 | 2022-08-26 |  |
@@ -306,6 +311,7 @@
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 |  |
 | [Zombie Inferno](https://open.spotify.com/track/3kDii17lJocLG2jfWGzecS) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [Zombie Inferno](https://open.spotify.com/album/6OsZBopYtCRSANJJ7FwI7Y) | 4:07 | 2022-07-01 |  |
 | [Истина](https://open.spotify.com/track/2vKRArTlpWvplOjsVX7zjG) | [Рожь](https://open.spotify.com/artist/6H4aSq8C0uNkxUKDsC2t0j) | [Всё](https://open.spotify.com/album/3WxKplxyqg68yCQHtNucAo) | 9:59 | 2023-01-06 |  |
+| [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-01-13 |  |
 | [知恵](https://open.spotify.com/track/5fJKzNZbsGbeA8w8yKPGaS) | [moreru](https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4) | [山田花子](https://open.spotify.com/album/6p4e0G8qlZMvSpcpviffAw) | 3:26 | 2022-04-01 |  |
 
 \*This playlist was first scraped on 2022-11-16. Prior content cannot be recovered.

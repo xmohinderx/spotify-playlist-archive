@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Moreir4, RaplhTHeKiD",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Luccas Carlos\n",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 194579,
       "name": "Asas",
       "url": "https://open.spotify.com/track/6AIqtpf4qtVWB2470AGEHs"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 147764,
       "name": "Assalto",
       "url": "https://open.spotify.com/track/1pcyFDBn5BY653heqtLXqw"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 184497,
       "name": "Carro Autom\u00e1tico",
       "url": "https://open.spotify.com/track/6r9YvfFlg3exxuqYhIeyEv"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 144000,
       "name": "C\u00e2mera Lenta",
       "url": "https://open.spotify.com/track/444bswRyJmyDODddD2ZZcr"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 104004,
       "name": "Detroit Freestyle",
       "url": "https://open.spotify.com/track/3Nb5qMVDMXhQcu1Xaf8142"
@@ -3945,6 +3945,28 @@
     },
     {
       "album": {
+        "name": "FALTA POUCO",
+        "url": "https://open.spotify.com/album/5ZY9JnRai7n30JUCcswitf"
+      },
+      "artists": [
+        {
+          "name": "31couto",
+          "url": "https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105473,
+      "name": "FALTA POUCO",
+      "url": "https://open.spotify.com/track/4OjrPYlHrc63TxZbxvlNZU"
+    },
+    {
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/0djnKqaexOX74V3TRRmXUW"
       },
@@ -4112,7 +4134,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 268965,
       "name": "Faxina do Ser",
       "url": "https://open.spotify.com/track/0vlqTMaZmv1vGXPXWJNgRZ"
@@ -4286,7 +4308,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 147000,
       "name": "Fiquei Sagaz",
       "url": "https://open.spotify.com/track/6yadp6uXJpV1ZvKcu73Ji0"
@@ -4729,6 +4751,54 @@
     },
     {
       "album": {
+        "name": "Gasolina",
+        "url": "https://open.spotify.com/album/5gzX6kXfruVKsEkefvRN5T"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201836,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/27QbHc3LO4fnFhP0Hh2DRK"
+    },
+    {
+      "album": {
+        "name": "Gastando Malote",
+        "url": "https://open.spotify.com/album/0evTzHLMP23CYsW2sr1Nz2"
+      },
+      "artists": [
+        {
+          "name": "Campanha MC",
+          "url": "https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY"
+        },
+        {
+          "name": "DJ Theu",
+          "url": "https://open.spotify.com/artist/6FF3Heb2v3FW6kMrW7EfT7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160695,
+      "name": "Gastando Malote",
+      "url": "https://open.spotify.com/track/3glVaDq0W1Q6lRj4mY4bDm"
+    },
+    {
+      "album": {
         "name": "Gasto o Malote",
         "url": "https://open.spotify.com/album/2YZ7wr6rx4KeOtdMFxbb2B"
       },
@@ -4770,6 +4840,28 @@
       "duration_ms": 134359,
       "name": "Gata Indecisa",
       "url": "https://open.spotify.com/track/4fLdaUwDkFh3yyF97nhekW"
+    },
+    {
+      "album": {
+        "name": "Gatilho",
+        "url": "https://open.spotify.com/album/2iLv9c6vBCsIIeoFtUEOBD"
+      },
+      "artists": [
+        {
+          "name": "AGTHEBRABO",
+          "url": "https://open.spotify.com/artist/6MmqjVY1gS4ViLSequCMTE"
+        },
+        {
+          "name": "mc jhenny",
+          "url": "https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143011,
+      "name": "Gatilho",
+      "url": "https://open.spotify.com/track/3mMcOiqvPQ21LGwDWQyH0g"
     },
     {
       "album": {
@@ -5176,6 +5268,44 @@
       "duration_ms": 125217,
       "name": "Jazzghost",
       "url": "https://open.spotify.com/track/3BNBmmjX4K4TNMA7g0158o"
+    },
+    {
+      "album": {
+        "name": "Jhony Convida #4 - Se Quiser Falar de Amor",
+        "url": "https://open.spotify.com/album/4LSYYArcJfGHKuUDWGu8tU"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "MAGR\u00c3O XRE",
+          "url": "https://open.spotify.com/artist/4k8NJnF9h7zTQbuJBT4lCY"
+        },
+        {
+          "name": "Spike mc",
+          "url": "https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP"
+        },
+        {
+          "name": "Vitu",
+          "url": "https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Jhony Convida #4 - Se Quiser Falar de Amor",
+      "url": "https://open.spotify.com/track/0V9FtpyDuKBWhOQ9D6n66J"
     },
     {
       "album": {
@@ -6730,7 +6860,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 181512,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/2NIwJ0BXryqFfArHKCPiV1"
@@ -8699,6 +8829,24 @@
     },
     {
       "album": {
+        "name": "Viv\u00eancias",
+        "url": "https://open.spotify.com/album/3FAmGXwkgx3i03IKsdcuBp"
+      },
+      "artists": [
+        {
+          "name": "Tivityn",
+          "url": "https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211731,
+      "name": "P\u00e1gina 77",
+      "url": "https://open.spotify.com/track/4oLSGyNJSCdCNBN9yMV2N8"
+    },
+    {
+      "album": {
         "name": "Quarta Dimens\u00e3o",
         "url": "https://open.spotify.com/album/0r5SYIXuZRCDW1XgtjNv9I"
       },
@@ -8722,6 +8870,24 @@
       "duration_ms": 150241,
       "name": "Quarta Dimens\u00e3o",
       "url": "https://open.spotify.com/track/6Z3p7NVYk4exjmos3873VA"
+    },
+    {
+      "album": {
+        "name": "QUARTA PAREDE",
+        "url": "https://open.spotify.com/album/0upfozJoGeD483fvCMIRLf"
+      },
+      "artists": [
+        {
+          "name": "deadpeace",
+          "url": "https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108506,
+      "name": "QUARTA PAREDE",
+      "url": "https://open.spotify.com/track/7vBQTO8YhgSzFJ5wWFnID2"
     },
     {
       "album": {
@@ -9558,7 +9724,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 158762,
       "name": "Skittles",
       "url": "https://open.spotify.com/track/6mZsjp28pweapZaI10oLYW"
@@ -9689,6 +9855,44 @@
     },
     {
       "album": {
+        "name": "Spliff",
+        "url": "https://open.spotify.com/album/4XCp5vHbQEoYZQ0kqyxoTx"
+      },
+      "artists": [
+        {
+          "name": "Nvnes",
+          "url": "https://open.spotify.com/artist/2jRwHm19qtYn38Ta8SNywB"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        },
+        {
+          "name": "Gxrdenx",
+          "url": "https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP"
+        },
+        {
+          "name": "CandyBoiNarco",
+          "url": "https://open.spotify.com/artist/5rFhngLLknG7fm5OUEO2Ze"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175386,
+      "name": "Spliff",
+      "url": "https://open.spotify.com/track/7gMakTVNZH4SgTo8z009ux"
+    },
+    {
+      "album": {
         "name": "Spotify",
         "url": "https://open.spotify.com/album/4egGyNt0EP4trnGty75M0i"
       },
@@ -9800,7 +10004,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 149647,
       "name": "SUV PRATA",
       "url": "https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom"
@@ -10078,6 +10282,24 @@
       "duration_ms": 184629,
       "name": "Teto Solar",
       "url": "https://open.spotify.com/track/0LL0f65AL3cYEopGZYPnuC"
+    },
+    {
+      "album": {
+        "name": "Teto Solar",
+        "url": "https://open.spotify.com/album/35qA6VqCV2bEKEh7XfjDKG"
+      },
+      "artists": [
+        {
+          "name": "Yamashita",
+          "url": "https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154171,
+      "name": "Teto Solar",
+      "url": "https://open.spotify.com/track/08IBqKDBnYMivpc55tjPnb"
     },
     {
       "album": {
@@ -11158,6 +11380,28 @@
       "duration_ms": 142105,
       "name": "\u00c9 S\u00f3 Um Jogo",
       "url": "https://open.spotify.com/track/63GdBCUANBwZlXqFUW89Yz"
+    },
+    {
+      "album": {
+        "name": "\u00d3pera",
+        "url": "https://open.spotify.com/album/4x4EmEYwiLyKdJ3xnc7wrd"
+      },
+      "artists": [
+        {
+          "name": "Aklipe44",
+          "url": "https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz"
+        },
+        {
+          "name": "4LIFE Collective",
+          "url": "https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146509,
+      "name": "\u00d3pera",
+      "url": "https://open.spotify.com/track/5Y5nAka7nWX2teJkh6oK5y"
     },
     {
       "album": {

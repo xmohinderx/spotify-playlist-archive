@@ -325,6 +325,32 @@
     },
     {
       "album": {
+        "name": "Andy",
+        "url": "https://open.spotify.com/album/5c0rtaRdPbRbOme8uZtq51"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186450,
+      "name": "Andy",
+      "url": "https://open.spotify.com/track/1Pd71Xo8MTPEPb9w5yXiHv"
+    },
+    {
+      "album": {
         "name": "Escamosa",
         "url": "https://open.spotify.com/album/0eV2v4FSzFvn8fi5AY0VGf"
       },
@@ -428,7 +454,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 92307,
       "name": "Audi",
       "url": "https://open.spotify.com/track/0L5Gjxw6mr8K3pfbmn0mcp"
@@ -1063,6 +1089,32 @@
     },
     {
       "album": {
+        "name": "Celebrando",
+        "url": "https://open.spotify.com/album/6j6OZKPSgWlYic3ZtIdufN"
+      },
+      "artists": [
+        {
+          "name": "PH Original",
+          "url": "https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1"
+        },
+        {
+          "name": "Davilexx",
+          "url": "https://open.spotify.com/artist/5nvcmhyNlyInqkHwNkxgzb"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "Celebrando",
+      "url": "https://open.spotify.com/track/1ZynCssuMvuqVH5fwFeSOw"
+    },
+    {
+      "album": {
         "name": "0800",
         "url": "https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf"
       },
@@ -1302,7 +1354,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 169850,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
@@ -1836,6 +1888,28 @@
       "duration_ms": 138000,
       "name": "Dose de Mim",
       "url": "https://open.spotify.com/track/43fxMNRsFOroRjU8rs2c9a"
+    },
+    {
+      "album": {
+        "name": "Doutrinado",
+        "url": "https://open.spotify.com/album/5SaiGdaWfpTL5qqqTCYoYS"
+      },
+      "artists": [
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "DUNDUM NTS",
+          "url": "https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171361,
+      "name": "Doutrinado",
+      "url": "https://open.spotify.com/track/5e0UXwFmSvjVxhr4FkHlzh"
     },
     {
       "album": {
@@ -2462,6 +2536,28 @@
       "duration_ms": 179200,
       "name": "Garota Carioca",
       "url": "https://open.spotify.com/track/6PjBsT9gg0BlqHDJ7CBUMC"
+    },
+    {
+      "album": {
+        "name": "Gato Preto",
+        "url": "https://open.spotify.com/album/4IlBPuY1IVsjokvveu3tRl"
+      },
+      "artists": [
+        {
+          "name": "AZV",
+          "url": "https://open.spotify.com/artist/0zvMHwEw4lqRJ3P0Vv6WSq"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144244,
+      "name": "Gato Preto",
+      "url": "https://open.spotify.com/track/0CADoVzBZ1Vho6InM9i1no"
     },
     {
       "album": {
@@ -4008,7 +4104,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 174776,
       "name": "n\u00f3",
       "url": "https://open.spotify.com/track/0hSN5geEl2wczCdvnw7dZB"
@@ -4188,7 +4284,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 137952,
       "name": "Outro N\u00edvel",
       "url": "https://open.spotify.com/track/2wJtkcZcYq5Axv7dWFT9Lv"
@@ -5378,7 +5474,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 122523,
       "name": "Sou Eu",
       "url": "https://open.spotify.com/track/0ahG0JBHpKhqA5o7J51WmB"
@@ -5460,6 +5556,28 @@
       "duration_ms": 162937,
       "name": "S\u00f3 Vel\u00f4",
       "url": "https://open.spotify.com/track/4NtJd6yamAcs26O59iIvlV"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/4HOYZwQC5spDpi8SDJ7bkX"
+      },
+      "artists": [
+        {
+          "name": "Igor Sales",
+          "url": "https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw"
+        },
+        {
+          "name": "DJ Tawan",
+          "url": "https://open.spotify.com/artist/2ydsW9VfcxiyJBwUj1LM5b"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145035,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/6WOM6GzF0acnbnukDiiuHR"
     },
     {
       "album": {
@@ -5943,6 +6061,28 @@
     },
     {
       "album": {
+        "name": "Vida De Luxo",
+        "url": "https://open.spotify.com/album/7bq1N9eHYZ8WknCJv5uuU6"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121363,
+      "name": "Vida De Luxo",
+      "url": "https://open.spotify.com/track/6dYWxFayt1xiuAUYXQGLZW"
+    },
+    {
+      "album": {
         "name": "Vida Toda - Spotify Singles",
         "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
       },
@@ -5954,7 +6094,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 153245,
       "name": "Vida Toda - Spotify Singles",
       "url": "https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT"

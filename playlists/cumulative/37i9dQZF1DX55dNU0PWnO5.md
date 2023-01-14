@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-285 songs - 17 hr 31 min
+286 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Friends](https://open.spotify.com/track/6mrHWhe8HiCs32tOZx7Rey) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Friends](https://open.spotify.com/album/1cCYQdoCfexbBg3xVpAn9R) | 4:40 | 2021-04-02 | 2022-07-28 |
 | [G Flex](https://open.spotify.com/track/7xVtleeM321K9OPhgytOZa) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [After the Storm](https://open.spotify.com/album/1lscCYynPnUyeypaSk8V8D) | 5:10 | 2021-01-29 | 2022-03-21 |
 | [Galilean Moons](https://open.spotify.com/track/114T0Xj3B0erxZNU8zmhKQ) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Galilean Moons](https://open.spotify.com/album/4ECKQXhNcQJBP3iFTBWsHe) | 4:02 | 2022-07-05 | 2022-09-19 |
-| [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2022-07-05 |  |
+| [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2022-07-05 | 2023-01-14 |
 | [Game 5!](https://open.spotify.com/track/4NZZyhOsyhyFdDn2AFUFHI) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [monkeybars](https://open.spotify.com/artist/1iAcExmAigO44V6sIHkWyV) | [Game 5!](https://open.spotify.com/album/2gQeq8M64YQnyuMsOCowSk) | 2:12 | 2021-12-10 | 2022-07-29 |
 | [Gharial](https://open.spotify.com/track/0RoUe4WOuGtGfqes7xUrg1) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Gharial](https://open.spotify.com/album/5KT1qVVsq7UvOS0yDKAnnI) | 2:42 | 2022-01-21 | 2022-07-18 |
 | [Ghosted](https://open.spotify.com/track/2qPIpeVx42NgsaXdhwBbtd) | [Adam Meckler](https://open.spotify.com/artist/3vvgv6M5R6ZdQ0kgDubGRl), [Jfab](https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW) | [Ghosted](https://open.spotify.com/album/7F1uU4FGRolC3dqshRFalm) | 2:15 | 2022-08-12 | 2022-08-31 |
@@ -287,6 +287,7 @@
 | [Wonderland](https://open.spotify.com/track/2KMe85RjUyossAhvG4C1Eg) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/5UkSvvmhb6LelIKVQzTpG0) | 5:08 | 2021-03-05 | 2022-06-14 |
 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 | 2022-04-29 |  |
 | [XPBTTMS.MMBL](https://open.spotify.com/track/5glJ3oP3FC2KQbQHQ9nqLE) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ) | [XPBTTMS.MMBL](https://open.spotify.com/album/4UzayOSjHT3mYjBw44s725) | 2:16 | 2022-07-15 | 2022-09-05 |
+| [yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!](https://open.spotify.com/track/1mzAaSebLHpG1iu7vC0jTJ) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW) | [yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!](https://open.spotify.com/album/5qktHNEnTj81dZwsKd1J9f) | 3:39 | 2023-01-14 |  |
 | [Yanavy Obaki](https://open.spotify.com/track/58vQhz3CLq2WbjVZXZpvwb) | [delay\_ok](https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935) | [Modern Uganda](https://open.spotify.com/album/7yyNdeishrr78limvFPivT) | 6:01 | 2022-02-11 | 2022-07-29 |
 | [Yanavy Obaki](https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz) | [delay\_ok](https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935) | [Modern Uganda](https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R) | 6:01 | 2022-02-11 |  |
 | [Yesterday's Forest Magic](https://open.spotify.com/track/3SBKwRZXM7Ev7XHRCA1GA6) | [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [Energy Dreams](https://open.spotify.com/album/5NbcAITHDzXJmJ7BDovK7v) | 3:35 | 2021-01-29 | 2022-03-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,619 likes - 99 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,081 likes - 99 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 21 | [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 |
 | 22 | [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 |
 | 23 | [Tell Me Why I'm Waiting](https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 2:03 |
-| 24 | [](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 0:00 |
+| 24 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 |
 | 25 | [Can't Take My Eyes off You](https://open.spotify.com/track/2InH5NvwoEymOEeUhpUq48) | [Craymer](https://open.spotify.com/artist/14FalyPBwXYg2XLauocHaU), [AIIVAWN](https://open.spotify.com/artist/7qYVVP9RdHRKzElE6EZQsn) | [Can't Take My Eyes off You](https://open.spotify.com/album/76GPbP7KEgSGqDsyJ2FN1T) | 4:00 |
 | 26 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 |
 | 27 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 98 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 99 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3MDU4NzQzMiwwMDAwMDAwMDU5MzkwMzg4NjcwOTg1YmM3ZGNlYWU2ZWRjMWYzMjY4`
+Snapshot ID: `MTY3MDU4NzQzMiwwMDAwMDAwMGJmOTU3YzhiMWQwNzRmOTBmYWNhZTFmOGRhNTQwMWNj`

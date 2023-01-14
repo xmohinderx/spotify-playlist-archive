@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-224 songs - 21 hr 22 min
+225 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Jesus Is Risen](https://open.spotify.com/track/7Myw8gqNvdLPxrAh5IDvS9) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Jesus Is Risen](https://open.spotify.com/album/6FPkFnU8YSzUozYf2DKl22) | 4:14 | 2022-02-25 | 2023-01-05 |
 | [Jesus Over Everything \- Live](https://open.spotify.com/track/7CU31fAxkaKbxU8u2jvBcT) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [See The Light \(Live\)](https://open.spotify.com/album/0ufsdvAfWMEgQi1dDvXJ9v) | 5:13 | 2022-02-17 | 2022-03-16 |
 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 | 2022-07-22 |  |
+| [Just Like Jesus](https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Just Like Jesus](https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0) | 9:43 | 2023-01-13 |  |
 | [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 | 2022-06-03 |  |
 | [Keep In Step \- Live](https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Keep In Step \(Live\)](https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24) | 4:03 | 2022-09-20 | 2023-01-05 |
 | [King Of Kings](https://open.spotify.com/track/0b8hSEwhZKE59lSaT4ZqsA) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake \(Deluxe\)](https://open.spotify.com/album/3845kDbcFRDDUHI0yVd8Km) | 4:25 | 2022-02-17 |  |

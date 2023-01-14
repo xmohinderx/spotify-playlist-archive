@@ -2,7 +2,7 @@
 
 ### [City Pop Korea \(한국 씨티팝\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
 
-> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
+> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: En Sokum\(은소금\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
 283 songs - 17 hr 37 min
 
@@ -96,7 +96,7 @@
 | [Fantasy 환상](https://open.spotify.com/track/3LvH2lQUntKlOnVpeleN6A) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy 환상](https://open.spotify.com/album/0x3N3cCTdp0G4bVC9douOO) | 3:30 | 2022-05-11 | 2022-07-29 |
 | [feelight!](https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj) | 3:05 | 2022-07-04 | 2022-08-22 |
 | [Find me](https://open.spotify.com/track/7xRrS3FHDkUiDvhFXceyhZ) | [Soppy](https://open.spotify.com/artist/6hH5LLQUCxSckZ5EEmcVJm) | [Find me](https://open.spotify.com/album/39TnHfqboN2tNkKpXG0oTp) | 3:20 | 2022-05-11 | 2022-06-13 |
-| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 | 2022-12-19 |
+| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 |  |
 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 | 2022-05-11 |  |
 | [Flight](https://open.spotify.com/track/6XXqH3KcRkpDNJYf2kRhBA) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [SURFING](https://open.spotify.com/album/4gjhFa54JUgELzHmQoR4J1) | 3:32 | 2022-05-11 | 2022-06-28 |
 | [Forget You \(Feat\. Rainbow note, Louie\)](https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC) | [Aliven](https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E), [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Forget You](https://open.spotify.com/album/60zXXx58lbLisnStPn442S) | 4:38 | 2022-07-04 | 2022-08-13 |
@@ -196,7 +196,7 @@
 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 | 2022-05-11 | 2022-07-05 |
 | [Pixel](https://open.spotify.com/track/3cuofWllYn8kBdMGVrvPTI) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Pixel](https://open.spotify.com/album/3smEGBtxcckJh80i2BA3Ml) | 3:28 | 2022-05-11 | 2022-07-29 |
 | [Pluto](https://open.spotify.com/track/5MUcrvartDMO0jj9xbYavg) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Aquarium](https://open.spotify.com/album/68DQ72Ez9AhEtByI4k9i2Z) | 4:29 | 2022-05-11 | 2022-07-29 |
-| [polaris](https://open.spotify.com/track/71o4YEOUkycd6pwhH03sHL) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [polaris](https://open.spotify.com/album/0g8cwMezSGfEefVg0PKkFK) | 3:32 | 2023-01-11 |  |
+| [polaris](https://open.spotify.com/track/71o4YEOUkycd6pwhH03sHL) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [polaris](https://open.spotify.com/album/0g8cwMezSGfEefVg0PKkFK) | 3:32 | 2023-01-11 | 2023-01-14 |
 | [pporappippam](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2022-05-11 |  |
 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 | 2022-07-22 |  |
 | [Rain 51db](https://open.spotify.com/track/5n7igdr3vMrBA8tUTEqDyd) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2sfaytEMgRE6oXo4vTNFbc) | 3:21 | 2022-05-11 | 2022-07-28 |

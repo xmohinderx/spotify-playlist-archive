@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-109 songs - 5 hr 25 min
+110 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Kingdom Field](https://open.spotify.com/track/6sTI7FojXhPgnop4jcUaKj) | [Neo Almeida](https://open.spotify.com/artist/0okFnsrTnCo13g1zCevMG4) | [Dreamland](https://open.spotify.com/album/1gpDvZi33tHyJwsZ9J3ETN) | 2:16 | 2022-10-08 |  |
 | [Leading Light](https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Leading Light](https://open.spotify.com/album/1Go8ba7DjE6qpyiZr2ateh) | 3:08 | 2022-08-05 |  |
 | [Lemuria](https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Awaken](https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm) | 2:47 | 2022-08-05 |  |
+| [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 | 2023-01-13 |  |
 | [Liquid](https://open.spotify.com/track/1npn4kWD5AXwPuoQPmrkKN) | [Vertical Mindset](https://open.spotify.com/artist/5vn8IRrcEm8nH3jlprOc6f) | [Liquid](https://open.spotify.com/album/4NiRRjKOFlrVglfLfbiuUu) | 3:18 | 2022-08-05 |  |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-08-05 |  |
 | [Lorimor](https://open.spotify.com/track/4Dduhh8xWr0XCBoVJthchN) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Lorimor](https://open.spotify.com/album/5BlMYaGM6uoxCXfzHkZida) | 2:19 | 2022-08-05 |  |
@@ -69,7 +70,7 @@
 | [Misquah Hills](https://open.spotify.com/track/1GQoCwdl4wQkg5ANrY7eGc) | [Stone Martyrs](https://open.spotify.com/artist/5TQiCNGub87gWCQRZuncKK) | [Agioi Deka](https://open.spotify.com/album/2FrbVqHALaeSUSfJ46sMes) | 3:19 | 2022-08-05 |  |
 | [Moments of Calm](https://open.spotify.com/track/4S04fDfAbtnnf5HIteMxxU) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Moments of Calm](https://open.spotify.com/album/59Vc9nvfaPYyx4EhOFnMYy) | 3:04 | 2022-10-08 |  |
 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 | 2022-10-08 |  |
-| [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-08-05 |  |
+| [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-08-05 | 2023-01-14 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-08-05 |  |
 | [Pathways](https://open.spotify.com/track/6z4ohxiXb7BvirAqOxlfR4) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Pathways](https://open.spotify.com/album/77i0t3E5F4jeyf9OO0u4rs) | 3:09 | 2022-08-05 |  |
 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-08 |  |

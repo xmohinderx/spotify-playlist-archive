@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Chico Rose
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,700 likes - 29 songs - 1 hr 17 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,723 likes - 29 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/album/73fglkrm4TDlCAcIepuB8p) | 2:43 |
+| 1 | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/album/73fglkrm4TDlCAcIepuB8p) | 2:43 |
 | 2 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 3 | [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 |
 | 4 | [Trumpz](https://open.spotify.com/track/0fpA44Ez6El7yJHLgln0SU) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Trumpz](https://open.spotify.com/album/4YN8jzTKellfwWAcjdTDXC) | 2:07 |

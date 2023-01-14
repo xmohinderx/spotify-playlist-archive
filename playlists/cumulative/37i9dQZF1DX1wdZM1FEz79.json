@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Missing: The Other Side 2 (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z"
+      },
+      "artists": [
+        {
+          "name": "YUDABINBAND",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199413,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s"
+    },
+    {
+      "album": {
         "name": "Everything to you \ub098\uc758 \uc138\uc0c1\uc744 \ubcf4\uc5ec\uc8fc\uace0 \uc2f6\uc5b4",
         "url": "https://open.spotify.com/album/7FJFPX2OyP0IS4koeEEEI1"
       },
@@ -7504,7 +7522,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
@@ -7548,6 +7566,24 @@
       "duration_ms": 217296,
       "name": "You Don't Know How I Wanna Hold You",
       "url": "https://open.spotify.com/track/27VyASzAp0CWCVSlrJO5Pq"
+    },
+    {
+      "album": {
+        "name": "You have done well",
+        "url": "https://open.spotify.com/album/12HCGXiulJ1v7cJz5hcXUA"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ubbfc",
+          "url": "https://open.spotify.com/artist/7jgBLUmhwwTsywCJfcztkC"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185016,
+      "name": "You have done well",
+      "url": "https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A"
     },
     {
       "album": {
@@ -7708,7 +7744,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 258961,
       "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"

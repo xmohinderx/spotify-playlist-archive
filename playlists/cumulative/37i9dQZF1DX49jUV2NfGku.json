@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
+        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237743,
+      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
+    },
+    {
+      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/7I7yoD3GPwYuQcuKS8ZQuM"
       },
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 337505,
       "name": "Where The Streets Have No Name - Remastered",
       "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,291 likes - 200 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,378 likes - 200 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 9 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
 | 10 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 |
 | 11 | [Tales From The Loom](https://open.spotify.com/track/3oIenHRy1prChmyWFiCnG2) | [Lewgong](https://open.spotify.com/artist/5kJ8rsyTvg2m7RjSHhbMTs) | [Tales From The Loom](https://open.spotify.com/album/5aCsWcoseMFMCrOWB9qA15) | 2:53 |
-| 12 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 |
-| 13 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
-| 14 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 |
+| 12 | [Juste un peu de temps](https://open.spotify.com/track/46kX9joHbnA0xNSlQbGjIN) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Juste un peu de temps](https://open.spotify.com/album/5ayE5YMhM1ptPPL5iuirTi) | 3:05 |
+| 13 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 |
+| 14 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
 | 15 | [Love Letter](https://open.spotify.com/track/0dBvGHBWNzInAt4uyutg5i) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Love Letter](https://open.spotify.com/album/0vsVIaPDvHh4mDWIusQek6) | 2:58 |
 | 16 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 |
 | 17 | [Entering Light](https://open.spotify.com/track/66sprH72V1xH9LhBW5Pvar) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Silhouettes](https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz) | 2:43 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 199 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 200 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 
-Snapshot ID: `MTY3MzI5MzQ3MywwMDAwMDAwMGIyYTgxY2NiOTY4NDRmMDYyODgxNjE1NWJkNmM4MmVm`
+Snapshot ID: `MTY3MzYyODA3MiwwMDAwMDAwMDJhNTc3MzczNDdhZjFiNmRlNDg1YzJmMDI3MGRkZDZh`

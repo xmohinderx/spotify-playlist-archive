@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "\u8074\u304f\u5c0f\u8aac\u30fb\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+        "url": "https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5"
+      },
+      "artists": [
+        {
+          "name": "\u8074\u304f\u5c0f\u8aac\u30fb\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+          "url": "https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6165199,
+      "name": "\u300c\u8074\u304f\u5c0f\u8aac\u30fb\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a\u300d\u307e\u3068\u3081(1-30\u8a71)",
+      "url": "https://open.spotify.com/episode/5zN35BEzRUY4bDh3NGI60N"
+    },
+    {
+      "album": {
         "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u96f2\u306e\u3080\u3053\u3046\u3001\u7d04\u675f\u306e\u5834\u6240 Original Sound Track",
         "url": "https://open.spotify.com/album/59CGpIQ02102FKPMemsKtr"
       },

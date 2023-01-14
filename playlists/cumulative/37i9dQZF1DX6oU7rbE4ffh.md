@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-133 songs - 7 hr 8 min
+134 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Kiedy anioły śpiewają](https://open.spotify.com/track/00B2qA7KX5pkJN0mriTeIw) | [Nadzieja Nowak](https://open.spotify.com/artist/4G7MZ9ZdNf8SwRZix5rFLx) | [Kiedy anioły śpiewają](https://open.spotify.com/album/6mi0Whx3iDPqGCniA5s2Uu) | 3:31 | 2022-05-25 |  |
 | [Lavernautica](https://open.spotify.com/track/7nVQFrpXnlY1ol6bTzK8sy) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Lavernautica](https://open.spotify.com/album/3XcLCdpgMEIpF1Qoa533z1) | 3:07 | 2022-06-16 |  |
 | [Leading Light](https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Leading Light](https://open.spotify.com/album/1Go8ba7DjE6qpyiZr2ateh) | 3:08 | 2022-05-25 |  |
+| [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 | 2023-01-13 |  |
 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 | 2022-05-25 |  |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-05-25 |  |
 | [Long\-Horned Beetles](https://open.spotify.com/track/2Fi1BIoPwqLyFmi49IaIp5) | [Dominico Lucci](https://open.spotify.com/artist/2Oh8aUjFUfE8lFUF2fANyT) | [Dominico's Resting Hands](https://open.spotify.com/album/0LC6hCqk7mIKv2Ytt6CaaK) | 3:45 | 2022-05-25 |  |

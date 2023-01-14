@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1rWg0CyGoCsRYYtpj5NC5P">Sillyelly</a>
+> Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:5wu37JsDSxwAvkZIdYT3Nn">Asjatica</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,277 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,287 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Waifu Material](https://open.spotify.com/track/3eUqI6nmU2mAUdZFqdS831) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Waifu Material](https://open.spotify.com/album/1NNnst3RiYbYBhissGHtkI) | 2:23 |
-| 2 | [Grandi](https://open.spotify.com/track/5bF188CDCytSLpTz0sCFNe) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI](https://open.spotify.com/album/73NIgIPuF8VnZk719sgVaF) | 2:58 |
-| 3 | [Come Back](https://open.spotify.com/track/1ig8ML3HcSIg4TlxkdY6Vp) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Come Back](https://open.spotify.com/album/1sUCObvXmV1atcS1yV7Pwo) | 2:05 |
-| 4 | [100 GIORNI](https://open.spotify.com/track/1XutSOW3HIb0oBiNwDINxL) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [100 GIORNI](https://open.spotify.com/album/6vQHAIf4uxsWItu8Gp9nNH) | 1:16 |
-| 5 | [Aeroplanino di Carta](https://open.spotify.com/track/0LwV37FmC7PHMMX9nsQpqD) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X) | [Tutto Male, Grazie](https://open.spotify.com/album/5NwJYMpSkBvlhZXv8h6FCW) | 3:03 |
-| 6 | [2000 palazzine](https://open.spotify.com/track/0kkhZJhOnKER0zMd3mCjwn) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG) | [2000 palazzine](https://open.spotify.com/album/51I1SwZZXkeCFWb4eV1B3W) | 2:46 |
-| 7 | [Stracci](https://open.spotify.com/track/0qTSaROdllmPApG3LUuzgR) | [Cate](https://open.spotify.com/artist/0W4rRhGtsRNewRb2pNPsdp) | [Stracci](https://open.spotify.com/album/7ww722Zs75H83LVP4z398c) | 2:54 |
-| 8 | [RANDAGIO](https://open.spotify.com/track/3e53RgA1JrLglHHivj91SK) | [BRANCA](https://open.spotify.com/artist/1LdGo1LeuMG4zRjFR39bw8) | [RANDAGIO](https://open.spotify.com/album/4oRnTRfTdEWMUkD1kpt8rH) | 2:29 |
-| 9 | [Lilo e Stitch](https://open.spotify.com/track/4yiHkUuvdgOhuxjbBiUW8I) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [Lilo e Stitch](https://open.spotify.com/album/1yTNEwLCDzanzs6c9IAfwe) | 2:37 |
-| 10 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 |
+| 1 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 |
+| 2 | [Waifu Material](https://open.spotify.com/track/3eUqI6nmU2mAUdZFqdS831) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Waifu Material](https://open.spotify.com/album/1NNnst3RiYbYBhissGHtkI) | 2:23 |
+| 3 | [Grandi](https://open.spotify.com/track/5bF188CDCytSLpTz0sCFNe) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI](https://open.spotify.com/album/73NIgIPuF8VnZk719sgVaF) | 2:58 |
+| 4 | [Come Back](https://open.spotify.com/track/1ig8ML3HcSIg4TlxkdY6Vp) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Come Back](https://open.spotify.com/album/1sUCObvXmV1atcS1yV7Pwo) | 2:05 |
+| 5 | [100 GIORNI](https://open.spotify.com/track/1XutSOW3HIb0oBiNwDINxL) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [100 GIORNI](https://open.spotify.com/album/6vQHAIf4uxsWItu8Gp9nNH) | 1:16 |
+| 6 | [Aeroplanino di Carta](https://open.spotify.com/track/0LwV37FmC7PHMMX9nsQpqD) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X) | [Tutto Male, Grazie](https://open.spotify.com/album/5NwJYMpSkBvlhZXv8h6FCW) | 3:03 |
+| 7 | [2000 palazzine](https://open.spotify.com/track/0kkhZJhOnKER0zMd3mCjwn) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG) | [2000 palazzine](https://open.spotify.com/album/51I1SwZZXkeCFWb4eV1B3W) | 2:46 |
+| 8 | [Stracci](https://open.spotify.com/track/0qTSaROdllmPApG3LUuzgR) | [Cate](https://open.spotify.com/artist/0W4rRhGtsRNewRb2pNPsdp) | [Stracci](https://open.spotify.com/album/7ww722Zs75H83LVP4z398c) | 2:54 |
+| 9 | [RANDAGIO](https://open.spotify.com/track/3e53RgA1JrLglHHivj91SK) | [BRANCA](https://open.spotify.com/artist/1LdGo1LeuMG4zRjFR39bw8) | [RANDAGIO](https://open.spotify.com/album/4oRnTRfTdEWMUkD1kpt8rH) | 2:29 |
+| 10 | [Lilo e Stitch](https://open.spotify.com/track/4yiHkUuvdgOhuxjbBiUW8I) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [Lilo e Stitch](https://open.spotify.com/album/1yTNEwLCDzanzs6c9IAfwe) | 2:37 |
 | 11 | [Rain](https://open.spotify.com/track/0evhv6Na2i1YjlW9lzoC7F) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [Rain](https://open.spotify.com/album/6Y1lL0p13Gb6SE8HiDkNCJ) | 3:08 |
 | 12 | [devil may cry](https://open.spotify.com/track/7c0Z5XkcRHDZjhlnIPTuSe) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [devil may cry](https://open.spotify.com/album/6VQ4kaGM0fRedoxtBWyMq1) | 2:43 |
 | 13 | [Alla Follia](https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw), [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Alla Follia](https://open.spotify.com/album/14po1TeMD3PoErpWdl5Jcj) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Plenilunio](https://open.spotify.com/track/6nk1EJmN8Wtm6X104qRXFA) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [DeLorean](https://open.spotify.com/album/21Wru2PDE6gegfc1RBuSyn) | 2:58 |
 | 50 | [ADRENALINFA](https://open.spotify.com/track/3ibFxXx3HhpUUdzRyXmPfx) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [ADRENALINFA](https://open.spotify.com/album/589tkGaRrkFSgJOakBJbE5) | 3:05 |
 
-Snapshot ID: `MTY3MzM0MTMyNCwwMDAwMDAwMGFhMWIzOTc3OTVlYTJmMDk0M2ZhNjljYWI2ZTgwMGE5`
+Snapshot ID: `MTY3MzYyMTE4MSwwMDAwMDAwMDJkZmEwMTc2MGRmOTRmOTVkMDJjYTI5OTlhOTIzMWM5`

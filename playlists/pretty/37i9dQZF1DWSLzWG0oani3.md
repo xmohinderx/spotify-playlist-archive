@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,009 likes - 64 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,106 likes - 64 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 8 | [TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 |
 | 9 | [Pa Tra Rkt \- Remix](https://open.spotify.com/track/4RuXJVAsDaF52Z8D6lYRXX) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Pa Tra Rkt \(Remix\)](https://open.spotify.com/album/0b1oaaNjBCMZ1UBsqAokfU) | 8:18 |
 | 10 | [Chiquitita](https://open.spotify.com/track/3qbIr79hziQsnh95N8ml8w) | [Miyah](https://open.spotify.com/artist/5rE2HaYrmTza8MPBzzujzw), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [Chiquitita](https://open.spotify.com/album/2eUnSC4FXddBi7L2ThGN4A) | 2:01 |
-| 11 | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/track/0HghA8NwsiFcgROYKFjX3W) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/album/4cQBFUMTxNTejT7TVZv958) | 3:04 |
+| 11 | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/track/2emaPMbgugJb0EhCVccat7) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/album/5CXlDM6yPugcBGn5CPJm3k) | 3:04 |
 | 12 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH) | 2:09 |
 | 13 | [Se Pikó El After](https://open.spotify.com/track/4XMnk5JteXlqjvc52OkoTJ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Se Pikó El After](https://open.spotify.com/album/2hkzdGPSximNluKRSlD75G) | 2:48 |
 | 14 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 63 | [Para Que Aprendan](https://open.spotify.com/track/6ZenaPkP2yEdwctGL6eagB) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Para Que Aprendan](https://open.spotify.com/album/0aw5Uti0zedVLh34XE9nzb) | 2:19 |
 | 64 | [SUSY 420](https://open.spotify.com/track/444LRhxSirslV3xR6uwDr1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [SUSY 420](https://open.spotify.com/album/4jbhivQacS1R66AvVFBIxd) | 3:12 |
 
-Snapshot ID: `MTY3MTc5NjgzOCwwMDAwMDAwMDY3ODZlMjBiNTEwMzM4OWM3NjViYTc4YTNmODAzMzFk`
+Snapshot ID: `MTY3MTc5NjgzOCwwMDAwMDAwMGI1ZjM5NDljNDZjYWVhNjYzYjBkNmY0MzZmNWEwYTJm`

@@ -2,7 +2,7 @@
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de enero 2023.
+> Lo mejor de enero 2023
 
 424 songs - 22 hr 52 min
 
@@ -110,7 +110,7 @@
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-08 | 2022-09-20 |
 | [Cómo Le Haces](https://open.spotify.com/track/0Vou3YugmY9I6pu52uxaYT) | [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp), [Randy Class](https://open.spotify.com/artist/1YR8xgyH1ahXGsTDPsxZZl) | [Cómo Le Haces](https://open.spotify.com/album/2foCDHK6cMCIfCgtXzDlak) | 3:34 | 2022-01-20 | 2022-04-02 |
 | [Dame Break](https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Dame Break](https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF) | 3:31 | 2022-07-12 | 2022-08-18 |
-| [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 | 2023-01-13 |  |
+| [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 | 2023-01-12 |  |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Dance Crip](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-14 | 2022-01-06 |
 | [Daniboy](https://open.spotify.com/track/6fG5gbxzLKSYArNNQxaRIJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Daniboy](https://open.spotify.com/album/39dJCiAZddTJMm08YFn6nW) | 3:34 | 2022-05-23 | 2022-07-13 |
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-02-15 | 2022-05-11 |

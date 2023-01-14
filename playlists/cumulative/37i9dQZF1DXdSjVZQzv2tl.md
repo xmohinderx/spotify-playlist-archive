@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Matheus & Kauan
+> O melhor do sertanejo em uma só playlist! Foto: Maiara & Maraísa
 
 112 songs - 5 hr 20 min
 

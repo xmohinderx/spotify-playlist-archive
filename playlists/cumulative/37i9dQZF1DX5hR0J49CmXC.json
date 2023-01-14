@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 166620,
       "name": "Green Cards",
       "url": "https://open.spotify.com/track/5M4I7qdZg6lOUxtwNjlnpI"
@@ -3149,6 +3149,28 @@
     },
     {
       "album": {
+        "name": "In The Beginning (Vol. 3)",
+        "url": "https://open.spotify.com/album/3TUzdmLEshrvjPw9zsUbtu"
+      },
+      "artists": [
+        {
+          "name": "Declaime",
+          "url": "https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152641,
+      "name": "Laff Now Cry Later",
+      "url": "https://open.spotify.com/track/5PAqd79gMDiICGSGaP3rRh"
+    },
+    {
+      "album": {
         "name": "Balens Cho (Hot Candles)",
         "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
       },
@@ -3416,7 +3438,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 134814,
       "name": "Mad Man",
       "url": "https://open.spotify.com/track/6xhYVgBplFYRsK9dnpUjVG"
@@ -4620,6 +4642,32 @@
       "duration_ms": 258032,
       "name": "Racketeering Influenced and Corrupt Organizations",
       "url": "https://open.spotify.com/track/5iFmwkyfWOcsStwdQBRY61"
+    },
+    {
+      "album": {
+        "name": "Rain Falls",
+        "url": "https://open.spotify.com/album/4IU6tIFCwMuHk5f0CYEhSI"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189493,
+      "name": "Rain Falls",
+      "url": "https://open.spotify.com/track/2FXNSDdjyrx855G0WMRTL1"
     },
     {
       "album": {

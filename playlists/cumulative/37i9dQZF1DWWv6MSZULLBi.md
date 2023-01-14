@@ -4,11 +4,12 @@
 
 > A laid\-back trip in the folk scene\. Cover: Lizzy McAlpine
 
-273 songs - 16 hr 21 min
+276 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 of 2](https://open.spotify.com/track/6tllMLFbEIDWJ4LxWgudOn) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [1 of 2](https://open.spotify.com/album/3jX9FXY6rmjwKi5NtIMxpD) | 3:50 | 2022-11-18 |  |
+| [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:44 | 2023-01-13 |  |
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-09-09 |  |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 | 2022-10-01 |
 | [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 | 2022-06-04 |
@@ -36,7 +37,7 @@
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2022-05-13 | 2022-05-28 |
 | [Buzz Cut](https://open.spotify.com/track/3BpEI4vjCFvblmJIKj1ygx) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [Buzz Cut](https://open.spotify.com/album/04QmI7yV5m6I8UtUKjiQMs) | 2:42 | 2022-09-09 |  |
 | [Call You in the Morning](https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Call You in the Morning](https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB) | 2:12 | 2022-06-10 | 2022-07-30 |
-| [Cannibal](https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:00 | 2022-09-16 |  |
+| [Cannibal](https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:00 | 2022-09-16 | 2023-01-14 |
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-22 | 2022-09-20 |
 | [Cannibal](https://open.spotify.com/track/66sgJDWffGSEw3huWPjNWA) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6) | 4:01 | 2022-07-22 | 2022-07-29 |
 | [Cannot Change It All](https://open.spotify.com/track/3o0DkaDAeuO8mXFqdgCVXv) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Cannot Change It All B/W Old Bill's Tune](https://open.spotify.com/album/34P8okXqHGyUqxBvD9SYU5) | 4:27 | 2022-05-27 | 2022-12-10 |
@@ -125,6 +126,7 @@
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-05-13 | 2022-08-20 |
 | [Jean Jackets](https://open.spotify.com/track/7scjbEORM6rWarLNN8fKbX) | [Poor Nameless Boy](https://open.spotify.com/artist/1dg1JkQ7rtDMlwAi19pTZp) | [Jean Jackets](https://open.spotify.com/album/2cvnqzZA3e0yHufeRx9E02) | 3:36 | 2022-05-13 | 2022-06-25 |
 | [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2022-10-21 |  |
+| [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-01-13 |  |
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-10 | 2022-08-27 |
 | [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 | 2022-10-28 | 2022-12-03 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-29 |
@@ -255,6 +257,7 @@
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2022-05-13 | 2022-06-30 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-30 |  |
 | [Turpentine](https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [Turpentine](https://open.spotify.com/album/16uVEqnUKB1BJNHvmWYaF0) | 3:13 | 2022-09-23 |  |
+| [Under Weather \(feat\. Eleni Drake\)](https://open.spotify.com/track/2s65rf7h5o4Wo0sIaU4BfU) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Under Weather \(feat\. Eleni Drake\)](https://open.spotify.com/album/5tJnphtgfIHFt1t7MhnK4r) | 3:21 | 2023-01-13 |  |
 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2022-05-13 | 2022-06-18 |
 | [Until You \- Acoustic](https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You \(Acoustic\)](https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1) | 3:17 | 2022-06-17 | 2022-09-10 |
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2022-05-13 | 2022-09-17 |
@@ -262,7 +265,7 @@
 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 | 2022-11-21 |  |
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 | 2022-09-24 |
 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 |  |
-| [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 |  |
+| [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 | 2023-01-14 |
 | [Waves](https://open.spotify.com/track/3jAYnFmQS0H5O4ShG14Ac7) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Waves](https://open.spotify.com/album/5q0GJoKde3ndLUxfTKNrFP) | 3:22 | 2022-10-21 |  |
 | [Westward](https://open.spotify.com/track/1P0IOG572jMDIXR4K0EGwX) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:22 | 2022-05-13 |  |
 | [What In The World](https://open.spotify.com/track/2tnP8nZxy6lx3qow73IZ7A) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [What In The World](https://open.spotify.com/album/36t9kuw9Y14nkK8aOceiFY) | 3:42 | 2022-05-13 | 2022-07-29 |
@@ -274,7 +277,7 @@
 | [Whiskey & Cigarettes](https://open.spotify.com/track/0KTXcuyKvMkRQSOy1M4OcI) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Whiskey & Cigarettes](https://open.spotify.com/album/4Caa4NGOiaczGbgRUak4QL) | 1:47 | 2022-11-11 |  |
 | [Wishbone](https://open.spotify.com/track/1JFz7nBOYZkC1lu9JLapvJ) | [Phöenix Lazare](https://open.spotify.com/artist/35tv3JaOeSZMF1ScsWmlVy) | [Wishbone](https://open.spotify.com/album/52s1OjYNTVAh86m6HXqipg) | 4:10 | 2022-06-24 |  |
 | [With You](https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 2:51 | 2022-06-17 |  |
-| [With You](https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [With You](https://open.spotify.com/album/75yM5cCqKUclZgoZ6qkNMT) | 3:51 | 2022-05-13 |  |
+| [With You](https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [With You](https://open.spotify.com/album/75yM5cCqKUclZgoZ6qkNMT) | 3:51 | 2022-05-13 | 2023-01-14 |
 | [would you call me up?](https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [would you call me up?](https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs) | 4:11 | 2022-05-13 | 2022-07-09 |
 | [You](https://open.spotify.com/track/1eB1b1MGiCrFWn8JFkL0ZC) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [You](https://open.spotify.com/album/6NSPHXtgNOP1nUiSP5d9NS) | 4:03 | 2022-05-13 | 2022-06-11 |
 | [You Could Be Free](https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Could Be Free](https://open.spotify.com/album/4Bog6J0ArjOtPH9mPAqHnl) | 3:07 | 2022-09-23 |  |

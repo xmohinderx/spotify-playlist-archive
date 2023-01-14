@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg?si=Jq9a0fFmSFGZkhNuQUTqbw"> Aya Nakamura </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,764 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,733 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

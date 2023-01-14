@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Teenage Priest",
+  "description": "Underground indie rock gems. Cover: Miss Grit",
   "name": "undercurrents",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 231929,
       "name": "atonement",
       "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 334000,
       "name": "Better",
       "url": "https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 209859,
       "name": "Bucktooth",
       "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
@@ -4333,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/1qFxc9TGxsarNpuIYT89kh"
+      },
+      "artists": [
+        {
+          "name": "The Rills",
+          "url": "https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/5Ois32EzRt9Pl1f7OKVQI8"
+    },
+    {
+      "album": {
         "name": "Falling by the Wayside",
         "url": "https://open.spotify.com/album/2EhEO1Avj1EUg0zHrOk29f"
       },
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 260013,
       "name": "Frances Farmer Will Have Her Revenge On Seattle",
       "url": "https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE"
@@ -4944,7 +4962,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 130479,
       "name": "Gary Ashby",
       "url": "https://open.spotify.com/track/30erf27MriGIsvb4rzria6"
@@ -7493,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "Lain (phone clone)",
+        "url": "https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241003,
+      "name": "Lain (phone clone)",
+      "url": "https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT"
+    },
+    {
+      "album": {
         "name": "last minute cycle",
         "url": "https://open.spotify.com/album/377wkeA1wwdQSapEBYaTar"
       },
@@ -8051,6 +8087,24 @@
     },
     {
       "album": {
+        "name": "Mark Mothersbaugh Alterego",
+        "url": "https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9"
+      },
+      "artists": [
+        {
+          "name": "Yonic South",
+          "url": "https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168593,
+      "name": "Mark Mothersbaugh Alterego",
+      "url": "https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY"
       },
@@ -8386,7 +8440,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 161111,
       "name": "my favorite things",
       "url": "https://open.spotify.com/track/0XB8C36wLdj1GuzsXFCfVv"
@@ -8892,6 +8946,24 @@
       "duration_ms": 128917,
       "name": "Not in the Cards",
       "url": "https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp"
+    },
+    {
+      "album": {
+        "name": "Nothing In Particular",
+        "url": "https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY"
+      },
+      "artists": [
+        {
+          "name": "afternoon bike ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207371,
+      "name": "Nothing In Particular",
+      "url": "https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u"
     },
     {
       "album": {
@@ -9505,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "Pieces of Gold",
+        "url": "https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Katz",
+          "url": "https://open.spotify.com/artist/1kCey8cRpDpF2WsW0jPLVI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241271,
+      "name": "Pieces of Gold",
+      "url": "https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy"
+    },
+    {
+      "album": {
         "name": "Pls",
         "url": "https://open.spotify.com/album/5nAYqQTnaU48kSylS4lFzw"
       },
@@ -9560,6 +9650,24 @@
       "duration_ms": 138762,
       "name": "Poolside",
       "url": "https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL"
+    },
+    {
+      "album": {
+        "name": "Pop Song 2 & 1",
+        "url": "https://open.spotify.com/album/5BLlxvXXNaWcublYzNsNlz"
+      },
+      "artists": [
+        {
+          "name": "Velvet Negroni",
+          "url": "https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114538,
+      "name": "Pop Song 2",
+      "url": "https://open.spotify.com/track/1ajhtWRkjgsKSvXn9zb6oS"
     },
     {
       "album": {
@@ -10328,6 +10436,28 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
+    },
+    {
+      "album": {
+        "name": "Secrecies (feat. Sam Austins)",
+        "url": "https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138302,
+      "name": "Secrecies - feat. Sam Austins",
+      "url": "https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl"
     },
     {
       "album": {
@@ -12708,7 +12838,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 203059,
       "name": "Try",
       "url": "https://open.spotify.com/track/7uuomiEzgF5w4TPJDUvAEQ"
@@ -12957,6 +13087,24 @@
     },
     {
       "album": {
+        "name": "Under Tongues",
+        "url": "https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170735,
+      "name": "Under Tongues",
+      "url": "https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml"
+    },
+    {
+      "album": {
         "name": "Unfun / Sleep In",
         "url": "https://open.spotify.com/album/6V7UUDVV3MbEgmVRUlFN9t"
       },
@@ -12972,7 +13120,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 262826,
       "name": "Unfun",
       "url": "https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u"

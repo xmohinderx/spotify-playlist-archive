@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6LjRKT71Go9zcqsSxT9FrV"
+      },
+      "artists": [
+        {
+          "name": "Cody Wallter",
+          "url": "https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/5w0R9CF9qaTfwghKBi6Tb0"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol"
       },
@@ -690,6 +708,24 @@
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
+    },
+    {
+      "album": {
+        "name": "Fleeting Thoughts",
+        "url": "https://open.spotify.com/album/2Lh2xrVBPsJXMOkW7xLQmD"
+      },
+      "artists": [
+        {
+          "name": "Amat Leony",
+          "url": "https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175816,
+      "name": "Fleeting Thoughts",
+      "url": "https://open.spotify.com/track/7KIiDekYdnY4vQUjyzsG8N"
     },
     {
       "album": {

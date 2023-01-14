@@ -1,28 +1,32 @@
 {
   "description": "The Midwest is always on time. Cover: Icewear Vezzo\n",
-  "num_followers": 99048,
+  "num_followers": 99136,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGYwNzllNjQ4ZWNhNTE1OWM5NGFmNmIzZThlZWM3YWQ3",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDQxYmRjNWZkOGFkMWUwMzkyOGVhNjJlZWI5MGMzMDZl",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "ONLY BUILT 4 DIAMOND LINKS",
-        "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
+        "name": "MOB",
+        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
       },
       "artists": [
         {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 159973,
-      "name": "2 Million Up",
-      "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
+      "duration_ms": 133953,
+      "name": "Wonderful Wayne & Jackie Boy",
+      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -43,6 +47,42 @@
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "ONLY BUILT 4 DIAMOND LINKS",
+        "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "2 Million Up",
+      "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Bin Reaper 3: New Testament",
+        "url": "https://open.spotify.com/album/3djREupuPtVxMt6OBlKPcL"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 145700,
+      "name": "Beetleborgs",
+      "url": "https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -69,56 +109,60 @@
       "url": "https://open.spotify.com/track/693A64f4CTONpjPPOZ4lp1"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Mr. Hanky",
-        "url": "https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu"
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
       "artists": [
         {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 142846,
-      "name": "Mr. Hanky",
-      "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "MOB",
-        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "Doodie Lo",
+          "url": "https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7"
         },
+        {
+          "name": "chief wuk",
+          "url": "https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Thug Life (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/3Ht7Rl2AvdFQeKVafqsS4f"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 133953,
-      "name": "Wonderful Wayne & Jackie Boy",
-      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Where The Shooters Be",
-        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 117481,
-      "name": "Vanish Mode",
-      "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -153,36 +197,20 @@
       "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+        "name": "Where The Shooters Be",
+        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
+      "duration_ms": 117481,
+      "name": "Vanish Mode",
+      "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -205,6 +233,22 @@
       "url": "https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Kisses 2 The Sky",
+        "url": "https://open.spotify.com/album/4N5RzCT2MXXQIBG8hPKkR2"
+      },
+      "artists": [
+        {
+          "name": "GANG51E JUNE",
+          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "Kisses 2 The Sky",
+      "url": "https://open.spotify.com/track/57tQyT1vK21C6Z0lbMu64E"
+    },
+    {
       "added_at": "2022-12-16 07:30:15",
       "album": {
         "name": "The Leek, Vol. 2",
@@ -221,28 +265,20 @@
       "url": "https://open.spotify.com/track/1kXWwqPllwmvkLPxQvKdjB"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+        "name": "Mr. Hanky",
+        "url": "https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu"
       },
       "artists": [
         {
-          "name": "Doodie Lo",
-          "url": "https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7"
-        },
-        {
-          "name": "chief wuk",
-          "url": "https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI"
-        },
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Thug Life (feat. Icewear Vezzo)",
-      "url": "https://open.spotify.com/track/3Ht7Rl2AvdFQeKVafqsS4f"
+      "duration_ms": 142846,
+      "name": "Mr. Hanky",
+      "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -887,42 +923,6 @@
       "duration_ms": 118889,
       "name": "Glitches (feat. G Herbo)",
       "url": "https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Racks Stuffed Inna Couch",
-        "url": "https://open.spotify.com/album/0tlXYoXRUWsbpQFNjLS5lH"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 206550,
-      "name": "Racks Stuffed Inna Couch",
-      "url": "https://open.spotify.com/track/4orUkj1hPjvq90mDIeuu78"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "New Money",
-        "url": "https://open.spotify.com/album/3S35vId70s4N2OxkwZP67N"
-      },
-      "artists": [
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "All Hustle (feat. Jeezy)",
-      "url": "https://open.spotify.com/track/4bN2qHcGAwLbvbakbi6W5L"
     }
   ],
   "unique_name": "CST",

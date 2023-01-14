@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417004,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0"
+    },
+    {
+      "album": {
         "name": "Giant Something",
         "url": "https://open.spotify.com/album/4s8yfx0H0V18KwAgJj20Ob"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 354127,
       "name": "Don't Say Goodnight Just Yet",
       "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"

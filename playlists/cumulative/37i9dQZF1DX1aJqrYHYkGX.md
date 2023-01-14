@@ -4,7 +4,7 @@
 
 > Gentle, relaxing music from around the globe.
 
-82 songs - 5 hr 43 min
+86 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-08-10 |  |
 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 | 2022-08-10 |  |
 | [Duga](https://open.spotify.com/track/6tdJU5kgDI9yP4LBdVMh8X) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 2:36 | 2022-08-10 |  |
+| [El Duende](https://open.spotify.com/track/0bfWgeqFYUPerXAavokicr) | [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Pawel Kobak](https://open.spotify.com/artist/3GsgrKQIEVoGZZxDBKJUsL), [Marco Lucchi](https://open.spotify.com/artist/1TRilVaDaQw0ksGqU5tuCh), [Rocco Saviano](https://open.spotify.com/artist/3pZVKEjTZN9bN3V2ahQK54) | [Venusia](https://open.spotify.com/album/2BoM1MsjqvwUPqlaZW9Zea) | 5:12 | 2023-01-13 |  |
 | [Eranthis Hyemalis II](https://open.spotify.com/track/0gyKC5AWtclO8PrFK2srNS) | [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Pawel Kobak](https://open.spotify.com/artist/3GsgrKQIEVoGZZxDBKJUsL), [Marco Lucchi](https://open.spotify.com/artist/1TRilVaDaQw0ksGqU5tuCh), [Rocco Saviano](https://open.spotify.com/artist/3pZVKEjTZN9bN3V2ahQK54) | [Eranthis Hyemalis II](https://open.spotify.com/album/07YyJynxYEcJePTZGhfFwo) | 2:20 | 2022-08-10 |  |
 | [Flutiscious](https://open.spotify.com/track/1iMs41jYAr8yR8gMJLkuwX) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Flutiscious](https://open.spotify.com/album/4qaqlh2PGTLm932czfyZr4) | 3:20 | 2022-08-10 |  |
 | [Follow The Sun \- Osmosis Version](https://open.spotify.com/track/0MlYCFWI0oduT11W6O8ptJ) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 4:03 | 2022-08-10 |  |
@@ -46,6 +47,7 @@
 | [Mazaj 2](https://open.spotify.com/track/7k3n7vPc9C5SpUBbEhYCEe) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY), [Jérémy Marais](https://open.spotify.com/artist/1qpdOXTXq5wQm3ev30RbqQ), [Imroel\-Quays](https://open.spotify.com/artist/2XwZ9QnaodqmkrJbanvvir) | [Mazaj \(Vibe\)](https://open.spotify.com/album/2Lzv8I1ojDganSCmRb3hCz) | 3:28 | 2022-08-10 |  |
 | [Meditation Forest](https://open.spotify.com/track/0qXYVxXhJNSsaHsc6hp4dQ) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Meditation Forest](https://open.spotify.com/album/6QRHCMnxBoh7XSQ8JXGD49) | 4:09 | 2022-08-10 |  |
 | [Milena's Theme \(Duduk\)](https://open.spotify.com/track/290GVez1qXhK2Dmx9JIauj) | [Mandala Ohm](https://open.spotify.com/artist/7DxNYkd18YNFvJnVJ8tSPu) | [Milena's Theme \(Duduk\)](https://open.spotify.com/album/1VfvW4Pw4IQECc9nsWTo1Q) | 3:20 | 2022-08-10 |  |
+| [Mirrors](https://open.spotify.com/track/6MZ1N2y8tdws6NoYmS9mMe) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V), [Carlo Minuta](https://open.spotify.com/artist/04cP6qBKH2rTpfylxtnlWO) | [Mirrors](https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF) | 3:44 | 2023-01-13 |  |
 | [Morning Healing](https://open.spotify.com/track/5y391bgrSpwr54n5Xwr2z6) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:12 | 2022-08-10 |  |
 | [Mount Tamalpais](https://open.spotify.com/track/11AFsMB6nBEmjHByntYwFq) | [Jon Mark](https://open.spotify.com/artist/3qDTjWFsO3R4lpvcZEu6N7) | [Mark: Solitary Journeys](https://open.spotify.com/album/7vWGCQhje4spO6xlc0jbrY) | 4:24 | 2022-08-10 |  |
 | [Mystique Garden](https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Mystique Garden](https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL) | 3:08 | 2022-08-10 |  |
@@ -64,6 +66,7 @@
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 | 2022-08-10 |  |
 | [Savasana](https://open.spotify.com/track/31VYNJ5we001yPTboZ7mXf) | [Will Tuinstra](https://open.spotify.com/artist/0saSJJHHdamRyjGmd789FD) | [Savasana](https://open.spotify.com/album/4v5RsQEig5nc6CIwqFVGZV) | 4:30 | 2022-08-10 |  |
 | [Say Your Prayers](https://open.spotify.com/track/11oUthXbMYswzsqsS927pF) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Land Of Gold](https://open.spotify.com/album/4zPcbxBEKkZDEjsdbQoEJi) | 4:48 | 2022-08-10 |  |
+| [Sea Of Serenity](https://open.spotify.com/track/6xItrEwP95gIaAYVqVoUOa) | [Tehan Form](https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij) | [Sea Of Serenity](https://open.spotify.com/album/3OkqmmariRtvyPaojnsCKx) | 2:47 | 2023-01-13 |  |
 | [Serenade](https://open.spotify.com/track/4S5fjLovqyU2TLgwdHaQMS) | [Alfred Blue](https://open.spotify.com/artist/68RZ0KbVL20s47Mj3mU40o) | [Serenade](https://open.spotify.com/album/1bKkTN4YE7EFBZQaPXkr2b) | 2:37 | 2022-08-10 |  |
 | [Shaantipoorn Bageecha](https://open.spotify.com/track/3qqvBjzXGgeyGCTJ5x3OXu) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Rajasthan](https://open.spotify.com/album/3lmvyNXwElZPiV3BLpIbDr) | 4:00 | 2022-08-10 |  |
 | [She\-Bay Sandscape](https://open.spotify.com/track/6P3EQ7fKM1bILZShb5gGTU) | [Siwan Sinan](https://open.spotify.com/artist/7bjiN7dkBWlV7MBGP0eTkP) | [She\-Bay Sandscape](https://open.spotify.com/album/0HzkD0n6q12itoNqSDli0j) | 3:15 | 2022-08-10 |  |
@@ -77,6 +80,7 @@
 | [Ta Me Mo Shui \(I am sitting\)](https://open.spotify.com/track/74M8gd83bvryzcvSF3p58v) | [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [The Morning Dew – Celtic Harp](https://open.spotify.com/album/5LJmi0y8gI5pPz6YQhb6Cj) | 3:39 | 2022-08-10 |  |
 | [Ta´ amul](https://open.spotify.com/track/59DL1BgmZlzDlY32MIsK7Q) | [Feras Charestan](https://open.spotify.com/artist/5Ws0aibTwL02rpOO6aml5p) | [Ana](https://open.spotify.com/album/3DkgF7GshRqd7bleodaw3s) | 4:01 | 2022-08-10 |  |
 | [The Fairy Queen](https://open.spotify.com/track/5aHaBu4Nw5eMWgmKkp51SH) | [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [Aryeh Frankfurter: Celtic Harp \- Tunes From Ireland, Scotland and Scandinavia](https://open.spotify.com/album/2gUUuHz0ZTGPfV97oZDv7N) | 3:55 | 2022-08-10 |  |
+| [The whim of fate](https://open.spotify.com/track/79JHsAneTeMTZkcJGamenI) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 2:50 | 2023-01-13 |  |
 | [Tranquil](https://open.spotify.com/track/1VmsFLsFl9lrKeIm6Ok1sw) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Tranquil](https://open.spotify.com/album/1q5ZaHcamTvYgXameiiLtR) | 3:26 | 2022-08-10 |  |
 | [Twilight](https://open.spotify.com/track/2l5gwhS1F2xCmhoGBWPMkL) | [Todd Boston](https://open.spotify.com/artist/2zBtOhe9sRDJNNVcxs6rT3) | [Putumayo Presents Acoustic Yoga](https://open.spotify.com/album/0F032Czz9Bugbag2aIR6EB) | 4:59 | 2022-08-10 |  |
 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 | 2022-08-10 |  |

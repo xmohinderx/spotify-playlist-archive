@@ -1,18 +1,42 @@
 {
-  "description": "Songs for the Avatars \ud83d\ude09 and the M3ganistas Cover: Ava Max",
-  "num_followers": 51718,
+  "description": "Screaming, Crying, Throwing Up Cover: Koffee, Jessie Reyez & Sam Smith",
+  "num_followers": 51961,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDBkYTgyZTJjNWU2MWI4Y2M3MjljNzY1MmFjODJkYWI4",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDU5NWM4ZTJjNGMxNWQxYWY5MzM3OGZhMGY5ZjU0NzIw",
   "tracks": [
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Dancing's Done",
-        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
+        "name": "Gimme (feat. Koffee & Jessie Reyez)",
+        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Gimme (feat. Koffee & Jessie Reyez)",
+      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn"
       },
       "artists": [
         {
@@ -20,9 +44,25 @@
           "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 166906,
-      "name": "Dancing\u2019s Done",
-      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+      "duration_ms": 178010,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "PSYCHO FREAK",
+        "url": "https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ"
+      },
+      "artists": [
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        }
+      ],
+      "duration_ms": 165373,
+      "name": "PSYCHO FREAK",
+      "url": "https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -43,6 +83,54 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/77TT8Xvx637TpzV8kKGkUw"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/3WXrhTdhPwXaki8g8bmwVm"
+      },
+      "artists": [
+        {
+          "name": "Ulrikke",
+          "url": "https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "BOYTOY",
+        "url": "https://open.spotify.com/album/1k4YvboPSkWRViqD1Jc4mI"
+      },
+      "artists": [
+        {
+          "name": "Halle Abadi",
+          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "BOYTOY",
+      "url": "https://open.spotify.com/track/0uhM3a59WXfYEsxbmjga6S"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 179890,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -79,18 +167,38 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "BOYTOY",
-        "url": "https://open.spotify.com/album/1k4YvboPSkWRViqD1Jc4mI"
+        "name": "Dancing's Done",
+        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
       },
       "artists": [
         {
-          "name": "Halle Abadi",
-          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 110000,
-      "name": "BOYTOY",
-      "url": "https://open.spotify.com/track/0uhM3a59WXfYEsxbmjga6S"
+      "duration_ms": 166906,
+      "name": "Dancing\u2019s Done",
+      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "THEIR VERSIONS",
+        "url": "https://open.spotify.com/album/6j6E8QjZqtdM4ts263uEB6"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        },
+        {
+          "name": "Bright Light Bright Light",
+          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+        }
+      ],
+      "duration_ms": 299491,
+      "name": "Good Time - Bright Light Bright Light Remix",
+      "url": "https://open.spotify.com/track/4YAmOTejshVDYM2kaVJzmK"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -123,22 +231,6 @@
       "duration_ms": 196089,
       "name": "Drown Us Out",
       "url": "https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Weapons",
-        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 151592,
-      "name": "Weapons",
-      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -531,22 +623,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o"
-      },
-      "artists": [
-        {
-          "name": "Tsatsamis",
-          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
-        }
-      ],
-      "duration_ms": 190009,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/6DrIPRR1T24XUqmsW64cUF"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "100% Pure Love",
         "url": "https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG"
       },
@@ -767,22 +843,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Ancient Dreams In A Modern Land",
-      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Maybe You\u2019re The Problem",
         "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
       },
@@ -795,6 +855,22 @@
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Ancient Dreams In A Modern Land",
+      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1039,26 +1115,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 176544,
-      "name": "Pineapple Slice (with SG Lewis)",
-      "url": "https://open.spotify.com/track/66mhaHoJIiVWB3lwA6974s"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Seventh Heaven",
         "url": "https://open.spotify.com/album/0GTJ8nMLARUakwU9OkSnl4"
       },
@@ -1127,26 +1183,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Like Me",
         "url": "https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU"
       },
@@ -1191,26 +1227,6 @@
       "duration_ms": 156631,
       "name": "Too Well",
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 129836,
       "name": "Shot a friend",
       "url": "https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Girl Of My Dreams",
-        "url": "https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Guess We Lied...",
-      "url": "https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT"
     },
     {
       "added_at": "2023-01-06 05:00:00",

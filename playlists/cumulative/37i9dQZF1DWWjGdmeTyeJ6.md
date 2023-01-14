@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Babebee\. Artwork by Isu Kim\. Updates every Wednesday.
 
-2,795 songs - 6 day 9 hr 55 min
+2,796 songs - 6 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1707,7 +1707,8 @@
 | [New Berlin](https://open.spotify.com/track/6cbcyiXsDVrXQDyjrJx7Ly) | [Beverly Kills](https://open.spotify.com/artist/6vStcouZCnOc2yg2tiUC6C) | [Kaleido](https://open.spotify.com/album/6yQv0KiW6PUY0wtEyOtQVW) | 4:28 | 2022-10-05 | 2022-10-13 |
 | [New Religion](https://open.spotify.com/track/3MSaIajYgnM3pZf9uXA0K6) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [New Religion / In Spirit](https://open.spotify.com/album/7GnELPDio4G6tF9m33cWdi) | 4:04 | 2022-06-08 | 2022-06-16 |
 | [New Year](https://open.spotify.com/track/1bEhCWi5UlHfCLExsoBCiJ) | [Mikayla McVey](https://open.spotify.com/artist/0EG8z93TSrPjSOi1dYVxtb) | [New Year](https://open.spotify.com/album/0JnhJkLraEkcHcIQNYuTvs) | 6:01 | 2022-02-02 | 2022-02-10 |
-| [New Year's](https://open.spotify.com/track/3qkwuWuGClBAuuPd0DXN05) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's](https://open.spotify.com/album/2gn2hmGCUywSWW5NBQO2hT) | 3:28 | 2023-01-11 |  |
+| [New Year's](https://open.spotify.com/track/3qkwuWuGClBAuuPd0DXN05) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's](https://open.spotify.com/album/2gn2hmGCUywSWW5NBQO2hT) | 3:28 | 2023-01-11 | 2023-01-14 |
+| [New Year's](https://open.spotify.com/track/5tyBNExaQp6AcemEFHnds3) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's EP](https://open.spotify.com/album/2fCxFcHye0AWepx9y9Yk22) | 3:28 | 2023-01-11 |  |
 | [New Year's Eve](https://open.spotify.com/track/48CsqwyVQ5M3NnSveaPl4E) | [Deni](https://open.spotify.com/artist/7lTLr5dKz80VDRCN1tL3Sx) | [New Year's Eve](https://open.spotify.com/album/7nLTSqXG6ai5A8yPskpHwL) | 2:52 | 2022-01-26 | 2022-02-03 |
 | [Next Ex](https://open.spotify.com/track/5EWfxatg6wrWvNGvjsfpvb) | [Katie Belle](https://open.spotify.com/artist/7HLN8q74hfXmbPl1uMG6Uz) | [Next Ex](https://open.spotify.com/album/7H8mRQ7pwL5cSTsajNaMYX) | 2:36 | 2022-09-07 | 2022-09-15 |
 | [Next to Me \(feat\. Fiveofive\)](https://open.spotify.com/track/6GSY8J9SPNeBnZmaY2Nw5N) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Fiveofive](https://open.spotify.com/artist/4hwlmODYtrKQKxdJevZlqH) | [Next to Me \(feat\. Fiveofive\)](https://open.spotify.com/album/3WkVBSxJ31747DPXjr8Rnz) | 3:32 | 2022-02-16 | 2022-02-24 |

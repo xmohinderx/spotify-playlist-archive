@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 286361,
+  "num_followers": 286563,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGJjZjFmNTNkYzFiNDVkZmViZDg2ZWQ5Zjg2NzY4Zjc3",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGZhYWE1ZDhiOGFhMzRjOGQxZjBjODEzMWQ1MDg4MjVm",
   "tracks": [
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Unshakable",
+        "url": "https://open.spotify.com/album/6B0tuDpdjRkvd6s98Hy5gK"
+      },
+      "artists": [
+        {
+          "name": "Tom McGuire & the Brassholes",
+          "url": "https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp"
+        }
+      ],
+      "duration_ms": 331093,
+      "name": "Unshakable",
+      "url": "https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu"
+    },
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
@@ -84,12 +100,12 @@
           "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
         },
         {
-          "name": "DOMENICO",
-          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
-        },
-        {
           "name": "Rion S",
           "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
         },
         {
           "name": "Prince Street Bodega",
@@ -99,6 +115,30 @@
       "duration_ms": 225245,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Ready for Me",
+        "url": "https://open.spotify.com/album/5rauKXDJu5w56SFFoW2Fm7"
+      },
+      "artists": [
+        {
+          "name": "Galactic",
+          "url": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "Anjelika 'Jelly' Joseph",
+          "url": "https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX"
+        }
+      ],
+      "duration_ms": 185962,
+      "name": "Ready for Me",
+      "url": "https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1827,22 +1867,6 @@
       "duration_ms": 211034,
       "name": "Bad Weather - STR4TA Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/2jLZjkEclqKAbFefuLfenW"
-    },
-    {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "A PawPaw Rod EP",
-        "url": "https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Lemonhaze",
-      "url": "https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L"
     },
     {
       "added_at": "2021-08-06 04:01:00",

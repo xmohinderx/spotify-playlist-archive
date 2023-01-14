@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,082 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,134 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 21 | [Gold Action](https://open.spotify.com/track/1TNHkCfUOLTGQEG6KPnDne) | [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Gold Action](https://open.spotify.com/album/4jWfhLO4PQttOuYQQIP7Wo) | 3:46 |
 | 22 | [Sri Lanka](https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr) | [Sri Lanka](https://open.spotify.com/album/1L3i8chDu8LRbQB2DSWe8d) | 1:56 |
 | 23 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 |
-| 24 | [African Sun \- Remix](https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [African Sun \(Remix\)](https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh) | 2:23 |
+| 24 | [African Sun \- Remix](https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [African Sun \(Remix\)](https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh) | 2:23 |
 | 25 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 26 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 |
 | 27 | [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Self Deception on top of the biggest Metal playlist!",
+  "description": "Sleep Token on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 473500,
       "name": "Caravan of Broken Ghosts",
       "url": "https://open.spotify.com/track/1CzKggMZT7p836VUa1lRDc"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 240869,
       "name": "Dance Devil Dance",
       "url": "https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf"
@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Firewake",
+        "url": "https://open.spotify.com/album/4rf0rEWBkexEneZBSxZDuO"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221338,
+      "name": "Firewake",
+      "url": "https://open.spotify.com/track/09J9qdc3gOR14WF3mvEHoX"
+    },
+    {
+      "album": {
         "name": "Flesh And Stone",
         "url": "https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 225906,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/2TBDweMyj3Wen6bu9gYwrn"
@@ -5145,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "The Dirt I'm Buried In",
+        "url": "https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr"
+      },
+      "artists": [
+        {
+          "name": "Avatar",
+          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244597,
+      "name": "The Dirt I'm Buried In",
+      "url": "https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6"
+    },
+    {
+      "album": {
         "name": "The Dying Song (Time To Sing)",
         "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
       },
@@ -5392,6 +5428,24 @@
       "duration_ms": 207445,
       "name": "The Steeple",
       "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
+    },
+    {
+      "album": {
+        "name": "The Summoning",
+        "url": "https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395716,
+      "name": "The Summoning",
+      "url": "https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B"
     },
     {
       "album": {

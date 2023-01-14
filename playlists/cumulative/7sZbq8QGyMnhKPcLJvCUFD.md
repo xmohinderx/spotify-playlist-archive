@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-173 songs - 8 hr 56 min
+175 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 |  |
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 |  |
+| [Consume Me](https://open.spotify.com/track/2eBajT1oKY0ugtD1Lc5zaq) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Consume Me](https://open.spotify.com/album/4Z5cARDkDPUcU2i5ona0GH) | 5:12 | 2023-01-13 |  |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 |  |
 | [Darkness](https://open.spotify.com/track/2yT6EsKV5GBdd9AO8gd4JJ) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Darkness](https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS) | 3:41 | 2022-08-11 |  |
@@ -163,6 +164,7 @@
 | [twenty five](https://open.spotify.com/track/6uFAPsfbzY0oed5p2LH5OR) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [twenty five](https://open.spotify.com/album/55d0fwseYXlNdMXQpLf7cN) | 3:18 | 2022-11-08 |  |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 |  |
 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 | 2023-01-06 |  |
+| [Vision](https://open.spotify.com/track/1G3sEIZJQpPtsPNTLlWSzs) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [Vision](https://open.spotify.com/album/1KIMzdcNaxOXmlCH63HR96) | 2:25 | 2023-01-13 |  |
 | [Waiting](https://open.spotify.com/track/5ZsVoJMUYzanwp2MZfNOvf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Waiting](https://open.spotify.com/album/0xfFT55IkgeDqA3zuvyg6z) | 3:07 | 2022-12-13 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 |  |
 | [What I Say](https://open.spotify.com/track/2MYf47KmmKlnt8IVcvszkx) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH) | [What I Say](https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF) | 3:35 | 2022-11-18 |  |

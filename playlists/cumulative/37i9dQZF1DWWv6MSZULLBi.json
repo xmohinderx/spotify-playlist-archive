@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284370,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f"
+    },
+    {
+      "album": {
         "name": "A Different Kind of Light",
         "url": "https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES"
       },
@@ -532,7 +550,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 240666,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g"
@@ -2172,6 +2190,24 @@
       "duration_ms": 176973,
       "name": "Jericho Beach",
       "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
+    },
+    {
+      "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198274,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM"
     },
     {
       "album": {
@@ -4587,6 +4623,28 @@
     },
     {
       "album": {
+        "name": "Under Weather (feat. Eleni Drake)",
+        "url": "https://open.spotify.com/album/5tJnphtgfIHFt1t7MhnK4r"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        },
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201326,
+      "name": "Under Weather (feat. Eleni Drake)",
+      "url": "https://open.spotify.com/track/2s65rf7h5o4Wo0sIaU4BfU"
+    },
+    {
+      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -4724,7 +4782,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 187453,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk"
@@ -4940,7 +4998,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 231073,
       "name": "With You",
       "url": "https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr"

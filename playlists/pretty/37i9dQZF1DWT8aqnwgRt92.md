@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,366 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,691 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 40 | [メリーゴーランド](https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [メリーゴーランド](https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI) | 4:15 |
 | 41 | [僕らはジーニアス](https://open.spotify.com/track/0AQ3THxWg1FlDZkVZqXrzn) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [僕らはジーニアス](https://open.spotify.com/album/2UdDEwy5BGWdCkZb1WLwwk) | 3:40 |
 | 42 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 |
-| 43 | [叶える](https://open.spotify.com/track/7oHwqVKnYvnzNEXAgN4DZZ) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [叶える](https://open.spotify.com/album/0orb8MpHMhaVtaGg47vdgC) | 3:55 |
+| 43 | [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 |
 | 44 | [Take Me Maybe](https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Take Me Maybe](https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut) | 3:27 |
 | 45 | [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 |
 | 46 | [Konotateni Kakuremasu \- TVSize](https://open.spotify.com/track/1VHTcCoAPqHXanvpVrGVYK) | [純情のアフィリア](https://open.spotify.com/artist/1RFi2Nn5fsdUsVcH6V0xC1) | [TV Animation”I Don’t Want to Get Hurt, so I’ll Max Out My Defense.2”theme song](https://open.spotify.com/album/3ukhrSxULp81bKgwvm4D61) | 1:29 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 73 | [今を、生きる為に](https://open.spotify.com/track/578KbVViSYTjl713NHSYGx) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [今を、生きる為に](https://open.spotify.com/album/5LLoBEyJTODqQx81FWZLgR) | 4:46 |
 | 74 | [As the Gods Say \- Maniac Ver.](https://open.spotify.com/track/1TqPXOmJzhLLwjgB6CVHU6) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say \(Maniac Ver.\)](https://open.spotify.com/album/02JA34PUXRpX5EOowhGion) | 1:59 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMDlmNzEyYmFlNWVhMTQ3NzIzMjAyYWM2MDhhODA4MTQ5`
+Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGRkMGEzMGZjY2ExN2U5ZGVkOGRjMThmY2E4MzVlNDFm`

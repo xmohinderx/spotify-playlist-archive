@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Hide into Night",
+        "url": "https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV"
+      },
+      "artists": [
+        {
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Hide into Night",
+      "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
+    },
+    {
+      "album": {
         "name": "Don't Know",
         "url": "https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI"
       },
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 226000,
       "name": "Smile, Wait For The Flash",
       "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
@@ -3488,7 +3506,7 @@
           "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
         }
       ],
-      "date_added": "2023-01-11",
+      "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233117,

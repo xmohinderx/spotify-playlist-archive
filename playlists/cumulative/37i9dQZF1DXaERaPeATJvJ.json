@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Merayakan 21 tahun The Brandals bersama kumpulan katalog mereka.",
+  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Cherry Bombshell",
   "name": "Memorindie",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 247000,
       "name": "Awas Polizei!",
       "url": "https://open.spotify.com/track/2bPsnsvezXrMzck5HROMZ5"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 227000,
       "name": "Lingkar Labirin",
       "url": "https://open.spotify.com/track/42NbG3uuS0tz4jkSL5onlL"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 245320,
       "name": "Obsesi Mesin Kota",
       "url": "https://open.spotify.com/track/4dNFFPsWiC8RuRjGThmegd"
@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Jalan Masih Panjang",
+        "url": "https://open.spotify.com/album/6HKBzzMFzGeH3XNn0DMNya"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bombshell",
+          "url": "https://open.spotify.com/artist/0Y5KhI1O7yYPbLd7vi05td"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235259,
+      "name": "Satu Di Antara Seribu",
+      "url": "https://open.spotify.com/track/65PuD3kYlDcfarRyKtVv8w"
+    },
+    {
+      "album": {
         "name": "Propaganda",
         "url": "https://open.spotify.com/album/6qTGWkGYvVv3Y5HtJ10cpi"
       },
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 224000,
       "name": "Tipu Jalanan",
       "url": "https://open.spotify.com/track/455lrM7CINDST62QTXwc4O"

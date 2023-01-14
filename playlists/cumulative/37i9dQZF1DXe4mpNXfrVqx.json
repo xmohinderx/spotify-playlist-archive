@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "quero ver tu me parar",
+        "url": "https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125977,
+      "name": "quero ver tu me parar",
+      "url": "https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO"
+    },
+    {
+      "album": {
         "name": "Eva Gr\u00e3o",
         "url": "https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F"
       },

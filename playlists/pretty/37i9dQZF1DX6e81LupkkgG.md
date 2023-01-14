@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,858 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,891 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 99 | [The Usual](https://open.spotify.com/track/13GDcQRwrRwMxa9s774D9X) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/0bfTjB1kRloRZt6LWJYj6t) | 3:32 |
 | 100 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 |
 
-Snapshot ID: `MTY3Mjk3NDAwMCwwMDAwMDAwMDkxNjNkMDU1OTZlNWJmZWZiZmZkY2U3YmFhZDNmOWQz`
+Snapshot ID: `MTY3MzU3ODgwMCwwMDAwMDAwMDkwMWFlYTA2MTIxYTQ5OGE1Mjc5NTI1N2NkY2Y3NmY1`

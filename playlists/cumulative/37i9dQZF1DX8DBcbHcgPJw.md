@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: El Polaco & La China.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: FMK & Rei.
 
-334 songs - 16 hr 41 min
+335 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [La Curiosidad](https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7) | [Tu Papa](https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW), [Marito Davila](https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ) | [La Curiosidad](https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg) | 2:45 | 2022-01-03 | 2022-07-29 |
 | [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 | 2022-03-25 |  |
 | [La Foto](https://open.spotify.com/track/2uRo9meMZUiellRCmE4osu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [La Foto](https://open.spotify.com/album/0AnhGG26unK4mTzFXYCr7k) | 2:08 | 2022-01-07 | 2022-08-09 |
+| [La Gira \(feat\. Rei\)](https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [La Gira \(feat\. Rei\)](https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft) | 3:14 | 2023-01-13 |  |
 | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/track/3IxVP7vjukxmjk1T9gZ7kf) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/album/6pc3Ttq5xewStsRuE1ErIs) | 2:36 | 2022-01-03 | 2022-07-28 |
 | [La Mejor Version de Mi](https://open.spotify.com/track/0pwXUemxF0MAxHLByqQcO5) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [La Mejor Version de Mi](https://open.spotify.com/album/4sBpf2QiY1jFTSYB7kcWwV) | 1:52 | 2021-12-23 | 2022-07-29 |
 | [La Niña de la Escuela](https://open.spotify.com/track/5IGCRt7HPv2A2s32Cddyhg) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [La Niña de la Escuela](https://open.spotify.com/album/1fJ1PKGAM576nQKS98dCxf) | 2:01 | 2022-01-03 | 2022-07-28 |
@@ -220,7 +221,7 @@
 | [Pasarla Bien](https://open.spotify.com/track/0ZzVPCGdkpKcxAzMNDD5UZ) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Pasarla Bien](https://open.spotify.com/album/1P2btVGfdXQYnOrZKCglpN) | 3:05 | 2022-01-07 | 2022-04-19 |
 | [Pasemos La Noche](https://open.spotify.com/track/0bUVn2PxF5NSKyPEyCDA6U) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ), [Mechaloca](https://open.spotify.com/artist/31sjDdCFcHCdcQItqzBVMn) | [Pasemos La Noche](https://open.spotify.com/album/7BFVbGEHuH5FtVYJAxFWjp) | 2:08 | 2021-12-23 | 2022-07-06 |
 | [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 | 2022-08-26 |  |
-| [Pegadito](https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Pegadito](https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt) | 2:45 | 2022-11-04 |  |
+| [Pegadito](https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Pegadito](https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt) | 2:45 | 2022-11-04 | 2023-01-14 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-01 |  |
 | [Pepas](https://open.spotify.com/track/4y7cFoXdDhfCfEaMdwEwwX) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Pepas](https://open.spotify.com/album/72054reK36wSO0yQeN0CE2) | 3:04 | 2021-12-23 | 2022-07-09 |
 | [Perdiste x Gil](https://open.spotify.com/track/7vpP04rBvbKRafjiEk3POP) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Perdiste x Gil](https://open.spotify.com/album/77cXEQ8c8l5x7N6v9lziU5) | 2:29 | 2021-12-23 | 2022-07-26 |

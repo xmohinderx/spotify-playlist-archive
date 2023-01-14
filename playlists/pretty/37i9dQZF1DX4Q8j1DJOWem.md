@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > เพลย์ลิสต์เวอร์ชั่นพิเศษในช่วงวันเด็ก! ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน BELL WARISARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,571 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,644 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

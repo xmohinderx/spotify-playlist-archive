@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites! Cover: Spirit Rangers. ",
+  "description": "Groove to music from your Netflix Kids favorites! Cover: Princess Power.",
   "name": "Netflix Kids Official Playlist",
   "tracks": [
     {
@@ -1492,6 +1492,24 @@
       "duration_ms": 64986,
       "name": "Paws Off",
       "url": "https://open.spotify.com/track/7qSk3rPjRoksldhlwcZdc7"
+    },
+    {
+      "album": {
+        "name": "Princess Power Theme Song (from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1HZXJsFLRSufKj7HExLmG8"
+      },
+      "artists": [
+        {
+          "name": "Princess Power",
+          "url": "https://open.spotify.com/artist/48rvn0SQ8YkKH1wcjggkVr"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Princess Power Theme Song (from the Netflix Series)",
+      "url": "https://open.spotify.com/track/3FRY7aHuPSHpmwIbmTYUr0"
     },
     {
       "album": {

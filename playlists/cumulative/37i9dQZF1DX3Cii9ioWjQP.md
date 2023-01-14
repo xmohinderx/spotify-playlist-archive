@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Jade\(쟈드\)\)
 
-101 songs - 7 hr 29 min
+102 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 | 2022-05-18 |  |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 |  |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 |  |
+| [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 | 2023-01-13 |  |
 | [Time \(for Annie\)](https://open.spotify.com/track/4yWXTxic6c42tqgPpnZgOL) | [Sun\-Ho Frank Kim](https://open.spotify.com/artist/0DhWxMIv10oVw73Rkd3Ql7) | [Time](https://open.spotify.com/album/1Nr5iVRskqbUFA846VjmqI) | 3:07 | 2022-05-03 |  |
 | [Time Flies](https://open.spotify.com/track/7f3VOozkefRBvZRyeEbsYk) | [Hyeonseok Jin](https://open.spotify.com/artist/264pWJmBJCG17xYUGdDWyG) | [Time Flies](https://open.spotify.com/album/0YO5jinKkBWg319JzpRxOt) | 3:37 | 2022-11-11 |  |
 | [Tinker Bell](https://open.spotify.com/track/1nqcPqcAtTvifR4zxuXojJ) | [오수경](https://open.spotify.com/artist/2dnCKQzRsy3Q6CQx9U1ZAA) | [Tinker Bell](https://open.spotify.com/album/5zU3XfdZYXWtADeGGXYOHJ) | 3:01 | 2022-11-11 |  |

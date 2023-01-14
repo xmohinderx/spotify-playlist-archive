@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,548 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,650 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [hajimari](https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [5:00 a.m.](https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4) | 3:08 |
 | 100 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 |
 
-Snapshot ID: `MTY3MzAyNTg5NSwwMDAwMDAwMDEzZDdhYmZhMThiNGU4ZWY3ZWViMTljZWNkZDc4MTA5`
+Snapshot ID: `MTY3MzYxMzI1NCwwMDAwMDAwMGNhM2EyYjQ3MTJlZDFiNWQ5NmNjNWI0ZTU1NjQyZDRm`

@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-102 songs - 5 hr 50 min
+104 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Akasha Flow Beat 1](https://open.spotify.com/track/1DyMzGdvln5pbPkMwnhark) | [Pascal Peaceful](https://open.spotify.com/artist/2zI5MF3vSVBhZpoqBo1NMF) | [Akasha Beat](https://open.spotify.com/album/3yC5e0Sse4AMjgz1oSSE5W) | 3:11 | 2022-05-26 |  |
 | [Ambient Motion](https://open.spotify.com/track/6wf1Q5tYe8MVdLUDDqfsRY) | [Rand Obaso](https://open.spotify.com/artist/4llVuklNBhZLZsMwifLrIb) | [Ambient Motion](https://open.spotify.com/album/7IYI6B0YtAV5kXpuyIOwTK) | 3:18 | 2022-11-11 |  |
 | [Amelioration](https://open.spotify.com/track/3QEQmuqMxAAPOP54RrAEBF) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Amelioration](https://open.spotify.com/album/1OnNsodqKgXnXjYXaLUXdz) | 3:01 | 2022-09-30 |  |
+| [Ancient Rhythms](https://open.spotify.com/track/3afgtQRk0Xl0QhIoQkWOvi) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Ancient Rhythms](https://open.spotify.com/album/3ZFM5rxteDeiYigegDD7OR) | 3:19 | 2023-01-13 |  |
 | [Anywhere, Anytime](https://open.spotify.com/track/1OqNYqjZ2G7D1mOWxuBv3E) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Anywhere, Anytime](https://open.spotify.com/album/31s5DFejbY0IEsI9y276Py) | 2:58 | 2022-09-30 |  |
 | [Arcoiris](https://open.spotify.com/track/21igXlN4PFHS04K8uAnrpo) | [Svaha.](https://open.spotify.com/artist/35wl6gVa66JYBP8FejyJ82), [Mono Handpan](https://open.spotify.com/artist/4rJpumsl8NbIJhoKYKgvxu) | [Arcoiris](https://open.spotify.com/album/3PXOe4P7kAbvb0KyloV9In) | 2:34 | 2022-07-08 |  |
 | [Ardiendo](https://open.spotify.com/track/7hFvmT4kIHuEcn7p6ZN6al) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Fugaces I](https://open.spotify.com/album/2dn6YDORsEnu7N84Yndcp1) | 3:17 | 2022-05-26 |  |
@@ -106,6 +107,7 @@
 | [Wolves](https://open.spotify.com/track/4M5e0WjzpTtQun2uRocx29) | [William Grey](https://open.spotify.com/artist/74g3hfOKsPo6pofm3sDA39) | [Wolves](https://open.spotify.com/album/0AUgSqGec9sk500JI2rqwD) | 2:53 | 2022-05-26 |  |
 | [Won Ken Howl](https://open.spotify.com/track/3BKUTeY3W7TOC130ISbP3F) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Lullabeats](https://open.spotify.com/album/2DL4A3UTJJNwuLvkHjkA8N) | 3:10 | 2022-05-26 |  |
 | [Xumantra](https://open.spotify.com/track/49nyRbI14SiYSS2wo2P9p2) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 8:09 | 2022-05-26 | 2022-11-23 |
+| [Yin Rhythmatism](https://open.spotify.com/track/5nhIw5ibl4jJ1Uu9Z4zg8q) | [Ahamkara](https://open.spotify.com/artist/0KriRLi8cRLqZU8SJQUgOf) | [Yin Rhythmatism](https://open.spotify.com/album/2L9IuGburCtgwiwxfCWlcT) | 4:06 | 2023-01-13 |  |
 | [Yoga Dedication](https://open.spotify.com/track/26WbeejSj0noAKz9vdn9lr) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Yoga Dedication](https://open.spotify.com/album/7FvPfS5ebwgdEfj5SqACpU) | 2:33 | 2022-05-26 |  |
 | [Zen Beat 1](https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zen Beats 1](https://open.spotify.com/album/3EjS8dAFjuHzy4FE9UYif6) | 3:14 | 2022-05-26 |  |
 | [Zenkom Auralis](https://open.spotify.com/track/22NrttumYU12GSAa9fvaom) | [Augmented Meditation](https://open.spotify.com/artist/2Gj9De52rmWf9w9esZPs9A) | [Zenkom Auralis](https://open.spotify.com/album/4tb0F9VmjZaNQIIRKJL9L9) | 3:58 | 2022-11-22 |  |

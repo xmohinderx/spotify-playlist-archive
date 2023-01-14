@@ -4,15 +4,16 @@
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-74 songs - 5 hr 20 min
+75 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17 de janeiro](https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 4:31 | 2022-09-02 |  |
-| [A Lei e o Amor](https://open.spotify.com/track/6Vgwjqe67ynLvDN7cZgzcd) | [Séo Fernandes](https://open.spotify.com/artist/5z8EidGfAtpODxAxR9j0w1) | [Graça, Tambor e Cordas](https://open.spotify.com/album/2ZaQzGpfN8j7sYaqVg9H3a) | 5:34 | 2022-09-02 |  |
+| [A Lei e o Amor](https://open.spotify.com/track/6Vgwjqe67ynLvDN7cZgzcd) | [Séo Fernandes](https://open.spotify.com/artist/5z8EidGfAtpODxAxR9j0w1) | [Graça, Tambor e Cordas](https://open.spotify.com/album/2ZaQzGpfN8j7sYaqVg9H3a) | 5:34 | 2022-09-02 | 2023-01-14 |
 | [A Mesa](https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [A Mesa](https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV) | 5:06 | 2022-09-02 |  |
 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 | 2022-09-02 |  |
 | [Abraço](https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Abraço](https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX) | 4:04 | 2022-09-02 |  |
+| [Agora, Aqui](https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a) | [Agora, Aqui](https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR) | 3:25 | 2023-01-14 |  |
 | [Além do Que Se Vê](https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Além do Que Se Vê](https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2) | 5:01 | 2022-10-14 |  |
 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 | 2022-09-02 |  |
 | [Aonde Está Deus?](https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 4:10 | 2022-09-02 |  |

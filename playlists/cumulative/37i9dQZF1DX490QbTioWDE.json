@@ -408,7 +408,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 255680,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 572488,
       "name": "Cuarte Party",
       "url": "https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 178861,
       "name": "Ex de Verdad",
       "url": "https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n"
@@ -1674,6 +1674,24 @@
       "duration_ms": 198908,
       "name": "Gracias por Todo",
       "url": "https://open.spotify.com/track/3vZNBLqQQ3FK6gwZXsaQsI"
+    },
+    {
+      "album": {
+        "name": "Hola Bebe",
+        "url": "https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4"
+      },
+      "artists": [
+        {
+          "name": "ARRIBA LAS PALMAS",
+          "url": "https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Hola Bebe",
+      "url": "https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy"
     },
     {
       "album": {
@@ -2524,6 +2542,24 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
+    },
+    {
+      "album": {
+        "name": "Me Encanta / Latidos",
+        "url": "https://open.spotify.com/album/3wsVKXC06eJiTL43eMgceJ"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230766,
+      "name": "Me Encanta / Latidos",
+      "url": "https://open.spotify.com/track/3Thxy7NVkqg97PVWLrlt2n"
     },
     {
       "album": {
@@ -3380,7 +3416,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 266000,
       "name": "Olv\u00eddate - Cuarteto",
       "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
@@ -3674,6 +3710,24 @@
       "duration_ms": 228315,
       "name": "Prohibida / Sin Ti Me Muero",
       "url": "https://open.spotify.com/track/39f9L4ZVgOF299uRlRhyet"
+    },
+    {
+      "album": {
+        "name": "Provenza / Te Felicito / Despechao",
+        "url": "https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362817,
+      "name": "Provenza / Te Felicito / Despechao",
+      "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
     },
     {
       "album": {
@@ -4108,6 +4162,24 @@
       "duration_ms": 180256,
       "name": "Si Te Vas de M\u00ed - Live",
       "url": "https://open.spotify.com/track/2gmLkti9beAsOfdX1mKF92"
+    },
+    {
+      "album": {
+        "name": "Si Tu No Est\u00e1s",
+        "url": "https://open.spotify.com/album/45lk2mZV4w5IKtcvdmErAU"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148379,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/3pgPOehuHA8I85GN7YfpiR"
     },
     {
       "album": {
@@ -4887,6 +4959,24 @@
     },
     {
       "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh"
+      },
+      "artists": [
+        {
+          "name": "La Pachanga",
+          "url": "https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX"
+    },
+    {
+      "album": {
         "name": "T\u00fa no te Imaginas",
         "url": "https://open.spotify.com/album/17HIue6wl9xnB9VLuch9dG"
       },
@@ -5112,7 +5202,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 192997,
       "name": "Volver\u00e1s a mi cama",
       "url": "https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N"

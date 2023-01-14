@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-91 songs - 2 hr 36 min
+92 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amar & Gayathri \- Background Score](https://open.spotify.com/track/6YtHohwPmsWkr3hSCzX7uA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:22 | 2022-07-08 | 2022-11-08 |
 | [Amar Theme \- Background Score](https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:28 | 2022-07-08 |  |
 | [Assault Sethu](https://open.spotify.com/track/7sdNy3umnmbvvCzppFl2hA) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2FMT61FTidaWFISp0xuVr9) | 1:06 | 2021-11-01 |  |
-| [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 | 2021-11-01 |  |
+| [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 | 2021-11-01 | 2023-01-14 |
 | [Barotta Master \- Background Score](https://open.spotify.com/track/07ifNHZUt3BZTwXkdhjGwu) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 2:30 | 2021-11-01 |  |
 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 | 2022-02-24 |  |
 | [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 | 2021-11-01 |  |
@@ -64,6 +64,7 @@
 | [Roar Of RRR](https://open.spotify.com/track/3W5mUOutRiMnsvFcsteX67) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Roar Of RRR](https://open.spotify.com/album/7fBbSSbGPnyFGh3NCwNVhe) | 1:51 | 2021-11-01 |  |
 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 | 2022-07-08 |  |
 | [Run & Die \(Theme\) \(From "Enemy"\)](https://open.spotify.com/track/4hfogIWEnO6xFf5D7qlQ1e) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Lavita M\. Lobo](https://open.spotify.com/artist/3hJ618EY1h9PG60hO1GKki) | [Run & Die \(Theme\) \(From "Enemy"\)](https://open.spotify.com/album/1oe0ZZiRCbXSGdVXrVmJXt) | 1:46 | 2021-11-01 |  |
+| [Run Baby Run Theme](https://open.spotify.com/track/1eEzA523dvcttEDlExQTAC) | [Sam C\. S](https://open.spotify.com/artist/1Qq4DZ04f2tpaw31VqRgju), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [Run Baby Run Theme \(From "Run Baby Run"\)](https://open.spotify.com/album/2joBP77BBrgGotYxABYFTo) | 1:34 | 2023-01-13 |  |
 | [S3 Vetta \(Theme Music\)](https://open.spotify.com/track/6yPRM7zwvtrl47XvIGx7Am) | [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2) | [S3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5eoSgIGH6QNQbOo0Bij06j) | 1:32 | 2021-11-01 | 2022-07-29 |
 | [S3 Vetta \(Theme Music\)](https://open.spotify.com/track/73DlBWrcBuetKprQ4bJ7wO) | [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2) | [S3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2j52pF4Mlus8MEOxRHSrpY) | 1:32 | 2021-11-01 |  |
 | [Sandhanam Theme \- Background Score](https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:46 | 2022-07-08 |  |

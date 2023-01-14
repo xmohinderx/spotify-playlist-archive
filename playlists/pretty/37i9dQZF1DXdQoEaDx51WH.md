@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain]
 
 > All\-new tracks by Coke Studio Pakistan Season 14, updated live.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,269 likes - 14 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,366 likes - 14 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain]
 | 3 | [Thagyan](https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Thagyan](https://open.spotify.com/album/0tcyDiVe5YVzXXocO1nk1m) | 5:07 |
 | 4 | [Beparwah](https://open.spotify.com/track/1BkYDk1hrLKkPi10OVSrhR) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Beparwah](https://open.spotify.com/album/5AntNs7eAxvw6zn9YZeP6J) | 4:32 |
 | 5 | [Muaziz Saarif](https://open.spotify.com/track/3tDoe3YGIltxR9zv5AkWqi) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Muaziz Saarif](https://open.spotify.com/album/1TpkynqQUmK6bTwMotcx1L) | 4:41 |
-| 6 | [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/2iPg15EzAFriexYcsD0xTH), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 |
+| 6 | [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 |
 | 7 | [Ye Dunya](https://open.spotify.com/track/3CLlelB1UWvrGYCyvdAA4B) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Ye Dunya](https://open.spotify.com/album/0y1QkPyIPPq7UcZ63QNCol) | 5:12 |
 | 8 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
 | 9 | [Neray Neray Vas](https://open.spotify.com/track/5P9gtOtId7RoyakIvlPGwM) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Butt Brothers](https://open.spotify.com/artist/6KaZO6OFp295joGZ74oY5U) | [Neray Neray Vas](https://open.spotify.com/album/6EpM6TDOrXbJp65oKySgCt) | 3:47 |

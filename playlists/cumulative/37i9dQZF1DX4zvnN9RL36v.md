@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-103 songs - 6 hr 51 min
+105 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Because I only see you](https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Whats wrong with secretary kim OST Part.5](https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu) | 3:40 | 2022-03-07 |  |
 | [Before the Sunset](https://open.spotify.com/track/1EzfapL0krLyoIxezUU3A6) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Mad Dog, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6Zw40UVaZ6CDtTFLqoIDEe) | 3:09 | 2022-03-07 | 2022-07-29 |
 | [Can you hear me?](https://open.spotify.com/track/1fCmKyU45uVjLT2J1Kn8pS) | [Ben](https://open.spotify.com/artist/7CBAnET1YVcYODumXdh1at) | [Hotel Del Luna OST Part.9](https://open.spotify.com/album/5ma7IsxRLAuOoLRn51x9z8) | 4:31 | 2022-03-07 | 2022-07-29 |
+| [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 | 2023-01-13 |  |
 | [Don't run away](https://open.spotify.com/track/18krdoAbqH1jHwymcaIyom) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [A\-TEEN Part.4](https://open.spotify.com/album/7zsRwUrdobhUaTeA3ZdNe3) | 4:08 | 2022-03-07 |  |
 | [Don’t Like Her](https://open.spotify.com/track/5DZMjcAMca1rT2dD9dYdCg) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:17 | 2022-03-07 |  |
 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 | 2022-03-07 |  |
@@ -71,7 +72,7 @@
 | [Toy](https://open.spotify.com/track/0yD2ihr9ZseEZQXQcz6y61) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/1eTUNDuzCMs5n39C6eWAEA) | 3:26 | 2022-03-07 | 2022-07-29 |
 | [Toy](https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3) | 3:26 | 2022-06-09 |  |
 | [Unrequited](https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B) | [Swai](https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Unrequited](https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq) | 3:45 | 2022-03-07 |  |
-| [Unrequited Love](https://open.spotify.com/track/4qCoekl5BaHK9aYc54C2tX) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IGNITION \(SPECIAL EDITION\)](https://open.spotify.com/album/2yrJ8f0QF3nBRAmZg0Bsm0) | 3:49 | 2022-03-07 |  |
+| [Unrequited Love](https://open.spotify.com/track/4qCoekl5BaHK9aYc54C2tX) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IGNITION \(SPECIAL EDITION\)](https://open.spotify.com/album/2yrJ8f0QF3nBRAmZg0Bsm0) | 3:49 | 2022-03-07 | 2023-01-14 |
 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 | 2022-06-09 |  |
 | [UP ALL NIGHT](https://open.spotify.com/track/1FxbmTpIXQ1TxR4Y3Klbba) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:40 | 2022-03-07 | 2022-07-29 |
 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 | 2022-03-07 |  |
@@ -91,6 +92,7 @@
 | [동경](https://open.spotify.com/track/0BYryFp7zGlygm9xUb2Np6) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Voice=2003\-1999](https://open.spotify.com/album/6oQ1m4mdQQg9SLLqxTfmKJ) | 5:13 | 2022-03-07 | 2022-07-29 |
 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 | 2022-06-09 |  |
 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 | 2022-03-07 | 2022-11-14 |
+| [사랑해 줘](https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [사랑해 줘](https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D) | 3:37 | 2023-01-13 |  |
 | [선을 그어 주던가](https://open.spotify.com/track/3DO8WRX72c1Z5hduVL1Nd5) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [DEAR : X](https://open.spotify.com/album/3Ucc9SxHC26eAcEUkeV7ks) | 2:40 | 2022-03-07 |  |
 | [속마음](https://open.spotify.com/track/21w5C0MykvabNnmjBQmRpw) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/52Z4wLYAfshFsIDD7YUvNN) | 4:41 | 2022-03-07 | 2022-07-29 |
 | [속마음](https://open.spotify.com/track/2B7WPx3oj3XhkSYdt7TCzd) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV) | 4:41 | 2022-06-09 | 2022-08-19 |
@@ -105,7 +107,7 @@
 | [짝사랑](https://open.spotify.com/track/5f4njgyIwbtswRgyR9dkpz) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Dizzy Blue](https://open.spotify.com/artist/0yaEp8jeamvr1BM1wuQuyt), [Flaboi](https://open.spotify.com/artist/10lBXlAJSTYkswS8X6A9nV) | [Seoul Vibes Pt\. 10](https://open.spotify.com/album/7C8e7Qw70E9UpjjXcYGiMD) | 4:22 | 2022-03-07 | 2022-07-29 |
 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 | 2022-03-07 |  |
 | [짝사랑 Zzack Sarang](https://open.spotify.com/track/7oy7LuhLhI40jdCPLp8Ui8) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/0XW9i8hTybWNZdkbqZTMwF) | 3:14 | 2022-03-07 | 2022-07-29 |
-| [할 말 Something to say](https://open.spotify.com/track/7gdttvt383pkL2so39JgzX) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [쏘쏘 so\-so](https://open.spotify.com/album/4XU6JkCwfKDD12NV74MkKq) | 3:11 | 2022-03-07 |  |
+| [할 말 Something to say](https://open.spotify.com/track/7gdttvt383pkL2so39JgzX) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [쏘쏘 so\-so](https://open.spotify.com/album/4XU6JkCwfKDD12NV74MkKq) | 3:11 | 2022-03-07 | 2023-01-14 |
 | [해가 지기 전에](https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [매드독 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM) | 3:09 | 2022-06-09 |  |
 | [화분](https://open.spotify.com/track/4MCeRSrPZsGalXvCIOHKRG) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/44kpTZZDeFOVqjiRedSNK0) | 4:39 | 2022-03-07 | 2022-07-29 |
 | [화분](https://open.spotify.com/track/5nbqTPcYfcr3NbbNrC3AHb) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:39 | 2022-06-09 | 2022-11-13 |

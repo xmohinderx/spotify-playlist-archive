@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Check out a Dynamic Duo's interview as Clips! Also, check out the top 10 Korean hip\-hop songs selected by them at the top of the playlist\. \(다이나믹 듀오의 인터뷰를 Clips로 확인하세요! 그리고 그들이 선정한 한국힙합 10곡을 플레이리스트 최상단에서 확인하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,940 likes - 121 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,348 likes - 121 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 63 | [River Boy](https://open.spotify.com/track/0CZl8qZgyCBTRQASsiJx1k) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [River Boy](https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp) | 2:26 |
 | 64 | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/track/1N8Qy5DhiBHE1WTJniYM1m) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [T₩OTUK](https://open.spotify.com/artist/3iAOHQi9GKQ8ARxHfD6YFt), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/album/0qGqRlZPFPDjoZULwItlXn) | 3:33 |
 | 65 | [hey](https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [off the wall](https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d) | 2:54 |
-| 66 | [Gucci Talks To Me \(feat\. Woo\)](https://open.spotify.com/track/6xeRo0GYCOkhY52vbkLROO) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Fredi Casso](https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy), [우원재](https://open.spotify.com/artist/3MarcN7taM35tXYLLJViUW) | [Empire State Motel](https://open.spotify.com/album/71egUlanjUTpmqTOh7DiNw) | 2:52 |
+| 66 | [Gucci Talks To Me \(feat\. Woo\)](https://open.spotify.com/track/6xeRo0GYCOkhY52vbkLROO) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Fredi Casso](https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Empire State Motel](https://open.spotify.com/album/71egUlanjUTpmqTOh7DiNw) | 2:52 |
 | 67 | [Be Ready](https://open.spotify.com/track/39qZBQdOWjUWgsw3PzdAw7) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ) | [Be Ready](https://open.spotify.com/album/6aZbVUjeVKnf2pT7aRmHnF) | 2:57 |
 | 68 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:04 |
 | 69 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 |

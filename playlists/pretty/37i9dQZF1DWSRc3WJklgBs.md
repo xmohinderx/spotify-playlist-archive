@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,223 likes - 187 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,978 likes - 189 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 185 | [More Than A Feeling \(feat\. Grace Tither\)](https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [More Than A Feeling \(feat\. Grace Tither\)](https://open.spotify.com/album/2qkuefgzRm1yK8ckW9iR22) | 3:27 |
 | 186 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 |
 | 187 | [Somebody Like You](https://open.spotify.com/track/28nXyID0HPs6t1H8113aJw) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Somebody Like You](https://open.spotify.com/album/5TBgT7OE7RGLFjkILG729A) | 3:26 |
+| 188 | [Gold](https://open.spotify.com/track/4pvluLhHImzU3wDZ0HWMjI) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Gold](https://open.spotify.com/album/5a6dr67Jiow1YSYp1qdHRe) | 3:44 |
+| 189 | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGU4NDc5ZGEwMDFhYTBhY2FiZmU5Mjg0NDViZTk2MTU0`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDg2NDIyZmY0MWE3NzZhOWFkYTI5ZTY0MTNmOWRhOGZh`

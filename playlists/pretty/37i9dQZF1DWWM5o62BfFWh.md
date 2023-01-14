@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,383 likes - 68 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,486 likes - 68 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 14 | [Ella Es Mala](https://open.spotify.com/track/5c3In5YTWqlwSykfDVvfuD) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Ella Es Mala](https://open.spotify.com/album/6XsZWLItXwmN3rH1HHuRiT) | 3:49 |
 | 15 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 |
 | 16 | [Mírala \(La Mulata\)](https://open.spotify.com/track/20xdL2kIceHLTwppELBr4m) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [Mírala \(La Mulata\)](https://open.spotify.com/album/58K4ZRt1EgQiCS3fXObfJT) | 3:03 |
-| 17 | [El Farsante \- Timba Remix](https://open.spotify.com/track/6rQ8bYJwMHTWGJhA143RIl) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Farsante \(Timba Remix\)](https://open.spotify.com/album/2TbFKVI7lW1Q91nr8ddXUR) | 3:59 |
+| 17 | [El Farsante \- Timba Remix](https://open.spotify.com/track/2mXSqDlL6vHv7wjenfhmcC) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [El Grande](https://open.spotify.com/album/6RykDFDZm5Fg4ZdyjpP4n1) | 3:58 |
 | 18 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 19 | [La Guariconfianza](https://open.spotify.com/track/234PYuEChhjwv4GeT12pap) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw), [The Yabo](https://open.spotify.com/artist/3tzSE7ZaI9Z8ZziPb5FrUa) | [Blychy](https://open.spotify.com/album/5Xv5Est3n7bg7dZmo8ul8i) | 3:27 |
 | 20 | [Loco por Bailar Contigo](https://open.spotify.com/track/60gPl3tlOQgfzq9BMecpVS) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Loco por Bailar Contigo](https://open.spotify.com/album/5EWnb3Bbyc1IKu2gWcSKaf) | 3:38 |
 | 21 | [Me Quiero Perder](https://open.spotify.com/track/0K4etmnBqe0Pgn2aiyL5ws) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Me Quiero Perder](https://open.spotify.com/album/5XbtS59Hc93vezHWksGKvp) | 3:52 |
-| 22 | [Segundas Partes](https://open.spotify.com/track/5Ij3qIcQWIrIATGoYVR729) | [La Diosa](https://open.spotify.com/artist/6HNBN7MOvwQqyv3VO94z4q), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [Segundas Partes](https://open.spotify.com/album/2yqDXA8C3OztqCygWf4I4v) | 3:22 |
+| 22 | [Segundas Partes](https://open.spotify.com/track/55krWysUpV33JHSCvmiVZ7) | [La Diosa](https://open.spotify.com/artist/6HNBN7MOvwQqyv3VO94z4q), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [Segundas Partes](https://open.spotify.com/album/5a0lWQj2QCsbEthtwXl8KJ) | 3:22 |
 | 23 | [Mi Corazon Es Tuyo](https://open.spotify.com/track/3UThAi8qq6eKxIkWBFzMXF) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tu Romántico de Siempre \(Una colección de éxitos Románticos\)](https://open.spotify.com/album/7MIOcUGGtTpykne1RsTs3R) | 3:32 |
 | 24 | [Sigue Recto](https://open.spotify.com/track/5rTHEkJuuXkrWntg7YagKm) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [Sigue Recto](https://open.spotify.com/album/5VDezwJkBF9Q8SeqvLyMjy) | 3:18 |
 | 25 | [Que Nochesita](https://open.spotify.com/track/5XrR90q1CW1yLwIs0Zzvpo) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Que Nochesita](https://open.spotify.com/album/6c481sxR5sfIYhKbc3lc2k) | 3:40 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 67 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 |
 | 68 | [Cubaton](https://open.spotify.com/track/4bHNliUdG1EDk3O29Usvjn) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Cubaton](https://open.spotify.com/album/1Npp9LzY0iyDiL7y7kEuUi) | 3:18 |
 
-Snapshot ID: `MTY0OTQzMzk3OCwwMDAwMDAwMDJkMjc1ZDk3ZjZlYmJmOWRiYThiYmY2MjZkN2ZlYjlj`
+Snapshot ID: `MTY0OTQzMzk3OCwwMDAwMDAwMGNiMGE0NzczNTA0MjM2YjFjMjFjNTYwODRmZDlkYWVl`

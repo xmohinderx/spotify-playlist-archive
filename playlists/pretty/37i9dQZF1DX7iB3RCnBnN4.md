@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: The Weeknd & Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,049 likes - 349 songs - 21 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,873 likes - 349 songs - 21 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

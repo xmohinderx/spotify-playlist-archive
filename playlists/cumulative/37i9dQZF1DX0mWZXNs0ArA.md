@@ -4,7 +4,7 @@
 
 > 150%
 
-140 songs - 5 hr 55 min
+142 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Karma \- Sped Up](https://open.spotify.com/track/0MwFC8WoPCjq2H3UES2aos) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:41 | 2022-11-15 |  |
 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2022-08-01 | 2022-12-02 |
 | [KERAUNOS KILLER \- Speed Up](https://open.spotify.com/track/5eWhCWydXXHguwz33H7SA1) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [KERAUNOS KILLER \(Speed Up\)](https://open.spotify.com/album/2Fo4LNB3FGC6D0efPS5P0R) | 1:20 | 2022-06-09 |  |
+| [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-01-13 |  |
 | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \- Sped Up Version](https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Left and Right \(Charlie Puth\) \[feat\. Jung Kook of BTS\] \[Sped Up Version\]](https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r) | 2:15 | 2022-07-18 | 2022-12-14 |
 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 | 2022-07-01 |  |
 | [Line Without a Hook \- sped up](https://open.spotify.com/track/6IbdSpBOeQn8vRBsq1eGUQ) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:23 | 2022-12-16 |  |
@@ -98,6 +99,7 @@
 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-06-09 | 2022-12-14 |
 | [No Wind Resistance SPED UP!](https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [No Wind Resistance SPED UP!](https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1) | 2:45 | 2022-12-12 |  |
 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 | 2022-11-15 |  |
+| [Not OK \- Sped Up](https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK \- Alt versions](https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw) | 1:57 | 2023-01-13 |  |
 | [numb \(feat\. blackbear\) \[nitecore\]](https://open.spotify.com/track/2Y0rbe2vWWHlu9luTET1dg) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\) \[slow + reverb / nitecore\]](https://open.spotify.com/album/4opM4mMCaGNxJiztRetx5I) | 2:39 | 2022-11-04 | 2022-12-14 |
 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 | 2022-08-05 |  |
 | [Out thë way \- sped up version](https://open.spotify.com/track/6B5pdKWob9kjr0WpjJkVVD) | [Yeat sped up](https://open.spotify.com/artist/1Bb7MWbSKAtxBl436nDnlS) | [Out thë way \(sped up version\)](https://open.spotify.com/album/1SS5Pz4SRRSiPCOrqjEKSn) | 2:05 | 2022-12-14 |  |

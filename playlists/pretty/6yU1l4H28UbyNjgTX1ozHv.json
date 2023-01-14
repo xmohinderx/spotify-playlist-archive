@@ -6,7 +6,7 @@
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "NzkxLDg4ZDIwNzNhNWNiMThmODlkMjEwZDE2MTU0ZWZhOGJkYjBlMDY1MGQ=",
+  "snapshot_id": "Nzk2LGZkZDRkYjc2MjYzYzNjMTNiZjJjYmIzMTY5ODMyMTJkOWQ0YWYxMjY=",
   "tracks": [
     {
       "added_at": "2020-08-10 06:55:14",
@@ -149,6 +149,38 @@
       "url": "https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg"
     },
     {
+      "added_at": "2023-01-13 06:51:31",
+      "album": {
+        "name": "Lovefool (Acoustic)",
+        "url": "https://open.spotify.com/album/2bDDaOjt4Fy4DmAPqP2l0E"
+      },
+      "artists": [
+        {
+          "name": "Laurence O\u2019Brien",
+          "url": "https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Lovefool - Acoustic",
+      "url": "https://open.spotify.com/track/1tJCLF1hldhHVC7noH9l0U"
+    },
+    {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0"
+    },
+    {
       "added_at": "2023-01-03 20:24:28",
       "album": {
         "name": "I'm Like a Bird (Acoustic)",
@@ -179,42 +211,6 @@
       "duration_ms": 140442,
       "name": "Girls Just Want To Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0"
-    },
-    {
-      "added_at": "2022-03-04 13:19:08",
-      "album": {
-        "name": "I Can See Clearly Now (Acoustic)",
-        "url": "https://open.spotify.com/album/0zjfhd9DvlA6v3owHzL54D"
-      },
-      "artists": [
-        {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        },
-        {
-          "name": "Paul Canning",
-          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
-        }
-      ],
-      "duration_ms": 162215,
-      "name": "I Can See Clearly Now - Acoustic",
-      "url": "https://open.spotify.com/track/4pZWwqmvQwYY1VhGE9sQD9"
     },
     {
       "added_at": "2020-04-27 06:40:28",
@@ -361,20 +357,20 @@
       "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
     },
     {
-      "added_at": "2020-10-16 13:28:22",
+      "added_at": "2023-01-13 06:44:56",
       "album": {
-        "name": "Yellow (Acoustic)",
-        "url": "https://open.spotify.com/album/1hcpmhJzMlYjKjyuGOEmMh"
+        "name": "Teenage Dirtbag (Acoustic)",
+        "url": "https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP"
       },
       "artists": [
         {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
         }
       ],
-      "duration_ms": 205226,
-      "name": "Yellow - Acoustic",
-      "url": "https://open.spotify.com/track/4cNXu88dudLEAhsIbikLvU"
+      "duration_ms": 211200,
+      "name": "Teenage Dirtbag - Acoustic",
+      "url": "https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1933,7 +1929,7 @@
         },
         {
           "name": "Nick Voelker",
-          "url": "https://open.spotify.com/artist/0m9nKGnG8cNXwRPstQ7wGc"
+          "url": "https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3"
         },
         {
           "name": "Adiel Mitchell",

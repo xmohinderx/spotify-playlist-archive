@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2395671,
+  "num_followers": 2396440,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDRmMDM5OWEwYjI2YmNmMGQ0Y2RhYmM0ZTVmNmFiODIz",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDdiNWVjZWM5YzA4ZGNlZDg0NWExZjkyNTcxMTM3MzFk",
   "tracks": [
     {
       "added_at": "2022-11-07 16:57:30",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/6QkOMriITXf0oqpga33HnP"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "J'aime les filles",
+        "url": "https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "J'aime les filles",
+      "url": "https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK"
+    },
+    {
       "added_at": "2022-12-22 19:24:46",
       "album": {
         "name": "Florist",
@@ -127,6 +143,22 @@
       "duration_ms": 343013,
       "name": "Oyster Bay",
       "url": "https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al"
+      },
+      "artists": [
+        {
+          "name": "Nanna",
+          "url": "https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7"
+        }
+      ],
+      "duration_ms": 289045,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
     },
     {
       "added_at": "2022-10-08 00:29:29",
@@ -217,6 +249,30 @@
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o"
+      },
+      "artists": [
+        {
+          "name": "Afroham",
+          "url": "https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E"
+        },
+        {
+          "name": "cocabona",
+          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
+        },
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 176413,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW"
+    },
+    {
       "added_at": "2022-12-21 22:28:08",
       "album": {
         "name": "letting you go (demo)",
@@ -295,6 +351,26 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+        }
+      ],
+      "duration_ms": 273864,
+      "name": "Time Moves Slow",
+      "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "safety",
         "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
       },
@@ -307,6 +383,22 @@
       "duration_ms": 183600,
       "name": "safety",
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fuck Tha World",
+        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Fuck Tha World",
+      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
     },
     {
       "added_at": "2022-11-25 04:53:00",
@@ -377,26 +469,6 @@
       "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Samuel T. Herring",
-          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
-        }
-      ],
-      "duration_ms": 273864,
-      "name": "Time Moves Slow",
-      "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"
-    },
-    {
       "added_at": "2022-11-07 16:57:30",
       "album": {
         "name": "Waiting to Spill",
@@ -431,6 +503,38 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Find Out",
+        "url": "https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 148544,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Toroka",
+        "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 202075,
+      "name": "Toroka",
+      "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -553,6 +657,26 @@
       "url": "https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/6lmSVJO6vLr5zlPjVHkG5M"
+      },
+      "artists": [
+        {
+          "name": "Max Leonard",
+          "url": "https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew"
+        },
+        {
+          "name": "Jayden",
+          "url": "https://open.spotify.com/artist/2TYELN8GW9hc6ft18Knmrx"
+        }
+      ],
+      "duration_ms": 251111,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/4xVeqNkWlKZkEqsmD8akJp"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "COMETA",
@@ -567,6 +691,22 @@
       "duration_ms": 253373,
       "name": "Happen",
       "url": "https://open.spotify.com/track/3x5GkihYMx1wdoXVFAwRyZ"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -599,6 +739,22 @@
       "duration_ms": 147933,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -737,6 +893,22 @@
       "url": "https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "DRIVING",
@@ -831,6 +1003,26 @@
       "duration_ms": 173458,
       "name": "ON 10",
       "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Buddy's Rendezvous",
+        "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 301480,
+      "name": "Buddy's Rendezvous",
+      "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
       "added_at": "2022-11-07 23:28:38",
@@ -1287,22 +1479,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Sundance Happy",
         "url": "https://open.spotify.com/album/4ZwXzrl5Zyg9srZFqGNuG3"
       },
@@ -1315,22 +1491,6 @@
       "duration_ms": 170786,
       "name": "Sundance Happy",
       "url": "https://open.spotify.com/track/7JNUIRdD1r0U4eeYScySl6"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1739,42 +1899,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Toroka",
-        "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 202075,
-      "name": "Toroka",
-      "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Buddy's Rendezvous",
-        "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 301480,
-      "name": "Buddy's Rendezvous",
-      "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -2043,22 +2167,6 @@
       "duration_ms": 151150,
       "name": "Rain",
       "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2403,38 +2511,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Stuck in the Sky",
-        "url": "https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 134557,
-      "name": "Stuck in the Sky",
-      "url": "https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Sometimes (Backwood)",
-        "url": "https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn"
-      },
-      "artists": [
-        {
-          "name": "gigi",
-          "url": "https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Sometimes (Backwood)",
-      "url": "https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "In Praise Of Shadows",
         "url": "https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg"
       },
@@ -2487,22 +2563,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Colors We Made",
-        "url": "https://open.spotify.com/album/6efiQ3j3RIFy6oYHbeziIu"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 170589,
-      "name": "Colors We Made",
-      "url": "https://open.spotify.com/track/2wnt2dMobi8aEqsvYK8N0k"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
       },
@@ -2519,46 +2579,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
-        }
-      ],
-      "duration_ms": 219451,
-      "name": "Stranger (feat. Saba & Jarreau Vandal)",
-      "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
       },
@@ -2571,26 +2591,6 @@
       "duration_ms": 189770,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/43l9LF9XUXvsSucTp7NOfm"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Doors To Kick",
-        "url": "https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Freemont",
-          "url": "https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD"
-        },
-        {
-          "name": "BOYFRN",
-          "url": "https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Doors To Kick",
-      "url": "https://open.spotify.com/track/304031hRDCZEAIItiKxSol"
     },
     {
       "added_at": "2022-08-19 04:00:00",

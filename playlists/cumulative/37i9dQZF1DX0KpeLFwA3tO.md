@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Viagra Boys
 
-787 songs - 1 day 15 hr 28 min
+788 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,8 @@
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-08-18 | 2022-10-07 |
 | [U Want Me Dead](https://open.spotify.com/track/6pK80XgBv7j4JdUxSa0aQA) | [FRED](https://open.spotify.com/artist/22YfDut6yoISdDIhjWhwK1) | [U Want Me Dead](https://open.spotify.com/album/0EEDNaw6dr4QDBHqJMcOke) | 2:06 | 2022-09-29 | 2022-11-11 |
 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 | 2022-02-25 | 2022-04-22 |
-| [Uncertain Joys](https://open.spotify.com/track/459r5TBLEcMx05Fp8T3QIq) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/0VE0o7RLM1ESFTzpMdhgEk) | 3:23 | 2023-01-13 |  |
+| [Uncertain Joys](https://open.spotify.com/track/27yMT64bCRQwD5hsLFd7ks) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/5K5qqlXzxEv2KhpCvT3vh1) | 3:23 | 2023-01-13 |  |
+| [Uncertain Joys](https://open.spotify.com/track/459r5TBLEcMx05Fp8T3QIq) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/0VE0o7RLM1ESFTzpMdhgEk) | 3:23 | 2023-01-13 | 2023-01-14 |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2021-12-17 | 2022-02-25 |
 | [Under the Streetlight](https://open.spotify.com/track/0W2KwafSXnq7v35p5dtLnW) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Under the Streetlight](https://open.spotify.com/album/5oTKOg11hiQfI4aYFn0vb5) | 2:56 | 2022-11-18 |  |
 | [Underdogs](https://open.spotify.com/track/4MALiTKHAOFmOqXe16bt8K) | [Cherryade](https://open.spotify.com/artist/2Z4zth26FtZ4lK2Yu9nBgV) | [Underdogs](https://open.spotify.com/album/10UUUzUXqMPXyoKeVPrALd) | 3:36 | 2022-04-28 | 2022-06-03 |

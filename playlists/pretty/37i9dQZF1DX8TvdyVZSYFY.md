@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,044,932 likes - 300 songs - 17 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,045,170 likes - 300 songs - 17 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,7 +254,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 244 | [The Greatest](https://open.spotify.com/track/2zFlsk4LABgLWDRkiIrShG) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 3:11 |
 | 245 | [Promises](https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Promises](https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT) | 3:03 |
 | 246 | [Ciao Adios \- Acoustic](https://open.spotify.com/track/6smhUkQT8kHxF16dkziIcn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Ciao Adios \(Acoustic\)](https://open.spotify.com/album/64cGy2dag6tMuu9keS8dWp) | 4:44 |
-| 247 | [Think Twice](https://open.spotify.com/track/6JjQ6iGRJ7PLbJGR4WB9uu) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Think Twice](https://open.spotify.com/album/3R4Wg1XFOSnekFhat6K5Ba) | 3:31 |
+| 247 | [Think Twice](https://open.spotify.com/track/6JjQ6iGRJ7PLbJGR4WB9uu) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Think Twice](https://open.spotify.com/album/3R4Wg1XFOSnekFhat6K5Ba) | 3:31 |
 | 248 | [Titanium](https://open.spotify.com/track/1qipbACiBKXywkAGEbYuqX) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Autumn Hymns](https://open.spotify.com/album/31TBuVSW1iba7jmBGLOETq) | 2:57 |
 | 249 | [Smile \- Acoustic](https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Smile](https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku) | 3:20 |
 | 250 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |

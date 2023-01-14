@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Fleshwater \| Artwork: Jim Klok
 
-698 songs - 1 day 14 hr 21 min
+699 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,8 @@
 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 | 2022-03-16 | 2022-05-26 |
 | [New Dress](https://open.spotify.com/track/34MULWFFd6lROjC41h9Iy3) | [Dentist](https://open.spotify.com/artist/3rkvTohJjRrfR0FwRVZGJ2) | [Making a Scene](https://open.spotify.com/album/13rGisUZ9z5lwLkMhTmG2P) | 3:31 | 2022-09-14 | 2022-12-01 |
 | [New Vegas Bomb](https://open.spotify.com/track/2qFP8E4KbrIBQ2mbweQeQ9) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC) | [New Vegas Bomb](https://open.spotify.com/album/4UKmE2LdDV6SNRcBJd461k) | 2:44 | 2022-03-23 | 2022-05-05 |
-| [New Year's](https://open.spotify.com/track/3qkwuWuGClBAuuPd0DXN05) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's](https://open.spotify.com/album/2gn2hmGCUywSWW5NBQO2hT) | 3:28 | 2023-01-11 |  |
+| [New Year's](https://open.spotify.com/track/3qkwuWuGClBAuuPd0DXN05) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's](https://open.spotify.com/album/2gn2hmGCUywSWW5NBQO2hT) | 3:28 | 2023-01-11 | 2023-01-14 |
+| [New Year's](https://open.spotify.com/track/5tyBNExaQp6AcemEFHnds3) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's EP](https://open.spotify.com/album/2fCxFcHye0AWepx9y9Yk22) | 3:28 | 2023-01-11 |  |
 | [Night Vision](https://open.spotify.com/track/39FPED7GVRpJFLTBsBy1vE) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Night Vision](https://open.spotify.com/album/5GLio6tmJhyY7GzrHe8x2w) | 3:22 | 2022-05-25 | 2022-08-17 |
 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 | 2022-08-10 | 2022-08-25 |
 | [Nightmares](https://open.spotify.com/track/0hX16noxRUL7QWQaEap1bg) | [Hairu Tokyo](https://open.spotify.com/artist/7v0WS0GW5AjIFNA36PeGmX), [Star Light](https://open.spotify.com/artist/2Y5m36gXUOAlFVuuUV3kkp), [Yng Dee](https://open.spotify.com/artist/5CHZlDdYKV9hNTsmqUWYDC) | [Local Celebrity](https://open.spotify.com/album/6JtVu6RKLKQYqGuYVtO0aZ) | 2:47 | 2022-07-20 | 2022-09-22 |

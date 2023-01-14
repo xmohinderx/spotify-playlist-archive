@@ -4,11 +4,12 @@
 
 > Beta frequencies for increased concentration.
 
-62 songs - 3 hr 12 min
+64 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [199 Hz \- Beta Sinus](https://open.spotify.com/track/2RRbBXjwzhpvTVakO2s7nk) | [Healing Yoga Meditation Music Consort](https://open.spotify.com/artist/38PxQFwKE257tcBkgrr9lb), [Gentle Instrumental Music Paradise](https://open.spotify.com/artist/21XKjuPImIZ82r6lvJPvH5) | [Healing Yoga Meditation 128 Hz\-606 Hz: Solfeggio Bliss, Opening Chakras, Soothing Frequencies for Insomnia Cure, Chakra Relaxation](https://open.spotify.com/album/5pRaImzAiq5lEIsJZAu1hO) | 3:46 | 2022-09-06 |  |
+| [Appreciation \(Beta 105 Hz \- 121 Hz\)](https://open.spotify.com/track/7vrlLqv2HhIWT4Yhpu9byI) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 3:43 | 2023-01-13 |  |
 | [Beta Air 16 Hz](https://open.spotify.com/track/6nEcvyEGYkXNRhIjkVl1vT) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:54 | 2022-09-06 |  |
 | [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 | 2022-09-06 |  |
 | [Beta Brainwave State](https://open.spotify.com/track/7zDu2bXHrl9ZMbTTBuvdyl) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [BINAURAL BEATS AND BRAIN WAVES](https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH) | 3:40 | 2022-09-06 |  |
@@ -68,6 +69,7 @@
 | [Soaring Eagle Beta Sinus 116 Hz \- 131 Hz](https://open.spotify.com/track/3qR90xoCsHQceqOGhdgPbs) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 3:13 | 2022-11-23 |  |
 | [Time Travelling \(Beta Waves\)](https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Reaching For The Stars](https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6) | 3:12 | 2022-09-06 |  |
 | [Total Focus \(Beta Sinus\)](https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 3:33 | 2022-09-06 |  |
+| [Wonder Falls \(Beta 100 Hz \- 117 Hz\)](https://open.spotify.com/track/6ggscQCVEcqKy92nXLlswe) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 4:26 | 2023-01-13 |  |
 | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt) | [Merpell](https://open.spotify.com/artist/4VY6NUpEqaG1ouNyNgR2VN) | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/album/4MJvd53JhkCRT9g8IS54Q2) | 2:04 | 2022-09-06 |  |
 | [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt) | 2:57 | 2022-12-09 |  |
 

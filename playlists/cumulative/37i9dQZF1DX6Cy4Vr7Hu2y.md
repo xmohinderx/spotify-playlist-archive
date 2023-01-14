@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: NewJeans\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-300 songs - 17 hr 5 min
+301 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Good Night 잘 자](https://open.spotify.com/track/5qTMLwczsxG5Z10wdowN96) | [Ryu Ji Hye 류지혜](https://open.spotify.com/artist/4rGWpZenGw3V8eIx1GRHbz) | [Good Night 잘 자](https://open.spotify.com/album/0d1ZTAXOFdFk6ttHIFljGl) | 3:08 | 2022-03-22 | 2022-04-13 |
 | [Goodbye, fall](https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Goodbye, fall](https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND) | 3:41 | 2022-03-22 | 2022-04-21 |
 | [Gotta Go](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) | 3:41 | 2021-11-21 | 2022-07-22 |
-| [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 | 2022-07-07 |  |
+| [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 | 2022-07-07 | 2023-01-14 |
 | [Great Day](https://open.spotify.com/track/57uRvDxET3hNN8yb1jbmph) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Great Day](https://open.spotify.com/album/27JCg7P8IUAVOachCvbUBd) | 3:03 | 2021-11-21 | 2022-04-25 |
 | [Hangang](https://open.spotify.com/track/4WEbWA7Fz8CgMWeeRZ0Ixy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [THE FAN TOP2](https://open.spotify.com/album/5MNfWlcijGtBHTf7z0VfyM) | 3:43 | 2022-01-19 | 2022-06-03 |
 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 | 2021-11-21 | 2022-05-22 |
@@ -165,6 +165,7 @@
 | [My Trouble](https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [My Trouble](https://open.spotify.com/album/6ZTQpZMX8i1RMzq2S27OuY) | 3:17 | 2021-11-21 | 2022-07-12 |
 | [NA YEOSS EU MYEON](https://open.spotify.com/track/5VnJMPXdPc9p5arVZRHj8O) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [\[Vol.14\] You Hee yul's Sketchbook 10th Anniversary Project : 6th Voice 'Sketchbook X CHUNG HA'](https://open.spotify.com/album/7mVJtnGHJWeb5bCBPBx5Mx) | 4:19 | 2022-01-19 | 2022-07-29 |
 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 | 2022-08-01 | 2022-11-02 |
+| [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-13 |  |
 | [NAVILLERA](https://open.spotify.com/track/5zLCLAce7F5J2OfE4S8yAC) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:07 | 2022-06-20 | 2022-07-25 |
 | [Need You \- solo ver.](https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Need You \(solo ver.\)](https://open.spotify.com/album/1iHezxzAqv60AEr6dwUDy1) | 3:09 | 2021-11-21 | 2022-07-24 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-08-01 | 2022-10-04 |

@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mikey Dam
 
-346 songs - 16 hr 29 min
+347 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2022-03-21 | 2022-06-17 |
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-03-21 | 2022-08-11 |
 | [Azn E$hay](https://open.spotify.com/track/2GRnCWUs63ZxKgL0HwVvhY) | [Fooligan Kevs](https://open.spotify.com/artist/4bGHAmqEYRB5tsPiGjFH2g) | [Azn E$hay](https://open.spotify.com/album/01zyRaej4TUOnM8CyFAKGn) | 1:32 | 2022-12-01 |  |
+| [B.B.L \(Bad Bitch Love\)](https://open.spotify.com/track/3rCGwUaOvhS3NDIF3DKb5a) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [B.B.L \(Bad Bitch Love\)](https://open.spotify.com/album/3UxBSyzHCGqY9DqSZkCvyc) | 2:18 | 2023-01-13 |  |
 | [Baby & Baby](https://open.spotify.com/track/1lNvWNg8GGbhEcPMRWrIBO) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN), [BabyT](https://open.spotify.com/artist/2DDnzptkIWeVwnGhZl3e5W) | [Baby & Baby](https://open.spotify.com/album/00QG5oFJQkqM0xHsT1i0oN) | 2:06 | 2022-11-17 |  |
 | [Baby We On \(feat\. EJ\)](https://open.spotify.com/track/6B2XQVpketLZ87ave84dj3) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [EJ](https://open.spotify.com/artist/3PGCyZIys0x2FPBa9BTkXx) | [Perspective](https://open.spotify.com/album/20uYLLC5K43XEitHfpBp3q) | 3:41 | 2022-03-21 | 2022-05-11 |
 | [Back Then](https://open.spotify.com/track/5QNsqbcnu7Mrmzr9Dt5N2C) | [Kiid Spyro](https://open.spotify.com/artist/6PIHKMrawce8FswYQe4O2U) | [Back Then](https://open.spotify.com/album/3crncbKSH0N4NZ6b5SloP6) | 2:44 | 2022-11-10 | 2022-12-09 |

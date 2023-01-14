@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 265360,
       "name": "Clover's Cry ~\u795e\u3068\u795e\u964d\u308d\u3057\u306e\u5c11\u5973~",
       "url": "https://open.spotify.com/track/451zwppHKXdKfRepQ3R7fr"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 292893,
       "name": "Sweet Sweet Soul",
       "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
@@ -1316,6 +1316,40 @@
       "duration_ms": 332013,
       "name": "UNION!!",
       "url": "https://open.spotify.com/track/06MpGtZrJ3AUlP9I1rgcLb"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER VARIETY 02",
+        "url": "https://open.spotify.com/album/3kMN4I7c8DaYGSYSg0SoEz"
+      },
+      "artists": [
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        },
+        {
+          "name": "\u4e09\u6d66\u3042\u305a\u3055 (CV.\u305f\u304b\u306f\u3057\u667a\u79cb)",
+          "url": "https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "Vacation VS Summer ~\u30ca\u30c4\u3068\u30e4\u30b9\u30df\u306e\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8!~",
+      "url": "https://open.spotify.com/track/0mjF7cHXnAIsIMcIr9NRwL"
     },
     {
       "album": {
@@ -1947,6 +1981,32 @@
     },
     {
       "album": {
+        "name": "\u30df\u30ea\u30e9\u30b8!\u30aa\u30fc\u30c7\u30a3\u30aa\u30eb\u30fc\u30e0\u98a8\u30dc\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/5jnlWYBA97qDNIFiUA0ooZ"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/7llG7Cb8mKXtG7HU0NefzS"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34000,
+      "name": "\u30df\u30ea\u30e9\u30b8!\u30aa\u30fc\u30c7\u30a3\u30aa\u30eb\u30fc\u30e0\u98a8\u30dc\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/0PiBiiERzKCaTNbyuwIyTV"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
         "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
       },
@@ -2284,6 +2344,32 @@
       "duration_ms": 253000,
       "name": "\u60f3\u3044\u306fCarnaval",
       "url": "https://open.spotify.com/track/1T7BcFxhfnPgIcFQRcFI6W"
+    },
+    {
+      "album": {
+        "name": "\u6625\u65e5\u672a\u6765\u3001\u6700\u4e0a\u9759\u9999\u3001\u7bb1\u5d0e\u661f\u68a8\u82b1\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/699LKoWkFLt9QyiUNhX2r4"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/7llG7Cb8mKXtG7HU0NefzS"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29900,
+      "name": "\u6625\u65e5\u672a\u6765\u3001\u6700\u4e0a\u9759\u9999\u3001\u7bb1\u5d0e\u661f\u68a8\u82b1\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/638zP00dm0b9PnXO92gUDY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-218 songs - 11 hr 17 min
+219 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Doug](https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Inez & Doug & Kira \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HwPJRFbqGPu9bw4z0FKze) | 1:53 | 2021-12-20 | 2022-08-20 |
 | [Dreams](https://open.spotify.com/track/2egNpOad1kRNG32VE5uHtF) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Slumberland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/77qpAPLvKnFn8IpB53401F) | 1:03 | 2022-11-18 |  |
 | [End](https://open.spotify.com/track/6AvYxIG35XLT3Vpeydm0Oj) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [End](https://open.spotify.com/album/6l2sYGF6yH4TQZXD7O7XEd) | 3:53 | 2021-12-20 |  |
-| [Epilogue](https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra](https://open.spotify.com/album/5Uwl0AJBoJMnNsPws8jM3a) | 5:52 | 2021-12-20 |  |
+| [Epilogue](https://open.spotify.com/track/1ZPmsTDkoBH63pX25YLAOa) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra](https://open.spotify.com/album/1KSiD3nqxDKsOeJcsyvoNh) | 5:52 | 2022-12-23 |  |
+| [Epilogue](https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra](https://open.spotify.com/album/5Uwl0AJBoJMnNsPws8jM3a) | 5:52 | 2021-12-20 | 2023-01-14 |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2021-12-20 |  |
 | [Eternals Theme \- From "Eternals"](https://open.spotify.com/track/7fGvtkfEoQsR5sQ5zFfclD) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Eternals Theme \(From "Eternals"\)](https://open.spotify.com/album/1v68hlQzaQIdzTeLDtvWF4) | 3:47 | 2021-12-20 |  |
 | [Fantastic Beasts: The Secrets of Dumbledore](https://open.spotify.com/track/29IKXIoxVQxAcYpFoYJXFR) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Music from the Motion Picture\)](https://open.spotify.com/album/6I3o1u6W4grZDRoYXrkwgk) | 2:47 | 2022-04-01 | 2022-07-29 |

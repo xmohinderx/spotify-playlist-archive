@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-185 songs - 11 hr 37 min
+186 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [NO WAY](https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 4:16 | 2022-05-03 | 2022-07-29 |
 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2022-05-03 |  |
 | [Nosso Samba](https://open.spotify.com/track/67gT8rrjkmHtp8ZyORgnna) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [Nosso Samba](https://open.spotify.com/album/0nKwnNCcAKx5fEMO3pghor) | 3:31 | 2022-05-03 | 2022-07-04 |
+| [NOW](https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Unlock My Boss, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh) | 3:15 | 2023-01-14 |  |
 | [One Day](https://open.spotify.com/track/4GyHQOpfrElhvKjIfXSEf3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:13 | 2022-05-03 | 2022-09-09 |
 | [Only we know](https://open.spotify.com/track/4LHIbkYLKKdyprbcnISj6m) | [YONGZOO](https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb) | [THE FAN 2ROUND Part.2](https://open.spotify.com/album/5e5G38kHDIZvygpIoOnbLf) | 4:09 | 2022-05-03 | 2022-07-29 |
 | [Only you](https://open.spotify.com/track/5hzZl2FVuN2auomlHFV47r) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [9X9th](https://open.spotify.com/album/2hDuNdZj6kdZMU4SnJSu7s) | 4:30 | 2022-05-03 | 2022-07-25 |
@@ -149,7 +150,7 @@
 | [The End of a Wander \(With SUDI\)](https://open.spotify.com/track/1SeFjGdgbLAnXW5YGlvTdJ) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb), [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF) | [The End of a Wander](https://open.spotify.com/album/55oIrLyWTFPySdvdY5PP6f) | 3:28 | 2022-05-03 | 2022-07-19 |
 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 | 2022-07-22 | 2022-09-09 |
 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 | 2022-05-03 | 2022-07-29 |
-| [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 | 2022-05-03 |  |
+| [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 | 2022-05-03 | 2023-01-14 |
 | [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2022-05-03 |  |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-06-20 |  |
 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 | 2022-05-03 |  |

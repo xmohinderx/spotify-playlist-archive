@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-263 songs - 13 hr 26 min
+264 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Bridge Alpha Sinus \- 147 hz \- 148 hz](https://open.spotify.com/track/1ml9cNlcbmwytBtl0eEadf) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Sinus Moments](https://open.spotify.com/album/7HbRDOMi06vfQgudWIeIIK) | 3:29 | 2021-08-05 |  |
 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 | 2019-05-26\* | 2021-01-12 |
 | [Chakra Flow Gamma Sinus](https://open.spotify.com/track/2IjmfeOvXo6ha4PxW7WqWk) | [Mindful Entrainment](https://open.spotify.com/artist/3VC3a7EmahK5d9RCPQqNEk) | [Chakra Flow Gamma Sinus](https://open.spotify.com/album/0DL8insWLSxIU96C5AwDmv) | 1:44 | 2021-02-03 | 2021-03-25 |
+| [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-01-13 |  |
 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 | 2021-04-22 |  |
 | [Creative State of Mind \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 2:47 | 2021-03-25 |  |
 | [Creature](https://open.spotify.com/track/6Vd4pngwOAsq3mDsiW3fKC) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Drones and Beats](https://open.spotify.com/album/4dqxnmrsRlZcjJOkRgP3FD) | 3:40 | 2019-05-26\* | 2021-03-10 |
@@ -263,7 +264,7 @@
 | [The Process \(Beta Waves\)](https://open.spotify.com/track/1cJ3wyU5cwNv2CjZWK75uM) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2020-03-12 | 2021-10-21 |
 | [Theta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/3dw2xpPQnX1K5dvUETLDY7) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:33 | 2021-09-29 | 2021-10-01 |
 | [Time Travelling \(Beta Waves\)](https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Reaching For The Stars](https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6) | 3:12 | 2021-09-29 | 2021-12-23 |
-| [Total \- Alpha Sinus 65,4hz \- 68,5 hz](https://open.spotify.com/track/1w8ZPmlfAahvTwfSKxoRRn) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:52 | 2021-06-04 |  |
+| [Total \- Alpha Sinus 65,4hz \- 68,5 hz](https://open.spotify.com/track/1w8ZPmlfAahvTwfSKxoRRn) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:52 | 2021-06-04 | 2023-01-14 |
 | [Total Focus \(Beta Sinus\)](https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 3:33 | 2021-08-18 |  |
 | [Under The Rainbow \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/4bFFRIFI3T3e03sLl6iG7W) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:42 | 2021-04-22 |  |
 | [Universal \- Alpha sinus 91 \- 95hz](https://open.spotify.com/track/6jiSCHhcbgjL64g3F1sSw3) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Fields](https://open.spotify.com/album/1WDadxIT9t8fskmLJYCVCe) | 4:01 | 2021-05-06 |  |

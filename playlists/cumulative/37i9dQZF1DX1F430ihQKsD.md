@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La crème de la crème of Montréal's music scene\. Photo: Chiiild
+> La crème de la crème of Montréal's music scene\. Photo: Thaïs
 
-249 songs - 14 hr 34 min
+252 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2022-05-13 |  |
 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 | 2022-03-25 | 2022-07-29 |
 | [Cold](https://open.spotify.com/track/1tiX1UC9gFJtHqCPNCu8WN) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Happy Thanksgiving D\*\*\*heads](https://open.spotify.com/album/7nBxHzpHOCkV4aVZMsi9xH) | 2:59 | 2022-10-28 | 2022-11-13 |
-| [Cold](https://open.spotify.com/track/5mFXw1QaGIyBJ4hZjduNWh) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/7GZcmdR13L609UtXntBcSy) | 2:59 | 2022-07-22 |  |
+| [Cold](https://open.spotify.com/track/5mFXw1QaGIyBJ4hZjduNWh) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/7GZcmdR13L609UtXntBcSy) | 2:59 | 2022-07-22 | 2023-01-14 |
 | [Colosse](https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 4:27 | 2022-03-25 |  |
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 |  |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2022-03-25 | 2022-05-28 |
@@ -69,6 +69,7 @@
 | [Depuis](https://open.spotify.com/track/7D14x2U6kLT9BhbmsjWmPW) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/4uyTvxltj4VNnQ1T2n8cnY) | 4:53 | 2022-03-25 | 2022-07-29 |
 | [Des nœuds dans les doigts](https://open.spotify.com/track/2lE5EAPTKZ6inx0gNq6gTg) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Des nœuds dans les doigts](https://open.spotify.com/album/29UB860uihaDIj9d0NsD23) | 4:17 | 2022-05-27 | 2022-11-22 |
 | [Deux pieds dans la tombe](https://open.spotify.com/track/6rEuBcNDSMt9lLIQIDv6IR) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Deux pieds dans la tombe](https://open.spotify.com/album/2RcU4foSojnJ3O1cba7Pfh) | 3:21 | 2022-09-30 |  |
+| [Différent de toi](https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Différent de toi](https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV) | 2:45 | 2023-01-13 |  |
 | [Digital Damage](https://open.spotify.com/track/6ysriWddMJP3xo4qElbQu7) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Digital Damage](https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb) | 2:29 | 2022-04-15 | 2022-04-23 |
 | [Dis\-moi si la ville](https://open.spotify.com/track/1yhMs6ZXA0eTO7kra1pX7R) | [Maud Evelyne](https://open.spotify.com/artist/5Dr7MbOh4wwzWswQxIKmFK) | [Dis\-moi si la ville](https://open.spotify.com/album/2G57Hhyh1W3gqlZBWMOnsy) | 2:56 | 2022-03-25 | 2022-11-12 |
 | [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 | 2022-08-05 | 2022-10-01 |
@@ -79,6 +80,7 @@
 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 | 2022-04-15 | 2022-09-24 |
 | [Détours](https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Snake eyes](https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8) | 2:52 | 2022-03-25 |  |
 | [East Angus 1998](https://open.spotify.com/track/7JJNsPiJyMNyRtZTx4qhMN) | [Lizzy & the Fanatics](https://open.spotify.com/artist/7l4sVkNSc4v6058rs4GnJr) | [East Angus 1998](https://open.spotify.com/album/7JsmNAXZRIncXqlvu1qkZx) | 3:54 | 2022-03-25 | 2022-07-16 |
+| [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-13 |  |
 | [Entre ici et les jours heureux](https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Entre ici et les jours heureux](https://open.spotify.com/album/6SH1H9eDpiT3dS8TVUCe0R) | 3:20 | 2022-05-27 | 2022-09-17 |
 | [Entre tes doigts](https://open.spotify.com/track/02GnLnPBFGwjus9dumMEwR) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Entre tes doigts](https://open.spotify.com/album/350iyHLoBeRHvPVWLJq9bX) | 5:45 | 2022-08-05 |  |
 | [Excellence Europe\-Express](https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde \(Deluxe\)](https://open.spotify.com/album/5hfqkqLj5FkmT9yOAnMYJt) | 3:57 | 2022-03-25 |  |
@@ -152,6 +154,7 @@
 | [Losing Touch](https://open.spotify.com/track/6L2SG3kZwT61N1IhYrTKRa) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Losing Touch](https://open.spotify.com/album/0zolIEow3m9JVU6xV4Ov1Z) | 3:30 | 2022-07-01 |  |
 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 | 2022-03-25 | 2022-06-04 |
 | [Lumière noire](https://open.spotify.com/track/4rjKlgyzIdF7YJvjFgu3qI) | [Projet Jacob](https://open.spotify.com/artist/0qBsS23IlLEUKTugdb591W) | [Sans brume](https://open.spotify.com/album/6r7pxiyTKIPwjJnvBFBHtu) | 2:57 | 2022-03-25 | 2022-04-02 |
+| [Ma peau brûle](https://open.spotify.com/track/0CSnwni3GSWONb9hvpaxfx) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY, Vol\. I](https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN) | 3:22 | 2023-01-13 |  |
 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 | 2022-10-14 |  |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-25 | 2022-10-15 |
 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 | 2022-03-25 | 2022-04-29 |
@@ -200,7 +203,7 @@
 | [Pourquoi](https://open.spotify.com/track/7kpXh1DGtvwlKGxxJZawKL) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Pourquoi](https://open.spotify.com/album/7octbaqwUajyIePHuALwAi) | 3:14 | 2022-03-25 |  |
 | [Pourtant](https://open.spotify.com/track/1npKOQwxUWDGKQr10Rd8I9) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Pourtant](https://open.spotify.com/album/4EQZ4Z6OniZVeYjfSkaxHx) | 5:42 | 2022-09-16 |  |
 | [Prends ça doux](https://open.spotify.com/track/6MAyFXAiCZPmEMrW90M5CS) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl) | [Prends ça doux](https://open.spotify.com/album/6Hl0yM1LMl41PsS9hL7gfc) | 3:27 | 2022-03-25 | 2022-04-29 |
-| [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 | 2022-08-26 |  |
+| [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 | 2022-08-26 | 2023-01-14 |
 | [Prochain épilogue](https://open.spotify.com/track/0uPA83Y6CifPnSZbCgXGsC) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Prochain épilogue](https://open.spotify.com/album/4GudmwIXgfYDoZ5Db5wWZx) | 3:31 | 2022-09-30 | 2022-10-22 |
 | [Pénélope](https://open.spotify.com/track/6igMBCYzoJWpYr79Rmpw1q) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [Pénélope](https://open.spotify.com/album/3lefVAjXnsOGHtuFnJr2V9) | 4:25 | 2022-04-22 | 2022-05-20 |
 | [Quand je veux je dors](https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 2:32 | 2022-03-25 | 2022-09-17 |
@@ -231,7 +234,7 @@
 | [T'es beau](https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Montréal bagarre 2](https://open.spotify.com/album/651734qFKfoKaPjnYT0mEk) | 3:05 | 2022-05-20 | 2022-06-11 |
 | [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 | 2022-09-02 |  |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-10 | 2022-08-06 |
-| [Ton appartement](https://open.spotify.com/track/4rIMgETCYlTAaxcEWb9OpB) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Ton appartement](https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5) | 3:51 | 2022-10-21 |  |
+| [Ton appartement](https://open.spotify.com/track/4rIMgETCYlTAaxcEWb9OpB) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Ton appartement](https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5) | 3:51 | 2022-10-21 | 2023-01-14 |
 | [Tote Bag](https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Tote Bag](https://open.spotify.com/album/2qsRHDL7JUhg61nhQqR5Ri) | 3:22 | 2022-09-23 |  |
 | [Toune 1](https://open.spotify.com/track/3v1mSem8vZUTBJutzWOWXQ) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 1](https://open.spotify.com/album/4up15itKNiWEDZYtmTcMof) | 4:17 | 2022-09-16 | 2022-10-29 |
 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 | 2022-05-27 | 2022-09-17 |

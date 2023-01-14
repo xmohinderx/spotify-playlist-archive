@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "You Gotta Move (Live)",
+        "url": "https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 841913,
+      "name": "You Gotta Move - Live",
+      "url": "https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l"
+    },
+    {
+      "album": {
         "name": "Money Jungle (Live)",
         "url": "https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO"
       },

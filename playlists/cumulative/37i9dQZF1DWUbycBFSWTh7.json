@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Power of Today",
+        "url": "https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379965,
+      "name": "Power of Today",
+      "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
+    },
+    {
+      "album": {
         "name": "Concentrate EP",
         "url": "https://open.spotify.com/album/0yeM1hDanvANzJfSm131xj"
       },

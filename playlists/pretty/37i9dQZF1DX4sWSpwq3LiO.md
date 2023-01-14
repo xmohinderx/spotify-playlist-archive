@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,825,022 likes - 299 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,828,040 likes - 299 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 145 | [Pour Vous](https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 2:30 |
 | 146 | [Kioque](https://open.spotify.com/track/25h6NHq2mLaiupkc0XDuBa) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Kioque](https://open.spotify.com/album/1zQuQjSMZVahuD7i7pRtbA) | 2:10 |
 | 147 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 |
-| 148 | [Decor](https://open.spotify.com/track/798dMbomgbBMCgcLHXoHSe) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Night Owl](https://open.spotify.com/album/2if8mACHves2Fw1Pv3qC0k) | 2:39 |
+| 148 | [Decor](https://open.spotify.com/track/1XA8P59ZUJRDRqB30BOuNV) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Santosha](https://open.spotify.com/album/0i7YAD1BjzmuSWhrG6aex8) | 2:39 |
 | 149 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 |
 | 150 | [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 |
 | 151 | [Valse](https://open.spotify.com/track/6Byh2m5om63yZL35VrP0CF) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Valse](https://open.spotify.com/album/1XlVm3hPaCrOtjUIxSU8j7) | 2:22 |
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 298 | [Two Different Souls.](https://open.spotify.com/track/15dDxkVvJnP2iapPvFfRMb) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Two Different Souls.](https://open.spotify.com/album/4hqVcJpQ42UfGeGt4DzMzQ) | 2:30 |
 | 299 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 |
 
-Snapshot ID: `MTY3MzI2OTgxOSwwMDAwMDAwMGM0YWZjNmZjZGI0MzEyY2Y3YzgxMTc1YTdmNTA1NDA5`
+Snapshot ID: `MTY3MzI2OTgxOSwwMDAwMDAwMDJkODE2MTg4Yjk1YTI3OTUzYzFhNWI1M2FlYjA5YmVm`

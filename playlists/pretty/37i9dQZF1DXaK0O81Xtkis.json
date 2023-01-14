@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: The 1975",
-  "num_followers": 201047,
+  "num_followers": 201085,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGU2YmNhMzBkZDg4NmY3YmMwY2E5ZTQ4OGNkOWY3NGYy",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDZkMGU1MmIwZTMxZGU3NDk0MGM0NWZiODdjMmYxOGJk",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Think I'm In Love",
-        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
-      },
-      "artists": [
-        {
-          "name": "Richard Fairlie",
-          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "I'm Alright If You're Ok",
         "url": "https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD"
       },
@@ -59,18 +43,34 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5"
+        "name": "Think I'm In Love",
+        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
       "artists": [
         {
-          "name": "Jacob Sartorius",
-          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
+          "name": "Richard Fairlie",
+          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
         }
       ],
-      "duration_ms": 142424,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI"
+      "duration_ms": 133000,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "The Lows",
+        "url": "https://open.spotify.com/album/1oKZwEjUSRsqeACfHXcDgf"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "The Lows",
+      "url": "https://open.spotify.com/track/3cBpzG7DTbm5w85KfuJUo7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -87,6 +87,38 @@
       "duration_ms": 189984,
       "name": "Can't Be Lonely",
       "url": "https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "on life",
+        "url": "https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "on life",
+      "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5"
+      },
+      "artists": [
+        {
+          "name": "Jacob Sartorius",
+          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
+        }
+      ],
+      "duration_ms": 142424,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -839,22 +871,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 163543,
-      "name": "Destination",
-      "url": "https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "star tripping",
         "url": "https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 198425,
       "name": "Expiration Date",
       "url": "https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215163,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     },
     {
       "added_at": "2023-01-06 05:00:00",

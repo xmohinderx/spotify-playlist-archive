@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Livio Cori
 
-249 songs - 12 hr 18 min
+250 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Lo Sguardo Degli Angeli](https://open.spotify.com/track/1wql7SfwYxxTpjTIUtL63K) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Lo Sguardo Degli Angeli](https://open.spotify.com/album/2sPXbn73Q5fK4DN8sCqj5C) | 2:41 | 2022-06-16 | 2022-07-29 |
 | [Lo\-Fi Love](https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Lo\-Fi Love](https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r) | 3:40 | 2022-05-19 |  |
 | [lontano](https://open.spotify.com/track/0pwQySxObaYRgpY61WsfKa) | [zaib](https://open.spotify.com/artist/3TxRnp2KxvCWqRu7M9eAc3), [niciPGTL](https://open.spotify.com/artist/0L4l7phFpg3cgAw3ajXxCG) | [lontano](https://open.spotify.com/album/0pJXhN2RnAViiSVwKMYa5M) | 2:20 | 2022-09-01 | 2022-10-28 |
+| [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 | 2023-01-13 |  |
 | [Lopsided](https://open.spotify.com/track/2hfUSLKQk9FNeQoWH4aGgr) | [Erreanderre](https://open.spotify.com/artist/0P6Qjc8sTum35CofAtFVKw), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Lopsided](https://open.spotify.com/album/63GCIojAkZYzMOmaEgSksO) | 3:17 | 2022-08-05 | 2022-11-11 |
 | [Luce](https://open.spotify.com/track/3JNIkNlzpYSVRqRntUVMF0) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302) | 4:04 | 2022-05-05 |  |
 | [Lui](https://open.spotify.com/track/2CA7x4w6ozAUZFHChxcyxt) | [Greeyce](https://open.spotify.com/artist/2jEpqbBVGFfzmXn51dDqMe), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [Lui](https://open.spotify.com/album/1bIh6pQCJh7OBIWpqtQDZd) | 2:36 | 2022-11-03 |  |
@@ -175,7 +176,7 @@
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-05-26 |  |
 | [Pesca Noche](https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Ganoona](https://open.spotify.com/artist/5jlr1VBi2pwgLmexZIcQo7) | [Pesca Noche](https://open.spotify.com/album/3uE4tgA8f7mFxngunL6206) | 3:03 | 2022-05-05 | 2022-07-15 |
 | [Plenilunio](https://open.spotify.com/track/6IZBQhT4RNSTreDogeiCfa) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Plenilunio](https://open.spotify.com/album/44715EEdXOjoBebHPBwoeh) | 2:58 | 2022-09-29 | 2022-10-14 |
-| [Poco Male](https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Originali](https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU) | 3:22 | 2022-05-05 |  |
+| [Poco Male](https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Originali](https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU) | 3:22 | 2022-05-05 | 2023-01-14 |
 | [Podio](https://open.spotify.com/track/2qG3nVwV8MMy1aCWgxGpiF) | [Sara Mancini](https://open.spotify.com/artist/0A8DfrInGzOLf2froFT3rq) | [Podio](https://open.spotify.com/album/5mhVwiB3QNnqbk1A4BE2Cg) | 2:00 | 2022-05-05 | 2022-06-17 |
 | [Polistirene](https://open.spotify.com/track/0PM1zOjPPI6IZU2ZuvvBkp) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f) | [Polistirene](https://open.spotify.com/album/4hDtsThB2h0BjsIw0CcpFk) | 2:55 | 2022-10-20 | 2022-12-02 |
 | [Porcellana](https://open.spotify.com/track/6riDFgwqLeLabN6u1DzMtV) | [Bluenne](https://open.spotify.com/artist/3hZtNwuBpIZAT8wzNuwTVF) | [Porcellana](https://open.spotify.com/album/54od64nXLcEZf3YmZUpzVq) | 3:01 | 2023-01-12 |  |

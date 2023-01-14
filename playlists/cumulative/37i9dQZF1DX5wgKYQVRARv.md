@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-587 songs - 2 day 2 hr 49 min
+588 songs - 2 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,7 +505,7 @@
 | [The Secret Pt\. 1](https://open.spotify.com/track/6D6NRfGV84J0S8IgpDTWxQ) | [DGM](https://open.spotify.com/artist/5Rq2C3wWiwL3NqjutXMt8e) | [The Secret Pt.1](https://open.spotify.com/album/2eh7y0C8ALvLBB1bAXoorh) | 8:24 | 2021-12-17 | 2022-01-28 |
 | [The Shadow](https://open.spotify.com/track/6rLASbKbKCPQjB5WrkOpCx) | [Toothgrinder](https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP) | [Phantom Amour](https://open.spotify.com/album/67qrET1eCDywwoPECD5trm) | 4:01 | 2021-12-17 | 2022-01-29 |
 | [The Shape of Things to Come](https://open.spotify.com/track/3lo7hmbnxQQLx5BNAwBV0T) | [Defecto](https://open.spotify.com/artist/2o6fdLOyFmR2e94aYpQoAs) | [The Shape of Things to Come](https://open.spotify.com/album/1Y0ydJDMJ4oqMLdeoEPBDk) | 6:08 | 2021-12-31 | 2022-07-28 |
-| [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 |  |
+| [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 | 2023-01-14 |
 | [The Sun Sleeps](https://open.spotify.com/track/3A6JgmzUWDueOffok4KIEW) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [The Sun Sleeps](https://open.spotify.com/album/4jgLp45wBAbzOPeEUTSLnP) | 4:14 | 2022-07-13 |  |
 | [The Tempest](https://open.spotify.com/track/7jmuosDBwcmcfB6Jbi7zIX) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [The Tempest](https://open.spotify.com/album/695AyssBtISEpsMTh0Ue5f) | 4:48 | 2021-12-17 | 2022-07-29 |
 | [The Tower of Cosmic Nihility](https://open.spotify.com/track/4dgbo8OaQhFaKxebtlh3WA) | [IOTUNN](https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz) | [The Tower of Cosmic Nihility](https://open.spotify.com/album/5BpW1er5S8lrzZGHYRhFOv) | 7:30 | 2021-12-17 | 2022-07-29 |
@@ -588,6 +588,7 @@
 | [White Water](https://open.spotify.com/track/4lALBBj0EvYHn6T5rlYqYT) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [I'd Rather Be Asleep](https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp) | 3:34 | 2023-01-06 |  |
 | [White Water](https://open.spotify.com/track/5NmreSAnQcInIfyxspnoFX) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [White Water](https://open.spotify.com/album/4cOJWEpRMY7x35u3imB92y) | 3:34 | 2022-04-22 | 2022-12-30 |
 | [Why Do I Care](https://open.spotify.com/track/0jjAghbDie2a2cETSDl1ky) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Why Do I Care](https://open.spotify.com/album/6Ukl77GQ4tlcOS2Na2lQ6q) | 5:00 | 2021-12-31 |  |
+| [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 | 2023-01-13 |  |
 | [Within the Sphere](https://open.spotify.com/track/1f4BjsMcz7zR7HHtDXlNEC) | [Paralydium](https://open.spotify.com/artist/65X6T9OJ2gXGpkc1DgrYgR) | [Within the Sphere](https://open.spotify.com/album/7FICWjTaVxI1T1sy4ae37L) | 5:15 | 2021-12-17 | 2022-07-11 |
 | [Wonderland](https://open.spotify.com/track/32xzobEEYV8nphwopudnTY) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH), [Skeb](https://open.spotify.com/artist/0l22ZecRDOBWHJdmVmw9Rf) | [Wonderland](https://open.spotify.com/album/2pF7TT6tSoOpkct2Jfsqi1) | 4:05 | 2022-04-22 |  |
 | [Yonder](https://open.spotify.com/track/1n4viFiH0y3iBwoURa8uY3) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Le Grand Voyage](https://open.spotify.com/album/6vkVCBBaqsTiraWDpIbRZV) | 7:32 | 2022-07-08 | 2022-09-03 |

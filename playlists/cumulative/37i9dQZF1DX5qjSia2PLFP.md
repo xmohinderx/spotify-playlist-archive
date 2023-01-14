@@ -2,9 +2,9 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves.
+> New music breaking waves\. Cover, Luke Bar$
 
-219 songs - 10 hr 2 min
+222 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2much \- YCO Jay Remix](https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [yung dastard](https://open.spotify.com/artist/29QmqvNrylI5sgRYsCvdUU), [YCO Jay](https://open.spotify.com/artist/1ySQjU8BZWZLMQD317oF2C) | [2much \(YCO Jay Remix\)](https://open.spotify.com/album/0szOMBJCj3bT35xlKq6IjA) | 3:31 | 2021-12-28 | 2022-03-26 |
 | [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 | 2022-12-16 |  |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-24 | 2022-11-19 |
+| [Ain't On None](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 | 2023-01-13 |  |
 | [Aint No Fun](https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Aint No Fun](https://open.spotify.com/album/2hcZSipx5KrhW4Rxp74BhC) | 2:08 | 2022-08-05 | 2022-10-29 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-10-07 |  |
 | [Already Lost](https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Look What You've Done](https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood) | 3:33 | 2021-08-13 | 2022-03-12 |
@@ -144,6 +145,7 @@
 | [ON DAT SHIT](https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 2:38 | 2022-05-27 | 2022-09-17 |
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-03-25 | 2022-08-06 |
 | [Paraíso](https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Paraíso](https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI) | 3:32 | 2022-02-11 | 2022-06-08 |
+| [Pelicans](https://open.spotify.com/track/1N4BtJIjNoaEtoBMjgri7j) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pelicans](https://open.spotify.com/album/70ORb8kKxoDAXwdSADTVII) | 3:50 | 2023-01-13 |  |
 | [Perfect Nature](https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4) | [SAUCITO](https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK) | [Perfect Nature](https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q) | 2:32 | 2022-05-20 | 2022-09-17 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-08-12 | 2022-10-15 |
 | [PG Baby](https://open.spotify.com/track/1v2aQ5953RmLWAIxwpsHD7) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [PG BABY](https://open.spotify.com/album/3MSNbq2OuJxw36qGFmfPT3) | 3:42 | 2021-09-03 | 2022-03-26 |
@@ -225,6 +227,7 @@
 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2022-12-16 |  |
 | [Xtasy](https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Xtasy](https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV) | 2:58 | 2022-05-20 | 2022-08-27 |
 | [Y I Want U](https://open.spotify.com/track/07BT6pHeHuXycLNH4Jr2zD) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 1:46 | 2022-12-02 |  |
+| [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 | 2023-01-13 |  |
 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 | 2021-08-14 | 2022-03-05 |
 | [You Got It Made](https://open.spotify.com/track/03M0wprGdDBgPTKfikarQd) | [Young Roc](https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jay John Henry](https://open.spotify.com/artist/6NL6Ja857luFYLYZOqQQ9i) | [You Got It Made](https://open.spotify.com/album/1OiIUAjUxe5IMDwVvDtB2e) | 2:11 | 2021-09-01 | 2022-03-05 |
 

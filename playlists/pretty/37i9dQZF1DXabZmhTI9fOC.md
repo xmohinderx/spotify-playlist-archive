@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,193 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,202 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 218 | [I'm Coming For It](https://open.spotify.com/track/1QIqFCNyeUhRMeXXC1zkGV) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [GREYLEE](https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5) | [I'm Coming For It](https://open.spotify.com/album/0VVnR9NcCSZWOS5YLXty60) | 3:07 |
 | 219 | [Fight For You](https://open.spotify.com/track/7qlJsmIKzlrfcHcPz2IEoR) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [Good Days](https://open.spotify.com/album/6NxyS1NtzsTBKRMwSI1eKF) | 3:59 |
 | 220 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
-| 221 | [Heaven Is A Place On Earth](https://open.spotify.com/track/45vAYz12Qwo6VwjNfdmCKh) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Heaven Is a Place On Earth](https://open.spotify.com/album/69T2rA7zCe9zML6CdHgA90) | 2:47 |
+| 221 | [Heaven Is A Place On Earth](https://open.spotify.com/track/45vAYz12Qwo6VwjNfdmCKh) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Heaven Is a Place On Earth](https://open.spotify.com/album/69T2rA7zCe9zML6CdHgA90) | 2:47 |
 | 222 | [Run Wild](https://open.spotify.com/track/5cOG0SW6hwUYfenLpMMy5J) | [REIMS](https://open.spotify.com/artist/3sbhS05fQerlXJSubVoIbX) | [Riot](https://open.spotify.com/album/1DJdcGOOjXzXmHIuKYJ3qz) | 3:10 |
 | 223 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
 | 224 | [Hit the Road Jack](https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Hit the Road Jack](https://open.spotify.com/album/2JiWOGcnPYwlkQSdUn2ZGx) | 3:31 |

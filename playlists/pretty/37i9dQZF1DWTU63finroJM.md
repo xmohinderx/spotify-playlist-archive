@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,211 likes - 184 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,313 likes - 184 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 97 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 |
 | 98 | [Weirdo](https://open.spotify.com/track/3sQBT0tor8HICVtn7YoNwt) | [Clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Weirdo](https://open.spotify.com/album/46mIIqrJLQdTpwy460Yaox) | 3:07 |
 | 99 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 |
-| 100 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/2iPg15EzAFriexYcsD0xTH), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
+| 100 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
 | 101 | [Lonely](https://open.spotify.com/track/44qdoLCf0Mcok8cTdOVoQj) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Lonely](https://open.spotify.com/album/7kd3zPWCtzNPj66QF05j3c) | 3:09 |
 | 102 | [ฉันยังอยู่](https://open.spotify.com/track/4RKdCN2AoogXeIqiQmDxNy) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [The BESTS](https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE) | [ฉันยังอยู่](https://open.spotify.com/album/2b4mRouxwhrFeA5EepXm5I) | 3:23 |
 | 103 | [Stay Home](https://open.spotify.com/track/0tpI86VSBAGMrieSxTj4gW) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4), [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Dee Kosh](https://open.spotify.com/artist/5KJkjKo00neJuj78FFflE8), [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh), [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1), [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T), [Tosh Rock](https://open.spotify.com/artist/73260xfmc9eKPFBHXy8rlZ), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Zadon](https://open.spotify.com/artist/0WsHMstGTwjQSkx7PlS50X) | [Stay Home](https://open.spotify.com/album/3kmhskl1kI3mIL7k6BzqzT) | 4:46 |

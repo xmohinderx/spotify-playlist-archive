@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,616,473 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,616,940 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [ACE OF CUPS](https://open.spotify.com/track/1upAhgDBWCV0AvUxgAU6SR) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [RENEGADES OF LIGHT](https://open.spotify.com/album/4KVo7hcHmc7x12sszqdLAN) | 2:59 |
 | 100 | [Blueberry](https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Exist Strategy](https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut) | [Blueberry](https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr) | 3:32 |
 
-Snapshot ID: `MTY2MjcxMDkxOCwwMDAwMDAwMGE5M2I5N2NiY2Q4OTdiYmFmNDlkY2YyNWRhM2EwMGVm`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDVjNmEzZTM4YWE0NGI5YWU1NGJmZTQzZDdkZGNkMzRl`

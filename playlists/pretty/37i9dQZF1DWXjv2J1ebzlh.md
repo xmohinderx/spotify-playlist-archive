@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,931 likes - 1,168 songs - 3 day 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,043 likes - 1,168 songs - 3 day 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 93 | [La Danza Del Petrolero](https://open.spotify.com/track/4bViHO6pdrioBQnHxc7jhL) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [La Danza del Petrolero](https://open.spotify.com/album/44vmtLaH2kxNXmxrnPp6Oa) | 2:48 |
 | 94 | [Africa Mia](https://open.spotify.com/track/79VurKENlz3VcXnfQoMCQa) | [Maravillas de Mali](https://open.spotify.com/artist/3bOctOMNMbRy5E8treNpSK) | [Africa Mia](https://open.spotify.com/album/7xmWe8Xrt2POogywpCht8H) | 3:09 |
 | 95 | [La Manzanita](https://open.spotify.com/track/15Js2MWBTkhq4Vi6siXaHF) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Chicano Batman](https://open.spotify.com/album/6tN9jametp8Y1xtraYzYNe) | 3:50 |
-| 96 | [Sodade](https://open.spotify.com/track/27qDeWzA33YSsMxL9yxYI6) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:23 |
+| 96 | [Sodade](https://open.spotify.com/track/27qDeWzA33YSsMxL9yxYI6) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:23 |
 | 97 | [A Misturada](https://open.spotify.com/track/1uhSOaVGXNcK31LZpjvXLw) | [Os Muiraquitãns](https://open.spotify.com/artist/7tyLpRfG9BaHcnrqSk39gk) | [Jambú e Os Míticos Sons Da Amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/1HXOXmCqJ1LynNkClCoypJ) | 3:02 |
 | 98 | [Advice from Father](https://open.spotify.com/track/3Neyj2zB4zylFq6MhatEMg) | [Buari](https://open.spotify.com/artist/7AI9wDJVuvSmYH1SfRsRgX) | [Buari](https://open.spotify.com/album/2fs9DAwzczfaXU1K8yc5iA) | 4:50 |
 | 99 | [Ayrılık Olsa Bile](https://open.spotify.com/track/5zf7fNeGpd719mQ8viEJbQ) | [Esmeray](https://open.spotify.com/artist/5LbgJGRCmR9pgCxVkBDZw6) | [En İyileriyle Esmeray](https://open.spotify.com/album/2fLUchdL2lmIqwP2DO1KJ9) | 3:10 |

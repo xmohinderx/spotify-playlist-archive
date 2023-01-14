@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 158213,
       "name": "Are you in there",
       "url": "https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL"
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Cheers!",
+      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
+    },
+    {
+      "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
         "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
       },
@@ -234,7 +252,7 @@
           "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "date_added": "2023-01-11",
+      "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180320,
@@ -489,6 +507,24 @@
     },
     {
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156354,
+      "name": "Good Parts (when the quality is bad but I am)",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -652,7 +688,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 167866,
       "name": "I AM FINE",
       "url": "https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q"
@@ -686,7 +722,7 @@
           "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
         }
       ],
-      "date_added": "2023-01-11",
+      "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150269,
@@ -926,10 +962,28 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220853,
       "name": "My Move",
       "url": "https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
     },
     {
       "album": {

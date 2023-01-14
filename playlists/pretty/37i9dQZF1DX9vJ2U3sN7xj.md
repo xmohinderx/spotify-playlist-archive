@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 
 > nos fuimos de fiesta 🎉 <br/>Cover: Black Eyed Peas & Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,349 likes - 120 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,357 likes - 120 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

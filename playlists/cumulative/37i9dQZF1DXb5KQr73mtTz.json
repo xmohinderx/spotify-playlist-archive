@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 212000,
       "name": "Dimly",
       "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
@@ -2644,6 +2644,24 @@
       "duration_ms": 151900,
       "name": "Photo album",
       "url": "https://open.spotify.com/track/66ah8lyaZrf7Yol7iuf5D0"
+    },
+    {
+      "album": {
+        "name": "No movie series : A bar with emotions OST",
+        "url": "https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J"
+      },
+      "artists": [
+        {
+          "name": "Ryu Su Jeong",
+          "url": "https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "Recognize you",
+      "url": "https://open.spotify.com/track/029L3sB2fP83DrLHiebVnq"
     },
     {
       "album": {

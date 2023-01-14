@@ -7750,10 +7750,28 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 208277,
       "name": "New Year's",
       "url": "https://open.spotify.com/track/3qkwuWuGClBAuuPd0DXN05"
+    },
+    {
+      "album": {
+        "name": "New Year's EP",
+        "url": "https://open.spotify.com/album/2fCxFcHye0AWepx9y9Yk22"
+      },
+      "artists": [
+        {
+          "name": "Wildermiss",
+          "url": "https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208277,
+      "name": "New Year's",
+      "url": "https://open.spotify.com/track/5tyBNExaQp6AcemEFHnds3"
     },
     {
       "album": {

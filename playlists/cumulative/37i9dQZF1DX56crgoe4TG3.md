@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-185 songs - 11 hr 48 min
+186 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 | 2021-08-20 |  |
 | [Stronger](https://open.spotify.com/track/5mf78CsTPJUOY2lWWbd8KB) | [Rebecca Loebe](https://open.spotify.com/artist/6FmVqyaRJUiBBLYroaonM4) | [Bees & Zombies](https://open.spotify.com/album/0JK8nmaCQqMXupnfo5ohfp) | 3:28 | 2021-08-20 | 2022-01-08 |
 | [Such Great Heights](https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT) | 4:13 | 2021-08-20 | 2022-01-08 |
+| [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2023-01-13 |  |
 | [Summer's End](https://open.spotify.com/track/03aaUI9oLXdo9TRAvKy62T) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Summer's End](https://open.spotify.com/album/5zgTm1cISmkEXTC6Vo2IYH) | 3:48 | 2021-08-20 |  |
 | [Superstition](https://open.spotify.com/track/3TXIXYKb8c6Lj6v7TcU0gB) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/32VCMTj1IgIsP9UqsOKKeC) | 3:21 | 2021-08-20 | 2022-07-29 |
 | [Superstition](https://open.spotify.com/track/2KojzDNCOj7EQfasSNtXAn) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/441lN6kH5dgprlB88b6cbF) | 3:23 | 2022-05-27 |  |

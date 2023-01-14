@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Aka Plaka",
+        "url": "https://open.spotify.com/album/1Xcd3rQPyJPx9MFeT92Ruv"
+      },
+      "artists": [
+        {
+          "name": "Barbarela",
+          "url": "https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Aka Plaka",
+      "url": "https://open.spotify.com/track/5iIWcCKkoLNRw3kO1Eych3"
+    },
+    {
+      "album": {
         "name": "Almac\u00e9n de Datos",
         "url": "https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx"
       },
@@ -202,6 +220,28 @@
       "duration_ms": 210891,
       "name": "Arrepent\u00edo",
       "url": "https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ"
+    },
+    {
+      "album": {
+        "name": "Autodefensa",
+        "url": "https://open.spotify.com/album/2vXHHCAjX6a9wf4GmosnoO"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "MARICA",
+          "url": "https://open.spotify.com/artist/3uuVC225TxrBKJB1SmnOlq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232871,
+      "name": "Autodefensa",
+      "url": "https://open.spotify.com/track/4VxzbMh8EGxb71o6n3gEvV"
     },
     {
       "album": {
@@ -1264,7 +1304,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 209032,
       "name": "Latina P.I.M.P",
       "url": "https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU"
@@ -1884,7 +1924,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 118620,
       "name": "Quien Paga",
       "url": "https://open.spotify.com/track/7zP1jcXDQvzOPwbuil3NDJ"
@@ -1946,6 +1986,32 @@
       "duration_ms": 144997,
       "name": "RACE",
       "url": "https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "MarieV",
+          "url": "https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa"
+        },
+        {
+          "name": "Bad Panda",
+          "url": "https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN"
     },
     {
       "album": {

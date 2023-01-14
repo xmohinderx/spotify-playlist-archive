@@ -4,15 +4,15 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-59 songs - 3 hr 41 min
+62 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 | 2022-10-21 |  |
 | [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 | 2023-01-06 |
-| [Apartment \(feat\. Benny Sings\)](https://open.spotify.com/track/3bt6rnq9mCrq1XStEcGaNl) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:04 | 2022-10-21 |  |
+| [Apartment \(feat\. Benny Sings\)](https://open.spotify.com/track/3bt6rnq9mCrq1XStEcGaNl) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:04 | 2022-10-21 | 2023-01-14 |
 | [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 | 2022-10-21 |  |
-| [Big Brown Eyes](https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 4:11 | 2022-10-21 |  |
+| [Big Brown Eyes](https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 4:11 | 2022-10-21 | 2023-01-14 |
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2022-10-21 |  |
 | [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 | 2022-10-21 |  |
 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 | 2022-10-21 |  |
@@ -53,19 +53,22 @@
 | [Somebody's Watching You](https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 3:35 | 2022-10-21 |  |
 | [Somewhere in New York](https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Somewhere in New York](https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035) | 2:31 | 2022-11-18 |  |
 | [Step](https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Hot Dads in Tight Jeans](https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6) | 4:02 | 2022-10-21 |  |
+| [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-01-13 |  |
 | [Takeoff](https://open.spotify.com/track/6Rg1H1aIrg99gsOKCEEDjh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 4:07 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/6yTchvmjqKDj4psl8WunJK) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Paris II](https://open.spotify.com/album/3mIkvHphijwLhjlYZPWJN7) | 3:39 | 2022-10-21 | 2022-12-24 |
 | [The Lottery](https://open.spotify.com/track/16xoohpKWmRCrSbK5tQtpL) | [The Stepkids](https://open.spotify.com/artist/1JbB3pybR1wjrQSBLaMWyn) | [Troubadour](https://open.spotify.com/album/0IA0ptUhfkuHZa6pz8g82v) | 3:50 | 2022-10-21 |  |
 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 | 2022-10-21 |  |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-18 |  |
-| [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-21 |  |
+| [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-21 | 2023-01-14 |
 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 | 2022-10-21 |  |
 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 | 2022-11-11 |  |
 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 | 2022-10-21 | 2022-11-19 |
 | [What Ever It May Be](https://open.spotify.com/track/7rj18BeidDwvzWAbQgbffM) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be](https://open.spotify.com/album/3cjiYBTwHHXEsA08KPpyaT) | 4:00 | 2022-10-21 |  |
+| [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 |  |
 | [Why I Came To California](https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22) | 4:39 | 2022-10-21 |  |
 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 | 2022-10-21 |  |
 | [Without Sun](https://open.spotify.com/track/6lnZykjqn6BVvd3aBHHkXh) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [If \(Deluxe Edition\)](https://open.spotify.com/album/3jf8VD6LvB13HzkQ3R4evy) | 4:22 | 2022-10-21 |  |
+| [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2022-10-28. Prior content cannot be recovered.

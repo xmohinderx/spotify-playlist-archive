@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1599575,
+  "num_followers": 1600559,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5ODkyMywwMDAwMDAwMDZiOTU1ZDg1NDk5ODYzYTZmYjI5NDVhODQ0MTg3ODgz",
+  "snapshot_id": "MTY2ODY5ODkyMywwMDAwMDAwMDVkZTRlN2ZkZGNiN2ZlNGIwZmJkZTIxZmE0NjUzMDJl",
   "tracks": [
     {
       "added_at": "2022-11-17 15:28:43",
@@ -455,22 +455,6 @@
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1115,22 +1099,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
         "name": "Heaven Tonight",
         "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 288506,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
+      "duration_ms": 296493,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1607,6 +1591,22 @@
       "duration_ms": 396186,
       "name": "Aqualung",
       "url": "https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 590000,
+      "name": "Bat Out of Hell",
+      "url": "https://open.spotify.com/track/3mCeeoBvTTpg8Xy2Wuvirw"
     }
   ],
   "unique_name": "70s Rock Anthems",

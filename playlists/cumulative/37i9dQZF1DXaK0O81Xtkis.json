@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 163543,
       "name": "Destination",
       "url": "https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q"
@@ -6083,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "on life",
+        "url": "https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132260,
+      "name": "on life",
+      "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
+    },
+    {
+      "album": {
         "name": "one day before i die",
         "url": "https://open.spotify.com/album/73JqpHRaGZYBRTrAQ7ocTc"
       },
@@ -8337,6 +8355,24 @@
     },
     {
       "album": {
+        "name": "The Lows",
+        "url": "https://open.spotify.com/album/1oKZwEjUSRsqeACfHXcDgf"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "The Lows",
+      "url": "https://open.spotify.com/track/3cBpzG7DTbm5w85KfuJUo7"
+    },
+    {
+      "album": {
         "name": "gg bb xx (deluxe)",
         "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
       },
@@ -8536,7 +8572,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"

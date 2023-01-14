@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-489 songs - 1 day 6 hr 39 min
+491 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [chord](https://open.spotify.com/track/1XyBpaXQaxWZeOqBCmi72A) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [chord](https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE) | 3:36 | 2022-11-29 | 2022-12-07 |
 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 | 2022-11-22 |  |
 | [Chu Chu Song](https://open.spotify.com/track/4nDWG3USDzV0Io1w9ibyeO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Chu Chu Song](https://open.spotify.com/album/0ISat8f2DfoFqVtjoTmHbb) | 2:54 | 2022-09-08 | 2022-10-26 |
-| [Cinderella](https://open.spotify.com/track/6Q0YiUGPwMRmxsEZ6RX3q1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/1lQXrm4sRmiUupOokQ6Sgh) | 4:35 | 2023-01-12 |  |
+| [Cinderella](https://open.spotify.com/track/3X5C1Q3V5dIsIKq2Duj0PK) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK) | 4:35 | 2023-01-12 |  |
+| [Cinderella](https://open.spotify.com/track/6Q0YiUGPwMRmxsEZ6RX3q1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/1lQXrm4sRmiUupOokQ6Sgh) | 4:35 | 2023-01-12 | 2023-01-14 |
 | [Circle](https://open.spotify.com/track/3Kj8IJ8OrL47nhgmSuh1X6) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Circle](https://open.spotify.com/album/1fvZoFyOxtVpQ2kqX7k4eo) | 4:16 | 2022-08-24 | 2022-10-15 |
 | [Citadel](https://open.spotify.com/track/59WMM6wfOhm7mLs5yxrGjt) | [CHAILD](https://open.spotify.com/artist/5ryFgnGvydhbBTJWoiIjL2) | [Citadel](https://open.spotify.com/album/2dvus8y7rORaQ6S2euxBmh) | 5:54 | 2022-07-19 | 2022-08-17 |
 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 | 2022-10-11 |  |
@@ -120,7 +121,7 @@
 | [Hana炎](https://open.spotify.com/track/1DarVtvEs9DOwJBeVhCsMO) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [LISACHRIS](https://open.spotify.com/artist/2E738wjchAb3fUOxY3bxMr), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [Hana炎](https://open.spotify.com/album/4uiFrJYts1Rb9X2Kpczrwm) | 4:37 | 2022-07-26 | 2022-08-25 |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-26 | 2022-10-05 |
 | [Hard Pool](https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hard Pool](https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo) | 4:36 | 2023-01-10 |  |
-| [HATE](https://open.spotify.com/track/2vGzFBY2hxsSQq6i0DwKsI) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [TOMOSHIBI](https://open.spotify.com/album/1joJdTZveBD244bGKj994d) | 2:50 | 2022-11-19 |  |
+| [HATE](https://open.spotify.com/track/2vGzFBY2hxsSQq6i0DwKsI) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [TOMOSHIBI](https://open.spotify.com/album/1joJdTZveBD244bGKj994d) | 2:50 | 2022-11-19 | 2023-01-14 |
 | [HAVE A NICE DAY](https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [HAVE A NICE DAY](https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq) | 2:36 | 2022-07-05 | 2022-08-02 |
 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 | 2022-11-08 | 2023-01-04 |
 | [Haze \(feat\. ZIN\)](https://open.spotify.com/track/0kAvxscFHuKuri23Y0mmXF) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Haze \(feat\. ZIN\)](https://open.spotify.com/album/7ECgPOTif7XpNIgKlK7kVf) | 4:05 | 2022-05-26 | 2022-06-17 |
@@ -180,6 +181,7 @@
 | [Long Night out](https://open.spotify.com/track/2AgPtmjYgpJ1RX1PTUbywv) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [What’s a future?](https://open.spotify.com/album/1DLXcDfhvGfkzeCPjBCdCv) | 5:48 | 2022-07-19 | 2022-08-25 |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-27 |
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-04 |  |
+| [Love You!!!!!!](https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Love You!!!!!!](https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU) | 2:05 | 2023-01-14 |  |
 | [Love's Daydream End](https://open.spotify.com/track/63DFBgVx1eBrMQkG5LuwCh) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Love's Daydream End](https://open.spotify.com/album/1JqhrNaGYbmXQlrTJ4Id6q) | 3:59 | 2022-10-25 | 2022-11-02 |
 | [Lovers In Tokyo](https://open.spotify.com/track/4C1t6lql5m1t790X8UJ2CH) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Lovers In Tokyo](https://open.spotify.com/album/3VnDBO2UsZnofhJ65hE7yC) | 3:46 | 2023-01-12 |  |
 | [Lucky Police Day](https://open.spotify.com/track/1AWqAFMimxtdidUreAHgBh) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [Lucky Police Day](https://open.spotify.com/album/5Wvqz82UIUPwBjW9O7mVKF) | 3:30 | 2022-11-17 | 2022-11-23 |

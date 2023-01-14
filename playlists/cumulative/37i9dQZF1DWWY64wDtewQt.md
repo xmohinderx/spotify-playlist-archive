@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-402 songs - 15 hr 56 min
+405 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [AMBAL](https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu) | [Goos](https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr) | [AMBAL](https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe) | 2:32 | 2023-01-06 |  |
 | [AMNESIA](https://open.spotify.com/track/32P1387Vb7TuwbprjRmtQN) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [AMNESIA](https://open.spotify.com/album/1XLMa0f05anowH4OmrATqF) | 2:11 | 2022-07-15 | 2022-10-15 |
 | [Anime](https://open.spotify.com/track/3yyFNFV2MQIQ4M6Rj88Eru) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Anime](https://open.spotify.com/album/1sQGosp1A9oAFtl7Ye3e4p) | 2:44 | 2022-04-04 | 2022-07-02 |
-| [ANIME PHONK](https://open.spotify.com/track/4Pj6Z9svyUSVNVPECGh4Fy) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [ANIME PHONK](https://open.spotify.com/album/4folnJtcs3iTd5kNMOLoZU) | 2:52 | 2022-12-16 |  |
+| [ANIME PHONK](https://open.spotify.com/track/4Pj6Z9svyUSVNVPECGh4Fy) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [ANIME PHONK](https://open.spotify.com/album/4folnJtcs3iTd5kNMOLoZU) | 2:52 | 2022-12-16 | 2023-01-14 |
 | [ANOTHER WORLD](https://open.spotify.com/track/61H61JMmUHarhAAwBNEbBV) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [ANOTHER WORLD](https://open.spotify.com/album/5EhvqiVYtzt8lYbdmu5MLg) | 2:08 | 2022-02-18 | 2022-06-11 |
 | [ANTHEM](https://open.spotify.com/track/3HDtj6GdxPL6YsimJFT5DD) | [UMBASA](https://open.spotify.com/artist/6EETzM2Gz7RdpXoVF45yww) | [ANTHEM](https://open.spotify.com/album/2v4VXge6cTbMn32CqtekaV) | 2:59 | 2022-07-22 | 2022-08-07 |
 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 | 2022-08-26 |  |
@@ -62,7 +62,8 @@
 | [Closer](https://open.spotify.com/track/0CGbzcGcNPSmLl1VR0NMul) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Closer](https://open.spotify.com/album/1SX6CIRNuUaLwYu8X81405) | 2:04 | 2022-02-04 | 2022-07-23 |
 | [COURAGE](https://open.spotify.com/track/6Yh78OTsqdERLpivX8hcN5) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [COURAGE](https://open.spotify.com/album/07Q4VYf7jvAftXoj2jcYHj) | 1:56 | 2022-10-21 | 2022-11-26 |
 | [COURAGE](https://open.spotify.com/track/56kfvPwk9KARklFwz5jwjJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [COURAGE](https://open.spotify.com/album/7GRSvHSXrLcOqw4SlUVqFz) | 2:09 | 2022-07-01 | 2022-10-22 |
-| [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 | 2022-06-17 |  |
+| [COWBELL WARRIOR!](https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC) | 2:29 | 2022-06-17 |  |
+| [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 | 2022-06-17 | 2023-01-14 |
 | [Crazy Phonk \- Remix](https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Phonk MixTape \(Remix\)](https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u) | 1:57 | 2022-09-30 | 2022-11-04 |
 | [Crazy Phonk \- Remix \- Slowed](https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 1:57 | 2022-09-30 | 2022-11-12 |
 | [CRIME](https://open.spotify.com/track/0KW7l7XcacPju6pKCk8rsm) | [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp) | [CRIME](https://open.spotify.com/album/313nbcS7A2PH1z4cUGqV6Q) | 1:42 | 2022-07-22 |  |
@@ -229,7 +230,8 @@
 | [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 | 2022-08-26 | 2022-10-08 |
 | [Misery](https://open.spotify.com/track/4RHxZdoIhL2IXabz5Xte7F) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Demonic Schizophrenic Hell Dweller](https://open.spotify.com/album/3f6tAR9rQj5Qcrby8RrsMS) | 1:50 | 2021-07-17 | 2022-05-14 |
 | [MISS ME?](https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [MISS ME?](https://open.spotify.com/album/3XhDFR2bBq3EU9A0tGKuH3) | 2:13 | 2022-10-14 | 2022-11-12 |
-| [Mom's Here](https://open.spotify.com/track/55YAkx2jKPnFRqSUsldyxr) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE), [ZALLI](https://open.spotify.com/artist/6kEE2aNNuQQBu5V9z6fKyb) | [Mom's Here](https://open.spotify.com/album/126wWhB8lKBZuPLGjiojQa) | 1:46 | 2022-12-02 |  |
+| [Mom's Here](https://open.spotify.com/track/0kJb1DG9EWCXci90357CDT) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE), [ZALLI](https://open.spotify.com/artist/6kEE2aNNuQQBu5V9z6fKyb) | [Mom's Here](https://open.spotify.com/album/3CbmIhtAwn0FNCyWzPacoo) | 1:46 | 2022-12-02 |  |
+| [Mom's Here](https://open.spotify.com/track/55YAkx2jKPnFRqSUsldyxr) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE), [ZALLI](https://open.spotify.com/artist/6kEE2aNNuQQBu5V9z6fKyb) | [Mom's Here](https://open.spotify.com/album/126wWhB8lKBZuPLGjiojQa) | 1:46 | 2022-12-02 | 2023-01-14 |
 | [Moment](https://open.spotify.com/track/1zFuZul9pNIgbNCzhQxG8U) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Moment](https://open.spotify.com/album/0EeN9DAkiJa5YmMFOmfdWB) | 1:49 | 2022-11-11 |  |
 | [Money Rain \- Phonk Remix](https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH) | [VTORNIK](https://open.spotify.com/artist/1iuGd0kNu2eqLwP9DFGCNY), [Phonk](https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7) | [Money Rain \(Phonk Remix\)](https://open.spotify.com/album/0z3SFl34YWiKMXwsTNPdVp) | 2:30 | 2022-05-13 |  |
 | [MORTAL](https://open.spotify.com/track/0I7I4kUnGVqoxemDmYcysN) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [MORTAL](https://open.spotify.com/album/5vg1cPV2HG0c987ofDZlc4) | 2:23 | 2022-07-08 | 2022-08-06 |
@@ -343,6 +345,7 @@
 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 | 2021-05-12 |  |
 | [Sunrise](https://open.spotify.com/track/3Q4YLj0tEgQQ9s85H8chlz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Sunrise](https://open.spotify.com/album/75KQsxv0WW35kQ3ihDxMdz) | 2:32 | 2021-10-01 | 2022-04-05 |
 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 | 2022-08-05 |  |
+| [SUPERIOR](https://open.spotify.com/track/5ZBIcXCuSKMbVEImXkReA8) | [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [SUPERIOR](https://open.spotify.com/album/4AZ37pTtG98HhTJdoWSHHO) | 1:44 | 2023-01-13 |  |
 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 | 2021-05-12 |  |
 | [Table Full of Kings](https://open.spotify.com/track/5eYZAIN6bHI0srA2iNd8uG) | [Dann](https://open.spotify.com/artist/60bD6XK3cMDEGwQqURVnjw) | [Memphis Apprentice](https://open.spotify.com/album/6C3Kn7WzIuAAnM5kUZgcSg) | 2:03 | 2021-05-12 | 2022-05-14 |
 | [Take Me Home](https://open.spotify.com/track/0KFK1UkZkYO5uv9MmAN4t1) | [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Take Me Home](https://open.spotify.com/album/74hmoEvrQchYpQFdmhmXcE) | 2:12 | 2023-01-06 |  |

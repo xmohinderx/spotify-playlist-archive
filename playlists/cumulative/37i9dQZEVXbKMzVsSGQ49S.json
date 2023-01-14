@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 177272,
       "name": "Cap City",
       "url": "https://open.spotify.com/track/5N2uAgcjsKccGiZYNo0Sae"
@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 125419,
       "name": "EF \u00deEIR VILJA BEEF",
       "url": "https://open.spotify.com/track/6uU1QhxwtrnOdALd4K1nBs"
@@ -11824,7 +11824,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 31050,
       "name": "Lyden av Regn, Pt. 01",
       "url": "https://open.spotify.com/track/7zrHcrLEQYZkGEnRQUl3c9"
@@ -16212,6 +16212,24 @@
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "album": {
+        "name": "Sateen \u00e4\u00e4ni",
+        "url": "https://open.spotify.com/album/0RmnmwRC6qBaN3EApYo5vt"
+      },
+      "artists": [
+        {
+          "name": "Candy Music Group",
+          "url": "https://open.spotify.com/artist/3P2SYN9DjV7YqP8n2vWLaa"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31050,
+      "name": "Sateen \u00e4\u00e4ni, Pt. 01",
+      "url": "https://open.spotify.com/track/4DxNjsZTXNbmosNok9Wxfa"
     },
     {
       "album": {

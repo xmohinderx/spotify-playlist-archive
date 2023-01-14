@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "7500 OBO",
+      "url": "https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7"
+    },
+    {
+      "album": {
         "name": "After A Few",
         "url": "https://open.spotify.com/album/5Z6UUS0n3Oz7i2bDLEdbWL"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 201128,
       "name": "One Too",
       "url": "https://open.spotify.com/track/2wgCb69kASEz1uOUp4zjOi"

@@ -4,7 +4,7 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Latto
 
-173 songs - 8 hr 29 min
+176 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2022-06-03 |  |
 | [Faces Change](https://open.spotify.com/track/1oC5DiAccEfq3fXUw7mDvY) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 3:35 | 2022-06-03 |  |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-06-03 |  |
+| [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 |  |
 | [Fire](https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 2:28 | 2022-06-03 | 2022-11-05 |
 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 | 2022-11-18 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 |  |
@@ -128,6 +129,7 @@
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-07-15 |  |
 | [Queen](https://open.spotify.com/track/3GGGZbXIH3xwVi6vnY2Smq) | [Charm La'Donna](https://open.spotify.com/artist/4EATVWAsGWEbpI1GH0lCiT) | [Queen](https://open.spotify.com/album/4Vpd3JoLHDX8TVnSnnPY9b) | 2:38 | 2022-06-03 |  |
 | [Ram Pam Pam](https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam](https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr) | 3:20 | 2022-06-03 |  |
+| [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-01-13 |  |
 | [Rhapsody In Pink](https://open.spotify.com/track/4joYxRhYy1p4w4OQbDaMpj) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Rhapsody In Pink](https://open.spotify.com/album/2ziKz4DZVVLhJhzT6kOHD3) | 2:59 | 2022-07-29 |  |
 | [RICKY BOBBY](https://open.spotify.com/track/5LkGZGwO6m7j08SNTEXmpA) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RICKY BOBBY](https://open.spotify.com/album/7IKiLi3SFxIzaIWECNGIe2) | 2:37 | 2022-06-03 |  |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2022-06-03 | 2022-11-05 |
@@ -181,5 +183,6 @@
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-06-03 | 2022-11-19 |
 | [You Go Thru Girls Like You Go Thru Cigarettes](https://open.spotify.com/track/5OSwEi3DzckU2S5jBiLHp2) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [You Go Thru Girls Like You Go Thru Cigarettes](https://open.spotify.com/album/1Efk34AmrxQc7Ni0N2redn) | 3:42 | 2022-12-09 |  |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-06-03 |  |
+| [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

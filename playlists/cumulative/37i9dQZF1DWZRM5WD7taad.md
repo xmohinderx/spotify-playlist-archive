@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY en portada.
 
-129 songs - 6 hr 47 min
+132 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,11 @@
 | [90's](https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1) | 2:18 | 2022-06-27 |  |
 | [A Machete Voy](https://open.spotify.com/track/2wr6BtudgpHlNE6D6cDfVR) | [Machete en Boca](https://open.spotify.com/artist/26ggle1808llWoAdfbKHoi) | [A Machete Voy \(Vol.3\)](https://open.spotify.com/album/7qbK6qcbc1Bddxwb7yvgHp) | 3:22 | 2021-12-13 |  |
 | [A Veces](https://open.spotify.com/track/5Cn1NLa4WThiegxtoaaxFp) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q) | [23](https://open.spotify.com/album/5UZ4idzeoePrLTZf5P2jlj) | 2:08 | 2021-12-13 |  |
+| [Aka Plaka](https://open.spotify.com/track/5iIWcCKkoLNRw3kO1Eych3) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1) | [Aka Plaka](https://open.spotify.com/album/1Xcd3rQPyJPx9MFeT92Ruv) | 2:51 | 2023-01-13 |  |
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-08-03 |  |
 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 | 2021-12-13 |  |
 | [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 | 2022-04-18 |  |
+| [Autodefensa](https://open.spotify.com/track/4VxzbMh8EGxb71o6n3gEvV) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MARICA](https://open.spotify.com/artist/3uuVC225TxrBKJB1SmnOlq) | [Autodefensa](https://open.spotify.com/album/2vXHHCAjX6a9wf4GmosnoO) | 3:52 | 2023-01-13 |  |
 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 | 2021-12-13 |  |
 | [Bad Bitches Cry Too](https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Bad Bitches Cry Too](https://open.spotify.com/album/40PEpgToYvH1VVCzDYbVJy) | 2:25 | 2022-08-01 |  |
 | [Beefsito](https://open.spotify.com/track/0P9sHPhoFbflHX4E71QwfN) | [Plata Shail](https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl) | [Beefsito](https://open.spotify.com/album/036cMzsW5hypPpnLvvGjzM) | 2:10 | 2022-11-25 |  |
@@ -74,7 +76,7 @@
 | [La Mexicana](https://open.spotify.com/track/24VM2sOz0yCR2feDyTehmA) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Los González](https://open.spotify.com/album/0sGiueQWjYKzacveBnbY5h) | 4:06 | 2021-12-13 |  |
 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 | 2021-12-13 |  |
 | [Las Hijas Del Rap](https://open.spotify.com/track/0ZqIeOJEc6GGFI0remPX2Z) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Las Hijas Del Rap](https://open.spotify.com/album/2yzvkD2AxrxFQDWDy19by8) | 3:00 | 2021-12-13 |  |
-| [Latina P.I.M.P](https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Latina P.I.M.P](https://open.spotify.com/album/1xibpvj8AmWtCR4JpyH33D) | 3:29 | 2022-09-03 |  |
+| [Latina P.I.M.P](https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Latina P.I.M.P](https://open.spotify.com/album/1xibpvj8AmWtCR4JpyH33D) | 3:29 | 2022-09-03 | 2023-01-14 |
 | [Lick](https://open.spotify.com/track/1l9gwjr7SRHepNFio6MxLb) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo) | [Lick](https://open.spotify.com/album/3zb6F6ieaqd0qqCbiJVUnH) | 2:16 | 2021-12-13 |  |
 | [Lick \(Remix\)](https://open.spotify.com/track/54kYF5NYsTBs1XDTh0czQ4) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3) | [Lick \(Remix\)](https://open.spotify.com/album/4es9EtTbWRJEyKwJLNGu8N) | 2:19 | 2023-01-07 |  |
 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 | 2022-11-08 |  |
@@ -106,10 +108,11 @@
 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 | 2021-12-13 |  |
 | [Que Si Me Ves](https://open.spotify.com/track/5j0RE87fQ7NmMe5jFPsSIZ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Si Me Ves](https://open.spotify.com/album/6jtwPwLF9kyYPczMayydIB) | 3:07 | 2021-12-13 |  |
 | [Quien Paga](https://open.spotify.com/track/5bRH3E7TaWVAblEUVFI0By) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [Quien Paga](https://open.spotify.com/album/7IBdzjicSaKpYpYrFPirRT) | 1:58 | 2021-12-13 | 2022-09-11 |
-| [Quien Paga](https://open.spotify.com/track/7zP1jcXDQvzOPwbuil3NDJ) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [AGROLOVE](https://open.spotify.com/album/27lgvAXQJvQX7XNSWLv6X8) | 1:58 | 2022-08-16 |  |
+| [Quien Paga](https://open.spotify.com/track/7zP1jcXDQvzOPwbuil3NDJ) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [AGROLOVE](https://open.spotify.com/album/27lgvAXQJvQX7XNSWLv6X8) | 1:58 | 2022-08-16 | 2023-01-14 |
 | [Quieres Volver](https://open.spotify.com/track/0sE9ipQEnacBPDJ2hVUded) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Quieres Volver](https://open.spotify.com/album/3PNBGyruvUiLJyWDqGbmBK) | 2:48 | 2021-12-13 | 2022-03-09 |
 | [Qué Pasó?](https://open.spotify.com/track/1OWKUTJresDbTamd3t9G55) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:20 | 2022-06-27 |  |
 | [RACE](https://open.spotify.com/track/3kHX1Hyy9oJ8fc9nTs7VcP) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [FREE DOLLY / RACE](https://open.spotify.com/album/5fzgYot7HbKytPYWywwLhC) | 2:24 | 2021-12-13 |  |
+| [Renacer](https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MarieV](https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa), [Bad Panda](https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M) | [Renacer](https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l) | 3:18 | 2023-01-13 |  |
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-01 |  |
 | [Rompiendo Esquemas](https://open.spotify.com/track/39AsaL5KiC1qW3OTrmEBnM) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Dj Kaizen \(Chile\)](https://open.spotify.com/artist/3zRSeoE7Udey1Ggleah4VH) | [Verso… Luego Existo \(The NYC Version\)](https://open.spotify.com/album/2TejLZ73MuwhR4dQMNVAGZ) | 2:59 | 2021-12-13 |  |
 | [SANA SANA](https://open.spotify.com/track/6ZzjeYAIHkIbh6VhYsMSIg) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SANA SANA](https://open.spotify.com/album/6I94uMnDMEFe8EHX2QiQES) | 2:58 | 2021-12-13 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: NewJeans
 
-460 songs - 1 day 1 hr 24 min
+463 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [POPPIA \- JAPAN Version](https://open.spotify.com/track/1d9fga0Ha7IqNrBw3v9wgL) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg), [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [KCON 2022 JAPAN SIGNATURE SONG](https://open.spotify.com/album/5RY88Gsbp69OlLArBDDGgo) | 3:13 | 2022-10-13 | 2022-12-22 |
 | [POPPY](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2022-11-15 |  |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 |  |
+| [PRIMROSE](https://open.spotify.com/track/75uoSZNM8jX7p1Uyj4m3zT) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [RED MOON](https://open.spotify.com/album/44bwRjSjY6otPdQDMNWTey) | 3:38 | 2023-01-12 |  |
 | [Promise](https://open.spotify.com/track/6PovIIOpRlHzv8Cg9Qjr81) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/4Wt2BXLfObF0w0QMrnPy0e) | 2:30 | 2022-09-22 | 2022-09-30 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-22 | 2022-05-31 |
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-19 | 2022-08-24 |
@@ -309,6 +310,7 @@
 | [RATA\-TAT\-TAT](https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/1Zhm7LxHfqZg8XS143vJtz) | 3:24 | 2022-05-10 | 2022-07-19 |
 | [Ready to ride](https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Ready to ride](https://open.spotify.com/album/3UtWwqV8nUxO94J65hpnrX) | 3:37 | 2022-04-29 | 2022-07-01 |
 | [Real Love](https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s) | 3:21 | 2022-03-29 | 2022-06-22 |
+| [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-12 |  |
 | [Redlight](https://open.spotify.com/track/1YUQeCQyj8sNKNkFjxweTo) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Redlight](https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn) | 3:22 | 2022-11-10 |  |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 | 2022-11-11 |
 | [RICA RICA](https://open.spotify.com/track/4bZTk4AT2azHqOzGoK5lNg) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE Special Album RICA RICA](https://open.spotify.com/album/7LzUdQlqeFLiw1QnxvK2wW) | 3:26 | 2022-11-02 |  |
@@ -414,6 +416,7 @@
 | [UTSUROI](https://open.spotify.com/track/3ZpE5mKaWZqeZAdlARpNZq) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [UTSUROI](https://open.spotify.com/album/2Fu6s7oGgT1Ap3I2xZqvGv) | 4:03 | 2022-08-16 | 2022-10-05 |
 | [Valley of Lies](https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Valley of Lies](https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp) | 3:04 | 2022-07-22 | 2022-10-19 |
 | [Ven para](https://open.spotify.com/track/3kwr2hlIDwmwVAjKC7zshR) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:14 | 2022-03-07 | 2022-05-11 |
+| [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-12 |  |
 | [Villain](https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 3rd Mini Album \[Villain\]](https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd) | 3:01 | 2022-01-20 | 2022-04-15 |
 | [Villain \- Japanese ver.](https://open.spotify.com/track/6a057xQ6MUy1ZdQZTomZ2r) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/5zdhW1IhHlyo9RiZKPQSd6) | 3:03 | 2022-05-17 | 2022-07-16 |
 | [Virus](https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Choice](https://open.spotify.com/album/4AakPdZL04Ksf0fhcCuXD1) | 3:25 | 2022-11-15 |  |

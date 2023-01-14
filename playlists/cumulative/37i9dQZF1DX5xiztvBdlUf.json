@@ -753,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Pamoja / Can Soleil / Nestor",
+        "url": "https://open.spotify.com/album/6i3CuCxz4PclCexBllSMWG"
+      },
+      "artists": [
+        {
+          "name": "Dorian Craft",
+          "url": "https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420983,
+      "name": "Can Soleil",
+      "url": "https://open.spotify.com/track/3009a1t7bhTpvBDEIKtI4X"
+    },
+    {
+      "album": {
         "name": "Fact & Fiction / Can't Get Enough",
         "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
       },
@@ -1564,6 +1586,24 @@
       "duration_ms": 387302,
       "name": "Diving Into Minds - Club Mix",
       "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t You Know",
+        "url": "https://open.spotify.com/album/30BCvZmqpyfE3oOyqvTYcd"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556025,
+      "name": "Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/2nAxXOuq4bkxYJj8YOOA6o"
     },
     {
       "album": {
@@ -2496,7 +2536,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 407804,
       "name": "Ice Raven",
       "url": "https://open.spotify.com/track/4IK547npKWryEQh97Wzsrl"
@@ -4408,7 +4448,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"

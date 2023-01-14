@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-192 songs - 14 hr 54 min
+195 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Jigyou](https://open.spotify.com/track/2gCpfY4G4JeRbpafYg727w) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Mu](https://open.spotify.com/album/0cArAePIURFrsTkGfAF2FO) | 3:02 | 2022-03-25 |  |
 | [Kaiketu](https://open.spotify.com/track/40QroEBlHB5yyQQZdOECdh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Konomama](https://open.spotify.com/album/0Xp5gDINnEjsj92TPIcaMH) | 3:15 | 2022-02-22 |  |
 | [Kansai](https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:38 | 2022-01-07 |  |
+| [Kibou](https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kibou](https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq) | 3:32 | 2023-01-13 |  |
 | [Kokyo](https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [My Story, The Buraku Story \(An Original Soundtrack\)](https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP) | 2:31 | 2022-05-27 |  |
 | [Komorebi](https://open.spotify.com/track/15Dz5HggGfcT8zJkYQCB71) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 3:55 | 2022-12-30 |  |
 | [Kuware Uta \- Intro](https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:09 | 2023-01-06 |  |
@@ -123,6 +124,7 @@
 | [Pollen](https://open.spotify.com/track/78SrgFOU9fDxx4gOWc1ypx) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/7fNiI99gYGhMzn3HAqQ2le) | 7:50 | 2022-10-15 |  |
 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 | 2022-01-07 |  |
 | [Prepare](https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Prepare](https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ) | 3:06 | 2022-01-07 |  |
+| [Rear View](https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:22 | 2023-01-13 |  |
 | [rings of saturn](https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:44 | 2022-02-18 |  |
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2022-12-30 |  |
 | [Sea \- Roméo Poirier Rework](https://open.spotify.com/track/3XYZajjpjRFg2H2RJ1K9pY) | [Kumi Takahara](https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5), [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [See\-Through Remixes](https://open.spotify.com/album/34R46SN6KOHMqcTJP0HSXV) | 3:22 | 2022-01-07 |  |
@@ -184,6 +186,7 @@
 | [Wash Away](https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Wash Away](https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq) | 3:01 | 2022-01-07 |  |
 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 | 2022-12-30 |  |
 | [Water Copy](https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:11 | 2022-12-30 |  |
+| [Whales](https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0) | [Tsugi\-Hagi](https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [Whales](https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP) | 3:23 | 2023-01-13 |  |
 | [What It Means to Me](https://open.spotify.com/track/50zcUtpLD8yp5s2lTARxvV) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 3:46 | 2022-07-22 |  |
 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 | 2022-07-29 |
 | [YACHIMATA\_160308](https://open.spotify.com/track/6PO1iv4vQLphE9rnjQAtqa) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA](https://open.spotify.com/album/7mFeKzLa9K3mz6AZPT7NVl) | 3:22 | 2022-01-07 | 2022-07-29 |

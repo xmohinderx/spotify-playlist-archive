@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: SZA
 
-525 songs - 1 day 5 hr 11 min
+526 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Island](https://open.spotify.com/track/0MixyrdAgx7kW8bRMgNlf8) | [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Island](https://open.spotify.com/album/6LCDzwjkua6GHdt9niRW3k) | 3:29 | 2022-04-01 | 2022-04-21 |
 | [Jealous \(feat\. Chris Brown, Lil Wayne & Big Sean\)](https://open.spotify.com/track/7rpfivzGLlfaGadk5IiRen) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Father Of Asahd](https://open.spotify.com/album/4vuV7xWL4TDaaO412nbhuK) | 4:15 | 2022-04-01 | 2022-04-20 |
 | [Jerry Sprunger \(with T\-Pain\)](https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Chixtape 5](https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f) | 3:53 | 2022-04-01 | 2022-11-13 |
-| [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 | 2022-03-11 |  |
+| [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 | 2022-03-11 | 2023-01-14 |
 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/13L4184XlA7KaHQdMJx6br) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/4vuV7xWL4TDaaO412nbhuK) | 3:41 | 2022-04-01 | 2022-04-21 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2022-03-11 |  |
 | [Know My Rights \(feat\. Lil Baby\)](https://open.spotify.com/track/7fsNNSLGG8Wi0nFbufCU6L) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [6pc Hot EP](https://open.spotify.com/album/37O0Syq7Db1kydzUH8TbwB) | 3:14 | 2022-04-01 |  |
@@ -529,6 +529,7 @@
 | [Work To Do](https://open.spotify.com/track/2NxBM0HQWro208pY5vOJLn) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [Work To Do](https://open.spotify.com/album/3zFyVampCYjuRUXykfQ5Ma) | 3:00 | 2022-03-11 | 2022-05-18 |
 | [Worst \(I Assume\)](https://open.spotify.com/track/6LUHCk4qqqupsz0yF48Opr) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Worst \(I Assume\)](https://open.spotify.com/album/0bHH4umiElJUvPIvqrQVfA) | 3:07 | 2022-04-01 | 2022-07-28 |
 | [Wrong](https://open.spotify.com/track/3EludUFeAoJAwSixWGG5Wg) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Wrong](https://open.spotify.com/album/5gASTUDl3S2qgAF10JlwTc) | 2:10 | 2022-04-01 | 2022-04-19 |
+| [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2023-01-14 |  |
 | [You Got It](https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [For You](https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h) | 3:23 | 2022-03-11 |  |
 | [You Got It](https://open.spotify.com/track/3hFdF2TKjC6Z45ge6f1xh6) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [SAY](https://open.spotify.com/album/59VTzGT8wFh1DAThgrIGS9) | 3:30 | 2022-04-01 | 2022-04-14 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-03-11 |  |

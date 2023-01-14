@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,689 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,709 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:44 |
 | 100 | [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDdmOTI3YzU3YWU3ZWQ0YWY5ZjJhNzZhZjYzYzY5NjA2`
+Snapshot ID: `MTY3MzU3NTE0MiwwMDAwMDAwMDlhMmJmYTYzOWQwYTNhODA4OTYyNjZjZWViMTU0ZWNm`

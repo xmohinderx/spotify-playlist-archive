@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Lucrecia Dalt on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,870 likes - 300 songs - 1 day 0 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,125 likes - 300 songs - 1 day 0 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 224850,
       "name": "A Chuva Sem Gal",
       "url": "https://open.spotify.com/track/51n8FkiDdHnpdCpWceridp"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 154732,
       "name": "Avenida da Paix\u00e3o",
       "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 266093,
       "name": "cantar - ao vivo no bona",
       "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
@@ -1765,6 +1765,28 @@
     },
     {
       "album": {
+        "name": "Control Z",
+        "url": "https://open.spotify.com/album/1777MUeq1vNmStoLB2tO28"
+      },
+      "artists": [
+        {
+          "name": "Marina Melo",
+          "url": "https://open.spotify.com/artist/3yBeFa7H4pU39Mti6B7oqX"
+        },
+        {
+          "name": "Julia Branco",
+          "url": "https://open.spotify.com/artist/7023uToWKoLCvKPgpuv8uo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205601,
+      "name": "Control Z",
+      "url": "https://open.spotify.com/track/1aMavvD6s19zHSUKb82nXH"
+    },
+    {
+      "album": {
         "name": "Bryan Behr \u2022 Ao vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/0YiT4eheEc4IClnZKfSjna"
       },
@@ -1812,7 +1834,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 204520,
       "name": "Corpo a Corpo",
       "url": "https://open.spotify.com/track/2hZgZByQW2nnfYtatCsBsy"
@@ -3063,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "A Situa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/29EgsSSK4l4CIQmFJqXPPp"
+      },
+      "artists": [
+        {
+          "name": "Sara N\u00e3o Tem Nome",
+          "url": "https://open.spotify.com/artist/31HTzBU95YF2eY7oXK92vM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193283,
+      "name": "Incomoda",
+      "url": "https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc"
+    },
+    {
+      "album": {
         "name": "Isso Me Far\u00e1",
         "url": "https://open.spotify.com/album/7pgfecDRWnyggCX4LZ19AA"
       },
@@ -3370,6 +3410,24 @@
       "duration_ms": 218445,
       "name": "Lua e Sol",
       "url": "https://open.spotify.com/track/3VWX6p8fx82o1AduNqgDGb"
+    },
+    {
+      "album": {
+        "name": "Viradela",
+        "url": "https://open.spotify.com/album/6n3HJjDlGqfvoAnfWDyu2i"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225583,
+      "name": "L\u00e1 Vem Ela",
+      "url": "https://open.spotify.com/track/5i57n6YB5EQt1l530p2w5J"
     },
     {
       "album": {
@@ -3734,6 +3792,28 @@
       "duration_ms": 229426,
       "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
       "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
+    },
+    {
+      "album": {
+        "name": "Meu",
+        "url": "https://open.spotify.com/album/0qKsUMabSYKb7SxdDymMU7"
+      },
+      "artists": [
+        {
+          "name": "Luiz Ot\u00e1vio",
+          "url": "https://open.spotify.com/artist/3EHRXXdOwx4SC9Nlb2iDgT"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241696,
+      "name": "Meu",
+      "url": "https://open.spotify.com/track/2Koa7RU0dFe641DJfMHHdd"
     },
     {
       "album": {
@@ -4210,6 +4290,28 @@
       "duration_ms": 176968,
       "name": "Nossos Planos",
       "url": "https://open.spotify.com/track/2OHS3REstdGEdLxuWImyOT"
+    },
+    {
+      "album": {
+        "name": "Nu",
+        "url": "https://open.spotify.com/album/4bzrVlryUF02A34a8e8BVG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
+        },
+        {
+          "name": "Fellipe Fernandes",
+          "url": "https://open.spotify.com/artist/2wKQKNWN20Z93kGoyZyOd8"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314285,
+      "name": "Nu",
+      "url": "https://open.spotify.com/track/3Mg2QvqzyqzrTABDzomIz5"
     },
     {
       "album": {
@@ -6398,7 +6500,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220286,
       "name": "SobreHumano",
       "url": "https://open.spotify.com/track/1NvxtekkTSINREzraxen7q"
@@ -7302,7 +7404,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 146368,
       "name": "Verdade na Fonte",
       "url": "https://open.spotify.com/track/6CJxnUAe55awtxHblQXGML"
@@ -7422,6 +7524,28 @@
       "duration_ms": 156906,
       "name": "Voltar \u00e0 Bahia",
       "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
+    },
+    {
+      "album": {
+        "name": "Vou Ficar Bem",
+        "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        },
+        {
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149535,
+      "name": "Vou Ficar Bem",
+      "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
     },
     {
       "album": {

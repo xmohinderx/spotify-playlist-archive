@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-137 songs - 13 hr 21 min
+138 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Decoration \- Alternative Version](https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG) | [Almost Standards \(Doctoral Edition\)](https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb) | 6:34 | 2022-04-29 | 2022-07-28 |
 | [Dolemite](https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Tore Down House](https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb) | 5:52 | 2021-02-12 |  |
 | [Dream Chaser](https://open.spotify.com/track/0vdB6LzEsOVBbtGZVK6TSM) | [Nikola Bankov](https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Dream Chaser](https://open.spotify.com/album/6do2ff8V2y5SJUpbKAlMzD) | 5:33 | 2022-04-08 | 2022-10-22 |
-| [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 | 2021-04-30 |  |
+| [Eastern Kaleidoscope](https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Eastern Kaleidoscope](https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI) | 6:24 | 2021-04-30 | 2023-01-14 |
 | [Escher Sketch \(A Tale Of Two Rhythms\)](https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Now You See It ..\. \(Now You Don't\)](https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo) | 5:26 | 2021-02-12 |  |
 | [Even Song](https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 8:23 | 2021-02-12 |  |
 | [Even Song](https://open.spotify.com/track/54nbMd4MHkfhCxJ425ANJi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Even Song](https://open.spotify.com/album/1M43rju5xutOMHXO2jj6BP) | 8:23 | 2021-02-12 | 2022-07-29 |
@@ -142,6 +142,7 @@
 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 | 2021-07-02 |  |
 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 | 2021-08-13 |  |
 | [Up and Down](https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ) | [Anika Nilles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi) | [Opuntia](https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi) | 4:02 | 2022-04-29 |  |
+| [VHS Fireplace Love \- Live](https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [VHS Fireplace Love \(Live\)](https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy) | 2:44 | 2023-01-13 |  |
 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 | 2022-04-29 |  |
 | [Wishbone](https://open.spotify.com/track/6pyDjI0P5lKlSAAKPYCmYV) | [Physical Therapy](https://open.spotify.com/artist/3M2OPq6DiaaiLeKnbvkweZ) | [Physical Therapy](https://open.spotify.com/album/6dvIiRNiWiJ7f6ZeefRECW) | 5:37 | 2021-02-12 | 2022-07-29 |
 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 | 2021-02-12 |  |

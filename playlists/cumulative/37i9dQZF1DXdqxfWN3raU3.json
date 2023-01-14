@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Nicole Horts en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Jass Reyes en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -493,7 +493,7 @@
         },
         {
           "name": "Mangus",
-          "url": "https://open.spotify.com/artist/6oZDTNrtPqFN5L7S9RaRVT"
+          "url": "https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF"
         }
       ],
       "date_added": "2023-01-05",
@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "QCVH",
+        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136973,
+      "name": "QCVH",
+      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
+    },
+    {
+      "album": {
         "name": "Que Quede Claro",
         "url": "https://open.spotify.com/album/02tQvB53cVQ5AROvu9GlmW"
       },
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
@@ -2748,6 +2766,24 @@
       "duration_ms": 199702,
       "name": "Qu\u00edmico",
       "url": "https://open.spotify.com/track/0xJodMjaPnEjGm8dDix9oc"
+    },
+    {
+      "album": {
+        "name": "Repetici\u00f3n",
+        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "Repetici\u00f3n",
+      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
     },
     {
       "album": {
@@ -2836,7 +2872,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 174000,
       "name": "Seguro Te Pierdo",
       "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"

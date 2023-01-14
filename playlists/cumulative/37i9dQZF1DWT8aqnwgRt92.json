@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Kanaeru",
+        "url": "https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn"
+      },
+      "artists": [
+        {
+          "name": "\u8af8\u661f\u3059\u307f\u308c",
+          "url": "https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Kanaeru",
+      "url": "https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO"
+    },
+    {
+      "album": {
         "name": "KANATA HALUKA",
         "url": "https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p"
       },
@@ -7080,7 +7098,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 235466,
       "name": "\u53f6\u3048\u308b",
       "url": "https://open.spotify.com/track/7oHwqVKnYvnzNEXAgN4DZZ"

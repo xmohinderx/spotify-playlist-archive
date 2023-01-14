@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto & Glorilla",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -1196,6 +1196,28 @@
       "duration_ms": 151781,
       "name": "Diamond in the Rough",
       "url": "https://open.spotify.com/track/7o4YKb7XhbLGvzJ7CXrkHD"
+    },
+    {
+      "album": {
+        "name": "Diamond in the Rough (Remix)",
+        "url": "https://open.spotify.com/album/4FkOrfQaU4WwZgf94uBzGL"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141502,
+      "name": "Diamond in the Rough - Remix",
+      "url": "https://open.spotify.com/track/5w1e87MPoDZnDufw2Hxt6Z"
     },
     {
       "album": {
@@ -4694,7 +4716,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,788 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,283,413 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 |
 | 100 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDMxZGZkMDAxNmVjMWY3OTFhODQzOWFlNWU1MDdkYmM5`
+Snapshot ID: `MTY3MzY0MTYzOCwwMDAwMDAwMGQ1MjcyMDQyZjFiYTdkZTAzNWU1MWEzMmIzYTU1Njk4`

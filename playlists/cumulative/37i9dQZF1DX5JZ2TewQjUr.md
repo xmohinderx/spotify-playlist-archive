@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Dessy
 
-379 songs - 21 hr 29 min
+380 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Close my eyes 全部都係你](https://open.spotify.com/track/1BH4Kai4GPGCbNCvjDhiGP) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [十個陌生的熟人](https://open.spotify.com/album/2wICmbCIY49EhTL3XCuks2) | 3:14 | 2023-01-05 |  |
 | [CLOSER](https://open.spotify.com/track/1BnsGKpBhdGIfNjItPla86) | [Lil.Lulu](https://open.spotify.com/artist/1DLCJfQBgwlD8SfBopLSE8) | [CLOSER](https://open.spotify.com/album/3oVNoU0fW0LDIS4cBPliOq) | 3:32 | 2022-09-22 | 2023-01-06 |
 | [Coffee or tea](https://open.spotify.com/track/05dIejxjljs2szxWX3PKLV) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [Coffee or tea](https://open.spotify.com/album/5cYa0ENtyWPMnfCGEBXVje) | 2:32 | 2022-08-18 |  |
+| [Come Back To Me](https://open.spotify.com/track/3M3p5VOaMl2o9vgo0hweok) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [Come Back To Me](https://open.spotify.com/album/2fj9Ys2JNrWhEbWEQ8O5xX) | 3:20 | 2023-01-12 |  |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-26 | 2022-07-29 |
 | [Conquer \- Live](https://open.spotify.com/track/4wzrcQrWikddwgxiFJAr4r) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Conquer \(Live\)](https://open.spotify.com/album/4e1FYYsHXgEym0ibwuTYqN) | 3:46 | 2022-12-08 |  |
-| [cry baby](https://open.spotify.com/track/0wZVP1xzfhtXEzni1euLwG) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [cry baby](https://open.spotify.com/album/4AxO9XKqwFHv5BlT4UsxjL) | 3:57 | 2022-10-13 |  |
+| [cry baby](https://open.spotify.com/track/0wZVP1xzfhtXEzni1euLwG) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [cry baby](https://open.spotify.com/album/4AxO9XKqwFHv5BlT4UsxjL) | 3:58 | 2022-10-13 |  |
 | [DAI MOND](https://open.spotify.com/track/6I0Y1KlUkH1pwKNKeanzRQ) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DAI MOND](https://open.spotify.com/album/0KND9Ae7tkWf0Ml2vgbH6e) | 3:08 | 2022-05-26 | 2022-07-29 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-09 | 2022-09-09 |
 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 | 2022-11-10 |  |

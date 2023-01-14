@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,839 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,313 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pieces \(2022\)](https://open.spotify.com/track/7FBb9OkuS4JrQN4Hnf3i2z) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Pieces \(2022\)](https://open.spotify.com/album/2EzLW1HfD6pXwngmIcE34P) | 2:50 |
+| 1 | [Fling](https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO) | [DIVE](https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9) | [Fling](https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ) | 2:54 |
 | 2 | [소중한 사람](https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z) | [ASEL](https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy), [에이민](https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD) | [소중한 사람](https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o) | 3:15 |
 | 3 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 |
-| 4 | [Love Yourself \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Symphony](https://open.spotify.com/album/1GwDKLnH82W2m2BBWf3gbS) | 3:14 |
+| 4 | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/track/30SwX34WgPlXKkqnJHrhlG) | [LOTI](https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/album/0Nt3sn3MrZhQb3hfR3xEvL) | 3:29 |
 | 5 | [Again & Again \(Feat\. KOYO\)](https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5) | [Leo](https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf), [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Again & Again](https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r) | 2:52 |
 | 6 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 | 7 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 |
 | 50 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
 
-Snapshot ID: `MTY3MzM2NTgxOCwwMDAwMDAwMGVhMjM4ZjQ2MmU4OTVmOTJiNzQ3NDM5NTQ5YzYxMmY3`
+Snapshot ID: `MTY3MzU4MzA0MCwwMDAwMDAwMGM2YmJjMDAxZGE5MWJhZWEwNGJjOTQ3NDBlZmFlMTQx`

@@ -4,21 +4,22 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,089 likes - 12 songs - 51 min 7 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,092 likes - 13 songs - 44 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lära mig](https://open.spotify.com/track/5v6xS4pj397S4Bk7mDNIXU) | [Eric Gadd](https://open.spotify.com/artist/0NANKIINMQ9u4DYD5YqM0L) | [Vykort från 2000\-talet](https://open.spotify.com/album/1BcV94MZWT4h5EhZDkTfq0) | 3:12 |
-| 2 | [Lyckan Lyser \(I krigarsjäl\)](https://open.spotify.com/track/6oiRmAhIKIhvy2Rk5uqYFO) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Lyckan Lyser \(I krigarsjäl\)](https://open.spotify.com/album/3u1phPAh2MMgveDYqWOgPl) | 3:04 |
-| 3 | [Kvinna Från Tellus](https://open.spotify.com/track/60ZIWtasRpjReg3Hsn7QPv) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Kvinna Från Tellus](https://open.spotify.com/album/2QXY6MpCoMT0JUvLOOPoK9) | 3:36 |
-| 4 | [Quoi qu'il arrive](https://open.spotify.com/track/1Kd4cDoRqYWRt0GfD8Mwd3) | [Sami Aziz](https://open.spotify.com/artist/2YhcZjVKCx5xkHhvA5FPZ5) | [Quoi qu'il arrive](https://open.spotify.com/album/7meS5o5KkIUoD9Vc7z4le1) | 2:50 |
-| 5 | [Whisper Louder](https://open.spotify.com/track/7bVl7fben5lFm95BtD4q9w) | [Pickup & Run](https://open.spotify.com/artist/320RO2RScfsapPorRQUrCa) | [Struck](https://open.spotify.com/album/7H9CulJCX5FVDtcviuTf8F) | 3:18 |
-| 6 | [Apple of my eye](https://open.spotify.com/track/1KclXSli238yyewXagRAUg) | [Diipak](https://open.spotify.com/artist/69HVuXkzYoSd53hLgc1rn0) | [Apple of my eye](https://open.spotify.com/album/6DTseB3yAYecXTa961SkeM) | 2:05 |
-| 7 | [My My](https://open.spotify.com/track/34kUinENu5KfXw5hGjr2qL) | [Pickup & Run](https://open.spotify.com/artist/320RO2RScfsapPorRQUrCa) | [My My](https://open.spotify.com/album/6rz6VILmdB23mOEDgCAvDK) | 2:34 |
-| 8 | [Estaciones Portenas: III\. Otono Porteno](https://open.spotify.com/track/00Qg9TB4o9MOHAhdcx3MI6) | [Markus Yiangou](https://open.spotify.com/artist/6tvTTpraljNDMkGwl4wPa3) | [Estaciones Portenas: III\. Otono Porteno](https://open.spotify.com/album/57MDuPRVYLZRE3spWooMGG) | 5:49 |
-| 9 | [Almost Infamous](https://open.spotify.com/track/39rB3HH5phZnXlzHCP1423) | [A Handful of Samie](https://open.spotify.com/artist/4YYJcKeMhC1IiQSGV1UFaG) | [Sidelined](https://open.spotify.com/album/2ejEJI341ivRziYG5DYqoY) | 4:01 |
-| 10 | [GIVE IT](https://open.spotify.com/track/5SoMVVjm4KGheDQxytIfj9) | [ALPHADOGG](https://open.spotify.com/artist/2jz0WVAN1oWOAqiZ5NDvGH) | [GIVE IT](https://open.spotify.com/album/5V1R6cp7Lz0xUuPRtWoxv5) | 5:22 |
-| 11 | [Enea's Song](https://open.spotify.com/track/7CUoUsFb2Z1tyIBL1WDddE) | [Joe Murphy](https://open.spotify.com/artist/0Yv1IwvWKVvYs1RCClAEs7) | [Enea's Song](https://open.spotify.com/album/4YtyZ4FBCOTjZu1bgyoktM) | 5:29 |
-| 12 | [Another Simple Piece](https://open.spotify.com/track/4O7hpxDa2GM3NGd3MAx7uD) | [Philip Teale](https://open.spotify.com/artist/2LOJCmTE451qciJEBjGqqi) | [Another Simple Piece](https://open.spotify.com/album/0SEbGLy9orItBwf8Gr0hWI) | 9:42 |
+| 1 | [Bonfire Song](https://open.spotify.com/track/0FIAWyQafuCzTAyHxPNB8y) | [Hertzberg & Funke](https://open.spotify.com/artist/5ji1XXd4srakGMHk5emPQN), [Affas](https://open.spotify.com/artist/49T44frfa247TlfA2sH5SN) | [Bonfire song](https://open.spotify.com/album/26gmhuOMITyTT1SSWB0KJq) | 2:58 |
+| 2 | [Reachin'](https://open.spotify.com/track/14IJU882biUKL0SRTkxJJL) | [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en) | [i like](https://open.spotify.com/album/4uuDMuooYgSnuT0xcGKX8Q) | 3:10 |
+| 3 | [Human Touch](https://open.spotify.com/track/5TKB7BI1iqNhGZTre1myxR) | [Atlas](https://open.spotify.com/artist/7eyrNaYPiErJKhI4RNYidR) | [Parallel Love](https://open.spotify.com/album/6zGqnpLaJ8w1AAtNYsfboG) | 3:59 |
+| 4 | [What If](https://open.spotify.com/track/4xe6N3tkE74kRno9FsC4wT) | [Lily Galin](https://open.spotify.com/artist/1Zl6Ak1dgsKj7MkSHsDlgl) | [What If](https://open.spotify.com/album/5FMNFZMwtWi4iVpoVzSlHO) | 3:44 |
+| 5 | [Crazy on You](https://open.spotify.com/track/0HAi4ies7ACdp0jUCZuFOE) | [Maclure](https://open.spotify.com/artist/3E9oRA3fTi5go34fgXrAJO) | [Crazy on You](https://open.spotify.com/album/0oqAExym29izHP9Kt7fwvS) | 3:17 |
+| 6 | [Klick\-Klack \(Det löser sig\)](https://open.spotify.com/track/6U3BXBstHDzZc8O1fNRUQT) | [Kallt Drag](https://open.spotify.com/artist/4w2kAFSm2yt6y8E7eLxpNC) | [Klick\-Klack \(Det löser sig\)](https://open.spotify.com/album/2FOFvrPwMUzWsPKuTuY6KW) | 3:27 |
+| 7 | [Light Up My Life](https://open.spotify.com/track/0Q7Cf6gahcLV3HGd0sIVkZ) | [Stefan Galea](https://open.spotify.com/artist/1jvofwyZYCvMYvbRIuYpWL), [Ylva & Linda](https://open.spotify.com/artist/6GoBPMynY8z1i2APFg66km) | [Light Up My Life](https://open.spotify.com/album/4QuYs1stIz3Mxi4HK2Yr1d) | 3:01 |
+| 8 | [The Lonesome Swallow](https://open.spotify.com/track/5sztYNlzTrSn393hdEI5cH) | [The Daily Ration](https://open.spotify.com/artist/1h1UcxBy0hDk82aOPvc0JS) | [The Lonesome Swallow](https://open.spotify.com/album/2p6eF4q0vnWGQCmX8TiI0T) | 4:45 |
+| 9 | [Can you hear me call](https://open.spotify.com/track/3RcYiQO7AtMlnca7lo7aS3) | [Richard Larsson](https://open.spotify.com/artist/2Mze9QoydlfFgB9dmZ2mhT) | [Can you hear me call](https://open.spotify.com/album/15hZme52IJ8FCOQLmli8xq) | 3:36 |
+| 10 | [I Don't Care](https://open.spotify.com/track/1yv8tZe7YdFvu3sckfHdKo) | [Ojay](https://open.spotify.com/artist/4Ohu0UoFPZKuy5gIEedZtq) | [I Don't Care](https://open.spotify.com/album/4hpJL94HvPWiKNGv1Arr2g) | 2:46 |
+| 11 | [Runs In The Family](https://open.spotify.com/track/5hpqkaAZMrF8O7hZnKxXTq) | [Emma Svensson](https://open.spotify.com/artist/03V0mTSmPHxp7pnJhKFE1h) | [Runs In The Family](https://open.spotify.com/album/2HO9yV5q9D5COOgObJpv1C) | 3:09 |
+| 12 | [Gone With Stupid](https://open.spotify.com/track/43LmN6zjQV4dlMyeOtEqAy) | [Dead in Love](https://open.spotify.com/artist/1znf3y2qz8To3UnqcGMEe8) | [Gone With Stupid](https://open.spotify.com/album/3kQHskQhBjYfM6LY8eIcLw) | 2:59 |
+| 13 | [Killers](https://open.spotify.com/track/4RzUF1PbMw0oUgfkAVC10A) | [Vender](https://open.spotify.com/artist/03pLqKTSojkZZHpVGXOlxH) | [Killers](https://open.spotify.com/album/5TE3xOOmSWK5RNs3lFYXfA) | 3:58 |
 
-Snapshot ID: `NzA3LDgzNTNiMzEyY2I5ODViYWFkMjEwYTM2OTMzNjYzOTRlZjRiODgxNTY=`
+Snapshot ID: `NzA5LGVjZGU2MzZlN2I3ZDU4Nzg3NTA4ZGYwZGVlZTk2NmY5Nzk4MzdjMzg=`

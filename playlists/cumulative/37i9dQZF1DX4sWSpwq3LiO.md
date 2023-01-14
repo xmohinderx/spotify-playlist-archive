@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,513 songs - 2 day 19 hr 40 min
+1,514 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,8 +305,9 @@
 | [Dear Buddy](https://open.spotify.com/track/4XhZgQHy6yNEB5M3NhZXAG) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Dear Buddy](https://open.spotify.com/album/7nRhGhULaOo98BoVjYzzgD) | 2:12 | 2022-05-12 |  |
 | [Dear Lara](https://open.spotify.com/track/4zXzlkdNOLcd1BHFVYeTe2) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Dear Lara](https://open.spotify.com/album/56UkYFcy15ikDzXcSQFNLB) | 1:23 | 2019-05-26\* | 2019-11-14 |
 | [Deco](https://open.spotify.com/track/2SIHJo8TXKvFvaW0XvMztF) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Charles Bolt](https://open.spotify.com/album/3j0aL8TLtJ43y0Yd2gGz7O) | 1:32 | 2019-05-26\* | 2021-02-09 |
+| [Decor](https://open.spotify.com/track/1XA8P59ZUJRDRqB30BOuNV) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Santosha](https://open.spotify.com/album/0i7YAD1BjzmuSWhrG6aex8) | 2:39 | 2023-01-09 |  |
 | [Decor](https://open.spotify.com/track/21NiRGKct0YHE8wA7XXtmi) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Decor](https://open.spotify.com/album/00JVC2TaTfUyLe43XMxjz0) | 2:39 | 2022-10-03 | 2022-12-21 |
-| [Decor](https://open.spotify.com/track/798dMbomgbBMCgcLHXoHSe) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Night Owl](https://open.spotify.com/album/2if8mACHves2Fw1Pv3qC0k) | 2:39 | 2022-12-20 |  |
+| [Decor](https://open.spotify.com/track/798dMbomgbBMCgcLHXoHSe) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Night Owl](https://open.spotify.com/album/2if8mACHves2Fw1Pv3qC0k) | 2:39 | 2022-12-20 | 2023-01-14 |
 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2021-02-09 | 2021-07-01 |
 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 | 2022-12-20 |  |
 | [Deliquescence](https://open.spotify.com/track/26Bz99v8NoOOUXYfkVR4Tw) | [Laura Olejnik](https://open.spotify.com/artist/510b8N0CM4dvQR311fMOOP) | [Deliquescence](https://open.spotify.com/album/7jXsZmBCvgUe8Dbd6gfbbR) | 2:46 | 2020-11-17 | 2021-06-24 |

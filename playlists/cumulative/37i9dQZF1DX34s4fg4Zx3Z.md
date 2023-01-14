@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Nie; thiết kế: Isu Kim
 
-714 songs - 1 day 17 hr 39 min
+715 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [03.Iwant](https://open.spotify.com/track/5IrS2VVR7QdVWPJiZB4dnq) | [Pajn](https://open.spotify.com/artist/4BleJN4feDcg2qIQ60zh4G), [Lil Roff](https://open.spotify.com/artist/3BBFbrYDfJFpWuwQZnALpp) | [03.Iwant](https://open.spotify.com/album/2VqmZzrfv8Heyfb3M0CncI) | 3:52 | 2022-03-30 | 2022-06-04 |
 | [0808](https://open.spotify.com/track/7Kq1Hnk5NorUNG7bL8cZ7z) | [Linh](https://open.spotify.com/artist/713suxZd6j7VN9OwVeBsBv) | [0808](https://open.spotify.com/album/7cS6keTu8cr87I7EW8uEqn) | 2:42 | 2022-09-17 | 2022-10-27 |
 | [1 Chút Thôi](https://open.spotify.com/track/0ebdjywyEaWpJCvGKiANqs) | [Híu](https://open.spotify.com/artist/2J5B9kGwZXEaP7Ys4ai9Qz), [LUNY](https://open.spotify.com/artist/7oqfBry2GPU5vnXNH2f5Sd) | [1 Chút Thôi](https://open.spotify.com/album/4rzmTTQnoQoHrsYUfQMIdO) | 3:26 | 2022-09-29 | 2022-11-01 |
+| [1 Phút](https://open.spotify.com/track/5nde2qUp6nGyOFWoah6YPS) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [1 Phút](https://open.spotify.com/album/0ICT9d4tbP3otJBJvCC8kk) | 4:33 | 2023-01-12 |  |
 | [123 Em Nói 321](https://open.spotify.com/track/2eBANEnrEHYBUVaVosCMOr) | [Havan Trần](https://open.spotify.com/artist/7rrc53g4jINHsKxnisNniH) | [123 Em Nói 321](https://open.spotify.com/album/4rkS3ealNBi9MjE7XzzAYg) | 3:29 | 2022-04-05 | 2022-05-06 |
 | [22nd Summer](https://open.spotify.com/track/5k5dnsxWlORkfFz5A7Z6oD) | [Trí Dũng](https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik), [RisM](https://open.spotify.com/artist/7of2H7MH74FO1wgH0Bfrdr) | [22nd Summer](https://open.spotify.com/album/1CnonWsJBPiyPjROHW4UOF) | 1:53 | 2022-07-17 | 2022-09-22 |
 | [30 Ngày Lạnh](https://open.spotify.com/track/6Xa8B4aLfRDvaUmugocG4u) | [Thế Anh Shinichi](https://open.spotify.com/artist/6KVon2JPHz5A89ID6Ckzjt), [Q.u](https://open.spotify.com/artist/705UWfpP9e1di3LqxtbJML), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [30 Ngày Lạnh](https://open.spotify.com/album/4JcKI3TO3yHUlMx3nckWbo) | 3:32 | 2022-09-07 | 2022-10-07 |
@@ -454,7 +455,7 @@
 | [Nắng Gió Sài Gòn](https://open.spotify.com/track/4PXCbHmmpiaLG9irgftpI2) | [Lê Vũ](https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ) | [Nắng Gió Sài Gòn](https://open.spotify.com/album/4kEwEVsRDgPFEbafshK98D) | 3:26 | 2022-10-15 |  |
 | [Nếu Anh Muốn Đổi Vai](https://open.spotify.com/track/7aVRP688Ccal9JNpWL1ww4) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj), [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Nếu Anh Muốn Đổi Vai](https://open.spotify.com/album/5PQT7LL2JzKlJCvPUfzR5T) | 3:06 | 2022-10-26 |  |
 | [Nếu Anh Nói Ra](https://open.spotify.com/track/64xOpDU7wlGs8IYvVNfGuE) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Nếu Anh Nói Ra](https://open.spotify.com/album/5YfsMBownyfsaMuNTX77ZB) | 3:22 | 2022-10-12 | 2022-11-11 |
-| [Nếu Không Gì Thay Đổi \(feat\. Muộii\) \- Another Version](https://open.spotify.com/track/19gb6Dqs1ZRHnwkaizHILj) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Nếu Không Gì Thay Đổi \(feat\. Muộii\) \[Another Version\]](https://open.spotify.com/album/2DIGbiGV1O580mfiSSyZp6) | 3:13 | 2022-09-17 |  |
+| [Nếu Không Gì Thay Đổi \(feat\. Muộii\) \- Another Version](https://open.spotify.com/track/19gb6Dqs1ZRHnwkaizHILj) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Nếu Không Gì Thay Đổi \(feat\. Muộii\) \[Another Version\]](https://open.spotify.com/album/2DIGbiGV1O580mfiSSyZp6) | 3:13 | 2022-09-17 |  |
 | [Nếu Như Em Không Vui](https://open.spotify.com/track/1PKizdGpTNgH7u8zNFA29q) | [Bâu](https://open.spotify.com/artist/2KBCzFu6IEUuCiBpblpRRF) | [Nếu Như Em Không Vui](https://open.spotify.com/album/5Rb55wZ6mzNmfWY7r37Nz7) | 3:39 | 2022-06-28 | 2022-09-01 |
 | [Nếu Đã Không Còn Yêu \(feat\. Joke D\)](https://open.spotify.com/track/32ipe05GHzbLQKhGRNOu9g) | [LT Midside](https://open.spotify.com/artist/50OfeNlZcOMffMzBpfDCTL), [Joke D](https://open.spotify.com/artist/5UjssQfB90YVhMKQW8nHFN) | [Nếu Đã Không Còn Yêu \(feat\. Joke D\)](https://open.spotify.com/album/3d45lEoLzRl2ApRjPCJqsD) | 4:22 | 2022-01-06 | 2023-01-06 |
 | [Nụ Cười Em](https://open.spotify.com/track/5ceYOxNRwB2vTloINEQJ7d) | [Phú Quí](https://open.spotify.com/artist/7kFRelrojoTz5zxPBnAArZ) | [Nụ Cười Em](https://open.spotify.com/album/43OmrjWLJPxmm1OAvcNJ6b) | 2:55 | 2022-06-07 | 2023-01-06 |

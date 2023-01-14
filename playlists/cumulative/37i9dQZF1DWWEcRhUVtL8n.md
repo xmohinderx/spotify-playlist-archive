@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,445 songs - 3 day 4 hr 4 min
+1,446 songs - 3 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Good Morning](https://open.spotify.com/track/47pp7SXF8tSQo4TqdDRvpr) | [GG McG](https://open.spotify.com/artist/2JPxGFJFRl2qkensQYTTuN) | [Good Morning](https://open.spotify.com/album/2KtkUvluocIlvixfpjEDrc) | 2:34 | 2021-02-22 | 2021-05-28 |
 | [Goodbye](https://open.spotify.com/track/6BeGYbBS2nmkEczBw2X9uS) | [Sophia Anne Caruso](https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ) | [Goodbye](https://open.spotify.com/album/74c3sL6Y19j92XKWtFtzRD) | 3:33 | 2021-02-22 | 2021-02-28 |
 | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/track/3l207IhDzpcRe5MlgNM7ZX) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/album/28jYKoBBu4hjMUPBU5cL6n) | 5:03 | 2022-12-07 |  |
-| [Grape Vapour](https://open.spotify.com/track/39dJKJFc4tXNeQdWb03oY1) | [Outline](https://open.spotify.com/artist/42TgrrWb0fbkTxVwiR7GF8) | [Grape Vapour](https://open.spotify.com/album/6ukGpaKjgIOBZGo51rAukH) | 3:51 | 2022-12-16 |  |
+| [Grape Vapour](https://open.spotify.com/track/39dJKJFc4tXNeQdWb03oY1) | [Outline](https://open.spotify.com/artist/42TgrrWb0fbkTxVwiR7GF8) | [Grape Vapour](https://open.spotify.com/album/6ukGpaKjgIOBZGo51rAukH) | 3:51 | 2022-12-16 | 2023-01-14 |
 | [Grocery Store](https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Grocery Store](https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd) | 2:14 | 2022-07-22 |  |
 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 | 2022-02-25 | 2022-04-14 |
 | [Grown](https://open.spotify.com/track/3aS9G4mvV3a9Pb3ZvEpism) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [Grown](https://open.spotify.com/album/5X4TXjLJrF3p6O5EXRCoNJ) | 3:05 | 2022-01-07 | 2022-04-21 |
@@ -725,7 +725,7 @@
 | [Just a Waste](https://open.spotify.com/track/6WCgeGzEYlkluHeqQqmnl6) | [summervibes](https://open.spotify.com/artist/1JPqepX6kQ0rU9Btzsbb1C) | [Just a Waste](https://open.spotify.com/album/4v2u9tXp3irRw0UB9VUYZK) | 2:07 | 2021-10-06 | 2021-10-13 |
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
 | [Just Move](https://open.spotify.com/track/0zfrIxHvYUAp8wAIQlAKj0) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/30wUyky9CMZydC8QrX3RFH) | 3:06 | 2020-10-13\* | 2020-11-17 |
-| [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 | 2023-01-13 |
+| [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 |  |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-05 | 2022-09-23 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-06-17 | 2022-07-29 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-12-22 |
@@ -1181,7 +1181,7 @@
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2020-10-13\* | 2021-06-02 |
 | [Song From Hell](https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Song From Hell](https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL) | 3:03 | 2021-11-12 | 2022-04-14 |
 | [SORE](https://open.spotify.com/track/6R14BaW5Y3KGmlX68pkTbl) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [SORE](https://open.spotify.com/album/0X7rdj2hW0RtyIhRI7alGN) | 2:58 | 2022-03-31 | 2022-04-10 |
-| [Sore Loser](https://open.spotify.com/track/1rLaVMMZFkvYJ66BBkRJ8o) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J), [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Sore Loser](https://open.spotify.com/album/3YQgXLh7c1m9ZaSaUWzcEl) | 3:08 | 2022-12-09 |  |
+| [Sore Loser](https://open.spotify.com/track/1rLaVMMZFkvYJ66BBkRJ8o) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J), [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Sore Loser](https://open.spotify.com/album/3YQgXLh7c1m9ZaSaUWzcEl) | 3:08 | 2022-12-09 | 2023-01-14 |
 | [Sort It Out](https://open.spotify.com/track/4zphehG2wo4rF1dIaCIG5t) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Indigo Violet](https://open.spotify.com/album/00qKPgATUmrtzlAq69gHQ4) | 2:27 | 2020-11-10 | 2020-11-15 |
 | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK) | 2:51 | 2021-10-14 | 2021-10-16 |
 | [Space Cadet](https://open.spotify.com/track/3jK7Phs5IsCWndQVGD4NZz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/14dX5gXAHZFHWmOlOmdxO9) | 4:24 | 2020-10-20 | 2020-10-21 |
@@ -1313,6 +1313,7 @@
 | [Things I Hate](https://open.spotify.com/track/30rX6yMaXXWJ3CFShHLQGm) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Things I Hate](https://open.spotify.com/album/0lauA8wezg5MEriw6JaF5D) | 3:37 | 2021-08-27 | 2022-04-08 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/2WpMB2RxvNOnStRrT2e2kC) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Things I Thought Were Mine](https://open.spotify.com/album/6RMv7YvMivHcrnZuQrM8fq) | 3:13 | 2021-02-22 | 2021-05-28 |
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-04-20 |
+| [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 | 2023-01-13 |  |
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2020-10-20 | 2021-01-25 |
 | [This Car Drives All by Itself](https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:45 | 2022-01-14 | 2022-08-06 |
 | [This Side of Paradise](https://open.spotify.com/track/4qgbJZNqadJ9M0fW5ne4bk) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [This Side of Paradise](https://open.spotify.com/album/5lDkAV1UNJEF7WJKezuqDs) | 3:40 | 2021-02-23 | 2021-05-27 |

@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-228 songs - 14 hr 42 min
+229 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2022-01-21 | 2022-07-22 |
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 | 2021-12-13 |  |
 | [Hot Knife](https://open.spotify.com/track/4R4Ly8fyz89vGLr8dWfblY) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Fiona Apple](https://open.spotify.com/album/5vktfCTcDjO8o7fpQCUISC) | 2:23 | 2021-12-13 | 2022-07-29 |
-| [How Sweet It Is](https://open.spotify.com/track/69BNeK0GK76eo8qgIOw8AH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Justine](https://open.spotify.com/album/51gyYFmyu4KL0y6kxPiHrX) | 3:21 | 2022-06-03 |  |
+| [How Sweet It Is](https://open.spotify.com/track/69BNeK0GK76eo8qgIOw8AH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Justine](https://open.spotify.com/album/51gyYFmyu4KL0y6kxPiHrX) | 3:21 | 2022-06-03 | 2023-01-14 |
 | [How Sweet It Is](https://open.spotify.com/track/72obwZ3uN0QOg3FJrMVGWP) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Justine \- Single](https://open.spotify.com/album/4i5irdBDyQv50oAsCBf7BN) | 3:21 | 2021-12-13 | 2022-07-29 |
 | [I Envy the Wind](https://open.spotify.com/track/69pyWuhnQK8igKDY35UMbe) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [5 Covers & A Song](https://open.spotify.com/album/2V8YaOsCv3YQd01aVnVa1I) | 3:14 | 2021-12-13 | 2022-07-26 |
 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 | 2021-12-13 |  |
@@ -131,6 +131,7 @@
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 | 2022-10-22 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-14 |  |
 | [Jackson](https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD) | 3:32 | 2021-12-13 | 2022-08-30 |
+| [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-01-13 |  |
 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 | 2021-12-13 |  |
 | [Jolene \- Live](https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Pine Hollow \(Live\)](https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j) | 4:13 | 2021-12-13 |  |
 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2021-12-13 |  |

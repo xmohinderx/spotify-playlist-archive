@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -5237,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -6558,7 +6576,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 204255,
       "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
       "url": "https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr"
@@ -7978,7 +7996,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 205081,
       "name": "\u05d7\u05de\u05d9\u05e9\u05d9 \u05e9\u05d9\u05e9\u05d9",
       "url": "https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT"
@@ -8362,7 +8380,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 196480,
       "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
@@ -8669,6 +8687,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d0 \u05e0\u05e8\u05d2\u05e2",
+        "url": "https://open.spotify.com/album/4ORqv9AlK35BYbO9SZTMSF"
+      },
+      "artists": [
+        {
+          "name": "Avihai Hollender",
+          "url": "https://open.spotify.com/artist/7xdmWLAYEUMdYhgoYMZge1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197653,
+      "name": "\u05dc\u05d0 \u05e0\u05e8\u05d2\u05e2",
+      "url": "https://open.spotify.com/track/3u2kyAe7mj38p6ETztE5mP"
+    },
+    {
+      "album": {
         "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05e0\u05e9\u05d5\u05dd",
         "url": "https://open.spotify.com/album/5x3hX8Av6UIZG4ng18QxZl"
       },
@@ -8684,6 +8720,24 @@
       "duration_ms": 209280,
       "name": "\u05dc\u05d0\u05d4\u05d5\u05d1\u05d9",
       "url": "https://open.spotify.com/track/5nmq4anDakdMvojDYPkg6S"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d1 \u05d9\u05e4\u05d4",
+        "url": "https://open.spotify.com/album/43hoL0qqcYUMrYhccu6VvF"
+      },
+      "artists": [
+        {
+          "name": "Ron Buhnik",
+          "url": "https://open.spotify.com/artist/0mFHr7lwZmiRqsuy6JCS2K"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164813,
+      "name": "\u05dc\u05d1 \u05d9\u05e4\u05d4",
+      "url": "https://open.spotify.com/track/79frUUdqTcE1Qll6Twt8Ds"
     },
     {
       "album": {
@@ -9020,7 +9074,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 197481,
       "name": "\u05dc\u05e9\u05d5\u05d1 \u05d4\u05d1\u05d9\u05ea\u05d4",
       "url": "https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6"
@@ -10428,7 +10482,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 135497,
       "name": "\u05e2\u05d6\u05d1\u05d9",
       "url": "https://open.spotify.com/track/6EVRPTFEzBFCGDy8w0Omow"
@@ -11574,7 +11628,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"

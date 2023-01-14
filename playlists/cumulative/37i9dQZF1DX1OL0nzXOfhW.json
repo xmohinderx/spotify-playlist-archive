@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "The Bright Side",
+        "url": "https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250406,
+      "name": "The Bright Side",
+      "url": "https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg"
+    },
+    {
+      "album": {
         "name": "twentyone",
         "url": "https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c"
       },

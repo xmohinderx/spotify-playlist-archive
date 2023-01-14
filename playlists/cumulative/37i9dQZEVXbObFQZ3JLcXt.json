@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Retropolis - City Of Joy",
+        "url": "https://open.spotify.com/album/2WhmHOuv105dRcvCnCRyCR"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "Benci Untuk Mencinta",
+      "url": "https://open.spotify.com/track/65PjFLm6X567f52At4CI1N"
+    },
+    {
+      "album": {
         "name": "Berakhir Sama",
         "url": "https://open.spotify.com/album/4rl5wPXYNeOstk2aqxoKNp"
       },
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 219896,
       "name": "Melawan Restu",
       "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
@@ -6144,7 +6162,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
@@ -6650,7 +6668,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-10",
+      "date_removed": null,
       "duration_ms": 190013,
       "name": "You're Gonna Live Forever in Me",
       "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"

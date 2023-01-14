@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: なきごと\(Nakigoto\)
 
-733 songs - 1 day 23 hr 5 min
+734 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Kakera](https://open.spotify.com/track/36gU12fKGgj9qutpBqsZq4) | [stellafia](https://open.spotify.com/artist/4SiWD9hBt7DwgaxAfdbIZi) | [Kakera](https://open.spotify.com/album/3ZhIsNXor713iNuq7Ge32v) | 3:19 | 2022-06-02 | 2022-06-14 |
 | [Kesalan Patharan](https://open.spotify.com/track/1jyeQNAFuET3go2BjBuKXT) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Kesalan Patharan](https://open.spotify.com/album/4qYYAlshPymDLzou2gGkR2) | 2:30 | 2022-07-28 | 2022-08-05 |
 | [Ketzal](https://open.spotify.com/track/5rJXHcQAOOMfCbbXCPDQhX) | [The Pen Friend Club](https://open.spotify.com/artist/2YCoWIMictATX05LbntMQO) | [The Pen Friend Club](https://open.spotify.com/album/2krBNqQGIuGq1NH3wqEsxa) | 3:10 | 2022-09-06 | 2022-09-15 |
-| [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-07 |  |
+| [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-07 | 2023-01-14 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-20 |
 | [Kiss me before I rise](https://open.spotify.com/track/3Hl6OfLcfnLmAV5hOZd9uA) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ingredients](https://open.spotify.com/album/6zxpjA1B7uP84reP3udGXm) | 3:47 | 2022-05-26 | 2022-07-25 |
 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 | 2022-11-08 | 2022-12-14 |
@@ -218,7 +218,8 @@
 | [POOL](https://open.spotify.com/track/6hiLrjPj5RoC632xTspNtK) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [POOL](https://open.spotify.com/album/0jRklgtrDP6D8kMTnNJvhH) | 4:31 | 2022-10-04 | 2022-10-26 |
 | [Power](https://open.spotify.com/track/6GoYRGZ4uLwr2FTEc4A7pZ) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Power](https://open.spotify.com/album/1ELo1NACe1pDRtJjsVC836) | 4:11 | 2022-06-02 | 2022-07-20 |
 | [Pretty](https://open.spotify.com/track/2fI0XTQtwtTU2PCf1xFP30) | [A VIRGIN](https://open.spotify.com/artist/0dDP1gsPC4bWS5vnynu99s) | [Pretty](https://open.spotify.com/album/2znvO7eKY5hcWklq7jwHyP) | 3:04 | 2022-05-26 | 2022-06-08 |
-| [PUKAPUKA](https://open.spotify.com/track/1r8ayvaFXkqsipf2wLQ69S) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2yOcrZKDBPIGESP3Clk1Ax) | 3:25 | 2022-12-13 |  |
+| [PUKAPUKA](https://open.spotify.com/track/1r8ayvaFXkqsipf2wLQ69S) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2yOcrZKDBPIGESP3Clk1Ax) | 3:25 | 2022-12-13 | 2023-01-14 |
+| [PUKAPUKA](https://open.spotify.com/track/34XEP2iAR98bY2KXDYjOjA) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:25 | 2023-01-12 |  |
 | [Purple](https://open.spotify.com/track/10Ipr7AR8CGspcIERaSTNO) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [THINK WISELY](https://open.spotify.com/album/6WdMLccynx5EqCuI8elJZ5) | 4:15 | 2022-10-11 | 2022-11-16 |
 | [Q&A](https://open.spotify.com/track/1LxBNrw3vXh6U87t8kV3l0) | [ソールドシュガー](https://open.spotify.com/artist/2g7ZNRIgwT0g7zRx3CrU28) | [Q&A](https://open.spotify.com/album/65XfFPPFiOGkYgrmMjSJcB) | 4:26 | 2022-06-02 | 2022-06-07 |
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
@@ -312,7 +313,7 @@
 | [Wan!](https://open.spotify.com/track/0yRSL5aaF9xJfJxqNyOvhW) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [ダークムーンサイド](https://open.spotify.com/album/3M61w8VggQrFathWSsp1Qh) | 3:27 | 2022-08-09 | 2022-08-17 |
 | [WATASHIHA WATASHINARINO KOTOBADESIKA AISHITERUTO TUTAERUKOTOGADEKINAI](https://open.spotify.com/track/3sRnw37zxEhfl2zevR6npx) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:33 | 2023-01-10 |  |
 | [Who Am I](https://open.spotify.com/track/17UcihyP4nJdrXWsenfJYw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Who Am I](https://open.spotify.com/album/74aqJf9J5uybLGJVv83bAR) | 4:20 | 2022-05-31 | 2022-07-04 |
-| [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-28 | 2022-08-24 |
+| [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-28 |  |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/7f7ufnrborStLtDM0rP3rO) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/7FACUKFmq5pwsjY09nUeiA) | 2:22 | 2022-07-05 | 2022-07-29 |
 | [Within Us Invincible Summer](https://open.spotify.com/track/1xZWP04Wk0kuyr4u9gIsiS) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Within Us Invincible Summer](https://open.spotify.com/album/3UJtXHUg3uEHCnY94N8y3Q) | 3:34 | 2022-06-07 | 2022-07-12 |
 | [Woolly](https://open.spotify.com/track/5fqq7HOGNSRjc9CSwkwhDk) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Woolly](https://open.spotify.com/album/38f696Nby5Tqqwq3Cg8VNx) | 4:22 | 2022-06-02 | 2022-07-27 |

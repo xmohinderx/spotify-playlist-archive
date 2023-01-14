@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 158769,
       "name": "EU BEM QUE TE AVISEI - TU EMPINOU ELE PEI",
       "url": "https://open.spotify.com/track/0E0OENqh3jaZ4VpDFTOLGj"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 158769,
       "name": "Eu Bem Que Te Avisei - Tu Empinou Ele Pei",
       "url": "https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M"
@@ -2986,10 +2986,36 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 149639,
       "name": "Parecia Tempestade",
       "url": "https://open.spotify.com/track/4nkhQr9Jp58ts1OncBX6xP"
+    },
+    {
+      "album": {
+        "name": "Parecia Tempestade",
+        "url": "https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR"
+      },
+      "artists": [
+        {
+          "name": "Sony no Beat",
+          "url": "https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb"
+        },
+        {
+          "name": "FELUPE NA VOZ",
+          "url": "https://open.spotify.com/artist/0yBuexD4e0Mmv44tTweSlT"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149639,
+      "name": "Parecia Tempestade",
+      "url": "https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID"
     },
     {
       "album": {

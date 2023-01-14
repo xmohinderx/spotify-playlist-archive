@@ -1,13 +1,169 @@
 {
   "description": "Atlantic Records Presents the hottest tracks in hip-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.",
-  "num_followers": 1875,
+  "num_followers": 1877,
   "original_name": "Atlantic Records: Presents",
   "owner": {
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NTMyOSwyYTRmMzk4MjIxMGFjNDk1NmMxODAxMGRjZTVmOThiN2ZhYmIyZmM2",
+  "snapshot_id": "NTM0OSwwNWNiNTc5ZjhiOTdiZjQ0MGEwNmQ1MjljMGFlOWVmYzQ5NDZiZTg2",
   "tracks": [
+    {
+      "added_at": "2023-01-13 16:31:31",
+      "album": {
+        "name": "C'est Comme \u00c7a",
+        "url": "https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 149251,
+      "name": "C\u2019est Comme \u00c7a",
+      "url": "https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb"
+    },
+    {
+      "added_at": "2023-01-13 16:31:43",
+      "album": {
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
+    },
+    {
+      "added_at": "2023-01-13 16:32:17",
+      "album": {
+        "name": "Miss You (Marten Lou Remix)",
+        "url": "https://open.spotify.com/album/3oyjkxpDH4nqMtCPnuywaI"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 340080,
+      "name": "Miss You - Marten Lou Remix",
+      "url": "https://open.spotify.com/track/678Q289w5b7FEA2zoF9fQ1"
+    },
+    {
+      "added_at": "2023-01-13 16:32:36",
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit"
+    },
+    {
+      "added_at": "2023-01-13 16:32:49",
+      "album": {
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
+    },
+    {
+      "added_at": "2023-01-13 16:33:01",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 179890,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
+    },
+    {
+      "added_at": "2023-01-13 16:33:15",
+      "album": {
+        "name": "Ok Ok Ok",
+        "url": "https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 136856,
+      "name": "Ok Ok Ok",
+      "url": "https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v"
+    },
+    {
+      "added_at": "2023-01-13 16:33:42",
+      "album": {
+        "name": "Sweat You Out My System",
+        "url": "https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 189858,
+      "name": "Sweat You Out My System",
+      "url": "https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy"
+    },
+    {
+      "added_at": "2023-01-13 16:33:55",
+      "album": {
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/1b8kG4SDFHlIUpFiOlPhkL"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 184036,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/4ZSrRU8pPoieBahQ0ZMefB"
+    },
     {
       "added_at": "2023-01-06 18:45:33",
       "album": {
@@ -2403,6 +2559,42 @@
       "duration_ms": 166285,
       "name": "Floreal",
       "url": "https://open.spotify.com/track/0WbqqJV6vFwyAINhsQtqcH"
+    },
+    {
+      "added_at": "2023-01-13 16:34:07",
+      "album": {
+        "name": "Sorry (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/5bZupphZ6VAIMDqvIkqIux"
+      },
+      "artists": [
+        {
+          "name": "Tai'Aysha",
+          "url": "https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 131959,
+      "name": "Sorry - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/6fj5apEpVtfhFyXQIFVOb8"
+    },
+    {
+      "added_at": "2023-01-13 16:34:29",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 284370,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f"
     }
   ],
   "unique_name": "Atlantic Records: Presents",

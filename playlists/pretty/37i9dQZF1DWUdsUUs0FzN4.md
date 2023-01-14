@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain](/playlists/plain/37i9dQZF1DWUdsUUs0FzN4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUdsUUs0FzN4)
 
-### [Reggaetón Bellakoso](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
+### [Perreo Bellakoso](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
 
 > Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,194 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,224 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 49 | [Oxxo estás ahí?](https://open.spotify.com/track/12QZtyonVLker8V95gYTGB) | [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Oxxo estás ahí?](https://open.spotify.com/album/1H4Hnnwor3aM8Ceeby2c6N) | 2:54 |
 | 50 | [Que Le Den](https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Que Le Den](https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr) | 3:13 |
 
-Snapshot ID: `MTY3MjMzNjIxMywwMDAwMDAwMDM2ZWY0MDAwNDViYzQwOTc4ZGVmZmM0M2UyMTEwYjc0`
+Snapshot ID: `MTY3MzU4NDY3MCwwMDAwMDAwMGQ4MzUxMmUwMGRkNjljMzQ4YzY4MzcxZTVlMmZiNzBk`

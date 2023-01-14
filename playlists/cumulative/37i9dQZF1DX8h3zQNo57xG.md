@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-106 songs - 5 hr 45 min
+107 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Binaural Delta Sinus 125 Hz \- 128 Hz](https://open.spotify.com/track/5jJ7EiQ0Ls2n7BGmM4vI0k) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Binaural Gamma Sinus 120 Hz \- 170 Hz](https://open.spotify.com/album/6RQNAwfBLqs9YYxEmGP5CF) | 2:36 | 2021-12-22 |  |
 | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/track/0rvPwQabfUSeU08LDDQVM8) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/album/0TJS3JB2pb5mXXrPN7oFer) | 2:21 | 2021-12-22 |  |
 | [Binaural Delta Sinus 90 Hz \- L 94 Hz \- R](https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/album/7E9Zfn9aGdJOSp1YxBiGZg) | 2:16 | 2021-12-22 |  |
+| [Binaural Delta Waves 92.5\-93 Hz](https://open.spotify.com/track/4LSnpwC7K8SISa1m8FqYHz) | [Miyasato Mana](https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav) | [Binaural Delta Waves 92.5\-93 Hz](https://open.spotify.com/album/1LXNQ3HpVDFDgQIgudy2c2) | 2:58 | 2023-01-13 |  |
 | [Binaural Waves 120Hz \- 123Hz Delta](https://open.spotify.com/track/44W2LMIF4TmESsTF1uqjIz) | [Orbinaural](https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj) | [Binaural Dreams](https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6) | 2:43 | 2022-08-22 |  |
 | [Calm Body \(Delta Binaural\)](https://open.spotify.com/track/4JTKJY41QWzUkbPKl8iMCx) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Calm Body \(Delta Binaural\)](https://open.spotify.com/album/6jVgqv97W8bopZZNf0RyBF) | 3:02 | 2022-03-21 |  |
 | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 | 2022-05-05 |  |
@@ -78,7 +79,7 @@
 | [Finally Reaching \(3 Hz Delta Wave\)](https://open.spotify.com/track/7LMGjCEVFqPsHCeRHu1YNV) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binarual Beats for Deep Sleep](https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up) | 4:57 | 2021-12-22 | 2022-12-24 |
 | [Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/track/5mWrcUdd6VebJRdvuRiXM9) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:16 | 2021-12-22 |  |
 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 | 2021-12-22 |  |
-| [Horizons \(Delta Brainwave Version\)](https://open.spotify.com/track/4BRqrr3nlJet7LjcK9gbxW) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Delta Brainwaves](https://open.spotify.com/album/2XxJf2dDWmmrUCAYnpu2Lq) | 3:12 | 2021-12-22 |  |
+| [Horizons \(Delta Brainwave Version\)](https://open.spotify.com/track/4BRqrr3nlJet7LjcK9gbxW) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Delta Brainwaves](https://open.spotify.com/album/2XxJf2dDWmmrUCAYnpu2Lq) | 3:12 | 2021-12-22 | 2023-01-14 |
 | [In Control \(Delta Relax Waves\)](https://open.spotify.com/track/4vJGL9X3d3dFymERTqxHTL) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Delta Force](https://open.spotify.com/album/4fmpqaIzIfbK9JABdeSzB9) | 3:26 | 2021-12-22 |  |
 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 | 2021-12-22 |  |
 | [Magica \(3 Hz Delta Binaural Beat Version\)](https://open.spotify.com/track/5kEVAtbYLgb7Ymen4ljPgk) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Magica \(Binaural Beat Versions\)](https://open.spotify.com/album/67tFryPsJTFWT7YuOLlSNk) | 3:00 | 2021-12-22 |  |

@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-381 songs - 23 hr 19 min
+382 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Mientes Tan Bien \(Versión Dueto\)](https://open.spotify.com/track/2sbQb9zXCkFdhbd70nQasu) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mientes Tan Bien \(Versión Dueto\)](https://open.spotify.com/album/62foAFjQA5L4obhhzxsJIZ) | 3:29 | 2021-10-21 | 2022-04-21 |
 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-10-21 |  |
 | [Más De Lo Que Aposté](https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Más De Lo Que Aposté](https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS) | 3:25 | 2021-10-21 |  |
-| [Más Que Amigos](https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Sube](https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0) | 2:57 | 2021-10-21 |  |
+| [Más Que Amigos](https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Sube](https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0) | 2:57 | 2021-10-21 | 2023-01-14 |
 | [Mía](https://open.spotify.com/track/7sZJnGa1a3iCm74SIiNRxU) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk) | [El tiempo](https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5) | 3:31 | 2021-10-21 | 2022-07-29 |
 | [Mírame](https://open.spotify.com/track/3UmGAP0czN54PHkkUYnkfR) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Imprescindibles](https://open.spotify.com/album/1YkOn9tNg52Gf4Tso1zfFH) | 3:20 | 2021-10-21 | 2022-07-13 |
 | [Nada](https://open.spotify.com/track/4ruyGzUmYFy0tanBBLCxHW) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Nada](https://open.spotify.com/album/6W5khuVvk083kMoTxM7GGY) | 3:53 | 2022-03-11 | 2022-04-21 |
@@ -359,6 +359,7 @@
 | [Un Invierno Sin Ti](https://open.spotify.com/track/5fNAxNCKx5dZBBq3xzrOs7) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Un Invierno Sin Ti](https://open.spotify.com/album/3GFI2ZFyWOHWdhFIT40kCU) | 3:17 | 2022-11-25 | 2022-12-30 |
 | [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 | 2022-04-01 |  |
 | [Un Poquito](https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Un Poquito](https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko) | 3:06 | 2021-10-21 | 2022-06-13 |
+| [Un Viaje a Todas Partes](https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Un Viaje a Todas Partes](https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0) | 3:23 | 2023-01-13 |  |
 | [Un Viaje a Todas Partes \- Versión Acústica](https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Viaje a Todas Partes \(Versión Acústica\)](https://open.spotify.com/album/1BQBLXaMxMEwSsnuxTgdbE) | 3:30 | 2022-11-24 | 2023-01-07 |
 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 | 2021-10-21 |  |
 | [Universo Amor](https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Universo Amor](https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z) | 3:36 | 2021-10-21 | 2022-04-20 |

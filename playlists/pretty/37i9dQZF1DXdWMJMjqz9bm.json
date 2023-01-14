@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Connor Price and Hoodie Allen",
-  "num_followers": 180657,
+  "num_followers": 180922,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MTMxMywwMDAwMDAwMDU0MTI5YTRiNjljNWZlMjdmMjc3NDgyZmM3YzUwOGZm",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDg4ZmU4NGQ3NTQ5NGIxODllNGNlYjExZTA3Yjc0N2Y1",
   "tracks": [
     {
       "added_at": "2023-01-06 16:32:55",
@@ -29,10 +29,46 @@
       "url": "https://open.spotify.com/track/3pzi58VskO2NzwqV75Vce3"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "sun and moon",
-        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
+        "name": "on life",
+        "url": "https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "on life",
+      "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "so easily (with skaiwater)",
+        "url": "https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6"
+      },
+      "artists": [
+        {
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 219737,
+      "name": "so easily (with skaiwater)",
+      "url": "https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "free me",
+        "url": "https://open.spotify.com/album/3pMK4vu9TW0y3FqZaoJNya"
       },
       "artists": [
         {
@@ -40,9 +76,9 @@
           "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
         }
       ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
+      "duration_ms": 173705,
+      "name": "free me",
+      "url": "https://open.spotify.com/track/1scFwySIE5a0btwc1J2CHk"
     },
     {
       "added_at": "2022-11-29 19:33:08",
@@ -59,6 +95,26 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/6MK0vzutpi0ekxM63AJ3Ur"
+      },
+      "artists": [
+        {
+          "name": "Delawou",
+          "url": "https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt"
+        },
+        {
+          "name": "Kennyon Brown",
+          "url": "https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5"
+        }
+      ],
+      "duration_ms": 209359,
+      "name": "Flip",
+      "url": "https://open.spotify.com/track/1WKq2z9qobfyQs3VMnAF9h"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -151,6 +207,22 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "sun and moon",
+        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 151507,
+      "name": "sun and moon",
+      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -537,22 +609,6 @@
       "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
     },
     {
-      "added_at": "2022-11-25 06:40:00",
-      "album": {
-        "name": "League",
-        "url": "https://open.spotify.com/album/3salXEA3cRs0wZT3VLEWyf"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 163732,
-      "name": "League",
-      "url": "https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "The Bright Side",
@@ -583,22 +639,6 @@
       "duration_ms": 126739,
       "name": "careless",
       "url": "https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA"
-    },
-    {
-      "added_at": "2022-12-16 06:02:00",
-      "album": {
-        "name": "A Gift And A Curse",
-        "url": "https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ"
-      },
-      "artists": [
-        {
-          "name": "Zzz.",
-          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
-        }
-      ],
-      "duration_ms": 129444,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -749,22 +789,6 @@
       "url": "https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz"
     },
     {
-      "added_at": "2022-11-11 16:32:54",
-      "album": {
-        "name": "Bad Radio",
-        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Bad Radio",
-      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "lame ass",
@@ -811,22 +835,6 @@
       "duration_ms": 180713,
       "name": "Moonrock",
       "url": "https://open.spotify.com/track/79dt40lQLm46E1WPVYLvTO"
-    },
-    {
-      "added_at": "2022-10-14 04:05:00",
-      "album": {
-        "name": "barcelona",
-        "url": "https://open.spotify.com/album/2JuEOpkytQC2KsRz1cVREB"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 102539,
-      "name": "barcelona",
-      "url": "https://open.spotify.com/track/6hLMs5N7rRkIaCRfgYEB9B"
     },
     {
       "added_at": "2022-09-09 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [AUGE](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Giovani Cidreira, Linn da Quebrada
+> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Grag Queen
 
-81 songs - 3 hr 36 min
+82 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Maniac](https://open.spotify.com/track/1jTJ4Al2gI1mTLuSkj0kIj) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Maniac](https://open.spotify.com/album/4DDPUqTKpyD90srBMNYCYh) | 3:26 | 2022-06-24 |  |
 | [MIL GRAU](https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:25 | 2022-07-22 |  |
 | [MIL GRAU](https://open.spotify.com/track/4BkjISAYyQ6OMnEpzpQxgA) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/6kAhfgYBxtIQcI2AfMn2nq) | 2:25 | 2022-04-29 | 2022-07-29 |
+| [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-01-13 |  |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2022-04-29 |  |
 | [Necomancia](https://open.spotify.com/track/7rugGx6BTUaqjTvaoEIDAb) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pajubá](https://open.spotify.com/album/5xyoM3kQr3FJSGk2CVP6du) | 4:06 | 2022-04-29 | 2022-09-24 |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2022-04-29 |  |
@@ -72,7 +73,7 @@
 | [Tcheca](https://open.spotify.com/track/7aUZM3W6RA8k47eqP985Kc) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Epica](https://open.spotify.com/album/4HAsgqQ8DFhc0X9SBmTbNg) | 2:58 | 2022-04-29 | 2022-07-23 |
 | [Te Deixo Crazy](https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Te Deixo Crazy](https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan) | 2:44 | 2022-04-29 |  |
 | [Tentação](https://open.spotify.com/track/0U5kY6qm3RtQdOeQ3BqpSs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/4LQYnCZhSWeT2aO0O2dQFw) | 2:54 | 2022-04-29 | 2022-06-25 |
-| [TODOS OLHOS EM MIM](https://open.spotify.com/track/6hwv7Ig9erql3yqEkEzJTR) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [BÁRBARA](https://open.spotify.com/album/5OisNDqNx4ezH9Fdw7iKgi) | 2:22 | 2022-04-29 |  |
+| [TODOS OLHOS EM MIM](https://open.spotify.com/track/6hwv7Ig9erql3yqEkEzJTR) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [BÁRBARA](https://open.spotify.com/album/5OisNDqNx4ezH9Fdw7iKgi) | 2:22 | 2022-04-29 | 2023-01-14 |
 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 | 2022-07-22 |  |
 | [Trago Seu Amor de Volta \- Live](https://open.spotify.com/track/7rEOv1xp3UiE22Ewpq1SAK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Trago Seu Amor de Volta \(Live\)](https://open.spotify.com/album/6Jumv2GusuTde8ydN1GQDu) | 2:34 | 2022-04-29 | 2022-07-29 |
 | [Triste com T](https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:12 | 2022-04-29 | 2022-07-29 |

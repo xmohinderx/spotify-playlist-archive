@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Don't Walk Out That Door",
+        "url": "https://open.spotify.com/album/5rtVWnIqV2kos0M7PE0KdO"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249045,
+      "name": "Don't Walk Out That Door",
+      "url": "https://open.spotify.com/track/7dlPFiCTg6YXAjqmn6GwjA"
+    },
+    {
+      "album": {
         "name": "Don't You Forget About Me",
         "url": "https://open.spotify.com/album/2zxmGfJwrZ6BhaMLrpV8EK"
       },
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 406261,
       "name": "Hello, it's the Blues",
       "url": "https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 219641,
       "name": "Mirror Blues",
       "url": "https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX"
@@ -3123,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
+    },
+    {
+      "album": {
         "name": "Sand Castles",
         "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
@@ -3742,6 +3778,28 @@
       "duration_ms": 185593,
       "name": "Tell Mamala",
       "url": "https://open.spotify.com/track/3jq1QrrDci8STyApQBHLft"
+    },
+    {
+      "album": {
+        "name": "That's What Love Will Make You Do",
+        "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
     },
     {
       "album": {
@@ -4462,7 +4520,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 383360,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU"

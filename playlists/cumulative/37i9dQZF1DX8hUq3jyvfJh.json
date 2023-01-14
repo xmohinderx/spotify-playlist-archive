@@ -2155,6 +2155,28 @@
     },
     {
       "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/7wGRF9bDQkQReBhrnx346G"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/4XSDJvys3RLKlvcIPiflyH"
+    },
+    {
+      "album": {
         "name": "Trava L\u00ednguas",
         "url": "https://open.spotify.com/album/7MpgDfdAVvQjQ2pZ9NYvh6"
       },
@@ -4004,7 +4026,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 167717,
       "name": "Fuma\u00e7a",
       "url": "https://open.spotify.com/track/0uzGe3jXGgTWYvUYl5Pi0t"

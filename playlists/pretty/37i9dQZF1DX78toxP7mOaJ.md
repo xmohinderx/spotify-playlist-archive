@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Fleshwater \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,033 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,095 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 15 | [nothing special](https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [nothing special](https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB) | 3:23 |
 | 16 | [control](https://open.spotify.com/track/6PIt7eaIbQz0ftAipJ9STj) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [control](https://open.spotify.com/album/0alWvDgpvmJ8vZ19a7JZru) | 2:56 |
 | 17 | [Tuning In](https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Tuning In](https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y) | 1:55 |
-| 18 | [New Year's](https://open.spotify.com/track/3qkwuWuGClBAuuPd0DXN05) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's](https://open.spotify.com/album/2gn2hmGCUywSWW5NBQO2hT) | 3:28 |
+| 18 | [New Year's](https://open.spotify.com/track/5tyBNExaQp6AcemEFHnds3) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [New Year's EP](https://open.spotify.com/album/2fCxFcHye0AWepx9y9Yk22) | 3:28 |
 | 19 | [my endeavor](https://open.spotify.com/track/1bMdicOQiaJrvziRCcaJLT) | [JTB](https://open.spotify.com/artist/4OfsXo5RRoeSviFdCV6x2A) | [my endeavor](https://open.spotify.com/album/2grIjUOtyLWJ9vawZUs8p6) | 3:43 |
 | 20 | [In & Out](https://open.spotify.com/track/5alRL7O5LHo0Ff3QAkkGHj) | [Lawrence Taylor](https://open.spotify.com/artist/7so1HCxGkBmfqdvIF5HzkT) | [In & Out](https://open.spotify.com/album/3X9mTnQGOmJQbCdDJM9FsQ) | 4:36 |
 | 21 | [Checkered Vans](https://open.spotify.com/track/6bfihKoJMaKUlSGoX48mkm) | [Modern Original](https://open.spotify.com/artist/0yh7XFwrfZHJZEkV05M7Y1), [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Checkered Vans](https://open.spotify.com/album/2TuepzEmGMFADTmyTSnreQ) | 3:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 39 | [Be Safe, I Love You](https://open.spotify.com/track/0bY5n1mz0qIAxn1GscACQg) | [SUNFO](https://open.spotify.com/artist/2BARIojbh2TzfbB1oHZA4a) | [Dog People!](https://open.spotify.com/album/76agbklzee4ugSm2s9c4kF) | 3:33 |
 | 40 | [Rocket Ship to Heaven](https://open.spotify.com/track/7cVClfGDoPvWjdvNFP1Z6Z) | [Stress Fractures](https://open.spotify.com/artist/6nwxRbgPYNLda2rqaNjTs0) | [Rocket Ship to Heaven](https://open.spotify.com/album/5mEp8CumfED4OZw7xGJD1e) | 4:13 |
 
-Snapshot ID: `MTY3MzQ1NjQwMCwwMDAwMDAwMGFiNjgzZGFjMzQyYjllNzRjMTYxMDYzM2RjNjUzODA4`
+Snapshot ID: `MTY3MzQ1NjQwMCwwMDAwMDAwMDFjNTVhMjNkNGE5MmVkNTllYmEwY2NmOTA2MzVkZDJk`

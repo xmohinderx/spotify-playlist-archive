@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-266 songs - 14 hr 57 min
+267 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Head In The Clouds](https://open.spotify.com/track/0OOXQu3PYdzhpF31rdVbiZ) | [Shenie Fogo](https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy) | [Head In The Clouds](https://open.spotify.com/album/2Cu9oyTHjXLOmRwZ6NK04G) | 3:12 | 2022-10-28 | 2022-12-16 |
 | [Heart on Fire](https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 3:58 | 2023-01-12 |  |
 | [Heaven Is Here \- IDLES Remix](https://open.spotify.com/track/7BOeYa25IldbgvOMQCosLt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Heaven Is Here \(IDLES Remix\)](https://open.spotify.com/album/2Gcppu1zVf0W5KvcjJxVQB) | 4:08 | 2022-10-28 | 2022-11-18 |
+| [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-12 |  |
 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 | 2022-11-03 |  |
 | [Hiroshima](https://open.spotify.com/track/6FOcmhnINLjPcsMbbwUzVA) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Hiroshima](https://open.spotify.com/album/5DGO0wF5Sn3uXMTModz4p9) | 2:46 | 2022-10-28 | 2022-12-16 |
 | [Holograms](https://open.spotify.com/track/4pVudhub5wGBFAGp8nxtXz) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Holograms](https://open.spotify.com/album/6TkBfw7hE2NCyHHidoqK0M) | 2:23 | 2022-12-08 |  |

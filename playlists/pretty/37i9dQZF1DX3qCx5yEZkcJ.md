@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,732 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,743 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 6 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 |
 | 7 | [Hip Shop](https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Hip Shop](https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC) | 2:03 |
 | 8 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 |
-| 9 | [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 |
-| 10 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 |
+| 9 | [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 |
+| 10 | [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 |
 | 11 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 |
 | 12 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 |
 | 13 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Dance of Love](https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX), [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN), [Natsu](https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq) | [Reminders](https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN) | 2:21 |
 | 80 | [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGY2YjJjNGQ2ZjhkOGU5MTE1ZDM4OWZhNGZjZDg2YWU5`
+Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMDFkMmNlYjU4NmUzMzU2MGQxMzZkOTU2MjdlYWZlOGI5`

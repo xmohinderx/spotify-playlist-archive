@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: WILSN
+> Featuring that new vintage\. Cover: Blessing Offor
 
-274 songs - 16 hr 8 min
+275 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Apollo](https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:43 | 2021-12-03 |  |
 | [Attitude](https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Attitude](https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC) | 2:55 | 2022-01-21 | 2022-07-25 |
 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-08-12 |  |
-| [Baby](https://open.spotify.com/track/7bxXiHye5YkfWVzB1KpKDu) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Tim Presley](https://open.spotify.com/artist/58oRcDOFn1MnyCBMgiWZmD) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:36 | 2022-10-28 |  |
+| [Baby](https://open.spotify.com/track/7bxXiHye5YkfWVzB1KpKDu) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Tim Presley](https://open.spotify.com/artist/58oRcDOFn1MnyCBMgiWZmD) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:36 | 2022-10-28 | 2023-01-14 |
 | [Baby I'll Wait](https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 2:23 | 2022-03-25 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/36gyE5ONEx9pKCMoQdcUI6) | 2:32 | 2021-12-03 | 2022-04-21 |
 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 | 2021-12-03 | 2022-10-01 |
@@ -164,7 +164,7 @@
 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 | 2021-12-03 |  |
 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 | 2022-09-10 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 |  |
-| [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 | 2023-01-12 |
+| [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 |  |
 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 | 2021-12-03 | 2022-10-01 |
 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 | 2022-10-07 |  |
 | [Make You Love Me](https://open.spotify.com/track/2HQM8xlOk1K7cGsCmnfKEn) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [WEDNESDAY'S CHILD \(SIDE A\)](https://open.spotify.com/album/0Xab1cM6Bk1KxUBpn3cCtC) | 3:10 | 2022-02-11 | 2022-07-29 |
@@ -190,7 +190,7 @@
 | [OUT OF CONTEXT](https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [OUT OF CONTEXT](https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd) | 2:42 | 2022-09-09 | 2022-09-24 |
 | [Out of Time](https://open.spotify.com/track/5U18fsaWoMtJHR3pqgOkrt) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Out of Time](https://open.spotify.com/album/2kiWC4fHtpbdu4SpEryLql) | 3:56 | 2021-12-03 | 2022-06-22 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-05-02 |  |
-| [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 | 2022-06-17 | 2022-11-13 |
+| [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 | 2022-06-17 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 |  |
 | [Part Time Lover](https://open.spotify.com/track/5b4dscOsCEGDwXOjsEscj3) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Part Time Lover](https://open.spotify.com/album/1JLQH9Df1Gmxu7hXZtfGLO) | 2:57 | 2022-04-01 | 2022-07-29 |
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2022-04-22 | 2022-07-29 |
@@ -210,8 +210,9 @@
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2021-12-03 | 2022-07-15 |
 | [Rearrange Us](https://open.spotify.com/track/6M7VWjQnVsSCTifhHJGKpG) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/6l6ThHfDJ8Ja5uunao40so) | 3:07 | 2021-12-03 | 2022-07-29 |
 | [Rock Bottom](https://open.spotify.com/track/497hUxFOMMux7zeObEVHen) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Rock Bottom](https://open.spotify.com/album/4kbZDkaXMCU5cebbHbm13E) | 2:56 | 2021-12-03 | 2022-07-29 |
+| [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 | 2023-01-13 |  |
 | [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-09-23 | 2022-10-25 |
-| [Rolling Back](https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 3:43 | 2022-09-23 |  |
+| [Rolling Back](https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 3:43 | 2022-09-23 | 2023-01-14 |
 | [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 | 2022-03-18 | 2022-07-29 |
 | [Saint](https://open.spotify.com/track/6f6FKPRVzfZWVQBarW574H) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Saint](https://open.spotify.com/album/3SVZKcujNG8IIZCPj6T7PO) | 4:41 | 2021-12-03 | 2022-07-24 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 |  |
@@ -230,7 +231,7 @@
 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 | 2022-08-26 | 2022-10-31 |
 | [Something Special](https://open.spotify.com/track/2217ssMvgWOyaZmvTWP9IA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Something Special](https://open.spotify.com/album/1jZ8YbczykhDOgMH8MTzT9) | 2:30 | 2021-12-03 | 2022-07-29 |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 |  |
-| [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/track/07DAMNunYyHvoG6PC88laF) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/album/35yHgVIXp8hDTDTI3L77CT) | 2:44 | 2022-11-18 |  |
+| [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/track/07DAMNunYyHvoG6PC88laF) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/album/35yHgVIXp8hDTDTI3L77CT) | 2:44 | 2022-11-18 | 2023-01-14 |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-07-31 |
 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 | 2022-02-11 |  |
 | [Steam](https://open.spotify.com/track/6NZxPVrQaI1KofbYe9NBMr) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 3:23 | 2021-12-03 | 2022-08-27 |

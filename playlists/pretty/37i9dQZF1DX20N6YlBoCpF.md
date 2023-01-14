@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=\_C6sSLVRQEy7zkFbaZTbtg">JAN JAN JAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,091 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,163 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

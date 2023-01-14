@@ -2,9 +2,9 @@
 
 ### [Chill House 2023](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
+> Chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-326 songs - 18 hr 32 min
+327 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S) | 4:00 | 2021-07-24 |  |
 | [Maybe Monday](https://open.spotify.com/track/2ioYTBWUsmd4IvPaTBMr77) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Maybe Monday](https://open.spotify.com/album/3nMnvRbwi4JPencnu4f32D) | 5:25 | 2020-09-13\* | 2021-03-06 |
 | [Mean to Me](https://open.spotify.com/track/4b3DcCqrtubEnebf4lV7JD) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mean to Me](https://open.spotify.com/album/4vHkc4ynf5dGAk8HBWPp7q) | 3:34 | 2021-04-16 |  |
+| [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 | 2023-01-13 |  |
 | [Missing You](https://open.spotify.com/track/4EeeRPXUAUQHkBxu3g1LxT) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Missing You](https://open.spotify.com/album/0xgsaF0tKFiACQO7xr86Vd) | 3:27 | 2021-10-16 | 2021-12-04 |
 | [Missing You](https://open.spotify.com/track/6KSo1lI5GUtlvksaDWM7ZO) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Missing You](https://open.spotify.com/album/71EAlAtXWnvR0bFAZE2Lv2) | 3:27 | 2020-09-13\* | 2021-08-14 |
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2021-12-17 | 2022-07-23 |

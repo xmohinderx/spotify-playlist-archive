@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-168 songs - 10 hr 38 min
+170 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy) | 3:45 | 2022-09-09 |  |
 | [Joy In The Morning](https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:36 | 2022-06-10 |  |
 | [Jump \- Neon Feather Remix](https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [JUMP \(Neon Feather Remix\)](https://open.spotify.com/album/5fn3S9SYdWym1nn3Y77vvC) | 3:36 | 2022-03-18 |  |
+| [Just Like Jesus](https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Just Like Jesus](https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0) | 9:43 | 2023-01-13 |  |
 | [Keep On Hoping](https://open.spotify.com/track/67Ggy7CFJGAaeFVXoZkVAE) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/7xSiollUHf1V98ulBd5Zzn) | 3:27 | 2022-02-17 | 2022-08-27 |
 | [Lay My Life Down](https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX) | [LUMINS](https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC), [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Vol 1](https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI) | 4:10 | 2022-02-17 | 2022-08-27 |
 | [Left It In The Water \- Edit](https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Left It In The Water](https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM) | 3:34 | 2022-07-29 |  |
@@ -128,6 +129,7 @@
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-02-17 |  |
 | [Rejoice](https://open.spotify.com/track/7tyPrq1HOd2wNG0Ga6H1JW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/5gYXqVgY9nDZQUKI6g9FiZ) | 3:47 | 2022-09-23 |  |
 | [Rise](https://open.spotify.com/track/4zwNcBy4PfmeE1x6AMi4gF) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Rise](https://open.spotify.com/album/4KQQU41Z2YuBvDqZZJ8NHr) | 2:56 | 2022-02-17 | 2022-08-27 |
+| [Rollin'](https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:18 | 2023-01-13 |  |
 | [Roses](https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Roses](https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF) | 3:11 | 2022-02-17 | 2022-08-27 |
 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 | 2022-07-01 |  |
 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 | 2022-02-17 | 2022-08-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Foto: Duki",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Ozuna y YOVNGCHIMI plantando cara.",
   "name": "FRONTEO",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 207749,
       "name": "Gran Vida",
       "url": "https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox"
@@ -1108,6 +1108,28 @@
       "duration_ms": 318839,
       "name": "Puesto pal' Mill\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1csGDtYYiqJmQi2E8ZYl6O"
+    },
+    {
+      "album": {
+        "name": "Quien Va a Frontiar",
+        "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Quien Va a Frontiar",
+      "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-264 songs - 16 hr 37 min
+266 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Mockingbird](https://open.spotify.com/track/6NXWl8y3sGXZduzeNqhGp6) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Mockingbird](https://open.spotify.com/album/6wtlrcgFPJd6axKzjPPZe2) | 3:19 | 2021-12-17 |  |
 | [My Babe](https://open.spotify.com/track/30jQJuhVI8riaN1K3TEwFA) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/7b81vGpyRoiuYEs56zPnUr) | 2:18 | 2021-12-17 | 2022-07-29 |
 | [My Babe](https://open.spotify.com/track/5skNyajERDfPHvKNdzSpRU) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/4bdKuZONP3UEQuLAHvmlTP) | 2:18 | 2022-07-22 |  |
+| [Nashville Money](https://open.spotify.com/track/36XYWC37Rai5NjYNP8OHfD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Factories, Farms & Amphetamines](https://open.spotify.com/album/3ZUO4WvP0zVHg0vdchYGTr) | 3:33 | 2023-01-13 |  |
 | [Native Son](https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 3:10 | 2021-12-17 | 2022-03-12 |
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 |  |
 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 | 2021-12-17 |  |
@@ -180,6 +181,7 @@
 | [Prophet Story](https://open.spotify.com/track/24f2KKU4S1JyRXjfqodERA) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Prophet Story](https://open.spotify.com/album/13FFQRmPjYcwHJlltZLNSu) | 3:38 | 2022-07-22 |  |
 | [Prophet Story](https://open.spotify.com/track/5NN2OOlvy4IJB6YJyWXIgU) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Prophet Story](https://open.spotify.com/album/7LFwWqUxrX7C1c2544tnbN) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [Rattlesnake Shakin’ Woman](https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Co\-Starring](https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET) | 4:31 | 2021-12-17 |  |
+| [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 |  |
 | [Red Handed](https://open.spotify.com/track/0CorZ1cOjVO4ZKq4vFT83Q) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/4WeEPXfX65iED2fxfRGxeZ) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Red Handed](https://open.spotify.com/track/1D0czkpQYtcUMS9E7VTnAc) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 2:42 | 2022-07-22 |  |
 | [Ride On / Right On](https://open.spotify.com/track/47UiG7oQsHiyu5UYu0nled) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/1UOsSIa6LomFrd5Mcc7F7r) | 3:44 | 2022-09-30 | 2022-11-13 |

@@ -2,13 +2,14 @@
 
 ### [feedBack](https://open.spotify.com/playlist/37i9dQZF1DXbmErmrio5En)
 
-> saturation, distortion, overdrive, feedBack\. Cover: brakence
+> saturation, distortion, overdrive, feedBack\. Cover: poptropicaslutz!
 
-65 songs - 2 hr 51 min
+70 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 peaceful ways to die](https://open.spotify.com/track/3avoIxhqn6tfNWGUJZq8U1) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [jet set stunner](https://open.spotify.com/album/6jVOwyiGTkoQZfdONNRz6U) | 2:23 | 2022-12-04 |  |
+| [50/50](https://open.spotify.com/track/6eS4jqni6XJyS0ltp1Umlc) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [50/50](https://open.spotify.com/album/20ro3WFXJdS2rkF7kZ0CwY) | 2:48 | 2023-01-13 |  |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-04 |  |
 | [Alive](https://open.spotify.com/track/27XTTUlL99G8lcfuaetPij) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT), [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Alive](https://open.spotify.com/album/2udKLu1JEzjTssCifkxxRJ) | 2:21 | 2022-12-16 |  |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-04 |  |
@@ -18,6 +19,7 @@
 | [Bloodshot](https://open.spotify.com/track/6bMmTX6kZkCatybG4ZvYB1) | [Bad Mustache](https://open.spotify.com/artist/1n9tiAnBj5vzukpcEOaZzE) | [Bloodshot](https://open.spotify.com/album/4J9gyTFX77422CnsEpv7jG) | 2:31 | 2022-12-04 |  |
 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-12-04 |  |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2022-12-04 |  |
+| [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 |  |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-12-04 |  |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-12-04 |  |
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-12-04 |  |
@@ -25,10 +27,10 @@
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2022-12-16 |  |
 | [Do U Wanna Stay?](https://open.spotify.com/track/1uyNFMBOQXx6laYMtiZG61) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Do U Wanna Stay?](https://open.spotify.com/album/1p1l2zqAcZXdW4sKyktF2N) | 2:30 | 2022-12-04 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-12-04 |  |
-| [Doubt Me \(with aldn\)](https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Doubt Me \(with aldn\)](https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt) | 1:51 | 2022-12-09 |  |
+| [Doubt Me \(with aldn\)](https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Doubt Me \(with aldn\)](https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt) | 1:51 | 2022-12-09 | 2023-01-14 |
 | [Fingers](https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P) | [Patrick O'neill](https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX) | [Fingers](https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO) | 2:56 | 2023-01-05 |  |
 | [Fitness](https://open.spotify.com/track/6QcUUlAgee7GsQCWMl8dIs) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Snooper](https://open.spotify.com/album/55n75LXuj6zDIZoBM3fBUs) | 1:31 | 2022-12-04 |  |
-| [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2022-12-04 |  |
+| [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2022-12-04 | 2023-01-14 |
 | [Go!](https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [SID THE KID](https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV) | 2:43 | 2022-12-04 |  |
 | [harder than it looks softer than youd think](https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [harder than it looks softer than youd think](https://open.spotify.com/album/13sdluulDSOsUuL1DgXOR6) | 2:40 | 2023-01-06 |  |
 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 |  |
@@ -37,7 +39,7 @@
 | [ihatefeelingthisway](https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [ihatefeelingthisway](https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen) | 3:43 | 2022-12-09 |  |
 | [Internet Girl](https://open.spotify.com/track/3Qo8zqhdyVxacgVJGIQF4u) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Internet Girl](https://open.spotify.com/album/6a48qrtBppd0YVIZpEntaH) | 2:19 | 2022-12-04 |  |
 | [jealousy](https://open.spotify.com/track/1moK2L5Y2bftYzpGrcOU5X) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [jealousy](https://open.spotify.com/album/4RUrlqnlDk7HAQlruVR7SO) | 2:48 | 2022-12-09 |  |
-| [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 |  |
+| [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 | 2023-01-14 |
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 |  |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2022-12-04 |  |
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2022-12-04 |  |
@@ -53,7 +55,9 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 |  |
 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 | 2022-12-04 |  |
 | [SET YOU FREE](https://open.spotify.com/track/6dU35fmLnM6yB8tCySkvwC) | [chase plato](https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg) | [SET YOU FREE](https://open.spotify.com/album/44dlMu3kxAHKgQYxdqeZVQ) | 2:25 | 2022-12-04 |  |
+| [Shadows](https://open.spotify.com/track/7iI6aH46uqvW09y78sq23O) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Shadows](https://open.spotify.com/album/3X1ybNkRWynmnL3SikiTJL) | 3:07 | 2023-01-13 |  |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-12-04 |  |
+| [Sierra Echo X\-Ray](https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Sierra Echo X\-Ray](https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ) | 2:12 | 2023-01-13 |  |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-12-04 |  |
 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-09 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-04 |  |
@@ -61,6 +65,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-04 | 2022-12-25 |
 | [spotlight](https://open.spotify.com/track/5rHWZGatLsEldO8XFSwPX8) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/6py2UNIgqsWcrxMrJ2RYoq) | 2:56 | 2022-12-04 |  |
 | [spotlight](https://open.spotify.com/track/6tq52AOqtrdflzU4SA4SHc) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/3fYonFGxkLex2Y1Aif6YLP) | 2:58 | 2022-12-04 | 2023-01-12 |
+| [starfruit](https://open.spotify.com/track/3k1pThlE9Yb7JNy32drS6Q) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [starfruit](https://open.spotify.com/album/5AoomEUsHEC37DDjCJvAQu) | 3:21 | 2023-01-13 |  |
 | [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 | 2022-12-04 | 2022-12-07 |
 | [sydney](https://open.spotify.com/track/6c7BepOWSpr5gL44cLKXRW) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sydney](https://open.spotify.com/album/4gL0GCWQjkf2kaiMais7At) | 2:23 | 2022-12-04 | 2022-12-10 |
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-12-04 |  |

@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-98 songs - 6 hr 0 min
+99 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-08 |  |
 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 | 2021-07-26 |  |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-07-26 | 2022-10-15 |
+| [What U Want](https://open.spotify.com/track/3AeYrDBrSlVJtDyxhiZMpg) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [What U Want](https://open.spotify.com/album/16l9UyWdSuNBbbaca9nPA9) | 3:40 | 2023-01-13 |  |
 | [Why Do I Do \(La Felix Remix\) \[feat\. Jason Gaffner\]](https://open.spotify.com/track/2sUKbuWG7ueFa93Sti3Svr) | [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF), [Jason Gaffner](https://open.spotify.com/artist/6neAZyHgBG8SyAaIdLpRBe) | [Why Do I Do \(The Remixes\)](https://open.spotify.com/album/0JASYasDsRGpNVcKfKNop5) | 3:52 | 2021-07-26 |  |
 | [your only](https://open.spotify.com/track/2urUyLEw87dTDkTi2nd1O4) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [I Don't Love You, and Other Lies](https://open.spotify.com/album/7C4MqDBPoCkuyiFtKJNaYr) | 3:04 | 2022-09-23 |  |
 | [Your Touch](https://open.spotify.com/track/5lMJEmLGzqbdFuOaonB0eO) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4Yg2SUfnqsTc37ip0njWfH) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:48 | 2021-07-26 |  |

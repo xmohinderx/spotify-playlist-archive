@@ -1,12 +1,12 @@
 {
-  "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
-  "num_followers": 840000,
+  "description": "The pulse of new indie rock. Featuring new music by Royel Otis.",
+  "num_followers": 840227,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNDgyNywwMDAwMDAwMDMwOGEyNzcwODc1NmFlNjkyNTYxMzdiOWVmMTM2M2Nk",
+  "snapshot_id": "MTY3MzYxNTAxNSwwMDAwMDAwMDdkZjFiNzgzYjU0MDYyN2RiMGVlOGM3ZTQzM2UwZDJj",
   "tracks": [
     {
       "added_at": "2022-12-14 15:18:49",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
       "added_at": "2022-12-14 15:18:49",
       "album": {
         "name": "SPIT IN MY FACE!",
@@ -39,22 +55,6 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2022-12-16 04:00:00",
-      "album": {
-        "name": "WISH ME LUCK",
-        "url": "https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 203033,
-      "name": "WISH ME LUCK",
-      "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -81,20 +81,20 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
-      "added_at": "2022-12-14 15:18:49",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "rock candy",
-        "url": "https://open.spotify.com/album/16JCQMKg7SiMc2KMYRKEa9"
+        "name": "I Wanna Dance With You",
+        "url": "https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA"
       },
       "artists": [
         {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 144642,
-      "name": "feel good",
-      "url": "https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4"
+      "duration_ms": 174761,
+      "name": "I Wanna Dance With You",
+      "url": "https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -111,22 +111,6 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -161,6 +145,38 @@
       "url": "https://open.spotify.com/track/58U47mHjyLwUwJZ7voUt15"
     },
     {
+      "added_at": "2022-12-16 04:00:00",
+      "album": {
+        "name": "WISH ME LUCK",
+        "url": "https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 203033,
+      "name": "WISH ME LUCK",
+      "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fuck Tha World",
+        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Fuck Tha World",
+      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
+    },
+    {
       "added_at": "2022-12-14 15:18:49",
       "album": {
         "name": "Skinny Ape",
@@ -177,20 +193,36 @@
       "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
-      "added_at": "2022-12-16 04:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "PAINLESS",
-        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
         }
       ],
-      "duration_ms": 218640,
-      "name": "the dealer",
-      "url": "https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB"
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -207,6 +239,22 @@
       "duration_ms": 173576,
       "name": "Keep It Tucked",
       "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+    },
+    {
+      "added_at": "2022-12-14 15:21:35",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
     },
     {
       "added_at": "2022-12-14 15:21:35",
@@ -275,22 +323,6 @@
       "duration_ms": 164197,
       "name": "The Mannequin Song",
       "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
-    },
-    {
-      "added_at": "2022-12-14 15:21:35",
-      "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
     },
     {
       "added_at": "2022-12-14 15:21:35",
@@ -591,6 +623,22 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
+        "name": "rock candy",
+        "url": "https://open.spotify.com/album/16JCQMKg7SiMc2KMYRKEa9"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 144642,
+      "name": "feel good",
+      "url": "https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
         "name": "cough drops",
         "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
       },
@@ -655,22 +703,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 165445,
-      "name": "Belinda Says",
-      "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -715,6 +747,22 @@
       "duration_ms": 248243,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 165445,
+      "name": "Belinda Says",
+      "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -783,54 +831,6 @@
       "duration_ms": 251213,
       "name": "Expert In A Dying Field",
       "url": "https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ"
-    },
-    {
-      "added_at": "2022-12-16 04:00:00",
-      "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/5w2sFmpSZoeWlOtMYj3qUD"
-      },
-      "artists": [
-        {
-          "name": "the moss",
-          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
-        }
-      ],
-      "duration_ms": 265412,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/22rEAnPqaPscewQeBHVUX4"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Violent",
-        "url": "https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd"
-      },
-      "artists": [
-        {
-          "name": "benches",
-          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Violent",
-      "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     }
   ],
   "unique_name": "Today's Indie Rock",

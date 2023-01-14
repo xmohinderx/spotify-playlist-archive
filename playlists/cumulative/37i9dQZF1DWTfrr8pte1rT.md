@@ -2,7 +2,7 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop  Cover: Of Mice & Men \\m/
+> 
 
 262 songs - 15 hr 5 min
 

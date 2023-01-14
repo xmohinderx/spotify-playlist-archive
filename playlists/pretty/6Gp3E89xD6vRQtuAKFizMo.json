@@ -1,18 +1,18 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44396,
+  "num_followers": 44397,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjAzNyw5ZGU3ZGM0M2Q0ZjY2Yjg3NTI0NmIxNmI1MDdjMDFhOTBiMjJjNDQ1",
+  "snapshot_id": "NjA0OCw4NmEyOGY2NjA2OGYwZjk2MmE3MDRjNzk5NWJlN2VkYzJmYzU3Yzcx",
   "tracks": [
     {
-      "added_at": "2023-01-04 01:54:37",
+      "added_at": "2023-01-13 19:15:56",
       "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
+        "name": "Phat Brahms (Coone Remix 2.0)",
+        "url": "https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw"
       },
       "artists": [
         {
@@ -20,21 +20,33 @@
           "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
         },
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "Angger Dimas",
+          "url": "https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ"
         },
         {
-          "name": "Jaxx & Vega",
-          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
-        },
-        {
-          "name": "The Black & White Brothers",
-          "url": "https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         }
       ],
-      "duration_ms": 167460,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
+      "duration_ms": 179673,
+      "name": "Phat Brahms - Coone Remix 2.0",
+      "url": "https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY"
+    },
+    {
+      "added_at": "2023-01-13 19:15:30",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 128507,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn"
     },
     {
       "added_at": "2023-01-04 01:54:37",
@@ -55,6 +67,30 @@
       "duration_ms": 157440,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
+    },
+    {
+      "added_at": "2023-01-13 19:16:35",
+      "album": {
+        "name": "Vamos a Beber (Sak Noel Remix)",
+        "url": "https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Vamos a Beber - Sak Noel Remix",
+      "url": "https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew"
     },
     {
       "added_at": "2023-01-04 01:54:37",
@@ -303,6 +339,34 @@
       "duration_ms": 146313,
       "name": "Guaracha En Reggaetonlandia",
       "url": "https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN"
+    },
+    {
+      "added_at": "2023-01-04 01:54:37",
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "The Black & White Brothers",
+          "url": "https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv"
+        }
+      ],
+      "duration_ms": 167460,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
     },
     {
       "added_at": "2023-01-04 01:54:37",
@@ -579,30 +643,6 @@
     {
       "added_at": "2023-01-04 01:54:37",
       "album": {
-        "name": "Blow The Socket",
-        "url": "https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "PAV4N",
-          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
-        }
-      ],
-      "duration_ms": 192068,
-      "name": "Blow The Socket",
-      "url": "https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW"
-    },
-    {
-      "added_at": "2023-01-04 01:54:37",
-      "album": {
         "name": "Mawlee (feat. Young Buck & DJ Afterthought) [RIOT TEN VIP Mix]",
         "url": "https://open.spotify.com/album/307ezARBk8h7JbrIPvMeSu"
       },
@@ -755,34 +795,6 @@
     {
       "added_at": "2023-01-04 01:54:37",
       "album": {
-        "name": "Villainy (feat. Gold & Mikey Rotten)",
-        "url": "https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Dr. Ozi",
-          "url": "https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF"
-        },
-        {
-          "name": "Gold",
-          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
-        },
-        {
-          "name": "Mikey Rotten",
-          "url": "https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Villainy (feat. Gold & Mikey Rotten)",
-      "url": "https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq"
-    },
-    {
-      "added_at": "2023-01-04 01:54:37",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi"
       },
@@ -919,26 +931,6 @@
       "duration_ms": 191040,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd"
-    },
-    {
-      "added_at": "2023-01-04 01:54:37",
-      "album": {
-        "name": "Toxic Rain (prod. David Mugratsch)",
-        "url": "https://open.spotify.com/album/5ijTP9RBfREShGfAQ90rrP"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        },
-        {
-          "name": "David Mugratsch",
-          "url": "https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud"
-        }
-      ],
-      "duration_ms": 147540,
-      "name": "Toxic Rain (prod. David Mugratsch)",
-      "url": "https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf"
     },
     {
       "added_at": "2023-01-04 01:54:37",

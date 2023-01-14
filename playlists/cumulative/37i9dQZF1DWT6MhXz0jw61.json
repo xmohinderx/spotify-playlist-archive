@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 183013,
       "name": "Clip In A Tray (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/1Bs02vi750lAWnoGquizgR"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 233749,
       "name": "Concr\u00e8te",
       "url": "https://open.spotify.com/track/0VjqiuApwZBFlxuDnaSDi2"
@@ -3609,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "How It Coulda Been / My Life",
+        "url": "https://open.spotify.com/album/6GZADmuCmkkVvePPhiXC2o"
+      },
+      "artists": [
+        {
+          "name": "Brody Brown",
+          "url": "https://open.spotify.com/artist/0aXiHgA8ucn4HJsLiCYvdW"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "How It Coulda Been",
+      "url": "https://open.spotify.com/track/5iir1RuW27NUtFEH2Zyfd2"
+    },
+    {
+      "album": {
         "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
         "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
       },
@@ -4592,7 +4610,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 193002,
       "name": "Long Nights",
       "url": "https://open.spotify.com/track/21cLeVF4GFixTzhltdCNqr"
@@ -5176,6 +5194,24 @@
       "duration_ms": 174482,
       "name": "No More",
       "url": "https://open.spotify.com/track/3X1ItZhwFtmzGMBgw1HJfa"
+    },
+    {
+      "album": {
+        "name": "Angels Never Die",
+        "url": "https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359948,
+      "name": "No One Ever Really Dies",
+      "url": "https://open.spotify.com/track/1sOGmmt30gfnbXPIDVxBXw"
     },
     {
       "album": {
@@ -7282,6 +7318,24 @@
       "duration_ms": 225354,
       "name": "TIME TRAVEL",
       "url": "https://open.spotify.com/track/57eTgaHOhQZ0lENstGb6XS"
+    },
+    {
+      "album": {
+        "name": "Titanium Clocks",
+        "url": "https://open.spotify.com/album/2omaEXmwl64n0DxzpBycU2"
+      },
+      "artists": [
+        {
+          "name": "Bishop Nehru",
+          "url": "https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191033,
+      "name": "Titanium Clocks",
+      "url": "https://open.spotify.com/track/2cJFtZXzVdNnHKFXwocUxK"
     },
     {
       "album": {

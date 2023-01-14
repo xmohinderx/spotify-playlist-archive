@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,397 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,980 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 79 | [Haar over Hamnavoe \- Bill Ryder\-Jones Rework](https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Haar over Hamnavoe \(Bill Ryder\-Jones Rework\)](https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb) | 3:53 |
 | 80 | [Corn](https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 4:04 |
 
-Snapshot ID: `MTY2OTk1MzYwMCwwMDAwMDAwMDMwM2E1ZDdmMTczYjc4N2E5Nzc1ZWNhNjZiZWM0NWYw`
+Snapshot ID: `MTY3MzU4MjQwMCwwMDAwMDAwMGNjZTEzNDdhZTU0ZTE4MzkyNDI2ZTVmZTY1NTlkOGNm`

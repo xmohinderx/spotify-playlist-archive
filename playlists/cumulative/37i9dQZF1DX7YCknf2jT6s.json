@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Esperanza Spalding & Fred Hersch",
+  "description": "New jazz for open minds. Cover: Braxton Cook",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -979,6 +979,40 @@
     },
     {
       "album": {
+        "name": "Arun",
+        "url": "https://open.spotify.com/album/2x9nQNLI58KeeVcLdtCdgu"
+      },
+      "artists": [
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        },
+        {
+          "name": "Enzo Zirilli's Zirobop",
+          "url": "https://open.spotify.com/artist/0PTZsUuYBFF3rHkEbuaDWK"
+        },
+        {
+          "name": "Rob Luft",
+          "url": "https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL"
+        },
+        {
+          "name": "Alessandro Chiappetta",
+          "url": "https://open.spotify.com/artist/5h0FBL6UgiDabnbpVQaWXv"
+        },
+        {
+          "name": "Misha Mullov-Abbado",
+          "url": "https://open.spotify.com/artist/3OSYVINCz3vaPYV4DhvSS7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328813,
+      "name": "Arun",
+      "url": "https://open.spotify.com/track/06rW0g1K3mq53QUpWCTEu7"
+    },
+    {
+      "album": {
         "name": "As It Should Be",
         "url": "https://open.spotify.com/album/70B5xvnipc46en3uEU5hBf"
       },
@@ -1054,7 +1088,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 202019,
       "name": "Astagjol",
       "url": "https://open.spotify.com/track/1gOhMwo22VlzROpoGZLmTW"
@@ -2110,7 +2144,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 175156,
       "name": "Cat\u00e1 Surf",
       "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
@@ -2212,7 +2246,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 259013,
       "name": "Chavez",
       "url": "https://open.spotify.com/track/0WWAz4f7p3q8ylSvt4hvVg"
@@ -2741,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Dark Moon",
+        "url": "https://open.spotify.com/album/1SIZXdEQ2s4sGjSMuOv69w"
+      },
+      "artists": [
+        {
+          "name": "Okonski",
+          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184573,
+      "name": "Dark Moon",
+      "url": "https://open.spotify.com/track/3klFPhvOTgZpxHDk8ewWLK"
+    },
+    {
+      "album": {
         "name": "Darth",
         "url": "https://open.spotify.com/album/61HXa5FdwfW5AuHUZdlbQH"
       },
@@ -3192,7 +3244,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 169367,
       "name": "Dora\u2019s Lullaby",
       "url": "https://open.spotify.com/track/4ZZGMSB78HzfOLTVQL61ht"
@@ -4058,7 +4110,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 261519,
       "name": "Finding Light",
       "url": "https://open.spotify.com/track/3MGg7Spc0VFKuvdnUG5oYm"
@@ -4869,6 +4921,28 @@
     },
     {
       "album": {
+        "name": "Head Bedlam",
+        "url": "https://open.spotify.com/album/45AgFseQK0O2qJBtMxPaI8"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "New Jawn",
+          "url": "https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347153,
+      "name": "Head Bedlam",
+      "url": "https://open.spotify.com/track/4LleK0NHwlFzfteTE5TwyL"
+    },
+    {
+      "album": {
         "name": "Head in the Clouds",
         "url": "https://open.spotify.com/album/5s57FHV8CsfmgUmpMzsoe3"
       },
@@ -4940,6 +5014,52 @@
       "duration_ms": 366236,
       "name": "Heather Grey (BK Gritty)",
       "url": "https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ"
+    },
+    {
+      "album": {
+        "name": "Herbie's Dance",
+        "url": "https://open.spotify.com/album/1clnxwZjzbtYExWQXrdBhR"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        },
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        },
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        },
+        {
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        },
+        {
+          "name": "Adriano Dos Santos Tenorio",
+          "url": "https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292498,
+      "name": "Herbie\u2019s Dance",
+      "url": "https://open.spotify.com/track/7hesAzyUW6ObSHGqX2NUbx"
     },
     {
       "album": {
@@ -5098,7 +5218,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 190000,
       "name": "Hope Song",
       "url": "https://open.spotify.com/track/6nbyjZpxwSaMZ7upC3mvXz"
@@ -5308,6 +5428,24 @@
       "duration_ms": 319306,
       "name": "Hyperballad",
       "url": "https://open.spotify.com/track/3OUalNLrR3lz4efP2XudHy"
+    },
+    {
+      "album": {
+        "name": "I Am The Walrus",
+        "url": "https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254573,
+      "name": "I Am The Walrus",
+      "url": "https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg"
     },
     {
       "album": {
@@ -5752,6 +5890,24 @@
       "duration_ms": 303719,
       "name": "Incantation",
       "url": "https://open.spotify.com/track/1WahURQKRJs4ZNzvxOUahp"
+    },
+    {
+      "album": {
+        "name": "Indie",
+        "url": "https://open.spotify.com/album/5tsxe4SdRlJmY4MMtib0sH"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334023,
+      "name": "Indie",
+      "url": "https://open.spotify.com/track/10aQsPXwEjVk2XpLKdYiSm"
     },
     {
       "album": {
@@ -6288,7 +6444,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 282250,
       "name": "Kantine",
       "url": "https://open.spotify.com/track/5OaD0R2xpY3dheQ3s2JXCF"
@@ -6492,6 +6648,24 @@
       "duration_ms": 471867,
       "name": "Kuti",
       "url": "https://open.spotify.com/track/57i1ED22zmDO9IuOxDlbir"
+    },
+    {
+      "album": {
+        "name": "Lady (Ezra Collective Version)",
+        "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347266,
+      "name": "Lady (Ezra Collective Version)",
+      "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
     },
     {
       "album": {
@@ -8875,6 +9049,24 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/31dVWeU7ZyIezMhWU1dNWc"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5zDaw3oBx3e5dCnpyt7NEW"
+    },
+    {
+      "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/1J9ELecYoqJNa7d1igb18F"
       },
@@ -9297,6 +9489,24 @@
     },
     {
       "album": {
+        "name": "The Universe's Wildest Dream",
+        "url": "https://open.spotify.com/album/3RFuCchvYLP3Uo07rpOaJg"
+      },
+      "artists": [
+        {
+          "name": "Marcus Strickland Twi-Life",
+          "url": "https://open.spotify.com/artist/3r1zgybXPtRemw0HPrDU7l"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137604,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/5RHmz0q5QHyK26kpZqqG0E"
+    },
+    {
+      "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/6in6NX24NlcqF94z8lpyfj"
       },
@@ -9350,6 +9560,32 @@
       "duration_ms": 312920,
       "name": "Prima Materia",
       "url": "https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6"
+    },
+    {
+      "album": {
+        "name": "Prime (feat. Jared Gold & McClenty Hunter Jr.)",
+        "url": "https://open.spotify.com/album/6CrbZ4XivHTUY5jCeSYApo"
+      },
+      "artists": [
+        {
+          "name": "Dave Stryker",
+          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
+        },
+        {
+          "name": "Jared Gold",
+          "url": "https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW"
+        },
+        {
+          "name": "McClenty Hunter Jr.",
+          "url": "https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384685,
+      "name": "Prime (feat. Jared Gold & McClenty Hunter Jr.)",
+      "url": "https://open.spotify.com/track/15zayq9UsbCv3mu4mf1xSC"
     },
     {
       "album": {
@@ -9548,7 +9784,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 284421,
       "name": "Quanno chiove",
       "url": "https://open.spotify.com/track/46vefwWRRLijm8xNYrGUVH"
@@ -9756,7 +9992,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 446960,
       "name": "Reload",
       "url": "https://open.spotify.com/track/2t6CjjlQr9rBrXUiZgDR5M"
@@ -10330,6 +10566,24 @@
       "duration_ms": 425850,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/24Ojhb1QZqe5OlxwPXb56q"
+    },
+    {
+      "album": {
+        "name": "Send Seraphic Beings",
+        "url": "https://open.spotify.com/album/365vcJWgtPlXjQO25YPktx"
+      },
+      "artists": [
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224431,
+      "name": "Send Seraphic Beings",
+      "url": "https://open.spotify.com/track/3WgK48y9J8qBIgnwdQvfVg"
     },
     {
       "album": {
@@ -11476,7 +11730,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 121851,
       "name": "Sunday Brunch",
       "url": "https://open.spotify.com/track/0yn5ghpJaaPd4eLSEyVpjp"
@@ -11880,7 +12134,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 211433,
       "name": "Tell Me Again",
       "url": "https://open.spotify.com/track/2xIEpgK13ZMbpbPKzhPc2m"
@@ -12596,7 +12850,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 339781,
       "name": "The Path of Most Resistance",
       "url": "https://open.spotify.com/track/65qXRjqb5xYRIr5AcSeFPm"
@@ -12614,7 +12868,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 342946,
       "name": "The Pioneers",
       "url": "https://open.spotify.com/track/6aUm3x3eDyWWi7vn4stopF"
@@ -13911,6 +14165,24 @@
     },
     {
       "album": {
+        "name": "water of goddess",
+        "url": "https://open.spotify.com/album/6xN8qW4onF9aYvqZTx2XDt"
+      },
+      "artists": [
+        {
+          "name": "PIANO SHIFT",
+          "url": "https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "water of goddess",
+      "url": "https://open.spotify.com/track/6yoA5AMvxjNd1RoykmbnAZ"
+    },
+    {
+      "album": {
         "name": "Water's Edge",
         "url": "https://open.spotify.com/album/4U3amPY89pSYpLdrd8lt64"
       },
@@ -14642,6 +14914,28 @@
       "duration_ms": 319000,
       "name": "\u304a\u3060\u3084\u304b\u306b",
       "url": "https://open.spotify.com/track/2k9Q8xPZqPedHecwjOob6S"
+    },
+    {
+      "album": {
+        "name": "Egg On The Roof",
+        "url": "https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u66fd\u6839\u5553",
+          "url": "https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M"
+        },
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429063,
+      "name": "\u30a8\u30c3\u30b0\u30fb\u30aa\u30f3\u30fb\u30b6\u30fb\u30eb\u30fc\u30d5",
+      "url": "https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO"
     },
     {
       "album": {

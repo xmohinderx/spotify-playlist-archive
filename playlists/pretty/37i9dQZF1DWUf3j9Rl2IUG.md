@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=rywj2DAARMi5opK1c\-oHnQ"> Naira Marley </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,305 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,510 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

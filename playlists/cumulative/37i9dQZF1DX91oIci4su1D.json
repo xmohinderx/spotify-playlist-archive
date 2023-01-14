@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 241875,
       "name": "Angels Cry",
       "url": "https://open.spotify.com/track/0szWiIhbHMvlqnQQMgqa65"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 216780,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5tLtVHK1rTefQJi8o1OUUG"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 212741,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/3xYp6ZdiTc9CmUlbPadggJ"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 221552,
       "name": "Crank",
       "url": "https://open.spotify.com/track/1H5Iu1nBJZwVdDR0tSgpj9"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 230551,
       "name": "Down to Love",
       "url": "https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 212571,
       "name": "Euphony",
       "url": "https://open.spotify.com/track/1xMwnQa47BjvkaGGytoqJx"
@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Freak Of The Week",
+        "url": "https://open.spotify.com/album/6tMyIEtJXxEwcyn6lwRh7R"
+      },
+      "artists": [
+        {
+          "name": "Will Atkinson",
+          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204852,
+      "name": "Freak Of The Week",
+      "url": "https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW"
+    },
+    {
+      "album": {
         "name": "Free Souls",
         "url": "https://open.spotify.com/album/6b1TRUDeZcu9k6BGlf7xWt"
       },
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 228913,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1EJaXrMHJK1yYZ9P1NHRA6"
@@ -3690,7 +3708,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 205777,
       "name": "Give Your Heart a Home",
       "url": "https://open.spotify.com/track/2U2lu5JFLOVowAVWnv5Oa1"
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 227582,
       "name": "Glass Heart - Craig Connelly Remix",
       "url": "https://open.spotify.com/track/6qPrXR8hPLcfwTe7HEtnue"
@@ -4162,7 +4180,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 184804,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5Djd7ALGheKiGJdnlpQFdO"
@@ -4316,7 +4334,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 228043,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/0OR1XuIrLuCF52kDXdhMPf"
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 175999,
       "name": "Land of Mysteries",
       "url": "https://open.spotify.com/track/14ErKs35DymuSr3N7YX7Sj"
@@ -5396,7 +5414,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 160650,
       "name": "Live For Tonight - Scorz Remix",
       "url": "https://open.spotify.com/track/4RHFjle9srlZWXn7mjEpcj"
@@ -5432,7 +5450,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-08",
+      "date_removed": null,
       "duration_ms": 176129,
       "name": "Lone Wolf",
       "url": "https://open.spotify.com/track/2jbKdQmXdOg8CATVQfZYOR"
@@ -6456,7 +6474,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 230476,
       "name": "Never Cry Again",
       "url": "https://open.spotify.com/track/4EEBn0pbdBm3eUk5WEyizA"
@@ -6540,7 +6558,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 239062,
       "name": "Nezuko",
       "url": "https://open.spotify.com/track/1LJbqEICZeMOZ6OGjgeksi"
@@ -6668,7 +6686,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 223192,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/60VquI98FCkiZEd5pnK49W"
@@ -6994,7 +7012,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 249750,
       "name": "One Last Dance - Farius Remix",
       "url": "https://open.spotify.com/track/4RvECaSz84jyRFhOfXuahJ"
@@ -7284,7 +7302,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 211127,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/0BlAXvUWEmQhAZzHRE015V"
@@ -7564,7 +7582,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 263661,
       "name": "Quantum Eraser",
       "url": "https://open.spotify.com/track/4iBtkALF5a2yMOUOb0EhSi"
@@ -8296,7 +8314,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 246956,
       "name": "Seasons Will Change",
       "url": "https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1"
@@ -8568,7 +8586,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 227493,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"
@@ -8744,7 +8762,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 243763,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq"
@@ -9746,7 +9764,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 268571,
       "name": "The Purpose Is You",
       "url": "https://open.spotify.com/track/0A2CCIN1vmLwySJgmH8RXi"
@@ -9764,7 +9782,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "The Sermon",
       "url": "https://open.spotify.com/track/7LGzutkISUMIrN4txTvYkg"
@@ -9884,6 +9902,32 @@
       "duration_ms": 199687,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/4uUxMuipFKX8gq4me7pGty"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/1Wk9LOhvSz6RQ0Cq8pcnyW"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169788,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7HnozJfCXo4H21kZNRYv5V"
     },
     {
       "album": {
@@ -10202,7 +10246,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 178584,
       "name": "Velvet Morning 22",
       "url": "https://open.spotify.com/track/6WP0pXmMVycJwQk6L7xesG"
@@ -10220,7 +10264,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 205161,
       "name": "Villaneve",
       "url": "https://open.spotify.com/track/0cYjaUPIMjgBQOIJk2kZ4i"
@@ -10788,7 +10832,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 203142,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/2eKmjqBEYPdVkzyLHvPIIT"

@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-465 songs - 1 day 5 hr 42 min
+466 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 | 2022-09-27 | 2022-10-28 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 | 2022-07-06 |
 | [KAMIGAMI\-神噛\- \- TV edit](https://open.spotify.com/track/4SNhHffgdvKYyyGcbxqPZ1) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [KAMIGAMI\-神噛\- \(TV edit\)](https://open.spotify.com/album/6Met7PlW4vHDLB8lNqBvVf) | 1:33 | 2022-10-25 | 2022-11-23 |
+| [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 | 2023-01-12 |  |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 | 2022-11-14 |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2022-11-13 |  |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-09-27 | 2023-01-06 |
@@ -388,7 +389,7 @@
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-10-25 | 2022-12-24 |
 | [友情的行進](https://open.spotify.com/track/0VjvxavbMLReB2maDJwokt) | [ファンタスティック☆パイセン](https://open.spotify.com/artist/2VRte4lrD9hgjwg0js8r53) | [友情的行進](https://open.spotify.com/album/0yduV9d4GQsFrVg9pn7fY4) | 3:55 | 2022-09-29 | 2022-11-03 |
 | [可愛くなりたい](https://open.spotify.com/track/2gnAKLPBO3Z8Le28LR2wI6) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [瀬戸口雛（CV：麻倉もも）](https://open.spotify.com/artist/2YBlQwDHazL6jCrjIKgb1r) | [可愛くなりたい](https://open.spotify.com/album/29yNNZx29gnMcJaJZdYkLI) | 4:12 | 2022-05-28 | 2022-07-06 |
-| [叶える](https://open.spotify.com/track/7oHwqVKnYvnzNEXAgN4DZZ) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [叶える](https://open.spotify.com/album/0orb8MpHMhaVtaGg47vdgC) | 3:55 | 2023-01-12 |  |
+| [叶える](https://open.spotify.com/track/7oHwqVKnYvnzNEXAgN4DZZ) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [叶える](https://open.spotify.com/album/0orb8MpHMhaVtaGg47vdgC) | 3:55 | 2023-01-12 | 2023-01-14 |
 | [君の知らない物語 \- from CrosSing](https://open.spotify.com/track/3pSJglKtcxEpbmoVP3Q7jX) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [君の知らない物語 \- from CrosSing](https://open.spotify.com/album/3GTdxviF6BBIIF7VbRtDca) | 5:42 | 2022-05-31 | 2022-07-08 |
 | [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 | 2022-10-08 | 2023-01-13 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-28 | 2022-07-27 |

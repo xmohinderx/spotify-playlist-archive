@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/5Jpc8te4YQyzxpgfb3ZRl7"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Filipe Martins",
+          "url": "https://open.spotify.com/artist/3Y2RYm0nbrGZC7dzSeTtau"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181560,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/1UcENe6fEk2JiX49sAd5ba"
+    },
+    {
+      "album": {
         "name": "Glorificar Cristo, Edificar a Igreja",
         "url": "https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE"
       },
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 205479,
       "name": "Sempre Foi Deus",
       "url": "https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj"
@@ -1350,6 +1372,24 @@
       "duration_ms": 279510,
       "name": "Sobre as \u00c1guas",
       "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+    },
+    {
+      "album": {
+        "name": "Quarantine Session",
+        "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Socorre-Me",
+      "url": "https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i"
     },
     {
       "album": {
@@ -1470,7 +1510,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 216427,
       "name": "Tudo Muda Com Voc\u00ea",
       "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"

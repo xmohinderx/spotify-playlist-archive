@@ -1,13 +1,158 @@
 {
   "description": "Podcasts you need to have on your RADAR: Stories with Sapphire, Affirmations for Black Girls, and Girlish.",
-  "num_followers": 508,
+  "num_followers": 509,
   "original_name": "RADAR Podcasters US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "MTY1NjUyMDY4MCwwMDAwMDAwMGYwNDc0NWRmODVhMmY0YTMwZWI0NTQzZDJjYjFmYjZm",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2022-06-22 14:30:01",
+      "album": {
+        "name": "Stories with Sapphire",
+        "url": "https://open.spotify.com/show/3mag99EygwfUS7UZPdVOuq"
+      },
+      "artists": [
+        {
+          "name": "Stories with Sapphire",
+          "url": "https://open.spotify.com/show/3mag99EygwfUS7UZPdVOuq"
+        }
+      ],
+      "duration_ms": 2183929,
+      "name": "Tales From My Lolo",
+      "url": "https://open.spotify.com/episode/3BBIVKU3pc9oLUQ9tlVvyJ"
+    },
+    {
+      "added_at": "2022-06-22 14:30:01",
+      "album": {
+        "name": "Affirmations for Black Girls",
+        "url": "https://open.spotify.com/show/67ZwH12NhyNAjwsPz6QXNG"
+      },
+      "artists": [
+        {
+          "name": "Affirmations for Black Girls",
+          "url": "https://open.spotify.com/show/67ZwH12NhyNAjwsPz6QXNG"
+        }
+      ],
+      "duration_ms": 2703917,
+      "name": " 7 Words I've Redefined In My Life As A Black Woman Who Is Healing, Mindset Shifts & Best Practices For a Healthy Vocabulary in Daily Life",
+      "url": "https://open.spotify.com/episode/3QXWQJ5hJ47b5AM42RMklc"
+    },
+    {
+      "added_at": "2022-06-22 14:30:01",
+      "album": {
+        "name": "Girlish",
+        "url": "https://open.spotify.com/show/6l8bcqH5BpC0Ih3s1o0yRD"
+      },
+      "artists": [
+        {
+          "name": "Girlish",
+          "url": "https://open.spotify.com/show/6l8bcqH5BpC0Ih3s1o0yRD"
+        }
+      ],
+      "duration_ms": 4168748,
+      "name": "Should My Work Know I'm Trans?",
+      "url": "https://open.spotify.com/episode/3bQzYjjrnX11PobxvMV14H"
+    },
+    {
+      "added_at": "2022-06-22 14:30:01",
+      "album": {
+        "name": "Stories with Sapphire",
+        "url": "https://open.spotify.com/show/3mag99EygwfUS7UZPdVOuq"
+      },
+      "artists": [
+        {
+          "name": "Stories with Sapphire",
+          "url": "https://open.spotify.com/show/3mag99EygwfUS7UZPdVOuq"
+        }
+      ],
+      "duration_ms": 1978270,
+      "name": "The Little Children Have A Message",
+      "url": "https://open.spotify.com/episode/5MvNJNvniSWxGPrwb6Gsvf"
+    },
+    {
+      "added_at": "2022-06-22 14:30:01",
+      "album": {
+        "name": "Affirmations for Black Girls",
+        "url": "https://open.spotify.com/show/67ZwH12NhyNAjwsPz6QXNG"
+      },
+      "artists": [
+        {
+          "name": "Affirmations for Black Girls",
+          "url": "https://open.spotify.com/show/67ZwH12NhyNAjwsPz6QXNG"
+        }
+      ],
+      "duration_ms": 2510564,
+      "name": "Unlearning Ways of Thinking & Being, Letting Go of 'Played Out' Childhood Beliefs and Retraining My Brain to Create Healthy Habits, Beliefs, and Rules for MY Life",
+      "url": "https://open.spotify.com/episode/21SMPL1ICPvxO3DcbMxWLI"
+    },
+    {
+      "added_at": "2022-06-28 21:35:39",
+      "album": {
+        "name": "Girlish",
+        "url": "https://open.spotify.com/show/6l8bcqH5BpC0Ih3s1o0yRD"
+      },
+      "artists": [
+        {
+          "name": "Girlish",
+          "url": "https://open.spotify.com/show/6l8bcqH5BpC0Ih3s1o0yRD"
+        }
+      ],
+      "duration_ms": 4490538,
+      "name": "Hunter Schafer Fights Against Transphobia",
+      "url": "https://open.spotify.com/episode/1V7SjdAtlo3AsejDB15HU1"
+    },
+    {
+      "added_at": "2022-06-22 14:30:01",
+      "album": {
+        "name": "Stories with Sapphire",
+        "url": "https://open.spotify.com/show/3mag99EygwfUS7UZPdVOuq"
+      },
+      "artists": [
+        {
+          "name": "Stories with Sapphire",
+          "url": "https://open.spotify.com/show/3mag99EygwfUS7UZPdVOuq"
+        }
+      ],
+      "duration_ms": 2127714,
+      "name": "Stories Revisited: The Dreams That Changed My Life",
+      "url": "https://open.spotify.com/episode/3bBGy9TDnCL1qz5AJzre1W"
+    },
+    {
+      "added_at": "2022-06-22 14:30:01",
+      "album": {
+        "name": "Affirmations for Black Girls",
+        "url": "https://open.spotify.com/show/67ZwH12NhyNAjwsPz6QXNG"
+      },
+      "artists": [
+        {
+          "name": "Affirmations for Black Girls",
+          "url": "https://open.spotify.com/show/67ZwH12NhyNAjwsPz6QXNG"
+        }
+      ],
+      "duration_ms": 1680242,
+      "name": "Finding Yourself In Spite of Age Related Pressures, Breaking Societal & Cultural Norms of What it Mean to Be a Woman, Accepting Where You Are in Your Journey",
+      "url": "https://open.spotify.com/episode/47fN16evZXrisXVeThtyyb"
+    },
+    {
+      "added_at": "2022-06-28 21:35:39",
+      "album": {
+        "name": "Girlish",
+        "url": "https://open.spotify.com/show/6l8bcqH5BpC0Ih3s1o0yRD"
+      },
+      "artists": [
+        {
+          "name": "Girlish",
+          "url": "https://open.spotify.com/show/6l8bcqH5BpC0Ih3s1o0yRD"
+        }
+      ],
+      "duration_ms": 2970791,
+      "name": "Dangers of Being Outed",
+      "url": "https://open.spotify.com/episode/2aa8O1Ivc1TAS4HMuOFK6l"
+    }
+  ],
   "unique_name": "RADAR Podcasters US",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSh772jdJpgb"
 }

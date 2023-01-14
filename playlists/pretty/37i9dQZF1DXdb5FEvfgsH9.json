@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 12679,
+  "num_followers": 12743,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGMwOWQ2MzlmYTM5YTQ0OTI5YTc1ZGFjZDk5ZGQ2ZGMy",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDhhYzRkNjYzOTNjZWM5YTFiMTdjN2E1ODEyOWZkYjE4",
   "tracks": [
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/16l9UyWdSuNBbbaca9nPA9"
+      },
+      "artists": [
+        {
+          "name": "Mofak",
+          "url": "https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV"
+        },
+        {
+          "name": "Sally Green",
+          "url": "https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs"
+        }
+      ],
+      "duration_ms": 220344,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/3AeYrDBrSlVJtDyxhiZMpg"
+    },
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {

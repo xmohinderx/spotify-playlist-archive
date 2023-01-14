@@ -2,7 +2,7 @@
 
 ### [History of Country Music](https://open.spotify.com/playlist/37i9dQZF1DXcYKwAtV4NDh)
 
-> A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
+> A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
 124 songs - 6 hr 17 min
 

@@ -680,7 +680,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 231480,
       "name": "Deva C",
       "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
@@ -1424,6 +1424,24 @@
       "duration_ms": 859600,
       "name": "Rosetti Noise/Chrystal Garden And A Coda",
       "url": "https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF"
+    },
+    {
+      "album": {
+        "name": "The Serpent (In Quicksilver)",
+        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122933,
+      "name": "Rub With Ashes",
+      "url": "https://open.spotify.com/track/6mGXWiXH310DHfcdyDNbC6"
     },
     {
       "album": {

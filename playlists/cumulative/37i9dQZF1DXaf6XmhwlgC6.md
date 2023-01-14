@@ -4,11 +4,11 @@
 
 > Music from the ether to focus to.
 
-135 songs - 7 hr 40 min
+138 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2022-03-30 |  |
+| [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2022-03-30 | 2023-01-14 |
 | [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 |  |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 | 2022-03-30 | 2022-07-29 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 |  |
@@ -32,6 +32,7 @@
 | [Diaphanous](https://open.spotify.com/track/7b343d6fzVQEfyWDZATJ0M) | [Doug Saint](https://open.spotify.com/artist/1apeSNQqrw18v2Z9U6hxmh) | [Into Oblivion](https://open.spotify.com/album/0oO89cVZdGhilcsQVpMt5x) | 4:41 | 2022-12-30 |  |
 | [Dreaming While Awake](https://open.spotify.com/track/1KVq03Ocupx3tRE18yZa5Q) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Dreaming While Awake](https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5) | 2:50 | 2022-11-11 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |
+| [dusk without you](https://open.spotify.com/track/6q4r9Eqv8G5Nz5Mi1jU8Yk) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [dusk without you EP](https://open.spotify.com/album/18NMn5a6IeQcBOFgzE3nWu) | 3:22 | 2023-01-13 |  |
 | [Echosphere](https://open.spotify.com/track/44Wfvp7nBgp3Epgx79wZ0F) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Echosphere](https://open.spotify.com/album/62iPtloH7ukCRgKhsPDpYX) | 2:41 | 2022-12-19 |  |
 | [Effortless](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Tony Iver](https://open.spotify.com/artist/33Y6lgwXmYok6gkTjnaYZ5) | [Effortless](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:29 | 2022-12-19 |  |
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
@@ -65,6 +66,7 @@
 | [lips list](https://open.spotify.com/track/632FOOc5n5wRJbBvqWliwT) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [lips list](https://open.spotify.com/album/3O4rUMESlirkPiWXU26MFO) | 3:12 | 2022-03-30 |  |
 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 | 2022-03-30 |  |
 | [Lost in Dreamland](https://open.spotify.com/track/5Ld0nTNShgRHfMC7iDyeTb) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Lost in Dreamland](https://open.spotify.com/album/7hUBfDIeGg5CRAQ0SdXtX1) | 3:09 | 2022-03-30 |  |
+| [lost in motions](https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lost in motions EP](https://open.spotify.com/album/6U4W3dHjwfEzX7XeSgnHLT) | 2:33 | 2023-01-13 |  |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6qxpNhGriflFhRzat7tAC5) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 5:42 | 2022-10-07 |  |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6r4AmkZbvhorcU7gxpev3z) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3OrrYv7sHlX3Azpvak9w6w) | 5:42 | 2022-03-30 | 2022-10-19 |
 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 | 2022-05-19 |  |
@@ -107,6 +109,7 @@
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
 | [Tailwind](https://open.spotify.com/track/6iayCFA7f9WPT1fFquReHx) | [Elena Aedile](https://open.spotify.com/artist/7wL3hF2m2FvX6LHb0REUMs) | [Morning Breeze](https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g) | 2:47 | 2022-03-30 |  |
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2022-03-30 |  |
+| [Tattersail](https://open.spotify.com/track/0IHbvuQpvJlWyaGmrTgFjB) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [There, Nearly](https://open.spotify.com/album/45A6tOKDWTOjmbfZzPEkCf) | 2:34 | 2023-01-13 |  |
 | [Taurus](https://open.spotify.com/track/0cZQXAwomBlCnuSvTCsKWn) | [Tolga Kahani](https://open.spotify.com/artist/2JwKOYKRy4sxxF8nkpA3ig) | [Taurus](https://open.spotify.com/album/7geRmxkwEeS7IvDLfebFOq) | 2:14 | 2022-03-30 |  |
 | [That Bird of Prey Casts a Long Shadow](https://open.spotify.com/track/0AOz0XTa8sCskJQlBtHfHG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 3:09 | 2022-09-14 |  |
 | [The Beauty Of Cold](https://open.spotify.com/track/1FD8sEUe8DLfMFZSjLrZaR) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [The Beauty Of Cold](https://open.spotify.com/album/4lBKbzCmFIoRTrCCUHCzrf) | 2:22 | 2022-11-11 |  |

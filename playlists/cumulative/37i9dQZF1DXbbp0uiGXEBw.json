@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Luna \u0110\u00e0o",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Ho\u00e0ng Th\u00f9y Linh",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "T\u1eadp 12: The Masked Singer Vietnam",
+        "url": "https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA"
+      },
+      "artists": [
+        {
+          "name": "Myra Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270643,
+      "name": "Anh Ch\u01b0a Th\u01b0\u01a1ng Em \u0110\u1ebfn V\u1eady \u0110\u00e2u",
+      "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
+    },
+    {
+      "album": {
         "name": "Anh \u01a0i \u1ede L\u1ea1i",
         "url": "https://open.spotify.com/album/0AvJduRQsFMQojtnsE2SfS"
       },
@@ -82,6 +100,24 @@
       "duration_ms": 233379,
       "name": "Black Hickey - Con D\u1ea5u Ch\u1ee7 Quy\u1ec1n",
       "url": "https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv"
+    },
+    {
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Bo X\u00ec Bo",
+      "url": "https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC"
     },
     {
       "album": {
@@ -1408,7 +1444,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 350611,
       "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
       "url": "https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ"
@@ -2236,7 +2272,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 252500,
       "name": "Y\u00eau Th\u1ea7m",
       "url": "https://open.spotify.com/track/2x4MvuyWB5uYhqlKuu7w7T"

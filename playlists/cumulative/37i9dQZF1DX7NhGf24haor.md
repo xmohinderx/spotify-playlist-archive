@@ -4,7 +4,7 @@
 
 > Discover the newest Hardstyle tracks\. Cover: D\-Sturb & Act of Rage & Nolz
 
-143 songs - 7 hr 45 min
+144 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Unleash The Night](https://open.spotify.com/track/53KVgenTd2gRIS6cAkYXaL) | [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB) | [Unleash The Night](https://open.spotify.com/album/01MH52rFgMfh5eTPi8PBuT) | 3:22 | 2022-12-15 |  |
 | [Unsung Heroes](https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Unsung Heroes](https://open.spotify.com/album/6aPa1pPSSyO6ZBUQenvJPJ) | 4:16 | 2022-12-15 |  |
 | [Until the Day I Die](https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Until the Day I Die](https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV) | 3:11 | 2022-12-08 | 2022-12-16 |
+| [Waste Your Youth](https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Waste Your Youth](https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V) | 2:44 | 2023-01-13 |  |
 | [Wasted](https://open.spotify.com/track/1PQI8kFnJDtth36Jb1Osf5) | [Cyndi](https://open.spotify.com/artist/6RlZmSFhYofrR4jSHcWubp), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Wasted](https://open.spotify.com/album/41VDmOZ7d9rl3dfhYeqqEH) | 3:26 | 2022-12-15 |  |
 | [We Love The Fire](https://open.spotify.com/track/2xTMYOkLCmAczuirRX1Gcx) | [Goof](https://open.spotify.com/artist/5TnlNpEc3Pgui1ijnzUTwJ), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf), [Andor van Reeven](https://open.spotify.com/artist/626ypG16zNr9L23IF8jmfW) | [We Love The Fire](https://open.spotify.com/album/4orMq6O1J43aRmLjs6rgeN) | 3:14 | 2022-12-22 |  |
 | [Weekend Party](https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Weekend Party](https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1) | 2:23 | 2022-12-08 |  |

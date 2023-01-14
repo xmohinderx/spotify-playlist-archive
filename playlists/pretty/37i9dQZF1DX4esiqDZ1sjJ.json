@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 322856,
+  "num_followers": 323289,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAzODczMiwwMDAwMDAwMGZlNzhjNjYwMmEwZTQ0MjU1YzAzMGZmZWFlZmI5YmU4",
+  "snapshot_id": "MTY3MDAzODczMiwwMDAwMDAwMDM3MTYzMTNjMDA5OGYzNDg3ZWQ1NGEzMjYzODRkYmFm",
   "tracks": [
     {
       "added_at": "2022-12-03 03:38:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
-    },
-    {
-      "added_at": "2022-12-03 03:38:52",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 232506,
       "name": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
       "url": "https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Every Six Seconds",
+        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Click Click Boom",
+      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
     }
   ],
   "unique_name": "Jock Jams",

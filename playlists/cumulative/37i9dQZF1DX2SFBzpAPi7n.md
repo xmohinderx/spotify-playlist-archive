@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Nell\(넬\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-436 songs - 1 day 2 hr 52 min
+439 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Song For You](https://open.spotify.com/track/3aaqNLus6XZVW2UtZzbLNl) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [GREEN MOTHERS' CLUB OST Part 5](https://open.spotify.com/album/79RNrjKKCwikaf8ask8mTY) | 3:32 | 2022-06-13 | 2022-07-09 |
 | [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-18 | 2022-07-02 |
 | [Addicted to TV](https://open.spotify.com/track/2OpUyPEh9mq0ZSrOMRIO7S) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [Addicted to TV](https://open.spotify.com/album/0tMersFXcFglAPfmHGiAug) | 3:44 | 2022-04-22 | 2022-07-27 |
-| [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-04-12 |  |
+| [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-04-12 | 2023-01-14 |
 | [Adrenaline \- Italian Version](https://open.spotify.com/track/20Fw8w7OnlLRAUMWBBXZHC) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [VINCENZO \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7ciMBSnUz17sJ8crca1tOD) | 3:27 | 2022-05-03 | 2022-05-10 |
 | [After the rain](https://open.spotify.com/track/7ixtNNaE45TecEqZtWbYRx) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [HOPE FOR THE FLOWER](https://open.spotify.com/album/4iY3YGIfLBlAz3NNwTmshr) | 4:42 | 2022-04-12 | 2022-04-22 |
 | [After Tonight](https://open.spotify.com/track/5KB3Qovr1wV5dapcWnnXDg) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [After Tonight](https://open.spotify.com/album/1Y0IXwWhiU2maaFcRyX7E5) | 4:25 | 2022-04-12 | 2022-07-27 |
@@ -92,7 +92,7 @@
 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-04-22 | 2022-07-22 |
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-24 | 2022-06-21 |
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
-| [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 |  |
+| [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-01-14 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
 | [Do You Need A Rockstar](https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Do You Need A Rockstar](https://open.spotify.com/album/4TMfhEcfhMRsFd3jHNlOIJ) | 3:13 | 2022-04-21 | 2022-04-24 |
 | [Doberman](https://open.spotify.com/track/64BzcskCExMQTFAcTubGv7) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Military Prosecutor Doberman, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0QP7DNMT3yVLOvbrTEndEl) | 3:07 | 2022-05-11 | 2022-05-25 |
@@ -198,6 +198,7 @@
 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 | 2022-04-12 | 2022-07-23 |
 | [LET'S DO](https://open.spotify.com/track/4Qw55P1sgRoSP1hx8pH9bv) | [Neul](https://open.spotify.com/artist/5rtRatj0wvn1xhL7WuFUJA) | [LET'S DO](https://open.spotify.com/album/46Q2Smvsfn2kUZ99muta0E) | 3:46 | 2022-04-22 | 2022-04-24 |
 | [Let's go home](https://open.spotify.com/track/7J00hW1bd6Zp3wykjQCP8M) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:45 | 2022-04-12 | 2022-07-21 |
+| [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/track/6k0ApE2WFw3nV1xQrtIZp1) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [Lilkey](https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4), [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR) | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/album/5Ixd8BpltXP3GiVjwu45KV) | 3:07 | 2023-01-14 |  |
 | [Letter](https://open.spotify.com/track/5eQpbcCvsnvmp58ph8mOa1) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [Letter](https://open.spotify.com/album/3JnckYCOtlr4EmxYoXA7um) | 3:51 | 2022-06-09 | 2022-06-14 |
 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 | 2023-01-07 |
 | [Let′s Get it](https://open.spotify.com/track/2w1jsbgkgR6aeg56H2AHSW) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Royal Secret Inspector and Joy, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4UXcY00wGw2ZHMHHXzmyRN) | 3:14 | 2022-04-21 | 2022-04-23 |
@@ -275,7 +276,7 @@
 | [PDSG](https://open.spotify.com/track/7h64srBKgw9bmocbk3EmGQ) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [PDSG](https://open.spotify.com/album/1Owmn3lrAQzRTMtnlNfhCd) | 4:03 | 2022-05-11 | 2022-06-26 |
 | [Pianissimo \- 2022 Remixed Remastered](https://open.spotify.com/track/4bukywaDtuziUGdNOeMK3o) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Rocksteric](https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ) | 3:49 | 2022-12-26 | 2023-01-03 |
 | [Pigeon 비둘기](https://open.spotify.com/track/33UpKCuBBaqJNkewD79QZN) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Pigeon 비둘기](https://open.spotify.com/album/5ohbhyXCdiKJ6ONWztPqy2) | 3:30 | 2022-04-22 | 2022-07-18 |
-| [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 |  |
+| [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 | 2023-01-14 |
 | [Pisces](https://open.spotify.com/track/7ix35I3PNAN63JeV7feOG9) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Pisces](https://open.spotify.com/album/2xX2M89Ep7wZGhExNjtMIK) | 3:47 | 2022-05-24 | 2022-07-29 |
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-17 | 2022-10-01 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-07-23 |
@@ -289,6 +290,7 @@
 | [RAIN STAR \*:・゚](https://open.spotify.com/track/5mY26LEMh6ImayiXo7KLQs) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [RAIN STAR](https://open.spotify.com/album/1YzGYed20Rhnid37X5Ejkl) | 3:07 | 2022-04-12 | 2022-07-28 |
 | [Raining stars](https://open.spotify.com/track/2voUndfedlslylT03gwHRP) | [Quinsha](https://open.spotify.com/artist/6AQMjoRG3y1h8aQAyNcd2A) | [Illusion](https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp) | 3:32 | 2022-05-11 | 2022-07-09 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2022-04-12 |  |
+| [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-14 |  |
 | [RED](https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl) | 2:56 | 2023-01-06 |  |
 | [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 | 2022-07-22 | 2023-01-05 |
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2022-04-12 | 2022-07-29 |
@@ -392,6 +394,7 @@
 | [Waiting For Your Calling Back](https://open.spotify.com/track/6GpyKE5T9si1V5QJMR6ra7) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Waiting For Your Calling Back](https://open.spotify.com/album/61E8qZbwN805gq18noEjFZ) | 3:58 | 2022-07-08 | 2022-07-10 |
 | [War](https://open.spotify.com/track/5TV2bxWF3YZsjMQk2vaULt) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [War](https://open.spotify.com/album/02JAq1LeSVB6WMqgctzmWB) | 4:46 | 2022-04-12 | 2022-07-28 |
 | [WatchOut](https://open.spotify.com/track/5KbCS44g1kvV6zVXe29NzQ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Chil](https://open.spotify.com/album/2RTfaQzsiBOgVb1WlUXlwM) | 2:57 | 2022-10-01 | 2022-10-19 |
+| [We are](https://open.spotify.com/track/7urVxZOTjXnk41uyX7kFOo) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Brain Cooperation \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/7kzPYujOxWaZhNnlKIS5LP) | 3:19 | 2023-01-14 |  |
 | [we are fine](https://open.spotify.com/track/4h4FflzmpQTIMZ062LpCqm) | [BLSG](https://open.spotify.com/artist/1a4wvAslylMTa4fafqPJFi) | [we are fine](https://open.spotify.com/album/6QBzIrib2DDrsMB3vQO6GO) | 3:27 | 2022-04-12 | 2022-04-21 |
 | [WE NEED LOVE](https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:15 | 2022-04-12 | 2022-07-27 |
 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 | 2022-08-18 | 2022-09-06 |

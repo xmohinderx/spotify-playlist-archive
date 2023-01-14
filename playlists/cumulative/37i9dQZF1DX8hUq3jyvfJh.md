@@ -4,7 +4,7 @@
 
 > Majur e mais mulheres para serem ouvidas no máximo volume.
 
-514 songs - 1 day 2 hr 58 min
+515 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [CHÁ DE MAÇÃ](https://open.spotify.com/track/0G5ivEEvVSHfmu0rdVoRk9) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [FLORA DE CONTROLE](https://open.spotify.com/album/4BGYI7zvyPcAkwG8e0agSz) | 3:09 | 2022-04-06 | 2022-12-01 |
 | [Cine Odeon](https://open.spotify.com/track/2lEG4uyo4h6GrVBKbaMles) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Iceberg](https://open.spotify.com/album/4iavGo8c8dGhBvbzCg6LBW) | 2:30 | 2023-01-04 |  |
 | [Clau](https://open.spotify.com/track/5rXImfTVWzTmfjfGnY9IWM) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 4:14 | 2022-02-03 | 2022-03-09 |
+| [Clima](https://open.spotify.com/track/4XSDJvys3RLKlvcIPiflyH) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Clima](https://open.spotify.com/album/7wGRF9bDQkQReBhrnx346G) | 3:36 | 2023-01-13 |  |
 | [cobra rasteira](https://open.spotify.com/track/6kQA1WzWswBfx9rTjC7M3N) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Trava Línguas](https://open.spotify.com/album/7MpgDfdAVvQjQ2pZ9NYvh6) | 3:01 | 2022-02-03 | 2022-03-09 |
 | [Codinome](https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Codinome](https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM) | 3:29 | 2022-03-08 | 2022-04-07 |
 | [Coisinha do Pai](https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 2:54 | 2022-09-01 | 2022-10-06 |
@@ -210,7 +211,7 @@
 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 | 2022-04-06 | 2022-05-05 |
 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 | 2022-11-30 | 2023-01-05 |
 | [Fulminante / Deixa Eu Te Querer / Eu Tenho Muito Mais / Mega Star / Tudo Fica Blue](https://open.spotify.com/track/2vwKr945eAMd8SmuWEfTvj) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Ana Clara](https://open.spotify.com/artist/0TtPqZpxJ9ui2gTjwgTOsr), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Por Elas](https://open.spotify.com/album/2eUtuvJIhYIYIRRGvDscfm) | 9:16 | 2022-09-01 | 2022-10-06 |
-| [Fumaça](https://open.spotify.com/track/0uzGe3jXGgTWYvUYl5Pi0t) | [Banda Gente](https://open.spotify.com/artist/0wcF6BFbERjJ5uplOMYtRL), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Fumaça](https://open.spotify.com/album/2cJHfdC2FNx1xkdwofJeB6) | 2:47 | 2023-01-04 |  |
+| [Fumaça](https://open.spotify.com/track/0uzGe3jXGgTWYvUYl5Pi0t) | [Banda Gente](https://open.spotify.com/artist/0wcF6BFbERjJ5uplOMYtRL), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Fumaça](https://open.spotify.com/album/2cJHfdC2FNx1xkdwofJeB6) | 2:47 | 2023-01-04 | 2023-01-14 |
 | [Futuros Amantes \- Ao Vivo](https://open.spotify.com/track/2LlNByvTRoHUqKRqQEo9dX) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Margem, Finda a Viagem \(Ao Vivo\)](https://open.spotify.com/album/158GxqvkGfunXxh6vS2P3g) | 5:08 | 2022-05-04 | 2022-06-01 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-07-06 |  |
 | [Gadinho de Faz Tempo](https://open.spotify.com/track/264ITABDBISQNvXeQuB0D2) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Biel Beats](https://open.spotify.com/artist/3ROfsCFSDz3A1WvStAdFSL) | [Gadinho de Faz Tempo](https://open.spotify.com/album/3wVMk60P1vIA3Vx25MWuUZ) | 2:36 | 2022-03-08 | 2022-04-07 |

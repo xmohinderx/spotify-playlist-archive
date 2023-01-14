@@ -7511,6 +7511,28 @@
     },
     {
       "album": {
+        "name": "To The Sun",
+        "url": "https://open.spotify.com/album/2hJFARaXaTvURrbVJNMrjc"
+      },
+      "artists": [
+        {
+          "name": "The Hitmen",
+          "url": "https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "To The Sun",
+      "url": "https://open.spotify.com/track/0D4FgJNbKv34ru9sfM4O26"
+    },
+    {
+      "album": {
         "name": "Tocando El Sol",
         "url": "https://open.spotify.com/album/3wnBV8czggs8nlnfxOmqNm"
       },

@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-58 songs - 3 hr 42 min
+59 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Kotonoha](https://open.spotify.com/track/1ZSznxT0bJLPGbWTzzLGLz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 4:42 | 2022-11-30 |  |
 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2022-11-30 |  |
 | [Leo](https://open.spotify.com/track/1GsAU0aPUjNcYDbZErzVmI) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:07 | 2022-11-30 |  |
+| [Liner Voice+ Eve 「廻人」](https://open.spotify.com/episode/0q7eP2rIrff1NGcyg6NbLC) | [Liner Voice+](https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP) | [Liner Voice+](https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP) | 1:18:53 | 2023-01-08 |  |
 | [Mellow](https://open.spotify.com/track/3w5kFSmtOVC5XAifIwR9Xz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:46 | 2022-11-30 |  |
 | [Myojo Galactica](https://open.spotify.com/track/5GJP8H6Qe9K0EN8U6jp5cl) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Blue](https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt) | 3:08 | 2022-11-30 |  |
 | [Nonsence philosophy](https://open.spotify.com/track/2KqTXUP2FyUQ8MXDYKtjZ9) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Blue](https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt) | 3:25 | 2022-11-30 |  |

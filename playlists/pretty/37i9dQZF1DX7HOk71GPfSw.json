@@ -1,12 +1,12 @@
 {
   "description": "ft. 100 gecs ",
-  "num_followers": 360665,
+  "num_followers": 361097,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI3Nzg1NSwwMDAwMDAwMGYzMTJmMWM0NmIxMWI2MGJhNDExZmI1Mjc0MGRkZGQ1",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGYxMzQ2ZjI0MWUwMDI3MTIyNzJkYmQyNzI0N2E2MGUz",
   "tracks": [
     {
       "added_at": "2023-01-05 15:16:45",
@@ -29,40 +29,60 @@
       "url": "https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B"
     },
     {
-      "added_at": "2023-01-06 12:38:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Cdbaby<3 (Banoffee remix)",
-        "url": "https://open.spotify.com/album/6cZeW4bIQCZFRDTo3GI0na"
+        "name": "power!",
+        "url": "https://open.spotify.com/album/3H5az6rgrR5NPOH2mUMxtS"
       },
       "artists": [
         {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+          "name": "hirihiri",
+          "url": "https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1"
         },
         {
-          "name": "Banoffee",
-          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+          "name": "yaca",
+          "url": "https://open.spotify.com/artist/6bOI44vIWQPwNzm0ORkK8Q"
         }
       ],
-      "duration_ms": 204797,
-      "name": "Cdbaby<3 - Banoffee remix",
-      "url": "https://open.spotify.com/track/04bMZfjqFkS4ckb4olTQte"
+      "duration_ms": 133333,
+      "name": "power!",
+      "url": "https://open.spotify.com/track/0T1wyHfKH245JwPAbYuko7"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "hypochondriac",
-        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/50CVUrCt0tL8377L8r2pOC"
       },
       "artists": [
         {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+          "name": "Moritz",
+          "url": "https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ"
         }
       ],
-      "duration_ms": 209706,
-      "name": "5g",
-      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
+      "duration_ms": 140922,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Rave en la Galaxia",
+        "url": "https://open.spotify.com/album/2ybI44AIv7eQwC9lsxeY3M"
+      },
+      "artists": [
+        {
+          "name": "PauByChance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Rave en la Galaxia",
+      "url": "https://open.spotify.com/track/5JQXZCJi3QFW3s34tkUli0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -85,6 +105,22 @@
       "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "hypochondriac",
+        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "5g",
+      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
+    },
+    {
       "added_at": "2022-09-23 07:48:00",
       "album": {
         "name": "ABC (feat. Sophia Black)",
@@ -103,6 +139,26 @@
       "duration_ms": 152361,
       "name": "ABC (feat. Sophia Black)",
       "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+    },
+    {
+      "added_at": "2023-01-06 12:38:00",
+      "album": {
+        "name": "Cdbaby<3 (Banoffee remix)",
+        "url": "https://open.spotify.com/album/6cZeW4bIQCZFRDTo3GI0na"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        },
+        {
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+        }
+      ],
+      "duration_ms": 204797,
+      "name": "Cdbaby<3 - Banoffee remix",
+      "url": "https://open.spotify.com/track/04bMZfjqFkS4ckb4olTQte"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -135,6 +191,22 @@
       "duration_ms": 178039,
       "name": "me & me out of sync",
       "url": "https://open.spotify.com/track/5w7Ndx2cXYxsqjDxWVhCiL"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "The Fairy, the Wizard and the Moon",
+        "url": "https://open.spotify.com/album/6ATJCnlR0nXQxw3gvamMGc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Leahan",
+          "url": "https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg"
+        }
+      ],
+      "duration_ms": 142181,
+      "name": "The Fairy, the Wizard and the Moon",
+      "url": "https://open.spotify.com/track/6U4O5hDzujciV75r6OKOfa"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -253,6 +325,22 @@
       "url": "https://open.spotify.com/track/0wgtdC5fxpFgKd3f3nKshM"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "burbank house",
+        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "duration_ms": 101647,
+      "name": "burbank house",
+      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
+    },
+    {
       "added_at": "2022-12-09 05:25:00",
       "album": {
         "name": "Superstar : The Remixes",
@@ -335,6 +423,22 @@
       "duration_ms": 130615,
       "name": "FruitNinja.ipa",
       "url": "https://open.spotify.com/track/0Ukv1JUvVApUcleaxS8xvb"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Icedancer",
+        "url": "https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "Waster",
+      "url": "https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1"
     },
     {
       "added_at": "2022-11-25 05:02:00",
@@ -527,6 +631,22 @@
       "duration_ms": 146312,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5kF75nYsLqsSSVXrXVQg0u"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Visored Vitality",
+        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Butterfly Bankai",
+      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
     },
     {
       "added_at": "2022-12-09 05:25:00",

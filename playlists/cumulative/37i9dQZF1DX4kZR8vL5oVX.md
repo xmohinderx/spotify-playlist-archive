@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Aya Nakamura
 
-596 songs - 1 day 7 hr 4 min
+597 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [La vitesse](https://open.spotify.com/track/5qxjv2EiIxWtDEkMI2lRwK) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 4:00 | 2022-11-30 | 2023-01-04 |
 | [Lady Di](https://open.spotify.com/track/05FPZIZSQLOZHZ8gWlO4ud) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Mala](https://open.spotify.com/album/7hhhDSOFOuyV9lKk9FlWDE) | 2:32 | 2022-06-01 | 2022-07-06 |
 | [Lavender & Red Roses](https://open.spotify.com/track/0lPZumEzxNLBOklVCEyiA4) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lavender & Red Roses](https://open.spotify.com/album/3UIVM6d0j9G2hSi7uBp6d4) | 2:54 | 2022-04-05 | 2022-05-04 |
-| [Le bateau coule](https://open.spotify.com/track/2BJTC2ecrYNJlDicV2seY6) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/6pMBX4kMdtRQvaBJmOPHVj) | 3:19 | 2023-01-03 |  |
+| [Le bateau coule](https://open.spotify.com/track/2BJTC2ecrYNJlDicV2seY6) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/6pMBX4kMdtRQvaBJmOPHVj) | 3:19 | 2023-01-03 | 2023-01-14 |
+| [Le bateau coule](https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:19 | 2023-01-03 |  |
 | [Le désamour](https://open.spotify.com/track/1wfjnuat2Q1Cu26gAFUkkF) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Le désamour](https://open.spotify.com/album/2NVuH0yi3YEkBwUFMSnGj2) | 3:12 | 2022-11-08 | 2022-12-01 |
 | [Le goût de la fête](https://open.spotify.com/track/4fvU90Xl749WNKHpfw4X28) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Folle Machine](https://open.spotify.com/album/2fsg4GacNJr2f4PNfrvjJV) | 3:32 | 2022-05-03 | 2023-01-04 |
 | [Le goût de la fête](https://open.spotify.com/track/5qaoKOBA8sWuvC7gscB5bJ) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Le goût de la fête](https://open.spotify.com/album/437ttLlL3nerSGeSGY6NG5) | 3:32 | 2022-03-07 | 2022-04-06 |

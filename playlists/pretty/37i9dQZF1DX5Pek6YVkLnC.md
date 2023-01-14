@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: ROA, Omar Courtz, Bryant Myers, Dei V.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,299 likes - 54 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,387 likes - 54 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 5 | [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 |
 | 6 | [LOKERA](https://open.spotify.com/track/33cF8aTmGJ6TsEf23uqGIN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:17 |
 | 7 | [De Pasajero \(feat\. Kris Floyd, Chanell\)](https://open.spotify.com/track/55PITly4i7NIeKGavpWGnj) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [De Pasajero \(feat\. Kris Floyd, Chanell\)](https://open.spotify.com/album/6zAamQyFkO3KAx0m9k2OZO) | 3:06 |
-| 8 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
+| 8 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
 | 9 | [NO TE ENCOJONE](https://open.spotify.com/track/4jFkyz9YVo0k34Izf1ajbY) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [ANKHALINO](https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6) | 3:43 |
 | 10 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 |
 | 11 | [Hey Mor](https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hey Mor](https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l) | 3:16 |

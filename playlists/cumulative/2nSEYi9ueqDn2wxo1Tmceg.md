@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-312 songs - 20 hr 42 min
+313 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Rotten](https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:00 | 2022-06-08 | 2022-06-30 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-22 | 2022-08-11 |
 | [Sailboat](https://open.spotify.com/track/3A2HGVAzXJ2CTx84ZzKvn6) | [Martin Courtney](https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k) | [Sailboat](https://open.spotify.com/album/4aNcOIkxmGSpuVK01wQgD5) | 3:06 | 2022-06-08 | 2022-07-21 |
+| [Sam and Jeanie McGreagor](https://open.spotify.com/track/4GZxOH1P8EdjJyEZY0SfPo) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Great White Sea Eagle](https://open.spotify.com/album/3sE3Ya11uxwRYdeMQNkePS) | 1:55 | 2023-01-13 |  |
 | [Savage](https://open.spotify.com/track/4NbMXm5xAFuWMrUfVPwTV3) | [Au Suisse](https://open.spotify.com/artist/3XAL5NyYViYaYU8ZDaAEhX), [Morgan Geist](https://open.spotify.com/artist/3rheA53cr3B53FI9xbn4x7), [Kelley Polar](https://open.spotify.com/artist/5EF80OgEZjCLwEoii0RlEp) | [Savage](https://open.spotify.com/album/4oYK7yg0y8Kw1fHTF96NdS) | 3:57 | 2022-06-08 | 2022-07-14 |
 | [Seed](https://open.spotify.com/track/2taAXpP5azRBLZxOCJGC3U) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Heart Under](https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb) | 4:48 | 2022-06-08 | 2022-07-07 |
 | [Semantics](https://open.spotify.com/track/47LFVvwDd0GY899H9mycSd) | [TVAM](https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM) | [Semantics](https://open.spotify.com/album/3BJv9FNqFtqJUtpfAIS5M2) | 4:03 | 2022-09-21 | 2022-10-21 |

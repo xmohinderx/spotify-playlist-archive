@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 32 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 28 | [The Number No Good Things Can Come Of](https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:03 |
 | 29 | [cut and run](https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:10 |
 | 30 | [Jesus Glue](https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:07 |
-| 31 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
-| 32 | [Stars](https://open.spotify.com/track/5CMBnOjkRa3KwVDPISztEl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:59 |
+| 31 | [Stars](https://open.spotify.com/track/5CMBnOjkRa3KwVDPISztEl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:59 |
 
-Snapshot ID: `Mjc4OTIyMDgsMDAwMDAwMDAyOGYwNGQzOWZjNmNiYzRhNTg2MGRkYTkxNDQ0M2RjOA==`
+Snapshot ID: `Mjc4OTUyNTIsMDAwMDAwMDBhNDZjYWJiNzE2MWYzYTM5OWI2NmFkNWJlZTk2OWRmNQ==`

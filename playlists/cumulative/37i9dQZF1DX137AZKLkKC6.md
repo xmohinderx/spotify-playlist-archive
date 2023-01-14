@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
 
-98 songs - 5 hr 7 min
+99 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [La Calientahuevos](https://open.spotify.com/track/6ZeJi7RQrOGN8PVJ8J5vHj) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [La Calientahuevos](https://open.spotify.com/album/44ZBC1HGyDGvxvxi9jY8cg) | 2:18 | 2022-11-04 | 2022-12-17 |
 | [La Cita](https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Cita](https://open.spotify.com/album/1TpTCn8O48aX2O8UyOspLB) | 3:45 | 2022-08-12 |  |
 | [La Culpa](https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Culpa](https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb) | 2:37 | 2022-08-12 |  |
-| [La Peor](https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Peor](https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs) | 3:30 | 2022-08-12 |  |
+| [La Peor](https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Peor](https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs) | 3:30 | 2022-08-12 | 2023-01-14 |
+| [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 | 2023-01-13 |  |
 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 | 2022-08-26 | 2022-09-17 |
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-12-02 |  |
 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 | 2022-08-12 |  |
